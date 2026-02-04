@@ -9,7 +9,6 @@ import time
 import csv
 import random
 from pathlib import Path
-from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import threading
 
@@ -30,6 +29,10 @@ PROJECT_ROOT = SCRIPT_DIR.parent
 RAW_DIR = PROJECT_ROOT / "jobs" / "raw"
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 FAILED_FILE = PROJECT_ROOT / "jobs" / "queue" / "failed_urls.txt"
+
+# Thread-safe set for tracking existing job IDs
+existing_files = {f.stem.split('_')[-1] for f in RAW_DIR.glob("*.html")}
+existing_lock = threading.Lock()
 
 
 def get_proxy():
@@ -62,18 +65,38 @@ def fetch_html(url, timeout=60, retries=3):
 # Thread-safe counter and lock
 counter_lock = threading.Lock()
 success_count = 0
+skipped_count = 0
 failed_count = 0
+
+
+def get_job_id(url):
+    """Extract job ID from URL."""
+    from urllib.parse import urlparse
+    parsed = urlparse(url)
+    return parsed.path.split('/')[-1] if parsed.path.split('/')[-1] else 'unknown'
 
 
 def process_url(idx, url, total):
     """Process a single URL - fetch and save HTML."""
-    global success_count, failed_count
+    global success_count, skipped_count, failed_count
+
+    job_id = get_job_id(url)
+
+    # Check if already downloaded
+    with existing_lock:
+        if job_id in existing_files:
+            global skipped_count
+            skipped_count += 1
+            print(f"  [{idx}/{total}] SKIP: {job_id}")
+            return "skip"
 
     html, error = fetch_html(url)
 
     with counter_lock:
         if html:
             filename = save_html(url, html)
+            with existing_lock:
+                existing_files.add(job_id)
             success_count += 1
             print(f"  [{idx}/{total}] {filename}")
             return True
@@ -91,8 +114,7 @@ def save_html(url, html):
     soup = BeautifulSoup(html, 'html.parser')
 
     # Get job ID from URL
-    parsed = urlparse(url)
-    job_id = parsed.path.split('/')[-1] if parsed.path.split('/')[-1] else 'unknown'
+    job_id = get_job_id(url)
 
     # Get title for filename
     title_tag = soup.find('h1')
@@ -106,8 +128,8 @@ def save_html(url, html):
     title = title.replace(' ', '_')
     title = ''.join(c if c.isalnum() or c in ('_', '-') else '' for c in title)
 
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"{title}_{job_id}_{timestamp}.html"
+    # No timestamp - just {title}_{job_id}.html
+    filename = f"{title}_{job_id}.html"
 
     output_file = RAW_DIR / filename
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -122,15 +144,15 @@ def main():
     parser.add_argument('--limit', type=int, help='Limit number of URLs to download (for testing)')
     args = parser.parse_args()
 
-    global success_count, failed_count
+    global success_count, skipped_count, failed_count
 
     print("="*60)
     print("Simple HTTP Job Scraper (no Playwright)")
     print("8-Threaded Download")
     print("="*60)
 
-    # Read URLs from CSV
-    csv_file = PROJECT_ROOT / "jobs" / "all_jobs.csv"
+    # Read URLs from deduplicated CSV
+    csv_file = PROJECT_ROOT / "jobs" / "all_jobs_dedup.csv"
     if not csv_file.exists():
         print(f"ERROR: {csv_file} not found!")
         return
@@ -143,7 +165,8 @@ def main():
         urls = urls[:args.limit]
         print(f"\nTEST MODE: Limited to {args.limit} URLs")
 
-    print(f"\nFound {len(urls)} URLs to download")
+    print(f"\nFound {len(urls)} URLs in deduplicated CSV")
+    print(f"Already downloaded: {len(existing_files)}")
     print(f"Threads: 8")
     print(f"Retries per URL: 3")
     print(f"Output: {RAW_DIR}")
@@ -160,7 +183,7 @@ def main():
 
         for future in as_completed(futures):
             result = future.result()
-            if result is not True:  # Failed
+            if result is not True and result != "skip":  # Failed
                 failed_urls.append(result[1] if isinstance(result, tuple) else result)
 
     # Save failed URLs
@@ -171,7 +194,7 @@ def main():
         print(f"\n{len(failed_urls)} URLs failed - saved to {FAILED_FILE}")
 
     print("\n" + "="*60)
-    print(f"COMPLETE: {success_count} downloaded, {failed_count} failed")
+    print(f"COMPLETE: {success_count} downloaded, {skipped_count} skipped, {failed_count} failed")
     print(f"Files saved to: {RAW_DIR}")
     print("="*60)
 
