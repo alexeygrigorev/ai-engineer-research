@@ -44,3 +44,4 @@ jobs/*.json
 jobs/*.html
 **/*.pkl
 **/*.parquet
+.tmp/

@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-Multi-threaded job scraper - downloads raw HTML from Built In job URLs.
-Downloads all jobs from all_jobs.csv in parallel with retries.
+Simple HTTP-based job scraper for Built In - no Playwright needed.
+Uses requests library instead of browser automation.
 """
 import os
 import time
-import asyncio
 import csv
 import random
 from pathlib import Path
 from datetime import datetime
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from playwright.async_api import async_playwright
+
+import requests
+from bs4 import BeautifulSoup
 
 from dotenv import load_dotenv
 
@@ -24,77 +24,58 @@ OXYLABS_PASSWORD = os.getenv("OXYLABS_PASSWORD")
 # Paths
 SCRIPT_DIR = Path(__file__).parent
 PROJECT_ROOT = SCRIPT_DIR.parent
-QUEUE_DIR = PROJECT_ROOT / "jobs" / "queue"
 RAW_DIR = PROJECT_ROOT / "jobs" / "raw"
 RAW_DIR.mkdir(parents=True, exist_ok=True)
+FAILED_FILE = PROJECT_ROOT / "jobs" / "queue" / "failed_urls.txt"
 
-FAILED_FILE = QUEUE_DIR / "failed_urls.txt"
 
-
-def get_proxy_config():
-    """Generate proxy config with unique session ID."""
+def get_proxy():
+    """Get proxy configuration for this request."""
     return {
-        "server": f"http://{OXYLABS_ENDPOINT}",
-        "username": f"customer-{OXYLABS_USER}-sessid-{int(time.time())}-{random.randint(1000,9999)}-sesstime-30",
-        "password": OXYLABS_PASSWORD,
+        "http": f"http://{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
+        "https": f"http://{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
     }
 
 
-async def fetch_html(url, retries=3):
+def fetch_html(url, timeout=60, retries=3):
     """Fetch HTML from a single URL with retries."""
     for attempt in range(retries):
         try:
-            proxy = get_proxy_config()
-
-            async with async_playwright() as p:
-                browser = await p.chromium.launch(
-                    headless=True,
-                    proxy=proxy,
-                    args=['--disable-blink-features=AutomationControlled']
-                )
-
-                context = await browser.new_context(
-                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                    viewport={"width": 1920, "height": 1080}
-                )
-
-                page = await context.new_page()
-                await page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                await asyncio.sleep(2)
-
-                html = await page.content()
-                await browser.close()
-
-                return html, None
-
+            response = requests.get(
+                url,
+                proxies=get_proxy(),
+                timeout=timeout,
+                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+            )
+            response.raise_for_status()
+            return response.text, None
         except Exception as e:
             if attempt < retries - 1:
-                await asyncio.sleep(5 * (attempt + 1))  # Exponential backoff
+                time.sleep(5 * (attempt + 1))
                 continue
             return None, str(e)
 
 
 def save_html(url, html):
     """Save HTML to file."""
-    # Generate filename from URL
     from urllib.parse import urlparse
-    parsed = urlparse(url)
-    # Extract job ID from path
-    path_parts = parsed.path.split('/')
-    job_id = path_parts[-1] if path_parts[-1] else 'unknown'
-
-    # Try to get title from HTML for better filename
     from bs4 import BeautifulSoup
+
     soup = BeautifulSoup(html, 'html.parser')
+
+    # Get job ID from URL
+    parsed = urlparse(url)
+    job_id = parsed.path.split('/')[-1] if parsed.path.split('/')[-1] else 'unknown'
+
+    # Get title for filename
     title_tag = soup.find('h1')
     if title_tag:
         title = title_tag.get_text().strip()[:30]
         title = ''.join(c if c.isalnum() or c in (' ', '-', '_') else '_' for c in title)
-        title = title.strip('_')
+        title = title.strip('_').strip('-')
     else:
         title = f"job_{job_id}"
 
-    # Sanitize
     title = title.replace(' ', '_')
     title = ''.join(c if c.isalnum() or c in ('_', '-') else '' for c in title)
 
@@ -108,30 +89,15 @@ def save_html(url, html):
     return filename
 
 
-def process_url(url):
-    """Process a single URL - fetch and save HTML."""
-    try:
-        html, error = asyncio.run(fetch_html(url, retries=3))
-
-        if html:
-            filename = save_html(url, html)
-            return {'url': url, 'status': 'success', 'file': filename}
-        else:
-            return {'url': url, 'status': 'failed', 'error': error}
-    except Exception as e:
-        return {'url': url, 'status': 'failed', 'error': str(e)}
-
-
 def main():
     print("="*60)
-    print("Multi-threaded Built In Job HTML Downloader")
+    print("Simple HTTP Job Scraper (no Playwright)")
     print("="*60)
 
     # Read URLs from CSV
     csv_file = PROJECT_ROOT / "jobs" / "all_jobs.csv"
     if not csv_file.exists():
         print(f"ERROR: {csv_file} not found!")
-        print("Run combine_csv.py first to generate the CSV.")
         return
 
     with open(csv_file, 'r', encoding='utf-8') as f:
@@ -139,7 +105,6 @@ def main():
         urls = [row['link'] for row in reader if row.get('link')]
 
     print(f"\nFound {len(urls)} URLs to download")
-    print(f"Threads: 8")
     print(f"Retries per URL: 3")
     print(f"Output: {RAW_DIR}")
     print(f"\nStarting download...\n")
@@ -148,33 +113,25 @@ def main():
     failed_count = 0
     failed_urls = []
 
-    # Process with 8 threads
-    with ThreadPoolExecutor(max_workers=8) as executor:
-        futures = {executor.submit(process_url, url): url for url in urls}
+    for i, url in enumerate(urls, 1):
+        html, error = fetch_html(url)
 
-        for future in as_completed(futures):
-            url = futures[future]
-            try:
-                result = future.result(timeout=120)  # 2 min timeout per URL
+        if html:
+            filename = save_html(url, html)
+            success_count += 1
+            print(f"  [{i}/{len(urls)}] {filename}")
+        else:
+            failed_count += 1
+            failed_urls.append(f"{url}|{error}")
+            print(f"  [{i}/{len(urls)}] Failed: {error[:50] if error else 'Unknown'}")
 
-                if result['status'] == 'success':
-                    success_count += 1
-                    print(f"  [{success_count}/{len(urls)}] ✓ {result['file']}")
-                else:
-                    failed_count += 1
-                    failed_urls.append(result)
-                    print(f"  [{success_count+failed_count}/{len(urls)}] ✗ {result.get('error', 'Unknown error')[:50]}")
-
-            except Exception as e:
-                failed_count += 1
-                failed_urls.append({'url': url, 'error': str(e)})
-                print(f"  [{success_count+failed_count}/{len(urls)}] ✗ Exception: {str(e)[:50]}")
+        # Small delay between requests
+        time.sleep(0.5)
 
     # Save failed URLs
     if failed_urls:
         with open(FAILED_FILE, 'w', encoding='utf-8') as f:
-            for item in failed_urls:
-                f.write(f"{item['url']}|{item.get('error', 'unknown')}\n")
+            f.write('\n'.join(failed_urls))
         print(f"\n{len(failed_urls)} URLs failed - saved to {FAILED_FILE}")
 
     print("\n" + "="*60)
