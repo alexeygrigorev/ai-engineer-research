@@ -129,6 +129,7 @@ def extract_job_data(html_file):
     soup = BeautifulSoup(html_content, 'html.parser')
 
     job = {
+        'job_id': '',
         'title': '',
         'company': '',
         'location': '',
@@ -210,6 +211,12 @@ def extract_job_data(html_file):
         if canonical:
             job['url'] = canonical.get('href', '')
 
+    # Extract job_id from URL
+    if job['url']:
+        from urllib.parse import urlparse
+        parsed = urlparse(job['url'])
+        job['job_id'] = parsed.path.split('/')[-1]
+
     # Additional fields
     html_text = soup.get_text()
 
@@ -232,6 +239,7 @@ def sanitize_filename(name):
 def write_yaml_file(job, yaml_file):
     """Write job data to YAML file, skipping empty fields."""
     with open(yaml_file, 'w', encoding='utf-8') as f:
+        f.write(f"job_id: {job['job_id']}\n")
         f.write(f"title: {job['title']}\n")
         f.write(f"company: {job['company']}\n")
         f.write(f"location: {job['location']}\n")
