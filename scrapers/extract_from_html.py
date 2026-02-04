@@ -94,42 +94,88 @@ def months_to_level(months):
 
 
 def html_to_markdown(html_content):
-    """Convert HTML description to clean Markdown."""
+    """Convert HTML description to Markdown using BeautifulSoup."""
     if not html_content:
         return ""
 
-    text = html_content
-    text = re.sub(r'<li[^>]*>(.*?)</li>', r'\n- \1\n', text, flags=re.DOTALL)
-    text = re.sub(r'<ul[^>]*>|</ul>|<ol[^>]*>|</ol>', '', text)
-    text = re.sub(r'<h([1-6])[^>]*>(.*?)</h\1>', r'\n\n\2\n\n', text, flags=re.DOTALL)
-    text = re.sub(r'<strong[^>]*>(.*?)</strong>', r'\1', text, flags=re.DOTALL)
-    text = re.sub(r'<b[^>]*>(.*?)</b>', r'\1', text, flags=re.DOTALL)
-    text = re.sub(r'<em[^>]*>(.*?)</em>', r'\1', text, flags=re.DOTALL)
-    text = re.sub(r'<i[^>]*>(.*?)</i>', r'\1', text, flags=re.DOTALL)
-    text = re.sub(r'<a[^>]+href="[^"]+"[^>]*>(.*?)</a>', r'\1', text, flags=re.DOTALL)
-    text = re.sub(r'<p[^>]*>(.*?)</p>', r'\n\n\1\n', text, flags=re.DOTALL)
-    text = re.sub(r'<br\s*/?>', '\n', text)
-    text = re.sub(r'<div[^>]*>|</div>', '\n', text)
-    text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'&nbsp;', ' ', text)
-    text = re.sub(r'&amp;', '&', text)
-    text = re.sub(r'&lt;', '<', text)
-    text = re.sub(r'&gt;', '>', text)
-    # Collapse 3+ newlines to 2 (single blank line between paragraphs)
-    text = re.sub(r'\n\n\n+', '\n\n', text)
-    # Strip leading/trailing space from each line
-    lines = [line.strip() for line in text.split('\n')]
-    text = '\n'.join(lines)
+    from bs4 import BeautifulSoup
+
+    soup = BeautifulSoup(html_content, 'html.parser')
+
+    def process_list(ul, indent=0):
+        """Process a list (ul or ol) and return markdown string."""
+        prefix = '  ' * indent
+        items = []
+        for li in ul.find_all('li', recursive=False):
+            # Find nested list if any
+            nested_list = li.find('ul') or li.find('ol')
+
+            # Get text before nested list
+            if nested_list:
+                # Extract all nodes before the nested list
+                label_nodes = []
+                for child in li.children:
+                    if child == nested_list:
+                        break
+                    label_nodes.append(child)
+
+                # Build label from nodes
+                label = ''
+                for node in label_nodes:
+                    if isinstance(node, str):
+                        label += node.strip() + ' '
+                    elif node.name not in ['ul', 'ol']:
+                        label += node.get_text().strip() + ' '
+            else:
+                # No nested list, get all text
+                label = li.get_text().strip()
+
+            label = label.strip()
+            # Fix spacing before colons
+            label = re.sub(r'\s+:', ':', label)
+            if label:
+                items.append(f"{prefix}- {label}")
+
+            if nested_list:
+                nested_md = process_list(nested_list, indent + 1)
+                items.append(nested_md)
+
+        return '\n'.join(items)
+
+    # Process all lists - build markdown strings
+    list_replacements = []
+    for ul in soup.find_all('ul'):
+        md_list = process_list(ul)
+        list_replacements.append((ul, '\n\n' + md_list + '\n\n'))
+
+    for ol in soup.find_all('ol'):
+        md_list = process_list(ol)
+        list_replacements.append((ol, '\n\n' + md_list + '\n\n'))
+
+    # Now do replacements
+    for element, replacement in list_replacements:
+        element.replace_with(replacement)
+
+    # Remove formatting tags
+    for tag in soup.find_all(['strong', 'b', 'em', 'i', 'a']):
+        tag.unwrap()
+
+    # Convert block elements
+    for tag in soup.find_all(['p', 'div', 'br']):
+        tag.insert_before('\n')
+        tag.unwrap()
+
+    # Get text
+    text = soup.get_text()
+
+    # Clean up
+    text = re.sub(r'\n\n\n+', '\n\n', text)  # Collapse excessive newlines
+    text = re.sub(r'[ \t]+', ' ', text)     # Collapse spaces
     text = text.replace('\xa0', ' ')
     text = text.replace('\u200b', '')
-    text = re.sub(r'[ \t]+', ' ', text)
-    text = text.replace('\xa0', ' ')
-    text = text.replace('\u200b', '')
-    text = re.sub(r'&nbsp;', ' ', text)
-    text = re.sub(r'&amp;', '&', text)
-    text = re.sub(r'&lt;', '<', text)
-    text = re.sub(r'&gt;', '>', text)
-    return text.strip()
+    text = text.strip()
+
+    return text
 
 
 def extract_job_data(html_file):
