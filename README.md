@@ -22,7 +22,10 @@ This repository contains research on AI engineering interview processes, with a 
 Job scraping scripts for various platforms (Built In, Y Combinator, etc.)
 
 ### [`jobs/`](./jobs/)
-Scraped job postings data
+- **`all_jobs.csv`** - 1,416 AI Engineer jobs from Built In (combined)
+- **`builtin/`** - City-specific scraped data
+- **`raw/`** - Raw HTML files
+- **`extracted/`** - Jobs extracted to YAML
 
 ### [`research/`](./research/)
 Compiled research notes and findings
@@ -42,6 +45,45 @@ Compiled research notes and findings
 | FastAPI | 40%+ |
 | MongoDB Atlas | 30%+ |
 | Streamlit | 25%+ |
+
+---
+
+## Job Scraper Setup
+
+### Multi-threaded Built In Job Scraper (with Oxylabs proxy)
+
+#### Setup on GitHub Codespace
+
+1. **Create Codespace**: https://github.com/alexeygrigorev/ai-engineer-research → Code → Codespaces → Create
+
+2. **Add .env file** (via SSH):
+```bash
+gh codespace ssh
+cat > .env << 'EOF'
+OXYLABS_ENDPOINT='pr.oxylabs.io:7777'
+OXYLABS_USER='your_user'
+OXYLABS_PASSWORD='your_password'
+EOF
+```
+
+3. **Install dependencies**:
+```bash
+uv sync
+```
+
+#### Run Scraper
+
+```bash
+# Download all 1,416 job HTMLs (8 threads, 3 retries)
+uv run python scrapers/download_all_html.py
+
+# Extract to YAML
+uv run python scrapers/extract_from_html.py --all
+```
+
+Output: `jobs/extracted/*.yaml` with fields: title, company, location, skills, description, etc.
+
+---
 
 ## Contributing
 
