@@ -1,0 +1,158 @@
+title: Senior AI Engineer (Libra - Legal AI Assistant) (m/f/d)
+company: Wolters Kluwer
+location: Berlin, DEU
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - Ai Developer Tools
+  - Fastapi
+  - Langfuse
+  - Large Language Models
+  - Python
+  - Typescript
+company_size: 18,996 Employees
+compensation: 
+description: |
+  **Why Libra**
+  
+  At Libra by Wolters Kluwer, we're transforming how legal professionals work. Our AI platform combines deep legal reasoning with cutting-edge generative technology to help lawyers research, draft, and deliver legal work faster and smarter.
+  
+  In just over a year, we became one of Europe's fastest-growing legal AI companies—and in late 2025, we joined Wolters Kluwer, the global leader in legal information services. Together, we're combining Libra's AI capabilities with Wolters Kluwer's authoritative legal content to build the most powerful AI workspace for lawyers in Europe. We've already launched in the Netherlands and are expanding across new markets with full localization and deep local content integrations.
+  
+  This is a unique opportunity to shape the next generation of legal AI products—now at true European scale.
+  
+  **Role Overview**
+  
+  As an **Senior** **AI Engineer** at Libra, you'll play a central role in developing and improving our core product. You'll build end-to-end product features that leverage the most advanced LLMs available via API—from chat-based interfaces to complex behind-the-scenes integrations. You'll work closely with our Product, Legal Engineering, and Design teams to turn user needs into elegant, performant, and secure AI-powered experiences used daily by lawyers across Europe.
+  
+  This is a high-ownership, high-impact role for engineers who thrive in fast-moving environments and want to shape how AI is applied to real-world knowledge work.
+  
+  **What You'll Do**
+  
+  - 
+  
+  Design, implement, and maintain AI-driven product features end-to-end using LLM APIs.
+  
+  - 
+  
+  Develop both visible chat-based UX flows and non-visible AI integrations that power Libra's core functionality.
+  
+  - 
+  
+  Build and optimize **RAG systems**, including document parsing, semantic chunking, and retrieval pipelines.
+  
+  - 
+  
+  Build scalable, maintainable backend systems using FastAPI and modern Python tooling.
+  
+  - 
+  
+  Design and implement **agent orchestration systems** for complex, multi-step legal workflows.
+  
+  - 
+  
+  Build infrastructure for **evaluations and benchmarking**, including continuous monitoring and alerting to ensure quality across all AI-powered features (e.g., using Langfuse).
+  
+  - 
+  
+  Ensure high security, reliability, and data privacy standards across all systems.
+  
+  - 
+  
+  Collaborate closely with Product and Legal Engineering to rapidly prototype, test, and refine new AI use cases.
+  
+  - 
+  
+  Stay ahead of the curve by exploring new models, tools, and techniques—including AI coding agents like Cursor and Claude Code.
+  
+  - 
+  
+  Contribute to a pragmatic, execution-focused engineering culture where simplicity and speed matter.
+  
+  **What You Bring**
+  
+  - 
+  
+  Deep experience building products that integrate large language models (LLMs) via APIs.
+  
+  - 
+  
+  Proficiency with FastAPI, Python, and common data science packages.
+  
+  - 
+  
+  Strong understanding of software engineering and security best practices.
+  
+  - 
+  
+  Experience with modern AI developer tools (e.g., Cursor, Claude Code, Copilot, etc.).
+  
+  - 
+  
+  Bonus: experience with TypeScript and front-end development.
+  
+  - 
+  
+  Excellent communication skills in English; German fluency is a plus.
+  
+  - 
+  
+  You have an entrepreneurial mindset and a deep sense of urgency in achieving your goals.
+  
+  - 
+  
+  You're a self-starter who enjoys autonomy but thrives in a collaborative team.
+  
+  - 
+  
+  You take a pragmatic approach to problem-solving—focused on impact, not hype.
+  
+  - 
+  
+  You can balance trade-offs between fast, simple solutions and long-term scalability.
+  
+  - 
+  
+  You want to build products that make AI truly useful for real professionals.
+  
+  **What we offer**
+  
+  - 
+  
+  **Permanent employment from day one**
+  
+  - 
+  
+  **Remote work & flexibility**: Work remotely up to 3 days per week (home office) (= 8 days a month in the office) with flexible working hours
+  
+  - 
+  
+  **Work abroad flexibly**: Work from anywhere within the EU for up to 20 days within a twelve-month period
+  
+  - 
+  
+  **Rest & time off**: 26 vacation days
+  
+  - 
+  
+  **Show your commitment**: 1 additional day off per year for your volunteer work (Volunteer Day)
+  
+  - 
+  
+  **Support for development**: E-learning via LinkedIn, online language training with goFluent, and other training and development opportunities
+  
+  - 
+  
+  **Modern on-site working**: Attractive office in Berlin
+  
+  **Our Interview Practices**
+  
+  *To maintain a fair and genuine hiring process, we kindly ask that all candidates participate in interviews without the assistance of AI tools or external prompts. Our interview process is designed to assess your individual skills, experiences, and communication style. We value authenticity and want to ensure we’re getting to know you—not a digital assistant. To help maintain this integrity, we ask to remove virtual backgrounds and include in-person interviews in our hiring process. Please note that use of AI-generated responses or third-party support during interviews will be grounds for disqualification from the recruitment process.*
+  
+  *Applicants may be required to appear onsite at a Wolters Kluwer office as part of the recruitment process.*
+industries:
+  - Information Technology
+  - Software
+posted_date: 2026-02-04
+url: https://builtin.com/job/senior-ai-engineer-libra-legal-ai-assistant/8276358
+source: Built In

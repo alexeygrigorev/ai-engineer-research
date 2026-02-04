@@ -1,0 +1,112 @@
+title: AI Engineer
+company: Flank
+location: Berlin, DEU
+work_type: FULL_TIME
+level: Expert/Leader
+skills:
+  - AWS
+  - Azure
+  - Docker
+  - GCP
+  - Go
+  - Hugging Face
+  - Kubernetes
+  - Python
+  - PyTorch
+  - TensorFlow
+company_size: 36 Employees
+compensation: 
+description: |
+  Legal teams are drowning in repetitive work. The rest of the business is stuck waiting. Flank is changing that.
+  
+  We are operating at the cutting edge of AI development, building the future of autonomous agents for the enterprise. We have raised a $10M Series A led by Insight Partners (US), with continued support from Gradient Ventures (Google’s AI fund), HV Capital, and Speedinvest (EU).
+  
+  This isn't a "nice-to-have" tool for small startups. We are already deploying Flank agents to multinational enterprises with 100,000+ employees, completely automating workflows that were previously impossible to solve. Our agents work 24/7, operating under supervision and within guardrails customers define, and routing only exceptions to legal for review. Every request and action is transparent & auditable, ensuring customers have full visibility over their automated workforce.
+  
+  We’re seeking an experienced **AI Engineer **to drive our applied AI initiatives.
+  
+  We’re a fast-moving start-up where you’ll work closely with product, design, and commercial teams to **ship real AI into production** — not just research experiments.
+  
+  You will be tasked with leveraging emerging technologies and a team of legal experts to improve the intelligence and autonomy of our agents.
+  
+  This might start with building an evals framework in collaboration with our team of lawyers, it might spawn a hypervisor that governs every step of our agentic system and that “knows what good looks like”, and it might end with us building the first alignment program for legal AI systems.
+  
+  **What you’ll be doing:**
+  
+  - 
+  
+  **Drive Applied Research:** Drive applied research into LLMs and agentic systems, rapidly prototyping, validating, and shipping production-ready capabilities.
+  
+  - 
+  
+  **Stay Ahead of the Curve:** Stay hands-on with the latest advances in foundation models, LLM-as-a-judge, agentic frameworks & tools (e.g. MCP), and move fast to bring them into the product.
+  
+  **Who you are:**
+  
+  - 
+  
+  **Demonstrated Experience:** A strong track record of leading and delivering cutting-edge AI initiatives that have driven meaningful product and business impact. Hands-on experience building and deploying ML/AI products is essential.
+  
+  - 
+  
+  **Technical Expertise:**
+  
+  Strong programming skills in **Python** (and familiarity with TypeScript/Go a plus).
+  
+  - 
+  
+  Experience with **deep learning frameworks** (PyTorch, TensorFlow, Hugging Face).
+  
+  - 
+  
+  Hands-on experience deploying ML/LLM models in **production environments**.
+  
+  - 
+  
+  Solid understanding of **data pipelines, APIs, and distributed systems**.
+  
+  - 
+  
+  Knowledge of **prompt engineering, RAG, fine-tuning, and embeddings** for LLMs.
+  
+  - 
+  
+  Experience with cloud platforms (AWS, GCP, or Azure) and containerization (Docker, Kubernetes
+  
+  - 
+  
+  **Thought Leadership:** Ph.D. or Master’s in Computer Science, Machine Learning, or a related field from a leading academic institution.
+  
+  - 
+  
+  **Cross-Functional Collaboration:** Proven ability to build strong partnerships across product, engineering, and research teams to drive innovation.
+  
+  **What’s In It for You**
+  
+  - 
+  
+  **Innovative Work:** Be part of a team making bold bets to create a new paradigm in AI-enhanced legal services.
+  
+  - 
+  
+  **High Standards Culture:** Join a team that demands excellence and accountability through direct and candid communication.
+  
+  - 
+  
+  **Empowered Environment:** Operate in a high-agency culture where you can lead yourself and make a real impact.
+  
+  - 
+  
+  **Global Team:** Remote-first, collaborate with a diverse, talented team across the globe.
+  
+  - 
+  
+  **Competitive, Benchmarked Salary**
+industries:
+  - Artificial Intelligence
+  - Legal Tech
+  - Software
+  - Generative AI
+posted_date: 2026-01-22
+url: https://builtin.com/job/ai-engineer/7132625
+source: Built In

@@ -9,5 +9,6 @@ dependencies = [
     "lxml>=6.0.2",
     "playwright>=1.58.0",
     "python-dotenv>=1.2.1",
+    "pyyaml>=6.0.3",
     "requests>=2.32.5",
 ]
