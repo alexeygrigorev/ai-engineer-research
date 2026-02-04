@@ -286,9 +286,10 @@ def main():
         job = extract_job_data(html_file)
 
         # Generate filename
+        job_id = job.get('job_id', 'unknown')
         company = sanitize_filename(job['company'])
         title_slug = sanitize_filename(job['title'][:50])
-        yaml_file = OUTPUT_DIR / f"{company}_{title_slug}.yaml"
+        yaml_file = OUTPUT_DIR / f"{job_id}_{company}_{title_slug}.yaml"
 
         # Write YAML (skips empty fields)
         write_yaml_file(job, yaml_file)
@@ -307,9 +308,10 @@ def main():
         for html_file in html_files:
             job = extract_job_data(html_file)
 
+            job_id = job.get('job_id', 'unknown')
             company = sanitize_filename(job['company']) if job['company'] else 'Unknown'
             title_slug = sanitize_filename(job['title'][:50])
-            yaml_file = OUTPUT_DIR / f"{company}_{title_slug}.yaml"
+            yaml_file = OUTPUT_DIR / f"{job_id}_{company}_{title_slug}.yaml"
 
             # Write YAML (skips empty fields)
             write_yaml_file(job, yaml_file)
