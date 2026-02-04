@@ -1,0 +1,13 @@
+[project]
+name = "ai-engineer-research"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "html5lib>=1.1",
+    "lxml>=6.0.2",
+    "playwright>=1.58.0",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]
