@@ -35,8 +35,8 @@ FAILED_FILE = PROJECT_ROOT / "jobs" / "queue" / "failed_urls.txt"
 def get_proxy():
     """Get proxy configuration for this request."""
     return {
-        "http": f"http://{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
-        "https": f"http://{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
+        "http": f"http://customer-{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
+        "https": f"http://customer-{OXYLABS_USER}:{OXYLABS_PASSWORD}@{OXYLABS_ENDPOINT}",
     }
 
 
