@@ -2,15 +2,6 @@ company:
   name: Abnormal Security
   stage: Series C
   focus: AI-powered email and SaaS cybersecurity
-  use_cases:
-  - Cloud Email Security using behavioral AI to detect and block sophisticated email
-    attacks
-  - AI Security Agents for automated threat detection and response in SaaS environments
-  - SaaS Security protection across Microsoft 365, Google Workspace, Slack, and Okta
-    platforms
-  - Behavioral analysis to identify false positives and adjust threat detection parameters
-  - Threat investigation and forensic analysis of potential security incidents
-  - API integration for custom security workflows and SIEM/SOAR platforms
 position:
   title: Technical Support Engineer – AI Cybersecurity Platform
   ai_type:

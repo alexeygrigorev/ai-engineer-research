@@ -2,14 +2,6 @@ company:
   name: GEICO
   stage: Public
   focus: Insurance provider with AI/ML platform
-  use_cases:
-  - Large Language Model training and fine-tuning at scale for insurance applications
-  - LLM inference serving with optimization for low latency and high throughput
-  - Feature stores for ML model training and inference pipelines
-  - GPU compute orchestration and resource optimization for ML workloads
-  - Integration of AI/ML capabilities into customer-facing insurance applications
-  - Research infrastructure for experimenting with cutting-edge LLM techniques and
-    architectures
 position:
   title: Staff Software Engineer - AI/ML Platform
   ai_type:

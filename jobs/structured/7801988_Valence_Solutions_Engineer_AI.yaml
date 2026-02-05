@@ -2,13 +2,6 @@ company:
   name: Valence
   stage: Series B
   focus: AI-native coaching platform for enterprise
-  use_cases:
-  - Personalized AI coaching for enterprise leaders and employees
-  - Enterprise workflow implementation with tailored prompting and knowledge retrieval
-  - Learning and development transformation through AI-powered personalization
-  - Complex enterprise AI deployments across healthcare, financial services, manufacturing,
-    and technology
-  - Organizational culture adaptation through individual goal-based AI guidance
 position:
   title: Solutions Engineer, AI
   ai_type:

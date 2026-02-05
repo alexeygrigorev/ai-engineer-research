@@ -2,12 +2,6 @@ company:
   name: Clear Street
   stage: null
   focus: Cloud-native unified capital markets trading platform
-  use_cases:
-  - AI-powered trading platform features and workflows
-  - Knowledge retrieval and RAG systems for trading intelligence
-  - Model orchestration with guardrails for regulatory compliance and quality control
-  - AI tooling and SDKs to enable AI development across the trading platform
-  - Model evaluation and monitoring systems for production AI workflows
 position:
   title: Senior Software Engineer - Studio - Java, AI
   ai_type:

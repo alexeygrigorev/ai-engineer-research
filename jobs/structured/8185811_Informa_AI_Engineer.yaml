@@ -4,14 +4,6 @@ company:
   focus: |-
     Live events and data-driven services for specialist
     knowledge sharing
-  use_cases:
-  - Natural Language Processing solutions for document and content analysis
-  - Retrieval-Augmented Generation workflows for knowledge extraction from diverse
-    content sources
-  - Multi-modal Generative AI applications handling text, audio, and video content
-  - AI-powered tools for live and on-demand event services
-  - Data-driven services connecting specialists with knowledge
-  - Operational excellence through automated AI solutions across business teams
 position:
   title: AI Engineer
   ai_type:

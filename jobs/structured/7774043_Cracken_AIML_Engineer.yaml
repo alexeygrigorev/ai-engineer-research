@@ -2,12 +2,6 @@ company:
   name: Cracken
   stage: Series B
   focus: Agentic AI copilot for cybersecurity
-  use_cases:
-  - Agentic AI copilot for scaling cyber assessments
-  - Secure-code understanding and generation for enterprises and governments
-  - Multi-agent AI systems with human-in-the-loop for cybersecurity
-  - RAG-based code analysis and security assessment
-  - Automated security analysis for critical infrastructure
 position:
   title: AI/ML Engineer
   ai_type:

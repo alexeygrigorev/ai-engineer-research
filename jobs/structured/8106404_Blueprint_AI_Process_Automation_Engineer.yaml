@@ -4,13 +4,6 @@ company:
   focus: |-
     Technology solutions firm helping organizations unlock value
     through cutting-edge technology and business transformation
-  use_cases:
-  - Intelligent process automation tools to reduce operational friction across cross-functional
-    teams
-  - AI-driven process optimization to identify and eliminate manual toil
-  - Custom integrations and workflows using automation frameworks to streamline operations
-  - Internal tooling that enhances team productivity in hybrid work environments
-  - AI-assisted automation workflows for enterprise collaboration ecosystems
 position:
   title: AI Process Automation Engineer
   ai_type:

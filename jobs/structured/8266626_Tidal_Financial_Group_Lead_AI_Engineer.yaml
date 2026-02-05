@@ -2,15 +2,6 @@ company:
   name: Tidal Financial Group
   stage: null
   focus: ETF investment and technology platform
-  use_cases:
-  - Retrieval-augmented generation (RAG) and hybrid search for financial information
-    retrieval
-  - Intelligent automation for ETF operations and business processes
-  - Agentic AI systems for autonomous decision support in investment workflows
-  - Structured data extraction and validation from unstructured financial documents
-  - Multi-model routing and provider selection for optimal AI performance in regulated
-    environments
-  - AI-powered search and grounding for compliance and regulatory information access
 position:
   title: Lead AI Engineer
   ai_type:

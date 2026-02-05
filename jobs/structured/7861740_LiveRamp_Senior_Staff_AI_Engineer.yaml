@@ -2,15 +2,6 @@ company:
   name: LiveRamp
   stage: Public
   focus: Data collaboration platform for identity and customer data
-  use_cases:
-  - LLM-based agent systems with sophisticated planning and memory mechanisms for
-    autonomous and human-in-the-loop workflows
-  - Identity machine learning solutions for customer data resolution and matching
-  - Agentic AI solutions integrated across LiveRamp's data collaboration platform
-    products
-  - Multi-step autonomous agent workflows with tools/function calling capabilities
-  - Evaluation and safety systems for measuring agent performance, bias, and drift
-    in production
 position:
   title: Senior Staff AI Engineer
   ai_type:

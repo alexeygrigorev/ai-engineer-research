@@ -2,14 +2,6 @@ company:
   name: LendingTree
   stage: Public
   focus: Online lending marketplace connecting consumers with lenders
-  use_cases:
-  - Enabling non-technical teams to build AI-driven workflows securely and efficiently
-  - Providing secure access to generative AI models for product teams with usage monitoring
-  - Automating business processes using low-code/no-code platforms integrated with
-    AI services
-  - Bridging business departments with AI capabilities through managed platforms
-  - Supporting AI-powered decision making across lending, insurance, and financial
-    products
 position:
   title: Sr. AI Platform Engineer
   ai_type:

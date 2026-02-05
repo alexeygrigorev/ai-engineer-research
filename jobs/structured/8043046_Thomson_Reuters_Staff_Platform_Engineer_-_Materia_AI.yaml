@@ -4,15 +4,6 @@ company:
   focus: |-
     Professional information services, legal, tax, and
     accounting software
-  use_cases:
-  - Generative AI agents for tax, accounting, and audit professionals
-  - AI-driven orchestration systems powering CoCounsel for Tax and Accounting
-  - AI native products for accounting professionals that automate and enhance workflows
-  - Agent-based architectures using LLMs and AI APIs from providers like OpenAI and
-    Anthropic
-  - Search-based AI systems leveraging vector databases and embeddings
-  - Production infrastructure supporting secure, performant, and reliable AI-driven
-    solutions
 position:
   title: Staff Platform Engineer - Materia AI
   ai_type:

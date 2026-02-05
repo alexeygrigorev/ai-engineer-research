@@ -2,12 +2,6 @@ company:
   name: Modern Health
   stage: Series B (Unicorn)
   focus: Mental health benefits platform for employers
-  use_cases:
-  - Developing AI-powered mental health features within the benefits platform
-  - Implementing responsible AI solutions for employee well-being support
-  - Integrating LLM-based tools for personalized mental health guidance
-  - Deploying AI features that recommend appropriate care resources
-  - Building AI experiences that help employees manage stress and mental health needs
 position:
   title: Staff AI Product Engineer
   ai_type:

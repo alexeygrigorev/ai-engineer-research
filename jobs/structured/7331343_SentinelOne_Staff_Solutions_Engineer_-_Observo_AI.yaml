@@ -2,12 +2,6 @@ company:
   name: SentinelOne
   stage: Public
   focus: AI-powered cybersecurity and threat detection
-  use_cases:
-  - Security threat detection and monitoring using AI-powered observability
-  - Application Performance Management (APM) for cybersecurity environments
-  - SIEM (Security Information and Event Management) integration and optimization
-  - Log management and analysis for security operations centers
-  - Observability across security infrastructure and cloud platforms
 position:
   title: Staff Solutions Engineer - Observo AI
   ai_type:

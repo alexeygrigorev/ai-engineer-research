@@ -2,13 +2,6 @@ company:
   name: Zocdoc
   stage: Series E+
   focus: Digital health marketplace for finding and booking care
-  use_cases:
-  - Intelligent voice agent that answers inbound calls for hospitals and doctor's
-    offices
-  - AI-powered conversational interface handling patient-provider communication
-  - Automated phone assistance for healthcare appointment scheduling and inquiries
-  - Real-time voice AI to reduce wait times and improve patient experience
-  - Conversational AI system for healthcare customer service automation
 position:
   title: Staff Software Engineer, AI Phone Assistant
   ai_type:

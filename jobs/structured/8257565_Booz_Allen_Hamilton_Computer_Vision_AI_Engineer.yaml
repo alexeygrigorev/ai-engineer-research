@@ -2,12 +2,6 @@ company:
   name: Booz Allen Hamilton
   stage: Public
   focus: Government consulting and technology solutions
-  use_cases:
-  - Missile warning problems in near-real-time
-  - Sensor fusion for space-based solutions
-  - Target tracking systems
-  - Fire control systems for real-time applications
-  - Computer vision for embedded systems
 position:
   title: Computer Vision AI Engineer
   ai_type:

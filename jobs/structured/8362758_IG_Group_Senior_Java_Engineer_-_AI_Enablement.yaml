@@ -2,14 +2,6 @@ company:
   name: IG Group
   stage: Public (FTSE250)
   focus: Financial services trading platform technology
-  use_cases:
-  - Automated legacy service modernisation and migration using AI-assisted code analysis
-  - AI-powered development tooling for increased engineering productivity and code
-    quality
-  - Model Context Protocol (MCP) implementation for service discovery and architecture
-    compliance
-  - AI-driven CI/CD automation for code review, security scanning, and test generation
-  - Agentic AI solutions for automated refactoring and documentation at scale
 position:
   title: Senior Java Engineer - AI Enablement
   ai_type:

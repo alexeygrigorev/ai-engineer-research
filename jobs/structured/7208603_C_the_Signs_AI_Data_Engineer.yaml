@@ -2,12 +2,6 @@ company:
   name: C the Signs
   stage: null
   focus: Healthcare AI for patient outcomes
-  use_cases:
-  - Healthcare data processing for LLM training and fine-tuning
-  - Healthcare AI applications impacting patient outcomes
-  - Large-scale healthcare data ingestion and transformation
-  - Data pipeline infrastructure for machine learning workflows
-  - Compliant healthcare data management and storage
 position:
   title: AI Data Engineer
   ai_type:

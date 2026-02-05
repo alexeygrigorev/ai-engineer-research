@@ -4,14 +4,6 @@ company:
   focus: |-
     Federal government digital transformation and IT
     modernization
-  use_cases:
-  - Automating health benefits determinations for the Office of Personnel Management
-    (OPM)
-  - Navigating and interpreting complex federal benefit policies using AI agents
-  - Extracting and processing information from dense federal manuals and unstructured
-    documentation
-  - Ensuring compliance and auditability in automated government decision-making workflows
-  - Hybrid decision-making combining LLM reasoning with deterministic rule validation
 position:
   title: AI / Machine Learning Engineer
   ai_type:

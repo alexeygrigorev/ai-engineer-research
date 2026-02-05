@@ -2,13 +2,6 @@ company:
   name: BNSF Railway
   stage: Public
   focus: Freight rail transportation and logistics
-  use_cases:
-  - Predictive maintenance for rail infrastructure and rolling stock
-  - Train scheduling and route planning optimization
-  - Safety monitoring and anomaly detection
-  - Real-time data analysis from IoT sensors and GPS systems
-  - Operational process automation and AI-powered decision making
-  - Fuel efficiency optimization through algorithm tuning
 position:
   title: Sr/Staff AI Engineer
   ai_type:

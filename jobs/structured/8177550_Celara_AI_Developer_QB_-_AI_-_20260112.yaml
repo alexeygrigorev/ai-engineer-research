@@ -2,12 +2,6 @@ company:
   name: Celara
   stage: null
   focus: Enterprise restaurant technology software
-  use_cases:
-  - AI chatbots and assistants for restaurant operations
-  - Automatic Speech Recognition (ASR) for voice-based interactions
-  - ML forecasting for business predictions
-  - Restaurant technology enterprise solutions
-  - AI-powered automation for restaurant workflows
 position:
   title: AI Developer (QB - AI - 20260112)
   ai_type:

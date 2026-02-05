@@ -2,12 +2,6 @@ company:
   name: GetYourGuide
   stage: Series C+
   focus: Travel experiences booking platform
-  use_cases:
-  - Support for diverse ML/AI use-cases across the travel platform including recommendation
-    systems
-  - Data products for travel experience optimization and personalization
-  - Production ML systems for improving traveler booking experiences and recommendations
-  - Scalable ML infrastructure for search, ranking, and personalization algorithms
 position:
   title: Senior MLOps Engineer, AI Platform
   ai_type:

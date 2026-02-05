@@ -2,13 +2,6 @@ company:
   name: SumerSports
   stage: null
   focus: Football intelligence technology for NFL and NCAA
-  use_cases:
-  - AI-powered sports analytics answering complex football questions
-  - Domain-aware insights for NFL clubs within salary cap constraints
-  - NCAA transfer portal analysis and recommendations
-  - RAG systems for sports knowledge retrieval
-  - Agent-based workflows combining structured sports data with AI reasoning
-  - AI-assisted tools for coaches and team decision-making
 position:
   title: AI Application Engineer
   ai_type:

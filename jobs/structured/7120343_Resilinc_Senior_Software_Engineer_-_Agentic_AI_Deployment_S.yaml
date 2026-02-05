@@ -2,15 +2,6 @@ company:
   name: Resilinc
   stage: Series B
   focus: AI-powered supply chain risk management
-  use_cases:
-  - Supply chain risk prediction and disruption assessment for global enterprises
-  - Real-time automated response to supply chain disruptions using autonomous agents
-  - Risk and compliance analysis for life sciences, pharmaceuticals, aerospace, defense,
-    and automotive industries
-  - Data-intensive AI platforms that transform diverse supply chain datasets into
-    actionable insights
-  - Customer-specific agentic AI solutions that protect critical operations and supply
-    chain resilience
 position:
   title: Senior Software Engineer - Agentic AI Deployment Services
   ai_type:

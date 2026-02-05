@@ -4,13 +4,6 @@ company:
   focus: |-
     Renewable energy platform with smart device network and
     real-time power trading
-  use_cases:
-  - Energy Co-Pilot for personalized customer recommendations and guidance
-  - Speedy onboarding process using VLM/LLM to process energy bills for quick setup
-  - Real-time power trading optimization based on market conditions, weather forecasts,
-    and demand patterns
-  - Internal productivity tools and workflow automation using AI
-  - Energy demand and supply forecasting for grid stability
 position:
   title: Applied AI Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Precision Medicine Group
   stage: null
   focus: Precision medicine and healthcare solutions
-  use_cases:
-  - Enterprise AI productivity solutions and productivity tools
-  - RAG-based knowledge retrieval and question answering systems
-  - LLM-powered applications for clinical and pharmaceutical use cases
-  - Deep learning solutions for precision medicine workflows
-  - Scalable AI platforms for regulated healthcare environments
 position:
   title: AI Engineer
   ai_type:

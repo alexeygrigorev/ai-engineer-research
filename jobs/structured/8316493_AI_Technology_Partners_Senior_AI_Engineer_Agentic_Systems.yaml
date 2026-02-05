@@ -4,13 +4,6 @@ company:
   focus: |-
     Secure, compliant generative AI solutions and managed
     services for enterprises
-  use_cases:
-  - RFP assistance through automated agent workflows
-  - Incident Root Cause Analysis (RCA) drafting using agentic systems
-  - Knowledge operations automation for enterprise workflows
-  - Secure enterprise tool integration and data orchestration
-  - Business process automation with multi-agent systems
-  - Retrieval-augmented generation for enterprise knowledge bases
 position:
   title: Senior AI Engineer, Agentic Systems
   ai_type:

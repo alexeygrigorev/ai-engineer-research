@@ -2,14 +2,6 @@ company:
   name: Nebius
   stage: Public
   focus: AI cloud platform with GPU infrastructure
-  use_cases:
-  - Benchmarking and performance evaluation of GPU platforms for machine learning
-    and AI workloads
-  - Optimizing deep learning training and inference performance on GPU hardware
-  - Acceptance testing and validation of new GPU clusters for AI workloads
-  - Analyzing performance impact of interconnect strategies and system-level optimizations
-  - Developing performance visualization tools and dashboards for GPU metrics
-  - Identifying and resolving performance bottlenecks in ML workloads at kernel level
 position:
   title: ML/AI Engineer
   ai_type:

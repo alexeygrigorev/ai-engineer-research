@@ -4,17 +4,6 @@ company:
   focus: |-
     AI-powered healthcare billing and insurance claims
     automation
-  use_cases:
-  - Automating the identification, categorization, and resolution of errors in medical
-    billing and insurance claims
-  - Building agentic workflows that navigate complex healthcare case work with minimal
-    human intervention
-  - Integrating domain-specific healthcare knowledge into AI models and decision engines
-    to improve accuracy
-  - Developing real-world AI performance measurement and improvement tooling for healthcare
-    automation
-  - Fighting claim denials, correcting billing errors, and negotiating bills through
-    AI-driven automation
 position:
   title: Backend Engineer, Agentic AI (Senior/Staff Level)
   ai_type:

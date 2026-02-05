@@ -2,13 +2,6 @@ company:
   name: Cority
   stage: Public
   focus: Enterprise EHS SaaS platform
-  use_cases:
-  - Research agents for automated information gathering and analysis
-  - Coding assistants and developer productivity tools
-  - Conversational AI agents for voice and text interactions
-  - Workflow automation bots for operational efficiency
-  - Analytics agents for data processing and insights generation
-  - Scheduling agents for task and resource management
 position:
   title: Staff AI Software Engineer
   ai_type:

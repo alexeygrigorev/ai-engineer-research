@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: null
   focus: LLM code evaluation and training
-  use_cases:
-  - Training large language models to write production-grade code
-  - Code evaluation and ranking for RLHF pipeline
-  - Generating and improving code across multiple programming languages
-  - Converting expert human feedback into reward signals for model tuning
-  - Building models that can propose, critique, and improve code automatically
 position:
   title: AI Software Engineer (Rust)
   ai_type:

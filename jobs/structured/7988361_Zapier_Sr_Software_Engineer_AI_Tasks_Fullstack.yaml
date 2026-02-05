@@ -2,12 +2,6 @@ company:
   name: Zapier
   stage: Public
   focus: Automation platform for workflows and AI integration
-  use_cases:
-  - Natural language task delegation and workflow orchestration
-  - AI-powered task extraction, classification, and summarization
-  - Human-in-the-loop approval systems for production automations
-  - Autonomous agents for workflow automation
-  - LLM-native workflow integration for business automation
 position:
   title: Sr. Software Engineer, AI Tasks (Fullstack)
   ai_type:

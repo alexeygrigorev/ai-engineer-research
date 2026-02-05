@@ -2,12 +2,6 @@ company:
   name: Consumer Reports
   stage: Public
   focus: Nonprofit consumer testing and ratings
-  use_cases:
-  - Help consumers make informed choices through intelligent, data-driven experiences
-  - Empower employees with next-generation AI tools
-  - Address AI harms in the digital marketplace
-  - Make AI models accessible through user-facing tools and applications
-  - Provide data-driven product ratings and consumer insights
 position:
   title: Full Stack Software Engineer (AI, ML, and Data Science)
   ai_type:

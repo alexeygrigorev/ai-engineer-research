@@ -2,13 +2,6 @@ company:
   name: Cornspring
   stage: Startup
   focus: AI-driven family office fintech platform
-  use_cases:
-  - Real-time AI-driven data intelligence for family offices and asset managers
-  - Portfolio insights and investment analysis using generative AI and LLMs
-  - Natural language interaction with complex financial and accounting data
-  - Automated analysis of structured and unstructured financial data
-  - Replacing legacy fragmented systems with AI-powered solutions
-  - Delivering faster insights and greater transparency for financial clients
 position:
   title: Senior Software Engineer - Python, ML & AI Systems
   ai_type:

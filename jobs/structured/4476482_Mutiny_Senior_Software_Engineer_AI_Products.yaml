@@ -2,16 +2,6 @@ company:
   name: Mutiny
   stage: Series B
   focus: Agentic GTM platform for enterprise sales and marketing
-  use_cases:
-  - AI-powered Campaign Builder that lets marketers and sellers generate, edit, and
-    launch personalized campaigns across accounts
-  - Agentic GTM platform that unifies sales and marketing to help companies close
-    enterprise deals faster
-  - Conversational AI collaboration enabling enterprise teams to go from idea to personalized
-    assets with speed and trust
-  - Personalized marketing and sales experiences delivered at scale through AI agents
-    and creative workflows
-  - Brand consistency enforcement through AI guardrails in campaign generation
 position:
   title: Senior Software Engineer (AI Products)
   ai_type:

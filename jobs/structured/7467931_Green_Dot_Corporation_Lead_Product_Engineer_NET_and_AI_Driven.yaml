@@ -2,13 +2,6 @@ company:
   name: Green Dot Corporation
   stage: Public
   focus: Financial services, payment solutions, and money management
-  use_cases:
-  - Smart money management and payment solutions for consumers
-  - Enterprise-grade financial services applications
-  - Cloud-native applications migrated from legacy systems
-  - AI-enhanced development workflows for faster delivery
-  - Automated testing and quality assurance frameworks
-  - Scalable financial transaction processing
 position:
   title: Lead Product Engineer – .NET and AI Driven
   ai_type:

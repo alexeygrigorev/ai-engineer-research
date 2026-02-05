@@ -2,13 +2,6 @@ company:
   name: Metropolitan Commercial Bank
   stage: Public
   focus: Full-service commercial banking
-  use_cases:
-  - Generative AI systems for banking operations and customer services
-  - Personalization engines for tailored banking experiences and recommendations
-  - Automation tools for streamlining banking processes and workflows
-  - Fraud detection and risk assessment using AI/ML models
-  - AML (Anti-Money Laundering) compliance and monitoring systems
-  - Commercial/treasury analytics for business banking decisions
 position:
   title: AI Engineer
   ai_type:

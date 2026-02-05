@@ -2,15 +2,6 @@ company:
   name: CrowdStrike
   stage: Public
   focus: AI-native cybersecurity platform
-  use_cases:
-  - Agentic AI applications that operate within the broader corporate cybersecurity
-    environment
-  - LLM-based solutions integrated into production applications to support business
-    operations
-  - Consulting and internal operations teams harnessing AI for smarter, faster, and
-    more efficient outcomes
-  - AI agents working with cybersecurity systems to deliver enhanced protection capabilities
-  - Fine-tuned models for specific cybersecurity and operational use cases
 position:
   title: Technical Operations Engineer III - Agentic AI (Remote)
   ai_type:

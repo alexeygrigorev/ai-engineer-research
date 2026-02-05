@@ -2,16 +2,6 @@ company:
   name: EvolutionIQ
   stage: Growth stage
   focus: AI Guidance Platform for insurance claims
-  use_cases:
-  - Insurance claims guidance platform using AI to help claims teams make more accurate,
-    fair, and efficient decisions
-  - Processing batch daily data from SQL tables and presenting through intuitive web
-    products
-  - Rules-based engines spanning across all products for insurance claim workflows
-  - Supporting insurance carriers and claims teams to help injured or disabled workers
-    continue their lives with dignity
-  - Large-scale structured and unstructured dataset analysis for insurance business
-    problems
 position:
   title: Staff Software Engineer (Platform / AI Insurance SaaS)
   ai_type:

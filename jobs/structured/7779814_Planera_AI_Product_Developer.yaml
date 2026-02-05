@@ -2,11 +2,6 @@ company:
   name: Planera
   stage: null
   focus: AI-powered construction planning and scheduling
-  use_cases:
-  - AI-powered agentic workflows for construction planning and scheduling
-  - Autonomous agents for construction resource allocation and optimization
-  - Conversational AI interfaces for construction teams
-  - Intelligent automation systems for project management workflows
 position:
   title: AI Product Developer
   ai_type:

@@ -2,16 +2,6 @@ company:
   name: Imprint
   stage: Series B
   focus: Co-branded credit cards and financial products
-  use_cases:
-  - Automating internal workflows across multiple departments including engineering,
-    operations, finance, and business development
-  - Integrating AI agents with internal systems like CRMs, data warehouses, and communication
-    tools to streamline operations
-  - Creating intelligent, self-improving workflows that replace manual processes and
-    increase team efficiency
-  - Building secure agent orchestration systems that leverage LLMs for process automation
-  - Enabling non-technical users to access advanced AI capabilities through intuitive
-    interfaces
 position:
   title: Senior Software Engineer, AI
   ai_type:

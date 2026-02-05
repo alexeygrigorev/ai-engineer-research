@@ -4,13 +4,6 @@ company:
   focus: |-
     Banking and financial services with AI-powered customer
     experiences
-  use_cases:
-  - Informing customers about unusual charges on their accounts
-  - Answering customer questions in real time with AI-powered chatbots
-  - Delivering personalized banking experiences through ML-driven recommendations
-  - Supporting AI models and platforms that empower teams across Capital One to enhance
-    their products
-  - Building responsible and scalable AI systems for banking applications
 position:
   title: Lead AI Engineer
   ai_type:

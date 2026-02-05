@@ -2,14 +2,6 @@ company:
   name: sciemo
   stage: Series A
   focus: AI platform for consumer goods supply chain optimization
-  use_cases:
-  - Promotion optimization for consumer brands to maximize ROI
-  - Demand and supply balancing across the integrated business planning process
-  - AI agent-based decision support systems assisting in real-time decision-making
-  - Transforming siloed data into actionable business insights for consumer goods
-    companies
-  - Multi-agent AI systems that navigate complex business problems and provide clarity
-    to decision-makers
 position:
   title: AI/ML Engineer
   ai_type:

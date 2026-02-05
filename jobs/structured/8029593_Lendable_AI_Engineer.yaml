@@ -2,12 +2,6 @@ company:
   name: Lendable
   stage: Series C+ / Unicorn
   focus: Fintech lending platform and consumer finance
-  use_cases:
-  - Customer service chatbot that supports customer operations teams
-  - Document parsing automation through schema extraction tools
-  - LLM-driven case management workflow automation
-  - Business process automation using agents and generative AI
-  - Streamlining financial services operations (loans, credit cards, car finance)
 position:
   title: AI Engineer
   ai_type:

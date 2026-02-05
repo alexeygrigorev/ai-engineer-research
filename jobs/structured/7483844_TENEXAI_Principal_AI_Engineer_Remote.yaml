@@ -4,15 +4,6 @@ company:
   focus: |-
     AI-native Managed Detection and Response (MDR) cybersecurity
     provider
-  use_cases:
-  - Autonomous threat detection using AI-powered systems that analyze security events
-  - RAG-backed investigation workflows for cybersecurity incident analysis
-  - Automated remediation of security threats through AI-driven decision making
-  - Real-time processing and analysis of billions of security events using streaming
-    pipelines
-  - Multi-modal threat detection combining text analysis, log data, and graph-based
-    reasoning
-  - Graph-based reasoning engines for understanding attacker behavior patterns
 position:
   title: Principal AI Engineer (Remote)
   ai_type:

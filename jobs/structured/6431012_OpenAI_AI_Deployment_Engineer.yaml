@@ -2,13 +2,6 @@ company:
   name: OpenAI
   stage: Public
   focus: AI research and deployment company
-  use_cases:
-  - Customer service automation powered by advanced AI models
-  - Content generation applications for enterprise customers
-  - New product offerings and services leveraging Generative AI capabilities
-  - Industry-specific GenAI use cases tailored to customer business needs
-  - Enterprise-grade production deployments of ChatGPT and OpenAI API applications
-  - AI adoption strategy implementation for business transformation
 position:
   title: AI Deployment Engineer
   ai_type:

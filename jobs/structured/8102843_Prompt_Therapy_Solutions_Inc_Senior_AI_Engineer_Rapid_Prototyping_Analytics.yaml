@@ -2,15 +2,6 @@ company:
   name: Prompt Therapy Solutions Inc
   stage: Series A
   focus: B2B enterprise software for rehab therapy
-  use_cases:
-  - Speech and language processing applications in healthcare
-  - Internal AI tools to improve efficiency and decision-making across Engineering,
-    Design, Sales, Marketing, Support, Finance, and Operations
-  - Product-facing AI solutions for rehab therapy businesses, their teams, and patients
-  - Automated workflows and business process automation using AI
-  - Healthcare software enhancements for physical therapy, occupational therapy, and
-    speech therapy
-  - Analytics and dashboards to track AI usage, outcomes, and ROI
 position:
   title: Senior AI Engineer (Rapid Prototyping & Analytics )
   ai_type:

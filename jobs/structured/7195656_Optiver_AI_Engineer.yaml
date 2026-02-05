@@ -2,12 +2,6 @@ company:
   name: Optiver
   stage: Public
   focus: Market making and trading firm
-  use_cases:
-  - Orchestrating data workflows and decisions across the firm
-  - Integrating AI agents with enterprise systems for business process automation
-  - Evaluating and selecting optimal 3rd party models for specific tasks
-  - Building agents that translate business strategy into executable code
-  - Measuring business impact through AI-driven automation in trading operations
 position:
   title: AI Engineer
   ai_type:

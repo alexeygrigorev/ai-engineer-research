@@ -2,13 +2,6 @@ company:
   name: Subject
   stage: Series B
   focus: AI-powered education platform for personalized learning
-  use_cases:
-  - Automated grading of student assignments with real-time feedback
-  - Personalized learning experiences adapted to individual student needs
-  - Teacher insights and performance analytics dashboards
-  - Data synthesis and analysis for educational content
-  - Student engagement tools powered by generative AI
-  - Human-in-the-loop decision flows for educational assessment
 position:
   title: Senior Software Engineer, AI Systems
   ai_type:

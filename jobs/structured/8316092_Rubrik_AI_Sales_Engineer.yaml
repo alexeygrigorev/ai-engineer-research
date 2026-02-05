@@ -4,16 +4,6 @@ company:
   focus: |-
     Cyber resilience and AI operations for enterprise data
     protection
-  use_cases:
-  - Cyber resilience and data protection against cyberattacks, malicious insiders,
-    and operational disruptions
-  - AI agent deployment acceleration with monitoring, auditing, and real-time guardrails
-    enforcement
-  - Cloud data management, backup, disaster recovery, and data analytics for enterprises
-  - Secure monitoring and recovery of data, identities, and workloads across cloud
-    environments
-  - Agentic AI monitoring with fine-tuning for accuracy and ability to undo agentic
-    mistakes
 position:
   title: AI Sales Engineer
   ai_type:

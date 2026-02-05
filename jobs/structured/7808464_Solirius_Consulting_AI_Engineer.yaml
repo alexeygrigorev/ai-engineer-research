@@ -2,14 +2,6 @@ company:
   name: Solirius Consulting
   stage: null
   focus: Technical consultancy and application delivery
-  use_cases:
-  - Generative AI applications for advanced analysis in regulated environments
-  - Multi-agent systems that reason, plan, and execute tasks across multiple tools
-  - Retrieval-Augmented Generation (RAG) architectures for semantic search and knowledge
-    retrieval
-  - AI-assisted development workflows to accelerate engineering velocity
-  - Predictive modelling solutions for business requirements
-  - Operational NLP workflows using BERT and topic modelling for production environments
 position:
   title: AI Engineer
   ai_type:

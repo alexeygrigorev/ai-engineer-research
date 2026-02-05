@@ -2,12 +2,6 @@ company:
   name: Pragmatike
   stage: Seed
   focus: GenAI startup building enterprise AI products
-  use_cases:
-  - Data-heavy dashboards for AI/ML model visualization and monitoring
-  - Real-time web applications displaying AI-powered insights for enterprise customers
-  - High-performance interfaces for Fortune 500 clients to interact with GenAI products
-  - Responsive dashboards handling large-scale AI data and analytics
-  - User interfaces for AI-driven product features and functionality
 position:
   title: Senior UI/Frontend Engineer (AI)
   ai_type:

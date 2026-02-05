@@ -2,13 +2,6 @@ company:
   name: Crosby
   stage: Seed
   focus: AI-powered corporate legal services platform
-  use_cases:
-  - Review complex legal documents faster than ever with perfect quality
-  - Enhance the lawyer-machine relationship through human-in-the-loop workflows
-  - Codify systematizable legal work while amplifying human expertise where judgment
-    matters most
-  - Deliver higher-quality legal work faster and more efficiently through AI-powered
-    outcomes
 position:
   title: Applied AI Engineer
   ai_type:

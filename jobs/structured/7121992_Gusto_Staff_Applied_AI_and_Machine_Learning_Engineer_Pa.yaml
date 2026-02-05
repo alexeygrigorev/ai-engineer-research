@@ -2,12 +2,6 @@ company:
   name: Gusto
   stage: Public (Gusto is a publicly traded company that serves 400,000+ small businesses)
   focus: Payroll, benefits, and HR platform for small businesses
-  use_cases:
-  - Credit risk modeling to assess payment and lending risks
-  - Fraud detection and prevention using traditional ML models and AI-enhanced approaches
-  - Anomaly detection for suspicious payment patterns and user activities
-  - Risk assessment platform for safeguarding users' financial transactions
-  - NLP-based data processing and insights generation using LLMs
 position:
   title: Staff Applied AI and Machine Learning Engineer, Payments & Risk
   ai_type:

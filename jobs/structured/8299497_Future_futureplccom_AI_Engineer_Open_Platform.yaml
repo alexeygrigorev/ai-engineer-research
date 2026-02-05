@@ -2,12 +2,6 @@ company:
   name: Future (futureplc.com)
   stage: Public
   focus: Global specialist media and content publishing
-  use_cases:
-  - Automated content moderation at scale for creator platform
-  - Brand safety enforcement through AI-driven content review
-  - Creator workflow automation and optimization using LLMs
-  - Self-directing autonomous agent systems for content management
-  - Intelligent decision-making embedded in platform architecture
 position:
   title: AI Engineer, Open Platform
   ai_type:

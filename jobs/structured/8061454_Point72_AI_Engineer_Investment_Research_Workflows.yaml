@@ -2,13 +2,6 @@ company:
   name: Point72
   stage: Public
   focus: Global asset management and financial investment
-  use_cases:
-  - AI-powered investment research tools and workflows for fundamental equities
-  - Streamlining day-to-day operations for portfolio managers and analysts
-  - Research quality improvement using large language models and retrieval-augmented
-    generation
-  - Agentic systems to automate or assist in investment decision-making processes
-  - Internal tools with heavy end-user interaction for investment professionals
 position:
   title: AI Engineer – Investment Research & Workflows
   ai_type:

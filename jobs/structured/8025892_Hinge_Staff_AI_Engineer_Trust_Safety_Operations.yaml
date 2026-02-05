@@ -2,7 +2,6 @@ company:
   name: Hinge
   stage: Public
   focus: Dating app connecting people
-  use_cases: []
 position:
   title: Staff AI Engineer, Trust & Safety Operations
   ai_type:

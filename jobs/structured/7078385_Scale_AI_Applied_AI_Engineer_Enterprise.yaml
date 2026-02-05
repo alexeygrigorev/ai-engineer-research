@@ -2,12 +2,6 @@ company:
   name: Scale AI
   stage: Series F
   focus: AI data foundry and generative AI platform for enterprises
-  use_cases:
-  - AI cybersecurity firewalls for enterprise security
-  - Transformative AI experiences in journalism and media
-  - Foundation genomic models for drug protein predictions in life sciences
-  - Complex AI agents with multimodal functionality for enterprises
-  - Tool-calling and advanced agent capabilities across industry applications
 position:
   title: Applied AI Engineer, Enterprise
   ai_type:

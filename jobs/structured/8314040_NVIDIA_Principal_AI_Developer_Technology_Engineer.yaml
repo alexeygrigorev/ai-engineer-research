@@ -2,13 +2,6 @@ company:
   name: NVIDIA
   stage: Public
   focus: GPU computing and AI acceleration hardware/software
-  use_cases:
-  - GPU acceleration of deep learning models including NLP, Computer Vision, and Recommender
-    Systems
-  - Optimization of AI workloads on advanced CPU and GPU architectures
-  - Parallel algorithm implementation for machine learning and deep learning applications
-  - Performance optimization of complex AI and HPC algorithms
-  - Real-time, cost-effective computing platform for AI workloads
 position:
   title: Principal AI Developer Technology Engineer
   ai_type:

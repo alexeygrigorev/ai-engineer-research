@@ -4,11 +4,6 @@ company:
   focus: |-
     Reimagining higher education through AI-powered learning
     experiences
-  use_cases:
-  - Content generation at scale for educational materials
-  - Gamification features for enhanced learning experiences
-  - Benchmarking and analytics for educational outcomes
-  - Multi-modal behavior classification from mobile signals
 position:
   title: Applied AI Engineer
   ai_type:

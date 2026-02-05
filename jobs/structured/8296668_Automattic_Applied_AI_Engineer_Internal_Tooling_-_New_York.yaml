@@ -2,12 +2,6 @@ company:
   name: Automattic
   stage: Public
   focus: Web publishing, commerce, and messaging platforms
-  use_cases:
-  - Self-hosted AI chat interface for internal team productivity and collaboration
-  - Internal AI-powered developer tools and automations to enhance workflow efficiency
-  - AI capabilities integrated into existing company systems for productivity improvements
-  - Custom agent skills and workflows tailored to specific organizational needs
-  - Open source AI interface maintained and improved for broader community use
 position:
   title: Applied AI Engineer, Internal Tooling - New York
   ai_type:

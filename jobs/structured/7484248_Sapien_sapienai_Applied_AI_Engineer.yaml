@@ -2,16 +2,6 @@ company:
   name: Sapien (sapien.ai)
   stage: Series A
   focus: AI-powered autonomous finance operations platform
-  use_cases:
-  - Autonomous CFO system that runs company financials end-to-end with real-time analysis
-  - AI-powered detection and prevention of costly financial errors in traditional
-    business operations
-  - Automated analysis of complex financial workflows in manufacturing, healthcare,
-    and restaurant industries
-  - Multi-modal financial data parsing and unification from Excel, ERPs, and CRMs
-    into queryable formats
-  - Agent-based financial decision support that surfaces value and increases decision
-    cadence
 position:
   title: Applied AI Engineer
   ai_type:

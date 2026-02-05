@@ -4,12 +4,6 @@ company:
   focus: |-
     Applied machine learning and AI studio building production-
     grade ML systems
-  use_cases:
-  - Generative AI chatbots and conversational agents for enterprise clients
-  - Time series forecasting for business analytics and planning
-  - Computer vision applications for image recognition and analysis
-  - AdTech solutions using traditional machine learning methods
-  - Scalable MLOps infrastructure for production ML systems deployment
 position:
   title: Junior AI/ML Engineer
   ai_type:

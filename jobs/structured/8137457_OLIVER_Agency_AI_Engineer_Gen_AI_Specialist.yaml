@@ -2,14 +2,6 @@ company:
   name: OLIVER Agency
   stage: Public
   focus: In-house agencies and marketing ecosystems for brands
-  use_cases:
-  - Visual content creation for marketing campaigns using AI-generated imagery and
-    video
-  - Product-accurate CGI content production enhanced with AI capabilities
-  - Rapid prototyping of visual concepts for global brands and clients
-  - Integration of AI outputs into existing CGI and VFX workflows
-  - Content production automation using data-driven methodologies and AI tools
-  - Creative AI experimentation to push boundaries in visual storytelling and advertising
 position:
   title: AI Engineer – Gen AI Specialist
   ai_type:

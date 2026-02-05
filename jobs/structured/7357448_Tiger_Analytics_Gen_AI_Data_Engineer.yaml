@@ -2,12 +2,6 @@ company:
   name: Tiger Analytics
   stage: null
   focus: Advanced analytics consulting and data engineering
-  use_cases:
-  - Retrieval Augmented Generation (RAG) systems for enterprise knowledge management
-  - Vector search and information retrieval for document-based AI applications
-  - Knowledge graph integration for enhanced AI contextualization
-  - Large-scale document processing and indexing for enterprise search
-  - Unstructured data management (text, audio, video, images) for AI workflows
 position:
   title: Gen AI Data Engineer
   ai_type:

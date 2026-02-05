@@ -2,11 +2,6 @@ company:
   name: Accrete AI
   stage: null
   focus: AI solutions for business and government
-  use_cases:
-  - Autonomous AI agents that analyze data and generate intelligent recommendations
-  - Streamlining business operations and improving decision-making
-  - Enhancing security, intelligence, and operational efficiency for government entities
-  - Converting complex data into actionable insights for businesses and government
 position:
   title: Software Engineer - AI Platform
   ai_type:

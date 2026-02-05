@@ -2,13 +2,6 @@ company:
   name: Capco
   stage: null
   focus: Financial services consulting and technology delivery
-  use_cases:
-  - Agentic RAG (Retrieval-Augmented Generation) systems
-  - Knowledge Graph RAG (KG-RAG) implementations
-  - Autonomous AI agent systems
-  - MCP (Model Context Protocol) integrations
-  - Embeddings and knowledge graph solutions
-  - Full-stack AI applications for financial services
 position:
   title: AI Engineer
   ai_type:

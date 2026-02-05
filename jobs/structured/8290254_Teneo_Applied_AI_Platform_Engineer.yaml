@@ -2,12 +2,6 @@ company:
   name: Teneo
   stage: null
   focus: Global CEO advisory and consulting firm
-  use_cases:
-  - AI workflows across business use cases and product integrations
-  - Internal data intelligence using Data Lake
-  - Scoped agent workflows with tool use capabilities
-  - Enterprise AI systems integrated with Microsoft Graph and identity/API permissioning
-  - Production-grade AI systems with observability and monitoring
 position:
   title: Applied AI & Platform Engineer
   ai_type:

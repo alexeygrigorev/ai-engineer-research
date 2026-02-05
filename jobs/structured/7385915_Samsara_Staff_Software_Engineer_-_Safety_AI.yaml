@@ -4,12 +4,6 @@ company:
   focus: |-
     IoT platform for physical operations, fleet management, and
     connected operations
-  use_cases:
-  - Video-based safety monitoring using AI dash cams to detect driving events
-  - Real-time driver feedback systems to improve safe driving practices
-  - Video-based coaching workflows for fleet safety programs
-  - Safety event tracking and analysis for fleet management
-  - Driver exoneration through video evidence collection in no-fault accidents
 position:
   title: Staff Software Engineer - Safety AI
   ai_type:

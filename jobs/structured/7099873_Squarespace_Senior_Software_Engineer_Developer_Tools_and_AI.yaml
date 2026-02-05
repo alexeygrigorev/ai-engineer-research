@@ -2,12 +2,6 @@ company:
   name: Squarespace
   stage: Public
   focus: Website building and commerce platform
-  use_cases:
-  - Developer productivity enhancement through AI tooling adoption
-  - Internal developer experience and workflow automation
-  - Development, debugging, and deployment workflow optimization
-  - AI-powered code assistance and developer tool integration
-  - Large-scale engineering efficiency and tooling solutions
 position:
   title: Senior Software Engineer (Developer Tools and AI)
   ai_type:

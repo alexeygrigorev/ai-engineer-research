@@ -2,13 +2,6 @@ company:
   name: Mistral AI
   stage: Series B
   focus: Open-source LLM and AI models for enterprise
-  use_cases:
-  - Enterprise AI transformation and deployment across multiple industries
-  - Consumer-facing GenAI product implementations
-  - Industrial AI applications and automation
-  - Custom LLM fine-tuning for enterprise-specific use cases
-  - Advanced RAG systems for enterprise knowledge management
-  - Agentic AI systems for autonomous task execution
 position:
   title: Applied AI, Forward Deployed Machine Learning Engineer - EMEA
   ai_type:

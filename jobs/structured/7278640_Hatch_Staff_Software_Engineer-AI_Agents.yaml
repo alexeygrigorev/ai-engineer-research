@@ -2,12 +2,6 @@ company:
   name: Hatch
   stage: Series B
   focus: AI-driven customer service platform
-  use_cases:
-  - AI-powered customer service automation
-  - Conversational AI agents for customer engagement
-  - LLM-driven customer support systems
-  - Real-time customer service transformation
-  - Intelligent customer interaction management
 position:
   title: Staff Software Engineer-AI Agents
   ai_type:

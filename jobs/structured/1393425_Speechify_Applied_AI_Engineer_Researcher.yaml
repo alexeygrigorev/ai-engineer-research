@@ -2,11 +2,6 @@ company:
   name: Speechify
   stage: Series B+
   focus: Text-to-speech and accessibility tools for reading
-  use_cases:
-  - Text-to-speech conversion for various content types (PDFs, books, articles, websites)
-  - Generating human-like AI speech voices
-  - Image generation for content
-  - Accessibility tools for reading and learning
 position:
   title: Applied AI Engineer & Researcher
   ai_type:

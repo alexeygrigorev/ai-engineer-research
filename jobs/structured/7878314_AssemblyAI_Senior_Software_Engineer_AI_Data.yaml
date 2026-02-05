@@ -2,12 +2,6 @@ company:
   name: AssemblyAI
   stage: Series C+
   focus: Speech AI models for voice applications
-  use_cases:
-  - Speech-to-text transcription for voice applications and meeting assistants
-  - Streaming speech recognition for real-time voice agents and contact centers
-  - Training data pipeline infrastructure for speech AI model development
-  - Keyterms prompting and multilingual support for speech understanding
-  - Medical scribes and voice-powered end-user experiences
 position:
   title: Senior Software Engineer, AI Data
   ai_type:

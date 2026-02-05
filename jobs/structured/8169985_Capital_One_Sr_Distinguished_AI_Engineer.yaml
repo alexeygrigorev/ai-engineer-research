@@ -2,13 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services
-  use_cases:
-  - Informing customers about unusual charges using AI-powered detection systems
-  - Answering customer questions in real time through conversational AI interfaces
-  - Creating real-time, personalized customer experiences using machine learning
-  - Delivering AI-powered products that enhance how associates work internally
-  - Building responsible and reliable AI systems that change banking for good
-  - Deploying proprietary AI solutions that deliver value to millions of customers
 position:
   title: Sr, Distinguished AI Engineer
   ai_type:

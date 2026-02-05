@@ -4,16 +4,6 @@ company:
   focus: |-
     Open source durable execution platform for reliable AI
     applications
-  use_cases:
-  - Building fault-tolerant AI applications with reliable execution for reasoning,
-    tool calls, and memory management
-  - Implementing human-in-the-loop interactivity and ambient background processing
-    for AI workflows
-  - Creating distributed systems for complex AI applications with simplified code
-    and improved reliability
-  - Integrating with leading AI frameworks and libraries to provide durable execution
-    foundation
-  - Supporting AI applications for companies like OpenAI, Lovable, and Replit
 position:
   title: Staff Software Engineer - AI SDK
   ai_type:

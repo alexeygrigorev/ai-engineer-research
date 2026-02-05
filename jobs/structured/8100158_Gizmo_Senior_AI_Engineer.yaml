@@ -2,12 +2,6 @@ company:
   name: Gizmo
   stage: Series A
   focus: AI-powered gamified learning platform
-  use_cases:
-  - Gamified learning platform that uses AI to make learning easy and fun for anyone
-  - AI-powered educational content generation and personalization
-  - Social and gamified learning mechanics powered by LLMs
-  - Adaptive learning experiences using large language models
-  - Duolingo-style learning for any subject enhanced by AI
 position:
   title: Senior AI Engineer
   ai_type:

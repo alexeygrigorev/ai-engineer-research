@@ -2,11 +2,6 @@ company:
   name: Momenti
   stage: null
   focus: Interactive multi-dimensional video experiences
-  use_cases:
-  - Action recognition on sequences of images for multi-dimensional video content
-  - Autonomous robot navigation and hardware interaction
-  - 3D reconstruction of visual content
-  - Interactive video experiences that break the fourth wall
 position:
   title: Computer Vision AI Engineer
   ai_type:

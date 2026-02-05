@@ -4,15 +4,6 @@ company:
   focus: |-
     AI-native asset management platform for healthcare
     facilities and real estate
-  use_cases:
-  - Real-time visibility and observability into asset performance, deal progress,
-    and market conditions
-  - AI-driven multidimensional optimization with risk scores, tax strategies, and
-    benchmarking
-  - Automated workflows and orchestration to eliminate inefficiencies in asset management
-  - Intelligent data extraction and analysis for healthcare facilities and multifamily
-    real estate
-  - Agentic systems for complex financial workflow automation and decision support
 position:
   title: AI Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Bobsled
   stage: null
   focus: AI-powered analytics, text-to-SQL, data agents
-  use_cases:
-  - Natural language to SQL translation for data analytics
-  - Enterprise data insights generation using AI-powered queries
-  - Production-grade text-to-SQL systems for business intelligence
-  - Contextually tuned AI deployments for customer data environments
-  - Automated evaluation and regression testing for data agents
 position:
   title: AI Engineer
   ai_type:

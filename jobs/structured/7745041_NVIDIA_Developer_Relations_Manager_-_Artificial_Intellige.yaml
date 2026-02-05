@@ -2,13 +2,6 @@ company:
   name: NVIDIA
   stage: Public
   focus: GPU computing and AI hardware/software
-  use_cases:
-  - GPU acceleration for deep learning and AI applications on cloud service provider
-    platforms
-  - Integration of NVIDIA GPU acceleration into CSP applications and services
-  - High-performance computing and database analytics workloads
-  - Generative AI and machine learning platform optimization
-  - Professional visualization and HPC applications accelerated by GPUs
 position:
   title: Developer Relations Manager - Artificial Intelligence
   ai_type:

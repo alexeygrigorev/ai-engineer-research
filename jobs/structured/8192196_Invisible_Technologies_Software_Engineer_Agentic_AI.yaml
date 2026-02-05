@@ -5,13 +5,6 @@ company:
   focus: |-
     End-to-end AI platform for enterprise workflow automation,
     data structuring, and agentic AI solutions
-  use_cases:
-  - Supply chain automation for enterprise clients
-  - AI-enabled naval simulations for defense contractors
-  - Validation and analysis for sports draft picks
-  - Data structuring and cleaning to prepare company data for AI applications
-  - Agentic AI solutions deployed to solve complex client problems across industries
-  - Digital workflow automation combining AI with human expertise
 position:
   title: Software Engineer, Agentic AI
   ai_type:

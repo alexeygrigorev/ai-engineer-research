@@ -2,12 +2,6 @@ company:
   name: Talkspace
   stage: unknown
   focus: Online therapy and telehealth platform
-  use_cases:
-  - Agentic workflow validation for mental health support systems
-  - Structured output validation for LLM-powered therapy features
-  - Safety layer and fallback mechanism testing for AI interactions
-  - Regression testing for model behavior changes in clinical systems
-  - Multi-step workflow testing for conversational AI interfaces
 position:
   title: QA Automation Engineer (AI Systems & Web Apps)
   ai_type:

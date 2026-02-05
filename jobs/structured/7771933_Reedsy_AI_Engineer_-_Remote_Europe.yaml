@@ -2,12 +2,6 @@ company:
   name: Reedsy
   stage: Series B
   focus: Publishing platform and marketplace for authors
-  use_cases:
-  - Narrative co-pilot to assist authors in storytelling and writing
-  - Visual storyboarding assistant to help authors visualize scenes and plot
-  - Automated workflow tools to streamline repetitive publishing tasks
-  - AI-powered enhancements to book discovery and writing applications
-  - Intelligent features that support creativity without replacing human authors
 position:
   title: AI Engineer - Remote Europe
   ai_type:

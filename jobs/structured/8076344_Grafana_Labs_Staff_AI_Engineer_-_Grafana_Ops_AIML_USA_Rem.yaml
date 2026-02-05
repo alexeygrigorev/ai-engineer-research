@@ -2,12 +2,6 @@ company:
   name: Grafana Labs
   stage: Series B+
   focus: Open-source observability and monitoring platform
-  use_cases:
-  - AI-powered incident detection, triage, and resolution using observability data
-  - LLM-driven workflows for incident lifecycle management and automated analysis
-  - AI agents that assist users with incident response across the observability stack
-  - Automated analysis tasks using LLMs to reduce toil and surface meaningful signals
-  - Integration of agentic components with alerting systems and runbooks
 position:
   title: Staff AI Engineer - Grafana Ops, AI/ML | USA | Remote
   ai_type:

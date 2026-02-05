@@ -2,13 +2,6 @@ company:
   name: Aledade
   stage: null
   focus: null
-  use_cases:
-  - Text generation for healthcare documentation and communication
-  - Image synthesis for medical imaging applications
-  - Multimodal AI models combining text and image data for healthcare insights
-  - Personalized content creation for patient engagement and care coordination
-  - Making complex healthcare datasets more accessible through AI-powered interfaces
-  - Applied AI solutions to improve healthcare operations and patient outcomes
 position:
   title: Senior Software Engineer II - AI/ML
   ai_type:

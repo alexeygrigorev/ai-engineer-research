@@ -4,13 +4,6 @@ company:
   focus: |-
     AI Site Reliability Engineer for enterprise incident
     remediation
-  use_cases:
-  - Real-time incident detection in complex production environments
-  - Root cause analysis for production incidents using AI agents
-  - Automated remediation of production incidents
-  - Ingesting and reasoning over logs, metrics, and traces at scale
-  - Providing observability and monitoring for enterprise applications
-  - Enabling SRE teams to reduce firefighting and focus on high-impact work
 position:
   title: AI Engineer - Backend
   ai_type:

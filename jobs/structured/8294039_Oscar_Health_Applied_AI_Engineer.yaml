@@ -2,13 +2,6 @@ company:
   name: Oscar Health
   stage: Public
   focus: Health insurance technology platform
-  use_cases:
-  - Automate complex healthcare workflows to streamline operations
-  - Improve patient and member experiences through AI-powered interactions
-  - Solve real-world problems across the healthcare ecosystem using generative AI
-  - Transform the healthcare experience for millions of members
-  - Deliver intelligent agents that enhance healthcare service delivery
-  - Drive measurable business and user outcomes in health insurance
 position:
   title: Applied AI Engineer
   ai_type:

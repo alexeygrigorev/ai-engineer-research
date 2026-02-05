@@ -2,12 +2,6 @@ company:
   name: Cherry Ventures
   stage: Pre-Seed
   focus: AI-powered B2B payments and receivables management
-  use_cases:
-  - AI partner that manages B2B receivables like a human would
-  - Automating manual B2B payment processes and document exchange
-  - 24/7 monitoring and management of payment messages and communications
-  - Ensuring businesses get paid by tracking and managing receivables
-  - Replacing manual document, email, phone, and check-based B2B trade workflows
 position:
   title: Senior Product Engineer - AI fintech startup
   ai_type:

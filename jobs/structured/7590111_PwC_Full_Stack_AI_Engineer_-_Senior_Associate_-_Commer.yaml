@@ -4,14 +4,6 @@ company:
   focus: |-
     Professional services consulting firm providing data
     analytics and AI solutions
-  use_cases:
-  - Developing predictive models for business insights and decision-making
-  - Building AI-powered applications that transform raw data into actionable insights
-  - Creating data visualizations and statistical analysis to solve complex business
-    problems
-  - Implementing RAG systems for knowledge retrieval and enhanced AI responses
-  - Deploying fine-tuned models for domain-specific applications across industries
-  - Establishing responsible AI governance frameworks for enterprise clients
 position:
   title: Full Stack AI Engineer - Senior Associate - Commercial Technology & Innovation
   ai_type:

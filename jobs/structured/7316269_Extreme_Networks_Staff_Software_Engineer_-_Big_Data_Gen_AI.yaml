@@ -2,12 +2,6 @@ company:
   name: Extreme Networks
   stage: Public
   focus: Cloud-driven networking solutions
-  use_cases:
-  - Cloud-driven networking solutions for digital transformation
-  - Big data processing and analytics pipelines
-  - Machine learning platform infrastructure for networking applications
-  - Distributed systems for data lakehouse architectures
-  - Automation and analytics using AI/ML capabilities
 position:
   title: Staff Software Engineer - Big Data (Gen AI)
   ai_type:

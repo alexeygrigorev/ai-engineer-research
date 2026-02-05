@@ -2,12 +2,6 @@ company:
   name: Phizenix
   stage: null
   focus: AWS customer experience solutions with generative AI
-  use_cases:
-  - Customer experience solutions enhanced with generative AI for improved interactions
-  - Cloud-based contact center implementations using Amazon Connect
-  - AI-powered customer service solutions in regulated industries
-  - Large-scale contact center migrations to cloud platforms
-  - Consulting solutions for healthcare, finance, and government sectors
 position:
   title: Solutions Engineer - AWS Customer Experience & AI
   ai_type:

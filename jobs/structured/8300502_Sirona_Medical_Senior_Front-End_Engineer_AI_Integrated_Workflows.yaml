@@ -2,12 +2,6 @@ company:
   name: Sirona Medical
   stage: Series B
   focus: AI-powered operating system for radiology workflows
-  use_cases:
-  - AI-powered radiology workflow optimization and efficiency
-  - Clinical decision support with AI assistance for radiologists
-  - Visualization of AI reasoning and outputs in diagnostic workflows
-  - Agentic workflows and multimodal AI systems for medical imaging
-  - Cloud-native unified workspace for radiologists with AI integration
 position:
   title: Senior Front-End Engineer (AI Integrated Workflows and SDKs)
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: GEICO
   stage: Public
   focus: Insurance and financial services
-  use_cases:
-  - Enterprise workflow automation using AI-powered intelligent assistants
-  - Document intelligence systems for processing and extracting insights from documents
-  - Decision support systems that improve business decision-making across the enterprise
-  - Customer experience enhancement through generative AI applications
-  - Knowledge graph and vector search integration for enhanced context retrieval and
-    reasoning
-  - Agentic workflows that orchestrate business logic with AI capabilities
 position:
   title: Senior Engineer- Applied AI (Python)
   ai_type:

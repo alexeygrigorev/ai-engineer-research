@@ -2,11 +2,6 @@ company:
   name: Arc (joinarc.com)
   stage: Series A
   focus: AI-native business cash management platform
-  use_cases:
-  - AI-powered cash management platform for high-growth companies
-  - Unified treasury and debt-financing platform powered by AI
-  - Financial data analysis and action through AI automation
-  - AI-native business cash management with automated insights
 position:
   title: Senior Staff Engineer, AI
   ai_type:

@@ -2,11 +2,6 @@ company:
   name: Jahnel Group
   stage: early-stage startup
   focus: AI-powered procurement platform
-  use_cases:
-  - AI-powered procurement platform for intelligent sourcing decisions
-  - Complex data ingestion and transformation workflows for procurement data
-  - LLM-driven workflow orchestration enabling smart procurement automation
-  - ETL pipelines processing procurement-related data into analytics-ready formats
 position:
   title: Senior Backend Engineer (AI/Data Platform)
   ai_type:

@@ -4,14 +4,6 @@ company:
   focus: |-
     AI-powered financial risk management and intelligence
     platform
-  use_cases:
-  - Transform complex market data into actionable financial insights
-  - Build intelligent agents that reason, plan, and execute across financial workflows
-  - Secure over $200 billion in assets across DeFi protocols including Aave, Jupiter,
-    and GMX
-  - Process and analyze more than $5 trillion in transaction volume
-  - Provide institutional-grade intelligence for financial markets
-  - Deliver risk management systems and oracles for financial protocols
 position:
   title: AI Engineer
   ai_type:

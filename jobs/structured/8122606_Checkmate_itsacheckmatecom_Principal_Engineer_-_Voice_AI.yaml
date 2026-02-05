@@ -3,12 +3,6 @@ company:
   stage: Series B (inferred from $1B market opportunity and scaling to thousands of
     stores)
   focus: Voice AI systems for restaurant drive-thru automation
-  use_cases:
-  - Real-time drive-thru automation for restaurants
-  - Voice ordering systems for food service
-  - Agentic AI systems for customer service interactions
-  - LLM-powered conversational interfaces for high-volume environments
-  - Production AI solutions achieving 80%+ accuracy at scale
 position:
   title: Principal Engineer - Voice AI
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Rula
   stage: Series B
   focus: Mental health platform with AI-assisted therapy
-  use_cases:
-  - AI-assisted therapy that supports providers and helps patients get the right care
-    faster
-  - Provider decision support systems to enhance clinical decision-making
-  - Patient conversational AI interfaces for mental healthcare interactions
-  - Clinical operations automation using generative AI
-  - Human-in-the-loop clinical decision support with AI alignment
 position:
   title: Staff AI Engineer
   ai_type:

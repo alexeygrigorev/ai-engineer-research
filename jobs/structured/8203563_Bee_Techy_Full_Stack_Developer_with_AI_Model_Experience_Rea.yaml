@@ -2,13 +2,6 @@ company:
   name: Bee Techy
   stage: null
   focus: Software development agency for startups and enterprises
-  use_cases:
-  - Building cutting-edge software solutions for startups and enterprises
-  - Developing multilingual interfaces for global audiences using i18next
-  - Implementing secure payment flows using Stripe for e-commerce applications
-  - Integrating AI-powered features and third-party APIs into production applications
-  - Real-time notifications and user feedback systems
-  - Full-stack applications with server-side rendering and static site generation
 position:
   title: Full Stack Developer with AI Model Experience (React.js/Node.js/TypeScript)
   ai_type:

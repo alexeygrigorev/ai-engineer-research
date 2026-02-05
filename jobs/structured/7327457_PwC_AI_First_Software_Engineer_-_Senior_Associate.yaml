@@ -2,11 +2,6 @@ company:
   name: PwC
   stage: Public
   focus: Professional services with software solutions
-  use_cases:
-  - Software solutions for digital transformation and business performance enhancement
-  - Microservices-based applications with REST APIs and event-driven architecture
-  - Client-facing software projects across various industries
-  - Enterprise applications leveraging AI development tools for efficiency
 position:
   title: AI First Software Engineer - Senior Associate
   ai_type:

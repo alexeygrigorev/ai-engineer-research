@@ -2,16 +2,6 @@ company:
   name: Anthropic
   stage: Public benefit corporation
   focus: Building safe, beneficial, steerable AI systems
-  use_cases:
-  - Deploying AI applications to solve real-world business problems in federal civilian
-    agencies
-  - Creating production-grade agent systems and workflows for government customers
-  - Implementing MCP servers and sub-agent architectures for customer-specific use
-    cases
-  - Enabling transformational AI adoption across state, local, and federal government
-    organizations
-  - Developing custom AI solutions that address complex government business challenges
-    while maintaining safety standards
 position:
   title: Forward Deployed Engineer, Applied AI (Federal Civilian)
   ai_type:

@@ -4,13 +4,6 @@ company:
   focus: |-
     Connected Operations Cloud platform for IoT data analytics
     and physical operations
-  use_cases:
-  - Marketing customer segmentation and targeting through Customer Data Platform
-  - Predictive modeling and personalization for marketing campaigns
-  - Conversational Business Intelligence for marketing analytics
-  - Ambient AI applications for marketing operations automation
-  - RAG (Retrieval-Augmented Generation) for LLM-powered marketing tools
-  - Data-driven decision making for marketing and sales teams
 position:
   title: Senior Marketing AI Data Engineer
   ai_type:

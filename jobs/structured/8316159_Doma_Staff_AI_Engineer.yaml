@@ -2,13 +2,6 @@ company:
   name: Doma
   stage: null
   focus: Real estate closing and insurance technology solutions
-  use_cases:
-  - Transform insurance and real estate decision-making processes using generative
-    AI
-  - Enhance operational efficiency in property and title workflows through LLM-powered
-    automation
-  - Improve risk assessment and underwriting accuracy for insurance decisions
-  - Provide operations intelligence across property, title, and real estate sectors
 position:
   title: Staff AI Engineer
   ai_type:

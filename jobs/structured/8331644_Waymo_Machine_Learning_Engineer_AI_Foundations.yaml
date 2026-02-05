@@ -2,13 +2,6 @@ company:
   name: Waymo
   stage: Public (Alphabet subsidiary)
   focus: Autonomous driving technology
-  use_cases:
-  - Autonomous vehicle navigation and control in real-world driving conditions
-  - Simulation-based training and evaluation of autonomous driving systems
-  - Reinforcement learning for optimizing driving behaviors and decision-making
-  - Learning from demonstration to capture expert driving patterns
-  - Generative modeling for scenario synthesis and data augmentation
-  - Robust evaluation of ML systems under diverse driving conditions
 position:
   title: Machine Learning Engineer, AI Foundations
   ai_type:

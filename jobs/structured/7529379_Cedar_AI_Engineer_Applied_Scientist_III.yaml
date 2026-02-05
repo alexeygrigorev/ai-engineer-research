@@ -2,13 +2,6 @@ company:
   name: Cedar
   stage: Series B+ (raised over $350M)
   focus: Healthcare financial platform and patient billing
-  use_cases:
-  - AI Voice Agent for patient billing inquiries and support
-  - Bill clarity and financial communication for patients
-  - Workflow automation for healthcare provider billing departments
-  - Unstructured data analysis from call transcripts to improve patient interactions
-  - Personalized patient financial experience using generative AI
-  - Automated voice-based resolution of billing questions and payment discussions
 position:
   title: AI Engineer (Applied Scientist) III
   ai_type:

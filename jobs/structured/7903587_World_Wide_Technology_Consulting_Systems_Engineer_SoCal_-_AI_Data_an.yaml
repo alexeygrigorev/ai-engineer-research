@@ -4,13 +4,6 @@ company:
   focus: |-
     Global technology solutions provider for AI and digital
     transformation
-  use_cases:
-  - AI enablement and deployment architecture design for enterprise clients
-  - Data pipeline and big data solution implementations
-  - MLOps infrastructure and model lifecycle management
-  - Cloud data platform migrations and modernizations
-  - DevOps automation and CI/CD pipeline implementations
-  - Multi-cloud architecture design and optimization
 position:
   title: Consulting Systems Engineer (SoCal) - AI, Data, and DevOps Solutions
   ai_type:

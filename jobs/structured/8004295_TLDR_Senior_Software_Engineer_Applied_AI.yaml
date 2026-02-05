@@ -2,13 +2,6 @@ company:
   name: TLDR
   stage: Bootstrapped and profitable startup
   focus: Tech newsletter network with 7M subscribers
-  use_cases:
-  - CRM analysis and proposal generation for sales workflows
-  - Knowledge base search and competitive research automation
-  - Lead enrichment and content research through autonomous agents
-  - Data hygiene and reporting without human intervention
-  - Internal tooling for non-technical teammates to create AI workflows
-  - Marketing and operations task automation using autonomous agents
 position:
   title: Senior Software Engineer, Applied AI
   ai_type:

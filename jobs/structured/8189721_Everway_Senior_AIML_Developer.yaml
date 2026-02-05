@@ -2,12 +2,6 @@ company:
   name: Everway
   stage: null
   focus: Neurotechnology software for education and accessibility
-  use_cases:
-  - Education software serving 250M+ users including students and educators
-  - Accessibility solutions for learners with diverse needs
-  - AI-powered products leveraging proprietary data and linguistic expertise
-  - Agentic workflows connecting LLMs with internal tools and data sources
-  - Multi-provider LLM applications using OpenAI, Anthropic, Google, and AWS Bedrock
 position:
   title: Senior AI/ML Developer
   ai_type:

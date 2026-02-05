@@ -2,13 +2,6 @@ company:
   name: EvolutionIQ
   stage: Series B+ (growth stage company with global expansion and massive growth)
   focus: AI guidance platform for insurance claims handling
-  use_cases:
-  - Extract key information from complex medical documents for insurance claims
-  - Generate human-in-the-loop summaries for medical claims processing
-  - Improve claims handling accuracy and efficiency using hybrid ML approaches
-  - Embeddings-based retrieval for medical document search and synthesis
-  - Agentic AI systems for autonomous claims processing
-  - RAG-powered medical synthesis with domain-specific fine-tuned LLMs
 position:
   title: Senior AI/ML Engineer (LLMs)
   ai_type:

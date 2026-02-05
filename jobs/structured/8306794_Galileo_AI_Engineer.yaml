@@ -3,11 +3,6 @@ company:
   stage: Series B+ (backed by top-tier investors, first 100 employees, multiple offices,
     Fortune 10 clients)
   focus: AI observability and runtime protection platform
-  use_cases:
-  - Agent observability and runtime protection for AI systems
-  - Monitoring and guardrails for production AI applications
-  - Evaluations for AI systems at production speed
-  - Helping developers ship reliable AI applications with agentic workflows
 position:
   title: AI Engineer
   ai_type:

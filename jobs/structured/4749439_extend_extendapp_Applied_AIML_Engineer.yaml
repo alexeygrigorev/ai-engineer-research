@@ -2,12 +2,6 @@ company:
   name: extend (extend.app)
   stage: Series A
   focus: Modern document processing platform using LLMs
-  use_cases:
-  - Document processing and extraction for enterprise workflows at scale
-  - Automated QA and confidence scoring for document analysis results
-  - Self-optimizing document processing systems that improve performance over time
-  - Multimodal document understanding combining text and layout information
-  - Mission-critical data processing for payments, real estate, and financial services
 position:
   title: Applied AI/ML Engineer
   ai_type:

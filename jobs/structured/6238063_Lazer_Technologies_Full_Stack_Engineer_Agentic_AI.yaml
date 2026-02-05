@@ -2,13 +2,6 @@ company:
   name: Lazer Technologies
   stage: null
   focus: Digital product studio building AI-powered applications
-  use_cases:
-  - Information extraction from documents using AI-powered features
-  - Chatbot implementations leveraging agentic workflows and LLMs
-  - Document construction and generation using generative AI
-  - Search functionality enhanced with AI capabilities
-  - Data normalization using LLM-based processing
-  - Image or video generation using generative AI models
 position:
   title: Full Stack Engineer, Agentic AI
   ai_type:

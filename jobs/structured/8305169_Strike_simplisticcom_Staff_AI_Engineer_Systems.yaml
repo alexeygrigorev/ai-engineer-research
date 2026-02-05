@@ -2,15 +2,6 @@ company:
   name: Strike (simplistic.com)
   stage: Series B
   focus: Bitcoin payments and financial services
-  use_cases:
-  - Agentic systems interacting with real-world Bitcoin financial infrastructure and
-    cloud platforms
-  - IDE agents that accelerate software development workflows for engineering teams
-  - Autonomous agents with tiered independence levels for read-only advisory to action-taking
-    operations
-  - Enterprise knowledge base connecting disparate data sources for agentic reasoning
-    across systems
-  - Internal MCP servers enabling secure agent interactions with core platform services
 position:
   title: Staff AI Engineer (Systems)
   ai_type:

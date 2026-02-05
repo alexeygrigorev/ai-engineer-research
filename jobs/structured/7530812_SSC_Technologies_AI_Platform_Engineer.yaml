@@ -2,14 +2,6 @@ company:
   name: SS&C Technologies
   stage: Public
   focus: Financial services and healthcare technology
-  use_cases:
-  - Cloud infrastructure platform for Kubernetes and containerized workloads
-  - Release management and CI/CD pipeline automation for application deployments
-  - Monitoring and logging platform for infrastructure and application performance
-    visibility
-  - Cloud cost optimization for efficient infrastructure operations
-  - Secure and compliant cloud operations meeting financial services and healthcare
-    regulatory standards
 position:
   title: AI Platform Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Aledade
   stage: null
   focus: Healthcare analytics and ACO solutions
-  use_cases:
-  - Healthcare analytics and data processing for healthcare organizations
-  - Full-stack web applications supporting healthcare operations
-  - Data pipelines for large multi-table healthcare datasets
-  - Statistical analysis including causal inference and NLP on healthcare data
-  - Cloud-based systems handling sensitive healthcare data
 position:
   title: Senior Software Engineer I- AI/ML
   ai_type:

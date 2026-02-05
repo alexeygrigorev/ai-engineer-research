@@ -2,13 +2,6 @@ company:
   name: Nory
   stage: Series B
   focus: AI-powered restaurant management platform
-  use_cases:
-  - Real-time data analysis and AI predictive analytics for restaurant operations
-  - Food prep optimization and forecasting to reduce waste and improve margins
-  - Operational intelligence system providing control over restaurant margins and
-    consistency
-  - Agent-backed features delivering actionable insights to restaurant operators
-  - Multi-step agentic workflows that automate complex operational decisions
 position:
   title: Founding AI Product Engineer
   ai_type:

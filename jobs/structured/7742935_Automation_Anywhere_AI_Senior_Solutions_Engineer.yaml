@@ -4,15 +4,6 @@ company:
   focus: |-
     Agentic Process Automation with AI-powered RPA and
     intelligent automation
-  use_cases:
-  - Process automation and discovery using AI-powered agents and the Process Reasoning
-    Engine
-  - Document processing and unstructured data extraction with OCR and Intelligent
-    Document Processing
-  - End-to-end orchestration of business processes combining RPA with AI capabilities
-  - Enterprise system integration and workflow automation across SAP, Salesforce,
-    ServiceNow, and Workday
-  - Intelligent process optimization using LLMs, RAG architectures, and vector databases
 position:
   title: AI Senior Solutions Engineer
   ai_type:

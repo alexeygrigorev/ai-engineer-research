@@ -4,14 +4,6 @@ company:
   focus: |-
     Banking and financial services with AI-powered customer
     experiences
-  use_cases:
-  - Informing customers about unusual charges and detecting fraud in real-time
-  - Answering customer questions in real-time with AI-powered conversational interfaces
-  - Creating personalized customer experiences through ML-driven recommendations and
-    insights
-  - Enhancing associate productivity with AI-powered tools and automation
-  - Building responsible and scalable AI governance, guardrails, and observability
-    systems
 position:
   title: Sr. Distinguished AI Engineer
   ai_type:

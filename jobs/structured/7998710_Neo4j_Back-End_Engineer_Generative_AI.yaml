@@ -2,12 +2,6 @@ company:
   name: Neo4j
   stage: Series F
   focus: Graph intelligence platform for AI and knowledge graphs
-  use_cases:
-  - Building agent-based AI applications and workflows
-  - Developing scalable back-end infrastructure for GenAI applications
-  - Integrating GenAI capabilities into internal systems
-  - Powering intelligent applications with graph knowledge and context
-  - Creating enterprise-ready AI solutions with explainable and governed AI
 position:
   title: Back-End Engineer (Generative AI)
   ai_type:

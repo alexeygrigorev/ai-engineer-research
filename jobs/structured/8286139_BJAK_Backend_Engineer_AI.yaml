@@ -4,11 +4,6 @@ company:
   focus: |-
     Building proactive AI systems that carry work forward across
     conversations, tools, and time
-  use_cases:
-  - Proactive AI system that carries work forward across conversations, tools, and
-    time
-  - AI-powered features that require model orchestration across multiple interactions
-  - Real-time inference serving with high throughput and low latency requirements
 position:
   title: Backend Engineer, AI
   ai_type:

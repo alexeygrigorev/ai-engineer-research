@@ -4,11 +4,6 @@ company:
   focus: |-
     Foundational software and hardware for semiconductor
     industry and AI infrastructure
-  use_cases:
-  - Convert large technical documents like chip design specifications into code
-  - Extract meaning from complex technical specifications using LLMs
-  - Agentic code generation and tool-use for hardware design
-  - Document understanding for semiconductor industry applications
 position:
   title: AI Engineer
   ai_type:

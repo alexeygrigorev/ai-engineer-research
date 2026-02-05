@@ -2,12 +2,6 @@ company:
   name: Applico Capital
   stage: Stealth (venture-backed startup)
   focus: AI-enabled B2B distribution solutions
-  use_cases:
-  - AI-driven search and merchandising optimization for B2B distribution
-  - Dynamic pricing and demand forecasting systems
-  - Automated customer support workflows using generative AI
-  - Agentic architectures for autonomous and semi-autonomous business operations
-  - RAG-based knowledge retrieval for distributor operations
 position:
   title: Applied AI / Machine Learning Engineer
   ai_type:

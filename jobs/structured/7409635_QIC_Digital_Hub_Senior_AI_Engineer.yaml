@@ -2,13 +2,6 @@ company:
   name: QIC Digital Hub
   stage: Public
   focus: Insurance provider building digital ecosystem
-  use_cases:
-  - Insurance document processing and automated document analysis
-  - Visual damage assessment from photos using Computer Vision and OCR
-  - Identity verification through image recognition
-  - Customer service chatbots powered by LLMs and RAG
-  - Voice analytics and transcription for multilingual support
-  - Multimodal AI combining text and images for insurance claims
 position:
   title: Senior AI Engineer
   ai_type:

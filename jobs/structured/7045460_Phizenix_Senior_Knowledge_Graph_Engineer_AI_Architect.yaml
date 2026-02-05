@@ -2,12 +2,6 @@ company:
   name: Phizenix
   stage: null
   focus: Knowledge Graph and AI reasoning systems
-  use_cases:
-  - Advanced inference and decision support systems
-  - Autonomous agents powered by knowledge graphs and AI reasoning
-  - Real-time applications combining LLMs with graph databases
-  - Semantic search and enrichment using knowledge graphs
-  - Knowledge-driven AI systems for intelligent decision-making
 position:
   title: Senior Knowledge Graph Engineer / AI Architect
   ai_type:

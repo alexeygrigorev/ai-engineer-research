@@ -4,13 +4,6 @@ company:
   focus: |-
     Data science solutions for pricing, claims management,
     forecasting
-  use_cases:
-  - Algorithmic pricing optimization for large organizations
-  - Data-driven claims management systems
-  - High-dimensional forecasting systems
-  - Decision support systems that improve human decision quality
-  - Enterprise AI applications that unlock operational efficiencies
-  - Core business process transformation using advanced AI/ML solutions
 position:
   title: AI Engineer
   ai_type:

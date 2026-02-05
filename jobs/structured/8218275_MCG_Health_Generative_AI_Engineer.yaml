@@ -2,14 +2,6 @@ company:
   name: MCG Health
   stage: Public
   focus: Healthcare evidence-based care guidelines and content
-  use_cases:
-  - Automate search, filter, retrieval, and critical evaluation of medical literature
-    to accelerate content production
-  - Improve content creation efficiency with AI-powered copy editing assistance tools
-  - Streamline evidence-based care guideline updates through automated literature
-    review workflows
-  - Enable clinical editors to create content more efficiently and accurately with
-    AI-powered tools
 position:
   title: Generative AI Engineer
   ai_type:

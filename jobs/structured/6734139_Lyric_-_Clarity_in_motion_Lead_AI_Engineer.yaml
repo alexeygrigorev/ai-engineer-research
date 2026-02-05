@@ -4,15 +4,6 @@ company:
   focus: |-
     Healthcare technology for payment accuracy and pre-pay
     editing
-  use_cases:
-  - Extract and structure data from unstructured documents such as PDFs, scanned forms,
-    and free-text content
-  - Prevent inaccurate payments and reduce waste in the healthcare ecosystem through
-    intelligent document processing
-  - Interpret, summarize, and extract information from complex unstructured healthcare
-    documents at scale
-  - Document understanding and data extraction for healthcare payer and provider workflows
-  - Pre-payment accuracy and integrity through AI-powered document analysis
 position:
   title: Lead AI Engineer
   ai_type:

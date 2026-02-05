@@ -2,12 +2,6 @@ company:
   name: Horizon Media
   stage: null
   focus: Enterprise advertising and media technology platform
-  use_cases:
-  - Enterprise-grade AI agents for solving business challenges across the media landscape
-  - Chatbots and virtual assistants powered by large language models
-  - Multi-agent systems that leverage unique data and technology assets
-  - AI-powered advertising solutions using natural language processing
-  - RAG-based applications grounded in enterprise data sources
 position:
   title: Senior AI Engineer
   ai_type:

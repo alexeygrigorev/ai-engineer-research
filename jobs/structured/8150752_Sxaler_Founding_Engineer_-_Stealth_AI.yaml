@@ -2,11 +2,6 @@ company:
   name: Sxaler
   stage: Stealth
   focus: AI startup disrupting $100B+ market
-  use_cases:
-  - Building AI-native platform for millions of users
-  - Accelerating humans with cutting-edge AI products
-  - Disrupting a $100B+ market with AI solutions
-  - Transforming real-world workflows with AI technology
 position:
   title: Founding Engineer - Stealth AI
   ai_type:

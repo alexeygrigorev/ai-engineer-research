@@ -2,14 +2,6 @@ company:
   name: Smartly
   stage: Series D or later (750+ employees, 24 locations, managing $6B in ad spend)
   focus: AI-powered advertising technology platform
-  use_cases:
-  - Help marketers optimize ad creatives including images, video and text for better
-    performance
-  - Build AI-based solutions across media and creative advertising workflows
-  - Enable advertisers to create more effective advertising experiences for consumers
-  - Process and analyze multi-modal data from image, video, audio, text and performance
-    metrics
-  - Generate or enhance advertising creatives at scale using AI technologies
 position:
   title: Staff Machine Learning Engineer (AI Platform)
   ai_type:

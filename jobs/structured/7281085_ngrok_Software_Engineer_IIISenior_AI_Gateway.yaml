@@ -4,16 +4,6 @@ company:
   focus: |-
     Cloud networking platform for secure traffic routing and AI
     gateway
-  use_cases:
-  - AI traffic identification and control at the gateway layer with real-time policy
-    enforcement
-  - Preventing runaway AI costs and misuse through rate limits, usage caps, and access
-    rules
-  - Tracking and measuring AI token consumption and usage patterns for cost observability
-  - Explaining AI traffic behavior by showing which policies were applied and why
-    requests were allowed or blocked
-  - Providing secure routing and transformation for AI inference workloads in production
-    environments
 position:
   title: Software Engineer III/Senior, AI Gateway
   ai_type:

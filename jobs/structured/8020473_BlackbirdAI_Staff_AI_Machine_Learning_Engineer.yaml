@@ -2,14 +2,6 @@ company:
   name: Blackbird.AI
   stage: Series B+
   focus: AI-powered narrative and risk intelligence platform
-  use_cases:
-  - Detect and understand emergent threats through narrative and risk intelligence
-  - Surface, contextualize, and explain complex information ecosystems for high-stakes
-    decision making
-  - Enable reasoning over entities and relationships in graph-structured data
-  - Provide explainable and auditable AI systems customers can trust
-  - Apply ML and LLM techniques to network-based problems like relationship discovery
-    and influence propagation
 position:
   title: Staff AI / Machine Learning Engineer
   ai_type:

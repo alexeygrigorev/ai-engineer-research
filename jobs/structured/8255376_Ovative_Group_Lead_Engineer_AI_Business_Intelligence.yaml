@@ -2,15 +2,6 @@ company:
   name: Ovative Group
   stage: null
   focus: Full-funnel media measurement and MarTech platform
-  use_cases:
-  - Enterprise analytics platform that provides AI-driven insights and recommendations
-    from complex datasets
-  - RAG-based system for querying business intelligence data and documentation with
-    semantic search capabilities
-  - Integration with business tools (Confluence, Slack, EMRge) to surface insights
-    through familiar user interfaces
-  - Marketing measurement and media optimization through holistic data analysis and
-    AI-powered recommendations
 position:
   title: Lead Engineer, AI & Business Intelligence
   ai_type:

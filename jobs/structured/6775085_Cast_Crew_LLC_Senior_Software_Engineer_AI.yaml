@@ -4,17 +4,6 @@ company:
   focus: |-
     Entertainment technology and services provider for
     production, payroll, and creative tools
-  use_cases:
-  - Context-aware chatbots for navigating complex business workflows in entertainment
-    production
-  - AI-driven data explanations and insights for payroll, compliance, and labor management
-    systems
-  - Natural language query interface over structured business data for self-service
-    analytics
-  - Automated task guidance that proactively fills missing data and recommends next
-    steps
-  - Interactive forecasting dashboards for financial trends and labor predictions
-  - Explainable AI features to provide transparency into system decisions and recommendations
 position:
   title: Senior Software Engineer, AI
   ai_type:

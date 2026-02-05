@@ -2,16 +2,6 @@ company:
   name: Salesforce
   stage: Public
   focus: AI CRM platform and collaboration tools
-  use_cases:
-  - Mobile search experiences that help users quickly find information within Slack
-    on their phones
-  - Context-aware AI-powered interactions that leverage mobile sensors and location
-    data
-  - AI-driven task completion and productivity features for users on the go
-  - Native mobile experiences that integrate with Slack's AI capabilities for workplace
-    productivity
-  - Notification-driven AI interactions that provide timely assistance based on user
-    context
 position:
   title: Staff Software Engineer, iOS - Search and AI Mobile
   ai_type:

@@ -4,12 +4,6 @@ company:
   focus: |-
     Digital services and AI solutions for federal government
     missions
-  use_cases:
-  - Automating knowledge work to enhance human decision-making for federal missions
-  - Improving digital experiences for veterans, clinicians, and public safety professionals
-  - Building secure, mission-critical agentic systems for government agencies
-  - Creating AI copilots and intelligent agents for digital civic services
-  - Developing retrieval-augmented solutions to support sensitive government operations
 position:
   title: Junior AI Engineer
   ai_type:

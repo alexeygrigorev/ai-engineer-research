@@ -2,14 +2,6 @@ company:
   name: Poggio Labs
   stage: Series A
   focus: AI-powered account intelligence for revenue teams
-  use_cases:
-  - Provide deep AI-powered account intelligence for revenue organizations
-  - Arm GTM teams with tailored points of view (POVs) to help sellers outperform competitors
-  - Build agents and agent skills on top of context engine to provide out-of-the-box
-    value to GTM teams
-  - Integrate with CRM solutions, data warehouses, and other systems for always-current
-    customer views
-  - Help enterprise revenue leaders prioritize accounts and scale sales excellence
 position:
   title: Senior AI Product Engineer
   ai_type:

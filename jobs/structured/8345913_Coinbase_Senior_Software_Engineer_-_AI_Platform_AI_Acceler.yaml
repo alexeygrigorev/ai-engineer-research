@@ -2,13 +2,6 @@ company:
   name: Coinbase
   stage: Public
   focus: Cryptocurrency exchange and financial platform
-  use_cases:
-  - AI automation solutions for business workflows and efficiency gains
-  - AI agents and custom copilots to address specific business needs
-  - Intelligent workflows powered by large language models
-  - Enterprise-level AI solutions with strict security, privacy, and ethical guidelines
-    compliance
-  - Applied AI and Generative AI systems for crypto/fintech domain operations
 position:
   title: Senior Software Engineer - AI Platform (AI Acceleration)
   ai_type:

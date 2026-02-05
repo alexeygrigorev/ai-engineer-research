@@ -2,11 +2,6 @@ company:
   name: Citi
   stage: Public
   focus: Global banking and financial services
-  use_cases:
-  - Support LLM-based applications across the bank
-  - Enable RAG (Retrieval-Augmented Generation) implementations
-  - Provide Generative AI toolchains for various business units
-  - Address use-cases of users across financial services domains
 position:
   title: Generative AI Common Platform Engineer - VP
   ai_type:

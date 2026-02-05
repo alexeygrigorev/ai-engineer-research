@@ -2,16 +2,6 @@ company:
   name: BuildOps
   stage: Series C
   focus: Commercial contractor management software platform
-  use_cases:
-  - System of Action software that actively drives decisions and automates workflows
-    for commercial contractors
-  - AI-powered operational workflows including service department management and project
-    management
-  - Semi-autonomous workflows with human-in-the-loop decision making and oversight
-  - Real-time workflow orchestration and automation using AI to drive operational
-    efficiency
-  - Auditability and transparency features for automated actions with history, attribution,
-    and rollback capabilities
 position:
   title: Staff Software Engineer, Frontend (AI)
   ai_type:

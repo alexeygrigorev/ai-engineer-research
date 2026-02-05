@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: null
   focus: AI model training and evaluation services
-  use_cases:
-  - Training large language models to write production-grade code across multiple
-    programming languages
-  - Generating reward signals from human code evaluations to improve model performance
-  - Teaching models to propose, critique, and improve code like expert engineers
-  - Evaluating code correctness and style through human feedback reinforcement learning
 position:
   title: AI Software Engineer (Python)
   ai_type:

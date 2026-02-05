@@ -2,12 +2,6 @@ company:
   name: SentinelOne
   stage: Public
   focus: AI-powered cybersecurity threat protection
-  use_cases:
-  - Hosting and serving AI models in cybersecurity applications
-  - Deploying AI-powered threat detection and prevention systems
-  - Managing secure cloud infrastructure for AI workloads
-  - Supporting high-performance machine learning inference pipelines
-  - Ensuring FedRAMP-compliant AI infrastructure deployment
 position:
   title: Staff AI Infrastructure Engineer
   ai_type:

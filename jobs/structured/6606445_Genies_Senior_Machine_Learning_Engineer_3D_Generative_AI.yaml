@@ -2,15 +2,6 @@ company:
   name: Genies
   stage: Series B+
   focus: Avatar technology and AI companions for digital identity
-  use_cases:
-  - Generate high-quality 3D assets for avatar creation including meshes, images,
-    and motion
-  - AI-generated fashion items and props for digital avatars
-  - Neural radiance fields (NeRF) and Gaussian splatting for novel view synthesis
-    and scene representation
-  - 3D multimodal training for computer vision and graphics applications
-  - Game-ready AI companions with customizable appearance and behavior
-  - Volumetric differentiable rendering for animation and gaming content
 position:
   title: 'Senior Machine Learning Engineer: 3D Generative AI'
   ai_type:

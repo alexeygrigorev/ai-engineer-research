@@ -2,19 +2,6 @@ company:
   name: Kasa Living, Inc.
   stage: Series B
   focus: Tech-enabled hospitality operating system
-  use_cases:
-  - Operational efficiency automation across Operations, Guest Services, Finance,
-    and Human Resources departments
-  - AI-driven pricing optimization for hospitality assets using intelligent automation
-    and data-driven decision making
-  - Process automation for reducing manual workload and eliminating repetitive tasks
-    across business functions
-  - Workflow automation connecting disparate business systems through API integrations
-    and orchestration platforms
-  - Real-time process monitoring and alerting to identify areas for continuous improvement
-    and error reduction
-  - Guest experience enhancement through digitally forward, automated hospitality
-    operations
 position:
   title: AI Solutions Engineer
   ai_type:

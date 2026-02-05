@@ -4,16 +4,6 @@ company:
   focus: |-
     Professional information services and software for
     healthcare, legal, tax, and compliance
-  use_cases:
-  - UpToDate Expert AI - a medical research and clinical reasoning agent that assists
-    physicians with differential diagnosis and treatment decisions
-  - AI platform for healthcare to enable faster, safer decision-making while maintaining
-    safety, privacy, and guideline fidelity
-  - GenAI platform powering critical decisions across legal, tax, and compliance industries
-  - AI agents for accelerating time-to-decision and improving trust/safety metrics
-    in regulated industries
-  - Medical assistant reducing cognitive load for millions of physicians through real-time
-    knowledge access
 position:
   title: Lead/Staff Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: null
   focus: LLM code evaluation and training through human feedback
-  use_cases:
-  - Training large language models to write production-grade code
-  - Generating expert code comparisons and rankings for model learning
-  - Creating reward signals through human code feedback for reinforcement learning
-  - Improving AI code generation through human-in-the-loop refinement
-  - Teaching LLMs to propose, critique, and improve code like expert engineers
 position:
   title: Software Engineer, AI (Rust)
   ai_type:

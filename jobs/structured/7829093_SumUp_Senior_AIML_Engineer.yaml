@@ -2,14 +2,6 @@ company:
   name: SumUp
   stage: Series B+
   focus: Fintech payments and financial tools for small businesses
-  use_cases:
-  - AI Assistant that automates approximately 40% of merchant requests and provides
-    automated customer support
-  - AI Translation tool enabling cross-language agent service for global operations
-  - AI Agent Copilot supporting human agents with intelligent assistance
-  - Voice Assistant for new customer support channels
-  - Automated support tools that improve operational efficiency for merchants and
-    support agents
 position:
   title: Senior AI/ML Engineer
   ai_type:

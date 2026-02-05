@@ -2,13 +2,6 @@ company:
   name: Adevinta
   stage: Public
   focus: Global online classifieds marketplace
-  use_cases:
-  - Enabling large-scale ML model deployment from notebooks to production APIs
-  - Providing Vector Database infrastructure for RAG (Retrieval Augmented Generation)
-    workflows
-  - Supporting AI Agent development and management through platform tooling
-  - Facilitating traditional ML operations with Feature Store and Model Registry
-  - Enabling GenAI governance and best practices for LLM application development
 position:
   title: Senior Staff Data Engineer- ML & AI Platform
   ai_type:

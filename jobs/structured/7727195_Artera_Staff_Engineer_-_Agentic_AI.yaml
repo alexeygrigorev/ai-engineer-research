@@ -2,14 +2,6 @@ company:
   name: Artera
   stage: Series B-Growth
   focus: AI-powered patient communication virtual agents
-  use_cases:
-  - AI-powered virtual agents for patient communication via voice and text
-  - Healthcare patient journey automation including self-scheduling, intake, forms,
-    and billing
-  - Autonomous digital workforce for healthcare organizations
-  - High-throughput patient engagement across 109 languages
-  - 2B communications supporting 100 million patients annually
-  - Augmenting front desk staff with AI-driven support tools
 position:
   title: Staff Engineer - Agentic AI
   ai_type:

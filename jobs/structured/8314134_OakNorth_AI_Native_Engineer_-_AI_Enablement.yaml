@@ -2,15 +2,6 @@ company:
   name: OakNorth
   stage: null
   focus: AI-powered bank for ambitious businesses
-  use_cases:
-  - AI-assisted code generation, refactoring, and review to accelerate development
-    workflows
-  - Automated documentation generation and maintenance using AI
-  - AI-powered test generation and quality validation
-  - Agents that inspect logs and metrics to identify bugs, risks, and performance
-    issues
-  - AI-assisted review of design documents and architectural decisions
-  - Automated pull requests with proposed fixes or improvements
 position:
   title: AI Native Engineer - AI Enablement
   ai_type:

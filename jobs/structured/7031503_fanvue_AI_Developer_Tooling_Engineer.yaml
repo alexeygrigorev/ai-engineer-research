@@ -2,16 +2,6 @@ company:
   name: fanvue
   stage: Series A
   focus: AI-powered creator monetization platform
-  use_cases:
-  - Accelerating developer velocity and feature delivery through AI-assisted coding
-    workflows
-  - Enabling parallelized development with AI-generated code review and automated
-    PR processes
-  - Building context-aware code generation systems integrated across IDEs and CI pipelines
-  - Establishing safe and consistent AI deployment practices across the engineering
-    organization
-  - Measuring and improving developer productivity metrics like PR cycle time and
-    throughput
 position:
   title: AI Developer Tooling Engineer
   ai_type:

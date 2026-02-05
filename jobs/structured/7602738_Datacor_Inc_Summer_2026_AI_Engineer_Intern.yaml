@@ -2,12 +2,6 @@ company:
   name: Datacor, Inc.
   stage: null
   focus: ERP, CRM, and process manufacturing software
-  use_cases:
-  - Develop intelligent applications to optimize process manufacturing operations
-  - Create generative AI applications using LLMs to enhance user efficiency
-  - Build data pipelines and deploy AI features for ERP, CRM, and asset tracking systems
-  - Implement AI solutions that help customers make products more safely, cost effectively,
-    and efficiently
 position:
   title: Summer 2026 AI Engineer Intern
   ai_type:

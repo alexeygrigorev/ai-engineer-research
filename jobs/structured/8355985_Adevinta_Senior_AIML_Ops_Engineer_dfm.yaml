@@ -2,12 +2,6 @@ company:
   name: Adevinta
   stage: Public
   focus: Online vehicle marketplace and classifieds
-  use_cases:
-  - Automotive marketplace with vehicle listings, financing, and leasing solutions
-  - AI-powered customer experience enhancements for 1.6M vehicle listings
-  - Agentic AI systems for automated workflows and customer interactions
-  - RAG-based applications for vehicle search and recommendations
-  - Multi-cloud AI services integration across AWS Bedrock and Google Vertex AI
 position:
   title: Senior AI/ML Ops Engineer (d/f/m)
   ai_type:

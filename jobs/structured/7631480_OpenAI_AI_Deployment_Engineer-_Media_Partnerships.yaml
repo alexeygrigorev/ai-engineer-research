@@ -2,13 +2,6 @@ company:
   name: OpenAI
   stage: Public
   focus: AI research and deployment company
-  use_cases:
-  - Customer service applications for news organizations
-  - Contextual search solutions for news content
-  - Personalization engines for reader experience
-  - Internal business operations optimization
-  - Marketing and audience development applications
-  - Sales support tools
 position:
   title: AI Deployment Engineer- Media Partnerships
   ai_type:

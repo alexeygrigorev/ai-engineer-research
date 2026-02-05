@@ -2,15 +2,6 @@ company:
   name: Candid Health
   stage: Series B+
   focus: Healthcare revenue cycle automation
-  use_cases:
-  - Automate healthcare billing and claims processing workflows to reduce administrative
-    waste
-  - Optimize claim submission, resubmission, and revenue cycle management operations
-  - Apply NLP models to process medical billing data and documentation
-  - Enable medical providers to focus on patient care by streamlining revenue cycle
-    operations
-  - Provide intelligent, data-driven approaches to simplify billing and enhance claims
-    processing
 position:
   title: AI/ML Engineer (Senior)
   ai_type:

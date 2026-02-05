@@ -2,14 +2,6 @@ company:
   name: Scale AI
   stage: Series C
   focus: AI data and evaluation infrastructure for enterprises
-  use_cases:
-  - LLM-powered workflow evaluation and safety assessment for enterprise applications
-  - Automated grading and critique systems for AI agents using LLM-as-a-Judge methodologies
-  - Quality assessment and reliability monitoring of enterprise AI agents and workflows
-  - Human-in-the-loop evaluation systems combining expert rubrics with AI-assisted
-    analysis
-  - Continuous improvement loops for enterprise GenAI applications through automated
-    evaluation pipelines
 position:
   title: AI Research Engineer, Enterprise Evaluations
   ai_type:

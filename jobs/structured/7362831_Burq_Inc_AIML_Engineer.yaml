@@ -2,11 +2,6 @@ company:
   name: Burq, Inc.
   stage: Series B
   focus: Delivery and logistics platform with AI/ML automation
-  use_cases:
-  - AI/ML-powered automation for logistics and delivery operations
-  - Turnkey delivery solution with intelligent features
-  - Logistics optimization through machine learning models
-  - Production ML systems for delivery platform scale
 position:
   title: AI/ML Engineer
   ai_type:

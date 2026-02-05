@@ -2,12 +2,6 @@ company:
   name: Flo Health Inc.
   stage: Series C/Public
   focus: AI-powered digital health platform for women
-  use_cases:
-  - Personalized health recommendations and content generation for 80M+ users
-  - Flo Conversational AI for interactive health guidance
-  - AI-powered experimentation and A/B testing platform
-  - Predictive models for health insights and body tracking
-  - Real-time user profiling for ML-driven personalization at high scale
 position:
   title: Backend Engineer - AI platform
   ai_type:

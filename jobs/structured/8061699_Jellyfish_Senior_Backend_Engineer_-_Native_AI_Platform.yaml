@@ -2,12 +2,6 @@ company:
   name: Jellyfish
   stage: growth-stage startup
   focus: AI-integrated engineering team management platform
-  use_cases:
-  - Agentic chat interface that provides expert insights to engineering leaders
-  - AI-powered analytics across the entire Jellyfish platform
-  - Large-scale data processing for generative AI applications
-  - Context-aware LLM integration for engineering decision support
-  - AI tools that help align engineering decisions with business initiatives
 position:
   title: Senior Backend Engineer - Native AI Platform
   ai_type:

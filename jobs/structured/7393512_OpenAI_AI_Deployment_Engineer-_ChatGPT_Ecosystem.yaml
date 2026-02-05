@@ -4,12 +4,6 @@ company:
   focus: |-
     AI research and deployment company creating general-purpose
     AI for humanity
-  use_cases:
-  - Building and deploying ChatGPT applications within the OpenAI ecosystem
-  - Integrating commerce checkout experiences with ChatGPT platform
-  - Creating secure and scalable partner experiences using OpenAI API
-  - Developing innovative ecosystem applications for strategic partners
-  - Enabling enterprises to maximize value from OpenAI models and products
 position:
   title: AI Deployment Engineer- ChatGPT Ecosystem
   ai_type:

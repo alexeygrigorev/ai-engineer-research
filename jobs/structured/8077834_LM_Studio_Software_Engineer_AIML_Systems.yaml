@@ -2,12 +2,6 @@ company:
   name: LM Studio
   stage: Seed
   focus: Building creation tools for local AI
-  use_cases:
-  - Local LLM inference on desktop devices
-  - On-device AI model runtime across various hardware configurations
-  - Day-0 support for new local LLM models
-  - Developer SDKs and CLI tools for local AI development
-  - Collaboration hub for individuals and teams working with AI
 position:
   title: Software Engineer, AI/ML Systems
   ai_type:

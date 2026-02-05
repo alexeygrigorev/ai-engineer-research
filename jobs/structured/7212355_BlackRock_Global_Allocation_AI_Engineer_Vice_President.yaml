@@ -2,13 +2,6 @@ company:
   name: BlackRock
   stage: Public
   focus: Global asset management and investment management
-  use_cases:
-  - Systematic trading and alpha generation across asset classes including equities,
-    fixed income, and cryptocurrencies
-  - Unstructured data analysis for investment research and recommendation generation
-  - Portfolio allocation optimization using AI/ML models
-  - Top-down and bottom-up investment strategy development combining fundamental and
-    systematic approaches
 position:
   title: Global Allocation AI Engineer, Vice President
   ai_type:

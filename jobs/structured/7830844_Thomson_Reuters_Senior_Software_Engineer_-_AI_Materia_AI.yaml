@@ -2,11 +2,6 @@ company:
   name: Thomson Reuters
   stage: Public
   focus: AI-powered tax and accounting software
-  use_cases:
-  - AI-powered tax and accounting professional assistance
-  - Real-time AI interactions and agent orchestration for document processing
-  - Large-scale content analysis and retrieval for tax/accounting workflows
-  - High-traffic API serving for intelligent production-scale features
 position:
   title: Senior Software Engineer - AI (Materia AI)
   ai_type:

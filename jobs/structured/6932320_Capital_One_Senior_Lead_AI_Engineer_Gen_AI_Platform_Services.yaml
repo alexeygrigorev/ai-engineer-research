@@ -2,13 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services
-  use_cases:
-  - Real-time personalized customer experiences in banking applications
-  - Informing customers about unusual charges and fraud detection
-  - Real-time customer question answering and support
-  - AI-powered tools to change how associates work internally
-  - Enhancing banking products with responsible and scalable AI capabilities
-  - Foundation model training and LLM inference for financial services
 position:
   title: Senior Lead AI Engineer (Gen AI Platform Services)
   ai_type:

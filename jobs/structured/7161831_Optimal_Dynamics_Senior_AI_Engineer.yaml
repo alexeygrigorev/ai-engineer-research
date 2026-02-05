@@ -2,12 +2,6 @@ company:
   name: Optimal Dynamics
   stage: Series C
   focus: AI-powered freight and transportation planning
-  use_cases:
-  - Freight and transportation planning optimization
-  - Data-driven logistics decision making
-  - Retrieval-augmented generation for knowledge-grounded AI outputs
-  - Document processing and information retrieval for logistics data
-  - AI-powered operational insights and revenue optimization
 position:
   title: Senior AI Engineer
   ai_type:

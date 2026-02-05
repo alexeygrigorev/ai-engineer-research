@@ -2,11 +2,6 @@ company:
   name: Webflow
   stage: Series C
   focus: AI-native Digital Experience Platform
-  use_cases:
-  - Enhance speed, creativity, and quality when building and designing websites
-  - Empower teams to design, launch, and optimize for the web without barriers
-  - Bring development superpowers to everyone through AI-powered features
-  - Improve Webflow user experience through generative AI-powered features
 position:
   title: Staff Software Engineer, Applied AI
   ai_type:

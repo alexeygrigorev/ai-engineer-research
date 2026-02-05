@@ -2,12 +2,6 @@ company:
   name: Granola
   stage: Seed
   focus: Building LLM-powered user-centric products
-  use_cases:
-  - Multi-provider LLM-based solutions for production use
-  - Large-context LLM systems with RAG, knowledge graphs, and hybrid search
-  - Prompt management, logging/tracing, and evaluation systems
-  - Semantic retrieval and vector search optimization
-  - User-centric product features powered by language models
 position:
   title: AI Engineer
   ai_type:

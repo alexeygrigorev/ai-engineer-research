@@ -2,12 +2,6 @@ company:
   name: Humana
   stage: Public
   focus: Health insurance and healthcare services
-  use_cases:
-  - Retrieval-Augmented Generation applications for business use cases
-  - Generative AI agents for healthcare and insurance operations
-  - Large-scale data processing and transformation for ML/AI workflows
-  - Traditional machine learning model deployment for business analytics
-  - API-driven AI solutions for internal stakeholders
 position:
   title: Applied AI Engineer
   ai_type:

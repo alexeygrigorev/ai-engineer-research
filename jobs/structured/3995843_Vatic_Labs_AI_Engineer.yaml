@@ -2,13 +2,6 @@ company:
   name: Vatic Labs
   stage: null
   focus: AI-driven trading and research platforms
-  use_cases:
-  - AI-powered trading systems and platforms
-  - Research-driven analysis and evaluation of foundational models
-  - Multimodal AI applications combining language, vision, and structured data for
-    trading insights
-  - Large-scale ML model training and evaluation for financial markets
-  - High-performance frameworks for ML research and deployment
 position:
   title: AI Engineer
   ai_type:

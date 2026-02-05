@@ -4,14 +4,6 @@ company:
   focus: |-
     Trusted content and technology for legal, tax, accounting,
     compliance, government, and media professionals
-  use_cases:
-  - Develop NLP and AI-powered solutions for professional information services
-  - Implement agentic design and context engineering for AI systems
-  - Deploy machine learning models into production environments serving legal, tax,
-    accounting, and compliance professionals
-  - Apply empirical methodology and AI evaluation frameworks to ensure system quality
-  - Leverage sentence transformers and other NLP techniques for text processing and
-    understanding applications
 position:
   title: Lead Research Engineer, AI
   ai_type:

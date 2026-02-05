@@ -2,12 +2,6 @@ company:
   name: Light (light.inc)
   stage: Seed/Series A
   focus: Smart Financial Platform replacing factory-era ERPs
-  use_cases:
-  - Automated accounting and financial flows that move at business speed
-  - Real-time financial reporting and reconciliation
-  - AI-powered finance operations with autonomous agent automation
-  - Integration with external platforms via MCP for extended workflow automation
-  - Deterministic AI features for financial platform users
 position:
   title: AI Platform Engineer
   ai_type:

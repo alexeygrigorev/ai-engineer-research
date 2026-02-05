@@ -2,11 +2,6 @@ company:
   name: Writer
   stage: Series B or later
   focus: Enterprise generative AI platform for building AI agents
-  use_cases:
-  - Enterprise AI agents grounded in company data for business transformation
-  - Agentic workflows powered by enterprise-grade LLMs
-  - Secure and scalable generative AI applications for enterprise productivity
-  - Low-latency AI model integration into enterprise platforms
 position:
   title: Software engineer, generative AI
   ai_type:

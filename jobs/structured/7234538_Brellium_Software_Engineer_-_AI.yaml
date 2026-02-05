@@ -2,14 +2,6 @@ company:
   name: Brellium
   stage: Series A
   focus: AI-powered real-time medical review platform for healthcare
-  use_cases:
-  - Real-time medical review platform that identifies clinical and compliance risks
-    before they impact patients
-  - AI-powered system that helps healthcare providers deliver safer, higher-quality
-    care
-  - Automated detection of medical diagnostic and compliance-related mistakes
-  - Alignment of patient visits with clinical best practices using AI
-  - Data-driven care delivery at scale for healthcare providers across the US
 position:
   title: Software Engineer - AI
   ai_type:

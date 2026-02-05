@@ -2,13 +2,6 @@ company:
   name: Yuno
   stage: null
   focus: Payment orchestration infrastructure for global transactions
-  use_cases:
-  - AI-powered customer service automation and support systems
-  - Internal agentic workflows for optimizing critical company processes
-  - AI-assisted development, testing, and troubleshooting tools
-  - Payment experience optimization through intelligent decision engines
-  - Autonomous systems for accelerating product creation and innovation
-  - Data-driven operational intelligence and efficiency tools
 position:
   title: Senior AI Engineer
   ai_type:

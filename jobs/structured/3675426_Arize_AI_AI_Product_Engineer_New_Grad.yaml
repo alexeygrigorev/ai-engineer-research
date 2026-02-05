@@ -2,14 +2,6 @@ company:
   name: Arize AI
   stage: Series C
   focus: AI observability and evaluation platform for AI systems
-  use_cases:
-  - Monitoring and observing AI systems in production to ensure performance and reliability
-  - Troubleshooting AI applications to identify and resolve issues
-  - Evaluating model performance across billions of data points at scale
-  - Enabling prompt engineering and AI agent development through interactive tools
-  - Providing real-time evaluation infrastructure for AI applications
-  - Helping enterprises like Booking.com, Uber, Siemens, and PepsiCo deliver reliable
-    AI systems
 position:
   title: AI Product Engineer, New Grad
   ai_type:

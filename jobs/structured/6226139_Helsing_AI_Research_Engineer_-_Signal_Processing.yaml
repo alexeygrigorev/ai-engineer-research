@@ -2,12 +2,6 @@ company:
   name: Helsing
   stage: Series B
   focus: Defence AI for democratic protection
-  use_cases:
-  - Signal processing for aerial/sky surveillance systems
-  - Underwater signal detection and analysis
-  - AI-assisted human decision-making in defense scenarios
-  - Robust perception systems for military applications
-  - Time frequency analysis and parameter estimation for defense intelligence
 position:
   title: AI Research Engineer - Signal Processing
   ai_type:

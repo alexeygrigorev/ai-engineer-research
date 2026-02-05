@@ -2,17 +2,6 @@ company:
   name: Regard
   stage: Series B
   focus: AI-powered proactive healthcare documentation platform
-  use_cases:
-  - Extract structured medical information (diagnoses, medications, labs, timelines)
-    from unstructured electronic health records
-  - Generate clinically accurate documentation drafts including H&P notes, progress
-    notes, and discharge summaries
-  - Proactively draft clinical notes before physician visits to improve care quality
-    and reduce documentation burden
-  - Surface clinical evidence and recommend diagnoses by reviewing all patient data
-    in the EHR
-  - Transform diverse EHR data sources into clinician-ready documentation and structured
-    insights
 position:
   title: Generative AI Engineer
   ai_type:

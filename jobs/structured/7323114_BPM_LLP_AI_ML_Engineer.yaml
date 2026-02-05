@@ -4,17 +4,6 @@ company:
   focus: |-
     Global advisory firm offering tax, finance, and business
     operations consulting across business lifecycle
-  use_cases:
-  - Tax automation through AI-powered chatbots and copilots that handle tax-related
-    queries and workflows
-  - Document processing and analysis for Assurance and Advisory teams using NLP and
-    ML models
-  - Workflow automation across corporate services to reduce manual effort and increase
-    operational efficiency
-  - Copilot extensions integrated into Microsoft ecosystem tools for enhanced employee
-    productivity
-  - Enterprise AI applications that provide strategic insights and support decision-making
-    across business operations
 position:
   title: AI / ML Engineer
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Scalable Capital
   stage: Series B or later
   focus: Digital investment and banking platform
-  use_cases:
-  - Integrating AI capabilities into real-world financial applications and investment
-    platforms
-  - Building agentic AI systems for digital wealth management and brokerage services
-  - Deploying AI-driven features for internal and client-facing financial services
-  - Orchestrating intelligent workflows to enhance automated investment and banking
-    operations
 position:
   title: AI Software Engineer – Python (m/f/x)
   ai_type:

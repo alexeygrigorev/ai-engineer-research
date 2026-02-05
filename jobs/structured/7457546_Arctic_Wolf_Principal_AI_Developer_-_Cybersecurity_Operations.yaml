@@ -2,16 +2,6 @@ company:
   name: Arctic Wolf
   stage: Public
   focus: Cybersecurity operations and managed detection and response
-  use_cases:
-  - Automate threat detection, investigation, and response processes using AI-powered
-    workflows
-  - Collate and analyze security operations process data from diverse telemetry sources
-  - Integrate knowledge graphs with agentic workflows for structured reasoning in
-    security operations
-  - Measure and guarantee quality of AI outputs across global security operations
-    teams
-  - Enable automated security operations through fine-tuned generative AI and ML models
-  - Support adversarial behavior modeling and threat detection using intelligent systems
 position:
   title: Principal AI Developer - Cybersecurity Operations
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Mozilla
   stage: Public
   focus: Privacy-focused web browser and open-source software
-  use_cases:
-  - AI-driven service desk automation and digital workplace operations
-  - Enterprise GenAI copilots and intelligent workflows for internal tools
-  - Automated provisioning/deprovisioning, entitlements, and group lifecycle management
-  - AI virtual agents and self-service portals for improved user experience
-  - Chatbots and AI agents for tier-1 ticket deflection
 position:
   title: Staff Software Engineer, AI & Automation
   ai_type:

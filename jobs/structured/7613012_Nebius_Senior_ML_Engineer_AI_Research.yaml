@@ -2,16 +2,6 @@ company:
   name: Nebius
   stage: Public
   focus: AI cloud infrastructure and applied AI research
-  use_cases:
-  - Applying reinforcement learning for agent training in long-context multi-turn
-    scenarios
-  - Dramatically scaling task data collection to power reinforcement learning for
-    SWE agents
-  - Building decontaminated evaluation systems for SWE agents that are regularly updated
-  - Using test-time guided search to build more powerful AI agents
-  - Training agents and reasoning models using guided search and reinforcement learning
-    techniques
-  - Efficient model distillation for improving model performance
 position:
   title: Senior ML Engineer (AI Research)
   ai_type:

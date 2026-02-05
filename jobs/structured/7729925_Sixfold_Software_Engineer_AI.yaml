@@ -2,13 +2,6 @@ company:
   name: Sixfold
   stage: Early-stage
   focus: AI platform for insurance risk evaluation and pricing
-  use_cases:
-  - AI agents that understand risk evaluation similar to veteran underwriters
-  - Analyzing location-specific risks (e.g., bakery in Florida vs Montana)
-  - Detecting risk profile changes when companies pivot business models (e.g., toys
-    to medical devices)
-  - Making million-dollar underwriting decisions with AI intuition
-  - Processing billions in insurance premium for major carriers
 position:
   title: Software Engineer, AI
   ai_type:

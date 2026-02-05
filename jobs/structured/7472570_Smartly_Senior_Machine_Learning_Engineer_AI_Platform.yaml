@@ -2,12 +2,6 @@ company:
   name: Smartly
   stage: Series B+
   focus: AI-powered advertising technology platform
-  use_cases:
-  - Help marketers optimize ad creatives including images, videos, and text
-  - Improve advertising campaign performance using ML-based solutions
-  - Generate and manage billions of ad creatives annually across media platforms
-  - Analyze structured performance data to enhance creative and media strategies
-  - Apply generative AI, computer vision, and NLP to advertising workflows
 position:
   title: Senior Machine Learning Engineer (AI Platform)
   ai_type:

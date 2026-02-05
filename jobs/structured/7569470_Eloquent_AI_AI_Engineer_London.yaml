@@ -2,12 +2,6 @@ company:
   name: Eloquent AI
   stage: Series B
   focus: Multimodal AI operators for enterprise automation
-  use_cases:
-  - Automating compliance reviews for financial institutions and insurers
-  - Handling customer operations with intelligent, end-to-end execution
-  - Replacing repetitive manual tasks with AI-powered automation in regulated environments
-  - Executing complex workflows across fragmented tools with human-level precision
-  - Transforming how millions of people manage their finances through AI-driven automation
 position:
   title: AI Engineer, London
   ai_type:

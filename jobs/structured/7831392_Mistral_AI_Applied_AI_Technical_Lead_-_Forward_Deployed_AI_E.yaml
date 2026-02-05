@@ -4,17 +4,6 @@ company:
   focus: |-
     High-performance open-source AI models and enterprise AI
     platform
-  use_cases:
-  - Enterprise AI solutions deployment using fine-tuned LLMs for industry-specific
-    applications
-  - Retrieval-Augmented Generation (RAG) systems for knowledge-intensive enterprise
-    workflows
-  - Agentic workflows and autonomous AI systems for business process automation
-  - Custom NLP applications deployed at scale across industries including tech, finance,
-    healthcare, and industrial automation
-  - Integration of frontier AI models into enterprise production environments
-  - Pre-sales to post-implementation AI solution lifecycle management for strategic
-    enterprise customers
 position:
   title: Applied AI, Technical Lead - Forward Deployed AI Engineer
   ai_type:

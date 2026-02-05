@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: null
   focus: LLM code evaluation and training
-  use_cases:
-  - Training large language models to write production-grade Ruby code
-  - Using human feedback to improve code generation quality through RLHF
-  - Developing models that can propose, critique, and improve code like expert engineers
-  - Converting expert code reviews into reward signals for reinforcement learning
-  - Teaching LLMs to avoid common logic errors, performance traps, and security issues
 position:
   title: Software Engineer, AI (Ruby)
   ai_type:

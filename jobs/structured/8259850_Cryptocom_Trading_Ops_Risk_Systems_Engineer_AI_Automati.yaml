@@ -2,14 +2,6 @@ company:
   name: Crypto.com
   stage: Public
   focus: Cryptocurrency exchange and trading platform
-  use_cases:
-  - Automated trade reconciliation and operational workflows using agentic AI
-  - Real-time P&L attribution with AI-powered anomaly detection and automated report
-    commentary generation
-  - Predictive risk modeling using ML to forecast market volatility and cross-market
-    risks
-  - Intelligent monitoring and alerting for trading desk risk management
-  - Real-time visualization tools for trading performance and risk metrics
 position:
   title: Trading Ops & Risk Systems Engineer (AI & Automation)
   ai_type:

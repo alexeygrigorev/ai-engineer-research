@@ -2,12 +2,6 @@ company:
   name: Farther
   stage: Series B
   focus: AI-powered wealth management platform
-  use_cases:
-  - Conversational AI interface for wealth management platform
-  - AI agents handling real financial transactions end-to-end
-  - Chatbot interactions between clients and financial advisors
-  - Intelligent agentic experiences replacing traditional web interfaces
-  - RAG-based conversational systems for financial data and advice
 position:
   title: Senior Conversational AI Engineer
   ai_type:

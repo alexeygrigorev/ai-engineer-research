@@ -2,11 +2,6 @@ company:
   name: Tower Research Capital
   stage: Public
   focus: Quantitative trading firm with venture investing
-  use_cases:
-  - Vertical AI applications in portfolio companies
-  - Category-defining product development for early-stage ventures
-  - Applied AI solutions for startup environments
-  - User-facing applications powered by AI technologies
 position:
   title: Staff AI Engineer - Tower Research Ventures
   ai_type:

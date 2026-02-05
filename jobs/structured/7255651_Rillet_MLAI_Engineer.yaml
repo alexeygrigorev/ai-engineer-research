@@ -2,11 +2,6 @@ company:
   name: Rillet
   stage: Series B
   focus: AI-native ERP for accounting and finance
-  use_cases:
-  - Automated financial workflows and accounting processes
-  - Specialized AI agents for accrual, audit, P&L flux analysis, and board deck generation
-  - Zero-day close capabilities for financial teams
-  - Multi-entity consolidation and unified source-of-truth data processing
 position:
   title: ML/AI Engineer
   ai_type:

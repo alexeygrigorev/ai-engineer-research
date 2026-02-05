@@ -2,13 +2,6 @@ company:
   name: Flo Health Inc.
   stage: Series B
   focus: Digital health app for female health and wellness
-  use_cases:
-  - AI-powered digital health applications for female health and wellness tracking
-  - LLM-based health assistants providing medically accurate information to users
-  - Personalized health insights and recommendations powered by fine-tuned language
-    models
-  - AI-driven user profiling and health data analysis for improved outcomes
-  - Responsible AI systems with safety monitoring and medical accuracy evaluation
 position:
   title: Senior AI/ML engineer
   ai_type:

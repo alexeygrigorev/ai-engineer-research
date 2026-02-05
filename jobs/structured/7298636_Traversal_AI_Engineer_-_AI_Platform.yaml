@@ -2,13 +2,6 @@ company:
   name: Traversal
   stage: Seed
   focus: AI-powered site reliability and incident management
-  use_cases:
-  - AI-powered root cause analysis for production incidents
-  - Automated alert triage and incident remediation
-  - Chat interface for infrastructure and telemetry data interaction
-  - Prevention of complex production incidents through proactive AI analysis
-  - Evaluation and benchmarking of AI agent performance in incident management
-  - Real-time analysis of petabytes of telemetry data for operational insights
 position:
   title: AI Engineer - AI Platform
   ai_type:

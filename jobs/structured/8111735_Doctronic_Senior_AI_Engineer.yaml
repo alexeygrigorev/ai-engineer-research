@@ -2,13 +2,6 @@ company:
   name: Doctronic
   stage: Series A
   focus: AI-powered direct-to-patient healthcare consultations
-  use_cases:
-  - AI doctor handling millions of medical consultations with human oversight
-  - Multi-agent consensus system for medical case review and decision accuracy
-  - Intelligent triage routing between AI and human healthcare providers
-  - Automated clinical documentation generation matching provider-specific protocols
-  - Real-time emergency detection with sub-second escalation to human oversight
-  - Multilingual medical NLP for accessible healthcare across diverse populations
 position:
   title: Senior AI Engineer
   ai_type:

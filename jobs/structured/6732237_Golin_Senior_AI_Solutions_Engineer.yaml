@@ -2,13 +2,6 @@ company:
   name: Golin
   stage: Public
   focus: Global public relations and communications agency
-  use_cases:
-  - AI-enhanced marketing and PR processes to deliver industry-leading client outcomes
-  - Operational efficiency improvements through AI-assisted workflows that solve daily
-    team challenges
-  - Custom AI assistants and agents built on codified agency processes and best practices
-  - Enterprise web applications integrated with AI capabilities for agency operations
-  - AI-powered products and services for communications and marketing workflows
 position:
   title: Senior AI Solutions Engineer
   ai_type:

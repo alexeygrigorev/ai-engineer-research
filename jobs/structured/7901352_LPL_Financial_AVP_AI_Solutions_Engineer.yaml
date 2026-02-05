@@ -2,13 +2,6 @@ company:
   name: LPL Financial
   stage: Public
   focus: Wealth management and financial services
-  use_cases:
-  - Automated data governance tracking and compliance monitoring
-  - Exception detection and resolution across multiple data domains
-  - Reconciliation frameworks using rule-based and AI-driven logic
-  - Lifecycle management workflows for investor and operational domains
-  - Intelligent agents for automated exception handling
-  - User-configurable AI workflows with intuitive UI components
 position:
   title: AVP – AI Solutions Engineer
   ai_type:

@@ -2,17 +2,6 @@ company:
   name: Herald
   stage: Series A
   focus: Digital infrastructure for commercial insurance
-  use_cases:
-  - Transform messy email submissions into structured, actionable data with minimal
-    friction
-  - Help brokers move from inbox to quote-ready submissions in minutes instead of
-    hours
-  - Orchestrate broker workflows end-to-end using classification pipelines and data
-    extraction models
-  - Enable rapid iteration on new workflows and AI features across lines of business
-    and carriers
-  - Make AI output transparent, accurate, and trustworthy for commercial insurance
-    brokers
 position:
   title: Software Engineer - AI Products
   ai_type:

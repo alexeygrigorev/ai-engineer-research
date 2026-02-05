@@ -2,14 +2,6 @@ company:
   name: AI Technology Partners
   stage: null
   focus: Generative AI solutions and managed services
-  use_cases:
-  - Deploying and managing secure generative AI solutions for enterprise clients
-  - Running Azure OpenAI (GPT-4.1) workloads in production with robust security controls
-  - Implementing RAG pipelines with LibreChat and MeiliSearch for enterprise AI applications
-  - Managing vector search and multi-cloud AI provider integrations (OpenAI, Google
-    Gemini, Cohere)
-  - Supporting secure, compliant AI infrastructure that meets enterprise regulatory
-    requirements
 position:
   title: Senior Azure Cloud, Security & AI Operations Engineer
   ai_type:

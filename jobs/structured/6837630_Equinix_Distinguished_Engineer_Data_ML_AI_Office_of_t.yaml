@@ -2,12 +2,6 @@ company:
   name: Equinix
   stage: Public
   focus: Global digital infrastructure and connectivity platform
-  use_cases:
-  - Data lifecycle management and data-as-a-service architectures
-  - Data infrastructure including data lakes, data stores, and data processing engines
-  - ML and analytics platforms with MLOps, model building, and feature engineering
-  - Data governance as a service including data catalogs, discovery, lineage, and
-    master data management
 position:
   title: Distinguished Engineer, Data, ML & AI, Office of the CTO
   ai_type:

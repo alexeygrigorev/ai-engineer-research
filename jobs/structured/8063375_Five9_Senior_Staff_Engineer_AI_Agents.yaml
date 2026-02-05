@@ -2,15 +2,6 @@ company:
   name: Five9
   stage: Public
   focus: Cloud contact center software platform
-  use_cases:
-  - Customer support automation through AI agents that handle customer inquiries and
-    resolve issues
-  - Multi-agent reasoning workflows for complex customer experience interactions in
-    contact centers
-  - RAG-powered knowledge retrieval to provide accurate, contextual responses to customer
-    queries
-  - Automated customer experience solutions with intelligent conversation handling
-    and routing
 position:
   title: Senior Staff Engineer, AI Agents
   ai_type:

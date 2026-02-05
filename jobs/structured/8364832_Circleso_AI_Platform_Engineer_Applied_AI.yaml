@@ -2,12 +2,6 @@ company:
   name: Circle.so
   stage: Series B
   focus: All-in-one platform for online communities
-  use_cases:
-  - AI-powered agents for community engagement and automation
-  - AI workflows that streamline community management tasks
-  - AI copilot features that assist users within the community platform
-  - RAG-based systems for retrieving relevant community content and discussions
-  - Real-time AI features integrated into live streams, chat, and course functionality
 position:
   title: AI Platform Engineer, Applied AI
   ai_type:

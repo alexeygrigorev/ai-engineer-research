@@ -2,12 +2,6 @@ company:
   name: Convatec
   stage: Public
   focus: Medical products and technologies for chronic conditions
-  use_cases:
-  - Intelligent automation across enterprise operations
-  - Data-driven decision-making for business analytics
-  - Retrieval-augmented generation (RAG) for knowledge retrieval and question answering
-  - AI-powered workflow automation connected to business processes
-  - Advanced analytics and reporting for medical products and healthcare solutions
 position:
   title: AI Data Engineer
   ai_type:

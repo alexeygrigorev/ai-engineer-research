@@ -2,12 +2,6 @@ company:
   name: Vetcove
   stage: Series B
   focus: Veterinary software and procurement marketplace
-  use_cases:
-  - Integrating AI models into veterinary practice management system to enhance product
-    capabilities
-  - Enhancing veterinary marketplace and ecommerce platforms with AI-powered features
-  - Improving veterinary software user experience through ChatGPT and other LLM integrations
-  - Supporting veterinary organizations with AI tools to focus more on patient care
 position:
   title: AI Integrations Staff Engineer
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Traversal
   stage: Series A
   focus: AI-powered site reliability engineering platform
-  use_cases:
-  - Real-time incident detection in complex production environments
-  - Root cause analysis for production incidents
-  - Automated remediation of production incidents
-  - Prevention of complex production incidents before they occur
-  - AI-powered troubleshooting and site reliability engineering
-  - Data visualization for time-series and topological infrastructure data
 position:
   title: AI Engineer - Full-Stack
   ai_type:

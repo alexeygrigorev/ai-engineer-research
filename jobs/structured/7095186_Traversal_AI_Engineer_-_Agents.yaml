@@ -4,14 +4,6 @@ company:
   focus: |-
     AI Site Reliability Engineer for enterprise - AI agents for
     observability and incident troubleshooting
-  use_cases:
-  - Troubleshoot, remediate, and prevent complex production incidents in enterprise
-    environments
-  - Analyze large-scale observability data including logs, metrics, and traces
-  - Automate incident debugging and resolution through intelligent agent workflows
-  - Provide AI-powered site reliability engineering capabilities
-  - Enable engineers to focus on creative work by reducing firefighting
-  - Scale agentic architectures across distributed systems and environments
 position:
   title: AI Engineer - Agents
   ai_type:

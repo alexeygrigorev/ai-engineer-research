@@ -2,13 +2,6 @@ company:
   name: NewDay
   stage: null
   focus: Financial services and credit solutions
-  use_cases:
-  - Support assistants and knowledge assistants
-  - Case handling automation
-  - Fraud investigation automation
-  - Decision support systems
-  - Customer support solutions
-  - Commercial automation tools
 position:
   title: Lead Gen AI Engineer
   ai_type:

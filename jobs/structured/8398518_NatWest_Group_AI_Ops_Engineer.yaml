@@ -2,12 +2,6 @@ company:
   name: NatWest Group
   stage: Public
   focus: Banking and financial services
-  use_cases:
-  - Develop data-driven customer solutions for banking services
-  - Advanced analytics and visualization for business stakeholder insights
-  - Machine learning model deployment for financial risk assessment and customer support
-  - Complex data issue debugging and incident management for customer-facing ML applications
-  - Model governance and ethical implementation for banking compliance
 position:
   title: AI Ops Engineer
   ai_type:

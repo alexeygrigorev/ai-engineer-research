@@ -2,13 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services with AI/ML
-  use_cases:
-  - Real-time personalized customer experiences in banking
-  - Informing customers about unusual charges
-  - Answering customer questions in real-time
-  - Enhancing banking products with transformative AI capabilities
-  - Supporting associate workflows with AI-powered tools
-  - Responsible and scalable AI deployment for millions of customers
 position:
   title: Lead AI Engineer (AI Foundations, LLM Core)
   ai_type:

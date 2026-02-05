@@ -4,15 +4,6 @@ company:
   focus: |-
     AI-driven biomedical intelligence for precision medicine,
     rare disease diagnosis, and oncology
-  use_cases:
-  - Transforming scientific literature into real world evidence for precision medicine
-  - Supporting clinical diagnostics and variant interpretation for rare diseases and
-    cancer
-  - Enabling literature-derived evidence across clinical trial development, regulatory,
-    and commercial workflows
-  - Helping clinicians make better diagnostic and therapeutic decisions
-  - Supporting life sciences organizations in bringing better therapies to market
-    faster
 position:
   title: AI Research Engineer (Fully Remote; US Based)
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Superblocks
   stage: null
   focus: AI platform for non-engineers to create enterprise software
-  use_cases:
-  - Non-engineers creating enterprise software through AI-powered platform
-  - AI agents exploring company data and generating applications within security boundaries
-  - Executing untrusted code in secure sandboxes with low latency globally
-  - Organizational memory and knowledge graphs for AI agent context
-  - Centralized IT governance and control over AI-generated applications and workflows
 position:
   title: Software Engineer - AI Platform
   ai_type:

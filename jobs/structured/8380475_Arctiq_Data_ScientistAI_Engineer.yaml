@@ -4,11 +4,6 @@ company:
   focus: |-
     Professional IT services: Enterprise Security, Modern
     Infrastructure, Platform Engineering
-  use_cases:
-  - Transform raw data into actionable intelligence
-  - Build end-to-end models to drive business value
-  - Apply statistical analysis and AI to solve complex business problems
-  - Leverage Azure ecosystem for scalable model training and deployment
 position:
   title: Data Scientist/AI Engineer
   ai_type:

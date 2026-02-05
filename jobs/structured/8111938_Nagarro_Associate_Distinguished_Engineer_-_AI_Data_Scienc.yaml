@@ -2,14 +2,6 @@ company:
   name: Nagarro
   stage: Public
   focus: Digital product engineering at scale
-  use_cases:
-  - Enterprise-scale AI systems with retrieval-augmented generation and autonomous
-    agent workflows
-  - Multimodal AI applications combining text, vision, and speech processing
-  - Real-time event-driven AI systems with continuous learning loops
-  - Large-scale distributed model training and inference optimization
-  - Data platform modernization for AI and business intelligence use cases
-  - Intelligent automation systems with multi-agent architectures
 position:
   title: Associate Distinguished Engineer - AI, Data Science & Agentic Solutions
   ai_type:

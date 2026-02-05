@@ -4,15 +4,6 @@ company:
   focus: |-
     End-to-end fan engagement platform for sports teams and
     venues
-  use_cases:
-  - Internal AI platform and tools for engineering teams to experiment and deploy
-    AI solutions
-  - AI-powered workflow automation for non-engineering departments including HR, Finance,
-    and Client Services
-  - RAG systems and agentic workflows integrated into fan engagement products
-  - Model evaluation and benchmarking frameworks for ensuring quality and reliability
-    of AI systems
-  - Productivity and automation tools that leverage LLMs across organizational functions
 position:
   title: Principal AI Engineer
   ai_type:

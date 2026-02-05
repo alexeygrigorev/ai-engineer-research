@@ -2,12 +2,6 @@ company:
   name: Curai Health
   stage: Startup (funded by top-tier VC investors)
   focus: AI-powered virtual healthcare clinic platform
-  use_cases:
-  - Conversational AI for patient interaction and care follow-up
-  - Personalization systems for tailored healthcare experiences
-  - User understanding to improve patient engagement
-  - Clinical decision support systems to assist physicians
-  - Patient-facing AI systems integrated into virtual clinic workflow
 position:
   title: Staff AI Engineer
   ai_type:

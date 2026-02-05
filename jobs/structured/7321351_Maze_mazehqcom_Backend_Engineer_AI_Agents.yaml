@@ -2,12 +2,6 @@ company:
   name: Maze (mazehq.com)
   stage: null
   focus: AI-powered cybersecurity solutions using LLMs and Agents
-  use_cases:
-  - Using AI Agents to tackle major cybersecurity challenges and threats
-  - Deploying Generative AI (LLMs and Agents) to solve pressing cybersecurity issues
-  - Helping security teams leverage AI to mitigate risks and improve outcomes
-  - Building AI-powered cybersecurity solutions that integrate across the stack
-  - Creating systems that deliver breakthrough capabilities for security operations
 position:
   title: Backend Engineer (AI Agents)
   ai_type:

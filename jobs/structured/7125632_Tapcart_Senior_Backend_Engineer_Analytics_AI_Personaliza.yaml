@@ -2,12 +2,6 @@ company:
   name: Tapcart
   stage: Series B
   focus: Mobile app platform for Shopify brands
-  use_cases:
-  - Mobile shopping app personalization using generative AI
-  - Customer analytics and segmentation for eCommerce brands
-  - Personalized in-app marketing tools and customer experiences
-  - Real-time data processing for shopper behavior analysis
-  - Scalable infrastructure powering mobile apps for 50+ million consumers
 position:
   title: Senior Backend Engineer (Analytics/ AI Personalization)
   ai_type:

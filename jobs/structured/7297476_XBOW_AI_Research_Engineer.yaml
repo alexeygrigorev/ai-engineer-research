@@ -4,12 +4,6 @@ company:
   focus: |-
     AI-powered offensive security platform for automated
     vulnerability discovery and exploitation
-  use_cases:
-  - Autonomous discovery and validation of software vulnerabilities
-  - AI-powered exploitation of identified vulnerabilities
-  - Proof-backed security results delivered in hours instead of weeks
-  - Real-world zero-day vulnerability detection across software systems
-  - Security testing at scale using LLM orchestration
 position:
   title: AI Research Engineer
   ai_type:

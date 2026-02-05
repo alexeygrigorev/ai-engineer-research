@@ -2,12 +2,6 @@ company:
   name: Recall Labs
   stage: Seed
   focus: Decentralized AI evaluation and discovery platform
-  use_cases:
-  - AI system evaluation and discovery platform using decentralized approaches
-  - Scalable AI evaluation infrastructure combining AI evals with A/B testing
-  - Agentic architectures and reasoning systems for AI-powered product features
-  - Internal AI tooling integration to enhance engineering workflows
-  - Context engineering and prompt optimization for improved model performance
 position:
   title: AI Application Engineer
   ai_type:

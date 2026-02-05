@@ -2,12 +2,6 @@ company:
   name: Blackbaud
   stage: Public
   focus: Financial software for social good organizations
-  use_cases:
-  - Intelligent financial applications for the social good ecosystem
-  - Full-fledged accounting capabilities powered by Generative AI
-  - Generative AI-enhanced fintech platform features
-  - Automated and intelligent financial management solutions
-  - AI-powered user experience improvements in financial software
 position:
   title: Senior .NET Engineer, FinTech and AI Innovation
   ai_type:

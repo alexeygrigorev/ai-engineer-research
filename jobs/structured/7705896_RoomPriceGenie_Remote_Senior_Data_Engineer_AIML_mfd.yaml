@@ -2,16 +2,6 @@ company:
   name: RoomPriceGenie
   stage: Series B
   focus: AI-powered hotel pricing optimization platform
-  use_cases:
-  - Hotel pricing optimization using algorithms that analyze internal hotel data and
-    market trends
-  - Revenue management system that recommends optimal pricing strategies to enhance
-    booking rates
-  - Demand forecasting engine that helps hotels predict and adjust to market conditions
-  - Real-time pricing recommendations generated from analysis of both historical and
-    market data
-  - Scalable data platform supporting global customer base across multiple geographic
-    markets
 position:
   title: Remote Senior Data Engineer (AI/ML) (m/f/d)
   ai_type:

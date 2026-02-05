@@ -2,17 +2,6 @@ company:
   name: Pocus
   stage: Series B
   focus: AI-native sales prospecting and GTM platform
-  use_cases:
-  - AI-powered prospecting platform that automates manual research and outreach tasks
-    for sales teams
-  - Real-time alerts and account plan generation powered by AI agents monitoring compelling
-    events
-  - Next best action recommendations using intelligent agents that reason over structured
-    and semi-structured data
-  - Automated workflows connecting to sales tools like Slack, Outreach, and CRMs via
-    APIs and webhooks
-  - Semantic enrichment and transformation of customer data from warehouses, databases,
-    and public datasets
 position:
   title: Product Engineer, Applied AI
   ai_type:

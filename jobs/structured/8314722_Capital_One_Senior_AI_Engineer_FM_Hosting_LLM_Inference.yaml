@@ -2,14 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services with AI
-  use_cases:
-  - Inform customers about unusual charges through real-time AI-powered notifications
-  - Answer customer questions in real time using large language models and AI-powered
-    interfaces
-  - Create real-time personalized customer experiences through machine learning applications
-  - Enable teams across Capital One to enhance their products with AI capabilities
-    through foundational models and platforms
-  - Deliver responsible and scalable AI systems that serve millions of banking customers
 position:
   title: Senior AI Engineer (FM Hosting, LLM Inference)
   ai_type:

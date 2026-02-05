@@ -2,12 +2,6 @@ company:
   name: Seek (seekinsights.com)
   stage: null
   focus: Marketplace for data apps and analytics platform
-  use_cases:
-  - Natural language search for data discovery and querying
-  - Conversational querying interfaces for analytics
-  - AI-powered recommendations for app store experiences
-  - Guided workflows and intelligent recommendations for data analytics
-  - Assisted discovery and guided analytics capabilities
 position:
   title: Senior Software Engineer - Applied AI
   ai_type:

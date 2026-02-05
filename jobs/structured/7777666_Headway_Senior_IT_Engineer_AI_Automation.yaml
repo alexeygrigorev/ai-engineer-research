@@ -2,12 +2,6 @@ company:
   name: Headway
   stage: Series D
   focus: Mental health care software platform
-  use_cases:
-  - Automating operational workflows across core business systems to improve efficiency
-  - Building internal tools that leverage AI/LLMs to solve operational problems
-  - Creating agentic automation solutions for cross-platform integrations
-  - Implementing productivity engineering frameworks to scale organizational workflows
-  - Developing automation patterns and templates for consistent internal tool development
 position:
   title: Senior IT Engineer (AI & Automation)
   ai_type:

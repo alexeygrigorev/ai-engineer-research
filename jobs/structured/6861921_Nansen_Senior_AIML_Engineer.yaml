@@ -2,11 +2,6 @@ company:
   name: Nansen
   stage: null
   focus: Blockchain analytics platform for crypto investors
-  use_cases:
-  - Analyze vast amounts of blockchain data to identify patterns and insights
-  - Provide real-time, actionable insights for crypto investors
-  - Enable data-driven decision-making in cryptocurrency and Web3 markets
-  - Enhance blockchain analytics platform with cutting-edge AI capabilities
 position:
   title: Senior AI/ML Engineer
   ai_type:

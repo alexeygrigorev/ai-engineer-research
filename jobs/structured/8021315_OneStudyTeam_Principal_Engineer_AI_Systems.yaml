@@ -2,14 +2,6 @@ company:
   name: OneStudyTeam
   stage: null
   focus: Cloud-based platform for clinical trial management
-  use_cases:
-  - AI-driven efficiency improvements and productivity gains across business units
-  - Enterprise automation platforms integration using tools like Zapier and Make
-  - Chatbot workflows and AI knowledge bases for internal operations
-  - AI-powered productivity tools integration including Microsoft Copilot, Slack AI,
-    and Salesforce AI
-  - Responsible AI deployment with compliance monitoring and risk management in regulated
-    clinical research environment
 position:
   title: Principal Engineer, AI Systems
   ai_type:

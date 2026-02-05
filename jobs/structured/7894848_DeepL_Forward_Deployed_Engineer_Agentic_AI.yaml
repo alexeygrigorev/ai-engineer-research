@@ -2,14 +2,6 @@ company:
   name: DeepL
   stage: Growth-stage (doubled in size nearly every year, 100K+ customers)
   focus: Language AI platform for translation and communication
-  use_cases:
-  - General-purpose AI agent for autonomous business task handling through natural
-    language instructions
-  - Building and researching sales account lists using agentic workflows
-  - Translating and publishing website content automatically
-  - Streamlining repetitive and time-consuming business tasks
-  - Enterprise communication enhancement through AI-powered automation
-  - Cross-functional workflow automation for business operations
 position:
   title: Forward Deployed Engineer | Agentic AI
   ai_type:

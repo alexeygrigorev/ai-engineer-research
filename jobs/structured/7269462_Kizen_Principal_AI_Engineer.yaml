@@ -2,13 +2,6 @@ company:
   name: Kizen
   stage: Series B
   focus: AI-powered workflow automation platform for enterprises
-  use_cases:
-  - Automating insurance contracting and commissions workflows
-  - Enabling healthcare providers to deliver proactive patient care
-  - Financial document classification and automated data extraction
-  - Enterprise workflow automation using pre-built AI agents and use cases
-  - Low-code platform for business users to customize dashboards and AI agents
-  - Developer platform for building enterprise applications on AI-first architecture
 position:
   title: Principal AI Engineer
   ai_type:

@@ -2,16 +2,6 @@ company:
   name: Scrunch AI
   stage: Series B
   focus: AI search optimization for marketing brands
-  use_cases:
-  - Help brands optimize their presence on AI search and conversational agent platforms
-    like ChatGPT, Claude, and Gemini
-  - Enable marketing teams to discover how their products and services are surfaced
-    on AI platforms
-  - Process and analyze large datasets using LLMs and traditional analytics methods
-  - Build tools to assess and improve accuracy of AI-based classification and summarization
-    tasks
-  - Provide analytics APIs and scheduled reporting for customer insights in the AI
-    era
 position:
   title: Senior Software Engineer, Data & AI Engineering (US)
   ai_type:

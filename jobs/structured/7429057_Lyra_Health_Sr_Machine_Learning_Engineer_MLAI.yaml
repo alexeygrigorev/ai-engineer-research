@@ -2,12 +2,6 @@ company:
   name: Lyra Health
   stage: Series C or later
   focus: Mental health solutions platform with AI-powered care
-  use_cases:
-  - AI-powered mental health platform connecting patients with care providers
-  - RAG-based solutions for clinical decision support and care recommendations
-  - Model evaluation and testing for clinical AI applications
-  - Generative AI solutions for mental health care delivery
-  - Production ML infrastructure supporting clinical effectiveness measurement
 position:
   title: Sr. Machine Learning Engineer (ML/AI)
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Block
   stage: Public
   focus: Financial technology and economic empowerment platform
-  use_cases:
-  - Automating workflows to improve operational efficiency
-  - Delivering AI-powered product experiences for customers
-  - Building internal tools and systems for developers and products
-  - Creating scalable AI platforms for cross-block adoption
-  - Enhancing financial services through AI-driven solutions
 position:
   title: Senior Staff Machine Learning Engineer, Applied AI
   ai_type:

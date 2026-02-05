@@ -4,14 +4,6 @@ company:
   focus: |-
     Blockchain research and development, DeFi, governance,
     identity management
-  use_cases:
-  - Overmind AI engine - core AI platform for blockchain enterprise applications
-  - Viable Enterprise Operating System (Integra) - internal operating system platform
-  - Agentic workflows - AI agent systems for automated task execution
-  - Model deployment infrastructure - systems for deploying and scaling machine learning
-    models
-  - Data pipelines - infrastructure for data ingestion and processing for ML systems
-  - API integrations - connecting AI services with enterprise applications
 position:
   title: Senior Specialist - AI & Integra Engineer - AI Group
   ai_type:

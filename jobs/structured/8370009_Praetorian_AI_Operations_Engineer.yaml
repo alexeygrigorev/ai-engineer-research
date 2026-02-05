@@ -2,14 +2,6 @@ company:
   name: Praetorian
   stage: null
   focus: Offensive security and breach prevention
-  use_cases:
-  - Self-service automation replacing manual support tickets with agentic resolution
-  - AI-driven CLI and IDE integration (Claude Code, Cursor, Codex) into engineering
-    workflows
-  - Automated SaaS integrations across business tools through API orchestration
-  - Invisible IT operations with automated access provisioning and hardware management
-  - Offensive security tooling support for penetration testing and adversarial simulations
-  - Internal knowledge base powered by RAG for streamlined operations
 position:
   title: AI Operations Engineer
   ai_type:

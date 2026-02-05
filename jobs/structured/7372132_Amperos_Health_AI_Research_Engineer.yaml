@@ -2,12 +2,6 @@ company:
   name: Amperos Health
   stage: Seed/Early-stage
   focus: AI-powered healthcare revenue cycle management
-  use_cases:
-  - Multi-modal RCM (Revenue Cycle Management) agents for healthcare clinics
-  - AI agents that interact with insurance agents to collect revenue
-  - Healthcare billing systems where AI must pass Turing Test to appear human-like
-  - Automating the bridge between healthcare providers and payers
-  - Conversational AI for collecting accurate billing information from insurance
 position:
   title: AI Research Engineer
   ai_type:

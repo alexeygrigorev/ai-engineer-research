@@ -2,13 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services
-  use_cases:
-  - Informing customers about unusual charges through AI-powered fraud detection
-  - Answering customer questions in real time with conversational AI
-  - Creating personalized customer experiences using real-time machine learning
-  - Deploying responsible and reliable AI systems for banking applications
-  - Enhancing products across the organization with AI platforms and models
-  - Building scalable, high-performance AI infrastructure for banking services
 position:
   title: Senior Lead AI Engineer (Remote-Eligible)
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: DataSite
   stage: null
   focus: AI platform for investment management and dealmaking
-  use_cases:
-  - AI platform for investment management industry
-  - AI-powered dealmaking solutions
-  - Data processing and management for financial services
-  - AI deal sourcing and analysis
-  - Client success and business growth optimization
 position:
   title: Software Engineer (Back End) - Blueflame AI
   ai_type:

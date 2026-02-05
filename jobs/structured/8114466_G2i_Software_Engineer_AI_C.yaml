@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: null
   focus: AI code evaluation and LLM training services
-  use_cases:
-  - Training LLMs to write production-grade code across multiple programming languages
-  - Teaching models to propose, critique, and improve code through expert feedback
-  - Improving AI code generation quality through reinforcement learning
-  - Converting human code review feedback into reward signals for model tuning
-  - Enhancing model ability to generate code that meets production standards
 position:
   title: Software Engineer, AI (C)
   ai_type:

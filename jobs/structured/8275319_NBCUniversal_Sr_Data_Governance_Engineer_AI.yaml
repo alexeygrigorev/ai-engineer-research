@@ -2,12 +2,6 @@ company:
   name: NBCUniversal
   stage: Public
   focus: Global media and entertainment company
-  use_cases:
-  - AI model governance and compliance for media and entertainment platforms
-  - Deploying AI systems across streaming, broadcast, film studios, and theme parks
-  - Enforcing data privacy and security guardrails for AI agents and models
-  - Managing multi-cloud AI workloads with cost optimization and usage tracking
-  - Ensuring fairness and bias mitigation in AI tools used for content and analytics
 position:
   title: Sr Data Governance Engineer (AI)
   ai_type:

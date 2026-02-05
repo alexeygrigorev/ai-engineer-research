@@ -2,12 +2,6 @@ company:
   name: Spara
   stage: Series A
   focus: Enterprise AI agents for sales lead conversion
-  use_cases:
-  - AI-powered sales agents that engage and qualify leads through human-level conversations
-  - Multi-modal lead conversion through chat, email, and voice interactions
-  - Personalized sales conversations that convert leads into pipeline and revenue
-  - Automated sales workflow that mimics human sales team operations
-  - Real-time lead engagement and qualification across multiple communication channels
 position:
   title: Staff AI Engineer
   ai_type:

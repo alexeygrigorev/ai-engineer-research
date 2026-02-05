@@ -2,14 +2,6 @@ company:
   name: hyperexponential
   stage: Series B
   focus: AI-powered insurance pricing and underwriting platform
-  use_cases:
-  - Domain-specific AI peer-programmer embedded in a custom IDE to help actuaries
-    and underwriters code, model risk, and make billion-dollar decisions
-  - Powerful ingestion engine that transforms unstructured insurance documents into
-    structured insights
-  - Agentic workflows that reinvent how the insurance industry operates and makes
-    decisions
-  - AI-powered platform for pricing and underwriting decisions in the insurance industry
 position:
   title: Senior Software Engineer - AI Products
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Traversal
   stage: Series A
   focus: AI-powered SRE and incident remediation platform
-  use_cases:
-  - AI agents diagnose and remediate production incidents in real time
-  - AI-driven root cause analysis for complex production issues
-  - Automated troubleshooting and prevention of production incidents
-  - Real-time observability workflows powered by AI agents
-  - Enterprise-grade incident management and remediation
-  - AI-powered software maintenance and SRE automation
 position:
   title: AI Engineer - Data Platform
   ai_type:

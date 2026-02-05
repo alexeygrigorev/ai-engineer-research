@@ -2,14 +2,6 @@ company:
   name: Yahoo
   stage: Public
   focus: Digital advertising and media platform
-  use_cases:
-  - Revenue optimization for multi-billion dollar advertising operations across Yahoo
-    properties
-  - Intelligent automation of ad monetization through agentic AI systems
-  - Real-time predictive targeting and audience segmentation for digital advertising
-  - Automated sales intelligence and customer insights through conversational AI
-  - Yield optimization and decision-making systems for direct, indirect, and native
-    advertising channels
 position:
   title: Senior AI Engineer - Monetization Platform
   ai_type:

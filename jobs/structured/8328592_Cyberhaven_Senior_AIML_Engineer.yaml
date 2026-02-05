@@ -2,17 +2,6 @@ company:
   name: Cyberhaven
   stage: Series B or later
   focus: AI-enabled data security and DLP
-  use_cases:
-  - Process and analyze billions of workflow events in real-time from tens of thousands
-    of endpoints to understand data movement and detect security risks
-  - Deploy and scale AI-powered data lineage systems that track data across organizations
-    to identify sensitive information and potential threats
-  - Operationalize large language models and AI agents for data security applications,
-    including automated risk detection and threat prevention
-  - Enable real-time data loss prevention through AI analysis of enterprise workflows
-    and data patterns
-  - Provide enterprise-grade security monitoring and threat detection at sub-second
-    latency across massive datasets
 position:
   title: Senior AI/ML Engineer
   ai_type:

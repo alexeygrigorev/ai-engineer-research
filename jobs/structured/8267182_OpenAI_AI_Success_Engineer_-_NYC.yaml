@@ -2,13 +2,6 @@ company:
   name: OpenAI
   stage: Public
   focus: AI research and deployment company
-  use_cases:
-  - Enterprise workflow transformation using OpenAI's AI platform
-  - Technical integration and deployment of ChatGPT Enterprise for large organizations
-  - Codex-powered automation and code generation workflows
-  - Agentic platform implementation for autonomous AI workflows
-  - API-driven AI adoption across business lines and processes
-  - Customer use case design from initial deployment to scaled enterprise adoption
 position:
   title: AI Success Engineer - NYC
   ai_type:

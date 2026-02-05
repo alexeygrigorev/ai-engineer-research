@@ -2,15 +2,6 @@ company:
   name: Cloudflare
   stage: Public
   focus: Global cloud infrastructure and edge network services
-  use_cases:
-  - Building platform capabilities that power AI agent orchestration and communication
-    at scale
-  - Enabling efficient headless browsing for AI agents through Cloudflare Browser
-    Rendering API
-  - Providing AI auditability and traceability features for website owners
-  - Creating frameworks for seamless Agent-to-Agent interactions
-  - Empowering software engineers to build, deploy, and manage intelligent agents
-    at scale on Cloudflare's global network
 position:
   title: Software Engineer , AI Agents Tooling & Platforms
   ai_type:

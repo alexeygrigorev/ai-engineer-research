@@ -2,12 +2,6 @@ company:
   name: Stryker
   stage: Public
   focus: Medical technology and devices for healthcare
-  use_cases:
-  - Surgical robotics and navigation systems using computer vision and AI
-  - Image-guided surgery augmented with real-time AI inference on edge devices
-  - Mixed reality (XR) applications integrating computer vision and multi-modal AI
-  - Clinical decision intelligence and outcome assessment for treatment selection
-  - Operating room safety and efficiency monitoring through AI-powered analysis
 position:
   title: Senior AI Deployment Engineer
   ai_type:

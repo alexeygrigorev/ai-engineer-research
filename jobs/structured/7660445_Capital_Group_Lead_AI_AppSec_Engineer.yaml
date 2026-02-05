@@ -2,16 +2,6 @@ company:
   name: Capital Group
   stage: Public
   focus: Investment management and financial services
-  use_cases:
-  - Securing enterprise AI platforms and solutions being built and deployed across
-    the organization
-  - Protecting diverse set of AI systems including Agentic systems and Large Language
-    Models from security threats
-  - Embedding automated security controls into AI development workflows and CI/CD
-    pipelines
-  - Managing and responding to AI-related security incidents and vulnerabilities
-  - Ensuring compliance with AI regulatory frameworks including NIST AI RMF, MITRE
-    ATLAS, GDPR, and EU AI Act
 position:
   title: Lead AI AppSec Engineer
   ai_type:

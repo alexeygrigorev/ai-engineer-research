@@ -4,15 +4,6 @@ company:
   focus: |-
     Identity security and authorization platform using AI-
     powered intelligence
-  use_cases:
-  - Intelligent authorization system for securing human and machine identities across
-    cloud and traditional infrastructure
-  - Real-time detection of irregularities and threats in identity access patterns
-  - Context-aware security governance across the entire identity lifecycle including
-    workforce, IT administrators, developers, and machines
-  - Automated discovery of all identities and assignment of appropriate access levels
-  - AI-powered identity security spanning cloud, traditional infrastructure, data,
-    SaaS applications, and AI systems
 position:
   title: Senior Software Engineer - Authorization AI
   ai_type:

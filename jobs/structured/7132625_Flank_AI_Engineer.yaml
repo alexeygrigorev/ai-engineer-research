@@ -2,15 +2,6 @@ company:
   name: Flank
   stage: Series A
   focus: Autonomous agents for enterprise legal workflows
-  use_cases:
-  - Automating repetitive legal workflows for enterprise teams with 100,000+ employees
-  - Deploying autonomous agents that work 24/7 under supervision and within customer-defined
-    guardrails
-  - Routing only exceptional cases to legal professionals for review while handling
-    routine work automatically
-  - Providing transparent and auditable logs of all agent requests and actions for
-    full visibility
-  - Handling legal tasks that were previously impossible to solve through automation
 position:
   title: AI Engineer
   ai_type:

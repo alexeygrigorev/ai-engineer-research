@@ -4,15 +4,6 @@ company:
   focus: |-
     Database cache with zero integration cost and AI-native
     cloud infrastructure
-  use_cases:
-  - Building AI-native cloud infrastructure powering data-intensive products
-  - Ensuring data freshness for AI systems to maintain user trust and prevent stale
-    results
-  - Designing structured retrievable memory systems for reliable long-term agent behavior
-  - Optimizing AI system costs through batching, caching, and smart model routing
-    for re-embedding, reranker passes, and LLM calls
-  - Deploying production-grade AI systems that are responsive, reliable, and affordable
-    at enterprise scale
 position:
   title: Staff Software Engineer (Cloud and AI)
   ai_type:

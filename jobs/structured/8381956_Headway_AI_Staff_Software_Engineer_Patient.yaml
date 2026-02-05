@@ -2,11 +2,6 @@ company:
   name: Headway
   stage: Series D
   focus: Mental healthcare platform with insurance network
-  use_cases:
-  - AI-assisted patient intake processes to streamline onboarding and data collection
-  - AI-supported therapy experiences that enhance patient-clinician interactions
-  - Patient search and matching with mental health providers
-  - Scalable practice management for mental healthcare providers accepting insurance
 position:
   title: AI Staff Software Engineer (Patient)
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: VCU Health
   stage: null
   focus: Healthcare AI solutions and clinical decision support
-  use_cases:
-  - Clinical decision support tools to improve patient outcomes and care quality
-  - Healthcare operational efficiency improvements in administrative areas
-  - Predictive models for patient care, healthcare operations, and financial performance
-    optimization
-  - Agentic AI solutions and automation for clinical and administrative workflows
-  - NLP-based analysis of unstructured healthcare data and clinical text
 position:
   title: AI Engineer II
   ai_type:

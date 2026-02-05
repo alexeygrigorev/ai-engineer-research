@@ -2,12 +2,6 @@ company:
   name: Manifest
   stage: early stage startup
   focus: AI-driven platform for software visibility and security
-  use_cases:
-  - Real-time AI applications and intelligent APIs
-  - Large-scale model inference pipelines
-  - Automated decision-making workflows
-  - Advanced analytics and machine learning workflows
-  - Software visibility and security insights
 position:
   title: Senior Backend Application Engineer - AI
   ai_type:

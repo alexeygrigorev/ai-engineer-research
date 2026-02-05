@@ -2,12 +2,6 @@ company:
   name: Pathwork
   stage: Series A
   focus: AI-native insurance workflow automation platform
-  use_cases:
-  - Transforming insurance distribution workflows with AI-native systems
-  - Providing agentic orchestration for life and health insurance professionals
-  - Automating and structuring outdated insurance broker and carrier workflows
-  - Delivering predictive models and generative AI capabilities for insurance operations
-  - Enabling real-time AI-driven decision support for 2.5M insurance industry professionals
 position:
   title: AI Engineer
   ai_type:

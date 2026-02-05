@@ -4,15 +4,6 @@ company:
   focus: |-
     AI-powered legacy code intelligence and modernization
     platform
-  use_cases:
-  - Surfacing business logic and technical insights from legacy code using AI
-  - Generating automated summaries and narrative analytics for enterprise applications
-  - Enabling enterprises to modernize applications faster by understanding code structure
-    and dependencies
-  - Providing conversational agents to query and analyze codebases and documentation
-  - Extracting and indexing knowledge from legacy systems for intelligent search and
-    retrieval
-  - Reducing risk of costly failures by identifying potential issues in legacy code
 position:
   title: AI Engineer
   ai_type:

@@ -4,11 +4,6 @@ company:
   focus: |-
     AI-powered Talent Intelligence Platform for talent
     acquisition and management
-  use_cases:
-  - Talent data organization and management for enterprises
-  - Unbiased, predictive talent acquisition and hiring decisions
-  - Automated talent intelligence across the entire talent lifecycle
-  - AI-powered evaluation of candidates based on merit rather than bias
 position:
   title: Full-Stack Engineer (Node.js, React, AI/LLM)
   ai_type:

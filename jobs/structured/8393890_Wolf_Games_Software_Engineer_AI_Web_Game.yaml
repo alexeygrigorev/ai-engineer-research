@@ -4,16 +4,6 @@ company:
   focus: |-
     Platform for generative entertainment universes and AI-
     powered detective games
-  use_cases:
-  - Generative entertainment universes where creators, players, and AI collaborate
-    in real time
-  - Crime-solving detective games where players collect evidence, crack cases, and
-    rise through ranks of a connected detective program
-  - Living, ever-expanding game worlds where intelligent systems learn, adapt, and
-    surprise players
-  - AI-powered game development workflows that enable rapid prototyping and fast iteration
-  - Scalable game platform that supports multiple interconnected game titles with
-    shared progression and experiences
 position:
   title: Software Engineer, AI Web Game
   ai_type:

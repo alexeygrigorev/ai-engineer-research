@@ -2,12 +2,6 @@ company:
   name: Hewlett Packard Enterprise
   stage: Public
   focus: Edge-to-cloud infrastructure and enterprise solutions
-  use_cases:
-  - Virtual assistants and Q&A chatbots for enterprise applications
-  - Text summarization for document processing and knowledge management
-  - Retrieval-Augmented Generation (RAG) pipelines for knowledge-based queries
-  - Enterprise AI solutions leveraging structured and unstructured data
-  - NLP-based applications for information extraction and analysis
 position:
   title: Private Cloud AI Customer Engineer
   ai_type:

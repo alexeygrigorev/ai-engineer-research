@@ -2,16 +2,6 @@ company:
   name: Weave
   stage: null
   focus: AI-powered features for customer experience platforms
-  use_cases:
-  - Building AI-powered applications that require access to large sets of data for
-    product innovation
-  - Developing natural language models and pipelines for B2B multi-tenant applications
-  - Implementing real-time audio models for voice use cases including transcription,
-    ASR pipelines, interruption detection, and speech synthesis
-  - Handling data for hundreds of millions of people daily with TBs of data and 100M+
-    to 10B+ records
-  - Creating low latency natural language models and pipelines at scale for customer-facing
-    products
 position:
   title: Staff Machine Learning Engineer, Gen AI
   ai_type:

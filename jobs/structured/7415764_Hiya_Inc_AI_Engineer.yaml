@@ -2,12 +2,6 @@ company:
   name: Hiya Inc.
   stage: Series B
   focus: AI voice call protection and spam detection
-  use_cases:
-  - AI-powered voice call analysis for spam and scam detection
-  - Protecting over 550 million users from fraudulent calls and AI manipulation
-  - Multi-agent systems for next-generation voice intelligence
-  - LLM-based applications for call trust and confidence
-  - Voice communication safety and authenticity verification
 position:
   title: AI Engineer
   ai_type:

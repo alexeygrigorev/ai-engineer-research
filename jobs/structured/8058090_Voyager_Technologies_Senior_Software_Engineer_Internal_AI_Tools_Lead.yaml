@@ -2,13 +2,6 @@ company:
   name: Voyager Technologies
   stage: null
   focus: Defense, national security, and space technology
-  use_cases:
-  - Automated report generation for finance and operations teams
-  - Deal review and financial/ops reconciliation workflows
-  - Policy Q&A systems for HR and compliance
-  - Supplier analysis and procurement automation
-  - Document processing and retrieval from enterprise repositories
-  - Workflow automation for HR, supply chain, and manufacturing processes
 position:
   title: Senior Software Engineer – Internal AI Tools Lead
   ai_type:

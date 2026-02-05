@@ -2,13 +2,6 @@ company:
   name: Adyen
   stage: Public
   focus: Global financial technology and payments platform
-  use_cases:
-  - AI agents for data analysis and operational workflows in financial services
-  - Human-in-the-loop research for Integrity Risk management in payments
-  - Foundational model development for financial technology applications
-  - Multi-step reasoning for financial data analysis tasks
-  - AI-powered solutions for consumers, merchants, and financial institutions
-  - Safe and regulated AI innovation in fintech sector
 position:
   title: Staff Level Research Engineer, AI
   ai_type:

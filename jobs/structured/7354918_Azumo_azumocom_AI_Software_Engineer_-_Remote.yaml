@@ -4,12 +4,6 @@ company:
   focus: |-
     AI software development services, Generative AI and
     intelligent automation
-  use_cases:
-  - Generative AI-powered intelligent applications and automation solutions
-  - RAG-based knowledge retrieval systems using vector databases
-  - LLM fine-tuning and optimization for production workloads
-  - Cloud-deployed AI solutions with monitoring and compliance
-  - Automated testing and deployment pipelines for AI/ML systems
 position:
   title: AI Software Engineer - Remote
   ai_type:

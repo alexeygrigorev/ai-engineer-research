@@ -2,12 +2,6 @@ company:
   name: Hatch
   stage: Series B
   focus: AI-driven customer service platform
-  use_cases:
-  - AI-powered customer service automation and transformation
-  - AI agent-driven customer engagement systems
-  - End-to-end user interfaces for AI customer service platform
-  - Backend infrastructure supporting AI-driven customer interactions
-  - Real-time customer service AI deployment and monitoring
 position:
   title: Senior Software Engineer-AI Agents
   ai_type:

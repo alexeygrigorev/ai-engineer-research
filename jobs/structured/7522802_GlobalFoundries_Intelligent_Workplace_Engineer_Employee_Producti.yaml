@@ -2,12 +2,6 @@ company:
   name: GlobalFoundries
   stage: Public
   focus: Semiconductor foundry and manufacturing
-  use_cases:
-  - AI-enhanced employee productivity through Microsoft 365 Copilot integration
-  - Employee experience portals and intranet solutions using Viva Suite and SharePoint
-  - Automated workflows and business processes via Power Platform with AI capabilities
-  - Copilot-enabled meeting experiences and knowledge management
-  - Enterprise governance and security for AI deployment in workplace tools
 position:
   title: Intelligent Workplace Engineer – Employee Productivity AI
   ai_type:

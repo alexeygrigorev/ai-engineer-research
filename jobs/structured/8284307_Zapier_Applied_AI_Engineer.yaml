@@ -2,16 +2,6 @@ company:
   name: Zapier
   stage: Series D+ (profitable)
   focus: Workflow automation and integration platform
-  use_cases:
-  - Building user-facing features leveraging agent architectures with LLMs
-  - Implementing Retrieval-Augmented Generation (RAG) systems for improved model accuracy
-    and speed
-  - Deploying evaluation frameworks for LLMs to assess performance, reliability, and
-    bias
-  - Optimizing knowledge retrieval with semantic search and vector databases
-  - Creating shared libraries, evaluation systems, and orchestration patterns for
-    AI development
-  - Enhancing automation workflows with AI-powered capabilities
 position:
   title: Applied AI Engineer
   ai_type:

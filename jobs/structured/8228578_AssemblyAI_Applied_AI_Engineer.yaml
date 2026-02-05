@@ -2,13 +2,6 @@ company:
   name: AssemblyAI
   stage: Series C
   focus: Speech AI models and voice applications
-  use_cases:
-  - Voice agents and virtual assistants powered by speech recognition
-  - Meeting assistants and transcription services for collaboration tools
-  - Contact center solutions for real-time speech processing and analytics
-  - Medical scribes for healthcare documentation and record-keeping
-  - Real-time streaming applications with low-latency speech-to-text processing
-  - Multilingual speech recognition and understanding for global applications
 position:
   title: Applied AI Engineer
   ai_type:

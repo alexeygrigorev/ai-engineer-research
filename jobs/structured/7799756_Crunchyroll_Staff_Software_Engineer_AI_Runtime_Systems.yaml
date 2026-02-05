@@ -2,13 +2,6 @@ company:
   name: Crunchyroll
   stage: Public
   focus: Global anime streaming platform
-  use_cases:
-  - Serving machine learning models at scale for a global streaming platform
-  - Enabling multi-model inference runtimes with GPU/TPU acceleration
-  - Providing platform infrastructure for authentication, security, and notification
-    services
-  - Deploying and operationalizing ML workloads for production environments
-  - Supporting intelligent features and experiences for anime streaming users
 position:
   title: Staff Software Engineer, AI Runtime Systems
   ai_type:

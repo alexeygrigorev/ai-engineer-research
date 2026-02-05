@@ -2,10 +2,6 @@ company:
   name: Deeter Analytics
   stage: null
   focus: Training foundational models for financial applications
-  use_cases:
-  - Training foundational models for financial applications
-  - Processing and analyzing unique multimodal datasets
-  - Deploying frontier-scale models from research to production
 position:
   title: Entrepreneurial AI Research Engineer
   ai_type:

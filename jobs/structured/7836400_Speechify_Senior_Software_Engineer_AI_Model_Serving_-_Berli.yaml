@@ -2,13 +2,6 @@ company:
   name: Speechify
   stage: null
   focus: Text-to-speech and voice cloning AI products
-  use_cases:
-  - Text-to-speech conversion for various content types (PDFs, books, websites)
-  - Voice cloning technology for personalized audio experiences
-  - Real-time audio generation with low latency requirements
-  - Accessibility solutions for users with learning differences like dyslexia and
-    ADD
-  - Cross-platform TTS delivery (iOS, Android, Mac, Chrome, Web)
 position:
   title: Senior Software Engineer, AI Model Serving - Berlin, Germany
   ai_type:

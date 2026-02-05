@@ -4,13 +4,6 @@ company:
   focus: |-
     Helping households save on daily spending and bills through
     comparison services and AI-enhanced products
-  use_cases:
-  - Building intelligent customer-facing AI agents for conversational problem-solving
-  - Embedding AI in existing products to enrich customer journeys with insights and
-    value
-  - Creating AI-native journeys to reach customers in new channels
-  - Multi-agent orchestration for handling complex customer interactions
-  - Enabling holistic conversational experiences for household spending and savings
 position:
   title: Senior AI Integration Engineer
   ai_type:

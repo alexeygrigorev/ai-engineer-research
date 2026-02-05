@@ -4,13 +4,6 @@ company:
   focus: |-
     AI-powered platform connecting people and brands through
     personalized experiences and loyalty programs
-  use_cases:
-  - Consumer intelligence engine for predicting user intent and behavior
-  - Personalized recommendation systems for feeds, notifications, and products
-  - Gesture-based loyalty experiences with predictive engagement cycles
-  - Real-time campaign optimization using behavioral data
-  - Emotional intelligence-driven experiences that adapt to user interactions
-  - First-party data segmentation and behavior scoring for marketing
 position:
   title: Full Stack + AI Engineer
   ai_type:

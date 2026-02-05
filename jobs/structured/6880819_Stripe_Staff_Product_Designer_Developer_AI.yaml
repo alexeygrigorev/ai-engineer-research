@@ -4,17 +4,6 @@ company:
   focus: |-
     Financial infrastructure platform for payments and business
     revenue
-  use_cases:
-  - Streamline and automate building and maintaining Stripe integrations using LLMs
-    and AI
-  - Re-imagine the zero-to-one integration experience for developers building on Stripe
-    APIs
-  - Bring Stripe knowledge including docs, reference and support to developer fingertips
-    through tools like MCP server
-  - Partner with tools like v0 to help users get set up and taking payments in minutes
-    rather than weeks
-  - Reduce pain of API migrations and upgrades using AI tools to automate the process
-  - Explore new ways AI can improve overall Developer Experience beyond current patterns
 position:
   title: Staff Product Designer, Developer AI
   ai_type:

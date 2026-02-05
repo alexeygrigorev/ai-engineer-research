@@ -4,15 +4,6 @@ company:
   focus: |-
     Insurance provider offering auto, home, and other insurance
     coverage
-  use_cases:
-  - Modernizing legacy CRM systems into scalable, connected solutions for insurance
-    agents
-  - Enabling seamless customer interactions across Chat, SMS, and email channels
-  - Integrating AI-powered services into insurance business workflows and customer
-    support systems
-  - Building high performance, low-latency platforms for insurance business transformation
-  - Implementing self-service and incident response platforms for improved operational
-    efficiency
 position:
   title: Senior Software Engineer- Artificial Intelligence
   ai_type:

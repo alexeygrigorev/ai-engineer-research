@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: Unknown
   focus: LLM code evaluation and training platform
-  use_cases:
-  - Training LLMs to write production-grade code across multiple programming languages
-  - Teaching models to propose, critique, and improve code through expert feedback
-  - Converting human code reviews into reward signals for reinforcement learning
-  - Generating code that meets production standards for correctness and efficiency
-  - Developing AI systems that can self-critique and improve code quality
 position:
   title: Software Engineer, AI (C++)
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Multiverse
   stage: Series D
   focus: AI and tech upskilling platform
-  use_cases:
-  - Personalised learning experiences tailored to individual learners' needs and progress
-  - Content generation for creating scalable, adaptive learning materials
-  - Semantic search capabilities to help learners find relevant content and resources
-  - Summarisation of educational content to improve information accessibility and
-    retention
-  - AI-assisted learning tools that enhance the overall educational experience
 position:
   title: AI Staff Engineer
   ai_type:

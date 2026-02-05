@@ -2,13 +2,6 @@ company:
   name: Blooming Health
   stage: venture-backed
   focus: Health tech platform for social care navigation
-  use_cases:
-  - LLM-driven conversational workflows for healthcare resource navigation
-  - AI agent systems that help people access social care resources
-  - Intelligent platform enabling CBOs, health systems, and health plans to deliver
-    equitable care
-  - Patient/member engagement through conversational AI interfaces
-  - Social care resource discovery and navigation using AI
 position:
   title: Senior AI Engineer, Conversational AI & Agentic Systems
   ai_type:

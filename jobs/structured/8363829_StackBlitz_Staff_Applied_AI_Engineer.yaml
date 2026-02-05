@@ -2,16 +2,6 @@ company:
   name: StackBlitz
   stage: Series B
   focus: AI-powered web application builder and browser-based IDE
-  use_cases:
-  - Convert natural language into production-ready full-stack web and mobile applications
-  - Maintain context across large codebases while making changes, from simple UI tweaks
-    to complex architectural decisions
-  - Orchestrate multi-step workflows that handle increasingly complex user needs across
-    the application development process
-  - Enable safe and effective tool use by AI agents for web searches, database queries,
-    and domain-specific operations
-  - Provide instant code generation and editing capabilities directly in the browser
-    without requiring traditional code writing
 position:
   title: Staff Applied AI Engineer
   ai_type:

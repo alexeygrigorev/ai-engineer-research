@@ -2,16 +2,6 @@ company:
   name: Baseten
   stage: Series E
   focus: AI inference platform for production deployment
-  use_cases:
-  - Deploy production-ready model servers from Docker images for various AI applications
-  - Build high-scale inference systems for transcription using Whisper models
-  - Deploy custom ComfyUI workflows as APIs for generative AI applications
-  - Power mission-critical inference for AI companies including Cursor, Notion, OpenEvidence,
-    Abridge, Clay, Gamma and Writer
-  - Optimize AI applications for quality, latency, and cost outcomes in production
-    environments
-  - Enable companies to bring cutting-edge AI models into production with reliable
-    and observable services
 position:
   title: Applied AI Inference Engineer
   ai_type:

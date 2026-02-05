@@ -2,15 +2,6 @@ company:
   name: EverCommerce
   stage: Public
   focus: Service commerce SaaS platform for service economy
-  use_cases:
-  - Agentic AI platform enabling multi-agent orchestration and tool-use capabilities
-    across multiple SaaS products
-  - Model Context Protocol (MCP) server for contextual orchestration and deployment
-    into portfolio products
-  - Enterprise AI platform supporting service commerce operations in Home & Field
-    Services, Health Services, and Fitness & Wellness industries
-  - Centralized AI/ML infrastructure for model fine-tuning, evaluation, and lifecycle
-    management across company products
 position:
   title: EverPro - Senior AI Engineer
   ai_type:

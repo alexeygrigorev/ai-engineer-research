@@ -4,17 +4,6 @@ company:
   focus: |-
     Cell-free DNA testing for genetic diagnostics and
     personalized medicine
-  use_cases:
-  - Agentic AI automation platform for enterprise workflow orchestration and task
-    execution across multiple business domains
-  - Low-code citizen developer platform enabling business users and analysts to prototype
-    and deploy AI-powered workflows
-  - Intelligent document processing including unstructured data extraction, summarization,
-    classification, and information retrieval
-  - Enterprise system integration connecting AI agents to core business systems for
-    automated real-world actions and decision support
-  - Healthcare and diagnostics automation with regulatory compliance (HIPAA, SOC2,
-    GDPR) for genetic testing and patient data workflows
 position:
   title: Principal AI Software Engineer, Enterprise AI Platform
   ai_type:

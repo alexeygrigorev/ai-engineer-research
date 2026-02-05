@@ -2,14 +2,6 @@ company:
   name: Outreach
   stage: Series D+
   focus: AI Revenue Workflow Platform for sales teams
-  use_cases:
-  - Automate sales workflows from new logo prospecting to renewal and expansion
-  - Enable AI agents for revenue-related tasks including research, conversation analysis,
-    and deal management
-  - Integrate AI agents into existing CRM systems like Salesforce and HubSpot
-  - Free sellers to focus on strategic conversations by automating routine tasks
-  - Provide connected account visibility and performance insights across GTM teams
-  - Improve forecasting accuracy through AI-powered workflow automation
 position:
   title: Forward Deployed Engineer – AI Revenue Agents
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Wasabi Technologies
   stage: Series B+
   focus: Hot cloud storage with disruptive pricing
-  use_cases:
-  - AI assistants and agents for internal business operations across Sales, Marketing,
-    Finance, HR, Legal, Customer Support, and IT
-  - Retrieval-augmented generation (RAG) systems for enterprise knowledge access and
-    decision support
-  - Agentic workflows for automating business processes and increasing productivity
-  - AI-powered applications for customer support and enterprise productivity enhancement
 position:
   title: Senior Enterprise AI Engineer
   ai_type:

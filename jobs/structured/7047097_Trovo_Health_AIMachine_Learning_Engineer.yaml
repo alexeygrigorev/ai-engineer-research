@@ -2,13 +2,6 @@ company:
   name: Trovo Health
   stage: Series A
   focus: AI-powered care team platform for scalable clinical capacity
-  use_cases:
-  - AI-powered care team platform for healthcare organizations
-  - Clinical operations automation through AI agents combined with clinical experts
-  - High-impact clinical operations and care management activities
-  - Processing and analyzing large volumes of unstructured healthcare data
-  - Deploying NLP and LLM models in live clinical workflows
-  - Scalable clinical capacity through AI coordination
 position:
   title: AI/Machine Learning Engineer
   ai_type:

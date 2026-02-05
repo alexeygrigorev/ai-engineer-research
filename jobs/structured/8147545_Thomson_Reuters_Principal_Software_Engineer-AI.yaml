@@ -2,13 +2,6 @@ company:
   name: Thomson Reuters
   stage: Public
   focus: AI-powered tax and accounting software
-  use_cases:
-  - AI-native tax and accounting products used by accountants on real client work
-  - Tax filing assistance through AI agents and workflows
-  - Advisory and audit support using generative AI and document analysis
-  - Document-centric experiences for tax professionals analyzing millions of documents
-  - AI agents and conversational interfaces for accounting workflows
-  - Knowledge base and retrieval systems for tax laws and regulations
 position:
   title: Principal Software Engineer-AI
   ai_type:

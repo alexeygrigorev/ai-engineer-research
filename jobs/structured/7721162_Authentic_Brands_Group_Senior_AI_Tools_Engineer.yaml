@@ -2,13 +2,6 @@ company:
   name: Authentic Brands Group
   stage: Public
   focus: Sports and entertainment brand licensing and management
-  use_cases:
-  - Enabling LLMs to perform structured, secure actions across enterprise systems
-    through tool calling
-  - Connecting AI capabilities to real-world business workflows and data sources
-  - Building reliable authentication and telemetry for AI-powered business process
-    automation
-  - Integrating AI tools with brand management and licensing operations
 position:
   title: Senior AI Tools Engineer
   ai_type:

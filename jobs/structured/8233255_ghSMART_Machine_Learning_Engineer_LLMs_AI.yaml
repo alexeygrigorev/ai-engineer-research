@@ -2,15 +2,6 @@ company:
   name: ghSMART
   stage: null
   focus: Leadership advisory and talent consulting
-  use_cases:
-  - Extract high-accuracy insights from structured leadership datasets using LLMs
-    and traditional ML models
-  - Build RAG-based AI agents to unlock novel leadership insights from research databases
-  - Deliver leadership intelligence and talent insights at scale to CEOs, boards,
-    and investors
-  - Support data-driven decision making for building winning leadership teams
-  - Power leadership insights through AI agents integrated into the Leadership Intelligence
-    Platform
 position:
   title: Machine Learning Engineer (LLMs / AI)
   ai_type:

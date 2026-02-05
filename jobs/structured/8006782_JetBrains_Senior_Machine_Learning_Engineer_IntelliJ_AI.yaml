@@ -2,12 +2,6 @@ company:
   name: JetBrains
   stage: Public
   focus: Developer tools and IDEs with AI features
-  use_cases:
-  - AI assistance for the entire software development lifecycle within JetBrains IDEs
-  - Developer workflow acceleration through advanced AI features embedded in IDEs
-  - Context-aware pipelines for code completion and generation tasks
-  - Agent-based systems for multi-step reasoning in development environments
-  - Domain-specific AI capabilities tailored to different JetBrains product teams
 position:
   title: Senior Machine Learning Engineer (IntelliJ AI)
   ai_type:

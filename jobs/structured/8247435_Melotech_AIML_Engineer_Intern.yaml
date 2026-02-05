@@ -2,12 +2,6 @@ company:
   name: Melotech
   stage: Series A
   focus: AI-powered media and entertainment platform
-  use_cases:
-  - Content optimization across multiple media verticals
-  - Real-time understanding and tracking of cultural trends
-  - Enhancing creative processes through AI capabilities
-  - Scaling ML systems to millions of users with low latency
-  - Processing and analyzing massive media datasets
 position:
   title: AI/ML Engineer Intern
   ai_type:

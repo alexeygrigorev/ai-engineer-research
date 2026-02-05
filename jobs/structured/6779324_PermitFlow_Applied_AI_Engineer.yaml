@@ -2,12 +2,6 @@ company:
   name: PermitFlow
   stage: Series B
   focus: AI-powered construction permitting and compliance automation
-  use_cases:
-  - Automating construction permitting workflows from application to approval
-  - Navigating licensing and inspections for construction companies
-  - Accelerating housing, clean-energy, and infrastructure development
-  - Reducing compliance time and de-risking construction projects
-  - Understanding what can be built, where, and how for regulatory compliance
 position:
   title: Applied AI Engineer
   ai_type:

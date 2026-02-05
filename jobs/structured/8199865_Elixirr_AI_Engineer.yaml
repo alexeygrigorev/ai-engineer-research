@@ -2,16 +2,6 @@ company:
   name: Elixirr
   stage: null
   focus: AI consulting and platforms for enterprise transformation
-  use_cases:
-  - Underwriting agents that empower financial professionals and streamline insurance
-    processes
-  - Knowledge agents that optimize customer workflows across banking, insurance, and
-    consumer goods
-  - Airport assistants and field support tools for telecommunications workers
-  - Pharmacy workflow optimizers to enhance healthcare operations
-  - Customer due diligence systems for banking and financial services
-  - Various enterprise NLP applications from knowledge management to automated decision
-    support
 position:
   title: AI Engineer
   ai_type:

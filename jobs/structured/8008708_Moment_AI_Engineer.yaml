@@ -2,12 +2,6 @@ company:
   name: Moment
   stage: Series B
   focus: Next-generation trading and portfolio management technology
-  use_cases:
-  - Automated trading and smart order routing with AI assistance
-  - Real-time portfolio optimization using AI-driven insights
-  - High-throughput market data processing enhanced with AI automation
-  - Internal AI primitives to accelerate team workflows and development
-  - AI-powered workflow automation for financial institutions managing $8T+ assets
 position:
   title: AI Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Guardian Life
   stage: Public
   focus: Insurance and financial services company
-  use_cases:
-  - Intelligent automation driving innovation and operational excellence across the
-    enterprise
-  - Process automation products and solutions for insurance operations
-  - AI applications for improving business processes and customer service
-  - Automation platform for enterprise-wide operational efficiency
 position:
   title: Lead AI Engineer
   ai_type:

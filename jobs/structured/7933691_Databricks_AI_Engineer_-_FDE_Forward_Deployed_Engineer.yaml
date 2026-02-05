@@ -2,12 +2,6 @@ company:
   name: Databricks
   stage: Public
   focus: Data and AI cloud platform
-  use_cases:
-  - Enterprise GenAI applications using RAG and retrieval techniques
-  - Multi-agent systems for complex task automation
-  - Text2SQL applications for natural language database querying
-  - Fine-tuned models for domain-specific applications
-  - Production-grade GenAI deployments with evaluation and optimization
 position:
   title: AI Engineer - FDE (Forward Deployed Engineer)
   ai_type:

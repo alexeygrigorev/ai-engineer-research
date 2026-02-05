@@ -2,12 +2,6 @@ company:
   name: Howden Re
   stage: null
   focus: Global insurance group with employee ownership
-  use_cases:
-  - Enterprise AI solutions used by hundreds of colleagues across the insurance group
-  - RAG-based AI systems for information retrieval in commercial insurance domain
-  - Multi-agent systems and autonomous decision-making frameworks for business applications
-  - Custom model fine-tuning for insurance-specific AI use cases
-  - LLM-based services and applications for enterprise insurance workflows
 position:
   title: Principal AI Deployment Engineer
   ai_type:

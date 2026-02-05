@@ -2,12 +2,6 @@ company:
   name: BetterUp
   stage: Series D or later
   focus: AI-powered coaching and professional development platform
-  use_cases:
-  - AI-powered coaching experiences that combine human expertise with AI capability
-  - Personalized coaching interventions to help individuals maximize their potential
-  - Generative AI systems for professional development and growth
-  - Human-centered AI products that deliver meaningful coaching value
-  - Responsible AI applications in workplace coaching and transformation
 position:
   title: Staff Machine Learning Engineer, AI Product and Platform
   ai_type:

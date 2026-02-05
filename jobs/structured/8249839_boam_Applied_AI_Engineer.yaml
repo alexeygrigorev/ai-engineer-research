@@ -4,12 +4,6 @@ company:
   focus: |-
     Managed AI data solutions transforming unstructured data
     into structured business intelligence
-  use_cases:
-  - Transform messy, unstructured signals from public, private, and proprietary sources
-    into structured intelligence on millions of SMBs and enterprises
-  - Power CRMs, data warehouses, and AI products with agentic AI systems
-  - Enable mission-critical enterprise decisions with always up-to-date business intelligence
-  - Deploy ML and agentic AI systems for top-tier enterprise customers worldwide
 position:
   title: Applied AI Engineer
   ai_type:

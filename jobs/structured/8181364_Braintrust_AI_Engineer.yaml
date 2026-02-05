@@ -4,13 +4,6 @@ company:
   focus: |-
     AI observability platform for evals and production
     monitoring
-  use_cases:
-  - AI observability and monitoring in production environments
-  - Model comparison and prompt testing for AI applications
-  - Regression detection and quality evaluation for LLM systems
-  - End-to-end AI workflow instrumentation and tracing
-  - Operationalizing AI evaluations as part of software development lifecycle
-  - Production data analysis for continuous AI system improvement
 position:
   title: AI Engineer
   ai_type:

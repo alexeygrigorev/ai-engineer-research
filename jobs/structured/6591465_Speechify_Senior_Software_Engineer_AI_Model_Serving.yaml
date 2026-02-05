@@ -2,12 +2,6 @@ company:
   name: Speechify
   stage: Series B+
   focus: Text-to-speech and voice cloning AI platform
-  use_cases:
-  - Text-to-speech conversion for documents, books, and web content
-  - Voice cloning for personalized audio experiences
-  - Multi-platform audio generation across iOS, Android, and web
-  - Accessibility support for users with learning differences like dyslexia and ADD
-  - Real-time text-to-speech with low latency for seamless user experience
 position:
   title: Senior Software Engineer, AI Model Serving
   ai_type:

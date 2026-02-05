@@ -2,13 +2,6 @@ company:
   name: EvolutionIQ
   stage: Series B+
   focus: AI-powered insurance claims guidance technology
-  use_cases:
-  - Insurance claim guidance and automated recommendations for claims handling teams
-  - Information extraction from complex medical documents using ML/LLM
-  - Claim time series forecasting for predicting claim outcomes and timelines
-  - NLP-based understanding of insurance claim documentation and unstructured text
-  - Human-in-the-loop workflows combining AI recommendations with human review
-  - Making insurance claims handling more accurate, fair, and efficient
 position:
   title: Senior Machine Learning (ML) Engineer (AI Insurtech)
   ai_type:

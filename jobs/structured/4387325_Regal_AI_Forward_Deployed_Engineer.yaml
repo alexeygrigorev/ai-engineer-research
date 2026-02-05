@@ -2,14 +2,6 @@ company:
   name: Regal
   stage: Series B
   focus: AI Agent Platform for customer communications
-  use_cases:
-  - Transform customer communications with AI Agents that are always-available and
-    ready to take action
-  - Delightful AI voice agents connected to customer data for seamless interactions
-  - Support better customer service, sales, and operations through voice AI automation
-  - Customizable and monitorable AI agents for each customer's specific operational
-    context
-  - Voice interfaces for customer support, sales, and business operations workflows
 position:
   title: AI Forward Deployed Engineer
   ai_type:

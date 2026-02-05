@@ -2,15 +2,6 @@ company:
   name: Better Half
   stage: Seed
   focus: Trustworthy AI for high-stakes relational domains
-  use_cases:
-  - High-stakes relational AI for mental health, consumer social, robotics, defense,
-    and education
-  - Trustworthy AI systems that optimize for user thriving rather than engagement
-  - Real-time conversation systems that provide appropriate pushback, softening, or
-    repair interventions
-  - Multi-modal emotion detection and escalation tracking in conversation contexts
-  - Long-term modeling of user growth trajectories and relational capacity across
-    sessions
 position:
   title: Founding AI Engineer
   ai_type:

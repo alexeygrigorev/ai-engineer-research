@@ -2,12 +2,6 @@ company:
   name: Stability AI
   stage: Series B
   focus: Generative AI models and inference platforms
-  use_cases:
-  - Multi-modal generative AI inference for creative applications
-  - Diffusion model-based content generation
-  - High-performance inference optimization for generative models
-  - Cloud-hosted inference solutions for Stability AI models
-  - Production ML systems for image and multi-modal content creation
 position:
   title: Generative AI Inference Engineer
   ai_type:

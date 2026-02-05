@@ -2,19 +2,6 @@ company:
   name: Ethos
   stage: Series C
   focus: Life insurance technology and digital platform
-  use_cases:
-  - LLM-powered copilots for underwriting productivity to help insurance underwriters
-    work more efficiently
-  - Agent enablement tools that provide AI assistance to insurance agents during customer
-    interactions
-  - Customer support automation using AI to handle insurance-related inquiries and
-    provide accurate, cited responses
-  - Operations and compliance copilots to streamline internal workflows and ensure
-    regulatory adherence
-  - Fraud detection and prevention using AI to analyze patterns and identify suspicious
-    activities in insurance applications
-  - Multi-hop context retrieval across complex insurance documents to provide comprehensive,
-    accurate answers to domain-specific questions
 position:
   title: Senior AI Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Standard Bots
   stage: null
   focus: Robotic automation with AI integration
-  use_cases:
-  - AI-enabled robotic automation solutions for industrial applications
-  - Custom robotic solutions designed around specific customer needs using RO1 AI
-    functionality
-  - Proof of concept demonstrations showcasing Standard Bot's capabilities
-  - Field installation and programming of AI-integrated robotic systems
 position:
   title: AI Applications Engineer (Glen Cove, NY)
   ai_type:

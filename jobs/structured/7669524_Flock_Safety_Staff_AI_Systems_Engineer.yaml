@@ -2,13 +2,6 @@ company:
   name: Flock Safety
   stage: Series C+
   focus: Public safety technology and crime prevention platform
-  use_cases:
-  - AI research assistant (Night Shift) that automates repetitive case investigation
-    tasks for law enforcement
-  - Agentic system that helps investigators work cases faster by automating tedious
-    steps
-  - Search, retrieval, and recommendation system for case-related information
-  - Safety and compliance monitoring with red-teaming and regression testing
 position:
   title: Staff AI Systems Engineer
   ai_type:

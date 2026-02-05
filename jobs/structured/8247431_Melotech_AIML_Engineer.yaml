@@ -2,13 +2,6 @@ company:
   name: Melotech
   stage: Series A
   focus: AI-powered media and entertainment content platform
-  use_cases:
-  - Content optimization across media verticals using ML inference
-  - Real-time understanding and analysis of cultural trends in media
-  - Enhancing creative processes in media and entertainment production using AI
-  - Scaling ML systems to serve millions of users with low latency for media content
-  - Multimodal AI systems for analyzing and processing media content (audio, video,
-    text)
 position:
   title: AI/ML Engineer
   ai_type:

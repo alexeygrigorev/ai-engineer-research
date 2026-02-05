@@ -2,13 +2,6 @@ company:
   name: Wolters Kluwer
   stage: Series B
   focus: Legal AI assistant platform for lawyers
-  use_cases:
-  - AI-powered legal research to help lawyers find relevant information faster
-  - Legal document drafting assistance for lawyers
-  - Chat-based interfaces for legal knowledge retrieval and analysis
-  - Document parsing and semantic search across legal content
-  - Multi-step legal workflow automation using AI agents
-  - Localized legal AI workspace for lawyers across European markets
 position:
   title: Senior AI Engineer (Libra - Legal AI Assistant) (m/f/d)
   ai_type:

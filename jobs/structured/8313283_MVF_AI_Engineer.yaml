@@ -4,17 +4,6 @@ company:
   focus: |-
     Building AI agents for business operations and customer
     optimization
-  use_cases:
-  - AI agents that autonomously optimize business operations and deliver better outcomes
-    for customers
-  - Multi-step agentic workflows that execute function calls and manage state across
-    complex tasks
-  - RAG systems that provide agents with exact context for decision-making through
-    hybrid search
-  - Structured data extraction from unstructured conversations for downstream system
-    consumption
-  - Automated prompt evaluation and testing to ensure reliable agent performance in
-    production
 position:
   title: AI Engineer
   ai_type:

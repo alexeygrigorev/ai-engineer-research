@@ -4,12 +4,6 @@ company:
   focus: |-
     Mobile industry association developing AI applications and
     systems for telecommunications networks
-  use_cases:
-  - Natural Language Processing applications and systems
-  - Large Language Model applications with focus on limitations and optimization
-  - Reinforcement learning and agent-based modeling solutions
-  - AI applications for telecommunications and mobile industry networks
-  - Bio-inspired AI architectures and expert systems
 position:
   title: Senior AI Engineer
   ai_type:

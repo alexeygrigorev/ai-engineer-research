@@ -2,11 +2,6 @@ company:
   name: Flatiron School
   stage: Public
   focus: Tech education and training provider
-  use_cases:
-  - Learning how engineering and data science intersect in modern AI products
-  - Building and shipping features for real user needs with product strategy alignment
-  - Applying data thinking to solve software engineering challenges
-  - Developing full-stack software development skills with AI/ML awareness
 position:
   title: Entry-Level AI/ML Software Developer Apprenticeship - Bletchley Fellowship
   ai_type:

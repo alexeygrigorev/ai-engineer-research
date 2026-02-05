@@ -2,12 +2,6 @@ company:
   name: Deepmind
   stage: Public
   focus: AI research and GenAI developer platforms
-  use_cases:
-  - Mobile vibe coding platform that expands who can be a developer
-  - GenAI playground showcasing cutting edge Google models
-  - Platform for Gemini API users to monitor and manage their usage
-  - AI-powered software development paradigm
-  - Mobile app for AI Studio GenAI IDE
 position:
   title: Software Engineer, AI Studio iOS Mobile - New York or Mountain View
   ai_type:

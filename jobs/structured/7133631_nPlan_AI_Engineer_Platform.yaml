@@ -4,12 +4,6 @@ company:
   focus: |-
     AI-powered construction project forecasting and risk
     analysis
-  use_cases:
-  - Forecasting construction project outcomes and reducing risk using AI
-  - Analyzing complex graph data from construction project plans
-  - Applying multiple ML and LLM approaches to understand project data
-  - Enabling data-driven decision making for large-scale infrastructure projects
-  - Supporting deep human interactions with project intelligence
 position:
   title: AI Engineer (Platform)
   ai_type:

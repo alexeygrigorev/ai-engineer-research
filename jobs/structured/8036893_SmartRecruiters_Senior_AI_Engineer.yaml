@@ -2,12 +2,6 @@ company:
   name: SmartRecruiters
   stage: Public
   focus: AI-powered hiring platform and recruiting software
-  use_cases:
-  - AI recruiting assistants that provide personalized candidate interactions
-  - Intelligent conversational systems for recruiting teams
-  - Autonomous AI agents that reason and act to deliver context-aware recruiting experiences
-  - Automated talent acquisition workflows for enterprises
-  - Chat-based recruitment optimization and decision support
 position:
   title: Senior AI Engineer
   ai_type:

@@ -2,15 +2,6 @@ company:
   name: Charlotte Tilbury
   stage: Public
   focus: Global beauty and makeup brand
-  use_cases:
-  - Agentic AI systems with retrieval-augmented generation (RAG) for beauty and makeup
-    applications
-  - Recommender systems for personalized product suggestions
-  - Customer segmentation models for targeted marketing campaigns
-  - Marketing optimization modules using supervised, unsupervised, and econometric
-    modeling
-  - AI-powered tools to decode makeup applications and improve customer experience
-  - Vector search and retrieval for beauty product discovery
 position:
   title: AI & ML Engineer
   ai_type:

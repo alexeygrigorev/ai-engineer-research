@@ -2,11 +2,6 @@ company:
   name: Curai Health
   stage: Startup
   focus: AI-powered virtual healthcare delivery
-  use_cases:
-  - Conversational AI systems for patient interactions and follow-up care
-  - Personalization and user understanding for healthcare applications
-  - Clinical decision support tools for physicians
-  - AI-powered virtual clinic with advanced AI systems at every step of patient care
 position:
   title: Senior AI Engineer
   ai_type:

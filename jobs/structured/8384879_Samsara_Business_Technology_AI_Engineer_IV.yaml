@@ -2,11 +2,6 @@ company:
   name: Samsara
   stage: Public
   focus: Connected Operations Cloud for physical operations
-  use_cases:
-  - AI-powered business applications for internal Samsara operations
-  - LLM-powered tools and capabilities leveraging foundational models
-  - RAG-based and Agentic AI solutions for business needs
-  - AI applications integrated with large-scale data pipelines
 position:
   title: Business Technology AI Engineer IV
   ai_type:

@@ -2,15 +2,6 @@ company:
   name: Aegis Ventures
   stage: Series A
   focus: AI-powered patient engagement platform for healthcare
-  use_cases:
-  - AI-powered patient engagement for healthcare organizations
-  - Care journey orchestration with automated workflows
-  - Health data integration connecting patient data, clinical protocols, and care
-    coordination
-  - Intelligent automation surfacing critical insights at the right moment to healthcare
-    providers
-  - Streamlining clinical workflows to reduce administrative burden and improve outcomes
-  - Conversational AI assistants for patient care interactions
 position:
   title: Senior / Staff AI Software Engineer
   ai_type:

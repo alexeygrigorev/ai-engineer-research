@@ -2,15 +2,6 @@ company:
   name: Lloyd's
   stage: Public
   focus: Insurance and reinsurance marketplace
-  use_cases:
-  - Automating business processes using generative AI capabilities like Databricks
-    Genie
-  - Delivering advanced analytics solutions with AI-driven insights embedded in core
-    business processes
-  - Enabling self-service analytics capabilities through the Data & AI Marketplace
-  - Operationalizing AI and ML models for actionable insights within insurance and
-    reinsurance workflows
-  - Reducing pipeline run-costs and improving reliability through AI optimization
 position:
   title: AI Engineer
   ai_type:

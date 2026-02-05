@@ -2,14 +2,6 @@ company:
   name: Teladoc Health
   stage: Public
   focus: Virtual care and telehealth services
-  use_cases:
-  - Building developer platforms that serve multiple product teams in a healthcare
-    organization
-  - Enabling AI/ML capabilities through platform infrastructure for virtual care applications
-  - Supporting data-intensive applications with robust backend services and data pipelines
-  - Facilitating integration with model inference APIs for healthcare AI solutions
-  - Providing secure, scalable platform services for telehealth and virtual care delivery
-    systems
 position:
   title: Principal Software Engineer, AI Platform (Python/React)
   ai_type:

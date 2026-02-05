@@ -2,12 +2,6 @@ company:
   name: Cloudflare
   stage: Public
   focus: Edge network and developer platform services
-  use_cases:
-  - AI inference as a service running on edge GPUs worldwide
-  - Enabling developers to use AI models through Workers platform and API
-  - Hosting a diverse catalog of AI models for various applications
-  - Building developer-friendly APIs and products for AI integration
-  - Running generative AI models at massive scale and efficiency
 position:
   title: Senior/Principal Systems Engineer, Workers AI (AI/ML)
   ai_type:

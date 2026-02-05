@@ -2,16 +2,6 @@ company:
   name: BrightHire
   stage: Series B
   focus: Interview intelligence and hiring experience platform
-  use_cases:
-  - Automatic interview coaching providing tailored feedback based on interviewer's
-    recent interviews
-  - AI candidate skills matrix that structures and summarizes candidate information
-    aligned to job descriptions
-  - Natural language AI assistant for querying any detail about candidates or interviews
-  - Customizable AI-generated interview summaries with personalized structure and
-    criteria
-  - Structured data transformation combining SQL and unstructured text data for AI
-    processing
 position:
   title: Senior/Staff Full Stack Engineer - AI Team
   ai_type:

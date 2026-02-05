@@ -2,12 +2,6 @@ company:
   name: Acorns
   stage: Public
   focus: Financial wellness and micro-investing app
-  use_cases:
-  - Virtual customer support agent providing personalized, real-time financial assistance
-  - AI-powered chatbot for customer service interactions in fintech context
-  - Intelligent financial decision support using proprietary Acorns data
-  - RAG-based system for retrieving relevant financial information and guidance
-  - Fine-tuned LLMs optimized for financial wellness and investment advice
 position:
   title: Senior Backend Engineer, AI Team
   ai_type:

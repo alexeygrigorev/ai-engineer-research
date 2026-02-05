@@ -2,12 +2,6 @@ company:
   name: IMTF - Excellence in RegTech Solutions
   stage: null
   focus: RegTech - Anti-Money Laundering and Anti-Fraud solutions
-  use_cases:
-  - Automating manual compliance processes through machine learning and data science
-  - Anti-Money Laundering (AML) detection and monitoring
-  - Anti-Fraud detection and prevention systems
-  - RegTech solutions for financial crime prevention
-  - Enterprise compliance automation for regulated industries
 position:
   title: Senior AI/ML Platform Engineer
   ai_type:

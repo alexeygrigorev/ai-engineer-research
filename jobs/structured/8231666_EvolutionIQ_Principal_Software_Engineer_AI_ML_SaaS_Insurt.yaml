@@ -2,17 +2,6 @@ company:
   name: EvolutionIQ
   stage: Growth stage
   focus: AI-powered insurance claims management platform
-  use_cases:
-  - Process tens of millions of medical documents and unstructured data streams including
-    OCR and phone call transcriptions
-  - Transform raw insurance claims data into actionable insights using EvolutionGPT
-    platform and LLMs
-  - Enable insurance claims teams to make claims handling more accurate, fair, and
-    efficient
-  - Support Disability and Workers Compensation insurance lines with data science-driven
-    claims guidance
-  - Analyze large unstructured datasets that have never been used for data science
-    in the insurance industry
 position:
   title: Principal Software Engineer (AI + ML SaaS / Insurtech)
   ai_type:

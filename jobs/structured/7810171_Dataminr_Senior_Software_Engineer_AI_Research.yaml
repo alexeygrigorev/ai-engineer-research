@@ -4,15 +4,6 @@ company:
   focus: |-
     Real-time event detection and AI-powered intelligence
     platform for early risk and threat discovery
-  use_cases:
-  - ReGenAI automatically regenerates real-time Live Event Briefs as events unfold
-  - Intel Agents autonomously generate critical context for clients on real-time events,
-    threats, and risks
-  - Multimodal event detection from images, video, sensor data, audio, and text in
-    over 150 languages
-  - Early signal detection of emerging risks, events, and threats before they unfold
-    for organizations
-  - Real-time analysis of billions of public data inputs spanning multiple modalities
 position:
   title: Senior Software Engineer, AI Research
   ai_type:

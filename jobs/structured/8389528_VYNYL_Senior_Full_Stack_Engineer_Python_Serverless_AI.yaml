@@ -4,13 +4,6 @@ company:
   focus: |-
     System modernization and new product development using
     cloud-native and AI-enabled tools for regulated industries
-  use_cases:
-  - Detecting diseases through AI-enabled diagnostic tools
-  - Identifying children who need special educational support
-  - Applying AI to support complex legal settlements
-  - Helping people access mental health services
-  - System modernization and new product development for regulated industries including
-    healthcare, financial services, government, and education
 position:
   title: Senior Full Stack Engineer (Python, Serverless, AI Fluency)
   ai_type:

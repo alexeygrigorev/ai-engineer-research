@@ -2,12 +2,6 @@ company:
   name: Prokeep
   stage: Series A
   focus: Order automation platform for distributors
-  use_cases:
-  - Automating order workflows for distributors
-  - Enabling proactive customer outreach and communication
-  - Turning customer interactions into order opportunities
-  - Streamlining parts ordering for contractors and skilled professionals
-  - Centralizing distributor communication channels
 position:
   title: Senior AI Engineer
   ai_type:

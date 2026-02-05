@@ -4,13 +4,6 @@ company:
   focus: |-
     Voice AI platform with speech-to-text and text-to-speech
     APIs
-  use_cases:
-  - Voice AI platform providing real-time speech-to-text APIs
-  - Text-to-speech synthesis and voice agent building
-  - Production-grade voice agent deployment at scale
-  - Training and deploying voice-native foundation models
-  - Self-hosted and on-premises voice AI software solutions
-  - High-throughput, low-latency audio processing and transcription
 position:
   title: Platform Engineer – AI/ML Infrastructure
   ai_type:

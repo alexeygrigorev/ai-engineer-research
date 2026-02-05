@@ -2,19 +2,6 @@ company:
   name: Zeta Global
   stage: Public
   focus: AI-Powered Marketing Cloud for advertising
-  use_cases:
-  - Campaign optimization through machine learning models that improve advertising
-    performance
-  - User personalization enabling individual-level consumer experiences across all
-    marketing channels
-  - Creative content generation using generative AI to produce ad copy and optimize
-    creative assets
-  - Real-time bidding and targeting algorithms for programmatic advertising with low-latency
-    inference
-  - Autonomous campaign management through AI agents that handle audience segmentation
-    and dynamic bid adjustments
-  - Large-scale ad event processing handling billions of events per day with high-throughput
-    ML systems
 position:
   title: Principal AI/ML Engineer - AdTech
   ai_type:

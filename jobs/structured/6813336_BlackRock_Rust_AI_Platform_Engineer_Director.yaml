@@ -2,12 +2,6 @@ company:
   name: BlackRock
   stage: Public
   focus: Investment and risk management technology platform
-  use_cases:
-  - Deploying and managing AI models at scale in production environment
-  - Continuous training and deployment pipelines for machine learning models
-  - Multi-cloud platform abstraction for AI infrastructure across AWS, GCP, and Azure
-  - Investment and risk management platform with integrated AI capabilities
-  - GPU orchestration and optimization for AI workloads in Kubernetes
 position:
   title: Rust, AI Platform Engineer, Director
   ai_type:

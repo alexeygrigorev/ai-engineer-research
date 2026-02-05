@@ -4,13 +4,6 @@ company:
   focus: |-
     Property management software for self-storage, marine, and
     RV industries
-  use_cases:
-  - AI-enabled products and platform capabilities for property management
-  - Integration of LLM-powered features across product ecosystem
-  - Production workflows leveraging foundation models for enhanced functionality
-  - RAG (Retrieval-Augmented Generation) implementations for intelligent information
-    retrieval
-  - Agentic workflows for autonomous task execution within property management systems
 position:
   title: Staff Software Engineer - AI
   ai_type:

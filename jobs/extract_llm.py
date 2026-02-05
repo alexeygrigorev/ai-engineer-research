@@ -125,7 +125,6 @@ class Company(BaseModel):
     name: str
     stage: Optional[str] = None
     focus: Optional[str] = None
-    use_cases: List[str] = Field(default_factory=list)
 
 
 class SkillsSummary(BaseModel):
@@ -173,7 +172,6 @@ def to_structured(job_id: str, title: str, company_name: str, extraction: JobExt
             name=company_name,
             stage=extraction.company_stage,
             focus=extraction.company_focus,
-            use_cases=extraction.use_cases,
         ),
         position=Position(
             title=title,

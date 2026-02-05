@@ -2,13 +2,6 @@ company:
   name: Omni (omni.co)
   stage: Series B
   focus: Business intelligence and embedded analytics platform
-  use_cases:
-  - Self-service business intelligence and analytics
-  - AI-assisted data exploration and query writing
-  - Customer-facing data products and analytics
-  - Multi-modal data access through spreadsheets, SQL, or point-and-click
-  - Semantic layer for consistent, trustworthy data access across AI and traditional
-    tools
 position:
   title: Software Engineer – AI Frontend
   ai_type:

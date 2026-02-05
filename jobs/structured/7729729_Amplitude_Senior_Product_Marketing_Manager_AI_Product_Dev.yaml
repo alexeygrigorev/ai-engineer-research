@@ -4,14 +4,6 @@ company:
   focus: |-
     AI-powered digital analytics platform for product
     development
-  use_cases:
-  - AI model performance testing and measurement for product teams
-  - Feature experimentation and A/B testing for AI-powered products
-  - LLM analytics to track and evaluate large language model outputs in production
-  - Feature flags and gradual rollouts for AI features to test models on small cohorts
-  - Data-driven product development enabling PMs to validate hypotheses without engineering
-    dependencies
-  - Real-time user behavior and business outcome measurement for AI product optimization
 position:
   title: Senior Product Marketing Manager; AI & Product Developer Marketing
   ai_type:

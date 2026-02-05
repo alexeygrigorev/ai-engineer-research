@@ -2,13 +2,6 @@ company:
   name: Fireworks AI
   stage: Series C
   focus: Generative AI infrastructure and inference platform
-  use_cases:
-  - High-speed LLM inference platform delivering the fastest and most scalable inference
-    in the industry
-  - Function calling capabilities for generative AI applications
-  - Multimodal model serving across vision and language modalities
-  - Distributed training infrastructure for large-scale model development
-  - Enterprise-grade generative AI platform with reliability and quality safeguards
 position:
   title: Software Engineer, AI Infrastructure
   ai_type:

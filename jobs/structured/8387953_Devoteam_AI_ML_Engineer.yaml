@@ -2,12 +2,6 @@ company:
   name: Devoteam
   stage: null
   focus: Google Cloud solutions and AI/ML consulting
-  use_cases:
-  - Building AI & ML solutions on data platforms to create better customer experiences
-  - Migrating and modernizing legacy applications using Cloud Native solutions
-  - Implementing hybrid and multi-cloud strategies for organizations
-  - Accelerating Data & Analytics to get actionable business insights faster
-  - Creating scalable, future-proof and secure data journeys for customers
 position:
   title: AI & ML Engineer
   ai_type:

@@ -4,13 +4,6 @@ company:
   focus: |-
     Conversational and agentic AI platform for financial
     institutions
-  use_cases:
-  - Conversational AI agents for financial institutions
-  - Customer-facing intelligent digital assistants for banking
-  - Employee operational automation and support
-  - Multi-channel agentic AI orchestration across customer journeys
-  - Compliant and trustworthy AI interactions for enterprise banking
-  - Knowledge retrieval through RAG for financial services
 position:
   title: Senior Full Stack Engineer (AI/LLM Platform)
   ai_type:

@@ -2,15 +2,6 @@ company:
   name: Bubble
   stage: Series A
   focus: AI-powered no-code visual development platform
-  use_cases:
-  - AI-assisted full-stack development enabling users to describe applications in
-    natural language
-  - AI-powered generation, modification, and enhancement of web, iOS, and Android
-    applications
-  - Visual development platform where AI transforms prompts into fully-functional,
-    scalable applications
-  - No-code platform using AI to interpret and modify application structures
-  - Agentic workflows enabling multi-step automated app generation and enhancement
 position:
   title: Senior Software Engineer, AI/LLM
   ai_type:

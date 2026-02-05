@@ -2,14 +2,6 @@ company:
   name: Oaktree Capital Management, L.P.
   stage: Public
   focus: Global alternative investment management firm
-  use_cases:
-  - AI-native applications that solve real business problems in investment management
-  - Intelligent copilots to assist employees with investment research and decision-making
-  - RAG pipelines for retrieving and synthesizing information from investment documents
-    and data
-  - Task-specific agents that automate investment workflows and processes
-  - Internal tools that increase operational efficiency and automation across the
-    firm
 position:
   title: Vice President, AI Product Engineer
   ai_type:

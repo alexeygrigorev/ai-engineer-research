@@ -4,19 +4,6 @@ company:
   focus: |-
     Building engineering AGI and AI agents for
     industrial/companies
-  use_cases:
-  - AI engineer capable of quantitative intuition over physical product domains and
-    engineering tool use
-  - Design engineering automation that performs at an entry-level engineer level and
-    rapidly improves
-  - Agentic platform that decomposes performance requirements and develops them into
-    design solutions
-  - AI system that accesses and uses customer information systems and understands
-    physics in product design
-  - Deployable AI teammate within corporate networks that can access and process valuable
-    engineering data
-  - Scalable and responsive AI system that performs the same actions as human engineers
-    across industrial companies
 position:
   title: Senior Software Engineer - Agentic AI Platform
   ai_type:

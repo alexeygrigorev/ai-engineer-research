@@ -2,13 +2,6 @@ company:
   name: AutoScout24
   stage: null
   focus: Online automotive marketplace platform
-  use_cases:
-  - AI-powered coding assistants to accelerate development and improve code quality
-  - AI tools for code reviews, automated documentation generation, and testing workflows
-  - Internal developer productivity tools leveraging LLMs for code generation, refactoring,
-    and debugging
-  - AI-first development practices integrated into the full software lifecycle
-  - Scalable GenAI adoption patterns and guardrails for enterprise engineering teams
 position:
   title: Software Engineer / AI Enabler (m/f/d)
   ai_type:

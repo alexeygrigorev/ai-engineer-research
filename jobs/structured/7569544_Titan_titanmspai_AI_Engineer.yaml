@@ -2,12 +2,6 @@ company:
   name: Titan (titanmsp.ai)
   stage: Series B
   focus: AI-powered IT managed services platform
-  use_cases:
-  - Automating IT operations and decision-making processes for managed service providers
-  - Empowering technicians with AI-powered tools to work faster and more strategically
-  - Delivering faster resolutions and better uptime for customer IT support
-  - Providing proactive, personalized support through autonomous AI agents
-  - Enabling MSPs to scale operations like technology companies
 position:
   title: AI Engineer
   ai_type:

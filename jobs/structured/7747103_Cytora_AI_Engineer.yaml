@@ -4,13 +4,6 @@ company:
   focus: |-
     Generative AI platform for commercial insurance risk
     digitization
-  use_cases:
-  - Commercial insurance risk processing and digitization
-  - Automated information extraction from insurance documents
-  - Risk assessment using generative AI
-  - Document summarization for insurance workflows
-  - SME, Mid Market, and Specialty risk intake automation
-  - Data-driven insights connecting insurers and brokers
 position:
   title: AI Engineer
   ai_type:

@@ -4,12 +4,6 @@ company:
   focus: |-
     AI for drug discovery and protein/antibody therapeutic
     design
-  use_cases:
-  - Design protein and antibody therapeutics using generative AI
-  - Develop foundation models for biology and disease
-  - Enable better target elucidation for drug discovery
-  - Support patient stratification using AI models
-  - Create medicines against historically hard-to-drug molecular targets
 position:
   title: AI Research Engineer
   ai_type:

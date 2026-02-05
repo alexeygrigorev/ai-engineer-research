@@ -2,13 +2,6 @@ company:
   name: Scale AI
   stage: Series D or later
   focus: AI data infrastructure and model platform
-  use_cases:
-  - Orchestration of ML compute workloads across heterogeneous GPU, CPU, on-prem,
-    and cloud environments
-  - Large-scale model training and evaluation infrastructure
-  - Large-scale inference and experimentation platforms
-  - Multi-tenant compute platform for internal ML teams
-  - GPU scheduling and resource optimization for ML workloads
 position:
   title: AI Infrastructure Engineer, Core Infrastructure
   ai_type:

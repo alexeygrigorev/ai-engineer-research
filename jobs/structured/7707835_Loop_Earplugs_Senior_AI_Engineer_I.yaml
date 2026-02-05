@@ -2,12 +2,6 @@ company:
   name: Loop Earplugs
   stage: Series B
   focus: Earplugs and hearing protection solutions
-  use_cases:
-  - Automating customer feedback analysis using NLP and ML
-  - Streamlining marketing campaign workflows with AI-driven automation
-  - Building tools that improve and accelerate asset creation processes
-  - Deploying internal AI applications that save time across multiple departments
-  - Implementing RAG and agentic workflows for knowledge retrieval and task automation
 position:
   title: Senior AI Engineer I
   ai_type:

@@ -4,12 +4,6 @@ company:
   focus: |-
     AI-powered accounts receivable and cash flow automation for
     B2B
-  use_cases:
-  - Automate accounts receivable collections for B2B companies
-  - Reduce Days Sales Outstanding (DSO) and improve collection rates
-  - Integrate with enterprise ERP systems for seamless cash flow management
-  - Replace manual, labor-intensive collections processes with intelligent automation
-  - Provide measurable ROI through automation and improved financial operations
 position:
   title: AI Sales Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Infinity Constellation
   stage: Seed
   focus: AI employees for SMBs with agentic workflows
-  use_cases:
-  - AI employees for SMBs to automate business operations
-  - Agentic workflows powered by LLM orchestration
-  - RAG-based systems for knowledge retrieval and task completion
-  - Function-calling and API orchestration for business process automation
-  - Scalable agent systems for real business outcomes
 position:
   title: Junior AI Platform Engineer - Supernal
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: Lookout
   stage: null
   focus: Endpoint to cloud security platform
-  use_cases:
-  - Automating business workflows across Sales, Marketing, Finance, HR, Legal, and
-    Recruiting departments
-  - Integrating autonomous agents with CRM, ERP, and HRIS systems for process automation
-  - Building multi-step agentic workflows that fundamentally change how Lookout operates
-    internally
-  - Implementing RAG patterns for searching and retrieving internal documentation
-  - Enabling autonomous agents to interact with diverse enterprise SaaS ecosystem
 position:
   title: AI Automation Engineer
   ai_type:

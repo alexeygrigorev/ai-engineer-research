@@ -2,11 +2,6 @@ company:
   name: Man Group
   stage: Public
   focus: Alternative investment management firm
-  use_cases:
-  - Building agents that augment, automate and transform investment workflows
-  - Creating tools that transform operational workflows using AI
-  - Deploying AI applications that touch every part of the business
-  - Leveraging scalable intelligence to identify and execute investment opportunities
 position:
   title: Senior Python Engineer - AI
   ai_type:

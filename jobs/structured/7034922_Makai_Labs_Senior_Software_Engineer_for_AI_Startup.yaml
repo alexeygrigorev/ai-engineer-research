@@ -4,12 +4,6 @@ company:
   focus: |-
     Enterprise automation platform using AI and data with human-
     machine teaming
-  use_cases:
-  - Enterprise automation through pre-built components and modules
-  - Human-machine teaming interface for operational and strategic challenges
-  - Workflow documentation and process diagramming from client discovery
-  - Client workflow analysis and process mapping
-  - Solutions that adapt to people rather than requiring people to adapt to software
 position:
   title: Senior Software Engineer for AI Startup
   ai_type:

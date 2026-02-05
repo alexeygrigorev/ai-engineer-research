@@ -2,12 +2,6 @@ company:
   name: Socure
   stage: Series D
   focus: Identity verification and fraud prevention platform
-  use_cases:
-  - Real-time identity verification for fraud prevention
-  - Model inference systems serving identity trust predictions
-  - Automated ML model deployment pipelines for production systems
-  - Monitoring and observability for deployed ML models
-  - Feature serving and caching for ML workloads
 position:
   title: Senior Software Engineer – AI/ML Platform
   ai_type:

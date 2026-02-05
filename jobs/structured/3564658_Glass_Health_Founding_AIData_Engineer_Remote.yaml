@@ -2,13 +2,6 @@ company:
   name: Glass Health
   stage: Seed (raised $6.5M including $5M seed, planning Series A)
   focus: AI-powered clinical decision support for healthcare
-  use_cases:
-  - AI-powered clinical decision support providing real-time suggestions and insights
-    to physicians
-  - Differential diagnosis (DDx) generation to increase diagnostic accuracy
-  - Evidence-based clinical plan generation and recommendations
-  - Medical literature search and retrieval using RAG over millions of processed articles
-  - AI clinical note generation and documentation assistance
 position:
   title: Founding AI/Data Engineer (Remote)
   ai_type:

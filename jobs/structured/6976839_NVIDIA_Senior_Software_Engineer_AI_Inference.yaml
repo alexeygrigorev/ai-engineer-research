@@ -2,13 +2,6 @@ company:
   name: NVIDIA
   stage: Public
   focus: GPU-accelerated AI computing and deep learning software
-  use_cases:
-  - Large-scale AI inference workloads on GPU clusters
-  - LLM inference pipelines and deep learning model deployment
-  - Distributed inference scheduling and orchestration across Kubernetes and Slurm
-  - Low-latency production inference systems for AI applications
-  - GPU-accelerated deep learning inference for NLP, image classification, and speech
-    recognition
 position:
   title: Senior Software Engineer, AI Inference
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Artian AI
   stage: startup
   focus: Agentic AI workflow automation platform for enterprise
-  use_cases:
-  - Enterprise process automation for regulated industries like financial services
-  - Multi-agent automation in large-scale, mission-critical environments
-  - Scalable and reliable AI-powered automation replacing RPA and BPM tools
-  - Collaborative AI workflows enabling seamless agent cooperation
-  - Financial services process automation with future expansion to other industries
 position:
   title: Software Engineer - AI/ML
   ai_type:

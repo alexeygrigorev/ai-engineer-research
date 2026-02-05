@@ -2,15 +2,6 @@ company:
   name: Orbital
   stage: null
   focus: AI-powered commercial real estate law and due diligence
-  use_cases:
-  - Accelerate complex commercial real estate due diligence by up to 70% with legal-grade
-    precision
-  - Automate the analysis of extensive property portfolios involving tens of thousands
-    of documents
-  - Assist lawyers in conducting faster, more transparent due diligence and document
-    review
-  - Streamline legal workflows for real estate transactions and reduce manual busywork
-  - Provide AI-powered insights for commercial real estate law teams at major firms
 position:
   title: AI Engineer
   ai_type:

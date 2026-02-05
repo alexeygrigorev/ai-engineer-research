@@ -2,12 +2,6 @@ company:
   name: New York Life Insurance Company
   stage: Public
   focus: Insurance and financial services
-  use_cases:
-  - AI-enabled developer productivity tools and automation
-  - Cloud-native insurance platforms with AI capabilities
-  - Agentic AI use cases for operational improvements
-  - LLM-based solutions for enterprise applications
-  - DevSecOps automation enhanced with AI
 position:
   title: Senior Associate - Senior Software Engineer - AI & Cloud Platforms
   ai_type:

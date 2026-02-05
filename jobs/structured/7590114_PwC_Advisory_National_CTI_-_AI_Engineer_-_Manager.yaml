@@ -2,15 +2,6 @@ company:
   name: PwC
   stage: Public
   focus: Professional services with AI and technology consulting
-  use_cases:
-  - Building AI-powered applications integrated with various business platforms to
-    drive data-driven decision making
-  - Implementing RAG (Retrieval Augmented Generation) pipelines and agent orchestration
-    using LLMs for intelligent information retrieval
-  - Processing and analyzing large structured and unstructured datasets to extract
-    actionable insights and create data visualizations
-  - Deploying predictive models and machine learning solutions on cloud platforms
-    (AWS, GCP, Azure) using services like SageMaker, Vertex AI, or Databricks
 position:
   title: Advisory National CT&I - AI Engineer - Manager
   ai_type:

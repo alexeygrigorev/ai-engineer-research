@@ -2,13 +2,6 @@ company:
   name: Stacks
   stage: Series A
   focus: AI-powered financial close automation
-  use_cases:
-  - Automating the monthly financial close process for mid to large enterprises to
-    reduce manual effort
-  - AI-powered transaction categorization and classification for finance teams
-  - Financial forecasting and predictive analytics using ML models
-  - Extracting strategic insights from messy, unstructured financial data
-  - Decision support systems for finance teams through autonomous AI agents
 position:
   title: Staff AI Engineer
   ai_type:

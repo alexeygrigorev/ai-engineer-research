@@ -2,12 +2,6 @@ company:
   name: Cresta
   stage: null
   focus: AI-powered contact center intelligence platform
-  use_cases:
-  - Contact center conversation analysis and customer insights discovery
-  - Behavioral best practices identification and training for contact center teams
-  - Automating conversations and inefficient contact center processes
-  - Real-time AI assistance for contact center agents to improve performance
-  - Large language model integration for customer conversation understanding and response
 position:
   title: Staff Software Engineer, Backend (AI Platform)
   ai_type:

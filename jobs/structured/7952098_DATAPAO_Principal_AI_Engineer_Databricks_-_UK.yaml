@@ -2,13 +2,6 @@ company:
   name: DATAPAO
   stage: Series B
   focus: Data engineering and AI consulting company
-  use_cases:
-  - End-to-end fully automated ML solutions on Databricks
-  - Production-ready Generative AI applications on Databricks platform
-  - Cloud migration and data architecture consulting
-  - MLOps implementation and ML lifecycle management
-  - Data lake architecture with Delta Lake and Unity Catalog
-  - Real-time data processing with Apache Spark
 position:
   title: Principal AI Engineer (Databricks) - UK
   ai_type:

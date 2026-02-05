@@ -2,12 +2,6 @@ company:
   name: Zillow
   stage: Public
   focus: Real estate platform and services
-  use_cases:
-  - Always-on AI assistant for home shopping and transaction experience
-  - Context-rich dialogue systems for long conversations and multi-step reasoning
-  - AI-powered tools for home buyers to find their next home
-  - Specialized assistants empowering real estate professionals with domain expertise
-  - Decision-making agents for real estate navigation and transactions
 position:
   title: Principal Machine Learning Engineer, Agentic AI
   ai_type:

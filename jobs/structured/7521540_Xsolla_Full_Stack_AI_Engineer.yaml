@@ -4,13 +4,6 @@ company:
   focus: |-
     Global commerce platform for video game developers -
     funding, distribution, marketing, and monetization tools
-  use_cases:
-  - LLM-powered applications and platforms leveraging OpenAI, Anthropic, and Hugging
-    Face models
-  - Agentic systems with custom workflows for specific applications
-  - GenAI-powered features integrated into full-stack applications
-  - Context-aware AI experiences using vector databases for retrieval
-  - AI-powered SaaS products for gaming industry solutions
 position:
   title: Full Stack AI Engineer
   ai_type:

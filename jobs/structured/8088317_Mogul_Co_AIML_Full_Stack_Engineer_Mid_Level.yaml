@@ -2,14 +2,6 @@ company:
   name: Mogul & Co
   stage: Series B
   focus: Media intelligence and predictive analytics platform
-  use_cases:
-  - Media intelligence and analytics for predicting advertising ROI and revenue growth
-  - Predictive forecasting and forward-looking analysis to see weeks or months into
-    the future
-  - Multi-source data integration and real-time processing for media acquisition decisions
-  - Causal modeling and statistical analysis to understand media spend impact on business
-    outcomes
-  - Automated workflows and data-driven decision support for media investment optimization
 position:
   title: AI/ML Full Stack Engineer (Mid Level)
   ai_type:

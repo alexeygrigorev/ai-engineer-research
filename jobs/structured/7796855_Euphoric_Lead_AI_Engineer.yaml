@@ -2,13 +2,6 @@ company:
   name: Euphoric
   stage: Seed
   focus: AI-first employee benefits administration software
-  use_cases:
-  - Employee benefits administration for large global employers
-  - Richer analytics for benefits programs to improve decision-making
-  - Clearer communication about benefits for employees worldwide
-  - Data-driven optimization of user outcomes in benefits administration
-  - AI-first transformation of legacy benefits systems
-  - Improving employee wellbeing and financial security through smarter benefits
 position:
   title: Lead AI Engineer
   ai_type:

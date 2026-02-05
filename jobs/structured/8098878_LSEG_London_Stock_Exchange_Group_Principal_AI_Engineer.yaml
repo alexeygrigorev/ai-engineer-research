@@ -2,13 +2,6 @@ company:
   name: LSEG (London Stock Exchange Group)
   stage: Public
   focus: Global financial markets infrastructure and data provider
-  use_cases:
-  - LLM-powered applications for financial services leveraging prompt engineering
-    and model fine-tuning
-  - Enterprise AI integration with vector databases and retrieval-augmented generation
-    (RAG) for enhanced information retrieval
-  - AI-driven products and workflows for financial markets infrastructure and data
-    analysis
 position:
   title: Principal AI Engineer
   ai_type:

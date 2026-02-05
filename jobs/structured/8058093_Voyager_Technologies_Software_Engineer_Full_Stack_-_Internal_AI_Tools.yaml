@@ -2,17 +2,6 @@ company:
   name: Voyager Technologies
   stage: Unknown
   focus: Defense, national security, and space technology company
-  use_cases:
-  - Agentic AI platform for computational engineering that compresses hardware development
-    cycles from years to days
-  - AI-native design system integrating Design for Manufacturing, Design for Assembly,
-    and Design for Test into initial design stages
-  - Real-time collaboration between human engineers and AI agents for hardware and
-    CAD design workflows
-  - Visualization and control interface for steering AI agents working on physics
-    simulations and hardware development
-  - Transparent AI agent reasoning and action tracking for engineering decision-making
-    and review processes
 position:
   title: Software Engineer – Full Stack - Internal AI Tools Team
   ai_type:

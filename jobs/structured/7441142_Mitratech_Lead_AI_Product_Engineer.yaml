@@ -2,12 +2,6 @@ company:
   name: Mitratech
   stage: null
   focus: Legal, immigration, HR, and compliance technology
-  use_cases:
-  - AI-assisted software development and code generation
-  - Automated code testing and documentation using AI agents
-  - Prompt engineering for guiding AI-powered coding workflows
-  - AI-integrated microservices for legal and compliance platforms
-  - AI-enhanced code review and quality assurance processes
 position:
   title: Lead AI Product Engineer
   ai_type:

@@ -2,17 +2,6 @@ company:
   name: OpenAI
   stage: Public
   focus: AI research and deployment company
-  use_cases:
-  - AI-powered coding assistance and code generation integrated into software development
-    lifecycle
-  - Automated code completion, refactoring, and workflow optimization for development
-    teams
-  - Enterprise-scale deployment of intelligent coding systems across global engineering
-    organizations
-  - AI-enhanced developer productivity tools accelerating software planning, building,
-    and delivery
-  - Custom AI workflows and automations using Codex for customer-specific development
-    processes
 position:
   title: AI Deployment Engineer- Codex
   ai_type:

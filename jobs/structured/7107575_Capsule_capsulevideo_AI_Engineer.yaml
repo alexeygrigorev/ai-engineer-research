@@ -2,11 +2,6 @@ company:
   name: Capsule (capsule.video)
   stage: Series A
   focus: AI-powered video editing tool for teams
-  use_cases:
-  - AI-powered video editing for enterprise teams
-  - Creation of high-quality, on-brand video content at scale
-  - Automated video editing features powered by ML models
-  - Intelligent video content generation and optimization
 position:
   title: AI Engineer
   ai_type:

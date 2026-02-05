@@ -2,12 +2,6 @@ company:
   name: Infinity Constellation
   stage: Seed/Series A
   focus: AI-powered employee workflow automation platform
-  use_cases:
-  - AI employees that automate tedious manual business processes
-  - AI-powered workflows that help businesses scale with smaller human teams
-  - Structured data extraction and automation using fine-tuned LLMs
-  - Web automation interfaces accessible from web to mobile devices
-  - Agent-based systems that manage and execute business workflows
 position:
   title: Founding AI Engineer - Supernal
   ai_type:

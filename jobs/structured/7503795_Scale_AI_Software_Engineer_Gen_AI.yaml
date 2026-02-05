@@ -2,13 +2,6 @@ company:
   name: Scale AI
   stage: Series F
   focus: AI data foundry for LLMs and generative models
-  use_cases:
-  - RLHF (Reinforcement Learning with Human Feedback) for LLM training and alignment
-  - Human data generation for generative AI model development
-  - Model evaluation, safety, and alignment for enterprise and government customers
-  - High-impact dataset creation pushing boundaries of LLM capabilities
-  - Contributor onboarding and incentive optimization for data operations
-  - Trust, safety, and security measures for data integrity
 position:
   title: Software Engineer, Gen AI
   ai_type:

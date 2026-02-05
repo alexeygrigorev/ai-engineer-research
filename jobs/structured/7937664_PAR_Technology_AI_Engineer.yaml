@@ -2,13 +2,6 @@ company:
   name: PAR Technology
   stage: Public
   focus: Restaurant technology and software solutions
-  use_cases:
-  - User-facing AI capabilities for decision support and insights in restaurant operations
-  - Conversational agents and data-powered assistants for automating operational tasks
-  - RAG-powered systems that combine restaurant data with LLMs for context-aware recommendations
-  - AI workflows that surface actionable insights from operational data for faster
-    decision-making
-  - Automated process improvements through intelligent multi-step AI pipelines
 position:
   title: AI Engineer
   ai_type:

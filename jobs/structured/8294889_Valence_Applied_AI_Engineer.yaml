@@ -3,14 +3,6 @@ company:
   stage: Growth stage (venture-backed, Inc. 5000 fastest-growing, at growth inflection
     point)
   focus: AI-native leadership coaching platform for enterprise
-  use_cases:
-  - AI-powered personalized leadership coaching for enterprise employees
-  - Context-aware conversational interfaces that adapt to individual goals and organizational
-    culture
-  - Enterprise data transformation into actionable coaching insights
-  - High-stakes enterprise AI deployments delivering expert guidance and support
-  - AI-facilitated learning and development for Fortune 500 companies across healthcare,
-    financial services, manufacturing, and technology
 position:
   title: Applied AI Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Dojo
   stage: Public
   focus: Payments infrastructure for in-person commerce
-  use_cases:
-  - Enabling product teams to consume LLM capabilities at scale through APIs and SDKs
-  - Orchestrating multi-model and multi-service AI workflows using agentic frameworks
-  - Supporting RAG implementations with vector search and retrieval systems
-  - Monitoring and ensuring safety of AI systems in production environments
-  - Deploying and managing AI models through automated infrastructure pipelines
 position:
   title: Senior Software Engineer - AI Platform Engineering
   ai_type:

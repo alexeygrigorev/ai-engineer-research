@@ -2,12 +2,6 @@ company:
   name: Rearc
   stage: null
   focus: Cloud consulting and AI solutions
-  use_cases:
-  - Building and deploying intelligent systems for customer environments
-  - Implementing RAG architectures for knowledge base integration
-  - Developing compound AI systems using LLM orchestration tools
-  - Fine-tuning and adapting generative models for specific customer use cases
-  - Creating scalable and secure AI solutions using cloud services
 position:
   title: AI Application Engineer
   ai_type:

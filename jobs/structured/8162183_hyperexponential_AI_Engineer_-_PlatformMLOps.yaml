@@ -2,14 +2,6 @@ company:
   name: hyperexponential
   stage: Series B
   focus: AI-powered pricing and underwriting platform for insurance
-  use_cases:
-  - Domain-specific AI peer programmer for actuaries and underwriters (similar to
-    GitHub Copilot with actuarial science expertise)
-  - Large-scale document intelligence for insurance submission and decision processing
-  - Agentic workflows that automate insurance industry operations
-  - AI-powered pricing decisions determining which risks to take and how to price
-    them
-  - Real-time underwriting decision support for complex risk assessment
 position:
   title: AI Engineer - Platform/MLOps
   ai_type:

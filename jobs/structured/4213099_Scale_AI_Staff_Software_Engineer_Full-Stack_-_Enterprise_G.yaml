@@ -3,11 +3,6 @@ company:
   stage: Scale AI is a well-funded private company (has reached unicorn status), working
     with major enterprises and government agencies.
   focus: Enterprise AI platform for building and deploying AI agents
-  use_cases:
-  - Enterprise knowledge retrieval and inference systems for business applications
-  - Interactive AI assistants and agent-based platforms for enterprise workflows
-  - AI-powered media experiences and interactive content
-  - SaaS platform for businesses to deploy and manage AI agents at scale
 position:
   title: Staff Software Engineer, Full-Stack - Enterprise Gen AI
   ai_type:

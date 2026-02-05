@@ -4,13 +4,6 @@ company:
   focus: |-
     Banking and financial services with AI-driven customer
     experiences
-  use_cases:
-  - Real-time customer experience personalization using AI/ML
-  - Informing customers about unusual financial charges and suspicious activity
-  - Answering customer questions in real-time through AI-powered systems
-  - Enhancing banking products with responsible and scalable AI capabilities
-  - AI-powered solutions for associates to improve productivity
-  - Large-scale production AI systems for banking applications
 position:
   title: Lead AI Engineer (FM Hosting, LLM Inference)
   ai_type:

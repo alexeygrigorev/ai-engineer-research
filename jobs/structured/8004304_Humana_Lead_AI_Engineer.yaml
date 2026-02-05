@@ -2,12 +2,6 @@ company:
   name: Humana
   stage: Public
   focus: Health insurance and healthcare services
-  use_cases:
-  - Retrieval-Augmented Generation (RAG) systems for healthcare business applications
-  - Generative AI agents to support health insurance operations
-  - Traditional machine learning models for healthcare analytics
-  - Large-scale data processing and transformation for healthcare datasets
-  - API-driven AI solutions for complex business challenges in healthcare domain
 position:
   title: Lead AI Engineer
   ai_type:

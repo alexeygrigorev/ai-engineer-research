@@ -2,15 +2,6 @@ company:
   name: Apollo GraphQL
   stage: Series D
   focus: GraphQL API platform and developer tools
-  use_cases:
-  - Enterprise-grade MCP Server exposing diverse tools and systems to AI agents effortlessly
-  - MCP Gateway routing layer for agentic workflows with policy enforcement and request
-    routing
-  - Multi-agent systems with tool discovery, invocation, and orchestration across
-    diverse environments
-  - AI-enhanced developer workflows optimized for orchestration and agent interactions
-  - AI-driven routing strategies for context retrieval optimization, cost reduction,
-    and improved decision accuracy
 position:
   title: Senior Software Engineer, AI Runtime
   ai_type:

@@ -4,12 +4,6 @@ company:
   focus: |-
     Educational platform for curriculum management and
     personalized learning
-  use_cases:
-  - Personalized learning experiences for educators and students at scale
-  - AI-powered curriculum management and instructional materials
-  - Teacher and leader data insights to drive instructional decisions
-  - AI-enhanced user interfaces that create delightful educational experiences
-  - Dynamic digital learning tailored to unique community needs
 position:
   title: Senior Full Stack Engineer, AI Experience
   ai_type:

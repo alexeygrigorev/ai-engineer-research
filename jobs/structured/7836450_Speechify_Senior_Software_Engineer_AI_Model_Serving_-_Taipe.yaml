@@ -2,12 +2,6 @@ company:
   name: Speechify
   stage: Growth (200 employees, Series C+ scale implied)
   focus: Text-to-speech reading accessibility platform
-  use_cases:
-  - Text-to-speech conversion for PDFs, books, docs, and web content
-  - Voice cloning to create personalized audio experiences
-  - Low-latency audio generation for real-time reading assistance
-  - Accessibility support for users with dyslexia, ADD, and learning differences
-  - Multi-platform audio delivery across iOS, Android, web, and desktop applications
 position:
   title: Senior Software Engineer, AI Model Serving - Taipei, Taiwan
   ai_type:

@@ -2,11 +2,6 @@ company:
   name: BJAK
   stage: null
   focus: Proactive AI system for daily user workflows
-  use_cases:
-  - Proactive AI system that users rely on daily
-  - AI interactions across conversations, tools, and workflows
-  - Streaming AI responses in mobile applications
-  - On-device ML inference using TensorFlow Lite
 position:
   title: iOS Developer, AI Apps
   ai_type:

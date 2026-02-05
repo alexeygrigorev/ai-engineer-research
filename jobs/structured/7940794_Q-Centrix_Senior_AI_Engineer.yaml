@@ -2,12 +2,6 @@ company:
   name: Q-Centrix
   stage: Growth organization (positioned for continued growth)
   focus: Clinical data management solutions for healthcare
-  use_cases:
-  - Extract structured data from unstructured medical charts
-  - Improve efficiency in healthcare data processing while ensuring accuracy
-  - Support reporting demands for healthcare data management
-  - Enable access to clinical information trapped across multiple workflow systems
-  - Drive improved care delivery through structured clinical data
 position:
   title: Senior AI Engineer
   ai_type:

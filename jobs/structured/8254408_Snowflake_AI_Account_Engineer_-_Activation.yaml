@@ -2,13 +2,6 @@ company:
   name: Snowflake
   stage: Public
   focus: AI Data Cloud platform and enterprise data management
-  use_cases:
-  - Cloud data platform architecture and implementation for enterprise customers
-  - Data analytics and data processing workloads on Snowflake AI Data Cloud
-  - Customer technical enablement and rapid platform adoption for early-stage customers
-  - AI-powered development tools and coding agents to accelerate solution delivery
-  - Workload isolation, resource monitoring, and security setup for cloud data platforms
-  - Reusable educational programs and hands-on labs for customer platform training
 position:
   title: AI Account Engineer - Activation
   ai_type:

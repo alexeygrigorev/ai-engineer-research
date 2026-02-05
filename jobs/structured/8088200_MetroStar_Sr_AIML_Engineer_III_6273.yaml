@@ -2,13 +2,6 @@ company:
   name: MetroStar
   stage: null
   focus: Technology services and consulting for government
-  use_cases:
-  - Reinforcement learning for decision making and behavior modeling in simulation
-    environments
-  - AI-enabled capabilities for mission-critical modeling and simulation
-  - Training and evaluating RL agents for operational scenarios
-  - Integration of RL components into larger software and modeling systems
-  - Supporting analytical depth and capability modernization across the portfolio
 position:
   title: Sr. AI/ML Engineer III (6273)
   ai_type:

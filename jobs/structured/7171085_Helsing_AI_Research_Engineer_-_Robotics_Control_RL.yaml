@@ -2,12 +2,6 @@ company:
   name: Helsing
   stage: null
   focus: Defence AI for democratic protection
-  use_cases:
-  - Robotic perception and assistance for human decision-making in defence applications
-  - Multi-agent reinforcement learning systems deployed in real-world robotics platforms
-  - Autonomous control of complex robotic systems in challenging environments with
-    high generalization requirements
-  - Robust reinforcement learning systems against adversarial attacks in defence scenarios
 position:
   title: AI Research Engineer - Robotics, Control, RL
   ai_type:

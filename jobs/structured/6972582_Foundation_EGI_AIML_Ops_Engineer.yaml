@@ -2,12 +2,6 @@ company:
   name: Foundation EGI
   stage: venture-backed
   focus: AI Copilot for design and manufacturing
-  use_cases:
-  - AI Copilot for design and manufacturing processes
-  - Utilizing advanced AI, physics simulation, and computer graphics to reduce engineering
-    costs
-  - Improving engineering productivity across all steps of the design and manufacturing
-    process
 position:
   title: AI/ML Ops Engineer
   ai_type:

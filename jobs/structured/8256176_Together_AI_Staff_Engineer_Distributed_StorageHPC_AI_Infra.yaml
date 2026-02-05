@@ -2,14 +2,6 @@ company:
   name: Together AI
   stage: Series A
   focus: Open-source AI research and infrastructure
-  use_cases:
-  - High-performance storage infrastructure for large-scale AI training and inference
-    workloads
-  - Parallel filesystems and object stores for multi-petabyte ML data storage
-  - Optimized data paths for model weights, datasets, and checkpoint caching at GPU
-    scale
-  - Self-service storage platform with multi-tenancy for ML/SRE teams
-  - Cost-optimized storage tiering and lifecycle management for AI workloads
 position:
   title: Staff Engineer, Distributed Storage,HPC & AI Infrastructure
   ai_type:

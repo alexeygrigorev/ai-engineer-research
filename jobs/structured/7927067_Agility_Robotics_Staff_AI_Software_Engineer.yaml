@@ -2,12 +2,6 @@ company:
   name: Agility Robotics
   stage: null
   focus: Bipedal robots for workplace automation
-  use_cases:
-  - Autonomous robot navigation and mobility in human-occupied spaces
-  - Perception systems for environment understanding and object detection
-  - Robotic manipulation for picking, carrying, and handling objects
-  - Real-time model execution for safe human-robot interaction
-  - Learning-based capabilities for dexterous robot operations
 position:
   title: Staff AI Software Engineer
   ai_type:

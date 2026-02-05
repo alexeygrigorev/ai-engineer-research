@@ -2,16 +2,6 @@ company:
   name: Wolters Kluwer
   stage: Public
   focus: Professional information services and software
-  use_cases:
-  - 'UpToDate Expert AI: Medical research and clinical reasoning agent that accelerates
-    differential diagnosis and refines treatment decisions for physicians'
-  - 'Healthcare decision support: Real-time medical assistant reducing cognitive load
-    while maintaining safety, privacy, and guideline fidelity'
-  - Platform serving 20+ AI agents across multiple domains with more in development
-  - Rapid agent development and deployment platform enabling hundreds of product teams
-    across healthcare, legal, tax, and compliance industries
-  - GenAI-powered solutions improving time-to-decision and trust/safety metrics in
-    critical professional domains
 position:
   title: Principal Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)
   ai_type:

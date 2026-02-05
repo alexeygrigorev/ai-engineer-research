@@ -2,12 +2,6 @@ company:
   name: Block
   stage: Public
   focus: Financial technology and economic empowerment
-  use_cases:
-  - Automating customer support workflows to improve speed and reliability
-  - Delivering AI-powered customer support experiences that scale across Block's products
-  - Building systems that help millions of customers get better-than-human support
-  - Creating operational leverage across Block through AI-driven support tools
-  - Enabling intelligent support experiences that adapt to diverse products and users
 position:
   title: Senior Machine Learning Engineer, Applied AI
   ai_type:

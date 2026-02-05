@@ -2,14 +2,6 @@ company:
   name: Anthropic
   stage: Public Benefit Corporation
   focus: Building reliable, interpretable, steerable AI systems
-  use_cases:
-  - Helping users develop genuine AI skills and capabilities through product experiences
-  - Integrating skill development directly into AI product design to make users progressively
-    more capable
-  - Using Claude as an active capability-building partner in the user experience
-  - Measuring user growth and capability outcomes rather than traditional engagement
-    metrics
-  - Exploring new AI interaction paradigms that enhance human agency and capability
 position:
   title: Founding Design Engineer, AI Capability Development, Education Labs
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: GEICO
   stage: Public
   focus: Auto insurance and financial services
-  use_cases:
-  - Training and fine-tuning open source LLMs like Llama, Mistral, and Gemma
-  - Serving LLMs at scale with optimized inference for production applications
-  - Building feature stores to support ML model training and inference pipelines
-  - Enabling data science teams to deploy and operate LLMs efficiently
-  - Integrating ML capabilities into customer-facing insurance applications
-  - Supporting research teams with infrastructure for experimenting with cutting-edge
-    LLM techniques
 position:
   title: Senior Software Engineer - AI/ML Infra
   ai_type:

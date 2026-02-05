@@ -4,16 +4,6 @@ company:
   focus: |-
     AI-powered cybersecurity platform with observability data
     pipeline optimization
-  use_cases:
-  - Process and optimize petabyte-scale telemetry data including logs, metrics, and
-    traces for enterprise customers
-  - Reduce customer data volumes by 80%+ while preserving critical insights through
-    ML-driven data routing and filtering
-  - Enable real-time anomaly detection and analytics on observability data using machine
-    learning and large language models
-  - Integrate seamlessly with major observability platforms like Splunk, Elastic,
-    Datadog, and New Relic
-  - Improve cost efficiency and operational insights for enterprise data infrastructure
 position:
   title: Senior Staff Software Engineer - Observo AI
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Anthropic
   stage: Public
   focus: Safe and beneficial AI systems
-  use_cases:
-  - Building LLM-powered applications on the Claude Developer Platform
-  - Designing and implementing agent architectures for AI-native products
-  - Developing custom evaluation frameworks and testing suites for AI applications
-  - Creating scalable architectures for deploying Claude at production scale
-  - Implementing context engineering and prompting strategies for optimal AI performance
 position:
   title: Applied AI Engineer (Startups)
   ai_type:

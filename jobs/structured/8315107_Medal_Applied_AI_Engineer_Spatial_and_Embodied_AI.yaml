@@ -2,13 +2,6 @@ company:
   name: Medal
   stage: Seed
   focus: AI foundation models for spatial and embodied intelligence
-  use_cases:
-  - Spatial and temporal reasoning agents for complex environments
-  - World models and simulation environments for training and evaluation
-  - Video understanding with generalization beyond gaming applications
-  - Robotic systems with perception, sensor fusion, and inverse dynamics
-  - Industrial automation and manufacturing with AI-powered control systems
-  - Aerospace and defense applications with edge AI deployment
 position:
   title: Applied AI Engineer (Spatial and Embodied AI)
   ai_type:

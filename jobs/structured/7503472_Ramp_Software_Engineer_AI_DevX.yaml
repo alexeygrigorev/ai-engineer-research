@@ -2,12 +2,6 @@ company:
   name: Ramp
   stage: Series C or later
   focus: Financial operations platform with AI-powered automation
-  use_cases:
-  - AI-powered developer tooling and infrastructure to accelerate engineering productivity
-  - Platform for agent-driven engineering enabling engineers to build software faster
-  - AI coding tools and automation to offload development work and improve velocity
-  - Internal developer platforms integrating AI capabilities into Ramp's engineering
-    workflows
 position:
   title: Software Engineer, AI DevX
   ai_type:

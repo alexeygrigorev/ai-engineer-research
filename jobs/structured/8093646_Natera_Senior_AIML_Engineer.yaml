@@ -4,16 +4,6 @@ company:
   focus: |-
     Cell-free DNA testing for oncology, women's health, and
     organ health diagnostics
-  use_cases:
-  - Power internal workflows across R&D, Lab Ops, Clinical Trials, Billing, and Patient/Provider
-    engagement using AI/ML platforms
-  - Enable workflow automation through multi-agent architectures that can interact
-    with internal systems and take action under strict controls
-  - Generate automated reports and data synthesis for clinical and research applications
-  - Support clinical innovation and patient outcomes through AI-powered decision support
-    and engagement tools
-  - Provide secure, compliant AI solutions for healthcare diagnostics and genetic
-    testing workflows
 position:
   title: Senior AI/ML Engineer
   ai_type:

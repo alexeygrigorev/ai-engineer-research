@@ -2,12 +2,6 @@ company:
   name: Writer
   stage: Series C
   focus: Enterprise generative AI platform and LLMs
-  use_cases:
-  - Building and deploying AI agents grounded in enterprise company data
-  - Enterprise-wide transformation through AI-powered solutions
-  - Agentic workflows leveraging large language models
-  - Secure and scalable generative AI applications for enterprise productivity
-  - Integration of advanced AI models into enterprise platforms
 position:
   title: Software engineer, generative AI (UK)
   ai_type:

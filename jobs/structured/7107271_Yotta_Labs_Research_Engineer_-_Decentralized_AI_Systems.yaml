@@ -2,13 +2,6 @@ company:
   name: Yotta Labs
   stage: null
   focus: Decentralized AI infrastructure for GPU orchestration
-  use_cases:
-  - AI training and inference on geo-distributed GPU networks
-  - Orchestration of AI workloads across heterogeneous hardware from commodity to
-    high-end GPUs
-  - Deployment and management of large language models at planetary scale
-  - Elastic and efficient AI development through decentralized computing resources
-  - GPU resource aggregation and optimization for AI applications
 position:
   title: Research Engineer - Decentralized AI Systems
   ai_type:

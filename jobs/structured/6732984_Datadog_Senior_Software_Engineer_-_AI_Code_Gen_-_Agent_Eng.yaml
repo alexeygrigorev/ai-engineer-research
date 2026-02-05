@@ -2,13 +2,6 @@ company:
   name: Datadog
   stage: Public
   focus: Cloud infrastructure monitoring and SaaS platform
-  use_cases:
-  - AI-assisted code generation to autonomously generate tests, fix bugs, and improve
-    performance
-  - CoPilot-like assistant for developers integrated with Datadog IDE extensions
-  - Runtime data collection from production environments to enhance AI code generation
-    capabilities
-  - Developer productivity tools that make all Datadog customers 10x more effective
 position:
   title: Senior Software Engineer - AI Code Gen - Agent Engineer
   ai_type:

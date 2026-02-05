@@ -2,12 +2,6 @@ company:
   name: Xenon Seven
   stage: null
   focus: IT solutions development and on-demand resources
-  use_cases:
-  - MLOps and LLMOps workflow automation for model deployment and orchestration
-  - Multi-workspace Databricks platform automation and governance at scale
-  - Secure integration between AWS cloud services and Databricks environments
-  - Automated workspace provisioning, catalog configuration, and environment setup
-  - Mosaic AI platform integration including gateway, model serving, and agents
 position:
   title: Databricks Automation & AI Platform Engineer
   ai_type:

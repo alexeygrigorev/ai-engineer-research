@@ -2,15 +2,6 @@ company:
   name: Danaher Corporation
   stage: Public
   focus: Life sciences, diagnostics, and biotechnology technology
-  use_cases:
-  - Extract meaningful insights from device data to improve user experience and instrument
-    automation
-  - Enhance imaging devices with AI capabilities in life sciences, diagnostics, and
-    biotechnology sectors
-  - Implement agentic workflows and multimodal AI for instrument automation and upleveling
-    user capabilities
-  - Large-scale image processing and analysis for healthcare and life sciences applications
-  - Integrate AI systems with instrument control mechanisms for enhanced automation
 position:
   title: Senior AI Engineer, Device Intelligence (m/f/d)
   ai_type:

@@ -2,16 +2,6 @@ company:
   name: NBCUniversal
   stage: Public
   focus: Global media and entertainment company
-  use_cases:
-  - Securing generative AI platforms such as Azure OpenAI services and models including
-    GPT-4, Llama, and Midjourney
-  - Protecting AI systems from common security threats and mitigating associated safety
-    and security risks
-  - Implementing security controls for cloud-based AI services and emerging technology
-    platforms
-  - Managing data privacy and compliance for AI applications handling sensitive information
-  - Addressing security requirements for AI applications across film, television,
-    streaming, and theme park operations
 position:
   title: Sr Staff Cyber Security Engineer (AI)
   ai_type:

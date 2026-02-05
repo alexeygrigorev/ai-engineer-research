@@ -2,12 +2,6 @@ company:
   name: Pulley
   stage: Series B
   focus: AI-native equity and cap table management
-  use_cases:
-  - Automate complex equity workflows using intelligent agents
-  - Enable AI-native equity and business management for early-stage companies
-  - Process and analyze equity data using embeddings and vector search
-  - Provide real-time data processing for AI-powered cap table management
-  - Orchestrate multi-step AI workflows for equity optimization and management
 position:
   title: Staff Backend Engineer, AI
   ai_type:

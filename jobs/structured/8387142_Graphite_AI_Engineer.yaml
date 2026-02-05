@@ -2,11 +2,6 @@ company:
   name: Graphite
   stage: Series B
   focus: Modern code review tools for engineering teams
-  use_cases:
-  - Context-aware code generation for engineering workflows
-  - Autonomous technical planning and reasoning agents
-  - Program synthesis for automated code generation
-  - AI-assisted code review and development workflows
 position:
   title: AI Engineer
   ai_type:

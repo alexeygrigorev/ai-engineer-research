@@ -4,12 +4,6 @@ company:
   focus: |-
     Workplace management platform with booking, analytics, and
     integrations
-  use_cases:
-  - AI-powered features for workplace management and booking systems
-  - Integration of machine learning models to enhance product capabilities
-  - Smart analytics and utilization insights for workspace optimization
-  - Interactive floor plans with intelligent recommendations
-  - Meeting room and desk booking with AI-driven scheduling assistance
 position:
   title: Senior AI Full-Stack Software Engineer
   ai_type:

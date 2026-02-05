@@ -2,13 +2,6 @@ company:
   name: Stylitics
   stage: Series C+ (established, founded 2011, serving major retailers)
   focus: Visual outfitting and styling solution for retailers
-  use_cases:
-  - Generate on-brand outfit recommendations for retail customers
-  - Power AI models with trend data and stylist expertise
-  - Deliver outfit recommendations across e-commerce, email, advertising, stores,
-    and social media channels
-  - Help shoppers find inspiration and discover new products and brands
-  - Enable customers to gain confidence in styling their purchases
 position:
   title: AI Software Engineer
   ai_type:

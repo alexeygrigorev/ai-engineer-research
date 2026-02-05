@@ -2,12 +2,6 @@ company:
   name: Multiverse
   stage: Series D
   focus: AI and tech upskilling platform for workforce development
-  use_cases:
-  - AI-powered personalized learning experiences and education content
-  - Automated content generation for learning materials
-  - Semantic search and summarization of educational content
-  - Intelligent features that improve learner productivity and performance
-  - AI-driven recommendations for skills development and upskilling
 position:
   title: Applied AI Engineer
   ai_type:

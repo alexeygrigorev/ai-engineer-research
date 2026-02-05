@@ -4,13 +4,6 @@ company:
   focus: |-
     Engineering productivity measurement platform for AI-
     integrated teams
-  use_cases:
-  - Measure AI tool adoption patterns across engineering teams
-  - Track and analyze productivity changes from AI coding assistants usage
-  - Help engineering leaders understand the impact of AI tools on team performance
-  - Distinguish effective AI tool usage from hype
-  - Enable organizations to build high-performing AI-integrated engineering teams
-  - Align engineering decisions with business initiatives in AI-transformed environments
 position:
   title: Senior Backend Engineer - AI Integration Discovery
   ai_type:

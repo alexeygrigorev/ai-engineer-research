@@ -4,13 +4,6 @@ company:
   focus: |-
     AI application development framework and platform for
     building LLM-powered agents and applications
-  use_cases:
-  - Multi-agent systems for enterprise automation using handoffs and routing patterns
-  - Retrieval-Augmented Generation (RAG) applications with vector databases for knowledge
-    retrieval
-  - Production AI agent deployment with state management and memory capabilities
-  - Enterprise AI application evaluation and quality assurance frameworks
-  - Customer-specific AI solutions leveraging tool integration and API design
 position:
   title: AI Engineer
   ai_type:

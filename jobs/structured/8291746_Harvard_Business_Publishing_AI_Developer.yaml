@@ -2,13 +2,6 @@ company:
   name: Harvard Business Publishing
   stage: null
   focus: Management education and publishing
-  use_cases:
-  - LLM chat interface for enhanced product interactivity and user engagement
-  - RAG-based knowledge retrieval using vector stores to leverage content data
-  - Predictive ML workflows with automated triggers for proactive insights
-  - User intent analysis and prediction models to enhance personalization
-  - Data-driven insights for editorial and marketing decision making
-  - Revenue projection and causal factor analysis for business optimization
 position:
   title: AI Developer
   ai_type:

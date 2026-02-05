@@ -2,14 +2,6 @@ company:
   name: Spotify
   stage: Public
   focus: Audio streaming and digital music platform
-  use_cases:
-  - AI orchestration platforms with robust governance for company-wide platforms
-  - Self-healing systems through AI-driven workflows that automatically detect and
-    resolve IT issues
-  - Intelligent agents that empower Spotifiers with data, control, and speed in the
-    digital workplace
-  - AI-enabled risk mitigation for third-party tools in collaboration ecosystems
-  - Self-service IT platforms enhanced with AI capabilities
 position:
   title: Fullstack AI Engineer - IT Platform Development
   ai_type:

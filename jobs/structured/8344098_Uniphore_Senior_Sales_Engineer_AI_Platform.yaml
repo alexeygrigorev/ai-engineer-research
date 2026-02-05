@@ -2,14 +2,6 @@ company:
   name: Uniphore
   stage: Pre-IPO
   focus: Enterprise B2B AI platform for customer experience
-  use_cases:
-  - Customer experience optimization through multimodal AI combining Generative AI,
-    Knowledge AI, and Emotion AI
-  - Workflow automation and copilot assistance for enterprise customer interactions
-  - Voice, video, and text capture with AI-powered analysis for business insights
-  - Enterprise AI deployments across multiple industry verticals driving measurable
-    business outcomes
-  - Agent-based AI solutions and RAG implementations for enterprise knowledge management
 position:
   title: Senior Sales Engineer, AI Platform
   ai_type:

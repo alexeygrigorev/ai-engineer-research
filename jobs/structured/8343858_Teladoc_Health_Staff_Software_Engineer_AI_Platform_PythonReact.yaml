@@ -2,14 +2,6 @@ company:
   name: Teladoc Health
   stage: Public
   focus: Virtual telehealth and digital care platform
-  use_cases:
-  - Building platform infrastructure and APIs to support virtual healthcare applications
-  - Creating developer platform capabilities that serve multiple product teams at
-    Teladoc Health
-  - Enabling integration with AI/ML systems and data-intensive applications through
-    platform services
-  - Supporting secure, scalable web services for virtual care delivery systems
-  - Providing observability and operational support for healthcare platform services
 position:
   title: Staff Software Engineer, AI Platform (Python/React)
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: Octagon
   stage: Public
   focus: Global sports and entertainment marketing
-  use_cases:
-  - Enterprise search across organizational content using vector similarity search
-  - RAG-style retrieval systems that provide accurate, grounded responses with source
-    citations
-  - Document processing and parsing workflows that structure unstructured content
-    for AI consumption
-  - AI-powered knowledge discovery that respects access control permissions and security
-    requirements
 position:
   title: Data Engineer (AI Enablement)
   ai_type:

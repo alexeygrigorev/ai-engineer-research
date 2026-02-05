@@ -2,15 +2,6 @@ company:
   name: Datadog
   stage: Public
   focus: Cloud observability and security monitoring
-  use_cases:
-  - Advanced forecasting and anomaly detection for cloud observability using foundation
-    models
-  - Multi-modal telemetry analysis of logs, metrics, and traces
-  - Autonomous SRE agents that automatically detect, diagnose, and resolve production
-    incidents
-  - Production code repair agents that identify and fix performance issues and security
-    vulnerabilities
-  - Multi-step planning and reasoning for incident resolution in production environments
 position:
   title: AI Research Engineer – Datadog AI Research (DAIR)
   ai_type:

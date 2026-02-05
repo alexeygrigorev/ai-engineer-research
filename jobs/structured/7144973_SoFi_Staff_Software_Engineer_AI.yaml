@@ -2,12 +2,6 @@ company:
   name: SoFi
   stage: Public
   focus: Next-generation financial services company and national bank
-  use_cases:
-  - Embedding personalized financial insights into SoFi products
-  - Supporting members' financial journeys through AI-powered solutions
-  - Developing applications that leverage Large Language Models for practical financial
-    use cases
-  - Building agents and AI systems to enhance member experience in financial services
 position:
   title: Staff Software Engineer, AI
   ai_type:

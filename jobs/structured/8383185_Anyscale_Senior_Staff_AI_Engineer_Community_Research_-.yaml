@@ -2,12 +2,6 @@ company:
   name: Anyscale
   stage: Series B
   focus: Distributed computing platform for scalable AI/ML
-  use_cases:
-  - Scaling LLM training and fine-tuning workflows
-  - Building production RAG (Retrieval Augmented Generation) pipelines
-  - Orchestrating agentic AI systems and multi-agent architectures
-  - Distributed training and inference at scale for ML models
-  - LLM serving and deployment in production environments
 position:
   title: Senior Staff AI Engineer (Community & Research) - EMEA
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: hyperexponential
   stage: Series B
   focus: AI-powered platform for insurance pricing and underwriting
-  use_cases:
-  - AI-powered insurance pricing and underwriting platform
-  - Domain-specific AI peer programmer for actuarial science
-  - Agentic workflows that reinvent insurance industry operations
-  - AI-powered documentation search and question-answering systems
-  - Automated validation of documentation content
-  - AI-assisted content authoring workflows
 position:
   title: Senior Technical Writer/Documentation Engineer - AI
   ai_type:

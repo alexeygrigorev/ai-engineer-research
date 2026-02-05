@@ -2,12 +2,6 @@ company:
   name: Titan (titan.com)
   stage: Series B
   focus: AI-powered wealth management platform
-  use_cases:
-  - Democratizing personalized wealth management for everyone through AI-powered advisors
-  - Content generation for financial advisory and client communication
-  - Administrative tools enabling wealth advisors to serve more clients efficiently
-  - Mobile-first consumer wealth management application
-  - High-volume transaction processing for wealth management platform
 position:
   title: Principal Software Engineer - Product/AI
   ai_type:

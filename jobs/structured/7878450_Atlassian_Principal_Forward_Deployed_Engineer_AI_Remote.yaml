@@ -2,13 +2,6 @@ company:
   name: Atlassian
   stage: Public
   focus: Team collaboration and project management software
-  use_cases:
-  - AI-powered workflow automation to enhance operational efficiency within customer
-    environments
-  - Applied AI/ML solutions leveraging generative AI and LLMs for real-world business
-    problems
-  - Enterprise-scale AI solution deployment for top organizations across industries
-  - AI-augmented teamwork and collaboration solutions integrated with Atlassian products
 position:
   title: Principal Forward Deployed Engineer, AI (Remote)
   ai_type:

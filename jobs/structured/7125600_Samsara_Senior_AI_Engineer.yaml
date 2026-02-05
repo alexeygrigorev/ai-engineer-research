@@ -2,12 +2,6 @@ company:
   name: Samsara
   stage: Public
   focus: Connected Operations Cloud for physical operations
-  use_cases:
-  - Generate high-quality sales outreach at scale
-  - Build copilots for sellers that surface CRM insights and sales knowledge
-  - Enable voice and chat interfaces for more natural customer engagement
-  - Help sellers reach the right customer at the right time with the right message
-  - Transform sales operations through AI-powered intelligence and personalization
 position:
   title: Senior AI Engineer
   ai_type:

@@ -2,15 +2,6 @@ company:
   name: Teladoc Health
   stage: Public
   focus: Virtual care and telehealth platforms
-  use_cases:
-  - Virtual care and telehealth applications enhanced with generative AI capabilities
-  - Healthcare data analysis and insights through large-scale data processing on Snowflake
-    and Databricks
-  - AI-powered clinical decision support and information retrieval using RAG and vector
-    search
-  - Secure and compliant AI services deployed in regulated healthcare environments
-  - Agentic AI systems for automating healthcare workflows and improving patient care
-    delivery
 position:
   title: Staff AI Engineer, GenAI
   ai_type:

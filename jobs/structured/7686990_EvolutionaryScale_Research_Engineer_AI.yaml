@@ -2,13 +2,6 @@ company:
   name: EvolutionaryScale
   stage: Nonprofit
   focus: AI-powered biology for disease research and cure
-  use_cases:
-  - Understanding and programming life at scale using AI
-  - Studying cellular operations and systems to understand disease mechanisms
-  - Building next-generation biology models using large-scale compute infrastructure
-  - Applying AI models to solve applied problems in biological research
-  - Accelerating scientific discoveries to help cure or prevent disease
-  - Developing open science tools and data for the broader research community
 position:
   title: Research Engineer, AI
   ai_type:

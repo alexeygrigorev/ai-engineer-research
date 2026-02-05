@@ -2,13 +2,6 @@ company:
   name: Capgemini
   stage: Public
   focus: Technology consulting and business transformation
-  use_cases:
-  - Intelligent virtual assistant (IVA) for customer interactions
-  - Speech analytics for customer experience optimization
-  - AI-driven customer service and support operations
-  - Digital engagement solutions for insurance carrier
-  - Voice-based customer interaction systems
-  - AI-powered decision support for insurance processes
 position:
   title: Senior Developer Verint AI & Social Engineering
   ai_type:

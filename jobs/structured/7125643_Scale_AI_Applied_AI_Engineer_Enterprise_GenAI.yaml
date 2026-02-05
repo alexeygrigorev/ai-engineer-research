@@ -2,12 +2,6 @@ company:
   name: Scale AI
   stage: Series F
   focus: AI data platform building enterprise GenAI agents
-  use_cases:
-  - AI cybersecurity firewalls for enterprise security
-  - Transformative AI experiences in journalism and media
-  - Foundation genomic models for drug protein discovery predictions
-  - Enterprise-scale AI agents with tool-calling capabilities
-  - Multimodal AI solutions across various industry domains
 position:
   title: Applied AI Engineer, Enterprise GenAI
   ai_type:

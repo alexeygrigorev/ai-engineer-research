@@ -4,13 +4,6 @@ company:
   focus: |-
     AI-powered robotics for automated surface finishing in
     manufacturing
-  use_cases:
-  - Automated surface finishing tasks in manufacturing environments
-  - Perception and inspection systems for robotic quality assurance
-  - Synthetic data generation for training robotic perception models
-  - Reinforcement learning for recipe learning and process optimization
-  - Multi-modal sensor fusion for robotic control and monitoring
-  - Simulation-to-reality transfer for robust robot deployment in high-mix manufacturing
 position:
   title: Senior Applied AI Engineer
   ai_type:

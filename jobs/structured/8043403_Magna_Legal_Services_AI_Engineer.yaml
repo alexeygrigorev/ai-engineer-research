@@ -2,12 +2,6 @@ company:
   name: Magna Legal Services
   stage: null
   focus: End-to-end legal support services
-  use_cases:
-  - Natural language processing for legal document analysis and summarization
-  - Entity extraction and classification for legal and medical content
-  - Document quality control tools for legal proceedings
-  - Automation workflows for legal support services
-  - AI-powered tools for empowering legal professionals with smarter solutions
 position:
   title: AI Engineer
   ai_type:

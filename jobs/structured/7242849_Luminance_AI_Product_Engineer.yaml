@@ -2,12 +2,6 @@ company:
   name: Luminance
   stage: Series B+
   focus: Legal-Grade AI for enterprise
-  use_cases:
-  - AI-powered legal document analysis and processing
-  - Enterprise legal workflow automation using agentic systems
-  - Legal compliance and contract review automation
-  - Strategic business problem-solving through AI in legal domain
-  - Applied AI tools for legal professionals and enterprises
 position:
   title: AI Product Engineer
   ai_type:

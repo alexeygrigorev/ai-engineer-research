@@ -2,15 +2,6 @@ company:
   name: Improvado
   stage: Series A
   focus: AI-powered marketing intelligence and reporting platform
-  use_cases:
-  - Automate complex marketing intelligence and reporting for enterprise marketing
-    teams
-  - Gather, organize, and untangle marketing data to deliver instant insights through
-    AI
-  - Deliver laser-focused insights to optimize marketing budgets and enhance campaign
-    efficiency
-  - Provide AI-powered business intelligence for making data-driven marketing decisions
-  - Enable medium to large-scale enterprises and agencies to improve marketing ROI
 position:
   title: AI Principal Engineer
   ai_type:

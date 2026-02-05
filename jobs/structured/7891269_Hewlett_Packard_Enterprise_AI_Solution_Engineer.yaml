@@ -2,11 +2,6 @@ company:
   name: Hewlett Packard Enterprise
   stage: Public
   focus: Edge-to-cloud computing solutions
-  use_cases:
-  - Business challenge solving using AI technologies and frameworks
-  - Prototype demonstrations of AI solutions for customer evaluation
-  - Proof-of-concept implementations that scale from pre-sales to production deployments
-  - Hardware-software integrated AI solutions leveraging on-premise GPU clusters
 position:
   title: AI Solution Engineer
   ai_type:

@@ -2,15 +2,6 @@ company:
   name: Instabase
   stage: Series B
   focus: No-code AI platform for unstructured data automation
-  use_cases:
-  - Processing and extracting structured insights from unstructured data sources like
-    documents, emails, and chats
-  - Automating workflows for invoices, medical records, and financial statements to
-    structure messy datasets
-  - Building AI-powered solutions for large enterprises to solve previously unsolvable
-    unstructured data problems
-  - Enabling organizations to deploy AI workforces and intelligent automation without
-    coding
 position:
   title: Sales Engineer, Applied AI
   ai_type:

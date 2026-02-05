@@ -2,14 +2,6 @@ company:
   name: NVIDIA
   stage: Public
   focus: AI computing and GPU technology
-  use_cases:
-  - GPU accelerated math libraries for AI kernel generation and HPC applications
-  - Emulation of math operations across different precision formats for scientific
-    computing
-  - Numerical dense linear algebra operations powering AI training and inference
-  - Support for applications in healthcare, NLP, VR, deep learning, and autonomous
-    vehicles
-  - Data center computing powered by GPUs for scientific and engineering simulations
 position:
   title: Senior Math Libraries Engineer – Emulation in AI and HPC
   ai_type:

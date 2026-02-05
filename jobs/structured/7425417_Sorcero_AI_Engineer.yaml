@@ -2,15 +2,6 @@ company:
   name: Sorcero
   stage: Series B
   focus: Medically-tuned AI platform for life sciences and pharma
-  use_cases:
-  - Processing complex structured and unstructured data from diverse life sciences
-    sources
-  - Delivering insights to medical professionals that they can trust and act upon
-  - Addressing medical and scientific language complexity with high precision in healthcare
-    applications
-  - Accelerating patient access to life-saving treatments through improved decision-making
-  - Empowering top Pharma companies, scientists, and researchers with AI-powered natural
-    language understanding
 position:
   title: AI Engineer
   ai_type:

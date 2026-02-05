@@ -3,13 +3,6 @@ company:
   stage: 'Series D+ (likely Series D or E based on scale: 400K+ SMB customers, 500+
     employees)'
   focus: Payroll, benefits, and HR platform for small businesses
-  use_cases:
-  - AI-powered retirement savings guidance and recommendations for small business
-    employees
-  - Conversational interfaces using LLMs to help users understand 401(k) options and
-    retirement planning
-  - RAG-based systems to retrieve and explain retirement plan information
-  - Tool-loop enabled workflows for automated retirement plan setup and management
 position:
   title: Retirement AI Senior Staff Engineer
   ai_type:

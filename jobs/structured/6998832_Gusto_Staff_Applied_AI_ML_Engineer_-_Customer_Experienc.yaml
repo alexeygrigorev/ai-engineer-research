@@ -2,13 +2,6 @@ company:
   name: Gusto
   stage: Public
   focus: Payroll, benefits, and HR platform for small businesses
-  use_cases:
-  - Personalizing world-class content for customers across the customer journey
-  - Building AI and ML enabled experiences to optimize customer experience and customer
-    journey
-  - Leveraging rich datasets to guide product direction and decision-making
-  - Creating unified service platform stack using machine learning and AI for customer
-    experience enhancement
 position:
   title: Staff Applied AI/ ML Engineer - Customer Experience Platform
   ai_type:

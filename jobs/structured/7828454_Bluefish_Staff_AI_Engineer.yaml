@@ -2,13 +2,6 @@ company:
   name: Bluefish
   stage: Series A
   focus: AI marketing platform for brands
-  use_cases:
-  - Building LLM-powered products for marketing and advertising technologies
-  - Helping brands engage consumers on AI channels and manage brand representation
-    in AI
-  - Enterprise tools to manage how brands are represented across AI platforms
-  - Marketing technology solutions for Fortune 500 customers
-  - AI-driven marketing ecosystem disrupting traditional martech industry
 position:
   title: Staff AI Engineer
   ai_type:

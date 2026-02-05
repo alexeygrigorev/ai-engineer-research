@@ -2,12 +2,6 @@ company:
   name: Beli
   stage: null
   focus: Restaurant discovery and recommendation platform
-  use_cases:
-  - Personalized restaurant recommendations based on user behavior and preferences
-  - Natural language understanding for restaurant search and content understanding
-  - Content summarization for restaurant information and reviews
-  - Ranking algorithms for restaurant discovery
-  - AI-driven features to enhance user exploration and discovery of restaurants
 position:
   title: AI/ML Engineer Intern - Summer 2026
   ai_type:

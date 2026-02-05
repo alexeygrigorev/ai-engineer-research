@@ -2,15 +2,6 @@ company:
   name: Future (futureplc.com)
   stage: Public
   focus: Global specialist media company with 200+ brands
-  use_cases:
-  - AI-powered email content personalization and recommendation engine for marketing
-    campaigns
-  - Next Best Action decision-making system for email marketing optimization
-  - Recommender systems using collaborative filtering and content-based filtering
-  - Real-time hyper-personalized email content generation based on user interests
-    and behaviors
-  - Marketing optimization through AI-driven content recommendations to improve engagement
-    metrics
 position:
   title: AI Engineer, Email CRM
   ai_type:

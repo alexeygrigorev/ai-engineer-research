@@ -4,14 +4,6 @@ company:
   focus: |-
     Intelligent document management platform for legal
     professionals
-  use_cases:
-  - AI-powered document management and retrieval for legal documents
-  - Semantic search that bridges traditional keyword search with vector embeddings
-    for enhanced document discovery
-  - Making legal documents accessible to AI agents at scale for automated workflows
-  - Production systems serving millions of user queries with sub-second latency
-  - Evaluation and continuous improvement of retrieval quality for legal document
-    search
 position:
   title: Principal AI Software Engineer (Java, Scala)
   ai_type:

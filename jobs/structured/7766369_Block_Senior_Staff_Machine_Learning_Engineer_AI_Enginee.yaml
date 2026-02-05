@@ -2,12 +2,6 @@ company:
   name: Block
   stage: Public
   focus: Financial technology and payments platform
-  use_cases:
-  - AI-assisted code generation and completion for developers
-  - Intelligent code review and automated refactoring systems
-  - AI-powered developer productivity tools integrated into IDEs and development workflows
-  - LLM-based code analysis and context understanding across repositories
-  - Enterprise-wide AI coding assistant deployment and optimization
 position:
   title: Senior Staff Machine Learning Engineer, AI Engineering Tools
   ai_type:

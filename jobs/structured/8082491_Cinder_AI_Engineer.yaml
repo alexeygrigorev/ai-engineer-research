@@ -4,13 +4,6 @@ company:
   focus: |-
     AI-powered trust and safety platform for protecting online
     interaction integrity
-  use_cases:
-  - Real-time content integrity and safety detection to prevent online abuse
-  - AI-powered moderation of user interactions at the product frontend
-  - Protecting online platforms from harmful content and malicious behavior
-  - Integration with major AI companies like OpenAI, Midjourney, and ElevenLabs for
-    content safety
-  - Enterprise-grade trust and safety solutions for high-volume digital products
 position:
   title: AI Engineer
   ai_type:

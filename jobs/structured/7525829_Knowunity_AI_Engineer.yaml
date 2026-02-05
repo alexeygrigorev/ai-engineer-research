@@ -2,16 +2,6 @@ company:
   name: Knowunity
   stage: Series B
   focus: AI-powered learning companion for students
-  use_cases:
-  - Personalized AI learning companion that adapts to individual student needs and
-    learning styles
-  - Large-scale personalized video content generation and delivery
-  - Intelligent topic prediction and real-time guidance systems for student learning
-    paths
-  - Interactive multi-modal learning outputs with cards, graphs, and practice elements
-  - Guided and diverse practice systems replacing static quiz-based approaches
-  - Social learning integration that combines AI companionship with collaborative
-    student interaction
 position:
   title: AI Engineer
   ai_type:

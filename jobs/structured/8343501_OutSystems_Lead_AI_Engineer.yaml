@@ -2,13 +2,6 @@ company:
   name: OutSystems
   stage: Public
   focus: AI-powered low-code development platform
-  use_cases:
-  - Enterprise Vibe Coding - AI-powered coding assistance for serious software development
-  - AI-native developer tools that accelerate application development
-  - Agentic AI and AI app generation capabilities for enterprise teams
-  - Building and deploying AI-powered applications and agents that reduce manual work
-  - Streamlining internal operations and accelerating enterprise innovation
-  - Enabling secure, governed human-AI collaboration for enterprise application development
 position:
   title: Lead AI Engineer
   ai_type:

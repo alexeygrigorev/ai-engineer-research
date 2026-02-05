@@ -2,12 +2,6 @@ company:
   name: Moon
   stage: Stealth
   focus: SaaS platform for business operations with AI agents
-  use_cases:
-  - Unified platform for business operations powered by proprietary AI agents
-  - Task automation solutions to streamline business processes
-  - AI-supported development practices to enhance engineering productivity
-  - Operational excellence platform for 6000+ employees across multiple business models
-  - Transforming entrepreneurial experience and business operations workflows
 position:
   title: Principal Software Engineer, AI Agents and Tasks
   ai_type:

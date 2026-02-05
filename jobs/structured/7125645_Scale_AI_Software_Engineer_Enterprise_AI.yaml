@@ -2,12 +2,6 @@ company:
   name: Scale AI
   stage: Series E
   focus: AI data platform and enterprise Generative AI
-  use_cases:
-  - Enterprise-grade knowledge retrieval using Generative AI
-  - LLM inference and evaluation at scale
-  - Building APIs for AI model interactions
-  - Enabling enterprises to deploy and oversee AI applications
-  - Providing high-quality data and full-stack technologies for AI models
 position:
   title: Software Engineer, Enterprise AI
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: New York Life Insurance Company
   stage: Public
   focus: Insurance and financial services
-  use_cases:
-  - AI-powered insurance applications and analytics
-  - AI inference workloads for predictive modeling and risk assessment
-  - Enterprise data governance and secure AI service consumption
-  - Compliant AI deployment in regulated financial services environment
-  - Scalable containerized AI services and microservices on GKE
 position:
   title: Corporate Vice President -  Google Cloud Platform Engineer - Enterprise Cloud
     & AI Platform

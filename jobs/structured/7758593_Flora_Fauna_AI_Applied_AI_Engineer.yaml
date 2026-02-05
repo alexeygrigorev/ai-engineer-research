@@ -2,13 +2,6 @@ company:
   name: Flora Fauna AI
   stage: Series B
   focus: Creative AI tools with agentic workflows
-  use_cases:
-  - Creative professionals orchestrate text, image, and video models on an infinite
-    canvas
-  - Multi-modal agentic workflows that let creatives speak ideas into existence
-  - Tool-using agents with memory for seamless creative content generation
-  - Reliable and trustworthy AI systems for professional creative industries including
-    design and entertainment
 position:
   title: Applied AI Engineer
   ai_type:

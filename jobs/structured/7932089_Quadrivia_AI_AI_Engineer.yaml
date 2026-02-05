@@ -2,17 +2,6 @@ company:
   name: Quadrivia AI
   stage: null
   focus: Healthcare AI assistant for clinicians
-  use_cases:
-  - Real-time clinical AI assistant that provides text and voice support for healthcare
-    professionals across the care continuum
-  - Multi-agent system for handling clinical tasks through coordinated planning, execution,
-    and critic patterns
-  - RAG-powered system for retrieving and synthesizing medical knowledge with strong
-    grounding and faithfulness guarantees
-  - Voice-enabled interactive system with turn-taking, interruption handling, and
-    sub-2-second response latency for clinical workflows
-  - EHR integration system that transforms healthcare data into LLM-accessible tools
-    for clinical decision support
 position:
   title: AI Engineer
   ai_type:

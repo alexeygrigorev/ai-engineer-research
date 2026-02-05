@@ -2,11 +2,6 @@ company:
   name: Flip (getflip.com)
   stage: Series A
   focus: AI employee experience platform for frontline workers
-  use_cases:
-  - Empowering frontline employees to access company internal information
-  - AI-powered search and information retrieval across organizational knowledge
-  - Transforming employee experience with AI-driven workflows and features
-  - Voice and engagement platform for frontline workers
 position:
   title: (Senior) AI Engineer (m/f/d)
   ai_type:

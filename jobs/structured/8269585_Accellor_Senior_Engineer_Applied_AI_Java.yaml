@@ -5,12 +5,6 @@ company:
     AI-first digital transformation partner delivering
     enterprise AI solutions, data platforms, and product
     engineering
-  use_cases:
-  - Enterprise workflow automation using AI agents and intelligent assistants
-  - Document intelligence systems for processing and analyzing enterprise documents
-  - Decision support systems leveraging AI reasoning and knowledge graphs
-  - RAG-enhanced applications for context-aware information retrieval
-  - Agentic workflows orchestrating multiple tools and APIs for complex business processes
 position:
   title: Senior Engineer Applied AI (Java)
   ai_type:

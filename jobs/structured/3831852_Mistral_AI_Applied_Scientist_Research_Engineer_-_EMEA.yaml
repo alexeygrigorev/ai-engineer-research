@@ -4,12 +4,6 @@ company:
   focus: |-
     High-performance open-source AI models and enterprise AI
     platform
-  use_cases:
-  - Deploying large-scale AI models on GPU clusters for enterprise applications
-  - Implementing agents and RAG pipelines for complex customer use cases
-  - Multi-modal AI applications spanning text, image, and speech processing
-  - Client-facing research projects applying novel AI methods across diverse domains
-  - Enterprise AI solutions through le Chat AI assistant for work and life
 position:
   title: Applied Scientist / Research Engineer - EMEA
   ai_type:

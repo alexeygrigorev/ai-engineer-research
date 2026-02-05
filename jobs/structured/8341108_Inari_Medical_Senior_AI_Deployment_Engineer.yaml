@@ -2,17 +2,6 @@ company:
   name: Inari Medical
   stage: Public
   focus: Medical device technology for surgery and intervention
-  use_cases:
-  - Computer vision applications for medical device products in surgical and healthcare
-    settings
-  - Augmented reality and mixed reality interfaces for operating room navigation and
-    guidance
-  - Generative AI features including LLMs for clinical decision intelligence and treatment
-    selection
-  - Multi-modal AI systems for image-guided surgery and outcome assessment
-  - Real-time AI inference on edge devices for surgical robotics and operating room
-    safety
-  - Multi-agentic AI frameworks for orchestrating complex clinical workflows
 position:
   title: Senior AI Deployment Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Zip Co
   stage: Public
   focus: Fintech digital payment services and point-of-sale credit
-  use_cases:
-  - AI-powered customer interactions and personalized repayment journeys
-  - Intelligent support agents for dynamic fintech environment
-  - Autonomous, adaptive AI-native software for financial services
-  - RAG-powered knowledge retrieval for financial systems
-  - Self-improving agentic systems that drive real outcomes in regulated fintech
 position:
   title: Principal Engineer, Generative & Agentic AI
   ai_type:

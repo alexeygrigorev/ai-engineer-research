@@ -2,13 +2,6 @@ company:
   name: Particle Health
   stage: Series B
   focus: Healthcare data analytics and interoperability platform
-  use_cases:
-  - Care coordination across healthcare providers and systems
-  - Risk stratification for patient population management
-  - Patient identity management across fragmented data silos
-  - Regulatory compliance for healthcare data handling
-  - Real-time patient data access for value-based care providers and payers
-  - Healthcare data analytics for digital health companies and health systems
 position:
   title: Senior Software Engineer (Backend, Tech Lead - AI-Enabled Systems)
   ai_type:

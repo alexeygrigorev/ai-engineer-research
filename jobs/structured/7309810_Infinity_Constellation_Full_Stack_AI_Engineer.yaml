@@ -2,13 +2,6 @@ company:
   name: Infinity Constellation
   stage: Seed
   focus: Holding company building AI-native businesses
-  use_cases:
-  - Agentic AI applications that can autonomously execute tasks
-  - LLLM-powered workflows for various business use cases
-  - Retrieval-augmented generation systems for knowledge management
-  - Full-stack AI products validated through rapid prototyping
-  - Reusable AI frameworks and prompt libraries across portfolio companies
-  - AI-native tools that scale within early-stage companies
 position:
   title: Full Stack AI Engineer
   ai_type:

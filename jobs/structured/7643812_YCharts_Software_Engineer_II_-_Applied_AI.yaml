@@ -4,13 +4,6 @@ company:
   focus: |-
     SaaS platform for wealth managers and investment
     professionals
-  use_cases:
-  - Transform complex financial data into clear visuals and actionable insights for
-    wealth managers
-  - Enable smarter investment decisions through AI-powered research and analysis tools
-  - Enhance proposal generation and client communication capabilities using AI
-  - Improve overall user experience by applying AI to expand product capabilities
-    in wealth management
 position:
   title: Software Engineer II - Applied AI
   ai_type:

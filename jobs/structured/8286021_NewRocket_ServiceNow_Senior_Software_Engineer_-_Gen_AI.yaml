@@ -4,13 +4,6 @@ company:
   focus: |-
     Elite ServiceNow Partner implementing AI-powered enterprise
     workflow solutions
-  use_cases:
-  - Virtual Agent implementations for conversational AI support
-  - Predictive Intelligence for IT operations and service management
-  - Now Assist integration for AI-powered productivity across ITSM, ITOM, CSM, and
-    HRSD
-  - Automated workflows and business process automation on ServiceNow platform
-  - Enterprise integration patterns connecting ServiceNow with external systems
 position:
   title: ServiceNow Senior Software Engineer - Gen AI
   ai_type:

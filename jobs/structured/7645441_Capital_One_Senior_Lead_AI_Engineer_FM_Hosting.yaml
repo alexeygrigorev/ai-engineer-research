@@ -2,12 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services with AI
-  use_cases:
-  - Informing customers about unusual charges in real-time
-  - Answering customer questions in real-time with AI-powered systems
-  - Creating personalized customer experiences through machine learning
-  - Deploying AI models that empower teams across Capital One to enhance products
-  - Building scalable, high-performance AI infrastructure for banking applications
 position:
   title: Senior Lead AI Engineer (FM Hosting)
   ai_type:

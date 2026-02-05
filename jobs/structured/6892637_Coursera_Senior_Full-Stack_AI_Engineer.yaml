@@ -2,13 +2,6 @@ company:
   name: Coursera
   stage: Public
   focus: Online education platform for global learning
-  use_cases:
-  - Hyper-personalized learning experiences that adapt to individual learners
-  - Adaptive content delivery that adjusts based on learner progress and preferences
-  - Intelligent assistance features providing real-time support to learners
-  - AI-native workflows for online education platform
-  - Personalized skill development and training programs
-  - Automated content generation and curation for courses
 position:
   title: Senior Full-Stack AI Engineer
   ai_type:

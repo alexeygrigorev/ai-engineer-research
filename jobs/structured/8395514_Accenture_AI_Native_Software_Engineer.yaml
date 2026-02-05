@@ -2,14 +2,6 @@ company:
   name: Accenture
   stage: Public
   focus: Global professional services for cloud, data, and AI
-  use_cases:
-  - Agent-powered enterprise workflows that augment business processes
-  - Domain-specific agentic applications across finance, healthcare, and retail verticals
-  - Multi-provider AI platform integration enabling seamless switching between Anthropic,
-    Google, OpenAI, and open-source models
-  - Policy-based routing and orchestration of AI agents for complex enterprise decision-making
-  - Evaluation and observability systems to monitor agent performance, accuracy, and
-    safety in production
 position:
   title: AI Native Software Engineer
   ai_type:

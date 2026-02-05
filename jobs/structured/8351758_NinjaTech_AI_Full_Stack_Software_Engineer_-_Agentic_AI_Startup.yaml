@@ -2,14 +2,6 @@ company:
   name: NinjaTech AI
   stage: pre-Series A
   focus: Autonomous AI agents platform with full OS capabilities
-  use_cases:
-  - Building intelligent applications and automations (B2B and B2C) powered by the
-    SuperNinja agentic AI platform
-  - Enabling autonomous AI agents to execute complex tasks end-to-end with full OS
-    capabilities
-  - Providing user interfaces and backend infrastructure to make AI agents accessible,
-    fast, and powerful
-  - Creating serving architecture and SDKs that support distributed AI agent systems
 position:
   title: Full Stack Software Engineer - Agentic AI Startup
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Waymo
   stage: Public
   focus: Autonomous driving technology company
-  use_cases:
-  - Autonomous driving safety and operation across cities and driving conditions
-  - Reinforcement learning for autonomous driving decision making
-  - Learning from demonstration to train autonomous driving models
-  - Generative modeling for autonomous driving scenarios
-  - Hierarchical learning for complex driving tasks
-  - Robust evaluation of autonomous driving systems
 position:
   title: Senior Machine Learning Engineer, AI Foundations
   ai_type:

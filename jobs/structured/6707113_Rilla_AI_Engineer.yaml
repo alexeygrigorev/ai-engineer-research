@@ -2,15 +2,6 @@ company:
   name: Rilla
   stage: Series B or later
   focus: Conversation intelligence software for offline commerce
-  use_cases:
-  - Voice-first interface allowing users to command Rilla through natural speech
-  - Search engine uncovering business-critical insights from previously unsearchable
-    voice data
-  - Audio intelligence pipeline for analyzing messy, noisy offline conversations in
-    physical businesses
-  - Real-time conversation analysis and indexing for offline commerce
-  - Extracting actionable intelligence from real-world audio interactions in physical
-    business settings
 position:
   title: AI Engineer
   ai_type:

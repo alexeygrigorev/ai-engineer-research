@@ -2,10 +2,6 @@ company:
   name: Infinity Constellation
   stage: Unknown
   focus: AI-powered agentic workflow platform for SMBs
-  use_cases:
-  - AI Employees for SMBs built with intelligent, agentic workflows
-  - Deployed on proprietary platform with orchestration powered by N8n
-  - Generate working, value-generating AI teammates for business operations
 position:
   title: Senior AI Platform Engineer - Supernal
   ai_type:

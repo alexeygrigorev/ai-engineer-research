@@ -2,12 +2,6 @@ company:
   name: n8n
   stage: Series C
   focus: Open workflow orchestration platform for AI automation
-  use_cases:
-  - Natural language input for workflow creation and automation building
-  - Smart suggestions and code generation to accelerate workflow development
-  - Intelligent node creation and workflow optimization using AI
-  - Text-to-workflow conversion using embedding models and vector databases
-  - AI-powered code suggestions for developers building automations
 position:
   title: Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS
   ai_type:

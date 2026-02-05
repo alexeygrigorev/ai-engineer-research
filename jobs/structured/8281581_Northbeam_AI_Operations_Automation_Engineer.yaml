@@ -2,13 +2,6 @@ company:
   name: Northbeam
   stage: Series B
   focus: Marketing intelligence platform for eCommerce brands
-  use_cases:
-  - Lead generation and enrichment through automated workflows and intelligent agents
-  - Campaign and creative research automation using AI-powered analysis
-  - Competitive intelligence gathering and processing for marketing insights
-  - Sales and marketing enablement through automated tooling and workflow optimization
-  - Internal process automation across marketing, sales, product, finance, and operations
-    teams
 position:
   title: AI Operations Automation Engineer
   ai_type:

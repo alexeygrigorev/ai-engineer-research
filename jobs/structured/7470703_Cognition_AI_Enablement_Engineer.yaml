@@ -4,13 +4,6 @@ company:
   focus: |-
     Applied AI lab building software agents and AI development
     tools
-  use_cases:
-  - AI software engineering agents that can build end-to-end software
-  - AI-native IDEs for collaborative development workflows
-  - Agentic workflows integrated into day-to-day development processes
-  - Automated coding, debugging, and project assistance for engineering teams
-  - Knowledge management through DeepWiki and tool integrations via MCP
-  - Scalable AI adoption and enablement programs for enterprise engineering organizations
 position:
   title: AI Enablement Engineer
   ai_type:

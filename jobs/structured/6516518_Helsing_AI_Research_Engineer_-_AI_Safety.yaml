@@ -2,12 +2,6 @@ company:
   name: Helsing
   stage: Series B
   focus: AI-based defense and national security technology
-  use_cases:
-  - AI perception systems for human decision-making assistance in defense
-  - Scalable evaluation and assurance of AI products across multiple capabilities
-  - Robustness assessment against adversarial attacks in high-constraint environments
-  - Uncertainty quantification for safe AI decision-making in critical applications
-  - Responsible AI deployment in national security and defense contexts
 position:
   title: AI Research Engineer - AI Safety
   ai_type:

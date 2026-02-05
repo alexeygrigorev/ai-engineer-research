@@ -2,11 +2,6 @@ company:
   name: PointClickCare
   stage: null
   focus: GenAI platform for healthcare workflow automation
-  use_cases:
-  - Seamless delivery of AI-generated insights into agent workflows
-  - Integration of GenAI capabilities with existing products
-  - Safe and scalable AI product delivery
-  - Real-time monitoring and performance of GenAI workloads
 position:
   title: Principal AI Platform Engineer (US)
   ai_type:

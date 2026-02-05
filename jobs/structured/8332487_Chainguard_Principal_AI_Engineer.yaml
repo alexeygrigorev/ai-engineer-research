@@ -4,13 +4,6 @@ company:
   focus: |-
     Secure software development and deployment, software supply
     chain security
-  use_cases:
-  - Account intelligence for sales teams to understand customer needs and opportunities
-  - Deal prioritization to help sales teams focus on high-value opportunities
-  - Forecasting for revenue operations and business planning
-  - Personalization of marketing and sales communications
-  - Sales and customer success enablement through AI-powered insights and tools
-  - Customer insights generation to inform GTM strategies and decision-making
 position:
   title: Principal AI Engineer
   ai_type:

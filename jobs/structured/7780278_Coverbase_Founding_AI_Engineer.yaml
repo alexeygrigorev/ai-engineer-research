@@ -2,12 +2,6 @@ company:
   name: Coverbase
   stage: Seed
   focus: AI-driven third-party risk management platform
-  use_cases:
-  - Organize vast amounts of unstructured counterparty data using modern AI techniques
-  - Compare vendor data against policies to identify key business risks
-  - Streamline business-to-business risk assessment and due diligence
-  - Automate third-party risk management for financial institutions
-  - Reduce time for risk assessments from weeks to days through AI automation
 position:
   title: Founding AI Engineer
   ai_type:

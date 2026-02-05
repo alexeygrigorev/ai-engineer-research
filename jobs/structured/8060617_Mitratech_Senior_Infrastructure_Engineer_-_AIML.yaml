@@ -2,11 +2,6 @@ company:
   name: Mitratech
   stage: null
   focus: Legal, Risk, Compliance, and HR software
-  use_cases:
-  - Supporting AI and ML workloads for legal, risk, compliance, and HR software applications
-  - Deploying and managing LLM inference pipelines and Generative AI services
-  - Scaling model deployments and optimizing inference performance
-  - Ensuring security and compliance for AI datasets and environments
 position:
   title: Senior Infrastructure Engineer - AI/ML
   ai_type:

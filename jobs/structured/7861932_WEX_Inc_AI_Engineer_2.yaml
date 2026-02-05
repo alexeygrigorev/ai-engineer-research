@@ -2,12 +2,6 @@ company:
   name: WEX Inc.
   stage: Public
   focus: Global commerce platform and payments technology
-  use_cases:
-  - AI-powered commerce and payments platform enhancing business decision-making
-  - Large Language Models for generative AI projects in financial services
-  - Machine learning platforms for risk assessment and fraud detection
-  - Big data analytics infrastructure for business intelligence and customer insights
-  - AI-driven products to help customers grow their business effectively
 position:
   title: AI Engineer 2
   ai_type:

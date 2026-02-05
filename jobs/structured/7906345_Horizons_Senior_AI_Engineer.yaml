@@ -4,13 +4,6 @@ company:
   focus: |-
     Workforce management platform for global payroll, benefits,
     taxes, and compliance
-  use_cases:
-  - Global payroll processing and management
-  - Employee benefits administration
-  - Tax compliance and management across jurisdictions
-  - Workforce hiring and onboarding automation
-  - HR administrative task automation
-  - Compliance checking and validation for international employment
 position:
   title: Senior AI Engineer
   ai_type:

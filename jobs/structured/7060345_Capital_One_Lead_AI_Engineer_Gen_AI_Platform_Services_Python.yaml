@@ -4,12 +4,6 @@ company:
   focus: |-
     Banking and financial services with AI-powered customer
     experiences
-  use_cases:
-  - Informing customers about unusual charges and fraud detection in real-time
-  - Answering customer questions in real-time through AI-powered conversational interfaces
-  - Creating personalized customer experiences and product recommendations
-  - Enhancing associate productivity and workflows through AI-powered internal tools
-  - Delivering responsible and scalable AI systems for banking applications
 position:
   title: Lead AI Engineer (Gen AI Platform Services, Python, Kubernetes)
   ai_type:

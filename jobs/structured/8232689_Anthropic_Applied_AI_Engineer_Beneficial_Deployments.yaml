@@ -2,12 +2,6 @@ company:
   name: Anthropic
   stage: Public Benefit Corporation (Public Benefit Corp, likely Series C+)
   focus: Building safe, beneficial, steerable AI systems
-  use_cases:
-  - Deploying Claude AI in education sector to support learning and teaching
-  - AI applications for global health initiatives to improve health outcomes
-  - Using AI to enhance economic mobility for underserved communities
-  - Applying AI in life sciences and scientific research for social impact
-  - Supporting nonprofits and mission-driven organizations with AI-powered solutions
 position:
   title: Applied AI Engineer, Beneficial Deployments
   ai_type:

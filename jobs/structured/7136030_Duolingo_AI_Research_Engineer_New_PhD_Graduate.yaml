@@ -2,12 +2,6 @@ company:
   name: Duolingo
   stage: Public
   focus: Language learning and education app
-  use_cases:
-  - Language learning optimization and personalization
-  - English proficiency testing
-  - Math and music skills development
-  - Educational content recommendation and delivery
-  - Learner engagement and motivation improvement
 position:
   title: AI Research Engineer, New PhD Graduate
   ai_type:

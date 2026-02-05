@@ -5,16 +5,6 @@ company:
     Global consulting firm delivering digital and data solutions
     across consumer, defense, energy, financial services,
     government, health, and transport sectors
-  use_cases:
-  - Building RAG-based knowledge retrieval systems using vector databases and knowledge
-    graphs
-  - Developing AI agents that can reason, retrieve information, and take actions across
-    multiple systems
-  - Creating prototype Generative AI solutions for client projects across multiple
-    sectors
-  - Implementing LLM-powered applications using APIs from OpenAI and Anthropic
-  - Deploying cloud-native AI solutions on AWS, Azure, or GCP infrastructure
-  - Evaluating and monitoring GenAI systems using LLMOps tools and observability platforms
 position:
   title: Senior Gen AI Developer
   ai_type:

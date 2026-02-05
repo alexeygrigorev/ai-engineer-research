@@ -2,17 +2,6 @@ company:
   name: Standard Template Labs
   stage: stealth-mode
   focus: AI-native IT Service and Configuration Management
-  use_cases:
-  - Natural language understanding and processing of IT support tickets for automated
-    triage and routing
-  - Dynamic knowledge extraction from IT infrastructure data to build and maintain
-    configuration management databases
-  - Intelligent workflow automation that recommends and executes IT service management
-    processes based on historical patterns
-  - Predictive insights from complex IT infrastructure data for incident forecasting
-    and proactive issue resolution
-  - IT ticket classification and prioritization using machine learning models to improve
-    service desk efficiency
 position:
   title: AI Engineer
   ai_type:

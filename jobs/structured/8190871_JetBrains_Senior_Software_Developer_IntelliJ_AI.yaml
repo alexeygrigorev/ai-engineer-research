@@ -2,12 +2,6 @@ company:
   name: JetBrains
   stage: Public
   focus: Developer tools and IDEs
-  use_cases:
-  - AI-powered code completion and next edit suggestions
-  - Agentic AI experience integrated into IDE workflows
-  - Enhanced VCS operations using AI capabilities
-  - Context-aware LLM-based functionality for code understanding
-  - Real-time AI assistance and code suggestions in the editor
 position:
   title: Senior Software Developer (IntelliJ AI)
   ai_type:

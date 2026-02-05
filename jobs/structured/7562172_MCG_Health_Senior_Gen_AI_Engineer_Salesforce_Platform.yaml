@@ -2,17 +2,6 @@ company:
   name: MCG Health
   stage: Public
   focus: Healthcare evidence-based content and solutions
-  use_cases:
-  - Automating business workflows and reducing manual work across Salesforce platform
-    to enhance operational efficiency
-  - Delivering intelligent recommendations and surfacing insights for Sales, Service,
-    and CPQ operations
-  - Enabling personalized retrieval and contextual experiences through AI agents grounded
-    in Salesforce Data Cloud
-  - Streamlining end-to-end business operations through AI-powered solutions integrated
-    with enterprise systems
-  - Modernizing legacy Salesforce orgs with scalable AI architectures that drive transformative
-    business value
 position:
   title: Senior Gen AI Engineer, Salesforce Platform
   ai_type:

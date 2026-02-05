@@ -2,13 +2,6 @@ company:
   name: WorkWhile
   stage: Series A
   focus: AI-powered hourly labor marketplace platform
-  use_cases:
-  - Worker-employer matching for hourly labor positions
-  - Streamlining operational workflows through AI automation
-  - Enhancing user experience for both workers and businesses on the platform
-  - Same-day pay and benefits optimization for hourly workers
-  - Shift matching based on worker skills and schedules
-  - Efficient labor market matching to reduce staffing inefficiencies
 position:
   title: Software Engineer, AI Product
   ai_type:

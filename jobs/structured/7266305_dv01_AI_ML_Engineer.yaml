@@ -2,14 +2,6 @@ company:
   name: dv01
   stage: null
   focus: Structured finance data analytics platform for transparency
-  use_cases:
-  - Document parsing for analyzing complex banking documents to inform customers of
-    market conditions
-  - Document classification to improve reliability and speed of data ingestion processes
-  - Extracting insights from unstructured financial documents for enhanced intelligence
-    in structured finance
-  - Supporting responsible lending decisions through AI-powered document analysis
-    and classification
 position:
   title: AI ML Engineer
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Homebound
   stage: Series B+
   focus: Vertical AI for residential construction
-  use_cases:
-  - Developing LLM-powered applications to improve efficiency and quality across the
-    homebuilding process
-  - Building AI systems that capture and utilize granular data at every stage of homebuilding
-  - Creating vertical AI solutions for residential construction industry workflows
-  - Implementing AI-driven tools for homeowners to select, personalize, and purchase
-    homes online
 position:
   title: Senior/Staff AI Engineer
   ai_type:

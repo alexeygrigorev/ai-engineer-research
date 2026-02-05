@@ -4,14 +4,6 @@ company:
   focus: |-
     Educational nonprofit - college and career planning platform
     for students
-  use_cases:
-  - Personalized college, scholarship, and career exploration for over 7 million students
-  - LLM-powered tools to automate and enhance student journey through BigFuture platform
-  - AI-driven personalization for college search, scholarship search, and career planning
-    features
-  - GenAI applications for mobile app (BigFuture School) and web platform (bigfuture.org)
-  - Intelligent dashboards and checklists to help students discover and pursue educational
-    paths
 position:
   title: Senior AI Engineer
   ai_type:

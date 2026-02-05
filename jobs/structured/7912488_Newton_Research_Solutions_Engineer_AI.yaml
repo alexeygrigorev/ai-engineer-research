@@ -2,11 +2,6 @@ company:
   name: Newton Research
   stage: Seed
   focus: AI agents for marketing analytics
-  use_cases:
-  - Complex marketing analytics workflows using AI agents
-  - Advertising analytics and attribution analysis
-  - Publisher and advertiser profitability analysis
-  - Customer adoption and utilization of AI-powered marketing solutions
 position:
   title: Solutions Engineer (AI)
   ai_type:

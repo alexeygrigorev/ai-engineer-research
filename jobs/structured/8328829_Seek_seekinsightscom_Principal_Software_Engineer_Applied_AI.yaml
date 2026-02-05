@@ -2,13 +2,6 @@ company:
   name: Seek (seekinsights.com)
   stage: Startup
   focus: Marketplace for data apps and analytics
-  use_cases:
-  - Conversational data querying allowing users to ask natural language questions
-    about their data
-  - Intelligent recommendations for data apps and cross-app insights within the marketplace
-  - AI-assisted publishing workflow that helps providers create and deploy data applications
-  - Guided analytics and assisted discovery to help users find relevant data and insights
-  - Semantic modeling integration for understanding and relating data across applications
 position:
   title: Principal Software Engineer, Applied AI
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: WEX Inc.
   stage: Public
   focus: Financial technology and payment solutions
-  use_cases:
-  - Deploy AI functionality into product applications in a scalable manner
-  - Integrate AI components and models into financial payment and healthcare systems
-  - Build agentic AI applications for financial services
-  - Automate infrastructure, testing, and deployment processes using cloud-first approach
-  - Implement machine learning algorithms for regulated financial and healthcare spaces
 position:
   title: Staff AI Engineer
   ai_type:

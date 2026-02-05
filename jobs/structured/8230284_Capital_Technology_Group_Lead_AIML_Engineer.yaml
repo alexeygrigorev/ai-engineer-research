@@ -4,13 +4,6 @@ company:
   focus: |-
     IT consulting and digital transformation for federal and
     commercial clients
-  use_cases:
-  - Modernizing and innovating federal government software delivery
-  - Supporting high-impact civic tech initiatives within federal government
-  - Deploying production enterprise applications in AWS that use AI/ML
-  - Evaluating and prototyping emerging technologies for government clients
-  - Solving complex, mission-critical business challenges for federal and commercial
-    clients
 position:
   title: Lead AI/ML Engineer
   ai_type:

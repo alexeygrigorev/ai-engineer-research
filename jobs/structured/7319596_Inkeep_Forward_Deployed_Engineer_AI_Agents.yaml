@@ -4,12 +4,6 @@ company:
   focus: |-
     AI Agent platform for customer support and internal
     workflows
-  use_cases:
-  - AI agents for customer-facing experiences including documentation, help centers,
-    and marketing sites
-  - Internal workflow automation using AI agents
-  - Customer support automation through conversational AI
-  - RAG-based knowledge retrieval and response generation
 position:
   title: Forward Deployed Engineer, AI Agents
   ai_type:

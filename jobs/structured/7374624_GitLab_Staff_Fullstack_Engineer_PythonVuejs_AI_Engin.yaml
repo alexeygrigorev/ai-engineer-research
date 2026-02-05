@@ -2,12 +2,6 @@ company:
   name: GitLab
   stage: Public
   focus: AI-powered DevSecOps Platform for software development
-  use_cases:
-  - AI-powered chat experience embedded across the GitLab DevSecOps platform for developer
-    assistance
-  - Generative AI integration for code planning, writing, review, and security workflows
-  - Enterprise-scale AI chatbot with multi-provider model integration (e.g., Google
-    Vertex AI)
 position:
   title: 'Staff Fullstack Engineer (Python/Vue.js), AI Engineering: Duo Chat'
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: SentinelOne
   stage: Public
   focus: AI-powered cybersecurity and threat detection
-  use_cases:
-  - Generative AI products for cybersecurity threat detection and response
-  - Agentic AI systems that automate security operations
-  - API-driven access to AI-powered security analysis and threat intelligence
-  - Real-time security data processing and analysis through streaming APIs
-  - Secure integration of third-party AI models (OpenAI, Anthropic, Google Gemini,
-    Meta LLaMA) into cybersecurity workflows
 position:
   title: Staff AI API Engineer
   ai_type:

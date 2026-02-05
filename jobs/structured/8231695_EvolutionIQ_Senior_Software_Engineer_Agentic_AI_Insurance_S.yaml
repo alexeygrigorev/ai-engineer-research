@@ -2,12 +2,6 @@ company:
   name: EvolutionIQ
   stage: Series B+
   focus: AI-powered insurance claims management SaaS
-  use_cases:
-  - AI-powered insurance claims management platform for injured and disabled workers
-  - Enterprise SaaS application handling large-scale structured and unstructured datasets
-  - Multi-tenant, multi-user backend architecture supporting insurance workflows
-  - Business intelligence and ML data delivery to customer-facing web applications
-  - Helping workers return to workforce and reducing avoidable costs
 position:
   title: Senior Software Engineer (Agentic / AI Insurance SaaS)
   ai_type:

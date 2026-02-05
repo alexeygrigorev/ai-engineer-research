@@ -2,12 +2,6 @@ company:
   name: Crux (cruxclimate.com
   stage: Series B
   focus: Capital markets platform for clean energy financing
-  use_cases:
-  - Streamlining the manual, opaque, and slow process of financing clean energy projects
-  - Accelerating diligence processes for clean energy and manufacturing transactions
-  - Enabling faster decision making and lower cost of capital for developers
-  - Facilitating capital flow into renewable energy projects through AI-powered tools
-  - Transforming complex capital markets transactions with AI automation
 position:
   title: AI Product Engineer
   ai_type:

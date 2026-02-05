@@ -2,12 +2,6 @@ company:
   name: FlowFuse
   stage: null
   focus: FlowFuse platform for applied AI solutions
-  use_cases:
-  - Intelligent search capabilities using embeddings and vector search
-  - Content summarization powered by large language models
-  - Validation systems using AI for data quality checks
-  - Assistant-style workflows to enhance user productivity
-  - AI-powered features for customer and internal engineering problems
 position:
   title: FlowFuse Full Stack Developer (AI-focused)
   ai_type:

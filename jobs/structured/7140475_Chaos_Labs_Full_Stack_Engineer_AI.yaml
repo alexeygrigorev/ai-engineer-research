@@ -4,12 +4,6 @@ company:
   focus: |-
     Automated on-chain economic security and risk management for
     crypto protocols
-  use_cases:
-  - Financial AI agent for risk management and capital efficiency analysis
-  - On-chain economic security system for crypto protocols
-  - Real-time agent reasoning visualization and insights for DeFi protocols
-  - Automated analysis of protocol mechanics and scenario implications using EVM simulations
-  - Integration of AI agents with blockchain protocols and DeFi systems
 position:
   title: Full Stack Engineer (AI)
   ai_type:

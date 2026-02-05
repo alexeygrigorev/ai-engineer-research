@@ -2,12 +2,6 @@ company:
   name: telli
   stage: Seed
   focus: AI-native phone system with voice agents
-  use_cases:
-  - AI voice agents handling repetitive customer calls at scale
-  - Managing human and AI teams on a unified phone platform
-  - Automating customer communication workflows for businesses
-  - Replacing low-quality outsourced call centers with AI agents
-  - Improving customer experience through AI-first phone systems
 position:
   title: Customer AI Engineer
   ai_type:

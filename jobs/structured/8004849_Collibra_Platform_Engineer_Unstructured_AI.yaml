@@ -4,17 +4,6 @@ company:
   focus: |-
     Data intelligence and governance platform with AI
     capabilities
-  use_cases:
-  - Enabling large organizations to deploy Unstructured AI applications in their own
-    cloud environments
-  - Supporting flexible deployment scenarios including bring-your-own VPC, custom
-    networking, and varied customer setups
-  - Providing secure, scalable, and easily deployable infrastructure for enterprise
-    AI workloads
-  - Ensuring reliable operations with monitoring, observability, and incident response
-    for deployed AI applications
-  - Automating product lifecycle management including updates and upgrades for AI
-    platforms
 position:
   title: Platform Engineer, Unstructured AI
   ai_type:

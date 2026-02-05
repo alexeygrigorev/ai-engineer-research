@@ -2,13 +2,6 @@ company:
   name: Bluefish
   stage: Series A
   focus: AI marketing platform for enterprise brands
-  use_cases:
-  - AI-powered marketing platform for enterprise brands
-  - AI brand safety management and monitoring
-  - Personalized AI marketing experiences for consumers
-  - Integration of AI marketing with existing data feeds and product catalogs
-  - Marketing automation and performance optimization using AI
-  - Consumer engagement on AI-based information channels
 position:
   title: Senior Customer AI Engineer
   ai_type:

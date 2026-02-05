@@ -2,14 +2,6 @@ company:
   name: Baseten
   stage: Series E
   focus: AI inference and deployment platform
-  use_cases:
-  - Deploying production-ready model servers from Docker images on Baseten's platform
-  - Building and deploying high-scale production AI applications for customers like
-    Cursor, Notion, and Writer
-  - Deploying custom ComfyUI workflows as APIs for customer use
-  - Whisper transcription services optimized for speed and accuracy
-  - End-to-end AI/ML solutions from initial exploration through production deployment
-    and monitoring
 position:
   title: AI Solutions Engineer
   ai_type:

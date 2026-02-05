@@ -2,15 +2,6 @@ company:
   name: GEICO
   stage: Public
   focus: Insurance provider and auto insurer
-  use_cases:
-  - Transform legacy CRM into a modern, scalable solution using Microsoft Dynamics
-    365 and Power Platform
-  - Enable GEICO agents to better support customers and deliver seamless experiences
-    across Chat, SMS, and email
-  - Integrate AI-driven capabilities into CRM applications for enhanced customer service
-  - Build high-performance, low-latency platforms for insurance business transformation
-  - Create self-service platforms and business continuity solutions for enterprise
-    operations
 position:
   title: Senior Software Engineer- CRM, Artificial Intelligence
   ai_type:

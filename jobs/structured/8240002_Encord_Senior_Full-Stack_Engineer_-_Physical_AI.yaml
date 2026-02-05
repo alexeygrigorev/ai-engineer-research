@@ -4,13 +4,6 @@ company:
   focus: |-
     AI infrastructure and data quality platform for computer
     vision and Physical AI
-  use_cases:
-  - Data quality management for robotics and autonomous vehicles training
-  - Large-scale data annotation and curation for computer vision applications
-  - 3D scene rendering and visualization for spatial and sensor data
-  - Physical AI data infrastructure across healthcare, surveillance, retail, and agriculture
-  - Training data preparation and verification for computer vision and deep learning
-    models
 position:
   title: Senior Full-Stack Engineer - Physical AI
   ai_type:

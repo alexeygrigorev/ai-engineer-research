@@ -2,14 +2,6 @@ company:
   name: Mural
   stage: null
   focus: AI-powered visual collaboration platform
-  use_cases:
-  - Enhancing visual collaboration and decision-making through generative AI
-  - Amplifying human creativity and improving team alignment, communication, and visual
-    decision-making
-  - Delivering intuitive, high-impact AI capabilities that make collaboration feel
-    more fluid and human
-  - Implementing AI-powered indexing, retrieval systems, personalization, and natural
-    language processing for visual workspaces
 position:
   title: Senior Software Engineer, AI Product
   ai_type:

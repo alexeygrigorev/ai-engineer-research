@@ -2,13 +2,6 @@ company:
   name: Saccharo AI
   stage: Angel
   focus: AI-powered RFP automation and proposal workflows
-  use_cases:
-  - Ingest and process unstructured RFP documents to identify must-win opportunities
-  - Generate AI-driven strategies and insights for sales proposals
-  - Automate RFP response workflows to reduce manual copy-paste work
-  - Provide grounded answers and content retrieval using RAG
-  - Help proposal managers focus on high-value strategic thinking instead of administrative
-    tasks
 position:
   title: Lead Engineer (AI and Agent Development)
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Bluefish
   stage: Seed
   focus: AI-powered marketing and advertising platform
-  use_cases:
-  - LLM-powered marketing and advertising technology solutions
-  - NLP-driven content creation and brand storytelling for enterprises
-  - AI channel engagement tools for brands to interact with consumers
-  - Enterprise brand representation management in AI systems
-  - Information and media consumption optimization via AI interfaces
 position:
   title: Senior AI Engineer
   ai_type:

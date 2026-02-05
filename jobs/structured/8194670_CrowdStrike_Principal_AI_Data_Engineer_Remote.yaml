@@ -2,13 +2,6 @@ company:
   name: CrowdStrike
   stage: Public
   focus: AI-native cybersecurity platform
-  use_cases:
-  - Conversational AI assistants integrated with Slack and enterprise systems for
-    data access
-  - RAG-based systems for enterprise data retrieval and semantic search
-  - Real-time and batch data pipelines supporting AI workloads
-  - LLM-powered integrations for business intelligence and analytics
-  - AI-native cybersecurity platform leveraging data and AI for threat detection
 position:
   title: Principal, AI Data Engineer (Remote)
   ai_type:

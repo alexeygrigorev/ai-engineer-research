@@ -2,12 +2,6 @@ company:
   name: BJAK
   stage: null
   focus: Building proactive AI systems for daily use
-  use_cases:
-  - Proactive AI system integrated across daily conversations, tools, and workflows
-  - AI-powered chat interfaces with streaming response capabilities
-  - Vision and speech AI features for mobile applications
-  - Recommendation systems integrated into mobile user experiences
-  - On-device AI inference using TensorFlow Lite for mobile performance
 position:
   title: Android Developer, AI Apps
   ai_type:

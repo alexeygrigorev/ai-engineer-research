@@ -2,12 +2,6 @@ company:
   name: Plaid
   stage: Series C+
   focus: Financial infrastructure and data connectivity
-  use_cases:
-  - AI coding integrations for developer productivity
-  - SDLC agents that automate development lifecycle tasks
-  - Internal tools powered by AI for engineering operations
-  - Delegation of lower-leverage work to AI agents
-  - Developer workflows enhanced with AI-powered automation
 position:
   title: Senior Software Engineer - AI & Intelligent Tooling
   ai_type:

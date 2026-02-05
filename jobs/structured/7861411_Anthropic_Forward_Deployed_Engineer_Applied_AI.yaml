@@ -2,13 +2,6 @@ company:
   name: Anthropic
   stage: Public benefit corporation
   focus: Safe, interpretable, steerable AI systems
-  use_cases:
-  - Advanced prompt engineering for production workflows
-  - Agent development and deployment using sub-agents and agent skills
-  - MCP servers for production integration
-  - Enterprise AI application deployment at scale
-  - Evaluation frameworks for LLM implementations
-  - Customer-specific AI solution development across verticals
 position:
   title: Forward Deployed Engineer, Applied AI
   ai_type:

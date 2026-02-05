@@ -2,12 +2,6 @@ company:
   name: Distyl AI
   stage: Series A
   focus: Production-grade AI systems for enterprise workflows
-  use_cases:
-  - Power core operational workflows for Fortune 500 companies across insurance, CPG,
-    and non-profits
-  - Deliver working AI systems with rapid time to value within a quarter
-  - Help companies identify, build, and realize value from their GenAI investments
-  - Apply GenAI to solve enterprise business problems with measurable financial impact
 position:
   title: AI Engineer (New Graduate)
   ai_type:

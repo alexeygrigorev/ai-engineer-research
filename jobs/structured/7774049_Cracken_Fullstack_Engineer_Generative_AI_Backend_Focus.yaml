@@ -2,11 +2,6 @@ company:
   name: Cracken
   stage: Seed
   focus: Agentic AI copilot for cybersecurity assessments
-  use_cases:
-  - AI Agent copilot for cybersecurity assessments
-  - Agentic AI system for enterprise and government cyber assessments
-  - Human-in-the-loop AI cybersecurity operations
-  - Autonomous cyber assessment scaling
 position:
   title: Fullstack Engineer, Generative AI (Backend Focus)
   ai_type:

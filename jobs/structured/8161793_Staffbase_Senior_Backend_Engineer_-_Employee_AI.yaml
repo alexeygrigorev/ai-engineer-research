@@ -2,14 +2,6 @@ company:
   name: Staffbase
   stage: Unicorn
   focus: AI-native employee experience platform
-  use_cases:
-  - Agentic AI communications channels including intranet, employee app, and email
-    solutions
-  - Multi-agent architectures for complex conversational workflows
-  - Employee experience platform using AI-native communication tools
-  - Long-running, stateful conversational interactions for workplace communication
-  - AI-powered solutions empowering communicators and frontline workers
-  - Employee engagement and communication through inspirational AI-driven experiences
 position:
   title: Senior Backend Engineer - Employee AI
   ai_type:

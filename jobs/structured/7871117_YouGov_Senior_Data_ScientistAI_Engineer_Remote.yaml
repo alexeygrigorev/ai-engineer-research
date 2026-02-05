@@ -2,17 +2,6 @@ company:
   name: YouGov
   stage: Public
   focus: Market research and opinion polling
-  use_cases:
-  - AI-powered analysis and summarization of survey data to generate market research
-    insights
-  - Natural language processing applications for topic modeling, text classification,
-    and summarization of opinion data
-  - Building tools to handle complex data problems including missing data, fraud detection,
-    and measurement error in surveys
-  - Processing massive datasets from surveys, voter databases, census microdata, and
-    behavioral tracking sources
-  - Generating insights from diverse opinion data to support local, national, and
-    international communities
 position:
   title: Senior Data Scientist/AI Engineer  (Remote)
   ai_type:

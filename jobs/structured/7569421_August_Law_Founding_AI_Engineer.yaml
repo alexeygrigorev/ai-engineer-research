@@ -2,13 +2,6 @@ company:
   name: August Law
   stage: Seed
   focus: AI agents for legal document automation and workflows
-  use_cases:
-  - Legal document drafting, review, and analysis at scale
-  - Automating lawyer reasoning, research, and drafting through AI agents
-  - Processing thousands of documents simultaneously with high accuracy
-  - Enabling law firms to provide AI tools directly to their clients
-  - Supporting legal workflows across multiple languages and jurisdictions
-  - Automating knowledge work for mid-market law firms
 position:
   title: Founding AI Engineer
   ai_type:

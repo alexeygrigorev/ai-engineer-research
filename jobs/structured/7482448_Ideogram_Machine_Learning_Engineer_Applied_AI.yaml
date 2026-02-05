@@ -4,13 +4,6 @@ company:
   focus: |-
     Generative media models and AI-native creative workflows for
     graphic design
-  use_cases:
-  - Text-to-image generation for graphic design and creative workflows
-  - Image-to-text and multimodal model applications for design assistance
-  - Image enhancement and editing tools powered by generative models
-  - AI-native creative workflows that multiply human creativity
-  - First-party app and API products delivering generative media capabilities
-  - Design tools that help creatives with ideogram, canvas, and character creation
 position:
   title: Machine Learning Engineer, Applied AI
   ai_type:

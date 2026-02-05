@@ -2,12 +2,6 @@ company:
   name: Zalando
   stage: Public
   focus: Pan-European fashion and lifestyle e-commerce
-  use_cases:
-  - Manage risk and detect fraud in payment transactions amounting to billions of
-    euros annually
-  - Identify, manage, and mitigate payment risks to protect Zalando's financial success
-  - Implement Machine Learning solutions for risk management and fraud detection in
-    e-commerce
 position:
   title: Principal Software Engineer - Risk Management / Risk AI (all genders)
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: CareSource
   stage: null
   focus: Healthcare and managed care services
-  use_cases:
-  - Generative AI platform architecture for enterprise applications
-  - RAG-based semantic search systems for information retrieval
-  - LLM-powered solutions leveraging OpenAI and Llama models
-  - Vector database implementations for embedding-based search
-  - AI-assisted software development workflows using GitHub Copilot and internal tools
 position:
   title: AI Engineer II
   ai_type:

@@ -4,14 +4,6 @@ company:
   focus: |-
     Building agentic AI systems for gaming moments using world
     models and video understanding
-  use_cases:
-  - Understanding and analyzing billions of gameplay clips from gaming moments
-  - Building agentic systems that can perceive, anticipate, and improvise in game
-    environments
-  - Creating world models for training AI agents across diverse gaming environments
-  - Performing spatial and temporal reasoning on video content from gameplay
-  - Transferring video understanding capabilities from games to other domains
-  - Extracting features and insights from high-throughput video data
 position:
   title: Generative AI / Machine Learning Engineer
   ai_type:

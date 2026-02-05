@@ -2,12 +2,6 @@ company:
   name: P-1 AI
   stage: Seed
   focus: Building an engineering AGI for physical product design
-  use_cases:
-  - AI engineer capable of quantitative intuition over physical product domains
-  - Automating engineering tool use for physical product design
-  - Assisting entry-level design engineering work with AI capabilities
-  - Deploying AI engineering systems to industrial manufacturing companies
-  - Integrating AI with industry-standard engineering design workflows
 position:
   title: AI Product Engineer
   ai_type:

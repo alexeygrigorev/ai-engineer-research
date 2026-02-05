@@ -2,13 +2,6 @@ company:
   name: Commerce
   stage: Public
   focus: Open AI-driven commerce ecosystem platform
-  use_cases:
-  - Consumer-facing agentic product solutions powered by LLMs and GenAI technologies
-  - Personalized commerce experiences across every channel using AI-driven insights
-  - RAG-based information retrieval and knowledge systems for e-commerce data
-  - AI agents and multimodal LLMs for solving complex commerce challenges
-  - Prompt orchestration systems for various product use cases across the business
-  - Data pipeline integration with e-commerce taxonomies and schemas
 position:
   title: AI Lead Software Engineer - Remote
   ai_type:

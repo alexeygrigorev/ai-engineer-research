@@ -2,12 +2,6 @@ company:
   name: Vanta
   stage: Series B
   focus: Trust management and security compliance platform
-  use_cases:
-  - Accelerating customer compliance journeys through AI-powered automation
-  - Managing risk and earning trust for businesses through intelligent monitoring
-  - Enabling faster and smarter security and compliance outcomes for customers
-  - Integrating AI capabilities into Vanta's continuous security monitoring platform
-  - Delivering AI-enabled product experiences for security and compliance workflows
 position:
   title: Senior Software Engineer, AI Product
   ai_type:

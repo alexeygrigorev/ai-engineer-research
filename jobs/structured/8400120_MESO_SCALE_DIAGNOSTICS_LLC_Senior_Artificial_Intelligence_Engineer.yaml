@@ -2,13 +2,6 @@ company:
   name: MESO SCALE DIAGNOSTICS, LLC.
   stage: null
   focus: Diagnostics and AI-powered software solutions
-  use_cases:
-  - Information retrieval using semantic and vector search capabilities
-  - Knowledge distillation to create smaller models for on-premise deployment
-  - Prompt engineering and in-context learning for enhanced model performance
-  - Model optimization and reasoning capabilities for self-hosted environments
-  - Production AI systems leveraging AWS Bedrock and SageMaker services
-  - Robust evaluation frameworks for assessing model performance and trade-offs
 position:
   title: Senior Artificial Intelligence Engineer
   ai_type:

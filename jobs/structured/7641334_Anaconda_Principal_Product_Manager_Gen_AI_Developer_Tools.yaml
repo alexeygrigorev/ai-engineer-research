@@ -2,15 +2,6 @@ company:
   name: Anaconda
   stage: Series B
   focus: Enterprise Python data science and AI platform
-  use_cases:
-  - AI-assisted Python coding and development workflows using tools like Cursor, GitHub
-    Copilot, and Claude
-  - Agentic environment management and package management for AI development
-  - Enterprise-grade AI infrastructure with security and compliance for regulated
-    industries (finance, healthcare, government)
-  - Integration between AI coding tools and package management platforms via MCP (Model
-    Context Protocol)
-  - Seamless AI-to-Anaconda workflows enabling developers to build and deploy AI applications
 position:
   title: Principal Product Manager, Gen AI Developer Tools
   ai_type:

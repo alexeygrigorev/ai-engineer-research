@@ -2,14 +2,6 @@ company:
   name: Harmonic
   stage: Series A
   focus: Startup discovery and investment platform for VCs
-  use_cases:
-  - Conversational interfaces for startup search and research
-  - Agentic layer for automating VC sourcing and diligence workflows
-  - Deep research tools for analyzing tens of millions of startups and their operators
-  - AI-powered search across fragmented and unstructured data sources
-  - Automated evaluation and comparison of startup investment opportunities
-  - Data transformation from unstructured sources into structured insights and searchable
-    indices
 position:
   title: Full Stack Product Engineer (AI), Search
   ai_type:

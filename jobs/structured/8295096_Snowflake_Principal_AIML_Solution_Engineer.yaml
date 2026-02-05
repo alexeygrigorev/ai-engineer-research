@@ -2,12 +2,6 @@ company:
   name: Snowflake
   stage: Public
   focus: Cloud data platform and lakehouse
-  use_cases:
-  - AI/ML workloads on cloud data platform
-  - Enterprise data architecture and lakehouse implementations
-  - Data ingestion, transformation, and analytics pipelines
-  - Healthcare and life sciences sector data solutions
-  - Multi-cloud data architecture design
 position:
   title: Principal AI/ML Solution Engineer
   ai_type:

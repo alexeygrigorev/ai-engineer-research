@@ -4,14 +4,6 @@ company:
   focus: |-
     Tax and accounting software and professional information
     services
-  use_cases:
-  - Automate tax document processing by scanning, organizing, and extracting data
-    from workpapers
-  - Enable data export to tax software at scale through the 1040SCAN product
-  - Move beyond fixed OCR templates to dynamic, context-aware parsing of tax documents
-  - Provide native-PDF and text-layer matching with anomaly detection for quality
-    verification
-  - Support tax determination through rules-based automation and AI-powered workflows
 position:
   title: Lead/Staff Software Engineer, AI
   ai_type:

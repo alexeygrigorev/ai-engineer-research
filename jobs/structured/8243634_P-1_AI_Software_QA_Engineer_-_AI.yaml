@@ -2,12 +2,6 @@ company:
   name: P-1 AI
   stage: Seed
   focus: Building engineering AGI for physical products
-  use_cases:
-  - AI engineer performing quantitative intuition over physical product domains
-  - AI agent performing engineering tool use at entry-level design engineer capability
-  - Evaluation system benchmarking AI against real-world engineering skill expectations
-  - Automated assessment of AI learning progress in engineering domains
-  - Preventing capability regressions in evolving AI engineering system
 position:
   title: Software QA Engineer - AI
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: Natera
   stage: Public
   focus: Cell-free DNA testing and genetic diagnostics
-  use_cases:
-  - Automate internal workflows across R&D, Lab Ops, Clinical Trials, Billing, and
-    Patient/Provider engagement
-  - Build AI solutions for document processing and unstructured data retrieval
-  - Develop agentic AI systems with multi-step reasoning and tool calling capabilities
-  - Create domain-specific LLM applications adapted for healthcare and clinical contexts
-  - Implement RAG-based systems for accurate information retrieval
-  - Enable compliance-first AI pipelines for regulated healthcare environments
 position:
   title: Senior Generative AI Engineer
   ai_type:

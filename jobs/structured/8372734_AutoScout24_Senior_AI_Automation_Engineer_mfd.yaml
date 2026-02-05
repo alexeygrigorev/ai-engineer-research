@@ -2,11 +2,6 @@ company:
   name: AutoScout24
   stage: Public
   focus: Online automotive marketplace platform
-  use_cases:
-  - Internal business workflow automation using GenAI agents
-  - Enterprise system integration with CRM, ERP, HCM, and collaboration tools
-  - AI-powered operations and process optimization within the organization
-  - Automated data processing and information retrieval across business systems
 position:
   title: Senior AI Automation Engineer (m/f/d)
   ai_type:

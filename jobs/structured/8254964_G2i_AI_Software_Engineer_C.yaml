@@ -2,13 +2,6 @@ company:
   name: G2i
   stage: null
   focus: LLM code training and RLHF
-  use_cases:
-  - Training large language models to write production-grade code across multiple
-    programming languages
-  - Generating code rankings and edits to create reward signals for reinforcement
-    learning
-  - Improving LLM code generation quality through human feedback and expert code review
-  - Teaching models to propose, critique, and improve code similar to human engineers
 position:
   title: AI Software Engineer (C)
   ai_type:

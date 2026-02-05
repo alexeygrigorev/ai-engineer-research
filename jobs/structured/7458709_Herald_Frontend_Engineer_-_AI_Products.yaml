@@ -2,11 +2,6 @@ company:
   name: Herald
   stage: Series A
   focus: Digital infrastructure API for commercial insurance
-  use_cases:
-  - Digital infrastructure platform for commercial insurance industry
-  - API integration for insurance quotes from multiple carriers
-  - Developer tools for connecting applications to insurance ecosystem
-  - Insurance product comparison and quotation system
 position:
   title: Frontend Engineer - AI Products
   ai_type:

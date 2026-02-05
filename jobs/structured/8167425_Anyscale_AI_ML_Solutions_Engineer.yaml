@@ -2,12 +2,6 @@ company:
   name: Anyscale
   stage: Series B
   focus: Distributed computing platform for scalable AI/ML
-  use_cases:
-  - Distributed model training across multi-node and multi-GPU environments
-  - Scalable model inference and serving for production ML workloads
-  - Data preprocessing and feature pipelines at scale
-  - ML workflow orchestration and operational best practices
-  - MLOps platform integration including CI/CD, monitoring, and retraining pipelines
 position:
   title: AI / ML Solutions Engineer
   ai_type:

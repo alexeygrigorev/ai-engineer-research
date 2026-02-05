@@ -2,12 +2,6 @@ company:
   name: Anthropic
   stage: Series B
   focus: Safe and beneficial AI systems
-  use_cases:
-  - Large-scale language model serving infrastructure for millions of external customers
-  - High-traffic internal AI workloads and training pipelines
-  - Distributed model serving across multiple regions and cloud providers
-  - Real-time inference with strict latency and availability requirements
-  - GPU/TPU accelerator infrastructure for model training and serving
 position:
   title: Senior Software Engineer, AI Reliability Engineering
   ai_type:

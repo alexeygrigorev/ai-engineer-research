@@ -2,11 +2,6 @@ company:
   name: Manychat
   stage: Series B+
   focus: Chat Marketing platform for creators
-  use_cases:
-  - Instagram-focused automations and chat marketing for creators
-  - Support multi-channel conversations across Messenger, WhatsApp, and TikTok
-  - AI-powered workflows used in millions of daily conversations
-  - Customer engagement and sales automation through conversational AI
 position:
   title: Machine Learning Engineer (AI Core Team)
   ai_type:

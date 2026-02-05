@@ -2,14 +2,6 @@ company:
   name: Nebius
   stage: Public
   focus: AI cloud infrastructure and GPU cloud services
-  use_cases:
-  - Deploying foundation models including text, vision, audio, and multimodal architectures
-    at scale
-  - Providing fast, reliable, and effortless model inference serving platform
-  - Enabling massive GPU cloud infrastructure for AI/ML workloads
-  - Handling high-throughput API requests for model inference
-  - Supporting GPU-heavy workloads through accelerator stacks like vLLM, Triton, and
-    Ray
 position:
   title: Senior Site Reliability Engineer — AI Studio (Inference Platform)
   ai_type:

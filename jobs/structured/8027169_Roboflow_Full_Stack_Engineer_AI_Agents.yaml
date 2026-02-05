@@ -2,13 +2,6 @@ company:
   name: Roboflow
   stage: Series B
   focus: Computer vision tools and AI platform
-  use_cases:
-  - Guiding users through building, debugging, and deploying computer vision solutions
-  - Enabling external AI agents to interact with Roboflow's platform via tool interfaces
-    and APIs
-  - Automating computer vision pipeline construction through agentic experiences
-  - Streamlining the path from CV prototype to production deployments
-  - Providing developer tools for end-to-end computer vision application development
 position:
   title: Full Stack Engineer, AI Agents
   ai_type:

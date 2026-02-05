@@ -2,13 +2,6 @@ company:
   name: ClickUp
   stage: Series C+
   focus: Productivity software with AI-powered workspace
-  use_cases:
-  - Context-driven AI productivity workspace that unifies tasks, docs, chat, calendar,
-    and enterprise search
-  - AI-powered features that help users break free from silos and reclaim time
-  - Personalized user experiences delivered through context-aware AI integration
-  - Enterprise search supercharged by AI for improved productivity
-  - AI-driven innovation in the productivity software space
 position:
   title: Staff AI Engineer - AI Product
   ai_type:

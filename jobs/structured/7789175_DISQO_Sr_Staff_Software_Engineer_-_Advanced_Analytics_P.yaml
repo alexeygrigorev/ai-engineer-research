@@ -2,13 +2,6 @@ company:
   name: DISQO
   stage: null
   focus: Ad measurement and analytics platform
-  use_cases:
-  - AI-powered analytics system for intuitive and instant data exploration
-  - Autonomous data exploration and insight generation using agentic AI
-  - High-performance marketing analytics with sub-second query performance
-  - Advertising performance measurement and consumer behavior analysis
-  - Large-scale data processing at billions of data points for marketing datasets
-  - Intelligent decision-making system for brands, agencies, and media companies
 position:
   title: Sr. Staff Software Engineer - Advanced Analytics Platform (Rust + AI)
   ai_type:

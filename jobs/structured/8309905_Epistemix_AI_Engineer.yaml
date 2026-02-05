@@ -4,15 +4,6 @@ company:
   focus: |-
     Simulation and modeling platform for forecasting outcomes
     and risk
-  use_cases:
-  - Making modeling and simulation accessible to non-data scientists through AI-driven
-    applications
-  - Enabling decision makers to generate agent-based models that address critical
-    business questions
-  - Helping data scientists build agent-based models more quickly using AI generation
-  - Forecasting outcomes and managing risk through behavior modeling
-  - Scenario planning through advanced data science and simulation for healthcare,
-    insurance, and government sectors
 position:
   title: AI Engineer
   ai_type:

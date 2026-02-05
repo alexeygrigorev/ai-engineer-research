@@ -2,12 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services with AI/ML
-  use_cases:
-  - Informing customers about unusual charges in real time
-  - Answering customer questions in real time
-  - Creating real-time personalized customer experiences
-  - Enhancing banking products with transformative AI capabilities
-  - Empowering associates with AI-powered tools to improve work processes
 position:
   title: Senior AI Engineer (LLM Core)
   ai_type:

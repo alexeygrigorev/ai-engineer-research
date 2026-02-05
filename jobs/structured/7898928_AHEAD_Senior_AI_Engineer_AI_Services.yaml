@@ -4,13 +4,6 @@ company:
   focus: |-
     Digital transformation platforms and cloud infrastructure
     services
-  use_cases:
-  - Document intelligence for processing and analyzing enterprise documents
-  - Service desk automation using agents to handle support workflows
-  - Coding automation and SDLC acceleration through AI-assisted development tools
-  - Operations automation and business process orchestration across enterprise systems
-  - Decision support systems using RAG and tool-calling for data-driven insights
-  - Real-time and batch workflow automation connecting agents to enterprise data sources
 position:
   title: Senior AI Engineer, AI Services
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Lawhive
   stage: Series A
   focus: AI-powered legal services platform
-  use_cases:
-  - Legal document analysis and review
-  - Automated legal advice generation
-  - Case outcome predictions
-  - Consumer legal work assistance
-  - AI lawyer platform deployment and scaling
 position:
   title: Senior Applied AI Engineer
   ai_type:

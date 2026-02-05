@@ -2,12 +2,6 @@ company:
   name: OneMagnify
   stage: Public
   focus: Performance marketing and data analytics
-  use_cases:
-  - Marketing and brand strategy design using analytical and predictive data models
-  - Generative AI solutions for marketing optimization
-  - Customer insights generation to drive sales conversion
-  - Real-time business results amplification through AI
-  - Data-driven decision support for marketing initiatives
 position:
   title: AI Engineer
   ai_type:

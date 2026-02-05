@@ -4,13 +4,6 @@ company:
   focus: |-
     AI-powered customer support automation for complex
     businesses
-  use_cases:
-  - Automating customer support responses for complex businesses including fintechs,
-    healthtechs, marketplaces, and delivery services
-  - Providing personalized concierge services to customers beyond reactive support
-  - Handling high volumes of support tickets with AI automation
-  - Enabling support teams to focus on managing automation and complex cases rather
-    than simple tickets
 position:
   title: Forward Deployed AI Engineer
   ai_type:

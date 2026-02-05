@@ -2,17 +2,6 @@ company:
   name: Voyager Technologies
   stage: null
   focus: Defense, national security, and space technology
-  use_cases:
-  - AI agents design complex hardware systems end-to-end through autonomous reasoning
-    and decision-making
-  - Compress complex hardware development cycles from years to days using agentic
-    AI systems
-  - Integrate Design for Manufacturing (DfM), Design for Assembly (DfA), and Design
-    for Test (DfT) into initial design specifications
-  - Connect AI agents to engineering tools such as Ansys, Altium, and CAD/CAE platforms
-    for automated analysis
-  - Enable agents to autonomously run physics simulations, test data analysis, and
-    manufacturing workflow optimization
 position:
   title: Senior AI Engineer – Agentic Platform Lead
   ai_type:

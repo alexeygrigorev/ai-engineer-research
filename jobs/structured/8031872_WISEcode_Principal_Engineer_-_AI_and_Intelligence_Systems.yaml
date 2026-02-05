@@ -2,19 +2,6 @@ company:
   name: WISEcode
   stage: well-funded startup
   focus: AI-powered personalized nutrition platform
-  use_cases:
-  - Translate product ideas, domain concepts, and company vision into intelligent
-    systems that reason over food, ingredients, nutrition, and user preferences
-  - Combine LLMs, traditional ML, rules, and deterministic logic into coherent, testable
-    workflows for food and nutrition intelligence
-  - Apply AI techniques to improve personalization, understanding, and automation
-    in nutrition recommendations
-  - Deliver responsible, transparent, and explainable AI that aligns with consumer
-    trust and empowerment
-  - Build hybrid intelligence systems that balance probabilistic reasoning with deterministic
-    computation for accurate nutrition guidance
-  - Enable personalized nutrition recommendations based on comprehensive food and
-    nutrition data analysis
 position:
   title: Principal Engineer - AI and Intelligence Systems
   ai_type:

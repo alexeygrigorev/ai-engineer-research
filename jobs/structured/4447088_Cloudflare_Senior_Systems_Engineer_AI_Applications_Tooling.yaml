@@ -2,12 +2,6 @@ company:
   name: Cloudflare
   stage: Public
   focus: Internet infrastructure and security platform
-  use_cases:
-  - AI-powered code generation and debugging tools for developers
-  - AI observability platform for model monitoring and explainability
-  - Edge-optimized model inference for low-latency AI applications
-  - Autonomous intelligent agents for developer automation
-  - AI-powered developer platform integrations
 position:
   title: Senior Systems Engineer, AI Applications Tooling
   ai_type:

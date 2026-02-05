@@ -4,16 +4,6 @@ company:
   focus: |-
     Speech Intelligence using AI/ML to unlock business value in
     human speech worldwide
-  use_cases:
-  - Powering state-of-the-art speech recognition models through large-scale, high-quality
-    datasets
-  - Enabling voice AI technology to unlock business value in human speech across global
-    industries
-  - Supporting cutting-edge speech intelligence projects that integrate into customer
-    stacks irrespective of industry
-  - Delivering data that shifts the cost/throughput/quality frontier for next-generation
-    speech models
-  - Extracting useful information from speech for business applications worldwide
 position:
   title: Software Engineer - Data & AI
   ai_type:

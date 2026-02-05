@@ -2,11 +2,6 @@ company:
   name: Mistral AI
   stage: Series B
   focus: Open-source AI models and platform for enterprises
-  use_cases:
-  - Enterprise AI solution deployment for consumer and industrial applications
-  - Customer transformation projects adopting AI technologies in production environments
-  - High-stakes AI deployments across diverse industries globally
-  - End-to-end AI application implementation from infrastructure to front-end interfaces
 position:
   title: Applied AI, Senior MLOps Engineer - NYC
   ai_type:

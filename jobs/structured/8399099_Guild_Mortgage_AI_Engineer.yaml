@@ -2,16 +2,6 @@ company:
   name: Guild Mortgage
   stage: Public
   focus: Mortgage banking and home financing
-  use_cases:
-  - Enhancing user interface and user experience of applications to make them more
-    intuitive and responsive
-  - Solving specific business problems in mortgage banking and home financing through
-    AI-driven solutions
-  - Improving application capabilities by integrating machine learning models trained
-    on relevant datasets
-  - Automating data processing and analysis to support lending operations and decision-making
-  - Providing insights and reports to management through AI system performance analysis
-  - Integrating AI into various business processes to align with organizational objectives
 position:
   title: AI Engineer
   ai_type:

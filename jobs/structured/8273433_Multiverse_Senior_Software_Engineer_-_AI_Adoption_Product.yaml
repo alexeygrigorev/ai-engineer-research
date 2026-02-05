@@ -2,13 +2,6 @@ company:
   name: Multiverse
   stage: Series D
   focus: AI and tech upskilling platform for workforce development
-  use_cases:
-  - Deliver personalized, role- and tool-specific AI use cases to enterprise employees
-  - Provide AI upskilling at scale with enhanced social features and measurable ROI
-  - Help major global companies adopt AI tools and improve workforce productivity
-  - Track and demonstrate ROI improvements through AI-driven productivity gains
-  - Transform workforce capabilities through software and services delivering essential
-    AI and data skills
 position:
   title: Senior Software Engineer - AI Adoption Product
   ai_type:

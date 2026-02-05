@@ -2,11 +2,6 @@ company:
   name: Hex
   stage: Series B
   focus: Data analytics platform with AI features
-  use_cases:
-  - AI-augmented analytics workflows for data understanding
-  - Data agents for automated data analysis
-  - Context-aware AI features integrated with data workflows
-  - AI-powered tools that accelerate data exploration
 position:
   title: Product Engineer - AI Platform
   ai_type:

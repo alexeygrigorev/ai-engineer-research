@@ -2,12 +2,6 @@ company:
   name: Mistral AI
   stage: Series A
   focus: Open-source LLMs and AI platform
-  use_cases:
-  - Enterprise AI platform deployment for customers in cloud or on-premises environments
-  - Consumer AI assistant applications through le Chat
-  - Industrial AI applications and transformations across various industries
-  - Inference and fine-tuning deployment for enterprise customers
-  - End-to-end AI solutions from GPU infrastructure to user interfaces
 position:
   title: Applied AI Engineer, Senior/Staff Devops/SRE - EMEA
   ai_type:

@@ -2,16 +2,6 @@ company:
   name: Adaptive ML
   stage: Seed
   focus: RLOps platform for LLM specialization and deployment
-  use_cases:
-  - Specializing and deploying large language models into production environments
-    for enterprises
-  - Building synthetic data pipelines to bootstrap models and enable continuous improvement
-    from production feedback
-  - Optimizing task-specific LLM development for measurable business impact and ROI
-  - Running production-ready workflows that serve millions of requests while optimizing
-    cost and performance
-  - Helping customers bridge the gap from proof-of-concept to production for generative
-    AI projects
 position:
   title: AI Engineer
   ai_type:

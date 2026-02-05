@@ -4,19 +4,6 @@ company:
   focus: |-
     Connected Operations Cloud for IoT data and physical
     operations
-  use_cases:
-  - Demand forecasting across thousands of SKUs with time series models to predict
-    future inventory needs
-  - Supply risk modeling using real-time IoT signals to identify and mitigate supplier
-    vulnerabilities
-  - Inventory optimization using predictive analytics to balance stock levels, reduce
-    costs, and improve operational efficiency
-  - Lead time forecasting to anticipate delays and optimize procurement and logistics
-    planning
-  - Anomaly detection on large-scale ERP and IoT datasets to identify operational
-    issues and opportunities for improvement
-  - Cellular spend forecasting to optimize telecommunications costs across the global
-    supply network
 position:
   title: Sr. AI/Machine Learning Engineer - Supply Chain
   ai_type:

@@ -4,14 +4,6 @@ company:
   focus: |-
     Healthcare intelligence analytics and data-driven decision-
     making
-  use_cases:
-  - AI-assistant for healthcare analytics providing conversational interfaces
-  - AI-enhanced data validation and quality assurance for healthcare data
-  - HCC recapture, risk scoring automation and predictive modeling
-  - Claims pattern recognition, fraud detection, and utilization forecasting
-  - Member segmentation, risk stratification, and predictive analytics for population
-    health
-  - Clinical coding, documentation improvement, and insights extraction using NLP
 position:
   title: Senior AI Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Checkout.com
   stage: Public
   focus: Global digital payment processing platform
-  use_cases:
-  - AI-powered chatbots and virtual assistants for internal and external users
-  - Knowledge extraction tools to process and retrieve information from documents
-  - AI-integrated workflows for internal and external business processes
-  - AI-driven features embedded in payment processing products and services
-  - Intelligent interfaces enabling teams to interact with AI capabilities
 position:
   title: Senior AI Engineer, Centre of Excellence
   ai_type:

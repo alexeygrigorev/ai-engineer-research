@@ -2,14 +2,6 @@ company:
   name: GE Healthcare
   stage: Public
   focus: Medical technology and digital solutions
-  use_cases:
-  - Commercial excellence through AI-driven insights and automation
-  - Logistics optimization and inventory management using predictive and generative
-    AI
-  - Manufacturing innovation with AI-powered process optimization
-  - Finance transformation through automated insights and decision support
-  - Supply chain optimization and demand forecasting
-  - Quality assurance and operational excellence with AI-powered analytics
 position:
   title: Senior Staff AI Application Engineer, Enterprise AI
   ai_type:

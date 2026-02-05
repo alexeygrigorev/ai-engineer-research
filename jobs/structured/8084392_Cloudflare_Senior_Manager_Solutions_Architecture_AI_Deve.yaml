@@ -2,15 +2,6 @@ company:
   name: Cloudflare
   stage: Public
   focus: Global internet infrastructure and developer platform
-  use_cases:
-  - Building and deploying applications globally using Cloudflare's developer platform
-    including Workers, R2, KV, and Durable Objects
-  - Developing distributed serverless applications with AI capabilities through Workers
-    AI
-  - Implementing edge computing solutions for improved application performance and
-    protection
-  - Creating developer acquisition pathways in an AI and distributed agent landscape
-  - Designing full-stack applications on distributed systems architecture
 position:
   title: Senior Manager, Solutions Architecture , AI & Developer Platform
   ai_type:

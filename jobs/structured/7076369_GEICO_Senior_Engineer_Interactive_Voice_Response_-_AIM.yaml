@@ -2,13 +2,6 @@ company:
   name: GEICO
   stage: Public
   focus: Insurance provider using AI for customer service automation
-  use_cases:
-  - Interactive Voice Response (IVR) systems enhanced with AI for customer self-service
-  - Chat-based customer service automation using intelligent agents
-  - Multi-agent collaborative decision-making for automated customer support
-  - Natural language processing for understanding customer queries across voice and
-    text channels
-  - Speech recognition integration for voice-based self-service applications
 position:
   title: Senior Engineer, Interactive Voice Response - AI/ML
   ai_type:

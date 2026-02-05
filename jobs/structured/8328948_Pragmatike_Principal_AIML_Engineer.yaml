@@ -2,16 +2,6 @@ company:
   name: Pragmatike
   stage: Seed
   focus: GenAI startup building production AI systems
-  use_cases:
-  - Deploying large-scale generative AI models and LLMs in production environments
-  - Optimizing training and inference pipelines for AI systems serving Fortune 500
-    clients
-  - Managing distributed GPU clusters for model training and serving at enterprise
-    scale
-  - Implementing observability and monitoring for production ML systems to ensure
-    reliability and performance
-  - Building automated ML workflows for model lifecycle management including fine-tuning
-    and evaluation
 position:
   title: Principal AI/ML Engineer
   ai_type:

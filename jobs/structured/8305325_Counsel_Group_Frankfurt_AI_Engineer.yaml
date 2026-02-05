@@ -2,11 +2,6 @@ company:
   name: Counsel Group Frankfurt
   stage: null
   focus: AI/ML solutions for banking sector
-  use_cases:
-  - Fraud detection systems for banking transactions
-  - Credit scoring and risk assessment models
-  - NLP-based automation for banking processes
-  - General banking process automation and optimization
 position:
   title: AI Engineer
   ai_type:

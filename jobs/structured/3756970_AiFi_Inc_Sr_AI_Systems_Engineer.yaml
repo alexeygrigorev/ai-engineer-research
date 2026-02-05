@@ -2,12 +2,6 @@ company:
   name: AiFi Inc.
   stage: null
   focus: Autonomous retail with computer vision scene understanding
-  use_cases:
-  - Camera calibration for retail spaces with hundreds of cameras
-  - 3D reconstruction from multi-view camera images
-  - Semantic segmentation for scene understanding in autonomous retail
-  - Structure from Motion and SLAM for spatial mapping
-  - Scene understanding services deployed across hundreds of retail stores
 position:
   title: Sr. AI Systems Engineer
   ai_type:

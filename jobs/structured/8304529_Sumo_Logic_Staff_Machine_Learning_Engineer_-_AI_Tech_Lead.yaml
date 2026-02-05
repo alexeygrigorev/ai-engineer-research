@@ -2,14 +2,6 @@ company:
   name: Sumo Logic
   stage: Public
   focus: Cloud-native log analytics and security
-  use_cases:
-  - Agentic Security Operations Center (SOC) for automated security incident detection,
-    triage, investigation, and response
-  - Real-time reasoning over large-scale machine log data to drive security operations
-  - Multi-agent systems for security workflows including threat detection and incident
-    response
-  - LLM-powered analysis of security and observability data with domain-specific fine-tuning
-  - Automated investigation and triage workflows using agent-based reasoning
 position:
   title: Staff Machine Learning Engineer - AI Tech Lead
   ai_type:

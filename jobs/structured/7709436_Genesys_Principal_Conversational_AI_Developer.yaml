@@ -2,14 +2,6 @@ company:
   name: Genesys
   stage: Public
   focus: AI-powered customer experience orchestration platform
-  use_cases:
-  - Self-service IVR systems for automated customer support and routing
-  - AI-driven voicebots and virtual agents for natural language customer interactions
-  - Conversational AI solutions integrating speech recognition and natural language
-    understanding
-  - Customer experience automation through intelligent virtual agents and chatbots
-  - Scalable multi-channel self-service platforms for enterprise customer engagement
-  - Integration of conversational AI with telephony systems and contact center infrastructure
 position:
   title: Principal Conversational AI Developer
   ai_type:

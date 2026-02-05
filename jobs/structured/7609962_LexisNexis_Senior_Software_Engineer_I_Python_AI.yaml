@@ -2,15 +2,6 @@ company:
   name: LexisNexis
   stage: Public
   focus: Patent intelligence and IP analysis using AI
-  use_cases:
-  - Automated patent classification using AI to categorize millions of patents globally
-  - Extracting relevant patents into custom categories based on user-defined technology
-    areas
-  - Disrupting traditional patent data analysis with machine learning and expert analysis
-  - Enabling innovators to make informed decisions with faster and more accurate patent
-    insights
-  - Providing actionable intelligence from patent data with efficiency and accuracy
-    beyond traditional methods
 position:
   title: Senior Software Engineer I (Python & AI)
   ai_type:

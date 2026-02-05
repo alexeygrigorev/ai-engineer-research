@@ -2,12 +2,6 @@ company:
   name: StubHub
   stage: Public
   focus: Global ticket marketplace for live events
-  use_cases:
-  - Customer support automation through AI-powered solutions
-  - Pricing insights and analytics using AI models
-  - Developer productivity enhancement through AI tools and agents
-  - Workflow automation across business domains
-  - Internal process optimization through AI enablement
 position:
   title: Senior Software Engineer - AI Platform
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Celonis
   stage: Public
   focus: Process Intelligence and process mining SaaS platform
-  use_cases:
-  - Business process optimization and improvement using AI and Process Intelligence
-  - Traditional machine learning solutions for enterprise business problems
-  - LLM-based solutions and automations for customer-specific use cases
-  - AI-driven process mining and analysis to uncover business insights
-  - Enterprise automation solutions leveraging AI and process intelligence
-  - Digital twin creation of business operations using AI technology
 position:
   title: Senior AI Solutions Engineer
   ai_type:

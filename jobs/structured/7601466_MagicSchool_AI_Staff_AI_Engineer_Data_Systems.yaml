@@ -2,19 +2,6 @@ company:
   name: MagicSchool AI
   stage: Series B
   focus: Generative AI platform for teachers and educators
-  use_cases:
-  - AI-powered educational agents that can reason over structured knowledge to assist
-    teachers with curriculum planning and lesson design
-  - Intelligent retrieval systems that surface relevant educational standards, lesson
-    plans, and teaching materials based on contextual queries
-  - Knowledge graph-driven curriculum navigation that helps teachers understand prerequisite
-    relationships and learning progressions
-  - Memory-aware AI agents that maintain coherent understanding across extended teaching
-    workflows while managing token budgets
-  - Educational content processing and enrichment systems that extract pedagogical
-    metadata from unstructured documents
-  - Semantic search over millions of educational resources enabling precise content
-    discovery for diverse teaching scenarios
 position:
   title: Staff AI Engineer, Data Systems
   ai_type:

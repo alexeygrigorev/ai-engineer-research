@@ -2,13 +2,6 @@ company:
   name: Mastercard
   stage: Public
   focus: Global digital payments technology company
-  use_cases:
-  - Generative AI platform for Large Language Models serving enterprise-wide use cases
-  - MCP server deployment at scale for protocol-based AI interactions
-  - AI Agents deployment with context window management and A2A protocol support
-  - RAG systems with prompt engineering, chunking, embeddings, and vector stores
-  - Model evaluation, governance, tuning, and orchestration for commercial and open
-    source models
 position:
   title: Lead AI Software Engineer- AI Enablement
   ai_type:

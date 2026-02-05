@@ -2,13 +2,6 @@ company:
   name: Cohere AI
   stage: Series A+ (growing startup)
   focus: Building frontier models and enterprise AI agents
-  use_cases:
-  - Enterprise workflow automation through agentic AI systems
-  - Content generation and semantic search powered by LLMs
-  - Retrieval-Augmented Generation (RAG) for enterprise knowledge access
-  - Multi-step agent workflows that reason, plan, and act across tools and data sources
-  - Tool and API integration for autonomous task execution
-  - Human-in-the-loop workflows with enterprise-grade reliability and observability
 position:
   title: Applied AI Engineer – Agentic Workflows
   ai_type:

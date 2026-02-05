@@ -2,14 +2,6 @@ company:
   name: KnowBe4
   stage: null
   focus: Security awareness training and simulated phishing platform
-  use_cases:
-  - LLM agents for automating business processes and streamlining workflows
-  - RAG systems for enhanced search using embeddings and custom techniques
-  - Automated systems for detecting and catching LLM hallucinations and unexpected
-    behavior
-  - Microservices for audio file conversion, denoising, and transcription
-  - AI-powered full-stack applications integrating machine learning models with user-facing
-    interfaces
 position:
   title: AI Software Engineer (Internal Engineering) (Remote)
   ai_type:

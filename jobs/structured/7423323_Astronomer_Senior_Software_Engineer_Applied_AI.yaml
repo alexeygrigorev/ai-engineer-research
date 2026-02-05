@@ -2,17 +2,6 @@ company:
   name: Astronomer
   stage: Series C or later
   focus: Unified DataOps platform powered by Apache Airflow
-  use_cases:
-  - Global context layer for data providing intelligence across organizations from
-    raw ingestion to production dashboards and AI products
-  - AI-powered search and discovery enabling data practitioners to find and understand
-    data across their organization
-  - LLM-assisted code generation for data and analytics workflows, generating Python
-    and SQL code against data platforms
-  - Automated root cause analysis for data pipelines using AI to understand and diagnose
-    data flow issues
-  - Semantic information retrieval for data platforms allowing natural language queries
-    over data infrastructure and metadata
 position:
   title: Senior Software Engineer, Applied AI
   ai_type:

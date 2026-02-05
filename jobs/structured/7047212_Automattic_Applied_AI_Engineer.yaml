@@ -2,13 +2,6 @@ company:
   name: Automattic
   stage: Public
   focus: Web publishing, e-commerce, and messaging platforms
-  use_cases:
-  - Content creation tools for creators to tell better stories
-  - E-commerce recommendations to help merchants compete effectively
-  - AI-powered messaging experiences for communications
-  - User-facing AI features that enhance WordPress.com, WooCommerce, Tumblr, and other
-    platforms
-  - Scalable AI-powered user interfaces that perform well at production scale
 position:
   title: Applied AI Engineer
   ai_type:

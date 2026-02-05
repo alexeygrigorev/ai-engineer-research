@@ -2,12 +2,6 @@ company:
   name: Zillow
   stage: Public
   focus: Digital real estate marketplace
-  use_cases:
-  - Personalized home ranking and recommendations for home shoppers
-  - Semantic search and autocomplete for property discovery
-  - Display optimization to show relevant homes at the right time
-  - Generative AI applications for intuitive, personalized home shopping experiences
-  - Large-scale recommender systems serving hundreds of millions of daily requests
 position:
   title: Machine Learning Engineer, Zillow Shopping AI
   ai_type:

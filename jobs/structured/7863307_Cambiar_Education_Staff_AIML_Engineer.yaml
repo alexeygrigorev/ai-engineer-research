@@ -2,12 +2,6 @@ company:
   name: Cambiar Education
   stage: Series B
   focus: K-12 education nonprofit venture studio
-  use_cases:
-  - User-facing education products and tools powered by AI capabilities
-  - Internal operational tools and efficiencies through AI automation
-  - AI-powered product features leveraging LLMs and RAG for enhanced functionality
-  - Rapid iteration and development of AI applications in education technology
-  - Secure AI applications handling sensitive educational data with FERPA/COPPA compliance
 position:
   title: Staff AI/ML Engineer
   ai_type:

@@ -4,16 +4,6 @@ company:
   focus: |-
     Healthcare data analytics platform for life sciences and
     healthcare
-  use_cases:
-  - Track detailed patient behaviors and treatment patterns using real-world healthcare
-    data
-  - Identify gaps in care and address unmet patient needs through advanced analytics
-  - Support life sciences commercial strategies and HEOR/RWE (Health Economics and
-    Outcomes Research/Real World Evidence) studies
-  - Enable pharmaceutical companies to unlock critical insights from healthcare claims
-    data and de-identified patient records
-  - Deliver AI-powered healthcare analytics for tracking disease burden and treatment
-    outcomes
 position:
   title: Senior Sales Engineer - AI/ML Advanced Data Architecture - HealthTech
   ai_type:

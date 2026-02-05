@@ -2,13 +2,6 @@ company:
   name: Starr Insurance
   stage: Public
   focus: Commercial property and casualty insurance
-  use_cases:
-  - Improve profitability through AI/ML-driven insights and optimization
-  - Enhance underwriting decisions using propensity and uplift modeling
-  - Optimize claims processing with predictive classification models
-  - Improve risk assessment through forecasting and advanced analytics
-  - Augment customer service with AI/ML capabilities
-  - Leverage foundation models for insurance-specific applications and fine-tuning
 position:
   title: AI/ML Engineer
   ai_type:

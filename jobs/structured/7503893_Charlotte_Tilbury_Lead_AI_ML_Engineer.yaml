@@ -2,13 +2,6 @@ company:
   name: Charlotte Tilbury
   stage: Public (implied by global scale, 2,300+ employees, and 10+ years of operation)
   focus: Global beauty and makeup brand
-  use_cases:
-  - Agentic AI systems with RAG capabilities for business process automation and knowledge
-    retrieval
-  - Recommender systems for product suggestions and personalization in e-commerce
-  - Customer segmentation models using supervised and unsupervised learning approaches
-  - Marketing optimisation modules leveraging econometric modelling
-  - Forecasting models for business planning and inventory management
 position:
   title: Lead AI & ML Engineer
   ai_type:

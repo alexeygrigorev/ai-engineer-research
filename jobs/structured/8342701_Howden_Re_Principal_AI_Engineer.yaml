@@ -2,12 +2,6 @@ company:
   name: Howden Re
   stage: Public
   focus: Global insurance group with employee ownership
-  use_cases:
-  - Enterprise-grade AI solutions for commercial insurance domain
-  - LLM-powered applications using RAG architectures and semantic search
-  - AI workflows for complex business problem solving in insurance
-  - Automated decision-making systems for insurance operations
-  - Knowledge retrieval systems using vector databases and semantic search
 position:
   title: Principal AI Engineer
   ai_type:

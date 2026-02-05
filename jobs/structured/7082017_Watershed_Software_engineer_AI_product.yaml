@@ -2,12 +2,6 @@ company:
   name: Watershed
   stage: Series B
   focus: Enterprise sustainability and ESG data platform
-  use_cases:
-  - AI-powered information extraction from sustainability data
-  - Automated sustainability and ESG report generation
-  - Climate data management with AI assistance
-  - Audit-ready metrics generation for regulatory reporting
-  - Decarbonization progress tracking and reporting
 position:
   title: Software engineer, AI product
   ai_type:

@@ -2,17 +2,6 @@ company:
   name: Bullish
   stage: Public
   focus: Institutional digital asset exchange platform
-  use_cases:
-  - Conversational analytics enabling stakeholders to query complex business datasets
-    through natural language
-  - Multi-agent systems for coordinating across data sources and applying industry
-    best practices for agent orchestration
-  - AI-powered intelligence across digital asset exchange, media, data, and indices
-    businesses
-  - Compliance and trading applications requiring observable, testable, and auditable
-    AI outputs
-  - Enterprise solutions spanning trading floors to compliance with governed semantic
-    layers
 position:
   title: Lead Engineer, AI Platform
   ai_type:

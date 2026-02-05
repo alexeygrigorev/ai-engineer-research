@@ -2,14 +2,6 @@ company:
   name: GEICO
   stage: Public
   focus: Insurance company providing auto and property coverage
-  use_cases:
-  - Training and fine-tuning open source Large Language Models for enterprise applications
-  - Serving LLMs at scale with low latency and high throughput for production workloads
-  - Enabling data science teams to develop and deploy ML models through feature stores
-    and infrastructure
-  - Integrating LLM capabilities into GEICO's customer-facing insurance applications
-  - Supporting research teams with infrastructure for experimenting with cutting-edge
-    LLM techniques and architectures
 position:
   title: Staff Software Engineer - AI/ML Infra
   ai_type:

@@ -2,16 +2,6 @@ company:
   name: Conversica
   stage: null
   focus: AI-powered customer engagement solutions
-  use_cases:
-  - Agentic system design with orchestration, tool use, state/memory, and multi-step
-    workflows
-  - LLM-powered applications for customer engagement and business communication
-  - Quality evaluation systems with harnesses, regression tests for prompts/agents,
-    and online/offline metrics
-  - Guardrails for hallucination mitigation, grounding, HITL review, and safe degradation
-    paths
-  - Retrieval-augmented generation (RAG) with indexing, freshness, and data layer
-    design
 position:
   title: Staff AI Software Engineer
   ai_type:

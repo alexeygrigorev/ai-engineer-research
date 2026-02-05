@@ -2,11 +2,6 @@ company:
   name: Airbnb
   stage: Public
   focus: Online marketplace for lodging and experiences
-  use_cases:
-  - Provide GPU platform infrastructure for ML teams to train and deploy models
-  - Enable AI Compute features related to security, networking, and operational efficiency
-  - Support ML engineering experience with reliable and scalable compute infrastructure
-  - Power Airbnb's AI capabilities through Kubernetes-based GPU platform management
 position:
   title: Senior Software Engineer, AI Compute
   ai_type:

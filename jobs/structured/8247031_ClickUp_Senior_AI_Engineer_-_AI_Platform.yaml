@@ -2,13 +2,6 @@ company:
   name: ClickUp
   stage: Series B
   focus: AI-powered productivity and workspace platform
-  use_cases:
-  - Context-driven AI workspace that unifies tasks, docs, chat, calendar, and enterprise
-    search
-  - Intelligent features powered by LLMs across ClickUp's productivity platform
-  - AI-driven applications integrating search technologies for enhanced user experience
-  - Productivity tools that help teams break free from silos and reclaim time
-  - Enterprise search capabilities supercharged by AI for improved information retrieval
 position:
   title: Senior AI Engineer - AI Platform
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: Capco
   stage: null
   focus: Consulting for financial services digital transformation
-  use_cases:
-  - Autonomous AI systems with multi-modal capabilities for financial services
-  - Agentic workflows for AI agents interacting with enterprise data sources and APIs
-  - Generative AI solutions integrated into enterprise-scale financial systems
-  - MLOps pipelines for production-grade AI deployments in financial institutions
-  - Strategic GenAI adoption and implementation for Tier 1 financial institutions
 position:
   title: Lead AI Engineer
   ai_type:

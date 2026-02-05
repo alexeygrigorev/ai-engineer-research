@@ -2,13 +2,6 @@ company:
   name: WorldQuant
   stage: Public
   focus: Systematic quantitative trading and financial strategies
-  use_cases:
-  - AI-assisted insights for Portfolio Managers to analyze trading strategies more
-    efficiently
-  - Natural language interfaces to query and maintain financial strategies using LLMs
-  - Automated routine analytical tasks for strategy management and performance analysis
-  - Secure access to proprietary strategy data, PnL attribution, and risk factor analysis
-    through AI-driven tools
 position:
   title: Quantitative Developer -  AI Implementation
   ai_type:

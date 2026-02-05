@@ -2,13 +2,6 @@ company:
   name: Freed
   stage: Series B
   focus: AI-powered medical documentation scribe for clinicians
-  use_cases:
-  - AI medical scribe that automates clinical documentation by transcribing patient
-    encounters
-  - Generating over 100,000 patient notes daily across 26,000 clinicians
-  - Patient-facing assistants and patient insights through AI-powered analysis
-  - EHR integrations to seamlessly incorporate AI-generated documentation into clinical
-    workflows
 position:
   title: ML Engineer, Voice & AI
   ai_type:

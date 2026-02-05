@@ -2,12 +2,6 @@ company:
   name: ASOS
   stage: Public
   focus: Online fashion retail platform
-  use_cases:
-  - Personalised fashion experiences for millions of online retail customers
-  - LLM-powered product recommendations and search optimization
-  - Generative AI solutions for fashion content creation and styling advice
-  - Automated evaluation and monitoring of AI model performance in retail context
-  - Ethical AI systems with bias mitigation for fashion recommendations
 position:
   title: Senior AI Engineer
   ai_type:

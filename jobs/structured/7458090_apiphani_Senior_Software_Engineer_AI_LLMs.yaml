@@ -2,13 +2,6 @@ company:
   name: apiphani
   stage: Small but rapidly growing (early-stage)
   focus: Intelligent infrastructure automation through agentic AI
-  use_cases:
-  - Agentic AI platform for intelligent infrastructure automation
-  - Autonomous infrastructure actions powered by LLM-based reasoning
-  - Retrieval-augmented generation for semantic search across enterprise infrastructure
-    data
-  - Multi-model AI orchestration supporting various LLM providers
-  - Enterprise IT and managed service provider automation through intelligent agents
 position:
   title: Senior Software Engineer (AI / LLMs)
   ai_type:

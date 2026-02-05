@@ -2,16 +2,6 @@ company:
   name: Defense Unicorns
   stage: null
   focus: Secure software and AI solutions for defense
-  use_cases:
-  - Deploying agentic Generative AI systems for defense and government applications
-  - Enabling Retrieval Augmented Generation for information access and decision support
-    in tactical environments
-  - Delivering AI capabilities in air-gapped and secure environments for warfighter
-    operations
-  - Building context engineering solutions that integrate LLMs into larger system
-    architectures
-  - Supporting mission-critical software delivery with rapid deployment and secure
-    AI integration
 position:
   title: Forward Deployed AI Engineer
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Foundation Health
   stage: Seed
   focus: AI-powered digital pharmacy platform transforming healthcare
-  use_cases:
-  - Patient care optimization through AI-powered classification and personalization
-  - Healthcare search systems for improved information retrieval
-  - AI-generated content and forecasting for healthcare operations
-  - Care coordination optimization using ML models
-  - Digital pharmacy platform powered by intelligent systems
-  - Enterprise healthcare solutions using foundation models and RAG
 position:
   title: Senior AI Engineer
   ai_type:

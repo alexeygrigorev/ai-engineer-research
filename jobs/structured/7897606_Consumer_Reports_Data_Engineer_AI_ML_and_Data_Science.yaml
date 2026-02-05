@@ -2,13 +2,6 @@ company:
   name: Consumer Reports
   stage: null
   focus: Independent nonprofit consumer advocacy organization
-  use_cases:
-  - AI-powered consumer product ratings and reviews
-  - Generative AI applications for enhancing consumer insights and recommendations
-  - Machine learning models for analyzing consumer trends and marketplace challenges
-  - Analytics dashboards for reporting on consumer survey data and testing results
-  - Data-driven advocacy tools for identifying and addressing marketplace harms
-  - Feature stores and data infrastructure supporting production AI/ML workloads
 position:
   title: Data Engineer (AI, ML, and Data Science)
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Hex
   stage: Series B
   focus: AI-powered data science and analytics platform
-  use_cases:
-  - Notebook Agent - AI-powered assistance for data science workflows
-  - SQL generation - generating accurate SQL queries for data analysis
-  - Context engine - managing and utilizing user context to improve AI experiences
-  - LLM-based evaluation of agent threads for quality assessment
-  - Highly accurate and curated data experiences for enterprise data teams
-  - Accelerating and augmenting the data science workflow with AI capabilities
 position:
   title: AI Engineer (Curator)
   ai_type:

@@ -2,18 +2,6 @@ company:
   name: Vendelux
   stage: Series A
   focus: AI-powered event marketing intelligence platform
-  use_cases:
-  - AI-powered event discovery and recommendation system that helps high-growth companies
-    find highest ROI events
-  - conferences
-  - and trade shows to attend and sponsor
-  - AI-driven insights and analytics for event marketers to maximize impact of sponsored
-    and attended events
-  - Applied AI for accelerating insights and improving user workflows in event marketing
-    decision-making
-  - Recommendation systems powered by embeddings and LLMs to match companies with
-    optimal events
-  - AI agents and RAG-based systems for event intelligence and ROI measurement
 position:
   title: Senior Software Engineer, Data & AI
   ai_type:

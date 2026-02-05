@@ -2,11 +2,6 @@ company:
   name: Mistral AI
   stage: Series B
   focus: Open-source AI models and platform
-  use_cases:
-  - Deploying GenAI applications for enterprise customers
-  - Driving technological transformation through AI adoption
-  - Enhancing daily working life with AI assistant le Chat
-  - Meeting enterprise needs with on-premises or cloud AI solutions
 position:
   title: Applied AI, Forward Deployed Machine Learning Engineer - (Internship)
   ai_type:

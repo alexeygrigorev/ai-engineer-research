@@ -2,12 +2,6 @@ company:
   name: Thomson Reuters
   stage: Public
   focus: AI-powered software for accounting professionals
-  use_cases:
-  - AI-powered conversational interfaces for accounting professionals to ask questions
-    and get advice
-  - Automated accounting research using generative AI to streamline workflows
-  - Intelligent workspaces that orchestrate AI capabilities to enhance productivity
-  - Ready to Advise feature leveraging AI to provide professional guidance and recommendations
 position:
   title: Lead Product Engineer (Full Stack), Materia AI
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: Hex
   stage: Series B
   focus: AI-powered Data Science and Analytics platform
-  use_cases:
-  - Notebook Agent - AI-powered assistance for data science workflows
-  - Agentic search and discovery for finding relevant data context
-  - Context management and retrieval for AI agents in data science
-  - Permissions-aware search and indexing for data science platforms
-  - AI-powered recommendations for data science and analytics
-  - Accelerating and augmenting the data science workflow with AI
 position:
   title: AI Engineer (Search and Context)
   ai_type:

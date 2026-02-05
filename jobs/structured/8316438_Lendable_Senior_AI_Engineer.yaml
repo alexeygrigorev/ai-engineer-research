@@ -2,17 +2,6 @@ company:
   name: Lendable
   stage: Series D+ (Unicorn)
   focus: Fintech - consumer loans, credit cards, car finance
-  use_cases:
-  - Supercharge internal teams across Finance, Compliance, Product, QA, and beyond
-    with AI-powered tools
-  - Remove friction and automate tedious manual workflows to give colleagues back
-    time for high-value work
-  - Enable rapid creation of AI-powered internal data sources and automated workflows
-  - Build knowledge base systems and integrations that make company data accessible
-    to AI systems
-  - Apply agentic AI and workflow orchestration to real business problems
-  - Create internal automation platform that supports safe AI experimentation across
-    the business
 position:
   title: Senior AI Engineer
   ai_type:

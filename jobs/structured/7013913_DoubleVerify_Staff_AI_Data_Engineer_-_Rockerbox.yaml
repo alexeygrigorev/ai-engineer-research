@@ -2,13 +2,6 @@ company:
   name: DoubleVerify
   stage: Public
   focus: Marketing intelligence and measurement
-  use_cases:
-  - Marketing attribution insights and analysis
-  - Anomaly detection for marketing performance
-  - Content summarization and classification
-  - Automated marketing recommendations
-  - AI-driven workflow automation to reduce manual tasks
-  - Decisioning engines for marketing intelligence
 position:
   title: Staff AI Data Engineer -  Rockerbox
   ai_type:

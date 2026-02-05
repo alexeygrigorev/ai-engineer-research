@@ -2,14 +2,6 @@ company:
   name: S&P Global
   stage: Public
   focus: Financial data and intelligence services
-  use_cases:
-  - Secure enterprise API access and authorization for human and AI agent users
-  - Model Context Protocol (MCP) Gateway for connecting enterprise data to AI agents
-  - Fine-Grained Authorization (FGA) for AI agent access control and governance
-  - API security and governance platform supporting high-velocity AI agent access
-    patterns
-  - Context-aware policy enforcement for Generative AI applications
-  - OAuth/OIDC-based authorization for API and AI gateway traffic
 position:
   title: Lead Identity Engineer – API  & AI Gateways
   ai_type:

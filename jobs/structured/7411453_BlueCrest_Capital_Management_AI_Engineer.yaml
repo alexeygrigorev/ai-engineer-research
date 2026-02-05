@@ -2,13 +2,6 @@ company:
   name: BlueCrest Capital Management
   stage: null
   focus: Quantitative hedge fund and financial trading
-  use_cases:
-  - LLM-powered knowledge retrieval and search systems for quantitative research
-  - Agentic process automation to streamline operational workflows across the firm
-  - Internal AI tools and developer platforms that make advanced AI capabilities accessible
-    to non-technical teams
-  - Decision support systems for traders, analysts, and operational users
-  - Enterprise-scale AI adoption for enhanced trading and research capabilities
 position:
   title: AI Engineer
   ai_type:

@@ -2,15 +2,6 @@ company:
   name: Traversal
   stage: Unknown
   focus: AI Site Reliability Engineer for enterprise
-  use_cases:
-  - AI-powered troubleshooting and remediation of complex production incidents for
-    enterprise customers
-  - Automating SRE analysis processes by modeling troubleshooting expertise in AI
-    systems
-  - Preventing production incidents through AI-based pattern recognition and proactive
-    monitoring
-  - Supporting mid-market to Fortune 100 enterprises with hybrid cloud and on-prem
-    deployments
 position:
   title: AI Engineer - Site Reliability Researcher
   ai_type:

@@ -2,10 +2,6 @@ company:
   name: G2i
   stage: null
   focus: Code evaluation and LLM training services
-  use_cases:
-  - Training large language models to generate production-grade code
-  - Improving AI code generation through RLHF with human expert feedback
-  - Developing models that can propose, critique, and improve code automatically
 position:
   title: AI Software Engineer (C#)
   ai_type:

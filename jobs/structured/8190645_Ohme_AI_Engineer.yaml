@@ -4,13 +4,6 @@ company:
   focus: |-
     Integrated hardware/software smart-grid platform for
     residential EV charging
-  use_cases:
-  - Agentic AI framework for smart-grid platform integration
-  - RAG pipelines for structured and unstructured energy/charging data retrieval
-  - Intelligent agents that interact with APIs, data services, and users
-  - Tool-using agents for real-world EV charging and energy workflows
-  - Agent memory and state management for multi-step energy optimization tasks
-  - AI services for connecting cars, chargers, energy providers, and consumers
 position:
   title: AI Engineer
   ai_type:

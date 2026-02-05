@@ -2,13 +2,6 @@ company:
   name: ClickUp
   stage: Series B
   focus: AI-powered productivity and project management workspace
-  use_cases:
-  - Context-driven AI features for workspace productivity enhancement
-  - Intelligent search across tasks, documents, and unified workspace data
-  - AI-powered task management and automation features
-  - Enterprise search with natural language processing capabilities
-  - Real-time AI assistance for document creation and editing
-  - Intelligent calendar and scheduling optimization
 position:
   title: Staff AI Engineer - AI Platform
   ai_type:

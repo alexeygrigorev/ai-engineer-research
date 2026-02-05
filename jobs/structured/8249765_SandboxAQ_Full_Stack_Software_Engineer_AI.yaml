@@ -2,13 +2,6 @@ company:
   name: SandboxAQ
   stage: Growth capital-backed (Series B+)
   focus: AI solutions using Large Quantitative Models (LQMs)
-  use_cases:
-  - AI security testing and vulnerability assessment for advanced AI systems
-  - Visualization of complex vulnerability surfaces in AI and ML systems
-  - Low-latency security analysis for AI models and systems
-  - Translation of cryptographic primitives and ML models into deployable software
-    tools
-  - Enterprise-scale AI security monitoring and protection
 position:
   title: Full Stack Software Engineer, AI
   ai_type:

@@ -4,12 +4,6 @@ company:
   focus: |-
     Software and services to accelerate renewable energy
     development
-  use_cases:
-  - Automating early-stage due diligence for power projects and renewable infrastructure
-  - Streamlining siting, interconnection, and permitting processes
-  - Accelerating projects from siting to construction-ready status
-  - Supporting renewable energy developers, data center developers, real estate firms,
-    and EV charging companies
 position:
   title: Software Engineer, AI
   ai_type:

@@ -4,11 +4,6 @@ company:
   focus: |-
     AI-enabled fintech for healthcare and medical practice
     management
-  use_cases:
-  - Automating manual tasks for commercial teams in healthcare fintech
-  - Building AI-enabled patient relationship management systems
-  - Developing intelligent billing and payment solutions for medical practices
-  - Creating agentic solutions that streamline healthcare administration workflows
 position:
   title: Junior AI Engineer
   ai_type:

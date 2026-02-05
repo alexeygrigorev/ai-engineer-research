@@ -2,14 +2,6 @@ company:
   name: Kraken
   stage: Public
   focus: Smart energy operating system and platform
-  use_cases:
-  - Enabling safe, reliable, and efficient use of machine learning across the entire
-    company
-  - Providing standardized access to ML and generative AI models through shared gateways
-  - Supporting AI adoption in energy optimization and grid intelligence applications
-  - Measuring and monitoring AI system performance and safety at scale
-  - Enabling engineering and product teams to integrate AI into everyday development
-    workflows
 position:
   title: Senior Machine Learning Engineer - AI Foundations
   ai_type:

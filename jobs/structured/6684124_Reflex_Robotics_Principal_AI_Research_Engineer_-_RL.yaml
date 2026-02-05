@@ -4,13 +4,6 @@ company:
   focus: |-
     Affordable wheeled humanoid robots for manufacturing and
     logistics automation
-  use_cases:
-  - Automating dangerous and repetitive tasks in manufacturing and logistics
-  - Loading products into containers in e-commerce warehouses
-  - Lifting and moving heavy packages in retail environments
-  - Cleaning and maintenance tasks in various settings
-  - Real-time teleoperation with human-in-the-loop feedback for policy improvement
-  - Achieving 99.99% success rates in robotic manipulation tasks
 position:
   title: Principal AI Research Engineer - RL
   ai_type:

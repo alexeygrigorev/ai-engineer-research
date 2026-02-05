@@ -2,16 +2,6 @@ company:
   name: HouseAccount
   stage: Seed
   focus: Modern home services platform with AI-powered automation
-  use_cases:
-  - Match homeowners to trusted local service providers using AI-powered matching
-    systems
-  - Automate repetitive workflows and convert them into smart agents that scale daily
-    operations
-  - Enable agents to reason across internal data sources including CRM, outreach logs,
-    and provider data
-  - Create intelligent messaging and management systems for home service bookings
-  - Transform messy real-world home service processes into structured logic for AI
-    automation
 position:
   title: AI Engineer
   ai_type:

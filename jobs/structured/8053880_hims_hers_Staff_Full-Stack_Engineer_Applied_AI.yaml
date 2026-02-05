@@ -2,13 +2,6 @@ company:
   name: hims & hers
   stage: Public
   focus: Health and wellness platform with personalized healthcare
-  use_cases:
-  - AI-powered patient-facing healthcare journeys and experiences
-  - Internal efficiency tools for operations, pharmacy, and care teams
-  - Intelligent diagnosis and treatment recommendation systems
-  - Personalized healthcare delivery from diagnosis to treatment to delivery
-  - Clinical decision support with safety and privacy guardrails
-  - AI-powered e-commerce and pharmacy experiences
 position:
   title: Staff Full-Stack Engineer, Applied AI
   ai_type:

@@ -2,19 +2,6 @@ company:
   name: Airbnb
   stage: Public
   focus: Online marketplace for travel and lodging
-  use_cases:
-  - AI-powered chatbots for customer support providing intelligent responses to guest
-    and host inquiries
-  - AI Assistants that help customers navigate support interactions and resolve issues
-    efficiently
-  - Agent Copilot systems that augment human support agents with AI-generated suggestions
-    and insights
-  - Community Support x Artificial Intelligence (CSxAI) initiatives enabling scalable
-    and exceptional service experiences
-  - RAG/Search systems that retrieve relevant information to improve AI response accuracy
-    and contextual understanding
-  - Automated evaluation and testing systems to continuously monitor AI model performance
-    and safety compliance
 position:
   title: Senior Staff Machine Learning Engineer - AI Safety and Guardrail
   ai_type:

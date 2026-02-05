@@ -5,16 +5,6 @@ company:
   focus: |-
     Enterprise Generative AI platform with APIs for knowledge
     retrieval, inference, and evaluation
-  use_cases:
-  - Knowledge retrieval APIs enabling enterprise customers to build powerful Agentic
-    workflows
-  - Inference APIs for deploying AI agents in regulated industries like healthcare,
-    telecom, finance, and retail
-  - Evaluation APIs for overseeing and monitoring AI application performance and reliability
-  - Multi-tenant AI platform supporting highly regulated enterprise customers with
-    strict compliance requirements
-  - Enterprise-grade agentic workflows requiring data isolation, security, and VPC-specific
-    deployments
 position:
   title: Staff Infrastructure Software Engineer, Enterprise AI
   ai_type:

@@ -4,12 +4,6 @@ company:
   focus: |-
     AI research lab using category theory for symbolic reasoning
     models
-  use_cases:
-  - Developer SDKs and libraries for AI model integration
-  - Applied AI features including agent engineering and context tuning
-  - Per-model optimization systems for inference providers
-  - Production infrastructure for deploying symbolic reasoning models
-  - Developer tools for building applications with Symbolica's AI
 position:
   title: Software Engineer – Applied AI Systems
   ai_type:

@@ -4,13 +4,6 @@ company:
   focus: |-
     Foundational software and hardware for semiconductor
     industry and critical AI infrastructure
-  use_cases:
-  - AI-assisted semiconductor verification workflows that help hardware engineers
-    build and verify chips
-  - Interfaces and workflows that make complex verification processes more approachable
-    through AI augmentation
-  - AI-powered workflows integrated into existing semiconductor design and verification
-    processes
 position:
   title: Software Engineer, AI Product Engineer
   ai_type:

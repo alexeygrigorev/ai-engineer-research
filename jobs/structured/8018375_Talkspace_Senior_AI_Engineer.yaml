@@ -2,16 +2,6 @@ company:
   name: Talkspace
   stage: Public
   focus: Online therapy and mental healthcare platform
-  use_cases:
-  - Autonomous AI agents providing behavioral health interventions and therapy support
-  - Multi-agent systems using LLMs for reasoning, planning, and goal-setting in mental
-    health contexts
-  - Adaptive intervention strategies that optimize interaction sequencing, timing,
-    and content to maximize positive user outcomes
-  - Simulated environments for testing and pre-training agent policies across psychological
-    scenarios
-  - Real-time monitoring and evaluation of agent behavior for safety compliance and
-    therapeutic alignment
 position:
   title: Senior AI Engineer
   ai_type:

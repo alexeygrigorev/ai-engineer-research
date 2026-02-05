@@ -2,15 +2,6 @@ company:
   name: YLD
   stage: null
   focus: Software engineering, product design, and data consultancy
-  use_cases:
-  - Automating internal operational workflows across People, Finance, Engineering,
-    Product Design, Client Services, and Commercial departments
-  - Building AI-assisted workflows to reduce manual effort and improve consistency
-    in business processes
-  - Replacing fragile manual processes with resilient automated systems
-  - Integrating disparate internal systems (HRIS, finance, CRM, access management)
-    for seamless end-to-end workflows
-  - Reducing operational friction to improve efficiency across all business functions
 position:
   title: Contract Principal Operations Engineer (Automation & AI)
   ai_type:

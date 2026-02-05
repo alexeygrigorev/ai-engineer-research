@@ -4,13 +4,6 @@ company:
   focus: |-
     Automating health insurance prior authorization document
     processing
-  use_cases:
-  - Automate prior authorization document processing for health insurance companies
-  - Process regulated healthcare data with rigorous security and compliance standards
-  - Enable ML model operations including versioning, monitoring, and deployment in
-    a polyglot environment
-  - Provide scalable backend infrastructure to support AI/ML services in healthcare
-    domain
 position:
   title: Staff Software Engineer (AI/ML Platform)
   ai_type:

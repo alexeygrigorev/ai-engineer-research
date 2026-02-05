@@ -2,11 +2,6 @@ company:
   name: 7AI
   stage: Seed
   focus: AI-powered cybersecurity platform
-  use_cases:
-  - AI-powered cybersecurity platform for threat detection and protection
-  - Enterprise security solution leveraging AI/ML for advanced threat analysis
-  - Security platform addressing modern threat landscapes for senior IT and security
-    executives
 position:
   title: Sr. AI Sales Engineer - Cybersecurity
   ai_type:

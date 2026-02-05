@@ -2,12 +2,6 @@ company:
   name: PwC
   stage: Public
   focus: Professional services and consulting
-  use_cases:
-  - Large-scale distributed data processing applications
-  - Enterprise microservices with REST APIs and event-driven design
-  - Client-facing digital transformation solutions
-  - Cloud-native deployments with container orchestration
-  - Development workflow enhancement using AI tools like GitHub CoPilot
 position:
   title: AI First Software Engineer - Manager
   ai_type:

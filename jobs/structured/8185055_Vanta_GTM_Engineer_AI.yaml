@@ -2,13 +2,6 @@ company:
   name: Vanta
   stage: Series B+
   focus: Security compliance and trust management platform
-  use_cases:
-  - AI-powered prospecting and pipeline generation automation
-  - Automated account research and customer intelligence gathering
-  - AI-driven workflow automation for renewal preparation and customer success
-  - AI-based content summarization, routing, and scoring for GTM teams
-  - Intelligent business systems integration across Salesforce, HubSpot, Gong, and
-    data platforms
 position:
   title: GTM Engineer, AI
   ai_type:

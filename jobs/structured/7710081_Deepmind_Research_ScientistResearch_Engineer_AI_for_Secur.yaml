@@ -2,12 +2,6 @@ company:
   name: Deepmind
   stage: Public
   focus: AI research and development for public benefit
-  use_cases:
-  - AI-powered vulnerability discovery in software
-  - Automated patching of new security vulnerabilities
-  - Proactive code rewriting to eliminate entire classes of vulnerabilities
-  - AI-assisted code security analysis and remediation
-  - Zero-day exploit detection in well-tested software
 position:
   title: Research Scientist/Research Engineer, AI for Secure Code
   ai_type:

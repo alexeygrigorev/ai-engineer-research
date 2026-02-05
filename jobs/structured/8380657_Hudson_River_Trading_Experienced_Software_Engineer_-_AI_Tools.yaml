@@ -4,14 +4,6 @@ company:
   focus: |-
     Algorithmic trading firm with sophisticated computing
     environment
-  use_cases:
-  - Productivity enhancement for developers through AI coding assistants and agentic
-    workflows
-  - AI-powered development support for Python web applications and C++ order execution
-    systems
-  - Research assistance for trade signal investigation using AI tools
-  - Business development support through AI tool integration for vendor interactions
-  - Internal workflow automation across all departments using AI tools
 position:
   title: Experienced Software Engineer - AI Tools
   ai_type:

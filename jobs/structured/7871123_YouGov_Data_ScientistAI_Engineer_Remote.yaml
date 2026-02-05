@@ -2,12 +2,6 @@ company:
   name: YouGov
   stage: Public
   focus: Market research and opinion polling
-  use_cases:
-  - AI-powered survey data analysis and insight generation
-  - Text summarization and topic modeling for market research
-  - RAG pipelines for extracting insights from unstructured survey responses
-  - Natural language processing for text classification and opinion analysis
-  - Fraud detection and data quality improvement in survey responses
 position:
   title: Data Scientist/AI Engineer (Remote)
   ai_type:

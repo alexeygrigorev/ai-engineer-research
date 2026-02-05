@@ -2,14 +2,6 @@ company:
   name: Profound
   stage: early stage
   focus: AI presence management and control
-  use_cases:
-  - AI presence management and control for companies
-  - Content generation including blogs, landing pages, help docs, and ads
-  - Text classification, ranking, clustering, and topic discovery for content organization
-  - Content summarization and brief creation with evidence-grounded citations
-  - AEO and SEO visibility optimization through AI-powered content
-  - Content quality evaluation including factuality, tone, safety, and originality
-    checks
 position:
   title: AI/ML Engineer
   ai_type:

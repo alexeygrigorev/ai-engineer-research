@@ -4,12 +4,6 @@ company:
   focus: |-
     Expert network platform for consulting and private equity
     firms
-  use_cases:
-  - Expert recommendations for consulting and private equity firms
-  - LLM-based data extraction from expert interviews and surveys
-  - Content extraction and knowledge management from expert knowledge
-  - Workflow automation for knowledge discovery processes
-  - Real-time search and retrieval of expert information
 position:
   title: AI/ ML Engineer (Python)
   ai_type:

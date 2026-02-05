@@ -4,17 +4,6 @@ company:
   focus: |-
     Edge-to-cloud computing solutions, HPC systems, and
     enterprise infrastructure
-  use_cases:
-  - Scaling high-fidelity discrete-event simulations on HPE supercomputers using distributed
-    memory and checkpointing
-  - Distributed large-scale data analysis of traces, logs, and telemetry data from
-    simulations and HPC systems
-  - Interactive processing of massive telemetry datasets for HPC system monitoring
-    and analysis
-  - Digital twin software development integrated with visualization tools and AI/ML
-    workflows
-  - AI surrogate development for real-time HPC system error detection
-  - LLM-powered chat interfaces for analysis and development environments
 position:
   title: Senior Software Engineer – HPC & AI Advanced Development
   ai_type:

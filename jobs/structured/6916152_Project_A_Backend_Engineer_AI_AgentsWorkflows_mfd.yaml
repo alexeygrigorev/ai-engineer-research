@@ -2,13 +2,6 @@ company:
   name: Project A
   stage: Series B
   focus: AI-powered supply chain platform
-  use_cases:
-  - AI-driven supply chain management automation for sourcing, distributing, and financing
-    materials
-  - Autonomous supply chain orchestration that eliminates inefficiencies and creates
-    direct bridges between suppliers and buyers
-  - Intelligent workflows and automation leveraging agentic AI for procurement optimization
-  - AI-enabled backend logic providing seamless access to premium materials at scale
 position:
   title: Backend Engineer (AI Agents/Workflows) (m/f/d)
   ai_type:

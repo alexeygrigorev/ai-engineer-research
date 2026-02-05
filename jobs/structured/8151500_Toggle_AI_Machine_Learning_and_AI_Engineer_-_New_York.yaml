@@ -2,11 +2,6 @@ company:
   name: Toggle AI
   stage: null
   focus: AI-powered investment insights for professional investors
-  use_cases:
-  - AI-powered investment insights and earnings analysis for professional investors
-  - Risk assessment and market catalyst detection
-  - Reasoning engines for understanding market data and investor decisions
-  - Knowledge systems integrating proprietary financial data with AI models
 position:
   title: Machine Learning and AI Engineer - New York
   ai_type:

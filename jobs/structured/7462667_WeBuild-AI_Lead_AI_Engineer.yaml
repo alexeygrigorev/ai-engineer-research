@@ -2,14 +2,6 @@ company:
   name: WeBuild-AI
   stage: null
   focus: AI-powered enterprise transformation and AI consulting
-  use_cases:
-  - Transforming enterprise organizations into AI-powered and data-driven businesses
-  - Reinventing how enterprises design, build, and operate AI-powered software at
-    scale
-  - Revolutionizing entire business processes through AI pattern discovery
-  - Solving complex enterprise challenges with cutting-edge AI approaches
-  - Delivering 10x value through high-impact AI applications
-  - Deploying industry-aligned language models and agents in enterprise environments
 position:
   title: Lead AI Engineer
   ai_type:

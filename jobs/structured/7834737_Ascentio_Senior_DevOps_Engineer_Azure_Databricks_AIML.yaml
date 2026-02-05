@@ -2,12 +2,6 @@ company:
   name: Ascent.io
   stage: null
   focus: Digital transformation and analytics consulting
-  use_cases:
-  - AI/ML model training and deployment platform on Azure Databricks
-  - Machine learning experiment tracking with MLFlow
-  - Data governance and compliance for regulated organizations
-  - Automated model operations and monitoring workflows
-  - Enterprise-grade data schema evolution management
 position:
   title: Senior DevOps Engineer – Azure & Databricks (AI/ML Focus)
   ai_type:

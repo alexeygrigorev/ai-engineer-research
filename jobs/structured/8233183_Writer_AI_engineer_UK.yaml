@@ -2,15 +2,6 @@ company:
   name: Writer
   stage: Series C
   focus: Enterprise generative AI platform and AI agents
-  use_cases:
-  - Building and deploying AI agents grounded in enterprise company data
-  - Powering enterprise-wide transformation through AI-driven productivity and innovation
-    solutions
-  - Enabling businesses to unlock unprecedented productivity with trustworthy AI integrated
-    with their data
-  - Delivering AI-powered features that address critical business needs for leading
-    enterprises
-  - Supporting IT and business teams with end-to-end AI orchestration platform
 position:
   title: AI engineer (UK)
   ai_type:

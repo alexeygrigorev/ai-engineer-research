@@ -2,15 +2,6 @@ company:
   name: BetterUp
   stage: Series C
   focus: AI-powered coaching and human transformation platform
-  use_cases:
-  - AI-powered conversational insights that provide personalized feedback and guidance
-  - Practice-moment nudges that deliver timely prompts for behavior change and skill
-    development
-  - AI copilot (FocusFrame) that assists coaches in real-time to deliver more impactful
-    coaching sessions
-  - Human-AI collaboration tools that augment coaching expertise with AI capabilities
-  - Personalized coaching experiences that scale human transformation through generative
-    AI
 position:
   title: Senior Machine Learning Engineer, AI Product and Platform
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: Distyl AI
   stage: Series B
   focus: Production-grade AI systems for Fortune 500
-  use_cases:
-  - Powering core operational workflows for Fortune 500 companies across insurance,
-    CPG, and non-profits
-  - Deploying AI agents for long-horizon task execution with tool use and prompt orchestration
-  - Implementing RAG (Retrieval-Augmented Generation) systems for enterprise knowledge
-    access
-  - Transforming mission-critical business workflows with measurable financial impact
-  - Building human-in-the-loop feedback systems with observability and debugging capabilities
 position:
   title: AI Engineer
   ai_type:

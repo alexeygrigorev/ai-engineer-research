@@ -2,13 +2,6 @@ company:
   name: Castor
   stage: Series B
   focus: Clinical trial platform accelerating medical research
-  use_cases:
-  - Accelerate clinical trial journey by reducing human effort with technology
-  - Enable capture and re-use of research data from anywhere and anytime
-  - Optimize clinical trial activities from recruitment to monitoring
-  - Make it easier to design and deploy trials and enroll patients
-  - Collect data and analyze clinical trial results
-  - Improve clinical trial experience for patients, sites, and sponsors
 position:
   title: Staff Software Engineer (AI/Python)
   ai_type:

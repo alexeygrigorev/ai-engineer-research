@@ -2,12 +2,6 @@ company:
   name: Solva
   stage: Y Combinator S25
   focus: AI for insurance claims processing
-  use_cases:
-  - AI-powered claims decision support for insurers
-  - Automated reasoning and evaluation of insurance claims
-  - Retrieval-based systems for insurance data analysis
-  - Agent-based workflows for claims processing
-  - Fine-tuned LLMs for insurance domain decisions
 position:
   title: AI Engineer Internship
   ai_type:

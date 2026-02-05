@@ -2,14 +2,6 @@ company:
   name: Tomoro
   stage: Series A
   focus: Generative AI solutions for enterprise
-  use_cases:
-  - Building AI agents powered by Large Language Models for enterprise applications
-  - Developing production-ready generative AI solutions integrated into client business
-    operations
-  - Fine-tuning existing closed or open-source foundational models for specific enterprise
-    use cases
-  - Creating scalable enterprise AI strategies for large corporate clients
-  - Deploying AI applications that drive business transformation and competitive advantage
 position:
   title: UK Senior Applied AI Solution Engineer
   ai_type:

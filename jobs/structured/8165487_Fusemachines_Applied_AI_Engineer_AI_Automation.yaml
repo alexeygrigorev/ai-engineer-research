@@ -2,13 +2,6 @@ company:
   name: Fusemachines
   stage: Series B+
   focus: Enterprise AI products and services
-  use_cases:
-  - Customer service automation bots and phone routing systems
-  - Voice agents for customer interaction automation
-  - Multi-step AI agent workflows that autonomously call tools and APIs
-  - Customer support queue automation with intelligent triage
-  - Enterprise workflow automation using LLM-driven decision making
-  - Agent-driven workflows for operational efficiency and cost reduction
 position:
   title: Applied AI Engineer (AI Automation)
   ai_type:

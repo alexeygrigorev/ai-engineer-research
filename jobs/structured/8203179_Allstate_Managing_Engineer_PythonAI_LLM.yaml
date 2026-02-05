@@ -2,11 +2,6 @@ company:
   name: Allstate
   stage: Public
   focus: Insurance and protection services
-  use_cases:
-  - AI and LLM integration for insurance products and services
-  - Vectorized database solutions for advanced data retrieval and storage
-  - Cloud-native applications deployed on Azure infrastructure
-  - Automated CI/CD pipelines for AI-driven software delivery
 position:
   title: Managing Engineer (Python/AI LLM)
   ai_type:

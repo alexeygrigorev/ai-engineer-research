@@ -2,14 +2,6 @@ company:
   name: MagicSchool AI
   stage: Series A
   focus: Generative AI platform for teachers and educators
-  use_cases:
-  - Lesson planning and curriculum development assistance for teachers
-  - Differentiation and personalized learning support for diverse student needs
-  - Assessment creation and automated grading workflows
-  - Educational content retrieval and knowledge management for classroom scenarios
-  - Multi-turn conversational AI assistance with maintained context across teaching
-    workflows
-  - Real-time access to curriculum standards and educational resources during instruction
 position:
   title: Senior Context Engineer, AI Systems
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: CUBE (cube.global)
   stage: Public
   focus: Regulatory intelligence and compliance SaaS
-  use_cases:
-  - High cardinality hierarchical classification of regulatory documents
-  - Personalized content filtering of legal and regulatory documents
-  - Networking heterogeneous text data at scale using ML/LLMs
-  - Agent-based knowledge graph insights for regulatory intelligence
-  - LLM-powered features for regulatory compliance automation
 position:
   title: AI Engineer
   ai_type:

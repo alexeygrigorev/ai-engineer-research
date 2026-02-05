@@ -2,14 +2,6 @@ company:
   name: Percepta AI
   stage: Series A
   focus: Applied AI for critical industries
-  use_cases:
-  - Deploying agentic workflows for critical industries including healthcare, manufacturing,
-    and energy
-  - Building multi-step AI agents with tool use capabilities for enterprise automation
-  - Implementing RAG pipelines for knowledge retrieval and document analysis
-  - Creating human-in-the-loop AI systems that integrate with existing business operations
-  - Developing AI solutions that drive measurable business value for industry-leading
-    customers
 position:
   title: Applied AI Engineer
   ai_type:

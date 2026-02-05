@@ -2,14 +2,6 @@ company:
   name: Optum
   stage: Public
   focus: Healthcare technology and AI/ML solutions
-  use_cases:
-  - Healthcare data analysis and insights generation
-  - Natural language processing for medical text and unstructured health data
-  - Large language model applications for healthcare documentation and decision support
-  - Responsible AI deployment ensuring compliance and ethical standards in healthcare
-  - Predictive modeling for health outcomes and resource optimization
-  - AI-powered solutions connecting people with care, pharmacy benefits, and health
-    resources
 position:
   title: Lead AI/ML Engineer (NLP) - Remote
   ai_type:

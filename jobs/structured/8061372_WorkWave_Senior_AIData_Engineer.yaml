@@ -4,12 +4,6 @@ company:
   focus: |-
     Decision intelligence and data-driven products for field
     service and workforce management
-  use_cases:
-  - AI/ML predictions and forecasts for decision intelligence products
-  - Feature engineering pipelines supporting machine learning models
-  - Data validation frameworks ensuring model input/output quality
-  - Analytical data products delivering business insights
-  - Customer-facing data products driving decision intelligence
 position:
   title: Senior AI/Data Engineer
   ai_type:

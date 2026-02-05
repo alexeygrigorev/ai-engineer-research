@@ -2,15 +2,6 @@ company:
   name: System1
   stage: Public
   focus: AI Agent-powered consumer products
-  use_cases:
-  - Multi-agent systems that solve real user problems through coordinated task execution
-    across tools and services
-  - Agentic coding workflows where agents autonomously write, modify, validate, and
-    iterate on code within guardrails
-  - Consumer products powered by AI agents that deliver value through autonomous task
-    planning and execution
-  - Long-running, stateful agent workflows that require sophisticated orchestration
-    and failure recovery
 position:
   title: Lead AI Product Engineer - AI Agents & Emerging Products
   ai_type:

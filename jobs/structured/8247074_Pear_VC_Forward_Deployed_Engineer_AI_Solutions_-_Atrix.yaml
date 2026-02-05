@@ -2,13 +2,6 @@ company:
   name: Pear VC
   stage: Seed
   focus: AI-native platform for pharma and biotech workflows
-  use_cases:
-  - Accelerate evidence generation for pharmaceutical companies
-  - Enable medical strategy teams with AI-powered insights
-  - Support commercial insights for life sciences organizations
-  - Transform complex scientific workflows into reliable AI-powered systems
-  - Deliver the right treatment to the right patient faster
-  - High-stakes decision support for medical, clinical, and commercial teams
 position:
   title: Forward Deployed Engineer (AI Solutions) - Atrix
   ai_type:

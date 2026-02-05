@@ -2,12 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Financial services with AI-powered solutions
-  use_cases:
-  - Generative AI applications for financial services
-  - Agentic Workflow systems for automated decision-making
-  - High-volume model serving endpoints for business operations
-  - Scalable ML inference serving architecture
-  - Real-time AI-powered solutions for banking and financial services
 position:
   title: Lead Machine Learning Engineer (Gen AI, Python, Go, AWS)
   ai_type:

@@ -4,17 +4,6 @@ company:
   focus: |-
     AI safety, compliance, and observability infrastructure for
     enterprise
-  use_cases:
-  - Real-time monitoring and evaluation of AI agent behavior to detect safety violations,
-    data leaks, and unpredictable actions
-  - Automated enforcement and intervention for AI systems to block, redact, or escalate
-    when risks are detected
-  - Compliance and security control for enterprise AI deployments, ensuring AI systems
-    operate within safe boundaries
-  - Observability for LLM-based systems beyond traditional metrics like latency and
-    cost, capturing decision correctness and safety
-  - Runtime safety layer that helps IT and Security teams answer whether AI behavior
-    is acceptable and take action when it's not
 position:
   title: Backend / Platform Engineer, AI Analytic Engines
   ai_type:

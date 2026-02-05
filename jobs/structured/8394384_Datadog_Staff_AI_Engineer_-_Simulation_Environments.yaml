@@ -2,17 +2,6 @@ company:
   name: Datadog
   stage: Public
   focus: Cloud infrastructure monitoring and observability platform
-  use_cases:
-  - Safely train and evaluate AI agents in synthetic environments before production
-    deployment
-  - Create high-fidelity simulations of complex distributed systems for agent learning
-    and reasoning
-  - Generate synthetic data at scale to train and assess AI agents across Datadog
-    products
-  - Enable AI agents to learn observability and automation tasks in controlled simulation
-    environments
-  - Bridge the gap between AI research and production through integrated simulation
-    workflows
 position:
   title: Staff AI Engineer - Simulation Environments
   ai_type:

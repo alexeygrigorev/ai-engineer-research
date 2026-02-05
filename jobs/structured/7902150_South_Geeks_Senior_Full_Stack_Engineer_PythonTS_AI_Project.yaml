@@ -4,12 +4,6 @@ company:
   focus: |-
     Commercial real estate technology platform for brokers with
     automated document workflows and AI-driven analysis
-  use_cases:
-  - Automates complex document workflows for commercial real estate brokers
-  - AI-driven analysis integration for real estate document processing
-  - Document formatting workflows including DocX manipulation
-  - Multi-LLM orchestration for handling hundreds of model calls per operation
-  - Rich text editing capabilities through CKEditor integration
 position:
   title: Senior Full Stack Engineer (Python+TS, AI Project)
   ai_type:

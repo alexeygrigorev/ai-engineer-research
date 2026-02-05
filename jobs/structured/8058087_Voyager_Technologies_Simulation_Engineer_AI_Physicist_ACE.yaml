@@ -2,15 +2,6 @@ company:
   name: Voyager Technologies
   stage: null
   focus: Defense, national security, and space technology
-  use_cases:
-  - Thermal analysis agents that simulate and optimize thermal characteristics of
-    hardware designs
-  - Supply-chain scouting agents that identify and evaluate components and materials
-  - G-code validation agents that verify manufacturing instructions for CNC machines
-  - Design for Manufacturing (DfM) automation to embed manufacturability constraints
-    early in design
-  - Physics simulation integration to test designs against real-world physical constraints
-  - CAD and PCB routing automation to accelerate hardware development cycles
 position:
   title: Simulation Engineer / AI Physicist (ACE)
   ai_type:

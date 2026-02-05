@@ -4,12 +4,6 @@ company:
   focus: |-
     AI solutions with Large Quantitative Models for life
     sciences, financial services, navigation, and cybersecurity
-  use_cases:
-  - Life sciences applications powered by Large Quantitative Models
-  - Financial services solutions including risk simulation and technical analysis
-  - Navigation systems enhanced by AI and quantitative modeling
-  - Cybersecurity applications leveraging advanced AI frameworks
-  - AI-first SaaS products across multiple industry sectors
 position:
   title: Staff Machine Learning Engineer, AI Generation Engine
   ai_type:

@@ -2,15 +2,6 @@ company:
   name: Abstra
   stage: null
   focus: Nearshore Tech Talent services company
-  use_cases:
-  - Building AI agents to automate business processes and solve real-world business
-    problems
-  - Developing AI-driven development environment for rapid iteration and continuous
-    delivery
-  - Implementing intelligent automation workflows using LLMs to generate accurate
-    and reliable outputs
-  - Integrating AI capabilities across services and platforms for seamless business
-    operations
 position:
   title: Senior Software Engineer - (Python+React / for AI Program)
   ai_type:

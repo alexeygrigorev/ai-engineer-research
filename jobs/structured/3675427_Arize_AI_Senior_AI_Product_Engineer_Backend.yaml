@@ -2,13 +2,6 @@ company:
   name: Arize AI
   stage: Series C
   focus: AI observability and evaluation platform
-  use_cases:
-  - Monitoring and observability for AI/LLM systems and agents
-  - Model evaluation metrics computation across billions of data points
-  - Real-time evaluation infrastructure handling millions of annotations per second
-  - Prompt engineering and agent development playgrounds
-  - Instrumentation APIs for ML and LLM-powered applications
-  - Dimensionality reduction and visualization for ML model insights
 position:
   title: Senior AI Product Engineer, Backend
   ai_type:

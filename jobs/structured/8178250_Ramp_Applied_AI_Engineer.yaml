@@ -4,14 +4,6 @@ company:
   focus: |-
     Financial operations platform with AI-powered corporate
     cards, bill payments, and spend management
-  use_cases:
-  - AI Agents for automating financial operations and workflows
-  - Retrieval-Augmented Generation (RAG) for intelligent document and data processing
-  - Structured Extraction for parsing financial documents and data
-  - Internal tooling for customer-facing teams to enhance productivity
-  - Fine-tuned models for finance-specific applications
-  - LLM-powered intelligence for payments, corporate cards, vendor management, and
-    automated bookkeeping
 position:
   title: Applied AI Engineer
   ai_type:

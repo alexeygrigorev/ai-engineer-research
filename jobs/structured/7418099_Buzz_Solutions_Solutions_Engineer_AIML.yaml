@@ -2,14 +2,6 @@ company:
   name: Buzz Solutions
   stage: null
   focus: AI-powered solutions for electric utility sector
-  use_cases:
-  - Computer vision-based inspection and detection for electric utility infrastructure
-  - Data ingestion and analytics from utility equipment sensors and imagery
-  - Automated defect detection, segmentation, and classification for utility assets
-  - Integration of AI solutions into existing utility workflow systems via APIs
-  - PowerAI and PowerGUARD solutions for monitoring and protecting electric utility
-    infrastructure
-  - Vendor security audits and compliance for AI deployment in regulated utility industry
 position:
   title: Solutions Engineer (AI/ML)
   ai_type:

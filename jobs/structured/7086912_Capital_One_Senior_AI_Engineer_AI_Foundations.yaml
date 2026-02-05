@@ -2,15 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services
-  use_cases:
-  - Informing customers about unusual charges in real-time
-  - Answering customer questions in real-time with AI-powered systems
-  - Creating personalized customer experiences through ML applications
-  - Empowering internal teams to enhance products with AI capabilities in responsible
-    and scalable ways
-  - Delivering transformative AI applications that bring humanity and simplicity to
-    banking
-  - Building foundational AI infrastructure that serves millions of customers
 position:
   title: Senior AI Engineer (AI Foundations)
   ai_type:

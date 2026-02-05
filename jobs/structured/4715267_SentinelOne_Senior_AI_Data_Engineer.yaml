@@ -2,12 +2,6 @@ company:
   name: SentinelOne
   stage: Public
   focus: AI-powered cybersecurity platform and threat detection
-  use_cases:
-  - AI-powered cybersecurity threat detection and analysis
-  - Alert summarization to help security defenders quickly understand incidents
-  - Classification of security events, malware, and threat types
-  - Automated reasoning over security context for threat intelligence
-  - Fine-tuning AI models with curated cybersecurity datasets for improved accuracy
 position:
   title: Senior AI Data Engineer
   ai_type:

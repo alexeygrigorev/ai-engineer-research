@@ -4,16 +4,6 @@ company:
   focus: |-
     Enterprise open source software solutions for Linux, cloud,
     containers, and Kubernetes
-  use_cases:
-  - Distributed Large Language Model (LLM) inference systems running on Kubernetes
-    clusters
-  - High-performance LLM serving with low latency and high throughput requirements
-  - GPU-accelerated inference using NVIDIA GPUs, AMD GPUs, and TPUs for production
-    workloads
-  - Advanced inference optimizations including KV caching, continuous batching, and
-    prefill/decode disaggregation
-  - Production deployment of large-scale language models with complex networking and
-    scheduling requirements
 position:
   title: Forward Deployed Engineer, AI Inference (vLLM and Kubernetes)
   ai_type:

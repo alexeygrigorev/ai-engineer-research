@@ -4,16 +4,6 @@ company:
   focus: |-
     AI Site Reliability Engineer for enterprise incident
     troubleshooting and remediation
-  use_cases:
-  - AI-powered site reliability engineering and production incident troubleshooting
-    for enterprises
-  - High-concurrency AI inference serving for Fortune 50 companies with multi-tenancy
-  - Agentic tooling and workflows via MCP for automated incident remediation and prevention
-  - Real-time data pipeline processing using Kafka for AI agent operations and event
-    streaming
-  - Enterprise-grade AI infrastructure with SOC 2 Type II compliance for secure, reliable
-    AI operations
-  - Autonomous production issue resolution to free engineers from manual firefighting
 position:
   title: AI Engineer - Infrastructure
   ai_type:

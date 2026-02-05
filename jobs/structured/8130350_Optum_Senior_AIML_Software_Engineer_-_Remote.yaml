@@ -2,12 +2,6 @@ company:
   name: Optum
   stage: Public
   focus: Healthcare technology and services
-  use_cases:
-  - Improving patient engagement through smart nudging
-  - Predicting onset and progression of disease
-  - Large Language Model solutions for summarizing large scale patient information
-  - Optimizing clinical trials using structured and unstructured text data
-  - Healthcare journey transformation through responsible AI/ML innovation
 position:
   title: Senior AI/ML Software Engineer - Remote
   ai_type:

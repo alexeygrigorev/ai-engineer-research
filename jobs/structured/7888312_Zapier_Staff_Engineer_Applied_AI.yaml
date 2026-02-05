@@ -2,17 +2,6 @@ company:
   name: Zapier
   stage: Series D+
   focus: Automation platform and AI orchestration
-  use_cases:
-  - Building unified AI orchestration platform that powers agents, chatbots, and AI
-    automation products
-  - Implementing Retrieval-Augmented Generation (RAG) systems with semantic search
-    and vector databases
-  - Creating scalable, safe, and cost-efficient runtime systems for user-facing AI
-    products
-  - Enabling millions of businesses to automate workflows using intelligent AI-powered
-    orchestration
-  - Supporting complex agent architectures that can execute multi-step automation
-    tasks
 position:
   title: Staff Engineer, Applied AI
   ai_type:

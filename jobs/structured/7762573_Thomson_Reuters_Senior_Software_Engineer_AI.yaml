@@ -2,12 +2,6 @@ company:
   name: Thomson Reuters
   stage: Public
   focus: Professional information and legal services software
-  use_cases:
-  - Document automation for legal, tax, risk, and compliance domains
-  - AI-powered contract analysis and generation
-  - Intelligent document processing workflows for professionals
-  - Domain-specific AI adaptation for legal and regulatory compliance
-  - Monitoring and insights from application and user behavior patterns
 position:
   title: Senior Software Engineer AI
   ai_type:

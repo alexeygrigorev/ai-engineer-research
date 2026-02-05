@@ -3,12 +3,6 @@ company:
   stage: Series B+ (hyper growth, YC-backed, cash flow positive, doubling YoY, 4,000+
     clients)
   focus: Grant discovery and management platform for nonprofits
-  use_cases:
-  - Grant discovery automation using agentic AI systems
-  - Grant application drafting assistance with LLMs
-  - Research assistance for nonprofit fundraising activities
-  - Hybrid retrieval search across grant databases and domain data
-  - Grounded and citable AI responses with RAG pipelines
 position:
   title: Software Engineer, AI/ML GenAI
   ai_type:

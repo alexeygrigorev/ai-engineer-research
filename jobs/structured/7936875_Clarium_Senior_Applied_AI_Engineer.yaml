@@ -2,15 +2,6 @@ company:
   name: Clarium
   stage: Series A
   focus: AI-powered healthcare workflow automation platform
-  use_cases:
-  - Healthcare supply chain operations optimization through data-driven insights
-  - Intelligent workflow automation for daily operational and administrative tasks
-    in hospitals
-  - Automating routine hospital operations to surface only high-complexity issues
-    requiring human expertise
-  - AI-powered software providing actionable insights to healthcare providers
-  - Reducing manual processes and improving efficiency for healthcare workers with
-    AI-driven tools
 position:
   title: Senior Applied AI Engineer
   ai_type:

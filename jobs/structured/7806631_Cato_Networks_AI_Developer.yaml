@@ -2,12 +2,6 @@ company:
   name: Cato Networks
   stage: Series B+ (growth stage, SASE market leader)
   focus: Cloud networking and security platform, SASE
-  use_cases:
-  - Customer success agents for enhanced customer support and engagement
-  - HR process automation to streamline HR workflows and operations
-  - Sales optimization through AI-driven insights and recommendations
-  - Cross-departmental process improvement using custom AI solutions
-  - Data-driven business intelligence and actionable insights generation
 position:
   title: AI Developer
   ai_type:

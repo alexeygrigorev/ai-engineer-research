@@ -4,13 +4,6 @@ company:
   focus: |-
     Data as a Service for reputational risks and responsible
     business conduct
-  use_cases:
-  - Agentic AI systems for business problem solving with memory, planning, and tool-use
-    capabilities
-  - LLM-powered microservices for perception, reasoning, and decision-making tasks
-  - Autonomous agent architectures for workflow automation and reasoning-driven applications
-  - AI-powered solutions for corporate responsibility and business conduct risk analysis
-  - Multi-agent coordination systems for complex business workflows
 position:
   title: Senior AI Engineer
   ai_type:

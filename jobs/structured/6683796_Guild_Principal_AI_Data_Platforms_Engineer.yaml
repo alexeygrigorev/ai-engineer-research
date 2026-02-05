@@ -2,14 +2,6 @@ company:
   name: Guild
   stage: Series B+
   focus: Workforce education and talent development platform
-  use_cases:
-  - Powering analytics and operational insights for business decision-making
-  - Enabling data-driven talent identification, development, and mobilization for
-    employer partners
-  - Supporting workforce education and career coaching platforms with actionable talent
-    insights
-  - Providing data infrastructure for real-time learning and career support applications
-  - Facilitating employer access to internal talent data and skills development tracking
 position:
   title: Principal AI & Data Platforms Engineer
   ai_type:

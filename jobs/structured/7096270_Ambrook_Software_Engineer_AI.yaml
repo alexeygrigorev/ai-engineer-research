@@ -4,13 +4,6 @@ company:
   focus: |-
     Financial infrastructure for agriculture and industrial
     businesses
-  use_cases:
-  - Cleaning and categorizing messy financial transactions from unstructured sources
-  - Parsing and extracting data from scanned PDFs and other paper financial documents
-  - Summarizing financial documents to surface key insights for farmers and ranchers
-  - Inbox triage and processing of text-heavy communications
-  - Automated bookkeeping and financial analysis for agricultural businesses
-  - Hybrid AI + rule-based systems for high-stakes financial workflows
 position:
   title: Software Engineer, AI
   ai_type:

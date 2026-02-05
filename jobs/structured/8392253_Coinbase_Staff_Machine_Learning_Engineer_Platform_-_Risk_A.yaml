@@ -2,13 +2,6 @@ company:
   name: Coinbase
   stage: Public
   focus: Cryptocurrency exchange and trading platform
-  use_cases:
-  - Fraud detection and prevention for millions of cryptocurrency users
-  - Account takeover detection and prevention
-  - Scam detection to protect customers from malicious actors
-  - Real-time risk assessment for instant guest checkout transactions
-  - Coinbase Card transaction risk evaluation
-  - LLM-powered conversational agents for customer verification
 position:
   title: Staff Machine Learning Engineer (Platform - Risk AI/ML)
   ai_type:

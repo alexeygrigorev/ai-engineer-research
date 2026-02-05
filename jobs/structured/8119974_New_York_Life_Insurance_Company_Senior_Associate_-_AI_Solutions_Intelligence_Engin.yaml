@@ -2,12 +2,6 @@ company:
   name: New York Life Insurance Company
   stage: Public
   focus: Life insurance and financial services
-  use_cases:
-  - Increase productivity across the organization through Generative AI applications
-  - Streamline business processes using advanced analytics and AI-powered insights
-  - Transform complex data into actionable insights for key business decisions
-  - Create seamless experiences for clients, agents, and employees
-  - Drive measurable business impact through high ROI analytics initiatives
 position:
   title: Senior Associate - AI Solutions Intelligence Engineer
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: Datadog
   stage: Public
   focus: Cloud infrastructure monitoring and observability platform
-  use_cases:
-  - Debug and investigate application performance issues down to root cause using
-    AI developer assistants and autonomous agents
-  - Proactively recommend performance and reliability optimizations to prevent incidents
-  - Automatically create intelligent monitors and SLOs for important business flows
-    and critical paths
-  - Analyze telemetry data (traces, metrics, logs) to generate performance diagnoses
-    and explanations
 position:
   title: Senior AI Engineer - APM Experiences
   ai_type:

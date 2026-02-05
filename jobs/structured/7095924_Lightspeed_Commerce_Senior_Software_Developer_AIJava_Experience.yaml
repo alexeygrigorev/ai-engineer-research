@@ -4,12 +4,6 @@ company:
   focus: |-
     Cloud commerce platform for retail, hospitality, and golf
     businesses
-  use_cases:
-  - Building internal AI-powered tools to improve team productivity
-  - Extending commerce product suite with new AI features
-  - Helping other teams integrate LLMs and AI patterns into their workflows
-  - Implementing text summarization and classification capabilities
-  - Building RAG systems for document retrieval and knowledge access
 position:
   title: Senior Software Developer (AI+Java Experience)
   ai_type:

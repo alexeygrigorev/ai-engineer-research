@@ -4,19 +4,6 @@ company:
   focus: |-
     Cybersecurity platform for connected devices and supply
     chains
-  use_cases:
-  - Provides transparency and security analysis for connected devices and embedded
-    systems across industries
-  - Analyzes firmware builds by unpacking and examining every file, configuration,
-    and setting to generate complete software bill of materials
-  - Identifies known vulnerabilities and zero-day threats in IoT and connected device
-    software supply chains
-  - Generates contextual risk scores and actionable remediation guidance for product
-    security teams
-  - Secures critical infrastructure including medical devices, power grids, telecommunications
-    networks, and connected vehicles
-  - Helps manufacturers maintain device production timelines and budgets while managing
-    cybersecurity risks
 position:
   title: Senior Full-Stack Software Engineer (Next.js + Supabase + AI-Native)
   ai_type:

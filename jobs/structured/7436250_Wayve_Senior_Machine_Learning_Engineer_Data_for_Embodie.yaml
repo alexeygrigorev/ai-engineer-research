@@ -2,13 +2,6 @@ company:
   name: Wayve
   stage: Series B
   focus: Embodied AI for autonomous driving systems
-  use_cases:
-  - Autonomous driving systems that perceive, understand, and navigate complex environments
-    without maps
-  - World model architectures (GAIA and successors) for embodied AI systems
-  - Synthetic data and simulation pipelines to accelerate autonomy development
-  - Training foundation models using multimodal sensor data from vehicles
-  - Large-scale robotics and autonomous vehicle model training
 position:
   title: Senior Machine Learning Engineer, Data for Embodied AI
   ai_type:

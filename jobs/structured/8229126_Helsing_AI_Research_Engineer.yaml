@@ -4,12 +4,6 @@ company:
   focus: |-
     Defence AI company protecting democracies with AI-based
     capabilities for semi-autonomous platforms
-  use_cases:
-  - Real-time localization and navigation for semi-autonomous platforms
-  - Perception systems for defense platforms to detect and understand environments
-  - Adversarial attack detection and defense mechanisms for deployed AI systems
-  - AI capabilities deployment on edge devices with limited compute resources
-  - Reinforcement learning applications for autonomous defense operations
 position:
   title: AI Research Engineer
   ai_type:

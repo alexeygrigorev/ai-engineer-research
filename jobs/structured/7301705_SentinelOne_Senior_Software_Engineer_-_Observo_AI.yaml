@@ -2,17 +2,6 @@ company:
   name: SentinelOne
   stage: Public
   focus: AI-powered cybersecurity and data pipeline optimization
-  use_cases:
-  - Telemetry data pipeline optimization for logs, metrics, and traces at petabyte
-    scale
-  - ML-driven data reduction that decreases customer data volumes by 80%+ while preserving
-    critical insights
-  - Real-time anomaly detection and analytics using machine learning and large language
-    models
-  - Integration with enterprise observability platforms like Splunk, Elastic, Datadog,
-    and New Relic
-  - Cost and performance optimization of enterprise data infrastructure through intelligent
-    data processing
 position:
   title: Senior Software Engineer - Observo AI
   ai_type:

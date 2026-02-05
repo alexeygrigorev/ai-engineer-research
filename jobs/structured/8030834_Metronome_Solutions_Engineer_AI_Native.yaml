@@ -2,17 +2,6 @@ company:
   name: Metronome
   stage: Series B+
   focus: Usage-based billing platform for software companies
-  use_cases:
-  - Usage-based billing implementation for AI-first companies launching products on
-    tight timelines
-  - Monetization strategy and pricing model design for LLM providers and generative
-    AI companies
-  - Billing infrastructure for AI companies offering consumption-based products across
-    image, video, audio, and tooling markets
-  - Integration of billing platforms with customer systems for tracking and invoicing
-    AI usage metrics
-  - Streamlined quote-to-cash workflows for high-velocity AI companies needing rapid
-    product launches
 position:
   title: Solutions Engineer, AI Native
   ai_type:

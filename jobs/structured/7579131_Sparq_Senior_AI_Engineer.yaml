@@ -4,12 +4,6 @@ company:
   focus: |-
     Product engineering partner for AI acceleration, data
     ecosystems, and digital products
-  use_cases:
-  - AI model training and fine-tuning for various business applications
-  - Cloud-based AI solution deployment for scalability and performance
-  - Data preprocessing and automation of AI workflows
-  - AI system optimization and monitoring for efficiency and accuracy
-  - AI capability enhancement for existing digital products
 position:
   title: Senior AI Engineer
   ai_type:

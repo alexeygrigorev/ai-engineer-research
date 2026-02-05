@@ -2,12 +2,6 @@ company:
   name: dentsu
   stage: Public
   focus: Global advertising and marketing agency network
-  use_cases:
-  - Intelligent briefing assistants that streamline marketing workflows
-  - Content classifiers for organizing and categorizing marketing materials
-  - Creative generation tools for producing marketing content
-  - Automation of routine marketing and advertising tasks
-  - Workflow automation connecting disparate systems in the martech stack
 position:
   title: AI Engineer
   ai_type:

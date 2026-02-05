@@ -2,14 +2,6 @@ company:
   name: OpenTeams
   stage: null
   focus: Open-source sovereign AI infrastructure platforms
-  use_cases:
-  - Sovereign AI infrastructure that organizations own and operate with complete control
-    over their data and AI systems
-  - Model training and inference serving for LLMs and computer vision workloads in
-    air-gapped or highly secure environments
-  - Large-scale AI/ML workloads with emphasis on data sovereignty, privacy, and security
-    requirements
-  - Energy-efficient and cost-effective AI deployments using open-source technologies
 position:
   title: Senior Infrastructure Engineer - AI/ML
   ai_type:

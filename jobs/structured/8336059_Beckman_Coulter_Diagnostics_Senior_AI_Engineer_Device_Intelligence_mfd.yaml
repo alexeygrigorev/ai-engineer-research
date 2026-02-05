@@ -2,13 +2,6 @@ company:
   name: Beckman Coulter Diagnostics
   stage: Public
   focus: Life sciences, diagnostics, and biotechnology instruments
-  use_cases:
-  - Extract meaningful insights from data created by Danaher diagnostic and life science
-    devices
-  - Enhance imaging device automation and user capabilities through AI-driven analysis
-  - Improve user experience for diagnostic and biotechnology instruments using AI
-  - Leverage multimodal AI combining computer vision with LLMs for instrument intelligence
-  - Enable automated instrument control and enhanced automation for scientific equipment
 position:
   title: Senior AI Engineer, Device Intelligence (m/f/d)
   ai_type:

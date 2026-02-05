@@ -4,12 +4,6 @@ company:
   focus: |-
     Software for automating digital media operations and
     programmatic advertising
-  use_cases:
-  - LLM-powered automation for media planning and campaign execution
-  - Agentic systems that automate complex media planning workflows
-  - Media planning intelligence, optimization, and analytics across the media buying
-    lifecycle
-  - Programmatic advertising platform powered by intelligent agent systems
 position:
   title: Sr Software Engineer, AI
   ai_type:

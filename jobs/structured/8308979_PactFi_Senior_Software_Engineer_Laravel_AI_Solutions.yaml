@@ -2,15 +2,6 @@ company:
   name: PactFi
   stage: Series B
   focus: Secure infrastructure for private credit transactions
-  use_cases:
-  - Automated document ingestion and extraction for financial documents like contracts
-    and statements
-  - LLM-driven features and intelligent decision-support systems for private credit
-    transactions
-  - Automated workflows for document parsing and data extraction from PDFs and financial
-    records
-  - AI-powered assistance in capital allocation, KYC processing, and funds flow management
-  - Secure, bank-grade AI solutions integrated into financial services operations
 position:
   title: Senior Software Engineer (Laravel), AI Solutions
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: Optum
   stage: Public
   focus: Healthcare AI innovation and analytics solutions
-  use_cases:
-  - Healthcare data analysis and modeling for business value insights
-  - Machine learning solutions for UnitedHealthcare and Optum business units (Financial,
-    Health, Insight, Rx)
-  - AI-powered healthcare journey transformation and patient care improvement
-  - Enterprise AI/ML development platform development and support
-  - Complex healthcare system optimization through advanced analytics
-  - Multimodal and NLP applications for healthcare data processing
 position:
   title: Principal AI/ML Engineer - Remote
   ai_type:

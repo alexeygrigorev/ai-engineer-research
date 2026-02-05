@@ -2,13 +2,6 @@ company:
   name: EBizCharge
   stage: null
   focus: Integrated payment solutions for ERP/CRM/eCommerce
-  use_cases:
-  - AI assistants and agents accessing external capabilities through MCP servers
-  - Automated data querying from databases and external APIs via AI agents
-  - Workflow automation and business process orchestration powered by AI
-  - Secure management and retrieval of Azure cloud resources through AI agents
-  - Knowledge retrieval and intelligent assistant functionality integrated into ERP
-    and payment systems
 position:
   title: Senior AI Developer
   ai_type:

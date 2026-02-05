@@ -2,12 +2,6 @@ company:
   name: Toggle AI
   stage: null
   focus: AI-powered investment insights for professional investors
-  use_cases:
-  - Deliver investment insights and earnings analysis to professional investors
-  - Help investors understand risk and market catalysts through AI-powered reasoning
-  - Provide real-time analysis that influences investment decision-making
-  - Generate high-quality trading signals from proprietary data
-  - Enable understanding of market dynamics through LLM-driven knowledge systems
 position:
   title: Machine Learning and AI Engineer - London
   ai_type:

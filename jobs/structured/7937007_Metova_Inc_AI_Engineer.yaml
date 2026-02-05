@@ -2,12 +2,6 @@ company:
   name: Metova, Inc.
   stage: null
   focus: Accounting software for Mexico
-  use_cases:
-  - Autonomous agents and co-pilots for business operations
-  - Multi-agent coordination systems using MCP and A2A protocols
-  - RAG-based solutions with vector stores for information retrieval
-  - AI-powered solutions for accounting, finance, payroll, billing, or ERP domains
-  - Intelligent agent architectures that integrate with existing business systems
 position:
   title: AI Engineer
   ai_type:

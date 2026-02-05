@@ -3,12 +3,6 @@ company:
   stage: Growth/Scaling stage (noted as experiencing massive growth, converting pilots
     to production)
   focus: AI Guidance Platform for insurance claims handling
-  use_cases:
-  - Extract key information from complex medical documents for insurance claims
-  - Enable human-in-the-loop summarization workflows for claims handling
-  - Improve insurance claims accuracy and efficiency through AI-powered guidance
-  - Deliver reliable outcomes for insurance claims teams using hybrid ML approaches
-  - Scale AI solutions across multiple lines of business in the insurance industry
 position:
   title: Senior Software Engineer - AI / LLM (Medhub)
   ai_type:

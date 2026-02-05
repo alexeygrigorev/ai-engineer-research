@@ -2,13 +2,6 @@ company:
   name: Coinbase
   stage: Public
   focus: Cryptocurrency exchange and onchain platform
-  use_cases:
-  - Fraud prevention and detection for cryptocurrency transactions and accounts
-  - Account takeover protection for millions of Coinbase users
-  - Scam detection models to protect customers from fraudulent schemes
-  - Real-time risk scoring for transfers, withdrawals, and transaction limits
-  - Adaptive security systems balancing fraud prevention with user experience
-  - Future products like instant guest checkout and Coinbase Cards
 position:
   title: Machine Learning Engineer - Risk AI/ML
   ai_type:

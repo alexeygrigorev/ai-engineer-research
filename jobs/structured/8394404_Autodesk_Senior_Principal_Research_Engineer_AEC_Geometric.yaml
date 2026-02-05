@@ -4,13 +4,6 @@ company:
   focus: |-
     Design and engineering software for AEC (Architecture,
     Engineering, and Construction)
-  use_cases:
-  - Generative AI tools for AEC design and engineering workflows
-  - Geometric data modeling and processing for 2D/3D representations
-  - Foundation models for Architecture, Engineering, and Construction industry
-  - AEC data format transformation including BIM, IFC, CAD, and drawing sets
-  - MEP systems data processing (HVAC, electrical, plumbing)
-  - AI-enhanced design workflows in AutoCAD, Revit, and Construction Cloud
 position:
   title: 'Senior Principal Research Engineer: AEC Geometric Data - Generative AI'
   ai_type:

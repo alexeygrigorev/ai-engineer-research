@@ -2,14 +2,6 @@ company:
   name: Assembled
   stage: Series B
   focus: AI-powered customer support orchestration platform
-  use_cases:
-  - Autonomous AI agents that handle customer support cases end-to-end
-  - AI Copilot that assists human agents with faster, more accurate replies
-  - AI-powered workforce management that optimizes human and AI capacity
-  - Translation capabilities for multilingual customer support
-  - Intelligent categorization and routing of incoming support tickets
-  - Workflow automation that distills complex processes into simple interfaces for
-    support agents
 position:
   title: Software Engineer - AI Agents
   ai_type:

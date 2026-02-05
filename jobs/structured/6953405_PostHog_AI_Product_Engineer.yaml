@@ -4,16 +4,6 @@ company:
   focus: |-
     Open-source product analytics platform with AI-powered
     analyst
-  use_cases:
-  - AI-powered analyst that answers product questions and helps users find useful
-    session recordings
-  - Autonomous agents embedded into engineering workflows to change how software gets
-    built
-  - AI observability and evaluation features to help teams measure and improve their
-    AI systems
-  - Background agents that leverage customer data including analytics, sessions, events,
-    and feature flags
-  - Workflow automation and AI copilots integrated across the PostHog product suite
 position:
   title: AI Product Engineer
   ai_type:

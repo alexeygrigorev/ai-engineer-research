@@ -2,12 +2,6 @@ company:
   name: Applico Capital
   stage: Series B
   focus: Venture capital building B2B distribution tech platform
-  use_cases:
-  - B2B distribution industry transformation using AI and modern technologies
-  - Enterprise data interoperability across multiple distributors and business systems
-  - Unlocking AI-enabled synergies in the $8 trillion B2B distribution market
-  - Data automation and AI readiness for products, suppliers, customers, and transactions
-  - Contextual retrieval and entity linking for AI-powered enrichment
 position:
   title: Ontology Engineer - Applied AI & Data Platforms
   ai_type:

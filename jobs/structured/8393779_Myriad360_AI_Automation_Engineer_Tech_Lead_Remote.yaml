@@ -2,16 +2,6 @@ company:
   name: Myriad360
   stage: null
   focus: IT value-added reseller providing automation solutions
-  use_cases:
-  - Automate sales processes and workflows to reduce manual tasks and improve efficiency
-  - Streamline operations and finance functions through AI-powered copilots and agents
-  - Enhance IT service delivery with intelligent automation and RAG-powered information
-    retrieval
-  - Improve cross-functional business processes by integrating Microsoft 365 ecosystem
-    with AI agents
-  - Enable secure internal data access and knowledge management through RAG pipelines
-  - Deploy task-specific agents to handle department-specific workflows across the
-    organization
 position:
   title: AI Automation Engineer Tech Lead (Remote)
   ai_type:

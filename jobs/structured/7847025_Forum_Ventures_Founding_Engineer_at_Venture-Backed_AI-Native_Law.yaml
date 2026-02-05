@@ -2,13 +2,6 @@ company:
   name: Forum Ventures
   stage: Venture-backed (Forum Ventures)
   focus: AI-native hybrid law firm for startups
-  use_cases:
-  - AI-powered contract review and automated redlining
-  - Legal document summarization and risk scoring
-  - Context-aware AI that learns client business preferences and risk appetite
-  - Smart drafting and document automation for legal workflows
-  - Workflow automation for intake, tasking, and approvals with attorney validation
-  - Legal hub for managing requests, documents, alerts, and lawyer interactions
 position:
   title: Founding Engineer at Venture-Backed, AI-Native Law Firm
   ai_type:

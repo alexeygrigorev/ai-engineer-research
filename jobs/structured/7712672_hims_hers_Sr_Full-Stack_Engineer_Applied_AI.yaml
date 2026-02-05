@@ -4,13 +4,6 @@ company:
   focus: |-
     Health and wellness platform providing personalized care,
     from diagnosis to treatment delivery
-  use_cases:
-  - Conversational AI agents for health coaching and patient interactions
-  - Automated care workflows connecting EHR, pharmacy, payment, and order systems
-    for seamless healthcare delivery
-  - Health automation systems that intelligently route and process patient care requests
-  - AI-powered logistics and fulfillment optimization for healthcare products
-  - Real-time patient support and guidance through intelligent conversational experiences
 position:
   title: Sr. Full-Stack Engineer, Applied AI
   ai_type:

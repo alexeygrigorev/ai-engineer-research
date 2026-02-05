@@ -2,12 +2,6 @@ company:
   name: LangChain
   stage: Series B
   focus: AI/LLM agent development and observability platform
-  use_cases:
-  - LLM application observability and monitoring
-  - Testing and evaluation of AI/LLM applications
-  - Debugging agent workflows and chains
-  - Enterprise-scale agent lifecycle management
-  - Controllable agent orchestration visualization
 position:
   title: Frontend Engineer, AI Observability & Evals Platform
   ai_type:

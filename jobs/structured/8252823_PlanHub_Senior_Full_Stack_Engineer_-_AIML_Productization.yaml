@@ -4,13 +4,6 @@ company:
   focus: |-
     Pre-construction SaaS platform and marketplace for
     commercial construction
-  use_cases:
-  - Intelligent search capabilities for construction projects and bids
-  - Recommendation systems helping contractors connect with subcontractors and suppliers
-  - Automation features to boost productivity and maintain deadlines in construction
-    workflows
-  - Real-time prediction workflows for bid and project matching
-  - User-facing AI-powered features integrated into the PlanHub pre-construction platform
 position:
   title: Senior Full Stack Engineer - AI/ML Productization
   ai_type:

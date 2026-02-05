@@ -2,13 +2,6 @@ company:
   name: CareSource
   stage: Public
   focus: Healthcare insurance and managed care
-  use_cases:
-  - Generative AI (LLM-based) applications for business workflows
-  - Agentic AI solutions deployed through user interfaces
-  - NLP-driven capabilities integrated into operational processes
-  - AI model outputs translated into actionable business workflows
-  - Healthcare industry applications using AI technologies
-  - Rapid prototyping and deployment of AI-powered business applications
 position:
   title: Data Solutions AI Application Developer III - Front-end Development with
     Python experience

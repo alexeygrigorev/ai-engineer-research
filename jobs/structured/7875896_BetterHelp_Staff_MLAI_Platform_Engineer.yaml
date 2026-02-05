@@ -2,11 +2,6 @@ company:
   name: BetterHelp
   stage: Series B+ (public company via Teladoc Health)
   focus: Online therapy and mental health care platform
-  use_cases:
-  - Productionizing and scaling AI/ML products for mental health services
-  - Building deployment platforms for machine learning models in therapy applications
-  - Creating reusable data pipelines for ML model training and inference
-  - Enabling ML engineering capabilities for therapy service optimization
 position:
   title: Staff ML/AI Platform Engineer
   ai_type:

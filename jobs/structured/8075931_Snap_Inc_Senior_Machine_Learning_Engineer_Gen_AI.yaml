@@ -2,12 +2,6 @@ company:
   name: Snap Inc.
   stage: Public
   focus: Camera and visual communication platform with AR experiences
-  use_cases:
-  - Image and video generation for AR Lenses in Snapchat
-  - Augmented reality experiences powered by generative models
-  - Consumer-facing GenAI products for millions of daily users
-  - AI-powered editing and creation tools for visual content
-  - LLM integration for interactive camera experiences
 position:
   title: Senior Machine Learning Engineer, Gen AI
   ai_type:

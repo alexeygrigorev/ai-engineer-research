@@ -2,13 +2,6 @@ company:
   name: Block
   stage: Public
   focus: Music streaming platform with AI-powered personalization
-  use_cases:
-  - Algorithmically surface music artists have shared through playlist generation
-    and recommendations
-  - Semantic search for discovering music content
-  - Personalized homepage experience tailored to individual listener preferences
-  - Music ranking systems to surface relevant content to users
-  - Advanced search capabilities powered by embeddings and deep learning
 position:
   title: Staff Machine Learning Engineer, Tidal Personalization AI
   ai_type:

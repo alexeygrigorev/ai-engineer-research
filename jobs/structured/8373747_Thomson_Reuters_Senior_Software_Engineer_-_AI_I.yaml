@@ -4,14 +4,6 @@ company:
   focus: |-
     Trusted information and technology for legal, tax,
     accounting, compliance, and media professionals
-  use_cases:
-  - AI-powered search and retrieval systems for legal, tax, and compliance professionals
-  - Document intelligence and information extraction using Azure AI Services
-  - Agentic AI workflows that automate complex professional tasks with tool integration
-  - Hybrid semantic and keyword search providing accurate, citable results from specialized
-    content
-  - Enterprise-grade AI applications with compliance, security, and audit capabilities
-    for regulated industries
 position:
   title: Senior Software Engineer - AI I
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: FirmPilot
   stage: null
   focus: AI-powered business automation systems using LLMs
-  use_cases:
-  - Automating and scaling real-world business outcomes using AI
-  - Production-grade automation using large language models
-  - AI-driven workflow orchestration across services and APIs
-  - Reliable, cost-effective, and low-latency LLM integration in production
-  - Applied AI systems combining structured data with embeddings and LLMs
 position:
   title: Software Engineer (Applied AI Focus)
   ai_type:

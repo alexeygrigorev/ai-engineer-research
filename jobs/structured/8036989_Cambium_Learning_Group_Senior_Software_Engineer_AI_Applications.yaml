@@ -2,14 +2,6 @@ company:
   name: Cambium Learning Group
   stage: Public
   focus: Educational technology and online assessment systems
-  use_cases:
-  - AI-powered educational software systems for student learning and assessment
-  - Autonomous AI agents for educational applications with multi-step reasoning
-  - Computer-based essay grading using AI with accuracy exceeding human graders
-  - Adaptive testing systems that customize exam experiences in real-time based on
-    student responses
-  - Large-scale online assessment platform serving millions of students and delivering
-    actionable insights to educators
 position:
   title: Senior Software Engineer (AI Applications)
   ai_type:

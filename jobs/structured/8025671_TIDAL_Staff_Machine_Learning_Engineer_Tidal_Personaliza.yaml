@@ -2,13 +2,6 @@ company:
   name: TIDAL
   stage: Public
   focus: Music streaming platform for artists
-  use_cases:
-  - Algorithmically surface music artists have shared through playlist creation and
-    recommendations
-  - Personalized listener experience on Tidal's homepage
-  - Semantic search for music discovery
-  - Advanced search functionality to help users find relevant music
-  - Recommender systems to suggest music based on user preferences
 position:
   title: Staff Machine Learning Engineer, Tidal Personalization AI
   ai_type:

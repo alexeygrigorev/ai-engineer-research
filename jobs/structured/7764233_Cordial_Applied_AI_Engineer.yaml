@@ -2,12 +2,6 @@ company:
   name: Cordial
   stage: Series B
   focus: Marketing automation and customer engagement platform
-  use_cases:
-  - Enhancing marketing communications with AI-powered personalization and automation
-  - Improving customer engagement through intelligent message optimization and generation
-  - Driving revenue growth for brands by enabling more efficient use of the platform
-  - Solving complex business challenges using frontier AI models and applied AI systems
-  - Helping clients communicate more effectively with their customers through AI capabilities
 position:
   title: Applied AI Engineer
   ai_type:

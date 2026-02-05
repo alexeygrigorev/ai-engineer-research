@@ -2,12 +2,6 @@ company:
   name: Translucent
   stage: null
   focus: AI-powered accounting and finance tools
-  use_cases:
-  - AI-powered accounting assistant for finance teams
-  - Intelligent processing and analysis of Xero and QuickBooks transaction data
-  - Financial consolidation and intercompany transaction handling with AI assistance
-  - Automated document retrieval and attribution for financial records
-  - Safe and transparent AI teammate for sensitive financial operations
 position:
   title: Senior AI Engineer
   ai_type:

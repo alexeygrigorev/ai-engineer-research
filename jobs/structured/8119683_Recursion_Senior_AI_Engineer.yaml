@@ -2,14 +2,6 @@ company:
   name: Recursion
   stage: Public
   focus: TechBio company decoding biology to improve lives
-  use_cases:
-  - Autonomous handling of business and scientific workflows within the TechBio space
-  - Internal operational automation to eliminate toil and drive operational velocity
-  - Self-healing systems that manage configuration, identity, and system health with
-    minimal human intervention
-  - Integration of AI agents with sensitive data and legacy systems for enterprise
-    automation
-  - IT Engineering platform that enables the wider organization to self-serve automations
 position:
   title: Senior AI Engineer
   ai_type:

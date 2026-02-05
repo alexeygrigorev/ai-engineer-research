@@ -2,14 +2,6 @@ company:
   name: Natera
   stage: Public
   focus: Genetic testing and diagnostics using cell-free DNA
-  use_cases:
-  - Genomics analytics and clinical trial optimization for diagnostics
-  - Patient-facing solutions and provider engagement workflows
-  - R&D, Lab Ops, Clinical Trials, and Billing workflow automation
-  - Unstructured data extraction, classification, summarization, and generation from
-    knowledge bases
-  - Domain-specific copilots for lab workflows and clinical operations
-  - Personalized genetic testing and earlier targeted interventions
 position:
   title: Principal AI/ML Platform Engineer
   ai_type:

@@ -2,16 +2,6 @@ company:
   name: OpenAI
   stage: Public
   focus: AI research and deployment company
-  use_cases:
-  - Building novel Generative AI applications on OpenAI's API for startup customers
-  - Prototyping and demonstrating practical AI/LLM use cases from ideation through
-    production scaling
-  - Developing industry-specific GenAI use cases for diverse startup backgrounds and
-    maturity levels
-  - Creating and sharing open-source resources and best practices for AI application
-    development
-  - Collecting and delivering high-fidelity product and model feedback to internal
-    teams
 position:
   title: AI Deployment Engineer- Startups
   ai_type:

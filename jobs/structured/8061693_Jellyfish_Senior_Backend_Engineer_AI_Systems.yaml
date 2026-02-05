@@ -2,12 +2,6 @@ company:
   name: Jellyfish
   stage: growth-stage startup
   focus: Engineering analytics and AI team intelligence platform
-  use_cases:
-  - Classify engineering work into meaningful categories using LLMs
-  - Aggregate and analyze work patterns across multiple issue tracking systems
-  - Process millions of issues for hundreds of customers at scale
-  - Enable engineering leaders to see patterns and help teams focus on priorities
-  - Build AI-integrated engineering team insights and analytics
 position:
   title: Senior Backend Engineer, AI Systems
   ai_type:

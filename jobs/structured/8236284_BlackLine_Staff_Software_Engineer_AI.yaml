@@ -2,14 +2,6 @@ company:
   name: BlackLine
   stage: Public
   focus: Cloud-based financial close automation software
-  use_cases:
-  - Automating and controlling the entire financial close process for enterprises
-  - Enhancing finance and accounting operational effectiveness through AI-powered
-    solutions
-  - Deploying LLM-based solutions for financial applications with proprietary data
-    and datasets
-  - Building scalable AI platforms for fintech applications with model orchestration
-    and fallback mechanisms
 position:
   title: Staff Software Engineer, AI
   ai_type:

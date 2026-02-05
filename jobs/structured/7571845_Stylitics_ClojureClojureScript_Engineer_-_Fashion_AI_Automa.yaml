@@ -2,15 +2,6 @@ company:
   name: Stylitics
   stage: Series B+
   focus: AI-powered visual outfitting and styling for retail
-  use_cases:
-  - Generate outfit images at scale using AI workflows that coordinate LLMs, image
-    generation, and human review loops
-  - Automatically write product copy and product attribution for retail catalogs
-  - Enable semantic discovery across fashion catalogs using vector search architectures
-  - Coordinate intelligent review flows where humans and AI collaborate to produce
-    millions of styled recommendations
-  - Power visual outfitting and styling recommendations across e-commerce, email,
-    advertising, stores, and social media channels
 position:
   title: Clojure/ClojureScript Engineer - Fashion AI Automation
   ai_type:

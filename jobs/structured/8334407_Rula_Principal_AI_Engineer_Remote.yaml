@@ -2,16 +2,6 @@ company:
   name: Rula
   stage: null
   focus: Remote-first mental healthcare platform
-  use_cases:
-  - Patient engagement systems powered by generative AI for mental healthcare support
-  - Provider workflow optimization using AI to streamline clinical operations and
-    reduce administrative burden
-  - Clinical decision support frameworks to assist mental health providers in delivering
-    evidence-based care
-  - Human-in-the-loop AI systems that enhance, not replace, clinical judgment in mental
-    health treatment
-  - Secure and compliant AI solutions that maintain HIPAA/GDPR standards while improving
-    patient outcomes
 position:
   title: Principal AI Engineer (Remote)
   ai_type:

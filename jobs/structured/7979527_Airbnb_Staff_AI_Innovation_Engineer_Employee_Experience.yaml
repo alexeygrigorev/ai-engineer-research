@@ -2,13 +2,6 @@ company:
   name: Airbnb
   stage: Public
   focus: Online marketplace for lodging and experiences
-  use_cases:
-  - Intelligent internal operating system for employee experience transformation
-  - AI-powered knowledge management and decision support for employees and managers
-  - Workflow automation for HR processes including resource planning and communications
-  - LLM-driven assistants to help employees navigate tools and workflows
-  - Personalized recommendations and data-driven decision support for workforce needs
-  - Seamless integration of AI capabilities across multiple HR and business systems
 position:
   title: Staff AI Innovation Engineer, Employee Experience
   ai_type:

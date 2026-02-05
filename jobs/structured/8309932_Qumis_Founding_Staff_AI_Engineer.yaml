@@ -2,16 +2,6 @@ company:
   name: Qumis
   stage: Series A
   focus: AI platform for insurance policy interpretation
-  use_cases:
-  - Insurance policy interpretation and analysis for P&C insurance professionals
-  - Reading and understanding complex legal documents like insurance policies with
-    lawyer-level accuracy
-  - Coverage analysis, comparisons, and recommendations for claims advocates, brokers,
-    and underwriters
-  - Risk detection and clause-level segmentation in insurance contracts
-  - Legal-grade decision support for claims, underwriting, and compliance teams
-  - Interactive AI-powered workflows that reduce reliance on siloed expertise in the
-    insurance industry
 position:
   title: Founding Staff AI Engineer
   ai_type:

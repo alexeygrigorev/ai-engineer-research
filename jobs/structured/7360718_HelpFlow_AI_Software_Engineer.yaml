@@ -2,13 +2,6 @@ company:
   name: HelpFlow
   stage: Established (10-year-old company)
   focus: AI-empowered virtual assistant service
-  use_cases:
-  - Building multi-agent systems that integrate AI Agents into business teams
-  - Creating AI-empowered virtual assistant services for clients
-  - Deploying AI solutions that augment human virtual assistants in customer service
-    contexts
-  - Implementing agent-based systems to automate and enhance business workflows
-  - Developing AI-powered tools that integrate with existing remote staffing operations
 position:
   title: AI Software Engineer
   ai_type:

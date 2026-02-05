@@ -2,12 +2,6 @@ company:
   name: Numeral
   stage: Series B
   focus: Sales tax compliance automation for e-commerce
-  use_cases:
-  - Automating sales tax compliance workflows for e-commerce businesses
-  - Building intelligent agents to handle regulatory and accounting burdens
-  - Implementing document processing and knowledge retrieval for tax compliance
-  - Creating automated workflows that integrate with e-commerce platforms
-  - Developing AI-powered tools to reduce administrative overhead for online businesses
 position:
   title: Software Engineer (AI)
   ai_type:

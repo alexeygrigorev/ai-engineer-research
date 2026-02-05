@@ -2,11 +2,6 @@ company:
   name: Capital
   stage: null
   focus: Leading trading platform with digital assets
-  use_cases:
-  - LLM-powered automation and orchestration for trading platform workflows
-  - Retrieval-augmented generation for document search and information access
-  - Rapid prototyping of AI applications for stakeholder validation
-  - AI microservices integration into existing trading platform infrastructure
 position:
   title: AI Product & Research Engineer
   ai_type:

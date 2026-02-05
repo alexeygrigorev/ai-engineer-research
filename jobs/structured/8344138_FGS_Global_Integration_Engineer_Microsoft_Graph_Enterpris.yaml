@@ -2,16 +2,6 @@ company:
   name: FGS Global
   stage: Public
   focus: Stakeholder strategy and corporate communications PR firm
-  use_cases:
-  - Live AI assistant (Fergus) that provides strategic recommendations to consultants
-    worldwide
-  - AI agents for M&A, crisis communications, and stakeholder strategy that access
-    enterprise data
-  - Generation of press releases and analysis of media coverage using AI capabilities
-  - Real-time media intelligence processing millions of articles and social posts
-    daily
-  - AI-powered tools helping consultants navigate high-stakes client situations with
-    secure data access
 position:
   title: Integration Engineer – Microsoft Graph & Enterprise AI Systems
   ai_type:

@@ -2,11 +2,6 @@ company:
   name: Speechify
   stage: Series B
   focus: Text-to-speech AI reading accessibility products
-  use_cases:
-  - Text-to-speech conversion for PDFs, books, documents, and websites
-  - Audio generation from written content for faster reading and improved retention
-  - Accessibility support for users with learning differences like dyslexia and ADD
-  - Cross-platform voice synthesis including iOS, Android, Mac, Chrome, and web applications
 position:
   title: AI Engineer & Researcher, Inference
   ai_type:

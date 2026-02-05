@@ -2,13 +2,6 @@ company:
   name: Genesys
   stage: Public
   focus: AI-powered customer experience orchestration platform
-  use_cases:
-  - Customer engagement applications using AI for personalized interactions
-  - Workflow automation solutions leveraging AI capabilities
-  - Decision support systems for business operations
-  - Enterprise-grade AI applications integrating with Salesforce, Workday, and other
-    business systems
-  - Multi-tenant, global-scale AI-powered customer experience orchestration
 position:
   title: Sr. AI Application Developer
   ai_type:

@@ -2,17 +2,6 @@ company:
   name: Collibra
   stage: null
   focus: Data intelligence and governance platform for enterprises
-  use_cases:
-  - Process and enrich large volumes of unstructured enterprise documents (PDFs, contracts,
-    reports) at scale
-  - Apply LLM-based enrichment models for classification, extraction, deduplication,
-    and PII detection on enterprise data
-  - Enable AI agents to reason over real-world enterprise data by designing how data,
-    metadata, and domain knowledge flow into AI systems
-  - Support AI-driven decision making at enterprise scale by transforming unstructured
-    and structured data
-  - Integrate Unstructured AI capabilities into customer's broader Collibra data governance
-    stack
 position:
   title: Forward Deployed Engineer, Unstructured AI
   ai_type:

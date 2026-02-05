@@ -2,11 +2,6 @@ company:
   name: LangChain
   stage: Series B
   focus: Agent engineering platform and open source frameworks
-  use_cases:
-  - Observability and monitoring for LLM-powered agents and applications
-  - Evaluation and testing framework for AI/ML systems
-  - Deployment and iteration tools for production LLM applications
-  - Developer tooling for building reliable intelligent agents
 position:
   title: Senior Full Stack Engineer,  AI Observability & Evals Platform
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: BetterUp
   stage: Series D
   focus: Human transformation and professional coaching platform
-  use_cases:
-  - Automated internal operations and workflow optimization across SaaS ecosystem
-  - Secure AI-enabled employee onboarding and provisioning systems
-  - Identity and access management automation with SAML/SSO integration
-  - Bulk data import and processing automations (e.g., CSV bulk importers)
-  - Agentic AI systems for integrating with operational data and user identity services
-  - Compliance and audit-ready automation for US and EU regions
 position:
   title: AI Automation Engineer
   ai_type:

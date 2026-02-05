@@ -2,14 +2,6 @@ company:
   name: Assembled
   stage: Series B
   focus: AI-powered customer support operations platform
-  use_cases:
-  - AI Agents that automate customer support workflows across email, chat, and voice
-    channels
-  - AI Copilot providing real-time assistance to human support agents
-  - AI-powered workforce management optimizing both human and AI capacity
-  - Dynamic routing of LLM requests for performance and cost efficiency
-  - Semantic search across support content using embeddings and vector databases
-  - Enterprise-grade AI systems with strict privacy, security, and compliance guardrails
 position:
   title: Software Engineer - AI Infrastructure
   ai_type:

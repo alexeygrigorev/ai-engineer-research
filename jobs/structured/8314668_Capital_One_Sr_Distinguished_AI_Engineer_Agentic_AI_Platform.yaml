@@ -4,13 +4,6 @@ company:
   focus: |-
     Banking and financial services with AI-driven personalized
     customer experiences
-  use_cases:
-  - Informing customers about unusual charges in real-time using AI
-  - Answering customer questions in real-time through AI-powered systems
-  - Creating personalized customer experiences through machine learning
-  - Deploying responsible and reliable AI systems for banking applications
-  - Empowering teams across Capital One to enhance products with AI capabilities in
-    scalable ways
 position:
   title: Sr. Distinguished AI Engineer (Agentic AI Platform)
   ai_type:

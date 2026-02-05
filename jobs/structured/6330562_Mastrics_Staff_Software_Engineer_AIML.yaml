@@ -4,12 +4,6 @@ company:
   focus: |-
     Fertility-tech SaaS platforms for surrogacy, egg donation,
     and medical record automation
-  use_cases:
-  - Retrieval-augmented generation (RAG) services for SaaS products
-  - AI-powered chatbots for customer interaction
-  - Document summarization pipelines for medical records and background checks
-  - AI features for fertility-tech and agency journey management platforms
-  - Transparent surrogacy and egg-donation funding automation
 position:
   title: Staff Software Engineer – AI/ML
   ai_type:

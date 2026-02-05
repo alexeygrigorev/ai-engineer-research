@@ -2,13 +2,6 @@ company:
   name: Capital One
   stage: Public
   focus: Banking and financial services with AI-powered experiences
-  use_cases:
-  - Informing customers about unusual charges and fraudulent activity detection
-  - Real-time customer service and question answering
-  - Personalized customer experiences and recommendations
-  - AI-powered tools for associates to improve productivity
-  - Responsible AI systems with guardrails and governance
-  - Similarity search and knowledge retrieval for banking applications
 position:
   title: Sr. Lead AI Engineer
   ai_type:

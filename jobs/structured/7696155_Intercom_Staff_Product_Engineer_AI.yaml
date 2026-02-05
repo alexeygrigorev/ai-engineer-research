@@ -2,13 +2,6 @@ company:
   name: Intercom
   stage: Series F
   focus: AI-powered customer service platform
-  use_cases:
-  - AI-powered customer service agent (Fin) that provides always-on, impeccable customer
-    service
-  - AI-enhanced helpdesk solution that combines automated agent support with human
-    agents for complex queries
-  - Transformer neural network applications for customer service automation
-  - Supervised and unsupervised ML models for customer experience optimization
 position:
   title: Staff Product Engineer, AI
   ai_type:

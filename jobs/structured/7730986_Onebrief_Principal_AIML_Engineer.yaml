@@ -4,18 +4,6 @@ company:
   focus: |-
     AI-powered collaboration software for military staffs and
     mission planning
-  use_cases:
-  - Transform complex military requirements for planning critical operations into
-    robust production-ready systems
-  - Enable distributed human-AI collaboration at scale using multi-modal foundation
-    models
-  - Coordinate AI agents to accomplish complex operational tasks in mission-critical
-    environments
-  - Support thousands of users in regulated, offline-capable environments for military
-    operations
-  - Combine text, structured data, and domain-specific signals for orchestrated AI
-    systems
-  - Deliver grounded and reliable AI outputs for military mission planning workflows
 position:
   title: Principal AI/ML Engineer
   ai_type:

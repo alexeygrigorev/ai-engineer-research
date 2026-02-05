@@ -2,13 +2,6 @@ company:
   name: Kainos
   stage: null
   focus: AI and data solutions consulting
-  use_cases:
-  - Government digital services transformation at citizen scale
-  - Healthcare AI solutions with responsible and ethical deployment
-  - Defence sector AI applications with security and compliance standards
-  - Enterprise AI solutions with agentic AI capabilities
-  - Production-grade RAG applications for knowledge retrieval
-  - LLM fine-tuning and deployment for commercial clients
 position:
   title: Senior AI Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: null
   focus: LLM code evaluation and training via RLHF
-  use_cases:
-  - Training large language models to write production-grade code across multiple
-    programming languages
-  - Conducting RLHF (Reinforcement Learning with Human Feedback) for code generation
-    models
-  - Converting expert code reviews and feedback into reward signals for model fine-tuning
 position:
   title: Software Engineer, AI (Java)
   ai_type:

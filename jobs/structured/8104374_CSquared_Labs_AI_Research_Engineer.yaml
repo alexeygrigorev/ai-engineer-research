@@ -2,16 +2,6 @@ company:
   name: CSquared Labs
   stage: null
   focus: LLM and agentic AI systems
-  use_cases:
-  - Multi-agent collaboration systems where manager agents delegate tasks to specialized
-    worker agents
-  - Tree-of-thought reasoning and complex cognitive architectures for open-ended problem
-    solving
-  - RAG-enhanced agents with reliable information retrieval and reduced hallucination
-  - Automated prompt optimization using frameworks like DSPy for systematic performance
-    improvement
-  - Rigorous evaluation systems using LLM-as-a-judge frameworks to ensure agent reliability
-    and safety
 position:
   title: AI Research Engineer
   ai_type:

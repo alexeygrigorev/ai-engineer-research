@@ -2,12 +2,6 @@ company:
   name: Cribl
   stage: null
   focus: Data engine for IT and Security observability
-  use_cases:
-  - Search and analytics of observability data using Generative AI technologies
-  - AI agent-driven conversational user interfaces for data interaction
-  - RAG (Retrieval Augmented Generation) applications for querying observability data
-  - AI-powered integrations to solve IT and Security data needs
-  - Customer-facing AI features that enhance data exploration and analysis
 position:
   title: Staff Software Engineer, Cribl AI
   ai_type:

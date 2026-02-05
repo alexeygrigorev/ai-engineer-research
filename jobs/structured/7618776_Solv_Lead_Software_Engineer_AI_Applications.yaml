@@ -2,12 +2,6 @@ company:
   name: Solv.
   stage: Series B
   focus: Healthcare technology platform for accessible care
-  use_cases:
-  - Intelligent workflow automation for healthcare providers
-  - Personalized patient experiences through AI-native applications
-  - AI-powered search and retrieval using vector search and embeddings
-  - Automated evaluation and testing of LLM prompt performance in healthcare context
-  - Production AI services for clinical workflows and patient care
 position:
   title: Lead Software Engineer, AI Applications
   ai_type:

@@ -2,14 +2,6 @@ company:
   name: MixMode
   stage: Series B
   focus: AI-powered cybersecurity threat detection
-  use_cases:
-  - Real-time threat detection for known and unknown cybersecurity threats across
-    cloud, hybrid, and on-premises environments
-  - Self-supervised AI systems that automatically learn and adapt to dynamic network
-    environments
-  - Scalable cybersecurity monitoring for large organizations with big data workloads
-  - Protecting critical infrastructure and government/defense assets from cyber threats
-  - Context-aware anomaly detection in network traffic patterns
 position:
   title: Sr. Software Reliability Engineer for AI
   ai_type:

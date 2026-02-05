@@ -2,15 +2,6 @@ company:
   name: Citi
   stage: Public
   focus: Global banking and financial services
-  use_cases:
-  - Automating complex tasks and optimizing workflows across various domains
-  - Solving real-world problems through intelligent agents with autonomous decision-making
-    capabilities
-  - Enhancing decision-making through integration of LLMs and reinforcement learning
-    models
-  - Implementing multi-agent systems for collaborative problem-solving
-  - Automating task execution with minimal human intervention through perception and
-    reasoning modules
 position:
   title: Senior AI Data Engineer- Vice President
   ai_type:

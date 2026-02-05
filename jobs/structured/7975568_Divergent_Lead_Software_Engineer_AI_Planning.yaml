@@ -4,12 +4,6 @@ company:
   focus: |-
     AI-powered end-to-end manufacturing system for automotive
     and aerospace
-  use_cases:
-  - AI-powered task planning and scheduling for robotics and manufacturing
-  - Optimization of complex integrated vehicle structure assembly processes
-  - Decision-making systems for manufacturing efficiency and product quality
-  - Constraint programming for flexible manufacturing and customization
-  - Combinatorial optimization for production scheduling and resource allocation
 position:
   title: Lead Software Engineer, AI Planning
   ai_type:

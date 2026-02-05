@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: Early-stage startup
   focus: Enterprise AI workforce automation platform
-  use_cases:
-  - Enterprise software efficiency through AI workforce automation
-  - Cross-functional task execution by AI Agents and AI Teams
-  - Reducing tech and operational waste by 30-40% within 4-12 weeks
-  - Unified AI ecosystem replacing fragmented enterprise systems
-  - Autonomous and scalable AI workforce for business operations
 position:
   title: AI Engineer
   ai_type:

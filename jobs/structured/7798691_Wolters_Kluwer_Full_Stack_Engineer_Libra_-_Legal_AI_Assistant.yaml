@@ -2,13 +2,6 @@ company:
   name: Wolters Kluwer
   stage: Series B
   focus: Legal AI platform for automating knowledge work
-  use_cases:
-  - Transforming how lawyers research, draft, and deliver legal work using generative
-    AI
-  - Automating knowledge work for legal professionals to enhance productivity
-  - Combining deep legal reasoning with cutting-edge generative technology
-  - Building intelligent, scalable solutions that empower legal professionals and
-    transform workflows
 position:
   title: Full Stack Engineer (Libra - Legal AI Assistant) (m/f/d)
   ai_type:

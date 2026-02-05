@@ -2,13 +2,6 @@ company:
   name: Vellum
   stage: Series A
   focus: AI agent platform for non-technical users
-  use_cases:
-  - Enabling non-technical users (Sales, Ops, Marketing, Finance) to create AI agents
-    through natural language descriptions
-  - Automating manual workflows like Slack thread management and data entry
-  - Generating reliable, working agents in seconds to improve productivity across
-    business functions
-  - Providing enterprise-grade AI tools that go beyond generic ChatGPT responses
 position:
   title: AI Product Engineer
   ai_type:

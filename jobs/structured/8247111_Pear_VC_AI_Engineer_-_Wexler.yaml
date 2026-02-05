@@ -2,15 +2,6 @@ company:
   name: Pear VC
   stage: Seed
   focus: Legal AI platform for litigation and enterprise law firms
-  use_cases:
-  - Extract objective, cross-referenced facts from millions of legal documents to
-    support litigation
-  - Help litigators find winning strategies and critical facts that determine case
-    outcomes
-  - Create clarity from complex document chaos in legal disputes
-  - Save months of working hours for law firms through automated document analysis
-  - Manage, resolve and prevent legal disputes across enterprise law firms and Fortune
-    500 companies
 position:
   title: AI Engineer - Wexler
   ai_type:

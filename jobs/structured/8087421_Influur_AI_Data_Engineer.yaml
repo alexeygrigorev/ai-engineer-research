@@ -2,15 +2,6 @@ company:
   name: Influur
   stage: Series A
   focus: Autonomous AI agent for influencer marketing
-  use_cases:
-  - Autonomous agent for influencer marketing that goes from campaign planning to
-    execution with minimal human intervention
-  - AI-powered system that identifies what makes influencer content go viral using
-    proprietary data
-  - Campaign automation that matches influencers with brands and manages execution
-    end-to-end
-  - Social media data analysis to optimize viral content performance for entertainment
-    brands
 position:
   title: AI Data Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: General Motors
   stage: Public
   focus: Automotive manufacturer with autonomous vehicle technology
-  use_cases:
-  - Level 4 autonomous driving features and vehicle behaviors
-  - AI/ML model safety validation for autonomous vehicles
-  - Generative AI solutions for autonomous driving systems
-  - Large Language Model applications in automotive safety contexts
-  - Operational design domain validation for autonomous driving
 position:
   title: 'Principal AV Behavior and AI Safety Engineer: Technical Lead (GPSSC)'
   ai_type:

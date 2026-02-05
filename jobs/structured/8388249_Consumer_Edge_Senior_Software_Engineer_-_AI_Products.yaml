@@ -4,13 +4,6 @@ company:
   focus: |-
     Data innovation and AI company creating actionable consumer
     and business intelligence products
-  use_cases:
-  - Building a proactive intelligence layer that integrates with user workflows as
-    a copilot for exploration
-  - Surfacing insights from real-time transaction-based consumer and business data
-  - Suggesting next steps and providing unified, embedded, and proactive intelligence
-  - Non-deterministic user request processing with AI interpretation within guardrails
-  - Answering real-world business questions using enriched transaction data
 position:
   title: Senior Software Engineer - AI Products
   ai_type:

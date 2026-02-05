@@ -2,13 +2,6 @@ company:
   name: Justworks
   stage: Series D
   focus: HR solutions and benefits administration platform
-  use_cases:
-  - Securing AI-powered HR and business systems from AI-specific threats and vulnerabilities
-  - Protecting company data through guardrails and security controls for AI features
-  - Implementing AI models to enhance security controls and operations
-  - Monitoring AI systems for security threats in cloud environments (AWS)
-  - Ensuring secure AI implementation across Justworks applications and infrastructure
-  - Managing AI tools including vector databases, model hosting, and AI coding assistants
 position:
   title: Senior Security Engineer (AI Security)
   ai_type:

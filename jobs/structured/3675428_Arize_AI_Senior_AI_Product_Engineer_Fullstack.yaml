@@ -2,12 +2,6 @@ company:
   name: Arize AI
   stage: Series C
   focus: AI observability and evaluation platform
-  use_cases:
-  - AI observability and monitoring platform for tracking model performance in production
-  - Interactive playgrounds for prompt engineering and agent development workflows
-  - Real-time evaluation infrastructure handling millions of annotations per second
-  - Data visualization tools for interpreting and monitoring AI/ML model behavior
-  - Instrumentation APIs for automatically tracking LLM and agent applications
 position:
   title: Senior AI Product Engineer, Fullstack
   ai_type:

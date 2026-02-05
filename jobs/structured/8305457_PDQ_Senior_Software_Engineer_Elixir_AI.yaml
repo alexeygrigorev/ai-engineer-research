@@ -2,13 +2,6 @@ company:
   name: PDQ
   stage: Growth (Private equity backed)
   focus: Device management software and IT automation SaaS
-  use_cases:
-  - Agentic AI systems for device management that perform multi-step reasoning and
-    planning
-  - AI-powered tool execution for IT automation and device operations
-  - LLM-integrated workflows for deploying software and managing inventory
-  - Autonomous or semi-autonomous agents for vulnerability remediation
-  - IT operations automation through AI agents with stateful memory and feedback loops
 position:
   title: Senior Software Engineer, Elixir (AI)
   ai_type:

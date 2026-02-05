@@ -2,12 +2,6 @@ company:
   name: WEX Inc.
   stage: Public
   focus: Financial technology and payment solutions
-  use_cases:
-  - Deploying AI functionality into product applications in a scalable manner
-  - Building Agentic AI Applications for business solutions
-  - Integrating Large Language Models and ChatGPT into payment and healthcare systems
-  - Automating infrastructure, testing, and deployment for ML systems
-  - Creating ML system pipelines for data processing and model serving
 position:
   title: Senior AI Engineer
   ai_type:

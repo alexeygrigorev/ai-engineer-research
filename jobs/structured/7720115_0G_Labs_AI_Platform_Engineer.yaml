@@ -2,13 +2,6 @@ company:
   name: 0G Labs
   stage: null
   focus: Decentralized AI platform infrastructure
-  use_cases:
-  - Scalable platform for integrating, training, and deploying ML models in a decentralized
-    environment
-  - Integration of AI capabilities with blockchain systems and decentralized applications
-  - Secure AI infrastructure that adheres to decentralization principles
-  - Cost-optimized cloud infrastructure for high-performance AI workloads
-  - Support for making AI a public good through decentralized platform infrastructure
 position:
   title: AI Platform Engineer
   ai_type:

@@ -2,12 +2,6 @@ company:
   name: G2i
   stage: null
   focus: AI code evaluation and model training
-  use_cases:
-  - Training large language models to write production-grade code across multiple
-    programming languages
-  - Converting expert code review feedback into reward signals for reinforcement learning
-  - Teaching models to propose, critique, and improve code similar to expert engineers
-  - Improving AI code generation through iterative RLHF processes
 position:
   title: AI Software Engineer (Java)
   ai_type:

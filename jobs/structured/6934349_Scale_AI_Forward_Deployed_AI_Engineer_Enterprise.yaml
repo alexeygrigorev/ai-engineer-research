@@ -4,17 +4,6 @@ company:
   focus: |-
     Data foundation for AI, enterprise AI solutions, data
     annotation platform
-  use_cases:
-  - Deep research agents for due diligence that perform multi-agent fact-checking
-    and process complex unstructured data
-  - Churn prediction models with personalized offer curation integrated into copilot
-    systems for call centers
-  - Voice agents with avatars for gathering unstructured health information in healthcare
-    settings
-  - Customer support automation using AI agents to handle routine inquiries and workflow
-    automation
-  - Data analysis and content generation agents tailored to specific enterprise domains
-  - Human-in-the-loop workflows for continuous agent improvement and feedback collection
 position:
   title: Forward Deployed AI Engineer, Enterprise
   ai_type:

@@ -4,13 +4,6 @@ company:
   focus: |-
     Real-time analytics, data warehousing, and cloud database
     platform
-  use_cases:
-  - AI-powered features for real-time analytics and data warehousing platform
-  - Inference API layer connecting database capabilities with external AI/ML services
-  - User interfaces that enable users to interact with AI functionalities and extract
-    value from their data
-  - Integration with popular AI/ML frameworks, tools, and vector databases
-  - Model deployment and monitoring in production systems for data-oriented use cases
 position:
   title: Senior Software Engineer (TypeScript) - AI/ML
   ai_type:

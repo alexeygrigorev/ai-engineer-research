@@ -4,13 +4,6 @@ company:
   focus: |-
     Visual workspace for innovation and distributed team
     collaboration
-  use_cases:
-  - AI-powered intelligent assistants (sidekicks) that help users collaborate and
-    create within the Miro platform
-  - Create with AI app enabling users to generate content using AI on the visual canvas
-  - AI context menu providing contextual AI-powered features and suggestions
-  - AI-augmented collaborative workspace experiences for over 90 million users
-  - Intelligent tools that empower teams to innovate and build products more efficiently
 position:
   title: Full Stack Engineer, AI Experience
   ai_type:

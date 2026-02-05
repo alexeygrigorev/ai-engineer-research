@@ -4,12 +4,6 @@ company:
   focus: |-
     Educational platform with curriculum management and AI-
     driven learning experiences
-  use_cases:
-  - Personalized learning paths that adapt to individual student needs
-  - Automated grading systems that provide efficient and accurate assessment
-  - AI-powered test data generation for QA workflows
-  - Self-healing test scripts to improve automation reliability
-  - Bias detection and mitigation in AI-driven educational features
 position:
   title: Senior QA Engineer, AI Experience
   ai_type:

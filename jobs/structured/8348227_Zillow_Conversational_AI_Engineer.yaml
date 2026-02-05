@@ -2,12 +2,6 @@ company:
   name: Zillow
   stage: Public
   focus: Real estate platform and marketplace
-  use_cases:
-  - Self-service customer support through interactive agent-driven chat interface
-  - Automated resolution of common customer and frontline issues
-  - Natural language query handling for Zillow's real estate products and services
-  - Internal team support and knowledge access through conversational AI
-  - Compliant and trustworthy help content delivery across customer touchpoints
 position:
   title: Conversational AI Engineer
   ai_type:

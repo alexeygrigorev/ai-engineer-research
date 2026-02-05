@@ -2,13 +2,6 @@ company:
   name: esure Group
   stage: Public
   focus: Home and Motor Insurance
-  use_cases:
-  - Enhancing customer experience through NLP and large language models
-  - Integrating third-party GenAI services for personalized customer interactions
-  - Deploying AI applications across the insurance enterprise for various business
-    functions
-  - Measuring AI solution effectiveness through A/B testing to deliver real value
-  - Leveraging data-driven insights for personalized insurance experiences
 position:
   title: AI Engineer
   ai_type:

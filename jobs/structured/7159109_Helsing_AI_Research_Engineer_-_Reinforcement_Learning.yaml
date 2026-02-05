@@ -2,12 +2,6 @@ company:
   name: Helsing
   stage: null
   focus: Defence AI for autonomous aerial platforms
-  use_cases:
-  - Autonomous aerial combat vehicle (UCAV) flight control and navigation
-  - Real-time decision-making for unmanned aerial platforms in defense scenarios
-  - Multi-agent coordination and control for autonomous systems
-  - Robust autonomous navigation and localization for semi-autonomous platforms
-  - Adversarial attack resilience for deployed autonomous systems
 position:
   title: AI Research Engineer - Reinforcement Learning
   ai_type:

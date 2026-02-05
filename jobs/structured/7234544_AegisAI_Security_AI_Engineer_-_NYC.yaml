@@ -2,13 +2,6 @@ company:
   name: AegisAI Security
   stage: Stealth
   focus: AI-powered cybersecurity and threat detection
-  use_cases:
-  - Detecting and stopping adversarial AI attacks in real-time
-  - Identifying customized, high-evasion attacks crafted by AI-enabled adversaries
-  - Providing rapid threat detection that outpaces traditional rules-based systems
-  - Orchestrating multiple AI agents to collaboratively identify emerging threats
-  - Defending organizations against AI-powered security threats and customized evasive
-    payloads
 position:
   title: AI Engineer - NYC
   ai_type:

@@ -2,13 +2,6 @@ company:
   name: AlphaSense
   stage: Series B
   focus: AI-driven market intelligence and search platform
-  use_cases:
-  - AI agents processing market intelligence requests at scale
-  - Enterprise market intelligence search powered by AI
-  - RAG-based search and retrieval from research documents, company filings, and expert
-    calls
-  - Multi-model AI systems delivering insights from thousands of content sets
-  - Agentic systems that power decision-making for S&P 500 companies
 position:
   title: Staff AI Platform Engineer
   ai_type:

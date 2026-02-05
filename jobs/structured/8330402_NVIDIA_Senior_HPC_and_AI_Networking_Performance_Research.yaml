@@ -2,13 +2,6 @@ company:
   name: NVIDIA
   stage: Public
   focus: GPU computing and AI infrastructure
-  use_cases:
-  - Distributed deep learning LLM training at scale on NVIDIA supercomputers
-  - High-performance networking optimization for AI/ML workloads
-  - Collective communication optimization using NCCL and RDMA protocols
-  - System performance analysis and bottleneck identification for large-scale GPU
-    clusters
-  - AI workload benchmarking and performance profiling on multi-node systems
 position:
   title: Senior HPC and AI Networking Performance Research and Analysis Engineer
   ai_type:

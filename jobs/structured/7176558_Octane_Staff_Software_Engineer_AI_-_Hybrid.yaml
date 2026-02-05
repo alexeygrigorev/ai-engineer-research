@@ -2,15 +2,6 @@ company:
   name: Octane
   stage: Series B+
   focus: Financial technology platform for merchants and consumers
-  use_cases:
-  - Power smarter, faster, and more efficient decision-making through AI/ML solutions
-  - Support merchants throughout the sales cycle by connecting dealerships with high-intent
-    buyers
-  - Enable transparent, fast, and easy closings with award-winning AI-powered technology
-  - Provide superior loan servicing and ongoing customer care through intelligent
-    automation
-  - Drive customer loyalty and deliver seamless digital experiences using advanced
-    financial technology
 position:
   title: Staff Software Engineer, AI - Hybrid
   ai_type:

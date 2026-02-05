@@ -2,13 +2,6 @@ company:
   name: OutSystems
   stage: Series E+
   focus: Low-code AI-powered application development platform
-  use_cases:
-  - Enterprise Vibe Coding for serious software development
-  - AI-native developer tools and agentic application development
-  - Low-code platform for building AI-powered applications and agents
-  - Enterprise application development with AI-assisted coding
-  - Reducing manual work and streamlining internal operations through AI
-  - Secure, governed human-AI collaboration in enterprise environments
 position:
   title: Senior AI Engineer
   ai_type:

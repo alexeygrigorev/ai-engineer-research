@@ -2,13 +2,6 @@ company:
   name: Norm Ai
   stage: Series B+
   focus: Legal and compliance AI platform
-  use_cases:
-  - High-stakes legal and compliance workflow automation
-  - Enterprise-grade AI agents for end-to-end task completion
-  - Large Language Model powered legal workflows
-  - Legal reasoning and regulatory compliance processing
-  - PDF and unstructured document analysis for legal insights
-  - Domain-specific AI agents supervised by legal professionals
 position:
   title: Software Engineer, Applied AI
   ai_type:

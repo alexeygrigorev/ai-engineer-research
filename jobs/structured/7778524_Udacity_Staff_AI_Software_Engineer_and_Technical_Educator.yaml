@@ -2,14 +2,6 @@ company:
   name: Udacity
   stage: Acquired (Accenture company)
   focus: Online technical education platform for AI/ML
-  use_cases:
-  - Agentic course creation using multi-agent systems to generate educational content
-  - Interactive learning experiences powered by AI agents for student engagement
-  - Automated content review and publishing pipelines with quality evaluation
-  - RAG-based systems for content retrieval and knowledge enhancement in learning
-    materials
-  - Educational content generation with human-in-the-loop quality control and safety
-    guardrails
 position:
   title: Staff AI Software Engineer and Technical Educator
   ai_type:

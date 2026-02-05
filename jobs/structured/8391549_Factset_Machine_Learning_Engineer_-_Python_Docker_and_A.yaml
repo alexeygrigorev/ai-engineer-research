@@ -4,12 +4,6 @@ company:
   focus: |-
     Financial data and analytics platform for investment
     professionals
-  use_cases:
-  - Enriching data from across the company for use in GenAI workflows
-  - Knowledge graph connecting financial concepts to available data
-  - RAG (Retrieval-Augmented Generation) for financial data and knowledge management
-  - Query planning and optimization for financial data retrieval
-  - AI-powered financial data analytics and decision support
 position:
   title: Machine Learning Engineer - (Python, Docker, and API development,  AI/ML
     solutions) - Hybrid
