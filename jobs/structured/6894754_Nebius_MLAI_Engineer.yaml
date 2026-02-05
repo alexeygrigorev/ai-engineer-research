@@ -1,0 +1,62 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: AI cloud platform with GPU infrastructure
+  use_cases:
+  - Benchmarking and performance evaluation of GPU platforms for machine learning
+    and AI workloads
+  - Optimizing deep learning training and inference performance on GPU hardware
+  - Acceptance testing and validation of new GPU clusters for AI workloads
+  - Analyzing performance impact of interconnect strategies and system-level optimizations
+  - Developing performance visualization tools and dashboards for GPU metrics
+  - Identifying and resolving performance bottlenecks in ML workloads at kernel level
+position:
+  title: ML/AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on GPU performance profiling,
+      optimization, and benchmarking for ML workloads rather than
+      building or deploying AI models/LLMs. The work involves deep
+      technical work with CUDA, GPU architectures, and performance
+      optimization of training/inference workloads on hardware
+      platforms, which is traditional ML infrastructure
+      engineering rather than AI/LLM development.
+  responsibilities:
+  - Work closely with hardware and development teams to profile and analyze GPU performance
+    at the system and kernel level
+  - Evaluate and compare GPU performance across different platforms, architectures,
+    and software stacks like CUDA and ROCm
+  - Debug and optimize ML workloads to run efficiently on GPU hardware, identifying
+    and resolving performance bottlenecks
+  - Perform acceptance testing for new GPU clusters to ensure hardware and software
+    meet performance, stability, and compatibility requirements
+  - Perform experiments across diverse GPU system configurations to assess interconnect
+    strategies and system-level optimizations
+  - Develop tools and dashboards to visualize performance metrics, bottlenecks, and
+    trends
+  - Contribute to internal tooling, frameworks, and best practices
+  use_cases:
+  - Benchmarking and performance evaluation of GPU platforms for machine learning
+    and AI workloads
+  - Optimizing deep learning training and inference performance on GPU hardware
+  - Acceptance testing and validation of new GPU clusters for AI workloads
+  - Analyzing performance impact of interconnect strategies and system-level optimizations
+  - Developing performance visualization tools and dashboards for GPU metrics
+  - Identifying and resolving performance bottlenecks in ML workloads at kernel level
+  skills:
+    genai: []
+    ml: [PyTorch, JAX, CUDA]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure ML]
+    ops: [NCCL, Docker, Kubernetes, vLLM, TensorRT, Nsight, nvprof]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6894754'
+  extracted_at: '2026-02-05T09:57:11.040068'

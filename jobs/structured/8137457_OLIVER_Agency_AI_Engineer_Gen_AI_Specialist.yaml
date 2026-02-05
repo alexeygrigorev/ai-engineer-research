@@ -1,0 +1,60 @@
+company:
+  name: OLIVER Agency
+  stage: Public
+  focus: In-house agencies and marketing ecosystems for brands
+  use_cases:
+  - Visual content creation for marketing campaigns using AI-generated imagery and
+    video
+  - Product-accurate CGI content production enhanced with AI capabilities
+  - Rapid prototyping of visual concepts for global brands and clients
+  - Integration of AI outputs into existing CGI and VFX workflows
+  - Content production automation using data-driven methodologies and AI tools
+  - Creative AI experimentation to push boundaries in visual storytelling and advertising
+position:
+  title: AI Engineer – Gen AI Specialist
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with generative AI models
+      for image and video generation, including training and fine-
+      tuning LoRA models. The engineer directly builds, optimizes,
+      and deploys AI outputs, working on model architectures and
+      experimentation rather than just supporting infrastructure.
+  responsibilities:
+  - Support rapid prototyping using text-to-image, text-to-video, image-to-image,
+    and video-to-video workflows
+  - Produce high-quality, product-accurate AI imagery and video content for global
+    clients
+  - Train and fine-tune LoRA models using CGI datasets and photographic references
+  - Optimize models and explore emerging image/video generation techniques and architectures
+  - Collaborate with CGI artists to ensure outputs meet client-approved visual standards
+    and translate experiments into reliable workflows
+  - Conduct R&D to identify and evaluate new tools, methodologies, and models in the
+    Gen AI landscape
+  - Document findings and share expertise with the team for knowledge-sharing and
+    continuous improvement
+  use_cases:
+  - Visual content creation for marketing campaigns using AI-generated imagery and
+    video
+  - Product-accurate CGI content production enhanced with AI capabilities
+  - Rapid prototyping of visual concepts for global brands and clients
+  - Integration of AI outputs into existing CGI and VFX workflows
+  - Content production automation using data-driven methodologies and AI tools
+  - Creative AI experimentation to push boundaries in visual storytelling and advertising
+  skills:
+    genai: [LoRA, fine-tuning, ComfyUI, text-to-image, text-to-video, image-to-image,
+      video-to-video, LLM development]
+    ml: [model training, GPU compute, model optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [CGI pipelines, VFX workflows, look development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8137457'
+  extracted_at: '2026-02-05T12:05:26.047444'

@@ -1,0 +1,61 @@
+company:
+  name: Genies
+  stage: Series B+
+  focus: Avatar technology and AI companions for digital identity
+  use_cases:
+  - Generate high-quality 3D assets for avatar creation including meshes, images,
+    and motion
+  - AI-generated fashion items and props for digital avatars
+  - Neural radiance fields (NeRF) and Gaussian splatting for novel view synthesis
+    and scene representation
+  - 3D multimodal training for computer vision and graphics applications
+  - Game-ready AI companions with customizable appearance and behavior
+  - Volumetric differentiable rendering for animation and gaming content
+position:
+  title: 'Senior Machine Learning Engineer: 3D Generative AI'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building, training, fine-tuning, and
+      deploying generative AI models for 3D asset creation. The
+      engineer will directly work with ML/DL frameworks (PyTorch,
+      TensorFlow), train large-scale models, and implement white
+      paper concepts for user-facing creative technologies.
+  responsibilities:
+  - Collaborate with R&D and Application teams to integrate AI/ML solutions into avatar
+    creation ecosystem using 3D computer vision and computer graphics
+  - Design, train, fine-tune, optimize, and deploy ML models and technical frameworks
+    for production
+  - Apply computer graphics pipelines and computational geometry to synthesize 3D
+    meshes, images, and motion
+  - Implement white paper concepts to develop user-facing creative technologies
+  - Manage ML framework resources including dataset management, cloud computing, experiment
+    tracking, and model deployment
+  - Partner with Product and Creative teams to refine AI/ML-powered creation tools
+    and interfaces
+  use_cases:
+  - Generate high-quality 3D assets for avatar creation including meshes, images,
+    and motion
+  - AI-generated fashion items and props for digital avatars
+  - Neural radiance fields (NeRF) and Gaussian splatting for novel view synthesis
+    and scene representation
+  - 3D multimodal training for computer vision and graphics applications
+  - Game-ready AI companions with customizable appearance and behavior
+  - Volumetric differentiable rendering for animation and gaming content
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Distributed Training, Model Deployment, Experiment Tracking, Model Versioning]
+    languages: [Python]
+    domains: [Computer Vision, 3D Computer Graphics, Computational Geometry, NeRF
+        (Neural Radiance Fields), Gaussian Splatting]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6606445'
+  extracted_at: '2026-02-05T18:54:55.596418'

@@ -1,0 +1,59 @@
+company:
+  name: GlobalFoundries
+  stage: Public
+  focus: Semiconductor foundry and manufacturing
+  use_cases:
+  - AI-enhanced employee productivity through Microsoft 365 Copilot integration
+  - Employee experience portals and intranet solutions using Viva Suite and SharePoint
+  - Automated workflows and business processes via Power Platform with AI capabilities
+  - Copilot-enabled meeting experiences and knowledge management
+  - Enterprise governance and security for AI deployment in workplace tools
+position:
+  title: Intelligent Workplace Engineer – Employee Productivity AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on implementing and governing Microsoft
+      365 Copilot capabilities and AI-driven productivity tools
+      rather than building, training, or fine-tuning models. The
+      hands-on work is limited to developing Copilot Agents using
+      Copilot Studio (a low-code/no-code platform) and configuring
+      pre-built AI solutions for employee experience.
+  responsibilities:
+  - Serve as technical lead for Microsoft 365 modern workplace solutions including
+    SharePoint, Viva Suite, Power Platform, and Copilot
+  - Define and enforce governance frameworks for Copilot agents and Power Platform
+    environments
+  - Lead architecture and rollout of employee experience portals leveraging Viva Suite
+    and associated Employee Experience Platforms
+  - Hands-on development of Copilot Agents using pro-code development methodology
+    and Copilot Studio connectors
+  - Collaborate with Security teams to ensure compliance with sensitivity labels,
+    DLP, and audit requirements
+  - Develop adoption dashboards and insights for Copilot, Viva, and Power Platform
+    usage and drive enablement programs
+  - Partner with Communications, HR, and IT stakeholders for portal content governance
+    and engagement metrics
+  use_cases:
+  - AI-enhanced employee productivity through Microsoft 365 Copilot integration
+  - Employee experience portals and intranet solutions using Viva Suite and SharePoint
+  - Automated workflows and business processes via Power Platform with AI capabilities
+  - Copilot-enabled meeting experiences and knowledge management
+  - Enterprise governance and security for AI deployment in workplace tools
+  skills:
+    genai: [Microsoft Copilot, Copilot Studio, Copilot Agents, MCP (Model Context
+        Protocol)]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Microsoft 365, SharePoint, Viva Suite, Power Platform, Microsoft Teams]
+    ops: [DLP (Data Loss Prevention), governance frameworks]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7522802'
+  extracted_at: '2026-02-05T11:03:57.479072'

@@ -1,0 +1,55 @@
+company:
+  name: Waymo
+  stage: Public (Alphabet subsidiary)
+  focus: Autonomous driving technology
+  use_cases:
+  - Autonomous vehicle navigation and control in real-world driving conditions
+  - Simulation-based training and evaluation of autonomous driving systems
+  - Reinforcement learning for optimizing driving behaviors and decision-making
+  - Learning from demonstration to capture expert driving patterns
+  - Generative modeling for scenario synthesis and data augmentation
+  - Robust evaluation of ML systems under diverse driving conditions
+position:
+  title: Machine Learning Engineer, AI Foundations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and training large-scale ML
+      models for autonomous driving systems, applying cutting-edge
+      approaches including deep learning, reinforcement learning,
+      imitation learning, and generative models. The engineer
+      directly works on model development, deployment, and real-
+      time inference on vehicles.
+  responsibilities:
+  - Design, train, and evaluate large-scale ML models used throughout Waymo's systems,
+    both onboard autonomous vehicles and offboard in simulation
+  - Frame open-ended real-world problems as well-defined ML problems and develop cutting-edge
+    ML approaches including deep learning, reinforcement learning, and imitation learning
+  - Scale ML solutions to Google-sized data pipelines and streamline them to run in
+    real-time on vehicles
+  - Collaborate with ML infrastructure, data science, and systems engineering teams
+    as well as research teams including Waymo Research, Google Brain, and DeepMind
+  use_cases:
+  - Autonomous vehicle navigation and control in real-world driving conditions
+  - Simulation-based training and evaluation of autonomous driving systems
+  - Reinforcement learning for optimizing driving behaviors and decision-making
+  - Learning from demonstration to capture expert driving patterns
+  - Generative modeling for scenario synthesis and data augmentation
+  - Robust evaluation of ML systems under diverse driving conditions
+  skills:
+    genai: [LLMs/VLMs]
+    ml: [JAX, TensorFlow, PyTorch, deep learning, Bayesian inference, hierarchical
+        learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML infrastructure, ML model deployment]
+    languages: [Python]
+    domains: [reinforcement learning, imitation learning, generative models]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8331644'
+  extracted_at: '2026-02-05T12:53:29.219777'

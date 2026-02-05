@@ -1,0 +1,53 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: AI agent engineering platform for developers
+  use_cases:
+  - LLM application observability and monitoring for production systems
+  - Testing and evaluation framework for AI agents and LLM-powered applications
+  - Debugging tools for understanding and troubleshooting LLM system behavior
+  - Deployment platform for transforming LLM systems into dependable production experiences
+position:
+  title: Senior Frontend Engineer, AI Observability & Evals Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role focused on building
+      user-facing features for LangSmith, LangChain's AI
+      observability platform. The role involves React/TypeScript
+      development and UI work, not building, training, fine-
+      tuning, or deploying AI/ML models directly. The engineer
+      works on the platform that supports AI development by
+      providing observability and testing tools for LLM
+      applications.
+  responsibilities:
+  - Develop new user-facing features using React and TypeScript for the LangSmith
+    platform
+  - Build reusable components and front-end libraries for future use across the platform
+  - Translate designs and wireframes into high-quality code implementing LLM observability
+    and testing tools
+  - Optimize components for maximum performance across various web-capable devices
+    and browsers
+  - Collaborate with fullstack and backend developers and UX/UI designers to enhance
+    platform usability
+  use_cases:
+  - LLM application observability and monitoring for production systems
+  - Testing and evaluation framework for AI agents and LLM-powered applications
+  - Debugging tools for understanding and troubleshooting LLM system behavior
+  - Deployment platform for transforming LLM systems into dependable production experiences
+  skills:
+    genai: []
+    ml: []
+    web: [React, Babel, Vite, Webpack, NPM, Yarn, REST APIs, JWT]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7033273'
+  extracted_at: '2026-02-05T10:06:45.731085'

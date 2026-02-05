@@ -1,0 +1,62 @@
+company:
+  name: Humata Health
+  stage: null
+  focus: |-
+    Automating health insurance prior authorization document
+    processing
+  use_cases:
+  - Automate prior authorization document processing for health insurance companies
+  - Process regulated healthcare data with rigorous security and compliance standards
+  - Enable ML model operations including versioning, monitoring, and deployment in
+    a polyglot environment
+  - Provide scalable backend infrastructure to support AI/ML services in healthcare
+    domain
+position:
+  title: Staff Software Engineer (AI/ML Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI/ML Platform and MLOps infrastructure role
+      focused on building the systems and tooling that SUPPORT ML
+      work rather than directly building, training, or deploying
+      models. The responsibilities center on MLOps infrastructure,
+      CI/CD pipelines, feature stores, model versioning, and
+      backend services that enable data scientists and ML
+      engineers.
+  responsibilities:
+  - Own the long-term technical roadmap, design, and implementation of highly available
+    and performant services and infrastructure across the AI/ML platform
+  - Serve as a technical leader driving alignment across engineering, data science,
+    product, and security teams on platform requirements and best practices
+  - Define and implement the strategic vision for MLOps including model versioning,
+    feature stores, drift monitoring, and CI/CD pipelines for regulated healthcare
+    data
+  - Lead the development of resilient, high-throughput backend services and APIs that
+    integrate ML system components with core services
+  - Mentor and coach senior and mid-level engineers, raising the bar for engineering
+    excellence, system observability, testing, and documentation
+  - Act as a critical escalation point for complex production issues, debugging and
+    optimizing performance bottlenecks across services and infrastructure
+  use_cases:
+  - Automate prior authorization document processing for health insurance companies
+  - Process regulated healthcare data with rigorous security and compliance standards
+  - Enable ML model operations including versioning, monitoring, and deployment in
+    a polyglot environment
+  - Provide scalable backend infrastructure to support AI/ML services in healthcare
+    domain
+  skills:
+    genai: []
+    ml: []
+    web: [RESTful APIs, gRPC, microservices]
+    databases: []
+    data: [feature stores]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLOps, CI/CD, model versioning, drift monitoring]
+    languages: [Python, Go, TypeScript, JavaScript]
+    domains: [HIPAA, FHIR, HL7]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7583841'
+  extracted_at: '2026-02-05T11:08:52.469599'

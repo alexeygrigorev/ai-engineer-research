@@ -1,0 +1,71 @@
+company:
+  name: Voyager Technologies
+  stage: null
+  focus: Defense, national security, and space technology
+  use_cases:
+  - AI agents design complex hardware systems end-to-end through autonomous reasoning
+    and decision-making
+  - Compress complex hardware development cycles from years to days using agentic
+    AI systems
+  - Integrate Design for Manufacturing (DfM), Design for Assembly (DfA), and Design
+    for Test (DfT) into initial design specifications
+  - Connect AI agents to engineering tools such as Ansys, Altium, and CAD/CAE platforms
+    for automated analysis
+  - Enable agents to autonomously run physics simulations, test data analysis, and
+    manufacturing workflow optimization
+position:
+  title: Senior AI Engineer – Agentic Platform Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and architecting multi-
+      agent AI systems, implementing LLM-based agents, and
+      creating agent orchestration frameworks. The engineer is
+      hands-on with agentic AI platforms, RAG systems, and
+      autonomous agent execution environments for hardware design
+      automation.
+  responsibilities:
+  - Architect and own the full stack ACE platform for the Generative Engine, including
+    agent orchestration, execution runtimes, and frontend and backend services
+  - Design and implement distributed systems patterns such as orchestrator-worker
+    and swarms that coordinate AI agents across the full hardware design lifecycle
+  - Build the secure execution layer where agents can autonomously run code, simulations,
+    and analyses against internal tools and data sources
+  - Design and implement memory, context, and provenance systems including RAG, vector
+    stores, and decision logs so agents can recall and justify prior design decisions
+  - Aggressively profile and optimize system performance with a focus on latency,
+    reliability, and observability for large numbers of concurrent agents
+  - Lead and mentor a small team of exceptional engineers, scientists, and/or mathematicians
+    setting standards, reviewing code, and growing early-career talent
+  - Collaborate with domain teams in electronics, propulsion, and manufacturing to
+    translate their workflows into scalable agentic capabilities on the platform
+  - Influence long-range technical strategy for ACE and help define how agentic AI
+    is used across Voyager's engineering stack
+  use_cases:
+  - AI agents design complex hardware systems end-to-end through autonomous reasoning
+    and decision-making
+  - Compress complex hardware development cycles from years to days using agentic
+    AI systems
+  - Integrate Design for Manufacturing (DfM), Design for Assembly (DfA), and Design
+    for Test (DfT) into initial design specifications
+  - Connect AI agents to engineering tools such as Ansys, Altium, and CAD/CAE platforms
+    for automated analysis
+  - Enable agents to autonomously run physics simulations, test data analysis, and
+    manufacturing workflow optimization
+  skills:
+    genai: [LangGraph, AutoGen, RAG, agents, agent orchestration]
+    ml: []
+    web: [microservice architectures]
+    databases: [vector stores]
+    data: [message buses]
+    cloud: []
+    ops: [containerization, distributed systems, Docker, Kubernetes, CI/CD, monitoring,
+      logging, tracing, metrics]
+    languages: [Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8019906'
+  extracted_at: '2026-02-05T11:49:21.793969'

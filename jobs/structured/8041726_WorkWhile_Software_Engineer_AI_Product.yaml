@@ -1,0 +1,55 @@
+company:
+  name: WorkWhile
+  stage: Series A
+  focus: AI-powered hourly labor marketplace platform
+  use_cases:
+  - Worker-employer matching for hourly labor positions
+  - Streamlining operational workflows through AI automation
+  - Enhancing user experience for both workers and businesses on the platform
+  - Same-day pay and benefits optimization for hourly workers
+  - Shift matching based on worker skills and schedules
+  - Efficient labor market matching to reduce staffing inefficiencies
+position:
+  title: Software Engineer, AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building and deploying LLM-backed
+      features and agentic workflows. The engineer will work
+      directly on AI systems, implementing tools and resources for
+      agents, not just supporting infrastructure.
+  responsibilities:
+  - Collaborate with founders, sales, design and other engineers to propose and implement
+    solutions for users - workers and businesses
+  - Build, ship and iterate on LLM-backed product features and internal evals to continually
+    ensure quality
+  - Build, ship and iterate on LLM-backed agentic workflows, leveraging tools, resources,
+    etc.
+  - Design and deploy AI-powered automation and intelligence within the platform
+  - Apply LLMs and AI agents to streamline operational workflows and improve user
+    experience
+  - Improve worker-employer matching algorithms using AI techniques
+  - Optimize AI infrastructure to improve performance and output quality of LLM systems
+  use_cases:
+  - Worker-employer matching for hourly labor positions
+  - Streamlining operational workflows through AI automation
+  - Enhancing user experience for both workers and businesses on the platform
+  - Same-day pay and benefits optimization for hourly workers
+  - Shift matching based on worker skills and schedules
+  - Efficient labor market matching to reduce staffing inefficiencies
+  skills:
+    genai: [LLMs, AI agents, AI frameworks, OpenAI/Anthropic APIs, prompt engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [AI infrastructure optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8041726'
+  extracted_at: '2026-02-05T11:52:23.166158'

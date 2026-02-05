@@ -1,0 +1,59 @@
+company:
+  name: Instabase
+  stage: Series B
+  focus: No-code AI platform for unstructured data automation
+  use_cases:
+  - Processing and extracting structured insights from unstructured data sources like
+    documents, emails, and chats
+  - Automating workflows for invoices, medical records, and financial statements to
+    structure messy datasets
+  - Building AI-powered solutions for large enterprises to solve previously unsolvable
+    unstructured data problems
+  - Enabling organizations to deploy AI workforces and intelligent automation without
+    coding
+position:
+  title: Sales Engineer, Applied AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer role that demonstrates and
+      configures AI solutions using Instabase's no-code platform
+      rather than building, training, or deploying models
+      directly. The role focuses on applying existing AI tools
+      (prompt engineering, agentic workflows, RAG) through drag-
+      and-drop interfaces, not hands-on model development or
+      engineering.
+  responsibilities:
+  - Partner with Account Executives to uncover customer pains and translate them into
+    AI automation designs using Instabase's platform
+  - Design and configure Proofs of Concept (POCs) using drag-and-drop workflow builders
+    and AI toolsets to demonstrate real-time data processing
+  - Educate customers on prompt engineering best practices, agentic workflows, and
+    AI governance without discussing low-level model weights
+  - Provide primary feedback to Product Management on user interface and agent capabilities
+    to refine the no-code tools
+  use_cases:
+  - Processing and extracting structured insights from unstructured data sources like
+    documents, emails, and chats
+  - Automating workflows for invoices, medical records, and financial statements to
+    structure messy datasets
+  - Building AI-powered solutions for large enterprises to solve previously unsolvable
+    unstructured data problems
+  - Enabling organizations to deploy AI workforces and intelligent automation without
+    coding
+  skills:
+    genai: [LLMs, GPT, Gemini, Anthropic, RAG, prompt engineering, agentic workflows]
+    ml: []
+    web: []
+    databases: []
+    data: [unstructured data processing]
+    cloud: []
+    ops: [Jupyter Notebook]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7973915'
+  extracted_at: '2026-02-05T11:44:22.357726'

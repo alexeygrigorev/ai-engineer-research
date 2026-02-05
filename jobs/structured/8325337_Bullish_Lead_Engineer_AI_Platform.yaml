@@ -1,0 +1,68 @@
+company:
+  name: Bullish
+  stage: Public
+  focus: Institutional digital asset exchange platform
+  use_cases:
+  - Conversational analytics enabling stakeholders to query complex business datasets
+    through natural language
+  - Multi-agent systems for coordinating across data sources and applying industry
+    best practices for agent orchestration
+  - AI-powered intelligence across digital asset exchange, media, data, and indices
+    businesses
+  - Compliance and trading applications requiring observable, testable, and auditable
+    AI outputs
+  - Enterprise solutions spanning trading floors to compliance with governed semantic
+    layers
+position:
+  title: Lead Engineer, AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI systems including
+      LLM-based applications, multi-agent orchestration, RAG
+      pipelines, and agent frameworks. The engineer is directly
+      designing and implementing production AI systems with tools
+      like LangChain, LangGraph, and LlamaIndex, not just
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and implement production AI systems with emphasis on reliability, observability,
+    and continuous evaluation
+  - Lead development of natural-language interfaces to business data through governed
+    semantic layers
+  - Architect multi-agent systems that coordinate across data sources with proper
+    orchestration and tool use
+  - Build evaluation harnesses and testing frameworks that measure AI system quality
+    before production deployment
+  - Partner with data engineering to define and enforce semantic models bridging raw
+    data to AI-consumable formats
+  - Mentor engineers, establish coding standards, and drive architectural decisions
+    balancing innovation with stability
+  use_cases:
+  - Conversational analytics enabling stakeholders to query complex business datasets
+    through natural language
+  - Multi-agent systems for coordinating across data sources and applying industry
+    best practices for agent orchestration
+  - AI-powered intelligence across digital asset exchange, media, data, and indices
+    businesses
+  - Compliance and trading applications requiring observable, testable, and auditable
+    AI outputs
+  - Enterprise solutions spanning trading floors to compliance with governed semantic
+    layers
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, MetaGPT, OpenAI Agents
+        SDK, Model Context Protocol (MCP), DSPy, RAG, Instructor, Pydantic]
+    ml: []
+    web: []
+    databases: [Qdrant, Pinecone, ChromaDB, Weaviate, pgvector]
+    data: []
+    cloud: [Vertex AI, Amazon Bedrock, Azure OpenAI, GCP]
+    ops: [vLLM, Ollama, TensorRT-LLM, LangSmith, Braintrust, Weights & Biases, Arize,
+      CI/CD, experiment tracking, model governance]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8325337'
+  extracted_at: '2026-02-05T12:51:09.240129'

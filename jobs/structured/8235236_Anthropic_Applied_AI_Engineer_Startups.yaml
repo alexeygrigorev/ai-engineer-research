@@ -1,0 +1,61 @@
+company:
+  name: Anthropic
+  stage: Public
+  focus: Safe and beneficial AI systems
+  use_cases:
+  - Building LLM-powered applications on the Claude Developer Platform
+  - Designing and implementing agent architectures for AI-native products
+  - Developing custom evaluation frameworks and testing suites for AI applications
+  - Creating scalable architectures for deploying Claude at production scale
+  - Implementing context engineering and prompting strategies for optimal AI performance
+position:
+  title: Applied AI Engineer (Startups)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role working hands-on
+      with customers to build LLM-powered applications. The role
+      involves direct technical implementation including agent
+      design, context engineering, prompting, and evaluation
+      frameworks for Claude-based systems.
+  responsibilities:
+  - Serve as a deep technical advisor to high-potential startups, working alongside
+    them to build innovative use cases that push the boundaries of AI
+  - 'Work hands-on with startup engineering teams: pair programming, architecture
+    reviews, and code contributions that accelerate their development'
+  - Develop prototypes and technical documentation—including evaluation suites, AI
+    engineering techniques, and architecture diagrams—that enable startups to build
+    and scale with Claude
+  - Collaborate closely with Applied AI Architects to maintain context and continuity
+    across customer engagements
+  - Identify patterns across engagements and contribute insights back to Product,
+    Engineering, and the broader Applied AI team
+  - Create technical content for startup audiences including documentation, tutorials,
+    and sample code
+  - Foster community engagement through hackathons, webinars, technical office hours,
+    and startup-focused events
+  - Travel to customer sites for workshops, implementation support, and relationship
+    building
+  use_cases:
+  - Building LLM-powered applications on the Claude Developer Platform
+  - Designing and implementing agent architectures for AI-native products
+  - Developing custom evaluation frameworks and testing suites for AI applications
+  - Creating scalable architectures for deploying Claude at production scale
+  - Implementing context engineering and prompting strategies for optimal AI performance
+  skills:
+    genai: [prompting, context engineering, agent architectures, LLM-powered applications,
+      Claude API]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation frameworks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8235236'
+  extracted_at: '2026-02-05T12:18:27.142949'

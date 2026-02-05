@@ -1,0 +1,63 @@
+company:
+  name: ClickUp
+  stage: Series B
+  focus: AI-powered productivity and workspace platform
+  use_cases:
+  - Context-driven AI workspace that unifies tasks, docs, chat, calendar, and enterprise
+    search
+  - Intelligent features powered by LLMs across ClickUp's productivity platform
+  - AI-driven applications integrating search technologies for enhanced user experience
+  - Productivity tools that help teams break free from silos and reclaim time
+  - Enterprise search capabilities supercharged by AI for improved information retrieval
+position:
+  title: Senior AI Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs, including
+      applying them directly to build product features,
+      integrating with multiple LLM providers, and managing model
+      selection and routing. While there's a
+      platform/infrastructure component, the engineer is actively
+      building and deploying AI solutions rather than just
+      supporting others' AI work.
+  responsibilities:
+  - Architect, design, and implement scalable AI platform services that support the
+    deployment, orchestration, and lifecycle management of LLMs and other AI models
+  - Apply LLMs and other AI technologies directly to build and enhance ClickUp's intelligent
+    features, working closely with product and engineering teams
+  - Build and maintain robust APIs and backend systems that enable seamless integration
+    of AI-powered features into ClickUp's core platform
+  - Develop infrastructure for model serving, monitoring, logging, and automated evaluation
+    to ensure high reliability and performance of AI services
+  - Integrate with multiple LLM providers and manage model selection, routing, and
+    fallback strategies for optimal performance and cost
+  - Drive the adoption of best practices in AI privacy, security, and compliance,
+    including data anonymization and regulatory adherence
+  - Optimize platform performance, scalability, and cost-efficiency, leveraging cloud-native
+    technologies and distributed systems
+  use_cases:
+  - Context-driven AI workspace that unifies tasks, docs, chat, calendar, and enterprise
+    search
+  - Intelligent features powered by LLMs across ClickUp's productivity platform
+  - AI-driven applications integrating search technologies for enhanced user experience
+  - Productivity tools that help teams break free from silos and reclaim time
+  - Enterprise search capabilities supercharged by AI for improved information retrieval
+  skills:
+    genai: [LangGraph, OpenAI API, Anthropic API, Google AI, LLM integration, model
+        routing]
+    ml: []
+    web: []
+    databases: []
+    data: [Airflow, Ray]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, Kubeflow, MLOps, model serving, monitoring, logging,
+      automated evaluation]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8247031'
+  extracted_at: '2026-02-05T12:20:20.008194'

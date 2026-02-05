@@ -1,0 +1,58 @@
+company:
+  name: Trovo Health
+  stage: Series A
+  focus: AI-powered care team platform for scalable clinical capacity
+  use_cases:
+  - AI-powered care team platform for healthcare organizations
+  - Clinical operations automation through AI agents combined with clinical experts
+  - High-impact clinical operations and care management activities
+  - Processing and analyzing large volumes of unstructured healthcare data
+  - Deploying NLP and LLM models in live clinical workflows
+  - Scalable clinical capacity through AI coordination
+position:
+  title: AI/Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role requiring hands-on experience
+      building, training, and deploying LLM/NLP-powered systems.
+      The engineer will design models, build production ML
+      pipelines for training and inference, and directly work with
+      LangChain, spaCy, and LLM APIs.
+  responsibilities:
+  - Build and own AI systems end-to-end including ingesting, structuring, and analyzing
+    large volumes of unstructured healthcare data and designing production-grade data
+    and ML pipelines for training and inference
+  - Develop NLP and LLM-powered features by designing, evaluating, and deploying models
+    using modern NLP frameworks and LLM APIs with focus on real-world performance
+    and reliability
+  - Operate at production scale by architecting and maintaining cloud-based ML workflows
+    in AWS including containerized services and orchestration for data processing,
+    training, and inference
+  - Continuously improve model quality by monitoring, testing, and iterating on model
+    accuracy, robustness, privacy, and safety within live clinical workflows
+  - Collaborate across the stack from APIs and backend systems to product UX and workflow
+    design to deliver cohesive AI-driven features
+  use_cases:
+  - AI-powered care team platform for healthcare organizations
+  - Clinical operations automation through AI agents combined with clinical experts
+  - High-impact clinical operations and care management activities
+  - Processing and analyzing large volumes of unstructured healthcare data
+  - Deploying NLP and LLM models in live clinical workflows
+  - Scalable clinical capacity through AI coordination
+  skills:
+    genai: [LangChain, LLM APIs]
+    ml: [spaCy, model training]
+    web: [FastAPI, REST APIs]
+    databases: []
+    data: [pandas]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, ML pipelines, model deployment, inference]
+    languages: [Python, SQL]
+    domains: [NLP, healthcare data]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7047097'
+  extracted_at: '2026-02-05T10:08:35.297553'

@@ -1,0 +1,67 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: AI cloud infrastructure and applied AI research
+  use_cases:
+  - Applying reinforcement learning for agent training in long-context multi-turn
+    scenarios
+  - Dramatically scaling task data collection to power reinforcement learning for
+    SWE agents
+  - Building decontaminated evaluation systems for SWE agents that are regularly updated
+  - Using test-time guided search to build more powerful AI agents
+  - Training agents and reasoning models using guided search and reinforcement learning
+    techniques
+  - Efficient model distillation for improving model performance
+position:
+  title: Senior ML Engineer (AI Research)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an applied AI research role focused on training,
+      fine-tuning, and optimizing large language models and
+      agentic systems. The responsibilities include reinforcement
+      learning for agents, guided search in trajectory space,
+      model distillation, and web-scale data mining for model
+      post-training - all hands-on work directly with AI models
+      and training systems.
+  responsibilities:
+  - Conducting experiments to figure out efficient ways to train a large language
+    model on traces of interactions with various environments
+  - Exploring methods of guided generation and search in the trajectory space
+  - Coming up with ways to mine relevant data at web scale and figuring out efficient
+    ways to use this data in model post-training
+  - Conducting experiments with different reinforcement learning configurations in
+    verifiable domains
+  - Exploring methods to train AI agents on tasks with non-verifiable reward signals
+  - Collaborating with adjacent teams to apply research findings in practice
+  - Documenting research findings clearly and contributing to technical publications
+    or reports
+  use_cases:
+  - Applying reinforcement learning for agent training in long-context multi-turn
+    scenarios
+  - Dramatically scaling task data collection to power reinforcement learning for
+    SWE agents
+  - Building decontaminated evaluation systems for SWE agents that are regularly updated
+  - Using test-time guided search to build more powerful AI agents
+  - Training agents and reasoning models using guided search and reinforcement learning
+    techniques
+  - Efficient model distillation for improving model performance
+  skills:
+    genai: [AI agents]
+    ml: [JAX, reinforcement learning, large language model training, deep learning,
+      reward modeling, DPO (Direct Preference Optimization), PPO (Proximal Policy
+        Optimization), RoPE (Rotary Position Embedding), ZeRO/FSDP, Flash Attention,
+      quantization, model distillation, distributed training]
+    web: []
+    databases: []
+    data: [statistical analysis]
+    cloud: []
+    ops: [CI/CD, version control, unit testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7613012'
+  extracted_at: '2026-02-05T11:14:51.058516'

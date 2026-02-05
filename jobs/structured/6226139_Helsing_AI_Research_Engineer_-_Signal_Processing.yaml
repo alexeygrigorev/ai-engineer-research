@@ -1,0 +1,56 @@
+company:
+  name: Helsing
+  stage: Series B
+  focus: Defence AI for democratic protection
+  use_cases:
+  - Signal processing for aerial/sky surveillance systems
+  - Underwater signal detection and analysis
+  - AI-assisted human decision-making in defense scenarios
+  - Robust perception systems for military applications
+  - Time frequency analysis and parameter estimation for defense intelligence
+position:
+  title: AI Research Engineer - Signal Processing
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI-based signal processing
+      systems with hands-on work implementing advanced ML
+      algorithms, deploying them to real-world scenarios with
+      hardware constraints. The role requires experience in
+      conceptualizing and implementing AI-based systems, keeping
+      up with state-of-the-art ML research, and
+      reimplementing/extending it, which indicates direct work on
+      AI models rather than just supporting infrastructure.
+  responsibilities:
+  - Develop and extend state-of-the-art signal processing algorithms and AI-based
+    systems
+  - Apply and deploy signal processing technology in real-world scenarios including
+    sky and underwater domains
+  - Build in-house solutions for signal processing problems with high generalization
+    capabilities
+  - Implement systems that meet hardware constraints and ensure robustness against
+    adversarial attacks
+  - Collaborate across teams with diverse technical backgrounds
+  - Deploy AI software to production including testing, quality assurance, and monitoring
+  use_cases:
+  - Signal processing for aerial/sky surveillance systems
+  - Underwater signal detection and analysis
+  - AI-assisted human decision-making in defense scenarios
+  - Robust perception systems for military applications
+  - Time frequency analysis and parameter estimation for defense intelligence
+  skills:
+    genai: [generative AI]
+    ml: [machine learning, reinforcement learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Rust, Java, C++]
+    domains: [signal processing, time frequency analysis, parameter estimation]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6226139'
+  extracted_at: '2026-02-05T09:42:31.370491'

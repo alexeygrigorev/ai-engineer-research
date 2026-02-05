@@ -1,0 +1,61 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: |-
+    AI application development framework and platform for
+    building LLM-powered agents and applications
+  use_cases:
+  - Multi-agent systems for enterprise automation using handoffs and routing patterns
+  - Retrieval-Augmented Generation (RAG) applications with vector databases for knowledge
+    retrieval
+  - Production AI agent deployment with state management and memory capabilities
+  - Enterprise AI application evaluation and quality assurance frameworks
+  - Customer-specific AI solutions leveraging tool integration and API design
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building,
+      deploying, and optimizing production AI agent systems. The
+      role directly involves implementing agent logic, designing
+      evaluation frameworks, optimizing prompts, and implementing
+      RAG patterns with LangChain/LangGraph - all core AI/ML
+      engineering activities.
+  responsibilities:
+  - Design and implement multi-agent systems using Subagents, Handoffs, and Router
+    patterns with LangChain/LangGraph
+  - Develop comprehensive evaluation frameworks for AI applications using LLM-as-judge
+    and deterministic evaluators
+  - Optimize agent prompts through A/B testing and externalization techniques
+  - Implement state management systems for short-term and long-term memory in agents
+  - Design and implement RAG patterns with vector store integration and knowledge
+    organization
+  - Guide enterprise customers on agent deployment, configuration management, and
+    CI/CD pipeline integration
+  - Lead agent engineering maturity assessments and provide technical recommendations
+    to enterprise customers
+  - Set up observability and monitoring using LangSmith for deployed agent systems
+  use_cases:
+  - Multi-agent systems for enterprise automation using handoffs and routing patterns
+  - Retrieval-Augmented Generation (RAG) applications with vector databases for knowledge
+    retrieval
+  - Production AI agent deployment with state management and memory capabilities
+  - Enterprise AI application evaluation and quality assurance frameworks
+  - Customer-specific AI solutions leveraging tool integration and API design
+  skills:
+    genai: [LangChain, LangGraph, RAG, agents, prompt engineering, LLM-as-judge, MCP]
+    ml: []
+    web: [API design]
+    databases: [vector databases]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, LangSmith]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [state management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8064361'
+  extracted_at: '2026-02-05T09:36:40.841600'

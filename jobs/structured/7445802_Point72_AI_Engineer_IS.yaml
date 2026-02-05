@@ -1,0 +1,60 @@
+company:
+  name: Point72
+  stage: null
+  focus: |-
+    Global asset management firm investing across multiple asset
+    classes and strategies
+  use_cases:
+  - Enhancing operational intelligence and efficiency across various departments
+  - Improving decision-making capabilities through GenAI-driven insights and analytics
+  - Delivering innovative GenAI products that enhance business processes and enterprise
+    intelligence
+  - Transforming prototypes into production-grade capabilities for broad value creation
+  - Leveraging AI solutions to solve key business problems in Investment Services
+    operations
+position:
+  title: AI Engineer, IS
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development of GenAI and ML
+      solutions including model selection, fine-tuning, and model
+      development. The engineer is responsible for building
+      prototypes and transforming them into production-grade AI
+      capabilities, not just supporting infrastructure.
+  responsibilities:
+  - Identify opportunities and develop technical roadmaps for GenAI solutions across
+    the firm
+  - Scope, prioritize, prototype, and deliver GenAI projects to solve key business
+    problems for Investment Services teams
+  - Lead collaborations across the firm on GenAI/ML initiatives and techniques with
+    Technology and Compliance teams
+  - Deliver analytics and insights to measure the value of AI solutions implemented
+  - Establish rigorous model governance practices including testing, monitoring, and
+    documentation to ensure accuracy and bias-free solutions
+  - Stay current on AI/ML market landscape and recommend new tools and methodologies
+    for adoption
+  use_cases:
+  - Enhancing operational intelligence and efficiency across various departments
+  - Improving decision-making capabilities through GenAI-driven insights and analytics
+  - Delivering innovative GenAI products that enhance business processes and enterprise
+    intelligence
+  - Transforming prototypes into production-grade capabilities for broad value creation
+  - Leveraging AI solutions to solve key business problems in Investment Services
+    operations
+  skills:
+    genai: [GenAI]
+    ml: [Machine Learning, model selection, fine-tuning, model development]
+    web: []
+    databases: []
+    data: [Kafka, Spark]
+    cloud: [AWS]
+    ops: [model governance, model monitoring]
+    languages: [Python, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7445802'
+  extracted_at: '2026-02-05T10:53:21.852082'

@@ -1,0 +1,50 @@
+company:
+  name: G2i
+  stage: Unknown
+  focus: LLM code evaluation and training platform
+  use_cases:
+  - Training LLMs to write production-grade code across multiple programming languages
+  - Teaching models to propose, critique, and improve code through expert feedback
+  - Converting human code reviews into reward signals for reinforcement learning
+  - Generating code that meets production standards for correctness and efficiency
+  - Developing AI systems that can self-critique and improve code quality
+position:
+  title: Software Engineer, AI (C++)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an RLHF (Reinforcement Learning with Human Feedback)
+      role where engineers review, rank, and edit AI-generated
+      code to provide feedback signals. The work involves
+      evaluating model outputs rather than building, training,
+      fine-tuning, or deploying models directly, placing it in the
+      support category.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Provide detailed justifications for code review decisions to help models learn
+  - Identify logic errors, performance traps, and security issues in code
+  - Maintain smooth operation of the RLHF feedback pipeline
+  use_cases:
+  - Training LLMs to write production-grade code across multiple programming languages
+  - Teaching models to propose, critique, and improve code through expert feedback
+  - Converting human code reviews into reward signals for reinforcement learning
+  - Generating code that meets production standards for correctness and efficiency
+  - Developing AI systems that can self-critique and improve code quality
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++]
+    domains: []
+    other: [code review, constraint programming, written communication]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7980526'
+  extracted_at: '2026-02-05T11:44:48.707341'

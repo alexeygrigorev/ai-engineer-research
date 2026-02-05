@@ -1,0 +1,64 @@
+company:
+  name: CSquared Labs
+  stage: null
+  focus: LLM and agentic AI systems
+  use_cases:
+  - Multi-agent collaboration systems where manager agents delegate tasks to specialized
+    worker agents
+  - Tree-of-thought reasoning and complex cognitive architectures for open-ended problem
+    solving
+  - RAG-enhanced agents with reliable information retrieval and reduced hallucination
+  - Automated prompt optimization using frameworks like DSPy for systematic performance
+    improvement
+  - Rigorous evaluation systems using LLM-as-a-judge frameworks to ensure agent reliability
+    and safety
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI systems including
+      agent architectures, RAG implementation, automated prompt
+      optimization, fine-tuning LLMs, and deploying multi-agent
+      systems. The engineer directly builds, tests, and optimizes
+      AI models and agentic systems rather than supporting
+      infrastructure for others.
+  responsibilities:
+  - Architect and implement complex agent behaviors using multi-agent hierarchies,
+    multi-trajectory inference, and RL environments
+  - Build and deploy automated optimization pipelines for systematically improving
+    agent performance
+  - Design and implement evaluation frameworks including LLM-as-a-judge systems and
+    domain-specific metrics
+  - Translate research papers on RAG techniques and cognitive architectures into production-ready
+    code
+  - Diagnose and fix agent hallucinations through context engineering and fine-tuning
+    with regression testing
+  - Design communication protocols for hierarchical agent systems to enable effective
+    task delegation
+  use_cases:
+  - Multi-agent collaboration systems where manager agents delegate tasks to specialized
+    worker agents
+  - Tree-of-thought reasoning and complex cognitive architectures for open-ended problem
+    solving
+  - RAG-enhanced agents with reliable information retrieval and reduced hallucination
+  - Automated prompt optimization using frameworks like DSPy for systematic performance
+    improvement
+  - Rigorous evaluation systems using LLM-as-a-judge frameworks to ensure agent reliability
+    and safety
+  skills:
+    genai: [LLMs, agentic AI, multi-agent systems, RAG, DSPy, prompt engineering]
+    ml: [RLHF, fine-tuning, Transformers]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation frameworks, LLM-as-a-judge]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8104374'
+  extracted_at: '2026-02-05T12:01:43.361252'

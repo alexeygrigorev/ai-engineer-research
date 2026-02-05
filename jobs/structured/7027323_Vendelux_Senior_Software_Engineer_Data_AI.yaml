@@ -1,0 +1,56 @@
+company:
+  name: Vendelux
+  stage: Series A
+  focus: AI-powered event marketing intelligence platform
+  use_cases:
+  - AI-powered event discovery and recommendation system that helps high-growth companies
+    find highest ROI events
+  - conferences
+  - and trade shows to attend and sponsor
+  - AI-driven insights and analytics for event marketers to maximize impact of sponsored
+    and attended events
+  - Applied AI for accelerating insights and improving user workflows in event marketing
+    decision-making
+  - Recommendation systems powered by embeddings and LLMs to match companies with
+    optimal events
+  - AI agents and RAG-based systems for event intelligence and ROI measurement
+position:
+  title: Senior Software Engineer, Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI-powered product features
+      using LLMs, RAG, AI agents, embeddings, and
+      supervised/unsupervised learning. The description emphasizes
+      hands-on work with modern AI frameworks (HuggingFace,
+      LangChain), prompt engineering, and deploying LLMs in
+      production to drive user-facing product capabilities.
+  responsibilities: []
+  use_cases:
+  - AI-powered event discovery and recommendation system that helps high-growth companies
+    find highest ROI events
+  - conferences
+  - and trade shows to attend and sponsor
+  - AI-driven insights and analytics for event marketers to maximize impact of sponsored
+    and attended events
+  - Applied AI for accelerating insights and improving user workflows in event marketing
+    decision-making
+  - Recommendation systems powered by embeddings and LLMs to match companies with
+    optimal events
+  - AI agents and RAG-based systems for event intelligence and ROI measurement
+  skills:
+    genai: [LangChain, LLMs, prompt engineering, RAG, AI agents, embeddings]
+    ml: [HuggingFace, supervised learning, unsupervised learning]
+    web: []
+    databases: []
+    data: [Airflow, Dagster, data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7027323'
+  extracted_at: '2026-02-05T10:06:16.968171'

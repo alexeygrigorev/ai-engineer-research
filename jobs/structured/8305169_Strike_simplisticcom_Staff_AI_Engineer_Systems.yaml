@@ -1,0 +1,65 @@
+company:
+  name: Strike (simplistic.com)
+  stage: Series B
+  focus: Bitcoin payments and financial services
+  use_cases:
+  - Agentic systems interacting with real-world Bitcoin financial infrastructure and
+    cloud platforms
+  - IDE agents that accelerate software development workflows for engineering teams
+  - Autonomous agents with tiered independence levels for read-only advisory to action-taking
+    operations
+  - Enterprise knowledge base connecting disparate data sources for agentic reasoning
+    across systems
+  - Internal MCP servers enabling secure agent interactions with core platform services
+position:
+  title: Staff AI Engineer (Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role building secure
+      infrastructure for agentic systems. The engineer will
+      directly implement authentication patterns, build
+      orchestration layers, deploy IDE agents, and create MCP
+      servers - all core AI/ML systems work rather than general
+      support infrastructure.
+  responsibilities:
+  - Build unified, secure layer connecting AI tools like Copilot Agents, Gemini, Claude,
+    and n8n workflows to core platforms through internal MCP servers
+  - Fine-tune and deploy IDE agents that accelerate coding across the entire engineering
+    organization
+  - Create orchestration layers and secure runtime environments for LLM tool-use
+  - Design security patterns for different levels of agent autonomy from Advisory
+    (read-only) to Autonomous (action-taking) with Verifiable State and Revert mechanisms
+  - Implement authentication, authorization, and human-in-the-loop safeguards for
+    agentic access while maintaining Zero Trust principles
+  - Build enterprise knowledge base to connect disparate data sources for agentic
+    reasoning
+  - Identify and target Units of Toil with appropriate AI abstractions, serving as
+    expert on frontier tools to optimize team workflows
+  use_cases:
+  - Agentic systems interacting with real-world Bitcoin financial infrastructure and
+    cloud platforms
+  - IDE agents that accelerate software development workflows for engineering teams
+  - Autonomous agents with tiered independence levels for read-only advisory to action-taking
+    operations
+  - Enterprise knowledge base connecting disparate data sources for agentic reasoning
+    across systems
+  - Internal MCP servers enabling secure agent interactions with core platform services
+  skills:
+    genai: [MCP (Model Context Protocol), RAG, function calling, agents, prompt engineering,
+      AI as a Judge, Agent Self-Improvement, OpenAI/Anthropic APIs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP, Google Kubernetes Engine]
+    ops: [Helm, ArgoCD, Docker, Kubernetes, Terraform, CI/CD, Zero Trust security,
+      least privilege access, secrets management]
+    languages: [C#/.NET, Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8305169'
+  extracted_at: '2026-02-05T12:43:18.494270'

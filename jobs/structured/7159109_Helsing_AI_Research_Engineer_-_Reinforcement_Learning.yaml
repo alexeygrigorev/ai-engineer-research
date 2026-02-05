@@ -1,0 +1,55 @@
+company:
+  name: Helsing
+  stage: null
+  focus: Defence AI for autonomous aerial platforms
+  use_cases:
+  - Autonomous aerial combat vehicle (UCAV) flight control and navigation
+  - Real-time decision-making for unmanned aerial platforms in defense scenarios
+  - Multi-agent coordination and control for autonomous systems
+  - Robust autonomous navigation and localization for semi-autonomous platforms
+  - Adversarial attack resilience for deployed autonomous systems
+position:
+  title: AI Research Engineer - Reinforcement Learning
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role is building and training reinforcement learning
+      agents for autonomous aerial platforms, working directly on
+      RL algorithms, multi-agent systems, and model training.
+      While not explicitly GenAI/LLM focused, it's hands-on ML
+      model development and deployment in a production system, not
+      supporting AI work for others.
+  responsibilities:
+  - Build, train and integrate reinforcement learning agents into high-performance
+    runtime systems for real-time autonomous decision-making in flight
+  - Implement, improve and extend state-of-the-art multi-agent reinforcement learning
+    methods
+  - Develop the autonomy brain for the CA-1 Europa Unmanned Combat Aerial Vehicle
+    (UCAV) as part of the Centaur project
+  - Collaborate across multiple teams to integrate cutting-edge ML/AI capabilities
+    into production systems
+  - Reimplement and extend state-of-the-art Deep Learning research approaches
+  - Deploy AI software to production including testing, quality assurance, and monitoring
+  use_cases:
+  - Autonomous aerial combat vehicle (UCAV) flight control and navigation
+  - Real-time decision-making for unmanned aerial platforms in defense scenarios
+  - Multi-agent coordination and control for autonomous systems
+  - Robust autonomous navigation and localization for semi-autonomous platforms
+  - Adversarial attack resilience for deployed autonomous systems
+  skills:
+    genai: []
+    ml: [Reinforcement Learning, Multi-agent Reinforcement Learning, Deep Learning,
+      model training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, testing, monitoring]
+    languages: [Python, Rust, Java, C++]
+    domains: [robotics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7159109'
+  extracted_at: '2026-02-05T10:26:36.546086'

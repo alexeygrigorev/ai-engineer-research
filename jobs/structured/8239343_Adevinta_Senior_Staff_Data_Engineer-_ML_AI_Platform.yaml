@@ -1,0 +1,61 @@
+company:
+  name: Adevinta
+  stage: Public
+  focus: Global online classifieds marketplace
+  use_cases:
+  - Enabling large-scale ML model deployment from notebooks to production APIs
+  - Providing Vector Database infrastructure for RAG (Retrieval Augmented Generation)
+    workflows
+  - Supporting AI Agent development and management through platform tooling
+  - Facilitating traditional ML operations with Feature Store and Model Registry
+  - Enabling GenAI governance and best practices for LLM application development
+position:
+  title: Senior Staff Data Engineer- ML & AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building infrastructure and platform tooling
+      that enables others to work with AI/ML. The engineer is
+      designing architecture, feature stores, model registries,
+      and vector database patterns, while ensuring models move
+      from notebooks to production APIs. They are NOT building,
+      training, fine-tuning, or deploying models themselves - they
+      are creating the platform and tooling that allows AI/ML
+      Engineers and Data Scientists to do that work autonomously.
+  responsibilities:
+  - Lead the evolution of Machine Learning & AI Platform, designing architecture for
+    AI Agents and Vector Database patterns
+  - Operationalize new Databricks AI features like Liquid Clustering and Agent Evaluation
+    into stable platform capabilities
+  - Establish GenAI governance guidelines to help teams transition from notebook experiments
+    to production-grade LLM applications
+  - Design and manage the Feature Store, Model Registry, Vector Search infrastructure,
+    and RAG workflows
+  - Mentor Staff and Senior engineers on design patterns, code quality, and architectural
+    decisions
+  - Translate complex ML/AI requirements into robust engineering tickets and infrastructure
+    roadmaps
+  use_cases:
+  - Enabling large-scale ML model deployment from notebooks to production APIs
+  - Providing Vector Database infrastructure for RAG (Retrieval Augmented Generation)
+    workflows
+  - Supporting AI Agent development and management through platform tooling
+  - Facilitating traditional ML operations with Feature Store and Model Registry
+  - Enabling GenAI governance and best practices for LLM application development
+  skills:
+    genai: [Mosaic AI, Databricks Agent tools, RAG, LLM infrastructure]
+    ml: [PyTorch]
+    web: []
+    databases: [Vector Databases]
+    data: [Unity Catalog, Apache Spark]
+    cloud: [Databricks AI Stack, AWS]
+    ops: [MLflow, Feature Store, Databricks Model Serving, Terraform, Terragrunt,
+      Docker, Kubernetes, GitHub Actions, Datadog, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8239343'
+  extracted_at: '2026-02-05T12:18:57.469004'

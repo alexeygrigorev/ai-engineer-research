@@ -1,0 +1,59 @@
+company:
+  name: Scale AI
+  stage: Series D or later
+  focus: AI data infrastructure and model platform
+  use_cases:
+  - Orchestration of ML compute workloads across heterogeneous GPU, CPU, on-prem,
+    and cloud environments
+  - Large-scale model training and evaluation infrastructure
+  - Large-scale inference and experimentation platforms
+  - Multi-tenant compute platform for internal ML teams
+  - GPU scheduling and resource optimization for ML workloads
+position:
+  title: AI Infrastructure Engineer, Core Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds infrastructure and orchestration systems
+      that support ML workloads rather than directly working on
+      AI/ML models. The engineer focuses on compute allocation,
+      scheduling, autoscaling, and platform architecture for ML
+      teams, which is infrastructure that enables AI work but is
+      not AI development itself.
+  responsibilities:
+  - Design and maintain fault-tolerant, cost-efficient systems for compute allocation,
+    scheduling, and autoscaling across clusters and clouds
+  - Build common abstractions and APIs that unify job submission, telemetry, and observability
+    across serving and training workloads
+  - Develop systems for usage metering, cost attribution, and quota management for
+    compute budgets
+  - Improve reliability and efficiency of large-scale GPU workloads through scheduling,
+    bin-packing, preemption, and resource sharing
+  - Partner with ML engineers and API teams to identify bottlenecks and define long-term
+    architectural standards
+  - Lead projects end-to-end from requirements gathering and design to rollout and
+    monitoring in cross-functional environment
+  use_cases:
+  - Orchestration of ML compute workloads across heterogeneous GPU, CPU, on-prem,
+    and cloud environments
+  - Large-scale model training and evaluation infrastructure
+  - Large-scale inference and experimentation platforms
+  - Multi-tenant compute platform for internal ML teams
+  - GPU scheduling and resource optimization for ML workloads
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, Terraform, Ray, Slurm, observability, metrics, tracing,
+      alerting, SLOs]
+    languages: [Python, Go, Rust]
+    domains: []
+    other: [distributed systems, scheduling, platform architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7587741'
+  extracted_at: '2026-02-05T11:09:19.416949'

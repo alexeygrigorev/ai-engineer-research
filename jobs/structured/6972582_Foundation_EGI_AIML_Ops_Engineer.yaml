@@ -1,0 +1,52 @@
+company:
+  name: Foundation EGI
+  stage: venture-backed
+  focus: AI Copilot for design and manufacturing
+  use_cases:
+  - AI Copilot for design and manufacturing processes
+  - Utilizing advanced AI, physics simulation, and computer graphics to reduce engineering
+    costs
+  - Improving engineering productivity across all steps of the design and manufacturing
+    process
+position:
+  title: AI/ML Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI/ML Ops role focused on building
+      infrastructure, CI/CD pipelines, and monitoring systems for
+      ML teams. The role does not involve directly training, fine-
+      tuning, or deploying models - it enables those workflows
+      through pipelines and infrastructure automation.
+  responsibilities:
+  - Architect, build, and operate end-to-end ML pipelines for training, validation
+    and deployment on Google Cloud
+  - Define, instrument, and maintain logging, monitoring, and alerting for model performance
+    and data drift
+  - Automate CI/CD for ML artifacts and infrastructure using GitHub Actions or equivalent
+  - Collaborate with cross-functional teams, including frontend engineers, backend
+    engineers, research engineers, and infrastructure engineers
+  - Write clean, well-documented, fast, and maintainable code
+  - Help ensure our systems have high availability and performance
+  use_cases:
+  - AI Copilot for design and manufacturing processes
+  - Utilizing advanced AI, physics simulation, and computer graphics to reduce engineering
+    costs
+  - Improving engineering productivity across all steps of the design and manufacturing
+    process
+  skills:
+    genai: [LLMs, prompt engineering]
+    ml: []
+    web: [Protobuf, gRPC, Next.js, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Google Cloud, Vertex AI]
+    ops: [Docker, Kubernetes, Terraform, GitHub Actions, Prometheus, Grafana, ELK]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6972582'
+  extracted_at: '2026-02-05T10:04:26.031217'

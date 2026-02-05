@@ -1,0 +1,66 @@
+company:
+  name: Charlotte Tilbury
+  stage: Public
+  focus: Global beauty and makeup brand
+  use_cases:
+  - Agentic AI systems with retrieval-augmented generation (RAG) for beauty and makeup
+    applications
+  - Recommender systems for personalized product suggestions
+  - Customer segmentation models for targeted marketing campaigns
+  - Marketing optimization modules using supervised, unsupervised, and econometric
+    modeling
+  - AI-powered tools to decode makeup applications and improve customer experience
+  - Vector search and retrieval for beauty product discovery
+position:
+  title: AI & ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design and implementation of
+      agentic systems using RAG, prompt engineering, and
+      orchestration with LangChain/LangGraph. The engineer builds,
+      deploys, and monitors both GenAI and traditional ML models
+      directly in production.
+  responsibilities:
+  - Partner with stakeholders to scope problems and identify appropriate AI solutions,
+    leveraging existing tools or building custom workflows
+  - Design and implement agentic systems using RAG, grounding, prompt engineering,
+    and orchestration on a GCP-first stack
+  - Build and maintain production ML pipelines and services for recommender systems,
+    customer segmentation, and marketing optimization
+  - Develop APIs and microservices for AI/ML solutions ensuring security, scalability,
+    and observability
+  - Implement CI/CD for ML services, write infrastructure as code, and monitor model/data
+    drift and performance
+  - Establish robust guardrails for safe AI usage including prompt security, evaluation
+    frameworks, and compliance with privacy regulations
+  - Drive best practices, reusable templates, and documentation to scale AI/ML delivery
+    across the business
+  - Collaborate with data engineers, scientists, product managers, legal, and infosec
+    to deliver end-to-end solutions
+  use_cases:
+  - Agentic AI systems with retrieval-augmented generation (RAG) for beauty and makeup
+    applications
+  - Recommender systems for personalized product suggestions
+  - Customer segmentation models for targeted marketing campaigns
+  - Marketing optimization modules using supervised, unsupervised, and econometric
+    modeling
+  - AI-powered tools to decode makeup applications and improve customer experience
+  - Vector search and retrieval for beauty product discovery
+  skills:
+    genai: [LangChain, LangGraph, RAG, prompt engineering]
+    ml: [recommender systems, econometric modeling]
+    web: [FastAPI]
+    databases: [vector databases]
+    data: [feature stores, data lineage]
+    cloud: [GCP, GCP Vertex AI, AWS SageMaker, Azure ML]
+    ops: [Terraform, CI/CD, MLflow, model registry, monitoring, RAGAS, TruLens, LangSmith,
+      Arize, security, IAM, PII handling]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7075236'
+  extracted_at: '2026-02-05T10:11:09.559362'

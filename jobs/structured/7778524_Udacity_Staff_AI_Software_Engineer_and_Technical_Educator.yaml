@@ -1,0 +1,63 @@
+company:
+  name: Udacity
+  stage: Acquired (Accenture company)
+  focus: Online technical education platform for AI/ML
+  use_cases:
+  - Agentic course creation using multi-agent systems to generate educational content
+  - Interactive learning experiences powered by AI agents for student engagement
+  - Automated content review and publishing pipelines with quality evaluation
+  - RAG-based systems for content retrieval and knowledge enhancement in learning
+    materials
+  - Educational content generation with human-in-the-loop quality control and safety
+    guardrails
+position:
+  title: Staff AI Software Engineer and Technical Educator
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building production agents and multi-
+      agent architectures, designing orchestration patterns,
+      implementing tool/function calling, RAG systems, and
+      evaluation frameworks. The engineer works directly on AI/ML
+      systems - creating agentic applications rather than
+      supporting infrastructure for others.
+  responsibilities:
+  - Design multi-agent architectures and orchestration patterns for content creation,
+    review, and publishing
+  - Build production agents and tools with CLIs/APIs in Python and Go to power content
+    creation and interactive learning
+  - Orchestrate stateful agents, event-driven pipelines, and tool/function calling
+    systems
+  - Implement automated evaluations, rubrics, safety guardrails, and human-in-the-loop
+    review with quality metrics
+  - Present on camera as course instructor, teaching complex technical concepts and
+    walking through demos
+  - Create learning experiences including scripts, demos, and hands-on projects that
+    engage learners
+  use_cases:
+  - Agentic course creation using multi-agent systems to generate educational content
+  - Interactive learning experiences powered by AI agents for student engagement
+  - Automated content review and publishing pipelines with quality evaluation
+  - RAG-based systems for content retrieval and knowledge enhancement in learning
+    materials
+  - Educational content generation with human-in-the-loop quality control and safety
+    guardrails
+  skills:
+    genai: [OpenAI API, OpenAI Agents SDK, prompting, RAG, embeddings, function calling,
+      agents, multi-agent architectures, safety guardrails, vector databases, pgvector,
+      Pinecone]
+    ml: []
+    web: [API design]
+    databases: [Postgres, Redis]
+    data: [Kafka, distributed services]
+    cloud: [AWS]
+    ops: [evaluation frameworks, A/B testing, offline/online metrics, Docker, Kubernetes,
+      GitHub Actions, Datadog]
+    languages: [Python, Go, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7778524'
+  extracted_at: '2026-02-05T11:29:03.267625'

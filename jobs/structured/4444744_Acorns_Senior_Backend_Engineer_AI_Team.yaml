@@ -1,0 +1,54 @@
+company:
+  name: Acorns
+  stage: Public
+  focus: Financial wellness and micro-investing app
+  use_cases:
+  - Virtual customer support agent providing personalized, real-time financial assistance
+  - AI-powered chatbot for customer service interactions in fintech context
+  - Intelligent financial decision support using proprietary Acorns data
+  - RAG-based system for retrieving relevant financial information and guidance
+  - Fine-tuned LLMs optimized for financial wellness and investment advice
+position:
+  title: Senior Backend Engineer, AI Team
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML models including
+      fine-tuning LLMs, implementing RAG, building LLM agents, and
+      deploying a virtual support bot. The engineer will debug and
+      enhance models, scale pipelines, and work directly with
+      vector databases and generative AI technologies.
+  responsibilities:
+  - Understand Acorns' mission, vision, and strategic objectives while building relationships
+    with team members and cross-functional teams
+  - Review and analyze proprietary datasets, Vector database architecture, pipelines,
+    and tools to identify gaps and propose improvements
+  - Contribute to customer-facing projects by debugging and enhancing models, scaling
+    pipelines, and delivering the virtual support bot MVP to production
+  - Collaborate with cross-functional teams to align AI efforts with business goals,
+    mentor junior team members, and drive innovation through LLM capabilities
+  - Optimize data pipelines, establish scalable monitoring processes, and develop
+    a roadmap for innovation aligned with fintech objectives
+  use_cases:
+  - Virtual customer support agent providing personalized, real-time financial assistance
+  - AI-powered chatbot for customer service interactions in fintech context
+  - Intelligent financial decision support using proprietary Acorns data
+  - RAG-based system for retrieving relevant financial information and guidance
+  - Fine-tuned LLMs optimized for financial wellness and investment advice
+  skills:
+    genai: [Generative AI, Transformer, fine-tuning LLM, Search ranking, RAG improvement,
+      LLM Agent, LangChain, chatbot development]
+    ml: [Huggingface, PyTorch, SciKit-Learn, neural network tuning]
+    web: []
+    databases: [vector databases]
+    data: [Pandas, NumPy]
+    cloud: [AWS, Bedrock, Sagemaker, Databricks]
+    ops: [Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4444744'
+  extracted_at: '2026-02-05T09:39:07.199651'

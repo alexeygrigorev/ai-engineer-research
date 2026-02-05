@@ -1,0 +1,65 @@
+company:
+  name: Cloudflare
+  stage: Public
+  focus: Global internet infrastructure and developer platform
+  use_cases:
+  - Building and deploying applications globally using Cloudflare's developer platform
+    including Workers, R2, KV, and Durable Objects
+  - Developing distributed serverless applications with AI capabilities through Workers
+    AI
+  - Implementing edge computing solutions for improved application performance and
+    protection
+  - Creating developer acquisition pathways in an AI and distributed agent landscape
+  - Designing full-stack applications on distributed systems architecture
+position:
+  title: Senior Manager, Solutions Architecture , AI & Developer Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a management role leading Solutions Architecture
+      teams that help customers understand Cloudflare's Developer
+      Platform which includes Workers AI. The role focuses on
+      technical sales, strategy, and team management rather than
+      hands-on building, training, or deploying AI models
+      directly. While the team supports AI-related products
+      (Workers AI), the role itself is about enabling and guiding
+      others rather than working on the AI technology itself.
+  responsibilities:
+  - Develop and execute long-term technical sales strategy to drive pipeline and revenue
+    for the Cloudflare Developer Platform
+  - Directly manage, mentor, and grow a team of Solution Architects serving as trusted
+    technical advisors
+  - Serve as primary liaison with executive leadership, Product Management, and Product
+    Marketing to align goals
+  - Manage annual budget and make critical resource allocation decisions to meet customer
+    needs
+  - Support team in aligning perceived business and technical value with C-Level executives
+    at strategic accounts
+  - Oversee feedback loop between field teams and internal teams to refine product
+    roadmap based on customer usage
+  use_cases:
+  - Building and deploying applications globally using Cloudflare's developer platform
+    including Workers, R2, KV, and Durable Objects
+  - Developing distributed serverless applications with AI capabilities through Workers
+    AI
+  - Implementing edge computing solutions for improved application performance and
+    protection
+  - Creating developer acquisition pathways in an AI and distributed agent landscape
+  - Designing full-stack applications on distributed systems architecture
+  skills:
+    genai: []
+    ml: [AI/ML]
+    web: [Web Technologies, Full-stack engineering, Systems Design]
+    databases: []
+    data: []
+    cloud: [Cloudflare Workers, Workers AI, Cloud Architecture, Distributed Serverless
+        Platforms, AWS Solutions Architect, GCP Cloud Architect]
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8084392'
+  extracted_at: '2026-02-05T11:59:12.063531'

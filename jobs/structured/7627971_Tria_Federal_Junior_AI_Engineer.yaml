@@ -1,0 +1,55 @@
+company:
+  name: Tria Federal
+  stage: null
+  focus: |-
+    Digital services and AI solutions for federal government
+    missions
+  use_cases:
+  - Automating knowledge work to enhance human decision-making for federal missions
+  - Improving digital experiences for veterans, clinicians, and public safety professionals
+  - Building secure, mission-critical agentic systems for government agencies
+  - Creating AI copilots and intelligent agents for digital civic services
+  - Developing retrieval-augmented solutions to support sensitive government operations
+position:
+  title: Junior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI agents using agentic
+      frameworks, LLM APIs, and RAG systems. The engineer will
+      design and deploy multi-agent workflows and retrieval-
+      augmented solutions, which is hands-on work with AI models,
+      not supporting infrastructure.
+  responsibilities:
+  - Build intelligent agents that plan, reason, and interact with users, MCP Servers
+    and APIs using agentic frameworks
+  - Engineer end-to-end products from Python or Node.js backends to React or Angular
+    frontend applications embedding agents
+  - Integrate and experiment with AI platforms and Foundational Models to design multi-agent
+    workflows and RAG solutions
+  - Prototype rapidly and push from concept to pilot within an agile, builder-driven
+    team
+  - Apply responsible AI and security-minded design for systems interfacing with sensitive
+    data
+  use_cases:
+  - Automating knowledge work to enhance human decision-making for federal missions
+  - Improving digital experiences for veterans, clinicians, and public safety professionals
+  - Building secure, mission-critical agentic systems for government agencies
+  - Creating AI copilots and intelligent agents for digital civic services
+  - Developing retrieval-augmented solutions to support sensitive government operations
+  skills:
+    genai: [OpenAI/Anthropic APIs, RAG, agents, prompt engineering, MCP]
+    ml: []
+    web: [React, Angular]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7627971'
+  extracted_at: '2026-02-05T11:15:53.317834'

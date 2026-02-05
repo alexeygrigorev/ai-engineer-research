@@ -1,0 +1,52 @@
+company:
+  name: Deepmind
+  stage: Public
+  focus: AI research and GenAI developer platforms
+  use_cases:
+  - Mobile vibe coding platform that expands who can be a developer
+  - GenAI playground showcasing cutting edge Google models
+  - Platform for Gemini API users to monitor and manage their usage
+  - AI-powered software development paradigm
+  - Mobile app for AI Studio GenAI IDE
+position:
+  title: Software Engineer, AI Studio iOS Mobile - New York or Mountain View
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a mobile software engineering role building the iOS
+      app for AI Studio, which is a developer tool/platform for
+      GenAI. The engineer will build the mobile application
+      interface and infrastructure, not work directly on AI
+      models, LLMs, or machine learning systems themselves. The
+      role focuses on iOS development, rapid prototyping, and
+      deploying mobile applications that enable others to use AI
+      tools.
+  responsibilities:
+  - Rapid prototyping of various iOS mobile app ideas
+  - Design, develop, and deploy iOS mobile applications
+  - Partner closely with PM and UX to iterate on working iOS mobile prototypes
+  - Contribute to the development of new AI tools and platforms
+  - Launch a brand new Google AI Studio Build mobile app
+  - Stay up-to-date with the latest advancements in AI and software engineering
+  use_cases:
+  - Mobile vibe coding platform that expands who can be a developer
+  - GenAI playground showcasing cutting edge Google models
+  - Platform for Gemini API users to monitor and manage their usage
+  - AI-powered software development paradigm
+  - Mobile app for AI Studio GenAI IDE
+  skills:
+    genai: [Vibe coding]
+    ml: []
+    web: [iOS, Android, Flutter, Web development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Swift, Kotlin]
+    domains: []
+    other: [Mobile development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7925718'
+  extracted_at: '2026-02-05T11:41:07.509850'

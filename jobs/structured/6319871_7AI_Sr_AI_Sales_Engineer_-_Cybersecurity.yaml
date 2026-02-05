@@ -1,0 +1,51 @@
+company:
+  name: 7AI
+  stage: Seed
+  focus: AI-powered cybersecurity platform
+  use_cases:
+  - AI-powered cybersecurity platform for threat detection and protection
+  - Enterprise security solution leveraging AI/ML for advanced threat analysis
+  - Security platform addressing modern threat landscapes for senior IT and security
+    executives
+position:
+  title: Sr. AI Sales Engineer - Cybersecurity
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer role focused on pre-sales
+      activities including technical discovery, demonstrations,
+      and POCs. The role evangelizes and explains AI/ML
+      technologies to customers but does not involve building,
+      training, or deploying AI/ML models.
+  responsibilities:
+  - Own and lead technical sales discussions for high-value customer engagements
+  - Serve as trusted advisor to senior IT and security executives, understanding threat
+    landscapes and technology environments
+  - Design and deliver compelling technical demonstrations and POCs highlighting platform
+    capabilities
+  - Collaborate with Product and Engineering teams to translate customer feedback
+    into product features and roadmap priorities
+  - Tailor solutions during Proof of Value engagements to ensure long-term customer
+    success
+  - Mentor and guide junior Sales Engineers and drive team knowledge sharing
+  use_cases:
+  - AI-powered cybersecurity platform for threat detection and protection
+  - Enterprise security solution leveraging AI/ML for advanced threat analysis
+  - Security platform addressing modern threat landscapes for senior IT and security
+    executives
+  skills:
+    genai: [AI/ML]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [scripting]
+    domains: [cybersecurity]
+    other: [engineering, customization, implementation]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '6319871'
+  extracted_at: '2026-02-05T09:43:22.775544'

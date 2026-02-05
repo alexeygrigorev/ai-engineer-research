@@ -1,0 +1,55 @@
+company:
+  name: Curai Health
+  stage: Startup (funded by top-tier VC investors)
+  focus: AI-powered virtual healthcare clinic platform
+  use_cases:
+  - Conversational AI for patient interaction and care follow-up
+  - Personalization systems for tailored healthcare experiences
+  - User understanding to improve patient engagement
+  - Clinical decision support systems to assist physicians
+  - Patient-facing AI systems integrated into virtual clinic workflow
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building, deploying, and
+      improving advanced ML and generative AI solutions including
+      large language models for patient and provider-facing
+      products. The engineer owns end-to-end AI initiatives from
+      modeling through deployment and directly develops
+      conversational AI, personalization, and clinical decision
+      support systems.
+  responsibilities:
+  - Design, build, deploy and improve advanced ML and generative AI (including large
+    language models) solutions for patient and provider-facing products
+  - Drive technical strategy and own end-to-end AI initiatives from data exploration
+    and modeling through evaluation, A/B testing, deployment, and continuous monitoring
+  - Evaluate and integrate emerging research and algorithms to advance the company's
+    AI capabilities
+  - Collaborate cross-functionally with clinicians, researchers, engineers, product
+    managers, data scientists, and designers to drive product improvements
+  - Mentor and provide technical guidance to interns and junior team members, fostering
+    a culture of learning and innovation
+  use_cases:
+  - Conversational AI for patient interaction and care follow-up
+  - Personalization systems for tailored healthcare experiences
+  - User understanding to improve patient engagement
+  - Clinical decision support systems to assist physicians
+  - Patient-facing AI systems integrated into virtual clinic workflow
+  skills:
+    genai: [Large Language Models, Conversational AI, RAG]
+    ml: [A/B testing, model evaluation]
+    web: []
+    databases: []
+    data: [data analysis]
+    cloud: []
+    ops: [production-quality software engineering, model deployment, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7639839'
+  extracted_at: '2026-02-05T11:16:38.384955'

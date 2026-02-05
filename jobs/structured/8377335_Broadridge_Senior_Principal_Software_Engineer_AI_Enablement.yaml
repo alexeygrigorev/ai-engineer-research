@@ -1,0 +1,59 @@
+company:
+  name: Broadridge
+  stage: Public
+  focus: Financial services technology and infrastructure
+  use_cases:
+  - AI-assisted software development including coding, testing, and defect detection
+  - Engineering productivity enhancement through AI-driven developer tools and workflows
+  - Code quality analysis and technical debt reduction using AI
+  - Crypto and tokenized securities platform readiness for financial markets
+  - Governance and compliance for AI tool usage in regulated financial environments
+  - Cross-functional AI adoption strategy across mission-critical financial systems
+position:
+  title: Senior Principal Software Engineer – AI Enablement, Engineering Productivity
+    & Digital Assets (Hybrid - Flexible Options)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role leads AI adoption across development and QA
+      processes, establishes governance standards for AI usage,
+      and implements AI-assisted development tools. The focus is
+      on enabling and managing AI adoption for engineering teams
+      rather than building, training, or deploying AI models
+      directly.
+  responsibilities:
+  - Lead responsible adoption of AI-assisted development and QA capabilities across
+    the software development lifecycle
+  - Define governance, standards, and controls for AI usage while tracking prompt
+    usage and code adoption into production
+  - Define metrics for developer productivity and delivery efficiency while improving
+    CI/CD pipelines and developer tooling
+  - Use AI-driven analysis to improve code quality and reduce defect leakage and technical
+    debt
+  - Define engineering readiness for crypto and tokenized assets including architecture,
+    security, ledger integration, and compliance
+  - Drive execution across engineering, product, QA, DevOps, security, and business
+    teams, translating strategy into executable plans
+  use_cases:
+  - AI-assisted software development including coding, testing, and defect detection
+  - Engineering productivity enhancement through AI-driven developer tools and workflows
+  - Code quality analysis and technical debt reduction using AI
+  - Crypto and tokenized securities platform readiness for financial markets
+  - Governance and compliance for AI tool usage in regulated financial environments
+  - Cross-functional AI adoption strategy across mission-critical financial systems
+  skills:
+    genai: [AI governance and standards, AI-assisted development tools]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [C++, Java]
+    domains: [Crypto, Tokenization, OMS, Execution management lifecycle]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8377335'
+  extracted_at: '2026-02-05T13:01:04.153206'

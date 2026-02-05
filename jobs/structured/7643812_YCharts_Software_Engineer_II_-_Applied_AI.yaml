@@ -1,0 +1,57 @@
+company:
+  name: YCharts
+  stage: Public (or late-stage growth - recognized on Inc. 5000 for nearly a decade)
+  focus: |-
+    SaaS platform for wealth managers and investment
+    professionals
+  use_cases:
+  - Transform complex financial data into clear visuals and actionable insights for
+    wealth managers
+  - Enable smarter investment decisions through AI-powered research and analysis tools
+  - Enhance proposal generation and client communication capabilities using AI
+  - Improve overall user experience by applying AI to expand product capabilities
+    in wealth management
+position:
+  title: Software Engineer II - Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building features that use Large Language
+      Models (LLMs) and working directly with AI APIs from OpenAI
+      and Anthropic. This is hands-on AI development work
+      implementing AI capabilities into the product, not just
+      supporting AI infrastructure.
+  responsibilities:
+  - Plan, estimate, build and support multidimensional products across the entire
+    software stack
+  - Work with Django, FastAPI, Angular, and AI APIs from OpenAI and Anthropic to deliver
+    AI-powered features
+  - Deliver quality project work with good test coverage while working directly with
+    the product team
+  - Take ownership of the entire code lifecycle from development through production
+    and ongoing improvements
+  - Perform code reviews and maintain high quality standards while finding opportunities
+    to improve development processes with AI tools
+  use_cases:
+  - Transform complex financial data into clear visuals and actionable insights for
+    wealth managers
+  - Enable smarter investment decisions through AI-powered research and analysis tools
+  - Enhance proposal generation and client communication capabilities using AI
+  - Improve overall user experience by applying AI to expand product capabilities
+    in wealth management
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs]
+    ml: []
+    web: [Django, FastAPI, Angular]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7643812'
+  extracted_at: '2026-02-05T11:17:07.531990'

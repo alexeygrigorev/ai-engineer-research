@@ -1,0 +1,60 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: Edge-to-cloud computing solutions and infrastructure
+  use_cases:
+  - Large-scale AI and HPC systems performance optimization and engineering
+  - Design and integration of scalable software systems across multiple platform types
+  - Software systems testing and methodology including test plans and debugging
+  - Simulation, modeling, and emulation capabilities for AI/HPC applications
+  - Architecting innovative software system design tools and languages
+  - Cross-domain distributed computing solutions for enterprise products
+position:
+  title: Sr AI/HPC Applications and Performance Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a performance engineering and architecture role
+      focused on AI/HPC systems infrastructure and platform
+      design. The role involves architecting and designing
+      software systems, tools, and methodologies that support AI
+      applications rather than directly building, training, or
+      deploying AI models.
+  responsibilities:
+  - Develop organization-wide architectures, strategies, and methodologies for software
+    systems design across multiple platforms and organizations
+  - Identify and recommend new technologies, innovations, and outsourced development
+    partner relationships aligned with technology roadmaps
+  - Review, evaluate, and influence designs and project activities for compliance
+    with development guidelines and standards
+  - Provide solutions that improve product quality and mitigate failure risk through
+    innovative approaches
+  - Mentor less-experienced team members in software systems design and development
+    best practices
+  - Act as internal authority on software systems design consulted across organizations
+    and Business Units
+  - Contribute to external technical community through whitepapers, patents, and innovations
+  - Lead overall architecture of software systems for products and solutions
+  use_cases:
+  - Large-scale AI and HPC systems performance optimization and engineering
+  - Design and integration of scalable software systems across multiple platform types
+  - Software systems testing and methodology including test plans and debugging
+  - Simulation, modeling, and emulation capabilities for AI/HPC applications
+  - Architecting innovative software system design tools and languages
+  - Cross-domain distributed computing solutions for enterprise products
+  skills:
+    genai: []
+    ml: [AI applications performance engineering, Simulation and modeling]
+    web: [Microservices, Full Stack Development]
+    databases: []
+    data: [Distributed Computing]
+    cloud: [Cloud Architectures]
+    ops: [DevOps, Testing & Automation, Large-scale systems architecture]
+    languages: []
+    domains: [HPC]
+    other: [Software systems design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7722465'
+  extracted_at: '2026-02-05T11:22:26.428993'

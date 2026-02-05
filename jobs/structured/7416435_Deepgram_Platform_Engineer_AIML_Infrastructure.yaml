@@ -1,0 +1,64 @@
+company:
+  name: Deepgram
+  stage: Series C
+  focus: |-
+    Voice AI platform with speech-to-text and text-to-speech
+    APIs
+  use_cases:
+  - Voice AI platform providing real-time speech-to-text APIs
+  - Text-to-speech synthesis and voice agent building
+  - Production-grade voice agent deployment at scale
+  - Training and deploying voice-native foundation models
+  - Self-hosted and on-premises voice AI software solutions
+  - High-throughput, low-latency audio processing and transcription
+position:
+  title: Platform Engineer – AI/ML Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Platform Engineer role focused on building and
+      operating the infrastructure foundation for AI/ML teams. The
+      role involves creating platforms, managing Kubernetes
+      clusters, orchestrating GPU workloads, and supporting
+      researchers/engineers, but does not involve directly
+      building, training, or deploying AI models.
+  responsibilities:
+  - Architect and maintain Kubernetes-based computing platform across AWS and on-premise
+    environments
+  - Develop and manage infrastructure using Terraform with Infrastructure-as-Code
+    principles
+  - Design and optimize AI/ML job scheduling systems using Slurm for efficient GPU
+    resource management
+  - Provision and maintain on-premise bare metal server infrastructure for high-performance
+    GPU computing
+  - Implement networking and storage solutions including CNI, service mesh, CSI, and
+    S3 for hybrid environments
+  - Develop comprehensive observability stack with monitoring, logging, and tracing
+    for platform health
+  - Collaborate with AI researchers and ML engineers to build tools and workflows
+    that accelerate development
+  - Automate the lifecycle of single-tenant, managed deployments
+  use_cases:
+  - Voice AI platform providing real-time speech-to-text APIs
+  - Text-to-speech synthesis and voice agent building
+  - Production-grade voice agent deployment at scale
+  - Training and deploying voice-native foundation models
+  - Self-hosted and on-premises voice AI software solutions
+  - High-throughput, low-latency audio processing and transcription
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [S3, Ceph]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Terraform, Slurm, Docker, CI/CD, CNI, Service mesh, CSI, GitLab
+        CI, Jenkins, ArgoCD, Calico, Cilium, Rook, PXE boot, MAAS]
+    languages: [Python, Go, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7416435'
+  extracted_at: '2026-02-05T10:49:49.312558'

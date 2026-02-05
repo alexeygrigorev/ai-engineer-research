@@ -1,0 +1,54 @@
+company:
+  name: Applico Capital
+  stage: Stealth (venture-backed startup)
+  focus: AI-enabled B2B distribution solutions
+  use_cases:
+  - AI-driven search and merchandising optimization for B2B distribution
+  - Dynamic pricing and demand forecasting systems
+  - Automated customer support workflows using generative AI
+  - Agentic architectures for autonomous and semi-autonomous business operations
+  - RAG-based knowledge retrieval for distributor operations
+position:
+  title: Applied AI / Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires building, deploying, and operationalizing
+      generative AI systems, LLM agents, and ML models. The
+      engineer works directly on implementing RAG, agent
+      frameworks (LangChain, AutoGen, CrewAI), and turning AI
+      prototypes into production systems.
+  responsibilities:
+  - Build and maintain end-to-end ML and AI pipelines, including training, testing,
+    deployment, and monitoring
+  - Partner with AI Scientists to translate prototypes and research models into scalable,
+    production-ready systems
+  - Develop APIs and microservices to integrate AI capabilities directly into business
+    applications and workflows
+  - Implement automation, testing, and monitoring for reliability, performance, and
+    reproducibility
+  - Experiment with and operationalize agentic frameworks to orchestrate intelligent,
+    tool-using systems
+  - Apply AI-augmented development tools to accelerate engineering velocity
+  use_cases:
+  - AI-driven search and merchandising optimization for B2B distribution
+  - Dynamic pricing and demand forecasting systems
+  - Automated customer support workflows using generative AI
+  - Agentic architectures for autonomous and semi-autonomous business operations
+  - RAG-based knowledge retrieval for distributor operations
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, RAG, agents]
+    ml: [PyTorch, TensorFlow, JAX]
+    web: [FastAPI, microservices]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps, CI/CD, model registries, monitoring, feature stores]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7983915'
+  extracted_at: '2026-02-05T11:45:31.875229'

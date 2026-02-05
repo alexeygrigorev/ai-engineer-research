@@ -1,0 +1,57 @@
+company:
+  name: Zapier
+  stage: Public
+  focus: Automation platform for workflows and AI integration
+  use_cases:
+  - Natural language task delegation and workflow orchestration
+  - AI-powered task extraction, classification, and summarization
+  - Human-in-the-loop approval systems for production automations
+  - Autonomous agents for workflow automation
+  - LLM-native workflow integration for business automation
+position:
+  title: Sr. Software Engineer, AI Tasks (Fullstack)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role building user
+      interfaces and services that enable AI workflows (agents,
+      chatbots, copilots). The engineer collaborates with AI
+      experts and platform teams but focuses on building the
+      application layer, orchestration infrastructure, and user-
+      facing features rather than training, fine-tuning, or
+      deploying models directly.
+  responsibilities:
+  - Design and build features that allow users to delegate tasks and orchestrate workflows
+    using natural language
+  - Contribute to backend systems that manage agent memory, reasoning, execution,
+    and system integrations
+  - Build and refine user-facing features and interfaces for initiating, monitoring,
+    and guiding agent behavior
+  - Collaborate with AI and platform teams to connect Zapier Agents with core orchestration
+    infrastructure
+  - Own projects end-to-end from scoping and architecture to implementation, testing,
+    and support
+  - Improve developer experience, observability, and deployment pipelines as the product
+    matures
+  use_cases:
+  - Natural language task delegation and workflow orchestration
+  - AI-powered task extraction, classification, and summarization
+  - Human-in-the-loop approval systems for production automations
+  - Autonomous agents for workflow automation
+  - LLM-native workflow integration for business automation
+  skills:
+    genai: []
+    ml: []
+    web: [Django, React, Next.js, RESTful APIs]
+    databases: [PostgreSQL, MySQL]
+    data: [event-driven systems]
+    cloud: [AWS, S3, SQS, Lambda, RDS]
+    ops: []
+    languages: [TypeScript, Node.js, Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7988361'
+  extracted_at: '2026-02-05T11:46:33.656612'

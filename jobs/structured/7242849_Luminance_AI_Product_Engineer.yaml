@@ -1,0 +1,51 @@
+company:
+  name: Luminance
+  stage: Series B+
+  focus: Legal-Grade AI for enterprise
+  use_cases:
+  - AI-powered legal document analysis and processing
+  - Enterprise legal workflow automation using agentic systems
+  - Legal compliance and contract review automation
+  - Strategic business problem-solving through AI in legal domain
+  - Applied AI tools for legal professionals and enterprises
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building of agentic AI systems
+      and LLM integrations, not just supporting infrastructure.
+      Responsibilities include designing, prototyping, and
+      shipping AI tools with direct involvement in model behavior
+      and deployment.
+  responsibilities:
+  - Design, prototype, and ship agentic AI systems that solve strategic business problems
+  - Quickly translate abstract requirements into functioning prototypes and drive
+    them to production
+  - Debug and resolve complex issues across the stack from AI model behavior to deployment
+  - Demo work across the company and contribute to internal narratives around innovation
+  - Produce documentation and rollout plans for new tools ensuring user adoption
+  - Continuously evaluate new AI models, frameworks, and coding tools to improve speed
+    and quality
+  use_cases:
+  - AI-powered legal document analysis and processing
+  - Enterprise legal workflow automation using agentic systems
+  - Legal compliance and contract review automation
+  - Strategic business problem-solving through AI in legal domain
+  - Applied AI tools for legal professionals and enterprises
+  skills:
+    genai: [LLMs, agentic AI systems]
+    ml: []
+    web: [APIs, full-stack frameworks]
+    databases: [JSON]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7242849'
+  extracted_at: '2026-02-05T10:31:23.587193'

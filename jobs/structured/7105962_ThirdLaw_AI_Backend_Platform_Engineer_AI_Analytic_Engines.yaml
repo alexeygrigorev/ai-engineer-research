@@ -1,0 +1,72 @@
+company:
+  name: ThirdLaw AI
+  stage: Seed
+  focus: |-
+    AI safety, compliance, and observability infrastructure for
+    enterprise
+  use_cases:
+  - Real-time monitoring and evaluation of AI agent behavior to detect safety violations,
+    data leaks, and unpredictable actions
+  - Automated enforcement and intervention for AI systems to block, redact, or escalate
+    when risks are detected
+  - Compliance and security control for enterprise AI deployments, ensuring AI systems
+    operate within safe boundaries
+  - Observability for LLM-based systems beyond traditional metrics like latency and
+    cost, capturing decision correctness and safety
+  - Runtime safety layer that helps IT and Security teams answer whether AI behavior
+    is acceptable and take action when it's not
+position:
+  title: Backend / Platform Engineer, AI Analytic Engines
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend/platform engineering role building
+      infrastructure, observability systems, and evaluation
+      engines that support AI deployment - not building or
+      training AI models directly. The role focuses on streaming
+      pipelines, vector databases, runtime intervention layers,
+      and scalable services that monitor and control AI behavior,
+      which is enabling work for AI systems rather than hands-on
+      model work.
+  responsibilities:
+  - Architect scalable, low-latency services for running evaluations in real-time
+    and batch, integrating with streaming data pipelines and trace-based event models
+  - Design and build the core evaluation engine that applies heuristics, semantic
+    models, and foundation model calls to detect violations across LLM inputs and
+    outputs
+  - Build a runtime intervention layer to determine and execute enforcement actions
+    like block, redact, notify, and escalate based on evaluation results and risk
+    context
+  - Create reusable frameworks for pluggable evaluators and intervention policies,
+    supporting no-code authoring and automated deployment pipelines
+  - Configure and operationalize vector database pipelines for RAG-like use cases
+  - Mitigate blocking gRPC threads, implement micro-batching and streaming for LLM/embedding
+    calls, and add reliability controls like queue-based back-pressure and graceful
+    degradation paths
+  use_cases:
+  - Real-time monitoring and evaluation of AI agent behavior to detect safety violations,
+    data leaks, and unpredictable actions
+  - Automated enforcement and intervention for AI systems to block, redact, or escalate
+    when risks are detected
+  - Compliance and security control for enterprise AI deployments, ensuring AI systems
+    operate within safe boundaries
+  - Observability for LLM-based systems beyond traditional metrics like latency and
+    cost, capturing decision correctness and safety
+  - Runtime safety layer that helps IT and Security teams answer whether AI behavior
+    is acceptable and take action when it's not
+  skills:
+    genai: [LangChain, CrewAI, AutoGen, RAG, LLMs]
+    ml: [embeddings]
+    web: [FastAPI, gRPC]
+    databases: [FAISS, Weaviate, Qdrant, pgvector, ClickHouse]
+    data: [Kafka, Pulsar, Redis Streams, Apache Arrow, streaming]
+    cloud: []
+    ops: [Kubernetes, Docker, CI/CD, OpenTelemetry, micro-batching]
+    languages: [Python, Go, asyncio, multithreading]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7105962'
+  extracted_at: '2026-02-05T10:17:20.211421'

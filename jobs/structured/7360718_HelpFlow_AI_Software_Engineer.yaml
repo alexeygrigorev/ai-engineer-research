@@ -1,0 +1,55 @@
+company:
+  name: HelpFlow
+  stage: Established (10-year-old company)
+  focus: AI-empowered virtual assistant service
+  use_cases:
+  - Building multi-agent systems that integrate AI Agents into business teams
+  - Creating AI-empowered virtual assistant services for clients
+  - Deploying AI solutions that augment human virtual assistants in customer service
+    contexts
+  - Implementing agent-based systems to automate and enhance business workflows
+  - Developing AI-powered tools that integrate with existing remote staffing operations
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building a multi-agent system using
+      OpenAI Agents SDK, CrewAI, and other AI frameworks. The
+      engineer will directly work on implementing AI agents,
+      integrating AI APIs, and deploying AI-powered solutions,
+      which aligns with ai-first classification.
+  responsibilities:
+  - Collaborate to translate vision and initial technical specs into a development
+    plan
+  - Make architecture and strategy decisions that may need to change from initial
+    spec
+  - Execute best practice development process against the plan using development experience
+    and AI coding
+  - Build primarily while collaborating on product strategy and project management
+  - Design high-leverage, modular systems balancing technical debt vs momentum for
+    short and long term success
+  use_cases:
+  - Building multi-agent systems that integrate AI Agents into business teams
+  - Creating AI-empowered virtual assistant services for clients
+  - Deploying AI solutions that augment human virtual assistants in customer service
+    contexts
+  - Implementing agent-based systems to automate and enhance business workflows
+  - Developing AI-powered tools that integrate with existing remote staffing operations
+  skills:
+    genai: [OpenAI APIs, CrewAI, OpenAI Agents SDK, AI-powered software development,
+      multi-agent systems]
+    ml: []
+    web: [Vercel]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7360718'
+  extracted_at: '2026-02-05T10:42:54.929553'

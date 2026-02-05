@@ -1,0 +1,55 @@
+company:
+  name: Tenex (tenex.co)
+  stage: null
+  focus: |-
+    AI-powered software development agency helping businesses
+    build AI strategy
+  use_cases:
+  - Building agentic AI side-kicks for startups and established companies
+  - Developing AI-powered mobile applications for various industries
+  - Implementing AI strategy solutions for early-stage startups and market leaders
+  - Creating custom AI tools and automations to enhance client operations
+  - Deploying AI solutions for new media groups and diverse business sectors
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is a Forward Deployed AI Engineer at an AI-powered
+      software development agency that builds "agentic side-kicks"
+      and uses AI tools. As a Forward Deployed Engineer, this
+      position involves directly deploying AI solutions to
+      customers, which falls under hands-on work with
+      models/agents, making it ai-first rather than ai-support.
+  responsibilities:
+  - Build and deploy agentic AI solutions and side-kicks for diverse client projects
+  - Leverage AI tools and custom automations to exponentially boost development productivity
+  - Ship elegant, scalable code and turn complex problems into streamlined solutions
+  - Collaborate with cross-functional teams including designers and creators on high-impact
+    projects
+  - Proactively explore new technologies and bring cutting-edge insights to the team
+  - Elevate team performance through mentorship, clear communication, and proactive
+    collaboration
+  use_cases:
+  - Building agentic AI side-kicks for startups and established companies
+  - Developing AI-powered mobile applications for various industries
+  - Implementing AI strategy solutions for early-stage startups and market leaders
+  - Creating custom AI tools and automations to enhance client operations
+  - Deploying AI solutions for new media groups and diverse business sectors
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Anthropic API, prompt engineering, RAG,
+      agents, function calling]
+    ml: []
+    web: [FastAPI, REST, GraphQL, React, Next.js]
+    databases: [Postgres, Redis, Pinecone, Weaviate, Chroma]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLflow, LangSmith]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7257124'
+  extracted_at: '2026-02-05T10:32:08.119592'

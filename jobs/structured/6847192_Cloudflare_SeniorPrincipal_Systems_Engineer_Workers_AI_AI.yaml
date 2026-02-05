@@ -1,0 +1,50 @@
+company:
+  name: Cloudflare
+  stage: Public
+  focus: Edge network and developer platform services
+  use_cases:
+  - AI inference as a service running on edge GPUs worldwide
+  - Enabling developers to use AI models through Workers platform and API
+  - Hosting a diverse catalog of AI models for various applications
+  - Building developer-friendly APIs and products for AI integration
+  - Running generative AI models at massive scale and efficiency
+position:
+  title: Senior/Principal Systems Engineer, Workers AI (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is focused on deploying AI inference on GPUs at
+      the edge and maintaining the Workers AI model catalog and
+      inference code. The engineer works directly on AI inference
+      systems with PyTorch/TensorFlow, building products and APIs
+      that enable developers to use AI models.
+  responsibilities:
+  - Deploy AI inference on GPUs within Cloudflare's global network at massive scale
+  - Maintain the Workers AI model catalog and inference codebase
+  - Build products and APIs that enable developers to incorporate AI into their applications
+  - Set architecture and technical direction for large, cross-team engineering projects
+  - Lead development of innovative features for Cloudflare's AI inference platform
+  - Contribute to the full stack from front-end development to low-level inference
+    optimization
+  use_cases:
+  - AI inference as a service running on edge GPUs worldwide
+  - Enabling developers to use AI models through Workers platform and API
+  - Hosting a diverse catalog of AI models for various applications
+  - Building developer-friendly APIs and products for AI integration
+  - Running generative AI models at massive scale and efficiency
+  skills:
+    genai: [Generative AI]
+    ml: [PyTorch, TensorFlow, GPU computing]
+    web: [API design]
+    databases: []
+    data: []
+    cloud: []
+    ops: [AI inference]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6847192'
+  extracted_at: '2026-02-05T09:55:44.107016'

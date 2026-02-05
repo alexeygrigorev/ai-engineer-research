@@ -1,0 +1,57 @@
+company:
+  name: Genesys
+  stage: Public
+  focus: AI-powered customer experience orchestration platform
+  use_cases:
+  - Customer engagement applications using AI for personalized interactions
+  - Workflow automation solutions leveraging AI capabilities
+  - Decision support systems for business operations
+  - Enterprise-grade AI applications integrating with Salesforce, Workday, and other
+    business systems
+  - Multi-tenant, global-scale AI-powered customer experience orchestration
+position:
+  title: Sr. AI Application Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is hands-on with AI application development
+      including LLM-based frameworks, RAG implementations, and
+      vector databases. The developer deploys AI models into
+      production and builds AI-driven applications, not just
+      supporting infrastructure.
+  responsibilities:
+  - Lead the design, development, and deployment of AI-driven applications for enterprise
+    use cases such as customer engagement, workflow automation, and decision support
+  - Build applications that integrate seamlessly with the AI services platform to
+    ensure reusability and alignment with enterprise standards
+  - Contribute production-ready modules, APIs, and integration patterns to the shared
+    AI services framework
+  - Partner with platform and architecture teams to ensure scalability, observability,
+    multi-tenancy, and compliance
+  - Collaborate with data scientists and ML engineers to operationalize models at
+    scale
+  - Mentor junior developers and provide technical leadership across application development
+    projects
+  use_cases:
+  - Customer engagement applications using AI for personalized interactions
+  - Workflow automation solutions leveraging AI capabilities
+  - Decision support systems for business operations
+  - Enterprise-grade AI applications integrating with Salesforce, Workday, and other
+    business systems
+  - Multi-tenant, global-scale AI-powered customer experience orchestration
+  skills:
+    genai: [LangChain, Semantic Kernel, Haystack, RAG]
+    ml: [Embeddings]
+    web: [APIs, Microservices, Messaging systems]
+    databases: [Vector databases]
+    data: [Data governance]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, MLOps, CI/CD, Model monitoring, Feature stores]
+    languages: [Python, Java, TypeScript, JavaScript]
+    domains: []
+    other: [Enterprise security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8245905'
+  extracted_at: '2026-02-05T12:19:43.951066'

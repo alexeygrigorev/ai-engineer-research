@@ -1,0 +1,54 @@
+company:
+  name: Aledade
+  stage: null
+  focus: Healthcare analytics and ACO solutions
+  use_cases:
+  - Healthcare analytics and data processing for healthcare organizations
+  - Full-stack web applications supporting healthcare operations
+  - Data pipelines for large multi-table healthcare datasets
+  - Statistical analysis including causal inference and NLP on healthcare data
+  - Cloud-based systems handling sensitive healthcare data
+position:
+  title: Senior Software Engineer I- AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is primarily a full-stack web application and data
+      pipeline engineer position. While ML knowledge is preferred
+      and the title mentions AI/ML, the core responsibilities
+      focus on building web applications, data pipelines, and
+      general software engineering rather than building, training,
+      or deploying AI/ML models directly.
+  responsibilities:
+  - Develop and implement scalable and performant solutions for web applications and
+    data pipelines
+  - Partner with Engineering Managers, Product Managers, and stakeholders to develop
+    and execute technical roadmaps using Agile processes
+  - Mentor and coach more junior engineers including thorough pull request reviews
+  - Build secure, maintainable, and scalable solutions to complex healthcare industry
+    challenges
+  - Embrace observability, alerting, metrics, and high test coverage to minimize risk
+  - Conduct frequent releases that incrementally build value
+  use_cases:
+  - Healthcare analytics and data processing for healthcare organizations
+  - Full-stack web applications supporting healthcare operations
+  - Data pipelines for large multi-table healthcare datasets
+  - Statistical analysis including causal inference and NLP on healthcare data
+  - Cloud-based systems handling sensitive healthcare data
+  skills:
+    genai: []
+    ml: [machine learning algorithms, statistical data techniques, causal inference,
+      sampling methods]
+    web: [full-stack web development]
+    databases: [SQL]
+    data: [data pipelines]
+    cloud: [AWS, Azure, Google Cloud]
+    ops: []
+    languages: []
+    domains: [NLP, syntactic analysis]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8113342'
+  extracted_at: '2026-02-05T12:02:41.650969'

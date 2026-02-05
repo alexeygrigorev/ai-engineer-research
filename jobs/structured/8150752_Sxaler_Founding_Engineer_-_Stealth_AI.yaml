@@ -1,0 +1,48 @@
+company:
+  name: Sxaler
+  stage: Stealth
+  focus: AI startup disrupting $100B+ market
+  use_cases:
+  - Building AI-native platform for millions of users
+  - Accelerating humans with cutting-edge AI products
+  - Disrupting a $100B+ market with AI solutions
+  - Transforming real-world workflows with AI technology
+position:
+  title: Founding Engineer - Stealth AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is for a Founding Engineer building an "AI-native
+      platform" and applicants are expected to be "tinkering
+      constantly with AI." The description emphasizes building AI-
+      first products that "shape the future of AI" with hands-on
+      prototyping and shipping, indicating direct work on AI
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Work directly with founders and functional experts to shape early product offerings
+  - Build a scalable, AI-native platform with potentially millions of users
+  - Prototype and ship quickly with direct input from early customers
+  - Translate real-world workflows into intuitive user experiences
+  - Define technical architecture and engineering culture from day one
+  - Contribute to product strategy, customer discovery, and everything in between
+  use_cases:
+  - Building AI-native platform for millions of users
+  - Accelerating humans with cutting-edge AI products
+  - Disrupting a $100B+ market with AI solutions
+  - Transforming real-world workflows with AI technology
+  skills:
+    genai: [AI/ML tinkering]
+    ml: []
+    web: [Full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Product engineering, Prototyping, Rapid iteration, Technical architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8150752'
+  extracted_at: '2026-02-05T12:05:40.132975'

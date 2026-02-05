@@ -1,0 +1,50 @@
+company:
+  name: Mistral AI
+  stage: Series B
+  focus: Open-source AI models and platform
+  use_cases:
+  - Deploying GenAI applications for enterprise customers
+  - Driving technological transformation through AI adoption
+  - Enhancing daily working life with AI assistant le Chat
+  - Meeting enterprise needs with on-premises or cloud AI solutions
+position:
+  title: Applied AI, Forward Deployed Machine Learning Engineer - (Internship)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Machine Learning Engineer role
+      that involves deploying GenAI applications and driving
+      technological transformation with customers. The role
+      requires hands-on work with state-of-the-art AI products,
+      PyTorch, and ML deployment - directly building and deploying
+      AI solutions rather than just supporting them.
+  responsibilities:
+  - Contribute to the deployment of state-of-the-art GenAI applications, driving technological
+    transformation with customers
+  - Collaborate with researchers, AI engineers, and product engineers on complex customer
+    projects
+  - Work with the product and science team to continuously improve product and model
+    capabilities based on customer feedback
+  - Facilitate the adoption of Mistral AI products among customers and help address
+    complex technical challenges
+  use_cases:
+  - Deploying GenAI applications for enterprise customers
+  - Driving technological transformation through AI adoption
+  - Enhancing daily working life with AI assistant le Chat
+  - Meeting enterprise needs with on-premises or cloud AI solutions
+  skills:
+    genai: []
+    ml: [PyTorch, machine learning algorithms]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, Git, Linux, HPC Environments]
+    languages: [Python]
+    domains: [natural language processing]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7369042'
+  extracted_at: '2026-02-05T10:43:18.651592'

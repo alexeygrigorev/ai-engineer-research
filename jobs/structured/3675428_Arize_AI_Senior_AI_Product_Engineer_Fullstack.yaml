@@ -1,0 +1,58 @@
+company:
+  name: Arize AI
+  stage: Series C
+  focus: AI observability and evaluation platform
+  use_cases:
+  - AI observability and monitoring platform for tracking model performance in production
+  - Interactive playgrounds for prompt engineering and agent development workflows
+  - Real-time evaluation infrastructure handling millions of annotations per second
+  - Data visualization tools for interpreting and monitoring AI/ML model behavior
+  - Instrumentation APIs for automatically tracking LLM and agent applications
+position:
+  title: Senior AI Product Engineer, Fullstack
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a fullstack engineer role building the observability
+      platform and tools that enable AI engineers to monitor,
+      troubleshoot, and optimize their AI/ML systems. While the
+      role contributes to in-house AI agents and requires
+      understanding of LLM workflows, the primary focus is
+      building the infrastructure, APIs, and visualization
+      interfaces that support AI work rather than directly
+      building, training, or deploying production models.
+  responsibilities:
+  - Write maintainable, scalable, and performant code across the stack primarily in
+    Typescript and React with opportunities to work in Python and Go
+  - Design and build APIs, and domain / object models specific to customers' Machine
+    Learning and LLM workflows
+  - Design and build performant and reusable React components used throughout the
+    application
+  - Research and implement cutting-edge visualization & dimensionality reduction algorithms
+    in a distributed environment
+  - Collaborate with product, design, and customer engineering teams to enhance and
+    expand product offerings
+  - Contribute to building in-house AI Agents and lead architectural decisions for
+    new and existing features
+  use_cases:
+  - AI observability and monitoring platform for tracking model performance in production
+  - Interactive playgrounds for prompt engineering and agent development workflows
+  - Real-time evaluation infrastructure handling millions of annotations per second
+  - Data visualization tools for interpreting and monitoring AI/ML model behavior
+  - Instrumentation APIs for automatically tracking LLM and agent applications
+  skills:
+    genai: [LLMs, AI agents, prompt engineering]
+    ml: []
+    web: [React, API design, data visualization, GraphQL]
+    databases: []
+    data: []
+    cloud: [distributed systems, SaaS platforms]
+    ops: []
+    languages: [TypeScript, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '3675428'
+  extracted_at: '2026-02-05T09:35:13.029918'

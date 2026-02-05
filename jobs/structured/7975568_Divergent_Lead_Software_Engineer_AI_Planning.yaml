@@ -1,0 +1,55 @@
+company:
+  name: Divergent
+  stage: null
+  focus: |-
+    AI-powered end-to-end manufacturing system for automotive
+    and aerospace
+  use_cases:
+  - AI-powered task planning and scheduling for robotics and manufacturing
+  - Optimization of complex integrated vehicle structure assembly processes
+  - Decision-making systems for manufacturing efficiency and product quality
+  - Constraint programming for flexible manufacturing and customization
+  - Combinatorial optimization for production scheduling and resource allocation
+position:
+  title: Lead Software Engineer, AI Planning
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires designing, developing, and deploying AI
+      planning algorithms using SAT/SMT solvers, constraint
+      programming, combinatorial optimization, and AI planning
+      technologies. The engineer will directly build and implement
+      state-of-the-art decision-making systems for robotics and
+      manufacturing, not just supporting infrastructure or data
+      pipelines for other AI teams.
+  responsibilities:
+  - Design, develop, and deploy innovative AI planning algorithms using the latest
+    task planning and scheduling techniques
+  - Collaborate with cross-functional teams to integrate and optimize AI planning
+    solutions into products and processes
+  - Determine the system design and deployment architecture for AI software pipeline
+  - Participate in end-to-end solution including system and infrastructure design,
+    algorithm development, and production deployment
+  use_cases:
+  - AI-powered task planning and scheduling for robotics and manufacturing
+  - Optimization of complex integrated vehicle structure assembly processes
+  - Decision-making systems for manufacturing efficiency and product quality
+  - Constraint programming for flexible manufacturing and customization
+  - Combinatorial optimization for production scheduling and resource allocation
+  skills:
+    genai: []
+    ml: [SAT/SMT solving, combinatorial optimization, constraint programming, AI planning,
+      Z3, MiniSat, OR-tools, ML, Deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Git, CI/CD, Docker, Kubernetes, unit-testing]
+    languages: [Python, C++, C#, TypeScript]
+    domains: [PDDL]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7975568'
+  extracted_at: '2026-02-05T11:44:36.155796'

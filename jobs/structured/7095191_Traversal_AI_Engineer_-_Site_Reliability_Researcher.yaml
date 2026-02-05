@@ -1,0 +1,61 @@
+company:
+  name: Traversal
+  stage: Unknown
+  focus: AI Site Reliability Engineer for enterprise
+  use_cases:
+  - AI-powered troubleshooting and remediation of complex production incidents for
+    enterprise customers
+  - Automating SRE analysis processes by modeling troubleshooting expertise in AI
+    systems
+  - Preventing production incidents through AI-based pattern recognition and proactive
+    monitoring
+  - Supporting mid-market to Fortune 100 enterprises with hybrid cloud and on-prem
+    deployments
+position:
+  title: AI Engineer - Site Reliability Researcher
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE Researcher role focused on observing and
+      documenting troubleshooting processes to teach AI systems,
+      not building or deploying models. The role involves
+      gathering requirements from customers, collaborating with AI
+      engineers, and providing domain expertise to help the AI
+      learn, but no direct model development or deployment.
+  responsibilities:
+  - Troubleshoot disparate systems across various customer platforms with flexibility
+    and curiosity
+  - Gather requirements from new customers, guide them through onboarding, and maintain
+    positive relationships
+  - Partner with engineering, AI, and product teams to share end-user insights and
+    input
+  - Evaluate Traversal's performance using troubleshooting and customer RCA analysis
+    to identify improvements
+  - Lead and develop internal on-call and incident response processes including alerting,
+    debugging, and postmortems
+  use_cases:
+  - AI-powered troubleshooting and remediation of complex production incidents for
+    enterprise customers
+  - Automating SRE analysis processes by modeling troubleshooting expertise in AI
+    systems
+  - Preventing production incidents through AI-based pattern recognition and proactive
+    monitoring
+  - Supporting mid-market to Fortune 100 enterprises with hybrid cloud and on-prem
+    deployments
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Elasticsearch]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, Docker, Datadog, Grafana, OpenTelemetry, Prometheus, ServiceNow,
+      Splunk, Helm, Terraform]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7095191'
+  extracted_at: '2026-02-05T10:15:52.810593'

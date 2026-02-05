@@ -1,0 +1,52 @@
+company:
+  name: Q-Centrix
+  stage: Growth organization (positioned for continued growth)
+  focus: Clinical data management solutions for healthcare
+  use_cases:
+  - Extract structured data from unstructured medical charts
+  - Improve efficiency in healthcare data processing while ensuring accuracy
+  - Support reporting demands for healthcare data management
+  - Enable access to clinical information trapped across multiple workflow systems
+  - Drive improved care delivery through structured clinical data
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing, testing, and deploying LLM-
+      powered extraction pipelines at scale. The engineer works
+      directly on implementing and maintaining AI models in
+      production, automating prompt execution and result
+      validation for clinical data extraction.
+  responsibilities:
+  - Develop, test, and deploy LLM-powered extraction pipelines for clinical text at
+    scale
+  - Automate prompt execution, result validation, and error handling to enhance reliability
+  - Monitor and maintain production AI models, ensuring uptime, accuracy, and compliance
+  - Work with product, data, engineering, and clinical teams to integrate AI outputs
+    into real-world solutions
+  - Evaluate and integrate third-party AI solutions when appropriate
+  - Stay current with advancements in LLM deployment, model serving, and responsible
+    AI practices
+  use_cases:
+  - Extract structured data from unstructured medical charts
+  - Improve efficiency in healthcare data processing while ensuring accuracy
+  - Support reporting demands for healthcare data management
+  - Enable access to clinical information trapped across multiple workflow systems
+  - Drive improved care delivery through structured clinical data
+  skills:
+    genai: [LLM deployment, prompt engineering, responsible AI practices]
+    ml: []
+    web: []
+    databases: [clinical databases]
+    data: [data engineering, pipeline automation, EHR integration]
+    cloud: [cloud platforms]
+    ops: [model serving]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7940794'
+  extracted_at: '2026-02-05T11:43:33.246925'

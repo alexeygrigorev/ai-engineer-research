@@ -1,0 +1,58 @@
+company:
+  name: Euphoric
+  stage: Seed
+  focus: AI-first employee benefits administration platform
+  use_cases:
+  - AI-native employee benefits administration for global enterprises
+  - Personalized benefits experiences powered by LLM agents and recommender systems
+  - Richer analytics and insights on benefits utilization and employee wellbeing
+  - Clearer communication of benefits information through AI-powered assistance
+  - Direct improvement of employee financial security and wellbeing through smarter
+    administration
+position:
+  title: Software Engineer (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building AI/ML features end-to-
+      end including agents/LLMs, recommender systems, and
+      reinforcement learning to enhance the benefits platform. The
+      engineer will contribute to ML pipelines and deliver AI/ML
+      features directly to users, going beyond infrastructure or
+      support work.
+  responsibilities:
+  - Build AI-first features end-to-end including design, deployment, and iteration
+    using personalization, agents/LLMs, recommender systems, and reinforcement learning
+  - Contribute across the full tech stack with React/TypeScript frontend and Python/FastAPI/SQLAlchemy
+    backend shipping production-ready code
+  - Leverage modern AI-powered development tools like Cursor and Windsurf to accelerate
+    feature development
+  - Collaborate with design and product teams in a fast-paced iterative environment
+    to deliver prototypes and features
+  - Maintain clean, efficient, and well-tested code with clear documentation
+  - Participate in peer reviews, CI/CD processes, and continuous technical skill development
+  - Work across ML pipelines, frontend components, and bug fixes as a versatile team
+    player
+  use_cases:
+  - AI-native employee benefits administration for global enterprises
+  - Personalized benefits experiences powered by LLM agents and recommender systems
+  - Richer analytics and insights on benefits utilization and employee wellbeing
+  - Clearer communication of benefits information through AI-powered assistance
+  - Direct improvement of employee financial security and wellbeing through smarter
+    administration
+  skills:
+    genai: [LLMs, agents, Cursor, Windsurf]
+    ml: [recommender systems, reinforcement learning]
+    web: [React, FastAPI, SQLAlchemy, RESTful APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: [GCP, AWS, Azure]
+    ops: [CI/CD]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8362948'
+  extracted_at: '2026-02-05T12:59:10.904208'

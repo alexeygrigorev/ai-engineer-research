@@ -1,0 +1,65 @@
+company:
+  name: Sapien (sapien.ai)
+  stage: Series A
+  focus: AI-powered autonomous finance operations platform
+  use_cases:
+  - Autonomous CFO system that runs company financials end-to-end with real-time analysis
+  - AI-powered detection and prevention of costly financial errors in traditional
+    business operations
+  - Automated analysis of complex financial workflows in manufacturing, healthcare,
+    and restaurant industries
+  - Multi-modal financial data parsing and unification from Excel, ERPs, and CRMs
+    into queryable formats
+  - Agent-based financial decision support that surfaces value and increases decision
+    cadence
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI agents that
+      power autonomous finance operations, including implementing
+      agent architectures, library learning systems, semantic
+      search, RL and fine-tuning pipelines, and deploying these
+      systems to production. This is direct work on AI/ML systems
+      - building, deploying, and optimizing agent capabilities
+      rather than supporting infrastructure.
+  responsibilities:
+  - Design and implement agent architectures with observability, human-in-the-loop
+    verification, and context control for financial workflows
+  - Build library learning systems that reduce LLM dependencies by learning reusable
+    patterns for planning and code generation
+  - Create graph-based company representations and develop efficient search methods
+    using embeddings and semantic clustering
+  - Build multi-modal parsers that unify diverse financial data sources into queryable
+    schemas for agent reasoning
+  - Implement RL and fine-tuning pipelines based on user feedback to improve agent
+    performance over time
+  - Design benchmarking and evaluation suites that quantify accuracy, reliability,
+    and business impact across customer workflows
+  use_cases:
+  - Autonomous CFO system that runs company financials end-to-end with real-time analysis
+  - AI-powered detection and prevention of costly financial errors in traditional
+    business operations
+  - Automated analysis of complex financial workflows in manufacturing, healthcare,
+    and restaurant industries
+  - Multi-modal financial data parsing and unification from Excel, ERPs, and CRMs
+    into queryable formats
+  - Agent-based financial decision support that surfaces value and increases decision
+    cadence
+  skills:
+    genai: [agent frameworks, LLMs, retrieval augmentation, tool use, agentic architectures]
+    ml: [fine-tuning, embeddings, semantic clustering, reinforcement learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7484248'
+  extracted_at: '2026-02-05T10:59:29.835100'

@@ -1,0 +1,53 @@
+company:
+  name: Modern Health
+  stage: Series B (Unicorn)
+  focus: Mental health benefits platform for employers
+  use_cases:
+  - Developing AI-powered mental health features within the benefits platform
+  - Implementing responsible AI solutions for employee well-being support
+  - Integrating LLM-based tools for personalized mental health guidance
+  - Deploying AI features that recommend appropriate care resources
+  - Building AI experiences that help employees manage stress and mental health needs
+position:
+  title: Staff AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is AI-first because it requires hands-on work
+      building and deploying LLM-based features including
+      productionizing AI integrations. The job explicitly mentions
+      incorporating LLMs, embeddings, and other ML/AI technologies
+      into the product, which involves direct implementation of
+      generative AI capabilities rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Provide technical leadership on a new team prototyping and experimenting with
+    new AI features
+  - Productionize and ship AI integrations into Modern Health's core product
+  - Collaborate with cross-functional teams to deliver product features on time
+  - Stay up-to-date with the latest AI technologies and trends
+  - Mentor other engineers and drive teams toward shared goals
+  - Build products from the ground up with full stack from user experience to data
+    models
+  use_cases:
+  - Developing AI-powered mental health features within the benefits platform
+  - Implementing responsible AI solutions for employee well-being support
+  - Integrating LLM-based tools for personalized mental health guidance
+  - Deploying AI features that recommend appropriate care resources
+  - Building AI experiences that help employees manage stress and mental health needs
+  skills:
+    genai: [LLMs, embeddings, inference, prompt engineering]
+    ml: [data engineering, model development, MLOps]
+    web: [React, React Native, Redux, Django, Flask, aiohttp]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, ECS, RDS, CloudFront]
+    ops: [Docker]
+    languages: [TypeScript, Python]
+    domains: [AI/ML]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8017739'
+  extracted_at: '2026-02-05T11:48:40.096121'

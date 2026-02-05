@@ -1,0 +1,56 @@
+company:
+  name: Assembled
+  stage: Series B
+  focus: Unified AI-powered customer support platform
+  use_cases:
+  - Autonomous AI voice agents that handle inbound customer support calls end-to-end
+  - AI-powered voice recognition and intelligent categorization of incoming calls
+  - Voice AI assistance that enables human agents to focus on high-value interactions
+  - Real-time voice AI deployments at massive scale for leading tech companies
+  - Omni-channel AI customer support agent spanning voice and other communication
+    channels
+position:
+  title: Software Engineer - Voice AI Agent
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building autonomous AI voice agents that
+      handle customer support calls end-to-end. The engineer will
+      implement and optimize LLM technology, voice recognition,
+      and generation engines directly for the AI product.
+  responsibilities:
+  - Develop voice-specific product features from the ground up, including voice recognition
+    capabilities powered by LLMs and intelligent call categorization
+  - Enhance voice recognition and generation engine using advanced techniques and
+    leverage implicit knowledge bases for voice contexts
+  - Architect abstractions that enable integration of various LLMs tailored for voice
+    applications and design evaluation/logging systems
+  - Design and build intuitive interfaces for support agents to monitor and interact
+    with AI voice assistants
+  - Collaborate with customers (support agents and managers) to understand interactions
+    and improve their experience
+  - Engage in cross-functional collaboration across the full product lifecycle from
+    ideation to deployment and monitoring
+  use_cases:
+  - Autonomous AI voice agents that handle inbound customer support calls end-to-end
+  - AI-powered voice recognition and intelligent categorization of incoming calls
+  - Voice AI assistance that enables human agents to focus on high-value interactions
+  - Real-time voice AI deployments at massive scale for leading tech companies
+  - Omni-channel AI customer support agent spanning voice and other communication
+    channels
+  skills:
+    genai: [LLMs, voice recognition, voice generation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [distributed systems]
+    ops: [evaluation and logging systems]
+    languages: [Python, Go, C#]
+    domains: []
+    other: [data structures, algorithms, software design principles]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8283259'
+  extracted_at: '2026-02-05T12:32:50.033302'

@@ -1,0 +1,60 @@
+company:
+  name: Distyl AI
+  stage: Series B
+  focus: Production-grade AI systems for Fortune 500
+  use_cases:
+  - Powering core operational workflows for Fortune 500 companies across insurance,
+    CPG, and non-profits
+  - Deploying AI agents for long-horizon task execution with tool use and prompt orchestration
+  - Implementing RAG (Retrieval-Augmented Generation) systems for enterprise knowledge
+    access
+  - Transforming mission-critical business workflows with measurable financial impact
+  - Building human-in-the-loop feedback systems with observability and debugging capabilities
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is clearly an ai-first role as engineers are hands-on
+      building, deploying, and fine-tuning LLM-powered systems
+      including agents, RAG, and prompt orchestration. They work
+      directly with models, not just supporting infrastructure or
+      data pipelines for others.
+  responsibilities:
+  - Design and deploy robust LLM-powered GenAI systems including model evaluation,
+    prompt design, and agent/agentic logic
+  - Engage directly with customer stakeholders to understand business needs and deliver
+    tailored high-impact AI solutions
+  - Contribute to Distillery internal LLM platform development with reusable tools,
+    infrastructure, and workflows
+  - Ensure systems are observable, maintainable, and meet rigorous reliability, performance,
+    and security standards
+  - Lead evaluation efforts balancing accuracy, latency, explainability, cost, and
+    robustness of AI systems
+  - Refine development workflows, platform architecture, and deployment practices
+    to raise engineering bar
+  use_cases:
+  - Powering core operational workflows for Fortune 500 companies across insurance,
+    CPG, and non-profits
+  - Deploying AI agents for long-horizon task execution with tool use and prompt orchestration
+  - Implementing RAG (Retrieval-Augmented Generation) systems for enterprise knowledge
+    access
+  - Transforming mission-critical business workflows with measurable financial impact
+  - Building human-in-the-loop feedback systems with observability and debugging capabilities
+  skills:
+    genai: [LangChain, LlamaIndex, Guardrails, MCP, Agents SDK, RAG, agents, prompt
+        engineering]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, CI/CD]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6804125'
+  extracted_at: '2026-02-05T09:53:47.605560'

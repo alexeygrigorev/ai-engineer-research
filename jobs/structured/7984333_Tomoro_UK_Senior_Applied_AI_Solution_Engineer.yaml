@@ -1,0 +1,59 @@
+company:
+  name: Tomoro
+  stage: Series A
+  focus: Generative AI solutions for enterprise
+  use_cases:
+  - Building AI agents powered by Large Language Models for enterprise applications
+  - Developing production-ready generative AI solutions integrated into client business
+    operations
+  - Fine-tuning existing closed or open-source foundational models for specific enterprise
+    use cases
+  - Creating scalable enterprise AI strategies for large corporate clients
+  - Deploying AI applications that drive business transformation and competitive advantage
+position:
+  title: UK Senior Applied AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on design, building, and deployment
+      of AI applications including agents built around Large
+      Language Models. The role requires expertise with LLMs and
+      potentially fine-tuning existing foundational models, with
+      end-to-end ownership of AI solutions.
+  responsibilities:
+  - Design, build and deploy AI applications including agents built around Large Language
+    Models
+  - Set vision for cutting-edge AI solutions and own delivery from idea generation
+    to deployment
+  - Provide hands-on development and technical leadership to teams of engineers while
+    maintaining coding standards
+  - Manage and coach engineering teams through code review and mentorship to foster
+    growth
+  - Work across multiple accounts or projects simultaneously with effective team leadership
+    and oversight
+  - Communicate complex AI approaches to senior business and technical clients to
+    build strong relationships
+  use_cases:
+  - Building AI agents powered by Large Language Models for enterprise applications
+  - Developing production-ready generative AI solutions integrated into client business
+    operations
+  - Fine-tuning existing closed or open-source foundational models for specific enterprise
+    use cases
+  - Creating scalable enterprise AI strategies for large corporate clients
+  - Deploying AI applications that drive business transformation and competitive advantage
+  skills:
+    genai: [Large Language Models, prompt engineering, RAG, agents, OpenAI API]
+    ml: [fine-tuning]
+    web: [microservices, REST, gRPC, FastAPI, Flask]
+    databases: []
+    data: [data processing, ETL]
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7984333'
+  extracted_at: '2026-02-05T11:45:36.955951'

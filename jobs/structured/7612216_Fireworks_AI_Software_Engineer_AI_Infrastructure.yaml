@@ -1,0 +1,58 @@
+company:
+  name: Fireworks AI
+  stage: Series C
+  focus: Generative AI infrastructure and inference platform
+  use_cases:
+  - High-speed LLM inference platform delivering the fastest and most scalable inference
+    in the industry
+  - Function calling capabilities for generative AI applications
+  - Multimodal model serving across vision and language modalities
+  - Distributed training infrastructure for large-scale model development
+  - Enterprise-grade generative AI platform with reliability and quality safeguards
+position:
+  title: Software Engineer, AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Infrastructure role focused on building
+      backend systems, CI/CD pipelines, control planes, and model
+      serving infrastructure that powers the AI platform. The
+      engineer supports distributed training and inference through
+      infrastructure development but does not directly build,
+      train, fine-tune, or deploy AI models themselves.
+  responsibilities:
+  - Contribute to the design and development of scalable backend infrastructure that
+    supports distributed training, inference, and data pipelines
+  - Build and maintain core backend services such as LLM CI/CD pipeline, control plane,
+    and model serving systems
+  - Support performance optimization, cost efficiency, and reliability improvements
+    across compute, storage, and networking layers
+  - Building frameworks and safeguards to ensure Fireworks AI has the best model quality
+    in the industry
+  - Collaborate with performance, training, and product teams to translate research
+    and product needs into infrastructure solutions
+  - Participate in code reviews, technical discussions, and continuous integration
+    and deployment processes
+  use_cases:
+  - High-speed LLM inference platform delivering the fastest and most scalable inference
+    in the industry
+  - Function calling capabilities for generative AI applications
+  - Multimodal model serving across vision and language modalities
+  - Distributed training infrastructure for large-scale model development
+  - Enterprise-grade generative AI platform with reliability and quality safeguards
+  skills:
+    genai: []
+    ml: [PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: [Vertex AI, SageMaker]
+    ops: [MLflow, Kubernetes, vLLM, TRT-LLM, MLOps, CI/CD, model serving]
+    languages: [Python, Go]
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7612216'
+  extracted_at: '2026-02-05T11:13:38.569515'

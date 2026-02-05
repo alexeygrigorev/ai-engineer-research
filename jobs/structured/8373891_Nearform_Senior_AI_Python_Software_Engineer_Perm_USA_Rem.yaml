@@ -1,0 +1,56 @@
+company:
+  name: Nearform
+  stage: null
+  focus: AI-enabled digital solutions and enterprise consulting
+  use_cases:
+  - AI-enabled solutions that enhance digital experiences for enterprises
+  - LLM-powered applications for enterprise clients
+  - Building intelligent digital solutions and capabilities
+  - Modernizing legacy systems by leveraging AI
+  - Collaborative consulting solutions for enterprise transformation
+  - Custom AI solutions across various industries (retail, finance, telecommunications)
+position:
+  title: Senior AI Python Software Engineer (Perm, USA, Remote + Travel)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with AI tools and
+      building LLM-powered solutions in a professional setting.
+      The description specifically mentions "AI-enabled solutions"
+      and candidates must have experience building LLM-powered
+      applications, indicating direct work with AI models and
+      deployment rather than just supporting infrastructure.
+  responsibilities:
+  - Designing and building Python applications for various client projects
+  - Building LLM-powered solutions and AI-enabled applications
+  - Designing and implementing data storage solutions
+  - Optimizing application performance for speed and scalability
+  - Assisting with defining structured practices for source code management, building,
+    and deployment
+  - Collaborating with client teams and analyzing client requirements
+  - Supporting technical leaders in project execution and timely delivery
+  - Taking responsibility for personal technical quality standards within the project
+    team
+  use_cases:
+  - AI-enabled solutions that enhance digital experiences for enterprises
+  - LLM-powered applications for enterprise clients
+  - Building intelligent digital solutions and capabilities
+  - Modernizing legacy systems by leveraging AI
+  - Collaborative consulting solutions for enterprise transformation
+  - Custom AI solutions across various industries (retail, finance, telecommunications)
+  skills:
+    genai: [LLM-powered solutions]
+    ml: []
+    web: [React]
+    databases: [Databases]
+    data: []
+    cloud: [Cloud environments]
+    ops: [Git, Unit testing, Integration testing, End-to-end testing, CI/CD, Kubernetes]
+    languages: [Python, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8373891'
+  extracted_at: '2026-02-05T13:00:49.861394'

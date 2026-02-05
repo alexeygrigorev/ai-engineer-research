@@ -1,0 +1,59 @@
+company:
+  name: Kainos
+  stage: null
+  focus: AI and data solutions consulting
+  use_cases:
+  - Government digital services transformation at citizen scale
+  - Healthcare AI solutions with responsible and ethical deployment
+  - Defence sector AI applications with security and compliance standards
+  - Enterprise AI solutions with agentic AI capabilities
+  - Production-grade RAG applications for knowledge retrieval
+  - LLM fine-tuning and deployment for commercial clients
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on deployment of AI solutions
+      including prompt engineering, RAG, model evaluation, fine-
+      tuning LLMs, and implementing agentic AI. This involves
+      direct work with building and deploying models, not just
+      supporting infrastructure.
+  responsibilities:
+  - Deliver advanced AI solutions using state-of-the-art machine learning, generative
+    and agentic AI technologies
+  - Drive adoption of modern AI frameworks, AIOps best practices and scalable cloud-native
+    architectures
+  - Collaborate with customers to translate business challenges into trustworthy AI
+    solutions
+  - Ensure responsible AI practices throughout project lifecycles including model
+    interpretability and ethical considerations
+  - Provide technical mentorship and foster culture of innovation and engineering
+    excellence
+  - Deploy AI/ML solutions into production with monitoring using metrics like precision,
+    recall, NDCG and drift detection
+  - Handle large-scale, unstructured, and multimodal data engineering for AI workloads
+  use_cases:
+  - Government digital services transformation at citizen scale
+  - Healthcare AI solutions with responsible and ethical deployment
+  - Defence sector AI applications with security and compliance standards
+  - Enterprise AI solutions with agentic AI capabilities
+  - Production-grade RAG applications for knowledge retrieval
+  - LLM fine-tuning and deployment for commercial clients
+  skills:
+    genai: [Prompt engineering, RAG, Agentic AI, LLM fine-tuning, Semantic search]
+    ml: [PyTorch, TensorFlow, Model distillation, scikit-learn, XGBoost, Model evaluation,
+      Drift detection]
+    web: []
+    databases: [Vector databases, Knowledge graphs]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, AIOps]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8157989'
+  extracted_at: '2026-02-05T12:06:27.722352'

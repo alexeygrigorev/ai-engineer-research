@@ -1,0 +1,54 @@
+company:
+  name: Guardian Life
+  stage: Public
+  focus: Insurance and financial services company
+  use_cases:
+  - Intelligent automation driving innovation and operational excellence across the
+    enterprise
+  - Process automation products and solutions for insurance operations
+  - AI applications for improving business processes and customer service
+  - Automation platform for enterprise-wide operational efficiency
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      optimizing AI and Generative AI solutions, including being
+      involved in all stages of the model development lifecycle
+      from design through deployment. This is direct work on AI
+      systems, not just infrastructure or support for AI teams.
+  responsibilities:
+  - Lead the development, deployment, and ongoing optimization of cutting-edge AI
+    and Generative AI solutions across the enterprise
+  - Be involved in all stages of the model development lifecycle from design to development,
+    testing, and deployment
+  - Design and implement scalable and reliable systems for AI applications
+  - Implement engineering best practices to ensure scalability and uptime of automation
+    platforms
+  - Track and report on platform performance and availability metrics
+  - Mentor junior team members and foster a culture of technical excellence
+  - Collaborate with software engineers, data scientists, and DevOps teams to design
+    and implement technical solutions
+  use_cases:
+  - Intelligent automation driving innovation and operational excellence across the
+    enterprise
+  - Process automation products and solutions for insurance operations
+  - AI applications for improving business processes and customer service
+  - Automation platform for enterprise-wide operational efficiency
+  skills:
+    genai: []
+    ml: [AI Frameworks, model development lifecycle]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Sagemaker]
+    ops: [Docker, Kubernetes, AIOps, CI/CD, system engineering, security best practices]
+    languages: [Python]
+    domains: []
+    other: [agile methodologies, code reviews]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7508143'
+  extracted_at: '2026-02-05T11:03:04.610130'

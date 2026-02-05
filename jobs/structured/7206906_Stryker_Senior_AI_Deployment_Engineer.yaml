@@ -1,0 +1,57 @@
+company:
+  name: Stryker
+  stage: Public
+  focus: Medical technology and devices for healthcare
+  use_cases:
+  - Surgical robotics and navigation systems using computer vision and AI
+  - Image-guided surgery augmented with real-time AI inference on edge devices
+  - Mixed reality (XR) applications integrating computer vision and multi-modal AI
+  - Clinical decision intelligence and outcome assessment for treatment selection
+  - Operating room safety and efficiency monitoring through AI-powered analysis
+position:
+  title: Senior AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward deployment engineer role that directly
+      deploys, optimizes, and operationalizes AI/ML models
+      including GenAI features, computer vision, and multi-modal
+      AI systems. The role involves hands-on work with LLMs,
+      multi-agentic frameworks, and model optimization techniques
+      like quantization and TensorRT for real-time inference on
+      edge devices.
+  responsibilities:
+  - Develop and deploy AI-powered software on cloud and edge devices including iPhone,
+    iPad, Vision Pro, Android, and NVidia devices
+  - Optimize AI/ML models and pipelines for real-time inference on edge devices to
+    meet latency and performance requirements
+  - Build containerized AI services using Docker and orchestrate deployments with
+    Kubernetes
+  - Deploy and maintain real-time microservices for AI applications including GenAI
+    applications
+  - Work with MLOps and AI security teams to support continuous integration, testing,
+    and monitoring of AI models
+  - Design deployment evaluation frameworks, develop unit tests, and perform software
+    verification/validation testing in compliance with regulatory requirements
+  use_cases:
+  - Surgical robotics and navigation systems using computer vision and AI
+  - Image-guided surgery augmented with real-time AI inference on edge devices
+  - Mixed reality (XR) applications integrating computer vision and multi-modal AI
+  - Clinical decision intelligence and outcome assessment for treatment selection
+  - Operating room safety and efficiency monitoring through AI-powered analysis
+  skills:
+    genai: [LLMs, Generative AI, Multi-modal AI, Multi-agent frameworks]
+    ml: [TensorRT, ONNX Runtime, model quantization, model pruning, OpenVINO, CoreML]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLOps, Prometheus, Grafana]
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7206906'
+  extracted_at: '2026-02-05T10:29:18.485695'

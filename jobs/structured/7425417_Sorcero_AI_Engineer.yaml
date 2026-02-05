@@ -1,0 +1,63 @@
+company:
+  name: Sorcero
+  stage: Series B
+  focus: Medically-tuned AI platform for life sciences and pharma
+  use_cases:
+  - Processing complex structured and unstructured data from diverse life sciences
+    sources
+  - Delivering insights to medical professionals that they can trust and act upon
+  - Addressing medical and scientific language complexity with high precision in healthcare
+    applications
+  - Accelerating patient access to life-saving treatments through improved decision-making
+  - Empowering top Pharma companies, scientists, and researchers with AI-powered natural
+    language understanding
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work building, training, and
+      deploying AI models including LLMs, RAG systems, and agentic
+      frameworks. The engineer will develop explainable AI
+      systems, implement LLM-based solutions using frameworks like
+      LangChain and LlamaIndex, and work directly with PyTorch and
+      Google's Model Garden. This is active model development and
+      deployment, not just infrastructure support.
+  responsibilities:
+  - Collaborate with AI and MLOps teams to create, train, and test models focusing
+    on scientific accuracy and domain relevance
+  - Lead agile teams of engineers, product managers, and SMEs to execute on engineering
+    excellence
+  - Build transparent and explainable AI systems for life sciences applications where
+    trustworthiness is paramount
+  - Design and build robust pipelines using cloud infrastructure for ingesting structured
+    and unstructured data
+  - Develop domain-specific AI solutions that address medical and scientific language
+    complexity while maintaining regulatory compliance
+  - Advocate for AI best practices internally across tools and services, and externally
+    for product team integration
+  use_cases:
+  - Processing complex structured and unstructured data from diverse life sciences
+    sources
+  - Delivering insights to medical professionals that they can trust and act upon
+  - Addressing medical and scientific language complexity with high precision in healthcare
+    applications
+  - Accelerating patient access to life-saving treatments through improved decision-making
+  - Empowering top Pharma companies, scientists, and researchers with AI-powered natural
+    language understanding
+  skills:
+    genai: [LLMs, RAG, Agentic Frameworks, LangChain, LlamaIndex]
+    ml: [PyTorch, Model training]
+    web: []
+    databases: [BigQuery, PostgreSQL]
+    data: [Jupyter Notebooks, Data Science tooling]
+    cloud: [Vertex AI, Google Cloud Storage, Google Cloud Platform]
+    ops: [pytest, Poetry]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7425417'
+  extracted_at: '2026-02-05T10:51:35.013113'

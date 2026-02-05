@@ -1,0 +1,65 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency exchange and blockchain platform
+  use_cases:
+  - AI automation for business efficiency gains across non-engineering functions like
+    Finance, HR, Legal, Operations, Marketing, and Security
+  - Custom AI copilots designed to assist with specific departmental workflows and
+    operational tasks
+  - Agentic AI solutions that autonomously handle business processes and intelligent
+    workflows
+  - AI-powered workflow automation to address pain points and streamline operations
+    in various business functions
+position:
+  title: Staff Software Engineer - AI Growth Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI solutions using
+      LLMs and Agentic AI, including designing prototypes, writing
+      code for AI agents and custom copilots, and deploying them
+      to production. The role requires applying advanced GenAI
+      techniques directly to build and iterate on functional AI
+      automation solutions, not just supporting others' work.
+  responsibilities:
+  - Lead AI opportunity discovery by partnering with organizational leaders to identify
+    high-leverage automation opportunities and translate business challenges into
+    actionable AI use cases
+  - Design and prototype AI solutions using LLMs and Agentic AI techniques to build
+    functional prototypes such as AI agents, custom copilots, and intelligent workflows
+  - Deploy sustainable solutions by collaborating with cross-functional teams to evolve
+    prototypes into scalable, secure production-grade AI systems
+  - Act as an internal consultant providing expert guidance on AI capabilities, prompt
+    engineering best practices, and strategic AI integration into daily operations
+  - Drive adoption and enablement by piloting new AI solutions with functional teams,
+    gathering feedback, and supporting smooth transitions to ensure demonstrable value
+  - Ensure responsible AI by partnering with Security, Legal, and Compliance teams
+    to maintain strict security, privacy, and ethical guidelines for AI solutions
+  - Measure and communicate impact by defining success metrics, tracking ROI, and
+    effectively communicating value delivered by AI initiatives to stakeholders
+  use_cases:
+  - AI automation for business efficiency gains across non-engineering functions like
+    Finance, HR, Legal, Operations, Marketing, and Security
+  - Custom AI copilots designed to assist with specific departmental workflows and
+    operational tasks
+  - Agentic AI solutions that autonomously handle business processes and intelligent
+    workflows
+  - AI-powered workflow automation to address pain points and streamline operations
+    in various business functions
+  skills:
+    genai: [LLMs, Agentic AI, RAG, AI agents, prompt engineering, Generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: [workflow automation]
+    cloud: []
+    ops: []
+    languages: [Python, Golang]
+    domains: []
+    other: [intelligent automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8345952'
+  extracted_at: '2026-02-05T12:57:39.202115'

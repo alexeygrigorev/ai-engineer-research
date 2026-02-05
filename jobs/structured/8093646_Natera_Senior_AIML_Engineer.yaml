@@ -1,0 +1,70 @@
+company:
+  name: Natera
+  stage: Public
+  focus: |-
+    Cell-free DNA testing for oncology, women's health, and
+    organ health diagnostics
+  use_cases:
+  - Power internal workflows across R&D, Lab Ops, Clinical Trials, Billing, and Patient/Provider
+    engagement using AI/ML platforms
+  - Enable workflow automation through multi-agent architectures that can interact
+    with internal systems and take action under strict controls
+  - Generate automated reports and data synthesis for clinical and research applications
+  - Support clinical innovation and patient outcomes through AI-powered decision support
+    and engagement tools
+  - Provide secure, compliant AI solutions for healthcare diagnostics and genetic
+    testing workflows
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and scaling
+      Generative AI systems including RAG pipelines, agent
+      orchestration, LLM fine-tuning, and vector search
+      infrastructure. The engineer is directly implementing model
+      capabilities (agents, RAG, prompt orchestration, guardrails)
+      rather than just supporting AI workflows for other teams.
+  responsibilities:
+  - Design and implement foundational GenAI services including vector search, prompt
+    tuning, agent orchestration, document extraction, context/memory services, model/endpoint
+    registry, feature/embedding stores, guardrails, and evaluation pipelines
+  - Build infrastructure for autonomous and semi-autonomous AI agents with support
+    for agent collaboration, reasoning, memory persistence, and continuous context-aware
+    execution
+  - Build standardized APIs/SDKs for composing, deploying, and monitoring Generative
+    AI workloads across enterprise systems
+  - Implement RAG at scale with ingestion pipelines, chunking/embedding policies,
+    hybrid search, relevance/risk scoring, and feedback loops
+  - Build agent orchestration systems for single and multi-agent workflows with planning,
+    tool routing, shared memory, and inter-agent communication
+  - Implement cloud-native infrastructure for large-scale model training and serving
+    using Kubernetes, MLflow, Terraform, and AWS services
+  - Embed compliance-by-design controls for HIPAA/CLIA/CAP/FDA/GDPR with PHI/PII handling,
+    encryption, access controls, and audit trails
+  use_cases:
+  - Power internal workflows across R&D, Lab Ops, Clinical Trials, Billing, and Patient/Provider
+    engagement using AI/ML platforms
+  - Enable workflow automation through multi-agent architectures that can interact
+    with internal systems and take action under strict controls
+  - Generate automated reports and data synthesis for clinical and research applications
+  - Support clinical innovation and patient outcomes through AI-powered decision support
+    and engagement tools
+  - Provide secure, compliant AI solutions for healthcare diagnostics and genetic
+    testing workflows
+  skills:
+    genai: [LangChain, LlamaIndex, CrewAI, Semantic Kernel, RAG, agents, prompt engineering]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [vector databases]
+    data: [Spark]
+    cloud: [AWS]
+    ops: [MLflow, Kubeflow, Kubernetes, Docker, Terraform, Datadog, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [HIPAA, CLIA, FDA regulations, GDPR]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8093646'
+  extracted_at: '2026-02-05T12:00:39.779256'

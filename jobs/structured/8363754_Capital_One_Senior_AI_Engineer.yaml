@@ -1,0 +1,56 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services with AI/ML
+  use_cases:
+  - Informing customers about unusual credit card charges in real-time
+  - Answering customer questions in real-time through AI-powered conversational interfaces
+  - Creating personalized customer experiences and recommendations
+  - Enhancing associate productivity with AI-powered tools and workflows
+  - Deploying responsible and scalable AI governance and guardrails for banking applications
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct work with foundation models, LLM
+      inference, model training, and optimization techniques. The
+      engineer is responsible for building, deploying, and
+      optimizing AI systems including LLMs and similarity search,
+      which is hands-on model/agent work rather than support
+      infrastructure.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Informing customers about unusual credit card charges in real-time
+  - Answering customer questions in real-time through AI-powered conversational interfaces
+  - Creating personalized customer experiences and recommendations
+  - Enhancing associate productivity with AI-powered tools and workflows
+  - Deploying responsible and scalable AI governance and guardrails for banking applications
+  skills:
+    genai: [Huggingface, LLM Inference, VectorDBs, Nemo Guardrails, Similarity Search,
+      RAG]
+    ml: [PyTorch, model training, model optimization]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [model evaluation, experimentation, observability, governance]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8363754'
+  extracted_at: '2026-02-05T12:59:28.223628'

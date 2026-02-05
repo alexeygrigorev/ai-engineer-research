@@ -1,0 +1,67 @@
+company:
+  name: Conversica
+  stage: null
+  focus: AI-powered customer engagement solutions
+  use_cases:
+  - Agentic system design with orchestration, tool use, state/memory, and multi-step
+    workflows
+  - LLM-powered applications for customer engagement and business communication
+  - Quality evaluation systems with harnesses, regression tests for prompts/agents,
+    and online/offline metrics
+  - Guardrails for hallucination mitigation, grounding, HITL review, and safe degradation
+    paths
+  - Retrieval-augmented generation (RAG) with indexing, freshness, and data layer
+    design
+position:
+  title: Staff AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      directly - designing and implementing agentic systems, LLM-
+      powered applications with tool use and retrieval, and
+      production AI infrastructure. The engineer will own AI
+      architecture decisions, deploy LLM applications to
+      production, and work on agent evaluation, orchestration
+      patterns, and guardrails. This is clearly working ON AI
+      systems, not just supporting them.
+  responsibilities:
+  - Design, implement, and ship AI-driven features and systems into production environments
+  - Own technical decision-making for AI architecture, data modeling, and system integration
+  - Partner closely with Product, Engineering, and other stakeholders to translate
+    business needs into scalable technical solutions
+  - Identify and address reliability, scalability, performance, and observability
+    challenges in AI systems
+  - Establish and evolve best practices for applied AI engineering, including agent
+    evaluation, interpretability, and reliability
+  - Mentor and guide other engineers, raising the bar on AI engineering quality and
+    decision-making
+  - Contribute to technical strategy and roadmap discussions related to AI capabilities
+    and overall platform evolution
+  use_cases:
+  - Agentic system design with orchestration, tool use, state/memory, and multi-step
+    workflows
+  - LLM-powered applications for customer engagement and business communication
+  - Quality evaluation systems with harnesses, regression tests for prompts/agents,
+    and online/offline metrics
+  - Guardrails for hallucination mitigation, grounding, HITL review, and safe degradation
+    paths
+  - Retrieval-augmented generation (RAG) with indexing, freshness, and data layer
+    design
+  skills:
+    genai: [RAG, agents, prompt engineering, tool use, LLM application development,
+      agent orchestration]
+    ml: []
+    web: []
+    databases: [Postgres, MySQL]
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Kubernetes, EKS, Docker, Datadog, GitLab]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8235395'
+  extracted_at: '2026-02-05T12:18:37.528438'

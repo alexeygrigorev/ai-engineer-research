@@ -1,0 +1,64 @@
+company:
+  name: Buzz Solutions
+  stage: null
+  focus: AI-powered solutions for electric utility sector
+  use_cases:
+  - Computer vision-based inspection and detection for electric utility infrastructure
+  - Data ingestion and analytics from utility equipment sensors and imagery
+  - Automated defect detection, segmentation, and classification for utility assets
+  - Integration of AI solutions into existing utility workflow systems via APIs
+  - PowerAI and PowerGUARD solutions for monitoring and protecting electric utility
+    infrastructure
+  - Vendor security audits and compliance for AI deployment in regulated utility industry
+position:
+  title: Solutions Engineer (AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This Solutions Engineer role involves architecting,
+      designing, and deploying end-to-end ML and computer vision
+      workflows for clients. They work directly with AI/ML
+      concepts like CNNs, detection, segmentation, and
+      classification, and are responsible for operationalizing
+      AI/ML solutions rather than just supporting infrastructure.
+      This is similar to a Forward Deployed Engineer role where
+      they actively deploy AI solutions to customers.
+  responsibilities:
+  - Gather customer requirements to understand and document client needs and challenges
+  - Architect and demonstrate AI/ML-powered solutions including computer vision, data
+    ingestion, analytics, and API integrations
+  - Lead the design and deployment of end-to-end ML and computer vision workflows
+    for utility clients
+  - Collaborate with customer technical teams during deployment to ensure seamless
+    integration and optimize solutions
+  - Create compelling demos, visualizations, and technical presentations that communicate
+    the value of AI-driven platform
+  - Provide comprehensive training sessions with clients, both virtually and onsite
+  - Contribute to successfully implementing and integrating solutions into client
+    workflows
+  - Collaborate with Account Executives to drive new business by leading RFI/RFP process
+  use_cases:
+  - Computer vision-based inspection and detection for electric utility infrastructure
+  - Data ingestion and analytics from utility equipment sensors and imagery
+  - Automated defect detection, segmentation, and classification for utility assets
+  - Integration of AI solutions into existing utility workflow systems via APIs
+  - PowerAI and PowerGUARD solutions for monitoring and protecting electric utility
+    infrastructure
+  - Vendor security audits and compliance for AI deployment in regulated utility industry
+  skills:
+    genai: []
+    ml: [CNNs, detection, segmentation, classification, supervised learning, neural
+        networks]
+    web: [API integrations]
+    databases: []
+    data: [data ingestion]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [computer vision]
+    other: [ISO 27001, SOC2, ArcGIS, CRM systems, HubSpot]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7418099'
+  extracted_at: '2026-02-05T10:50:35.088285'

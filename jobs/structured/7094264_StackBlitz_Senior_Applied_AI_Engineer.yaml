@@ -1,0 +1,66 @@
+company:
+  name: StackBlitz
+  stage: Series B+
+  focus: AI-powered web development platform and online IDE
+  use_cases:
+  - Transform natural language descriptions into production-ready full-stack web and
+    mobile applications
+  - Enable AI agents to handle complex architectural decisions and maintain context
+    across large codebases
+  - Orchestrate multi-step AI workflows for intuitive app development experiences
+  - Allow users to create, edit, and deploy applications instantly in the browser
+    without traditional coding
+  - Support both simple UI changes and complex full-stack application modifications
+    through AI-powered generation
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building AI agents
+      and LLM-powered systems. The engineer will design and
+      implement AI agent features, integrate multiple LLM
+      providers, orchestrate multi-step workflows, and implement
+      tool/function calling capabilities - all core ai-first work
+      building AI systems rather than supporting infrastructure.
+  responsibilities:
+  - Design and implement AI agent features with advanced context management techniques
+    including sub-agents, retrieval-based context management, and sliding context
+    windows
+  - Integrate and evaluate multiple LLM providers (OpenAI GPT, Anthropic Claude, Google
+    Gemini) and beta-test new model releases
+  - Enable AI agents to call external tools and APIs safely using frameworks like
+    Vercel AI SDK and LangGraph for multi-step workflow orchestration
+  - Collect and curate datasets from agent responses and multi-turn conversations
+    to analyze behavior patterns and derive performance improvements
+  - Stay up-to-date with NLP and LLM research, experiment with novel prompting strategies
+    and context handling methods, and develop automated evaluation benchmarks
+  - Collaborate with engineering teams to deliver production-ready AI features and
+    mentor junior engineers on AI development practices
+  use_cases:
+  - Transform natural language descriptions into production-ready full-stack web and
+    mobile applications
+  - Enable AI agents to handle complex architectural decisions and maintain context
+    across large codebases
+  - Orchestrate multi-step AI workflows for intuitive app development experiences
+  - Allow users to create, edit, and deploy applications instantly in the browser
+    without traditional coding
+  - Support both simple UI changes and complex full-stack application modifications
+    through AI-powered generation
+  skills:
+    genai: [LangGraph, Vercel AI SDK, OpenAI API, Anthropic API, Google Gemini API,
+      prompt engineering, RAG, agents, function calling, DSPy]
+    ml: [model evaluation]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7094264'
+  extracted_at: '2026-02-05T10:14:56.029501'

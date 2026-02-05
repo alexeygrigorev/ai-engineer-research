@@ -1,0 +1,66 @@
+company:
+  name: Resonance Companies
+  stage: Series B
+  focus: AI-powered operating system for sustainable fashion industry
+  use_cases:
+  - AI Agentic framework for end-to-end creation-to-closet functionality including
+    3D volumetric design and collection creation
+  - Learning system that optimally teaches how to produce garments sustainably without
+    legacy restrictions
+  - Internal value chain routing, organization, and optimization of garment manufacturing
+  - Future analytics and machine learning functions for learning and optimization
+    in fashion production
+  - AI-powered digital operating system for apparel brands to launch and run their
+    business operations
+  - RAG-based applications to enable designers to operate with no unnecessary inventory
+    and eliminate overproduction
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI
+      solutions including RAG systems, LLMs, and ML models. The
+      engineer will own the design, development, and deployment of
+      AI tools and models for both internal processes and client-
+      facing products, with specific focus on applying state-of-
+      the-art LLM-RAG technologies.
+  responsibilities:
+  - Own the design, development, and deployment of software solutions that build innovative
+    AI tools and models
+  - Build and maintain data curation pipelines to feed machine learning models
+  - Collaborate with cross-functional teams to discover, build, and iterate on innovative
+    features and products
+  - Rapidly develop and iterate on proofs-of-concept to test new ideas and hypotheses
+  - Develop practical AI solutions including applications of Machine Learning Models
+    and Large Language Models with focus on Retrieval Augmented Generation (RAG)
+  - Stay up to date on emerging trends and advancements in AI, LLMs and software development
+    best practices
+  use_cases:
+  - AI Agentic framework for end-to-end creation-to-closet functionality including
+    3D volumetric design and collection creation
+  - Learning system that optimally teaches how to produce garments sustainably without
+    legacy restrictions
+  - Internal value chain routing, organization, and optimization of garment manufacturing
+  - Future analytics and machine learning functions for learning and optimization
+    in fashion production
+  - AI-powered digital operating system for apparel brands to launch and run their
+    business operations
+  - RAG-based applications to enable designers to operate with no unnecessary inventory
+    and eliminate overproduction
+  skills:
+    genai: [RAG, Large Language Models, agent frameworks]
+    ml: [TensorFlow, PyTorch, Scikit-learn, machine learning models]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes, GitOps, cloud-native deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6926889'
+  extracted_at: '2026-02-05T10:00:51.381831'

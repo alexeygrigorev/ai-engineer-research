@@ -1,0 +1,66 @@
+company:
+  name: Future (futureplc.com)
+  stage: Public
+  focus: Global specialist media company with 200+ brands
+  use_cases:
+  - AI-powered email content personalization and recommendation engine for marketing
+    campaigns
+  - Next Best Action decision-making system for email marketing optimization
+  - Recommender systems using collaborative filtering and content-based filtering
+  - Real-time hyper-personalized email content generation based on user interests
+    and behaviors
+  - Marketing optimization through AI-driven content recommendations to improve engagement
+    metrics
+position:
+  title: AI Engineer, Email CRM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, and optimizing
+      machine learning models specifically for recommender systems
+      and personalization engines. The engineer will work on
+      Advisor (Future's proprietary AI recommendation engine),
+      implement real-time inference APIs, and bridge data with
+      email content generation - all hands-on AI/ML development
+      work.
+  responsibilities:
+  - Build and deploy machine learning models for email marketing personalization and
+    recommender systems
+  - Optimize and integrate Advisor, Future's proprietary AI recommendation engine
+    for email campaigns
+  - Bridge Single Customer View (SCV) data with email content to enable Next Best
+    Action decision-making
+  - Wrap ML models in performant APIs (FastAPI/Flask) for real-time inference during
+    email assembly
+  - Implement collaborative filtering and content-based filtering algorithms for hyper-personalized
+    content
+  - Work with data warehouses and feature engineering to support model training and
+    inference
+  - Deliver hyper-personalized newsletter and marketing trigger emails tailored to
+    individual user interests and behaviors
+  use_cases:
+  - AI-powered email content personalization and recommendation engine for marketing
+    campaigns
+  - Next Best Action decision-making system for email marketing optimization
+  - Recommender systems using collaborative filtering and content-based filtering
+  - Real-time hyper-personalized email content generation based on user interests
+    and behaviors
+  - Marketing optimization through AI-driven content recommendations to improve engagement
+    metrics
+  skills:
+    genai: []
+    ml: [Scikit-learn, TensorFlow, PyTorch, Recommender systems, Collaborative filtering,
+      Content-based filtering, Model training]
+    web: [FastAPI, Flask]
+    databases: [BigQuery]
+    data: [Pandas, NumPy, Data pipelines, Feature engineering]
+    cloud: [AWS, GCP, Azure]
+    ops: [Model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8299499'
+  extracted_at: '2026-02-05T12:42:40.628837'

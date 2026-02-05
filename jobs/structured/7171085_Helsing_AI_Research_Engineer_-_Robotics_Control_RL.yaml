@@ -1,0 +1,50 @@
+company:
+  name: Helsing
+  stage: null
+  focus: Defence AI for democratic protection
+  use_cases:
+  - Robotic perception and assistance for human decision-making in defence applications
+  - Multi-agent reinforcement learning systems deployed in real-world robotics platforms
+  - Autonomous control of complex robotic systems in challenging environments with
+    high generalization requirements
+  - Robust reinforcement learning systems against adversarial attacks in defence scenarios
+position:
+  title: AI Research Engineer - Robotics, Control, RL
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This is a pure ML research role focused on traditional
+      reinforcement learning for robotics systems - implementing
+      multi-agent RL, training agents, deploying models to real-
+      world robotics platforms. The work involves deep learning-
+      based approaches for control and automation but does not
+      involve LLMs, RAG, or generative AI systems.
+  responsibilities:
+  - Implement, improve and extend state of the art in multi-agent reinforcement learning
+  - Design, train and deploy reinforcement learning agents for robots in complex environments
+  - Collaborate across multiple teams and backgrounds on AI projects
+  - Reimplement and extend state of the art Deep Learning-based approaches from research
+    papers
+  use_cases:
+  - Robotic perception and assistance for human decision-making in defence applications
+  - Multi-agent reinforcement learning systems deployed in real-world robotics platforms
+  - Autonomous control of complex robotic systems in challenging environments with
+    high generalization requirements
+  - Robust reinforcement learning systems against adversarial attacks in defence scenarios
+  skills:
+    genai: []
+    ml: [reinforcement learning, multi-agent reinforcement learning, deep learning,
+      model training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, Rust, Java, C++]
+    domains: [robotics, control systems]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7171085'
+  extracted_at: '2026-02-05T10:27:00.323447'

@@ -1,0 +1,53 @@
+company:
+  name: FirmPilot
+  stage: null
+  focus: AI-powered business automation systems using LLMs
+  use_cases:
+  - Automating and scaling real-world business outcomes using AI
+  - Production-grade automation using large language models
+  - AI-driven workflow orchestration across services and APIs
+  - Reliable, cost-effective, and low-latency LLM integration in production
+  - Applied AI systems combining structured data with embeddings and LLMs
+position:
+  title: Software Engineer (Applied AI Focus)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing and implementing
+      RAG pipelines, developing prompt strategies for multi-step
+      agent workflows, and directly integrating LLMs into
+      production systems. The engineer works directly ON AI
+      systems (RAG, agents, prompt engineering) rather than just
+      supporting infrastructure or general SWE for an AI company.
+  responsibilities:
+  - Design, implement, and evolve RAG pipelines combining structured data, embeddings,
+    and LLMs
+  - Develop and maintain prompt strategies used across multi-step agent workflows
+  - Integrate LLMs into production systems with attention to reliability, cost, and
+    latency
+  - Orchestrate AI-driven workflows across internal services and third-party APIs
+  - Define and improve practices for prompt versioning, evaluation, and iteration
+  - Work closely with platform engineers to ensure AI systems are maintainable and
+    observable
+  use_cases:
+  - Automating and scaling real-world business outcomes using AI
+  - Production-grade automation using large language models
+  - AI-driven workflow orchestration across services and APIs
+  - Reliable, cost-effective, and low-latency LLM integration in production
+  - Applied AI systems combining structured data with embeddings and LLMs
+  skills:
+    genai: [RAG, prompt engineering, agents, embeddings, LLMs]
+    ml: []
+    web: [GraphQL, REST]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, CI/CD, observability]
+    languages: [.NET, Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8192153'
+  extracted_at: '2026-02-05T12:11:46.872497'

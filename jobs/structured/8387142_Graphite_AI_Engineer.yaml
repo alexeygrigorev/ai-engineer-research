@@ -1,0 +1,49 @@
+company:
+  name: Graphite
+  stage: Series B
+  focus: Modern code review tools for engineering teams
+  use_cases:
+  - Context-aware code generation for engineering workflows
+  - Autonomous technical planning and reasoning agents
+  - Program synthesis for automated code generation
+  - AI-assisted code review and development workflows
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a founding AI Engineer role focused on advancing AI
+      capabilities in LLMs, program synthesis, and reasoning
+      agents. The position involves hands-on work training and
+      post-training LLMs, building prototypes, and integrating
+      models into production - all direct work on AI systems
+      rather than supporting infrastructure.
+  responsibilities:
+  - Conduct cutting-edge research in LLMs, reasoning agents, and program synthesis
+    to advance Diamond's AI capabilities
+  - Design and develop prototypes and proof-of-concept models for AI applications
+  - Translate research into practical applications by working closely with engineering
+    to integrate models into production
+  - Stay current with the AI research landscape and apply insights from the latest
+    work in transformer models, interpretability, and alignment
+  use_cases:
+  - Context-aware code generation for engineering workflows
+  - Autonomous technical planning and reasoning agents
+  - Program synthesis for automated code generation
+  - AI-assisted code review and development workflows
+  skills:
+    genai: [LLMs, reasoning agents]
+    ml: [PyTorch, model training, fine-tuning, transformer models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML infrastructure]
+    languages: [Python]
+    domains: [program synthesis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8387142'
+  extracted_at: '2026-02-05T13:03:19.427522'

@@ -1,0 +1,62 @@
+company:
+  name: TWG Global
+  stage: null
+  focus: |-
+    Data and AI-first transformation across financial services,
+    insurance, technology, media, and sports
+  use_cases:
+  - Real-time intelligence and interactive business applications for informed decision-making
+  - Data and analytics transformation across financial services, insurance, technology,
+    media, and sports
+  - Marketing, operations, and product development through AI-powered solutions
+  - Enterprise innovation and competitive advantage through data-driven insights
+  - Regulatory compliance and ethical AI practices in business operations
+position:
+  title: Senior Palantir AI Engineer (Palantir AIP)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing and deploying machine learning
+      models directly, with preferred experience in Palantir AIP
+      and LLM-based agents. The engineer is hands-on with model
+      deployment, feature engineering, and ML workflows, not just
+      infrastructure or data pipelines.
+  responsibilities:
+  - Design and implement end-to-end data pipelines and transformation logic within
+    Palantir Foundry
+  - Develop and deploy machine learning models using Python and Foundry's model deployment
+    tools
+  - Build custom applications and workflows within Foundry using TypeScript and other
+    supported languages
+  - Integrate complex data sources into Foundry and ensure high-performance, scalable
+    pipelines
+  - Model objects and relationships using Foundry's Ontology framework with attention
+    to access control and security
+  - Apply machine learning best practices including feature engineering, model validation,
+    and performance tuning
+  - Collaborate with cross-functional teams to identify requirements and deliver impactful
+    solutions
+  - Use version control tools and participate in code reviews and collaborative workflows
+  use_cases:
+  - Real-time intelligence and interactive business applications for informed decision-making
+  - Data and analytics transformation across financial services, insurance, technology,
+    media, and sports
+  - Marketing, operations, and product development through AI-powered solutions
+  - Enterprise innovation and competitive advantage through data-driven insights
+  - Regulatory compliance and ethical AI practices in business operations
+  skills:
+    genai: [Palantir AIP, LLM-based agents]
+    ml: [machine learning, model deployment, feature engineering, model validation]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: [Git]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Palantir Foundry]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7985424'
+  extracted_at: '2026-02-05T11:46:18.331359'

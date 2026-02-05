@@ -1,0 +1,68 @@
+company:
+  name: Collibra
+  stage: null
+  focus: Data intelligence and governance platform for enterprises
+  use_cases:
+  - Process and enrich large volumes of unstructured enterprise documents (PDFs, contracts,
+    reports) at scale
+  - Apply LLM-based enrichment models for classification, extraction, deduplication,
+    and PII detection on enterprise data
+  - Enable AI agents to reason over real-world enterprise data by designing how data,
+    metadata, and domain knowledge flow into AI systems
+  - Support AI-driven decision making at enterprise scale by transforming unstructured
+    and structured data
+  - Integrate Unstructured AI capabilities into customer's broader Collibra data governance
+    stack
+position:
+  title: Forward Deployed Engineer, Unstructured AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This Forward Deployed Engineer role is hands-on with AI
+      systems - deploying Unstructured AI solutions to enterprise
+      customers, working with LLM-based enrichment models, and
+      designing how data flows into AI systems. The role
+      explicitly mentions becoming an expert in context
+      engineering and using the Unstructured AI platform to build
+      enterprise-grade AI products within customer environments.
+  responsibilities:
+  - Own end-to-end technical delivery of Unstructured AI deployments from prototype
+    to stable production across enterprise environments
+  - Build and scale full-stack systems that process and enrich large volumes of unstructured
+    content including PDFs, contracts, and reports
+  - Embed closely with customer and field teams to understand their metadata, governance,
+    and security needs
+  - Scope work, sequence delivery, and remove blockers to ensure fast iteration cycles
+    between product, research, and deployment teams
+  - Codify repeatable patterns from customer projects into reusable connectors, enrichment
+    modules, or playbooks
+  - Feed field insights back to Product and Research to identify opportunities to
+    improve product experience
+  use_cases:
+  - Process and enrich large volumes of unstructured enterprise documents (PDFs, contracts,
+    reports) at scale
+  - Apply LLM-based enrichment models for classification, extraction, deduplication,
+    and PII detection on enterprise data
+  - Enable AI agents to reason over real-world enterprise data by designing how data,
+    metadata, and domain knowledge flow into AI systems
+  - Support AI-driven decision making at enterprise scale by transforming unstructured
+    and structured data
+  - Integrate Unstructured AI capabilities into customer's broader Collibra data governance
+    stack
+  skills:
+    genai: [LLM-based enrichment models, context engineering, AI agents]
+    ml: [model evaluation]
+    web: [FastAPI, microservice architecture, API design]
+    databases: []
+    data: [data pipelines, metadata systems, data cataloging, data governance, enterprise
+        integrations]
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, Docker, Kubernetes, CI/CD, monitoring, security and compliance]
+    languages: [Python]
+    domains: [document processing]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7615500'
+  extracted_at: '2026-02-05T11:15:09.772841'

@@ -1,0 +1,66 @@
+company:
+  name: Lendable
+  stage: Series D+ (Unicorn)
+  focus: Fintech - consumer loans, credit cards, car finance
+  use_cases:
+  - Supercharge internal teams across Finance, Compliance, Product, QA, and beyond
+    with AI-powered tools
+  - Remove friction and automate tedious manual workflows to give colleagues back
+    time for high-value work
+  - Enable rapid creation of AI-powered internal data sources and automated workflows
+  - Build knowledge base systems and integrations that make company data accessible
+    to AI systems
+  - Apply agentic AI and workflow orchestration to real business problems
+  - Create internal automation platform that supports safe AI experimentation across
+    the business
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI Engineer role building AI-powered
+      tools, integrations, and workflows using LLMs, embeddings,
+      and vector databases. The role involves directly working
+      with AI application patterns, MCP integrations, and agentic
+      AI systems to automate internal processes, not just
+      supporting infrastructure.
+  responsibilities:
+  - Build AI integrations and connectors for company data sources (Google Workspace,
+    Slack, Jira, GitHub, Snowflake, Confluence)
+  - Create and maintain knowledge base pipelines, MCP integrations, and API connections
+    for AI tooling
+  - Support internal teams to create AI-powered data sources and automated workflows
+    using rapid app builder tools
+  - Build templates, guardrails, and building blocks that enable non-engineers to
+    experiment safely with AI
+  - Contribute to internal automation platform using AWS Bedrock, n8n, and custom-built
+    solutions
+  - Work with security and data governance to ensure AI integrations are safe and
+    appropriate
+  use_cases:
+  - Supercharge internal teams across Finance, Compliance, Product, QA, and beyond
+    with AI-powered tools
+  - Remove friction and automate tedious manual workflows to give colleagues back
+    time for high-value work
+  - Enable rapid creation of AI-powered internal data sources and automated workflows
+  - Build knowledge base systems and integrations that make company data accessible
+    to AI systems
+  - Apply agentic AI and workflow orchestration to real business problems
+  - Create internal automation platform that supports safe AI experimentation across
+    the business
+  skills:
+    genai: [LLMs, embeddings, MCP (Model Context Protocol), agentic AI, prompt engineering]
+    ml: []
+    web: [API integrations, Next.js, React]
+    databases: [vector databases, Pinecone, Weaviate, pgvector, Snowflake]
+    data: [n8n]
+    cloud: [AWS Bedrock]
+    ops: [Kubernetes, Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8316438'
+  extracted_at: '2026-02-05T12:49:02.066008'

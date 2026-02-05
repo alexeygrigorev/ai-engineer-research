@@ -1,0 +1,65 @@
+company:
+  name: Tomoro
+  stage: Series A
+  focus: Enterprise Generative AI solutions
+  use_cases:
+  - Enterprise-grade AI agents built around Large Language Models
+  - Production-ready AI solutions integrated into client business operations
+  - AI applications using existing closed or open-source foundational models with
+    potential fine-tuning
+  - Scalable data applications using AI for business efficiency and transformation
+  - Client-specific AI solutions addressing complex business challenges and goals
+  - Ethical and compliant AI implementations considering data privacy and societal
+    impact
+position:
+  title: UK Applied AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an Applied AI Solution Engineer role that involves
+      hands-on building, deploying, and fine-tuning AI
+      applications, specifically LLM-based agents. The role
+      requires direct work with large language models, fine-tuning
+      (both closed and open source, OpenAI API), and owning the
+      design and build of AI solutions. While it includes client
+      consultation, the core technical work is building AI
+      systems, not just supporting infrastructure for others.
+  responsibilities:
+  - Building AI-powered solutions involving large language models with client partners
+  - Interacting with clients to understand business challenges and communicate AI
+    solutions
+  - Solving complex technical problems during AI solution development and implementation
+  - Providing technical guidance and leadership within the team and mentoring junior
+    engineers
+  - Collaborating cross-functionally with technical and non-technical teams for integrated
+    AI solutions
+  - Ensuring reliability, effectiveness, and safety of AI solutions through rigorous
+    testing and QA
+  - Upholding ethical standards in AI development including data privacy, bias minimization,
+    and regulatory compliance
+  - Assisting clients with training, support, and maintenance of deployed AI solutions
+  use_cases:
+  - Enterprise-grade AI agents built around Large Language Models
+  - Production-ready AI solutions integrated into client business operations
+  - AI applications using existing closed or open-source foundational models with
+    potential fine-tuning
+  - Scalable data applications using AI for business efficiency and transformation
+  - Client-specific AI solutions addressing complex business challenges and goals
+  - Ethical and compliant AI implementations considering data privacy and societal
+    impact
+  skills:
+    genai: [OpenAI API, Large Language Models, Fine-tuning]
+    ml: []
+    web: [Microservices]
+    databases: []
+    data: [Spark, Data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7984336'
+  extracted_at: '2026-02-05T11:46:01.403939'

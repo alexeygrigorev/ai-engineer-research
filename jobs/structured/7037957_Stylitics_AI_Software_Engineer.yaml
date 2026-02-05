@@ -1,0 +1,57 @@
+company:
+  name: Stylitics
+  stage: Series C+ (established, founded 2011, serving major retailers)
+  focus: Visual outfitting and styling solution for retailers
+  use_cases:
+  - Generate on-brand outfit recommendations for retail customers
+  - Power AI models with trend data and stylist expertise
+  - Deliver outfit recommendations across e-commerce, email, advertising, stores,
+    and social media channels
+  - Help shoppers find inspiration and discover new products and brands
+  - Enable customers to gain confidence in styling their purchases
+position:
+  title: AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role that involves hands-on work with
+      LLMs including prompt engineering, context engineering,
+      agentic workflow design, and testing with models like
+      Claude, Gemini, and OpenAI. The engineer will build systems
+      to monitor and test LLM performance and contribute to LLM-
+      based applications, directly working ON AI systems rather
+      than just supporting infrastructure.
+  responsibilities:
+  - Write production-level code in Java with AI tools
+  - Perform prompt engineering and testing with LLMs including Claude, Gemini, and
+    OpenAI models
+  - Implement context engineering to determine the right data for AI systems
+  - Design agentic workflows for AI model-based applications
+  - Build systems to monitor and test LLM performance
+  - Analyze large data sets to inform AI model applications
+  - Design and implement scalable solutions across multiple clients
+  - Contribute as a thought leader to LLM usage conversations
+  use_cases:
+  - Generate on-brand outfit recommendations for retail customers
+  - Power AI models with trend data and stylist expertise
+  - Deliver outfit recommendations across e-commerce, email, advertising, stores,
+    and social media channels
+  - Help shoppers find inspiration and discover new products and brands
+  - Enable customers to gain confidence in styling their purchases
+  skills:
+    genai: [prompt engineering, LLMs, Claude API, Gemini API, OpenAI API, context
+        engineering, agentic workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [system design]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7037957'
+  extracted_at: '2026-02-05T10:07:18.867683'

@@ -1,0 +1,62 @@
+company:
+  name: NewRocket
+  stage: null
+  focus: |-
+    Elite ServiceNow Partner implementing AI-powered enterprise
+    workflow solutions
+  use_cases:
+  - Virtual Agent implementations for conversational AI support
+  - Predictive Intelligence for IT operations and service management
+  - Now Assist integration for AI-powered productivity across ITSM, ITOM, CSM, and
+    HRSD
+  - Automated workflows and business process automation on ServiceNow platform
+  - Enterprise integration patterns connecting ServiceNow with external systems
+position:
+  title: ServiceNow Senior Software Engineer - Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is primarily a ServiceNow platform engineer who
+      implements AI/GenAI features (Virtual Agent, Now Assist,
+      Predictive Intelligence) that are pre-built platform
+      capabilities rather than building custom AI/ML models. The
+      work focuses on configuration, customization, and
+      integration of existing AI features within the ServiceNow
+      ecosystem, not on training, fine-tuning, or deploying custom
+      models or agents.
+  responsibilities:
+  - Design, build, and deploy GenAI and AI-driven solutions on the ServiceNow platform
+  - Implement Virtual Agent, Predictive Intelligence, Now Assist, NLP, and analytics
+    across ITSM, ITOM, CSM, and HRSD
+  - Develop custom ServiceNow applications, workflows, and automations using platform
+    best practices
+  - Build and support integrations using REST/SOAP APIs, MID Servers, and cloud-to-cloud
+    patterns
+  - Manage full SDLC activities including development, testing, deployment, documentation,
+    and production support
+  - Lead, coach, and mentor a team of Software Engineers
+  - Collaborate with business users, IT teams, and stakeholders to gather requirements
+    and translate them into scalable solutions
+  use_cases:
+  - Virtual Agent implementations for conversational AI support
+  - Predictive Intelligence for IT operations and service management
+  - Now Assist integration for AI-powered productivity across ITSM, ITOM, CSM, and
+    HRSD
+  - Automated workflows and business process automation on ServiceNow platform
+  - Enterprise integration patterns connecting ServiceNow with external systems
+  skills:
+    genai: [Virtual Agent, Now Assist]
+    ml: [Predictive Intelligence]
+    web: [REST APIs, SOAP APIs, UI Builder]
+    databases: [CMDB]
+    data: [Performance Analytics]
+    cloud: [ServiceNow]
+    ops: [Discovery, MID Server, SDLC]
+    languages: [Business Rules, Client Scripts, Script Includes, JavaScript, GlideScript]
+    domains: [NLP, ITSM, ITOM, CSM, HRSD]
+    other: [Workflow Automation, Service Catalog]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8286021'
+  extracted_at: '2026-02-05T12:35:41.304381'

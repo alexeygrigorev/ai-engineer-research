@@ -1,0 +1,68 @@
+company:
+  name: Rula
+  stage: null
+  focus: Remote-first mental healthcare platform
+  use_cases:
+  - Patient engagement systems powered by generative AI for mental healthcare support
+  - Provider workflow optimization using AI to streamline clinical operations and
+    reduce administrative burden
+  - Clinical decision support frameworks to assist mental health providers in delivering
+    evidence-based care
+  - Human-in-the-loop AI systems that enhance, not replace, clinical judgment in mental
+    health treatment
+  - Secure and compliant AI solutions that maintain HIPAA/GDPR standards while improving
+    patient outcomes
+position:
+  title: Principal AI Engineer (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on role directly building and deploying
+      production-grade generative AI systems, including LLM
+      integration patterns (RAG, function calling, agents) and
+      foundation models. The role requires deep experience with AI
+      orchestration frameworks and involves designing AI platforms
+      for real clinical applications, not just supporting
+      infrastructure.
+  responsibilities:
+  - Own the AI foundation that determines how AI shows up across mental healthcare
+    at scale
+  - Design core AI platforms and set technical standards for safety, reliability,
+    and performance
+  - Define system architecture and make principal decisions about introducing advanced
+    AI into regulated care environments
+  - Build production-grade generative AI systems that power patient engagement, provider
+    workflows, and clinical operations
+  - Design and implement LLM integration patterns including RAG, function calling,
+    agents, and memory routing
+  - Establish MLOps, data pipelines, evaluation, and observability systems for continuous
+    model improvement
+  - Act as a technical multiplier for other engineers and unblock complex engineering
+    problems
+  use_cases:
+  - Patient engagement systems powered by generative AI for mental healthcare support
+  - Provider workflow optimization using AI to streamline clinical operations and
+    reduce administrative burden
+  - Clinical decision support frameworks to assist mental health providers in delivering
+    evidence-based care
+  - Human-in-the-loop AI systems that enhance, not replace, clinical judgment in mental
+    health treatment
+  - Secure and compliant AI solutions that maintain HIPAA/GDPR standards while improving
+    patient outcomes
+  skills:
+    genai: [OpenAI, Anthropic, AWS Bedrock, Google Gemini, RAG, function calling,
+      agents, LangChain, LlamaIndex, DSPy, Haystack]
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate, FAISS, Milvus]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [MLflow, Kubeflow, Docker, Kubernetes, distributed systems]
+    languages: [Python, JavaScript, TypeScript, Java, Go]
+    domains: [HIPAA, GDPR, clinical decision support]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8334407'
+  extracted_at: '2026-02-05T12:53:54.963931'

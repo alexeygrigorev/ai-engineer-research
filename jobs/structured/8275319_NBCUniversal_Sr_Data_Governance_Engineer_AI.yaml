@@ -1,0 +1,62 @@
+company:
+  name: NBCUniversal
+  stage: Public
+  focus: Global media and entertainment company
+  use_cases:
+  - AI model governance and compliance for media and entertainment platforms
+  - Deploying AI systems across streaming, broadcast, film studios, and theme parks
+  - Enforcing data privacy and security guardrails for AI agents and models
+  - Managing multi-cloud AI workloads with cost optimization and usage tracking
+  - Ensuring fairness and bias mitigation in AI tools used for content and analytics
+position:
+  title: Sr Data Governance Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a governance role that designs guardrails, policies,
+      and infrastructure for AI systems but does not involve
+      building, training, fine-tuning, or deploying models. The
+      role works at the intersection of cloud engineering, MLOps,
+      and data governance to enable AI adoption across the
+      organization without hands-on model development.
+  responsibilities:
+  - Implement AI governance policies in collaboration with Legal, Privacy, and Cyber
+    teams
+  - Build monitoring and reporting frameworks for AI models and tools emphasizing
+    cost tracking and AI FinOps principles
+  - Develop and manage ML/AI Ops pipelines including CI/CD for model deployment and
+    version control using GitHub Actions or Jenkins
+  - Design and implement AI infrastructure as code through Terraform or AWS CloudFormation
+    for consistent environment management
+  - Support multi-cloud AI workloads across AWS SageMaker, GCP Vertex AI, Azure ML,
+    Snowflake Cortex, and Databricks
+  - Build AI consumption metrics dashboards with guardrails using tools like Llamaguard,
+    LangGraph, and LangChain
+  - Enable RBAC on AI models across tools/LLMs enforcing IAM policies for secure access
+  - Implement technical guardrails including fairness constraints, bias detection,
+    and transparency measures in AI tools and models
+  use_cases:
+  - AI model governance and compliance for media and entertainment platforms
+  - Deploying AI systems across streaming, broadcast, film studios, and theme parks
+  - Enforcing data privacy and security guardrails for AI agents and models
+  - Managing multi-cloud AI workloads with cost optimization and usage tracking
+  - Ensuring fairness and bias mitigation in AI tools used for content and analytics
+  skills:
+    genai: [LangChain, LangGraph, RAG, Prompt Engineering, LLM Ops, MCP, Embeddings,
+      Agents]
+    ml: []
+    web: [REST API]
+    databases: [Snowflake]
+    data: []
+    cloud: [AWS, AWS SageMaker, GCP, Vertex AI, Azure, Azure ML, Azure Purview, Snowflake,
+      Snowflake Cortex, Databricks]
+    ops: [Terraform, AWS CloudFormation, GitHub Actions, Jenkins, CI/CD, MLOps, RBAC,
+      IAM, Llamaguard]
+    languages: [Python, SQL, YAML]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8275319'
+  extracted_at: '2026-02-05T12:29:15.361506'

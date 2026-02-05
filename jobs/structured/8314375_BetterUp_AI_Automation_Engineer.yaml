@@ -1,0 +1,63 @@
+company:
+  name: BetterUp
+  stage: Series D
+  focus: Human transformation and professional coaching platform
+  use_cases:
+  - Automated internal operations and workflow optimization across SaaS ecosystem
+  - Secure AI-enabled employee onboarding and provisioning systems
+  - Identity and access management automation with SAML/SSO integration
+  - Bulk data import and processing automations (e.g., CSV bulk importers)
+  - Agentic AI systems for integrating with operational data and user identity services
+  - Compliance and audit-ready automation for US and EU regions
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of AI systems
+      including Model Context Protocol (MCP), agentic systems, and
+      LLM-powered workflows. The engineer directly builds and
+      deploys AI-enabled automations and integrates LLM providers
+      (Claude) into production systems.
+  responsibilities:
+  - Implement and scale Model Context Protocol (MCP) to support secure, composable
+    AI workflows across Slack, Jira, Salesforce, GitHub, AWS, LLM providers, and internal
+    APIs
+  - Design agentic systems that enable AI tooling to integrate seamlessly with operational
+    data and user identity services
+  - Build and maintain scalable automations and secure APIs to reduce operational
+    overhead in onboarding, provisioning, and data lifecycle management
+  - Own development and maintenance of reusable modules for identity sync, data uploads,
+    and AI-to-API orchestration
+  - Work with InfoSec and IT teams to enforce role-based access controls and SAML/SSO
+    integrations
+  - Harden identity workflows across US and EU regions, ensuring compliance with internal
+    and external standards
+  - Partner closely with stakeholders to balance speed and safety in fast-moving pilot
+    initiatives
+  - Advocate for test-driven development, documentation, and open source-inspired
+    code reusability
+  use_cases:
+  - Automated internal operations and workflow optimization across SaaS ecosystem
+  - Secure AI-enabled employee onboarding and provisioning systems
+  - Identity and access management automation with SAML/SSO integration
+  - Bulk data import and processing automations (e.g., CSV bulk importers)
+  - Agentic AI systems for integrating with operational data and user identity services
+  - Compliance and audit-ready automation for US and EU regions
+  skills:
+    genai: [Model Context Protocol (MCP), LLM providers, Agentic systems]
+    ml: []
+    web: [API integration]
+    databases: [Postgres, Redis]
+    data: [Event-driven architecture]
+    cloud: [Step Functions, AWS, GCP]
+    ops: [DataDog]
+    languages: [Python, Ruby on Rails, JavaScript]
+    domains: []
+    other: [Slack workflows, n8n, Zapier, Okta, Jira, Workday, Google Workspace, FreshService,
+      Salesforce, SAML, OAuth, Test-driven development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8314375'
+  extracted_at: '2026-02-05T12:46:37.356335'

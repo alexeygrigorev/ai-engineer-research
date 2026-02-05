@@ -1,0 +1,59 @@
+company:
+  name: Chaos Labs
+  stage: Series B
+  focus: |-
+    AI-powered financial risk management and intelligence
+    platform
+  use_cases:
+  - Transform complex market data into actionable financial insights
+  - Build intelligent agents that reason, plan, and execute across financial workflows
+  - Secure over $200 billion in assets across DeFi protocols including Aave, Jupiter,
+    and GMX
+  - Process and analyze more than $5 trillion in transaction volume
+  - Provide institutional-grade intelligence for financial markets
+  - Deliver risk management systems and oracles for financial protocols
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building agentic AI systems with
+      LLMs, including planning, tool use, and multi-agent
+      architectures. The engineer will work hands-on with model
+      integration, prompt management, and LLM evaluation - not
+      just supporting infrastructure.
+  responsibilities:
+  - Design and build single and multi-agent systems with planning, memory, and tool
+    use capabilities
+  - Build and operate MCP servers with secure schemas and permissions
+  - Develop agentic workflows using LangGraph or equivalent frameworks
+  - Integrate LLMs via SDKs and manage prompts, structured outputs, and tool calling
+  - Define and run LLM evaluations for quality, correctness, latency, cost, and regressions
+  - Build observability and reliability infrastructure including logging, tracing,
+    retries, and state management
+  - Optimize performance and cost from prototype to production environments
+  - Mentor engineers and establish agentic best practices
+  use_cases:
+  - Transform complex market data into actionable financial insights
+  - Build intelligent agents that reason, plan, and execute across financial workflows
+  - Secure over $200 billion in assets across DeFi protocols including Aave, Jupiter,
+    and GMX
+  - Process and analyze more than $5 trillion in transaction volume
+  - Provide institutional-grade intelligence for financial markets
+  - Deliver risk management systems and oracles for financial protocols
+  skills:
+    genai: [LangGraph, agents, tool calling, prompt engineering, RAG, MCP servers]
+    ml: [embeddings]
+    web: [API design]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [LLM evaluation, observability, logging, tracing, distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8383234'
+  extracted_at: '2026-02-05T13:02:24.347167'

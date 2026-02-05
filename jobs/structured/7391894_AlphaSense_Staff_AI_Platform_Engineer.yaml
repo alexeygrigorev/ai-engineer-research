@@ -1,0 +1,58 @@
+company:
+  name: AlphaSense
+  stage: Series B
+  focus: AI-driven market intelligence and search platform
+  use_cases:
+  - AI agents processing market intelligence requests at scale
+  - Enterprise market intelligence search powered by AI
+  - RAG-based search and retrieval from research documents, company filings, and expert
+    calls
+  - Multi-model AI systems delivering insights from thousands of content sets
+  - Agentic systems that power decision-making for S&P 500 companies
+position:
+  title: Staff AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a platform engineering position focused on
+      building infrastructure, reliability, and engineering
+      excellence for AI systems. The engineer is not building,
+      training, or fine-tuning models directly, but rather
+      architecting distributed systems, establishing
+      observability, and creating platforms that enable other
+      engineers to ship AI applications reliably.
+  responsibilities:
+  - Design and implement distributed systems that power AI agents processing thousands
+    of requests per hour, ensuring reliability, performance, and cost-efficiency
+  - Establish comprehensive testing strategies, observability systems, and CI/CD pipelines
+    to catch issues before customers do
+  - Mentor a team of engineers, sharing experience in building production systems
+    with high reliability
+  - Own the technical roadmap for the AI platform and make architectural decisions
+    shaping future systems
+  - Collaborate with ML engineers and researchers to productionize cutting-edge AI
+    capabilities while maintaining system stability
+  use_cases:
+  - AI agents processing market intelligence requests at scale
+  - Enterprise market intelligence search powered by AI
+  - RAG-based search and retrieval from research documents, company filings, and expert
+    calls
+  - Multi-model AI systems delivering insights from thousands of content sets
+  - Agentic systems that power decision-making for S&P 500 companies
+  skills:
+    genai: [LLM applications, agent frameworks, prompt engineering, RAG]
+    ml: []
+    web: [microservices]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Docker, CI/CD, distributed systems, infrastructure as code,
+      observability]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7391894'
+  extracted_at: '2026-02-05T10:45:33.423746'

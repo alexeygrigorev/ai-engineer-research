@@ -1,0 +1,59 @@
+company:
+  name: Future (futureplc.com)
+  stage: Public
+  focus: Global specialist media and content publishing
+  use_cases:
+  - Automated content moderation at scale for creator platform
+  - Brand safety enforcement through AI-driven content review
+  - Creator workflow automation and optimization using LLMs
+  - Self-directing autonomous agent systems for content management
+  - Intelligent decision-making embedded in platform architecture
+position:
+  title: AI Engineer, Open Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is hands-on building AI systems - specifically
+      designing and implementing an Auto-Moderation Service using
+      LLMs, RAG, and autonomous agent architectures. The engineer
+      will work directly with models, embeddings, agent frameworks
+      (CrewAI, LangGraph), and LLMOps tools to deploy intelligent
+      agents into the platform's core architecture.
+  responsibilities:
+  - Design and implement the Auto-Moderation Service to scale safely from dozens to
+    thousands of creators
+  - Build and deploy intelligent agents and automated decision-making into the platform's
+    core architecture
+  - Apply NLP, LLMs, embeddings, and RAG to solve practical business problems around
+    content moderation
+  - Implement LLMOps and EVALs frameworks for rigorous model selection, quality assurance,
+    and performance monitoring
+  - Design autonomous agent architectures with memory, safety guardrails, and task
+    performance
+  - Create process automation solutions using workflow tools (Temporal.io, n8n) and
+    custom scripting
+  - Integrate AI services with modern web architectures including REST/GraphQL APIs
+    and microservices
+  use_cases:
+  - Automated content moderation at scale for creator platform
+  - Brand safety enforcement through AI-driven content review
+  - Creator workflow automation and optimization using LLMs
+  - Self-directing autonomous agent systems for content management
+  - Intelligent decision-making embedded in platform architecture
+  skills:
+    genai: [LLMs, embeddings, RAG, autonomous agents, agent memory, CrewAI, Google
+        Gen AI, LangGraph]
+    ml: []
+    web: [Node.js, REST, GraphQL, microservices]
+    databases: []
+    data: [n8n]
+    cloud: []
+    ops: [LLMOps, EVALs, Temporal.io, Git, CI/CD]
+    languages: [Python, TypeScript, Go, Java, PHP]
+    domains: [NLP]
+    other: [Cursor, Windsurf, Copilot, Bolt]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8299497'
+  extracted_at: '2026-02-05T12:41:40.084052'

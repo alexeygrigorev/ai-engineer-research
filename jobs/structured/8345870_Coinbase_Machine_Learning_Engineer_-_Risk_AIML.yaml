@@ -1,0 +1,64 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency exchange and onchain platform
+  use_cases:
+  - Fraud prevention and detection for cryptocurrency transactions and accounts
+  - Account takeover protection for millions of Coinbase users
+  - Scam detection models to protect customers from fraudulent schemes
+  - Real-time risk scoring for transfers, withdrawals, and transaction limits
+  - Adaptive security systems balancing fraud prevention with user experience
+  - Future products like instant guest checkout and Coinbase Cards
+position:
+  title: Machine Learning Engineer - Risk AI/ML
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This is a hands-on ML engineering role focused on building,
+      training, and deploying risk detection models using
+      traditional ML techniques (deep learning, GNNs, sequence
+      modeling). While LLMs are mentioned as a "nice to have" for
+      conversational agents, the core work involves training
+      models for fraud detection, scam prevention, and account
+      takeover risk—classic ML applications. The role explicitly
+      states "focusing 100% on modeling, not infrastructure
+      plumbing" which aligns with ml-first classification.
+  responsibilities:
+  - Own end-to-end development of ML models from ideation to production using centralized
+    ML platform
+  - Enhance core risk models including Scam Models, Transaction Risk Models, Withdrawal
+    Limit Models, and Account Takeover models
+  - Build, train, and deploy ML models targeting production timelines under one week
+    in response to new threat data
+  - Develop production-grade AI/ML models and pipelines enabling real-time predictions
+    using automated CI/CD and feature store
+  - Apply modern ML methodologies including deep learning, NLP, Graph Neural Networks,
+    sequence modeling, and LLMs to solve crypto-native challenges
+  - Build adaptive context-aware risk systems that determine appropriate friction
+    (quizzes, LLM agents, human review) for different user types
+  - Collaborate with Risk Operations, Platform Engineering, and Product teams to close
+    feedback loop and convert threats into automated defenses
+  use_cases:
+  - Fraud prevention and detection for cryptocurrency transactions and accounts
+  - Account takeover protection for millions of Coinbase users
+  - Scam detection models to protect customers from fraudulent schemes
+  - Real-time risk scoring for transfers, withdrawals, and transaction limits
+  - Adaptive security systems balancing fraud prevention with user experience
+  - Future products like instant guest checkout and Coinbase Cards
+  skills:
+    genai: [LLMs, fine-tuning, agentic systems]
+    ml: [TensorFlow, PyTorch, deep learning, NLP, Graph Neural Networks, LSTMs, Reinforcement
+        Learning]
+    web: []
+    databases: []
+    data: [Apache Airflow, Spark, Kafka, Feature Stores]
+    cloud: []
+    ops: [Model Serving, RayServe, MLOps, CI/CD]
+    languages: [Python]
+    domains: [Risk ML, anomaly detection]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8345870'
+  extracted_at: '2026-02-05T12:57:09.371358'

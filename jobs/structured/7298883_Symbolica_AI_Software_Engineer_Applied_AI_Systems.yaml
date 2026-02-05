@@ -1,0 +1,57 @@
+company:
+  name: Symbolica AI
+  stage: Series A
+  focus: |-
+    AI research lab using category theory for symbolic reasoning
+    models
+  use_cases:
+  - Developer SDKs and libraries for AI model integration
+  - Applied AI features including agent engineering and context tuning
+  - Per-model optimization systems for inference providers
+  - Production infrastructure for deploying symbolic reasoning models
+  - Developer tools for building applications with Symbolica's AI
+position:
+  title: Software Engineer – Applied AI Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a general software engineering role building the
+      SDK, APIs, and infrastructure that power Symbolica's AI
+      products. The engineer works on integrations, per-model
+      optimizations, and context tuning, but collaborates with ML
+      researchers rather than building models directly. The focus
+      is on turning research prototypes into production-quality
+      systems and developer tools.
+  responsibilities:
+  - Build and maintain Python-based systems across SDK, libraries, APIs, server-side
+    platform, and integration layers
+  - Work on applied AI engineering including per-model optimizations, context tuning,
+    and agent-related features
+  - Design developer-facing tools and libraries that customers use directly
+  - Integrate with external inference providers to ensure reliability and scalability
+  - Collaborate with ML researchers and engineers to turn prototypes into robust production
+    systems
+  - Own projects end-to-end from requirements clarification to shipping production-ready
+    code
+  use_cases:
+  - Developer SDKs and libraries for AI model integration
+  - Applied AI features including agent engineering and context tuning
+  - Per-model optimization systems for inference providers
+  - Production infrastructure for deploying symbolic reasoning models
+  - Developer tools for building applications with Symbolica's AI
+  skills:
+    genai: [agent engineering, context tuning]
+    ml: []
+    web: [SDK development, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [inference optimization, ML infrastructure]
+    languages: [Python]
+    domains: []
+    other: [developer tooling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7298883'
+  extracted_at: '2026-02-05T10:34:18.593507'

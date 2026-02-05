@@ -1,0 +1,51 @@
+company:
+  name: Column Tax
+  stage: Series B
+  focus: Tax e-filing software platform
+  use_cases:
+  - AI tax agent that understands tax law and generates code implementations
+  - Automated tax form completion using document ingestion and data processing
+  - Embedded tax platform APIs for partner integrations
+  - Tax return auto-filling system powered by machine learning
+  - Reinforcement learning algorithms for tax optimization and correctness
+position:
+  title: Software Engineer (Applied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI agents and ML
+      systems, specifically an "AI tax development agent" that
+      understands tax law and generates software code. The role
+      requires experience with reinforcement learning algorithms,
+      machine learning pipelines, and deploying advanced AI
+      technologies into production software.
+  responsibilities:
+  - Build agentic tooling that understands tax law, converts it to software code,
+    and tests itself for correctness
+  - Ingest and process millions of data points from documents, partner integrations,
+    and external APIs to auto-fill tax returns
+  - Build and extend APIs for partners to enable seamless and intuitive integration
+  - Create user interface for the embedded tax platform, translating complex tax code
+    into accessible UI
+  use_cases:
+  - AI tax agent that understands tax law and generates code implementations
+  - Automated tax form completion using document ingestion and data processing
+  - Embedded tax platform APIs for partner integrations
+  - Tax return auto-filling system powered by machine learning
+  - Reinforcement learning algorithms for tax optimization and correctness
+  skills:
+    genai: [agents]
+    ml: [reinforcement learning, machine learning pipelines]
+    web: [REST APIs, UI development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6351158'
+  extracted_at: '2026-02-05T09:43:56.299478'

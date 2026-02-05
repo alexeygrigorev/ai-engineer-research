@@ -1,0 +1,65 @@
+company:
+  name: Chainguard
+  stage: null
+  focus: |-
+    Secure software development and deployment, software supply
+    chain security
+  use_cases:
+  - Account intelligence for sales teams to understand customer needs and opportunities
+  - Deal prioritization to help sales teams focus on high-value opportunities
+  - Forecasting for revenue operations and business planning
+  - Personalization of marketing and sales communications
+  - Sales and customer success enablement through AI-powered insights and tools
+  - Customer insights generation to inform GTM strategies and decision-making
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and fine-
+      tuning of GenAI and LLM-based systems including RAG
+      architectures, prompt engineering, and LLM-powered
+      applications. The engineer owns the end-to-end lifecycle
+      from model deployment to monitoring, which qualifies as
+      working directly on AI systems rather than supporting
+      infrastructure.
+  responsibilities:
+  - Design, build, and operate production-grade AI solutions for GTM use cases including
+    account intelligence, deal prioritization, and forecasting
+  - Lead technical architecture and implementation of GenAI and ML systems including
+    LLM-powered applications, RAG, recommendation systems, and predictive models
+  - Evaluate new AI technologies, frameworks, and vendors to inform build vs. buy
+    decisions and technical direction
+  - Own end-to-end lifecycle of AI solutions from data ingestion and feature development
+    to model deployment, monitoring, and iteration
+  - Integrate AI capabilities into existing GTM platforms and workflows such as Salesforce,
+    internal tools, and analytics platforms
+  - Establish best practices for AI engineering including model evaluation, observability,
+    performance optimization, and reliability
+  - Partner with cross-functional teams to translate business requirements into scalable
+    technical designs
+  - Collaborate with Data, GTM Systems, Security, and Legal teams to ensure solutions
+    meet data quality, privacy, security, and compliance standards
+  use_cases:
+  - Account intelligence for sales teams to understand customer needs and opportunities
+  - Deal prioritization to help sales teams focus on high-value opportunities
+  - Forecasting for revenue operations and business planning
+  - Personalization of marketing and sales communications
+  - Sales and customer success enablement through AI-powered insights and tools
+  - Customer insights generation to inform GTM strategies and decision-making
+  skills:
+    genai: [RAG, prompt engineering, LLM-powered applications]
+    ml: [model training, fine-tuning, predictive models, recommendation systems]
+    web: [APIs]
+    databases: []
+    data: [data pipelines, feature engineering]
+    cloud: []
+    ops: [model deployment, monitoring, MLflow, observability]
+    languages: [Python, SQL, Go, Java]
+    domains: [Salesforce]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8332487'
+  extracted_at: '2026-02-05T12:53:39.310755'

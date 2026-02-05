@@ -1,0 +1,53 @@
+company:
+  name: OneMagnify
+  stage: Public
+  focus: Performance marketing and data analytics
+  use_cases:
+  - Marketing and brand strategy design using analytical and predictive data models
+  - Generative AI solutions for marketing optimization
+  - Customer insights generation to drive sales conversion
+  - Real-time business results amplification through AI
+  - Data-driven decision support for marketing initiatives
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a client-facing Technical AI Engineer who provides
+      technical solutioning for generative AI projects and
+      directly works with LLMs. The role involves deploying AI
+      initiatives and collaborating with data scientists and AI
+      engineers on hands-on AI implementation, which goes beyond
+      support infrastructure.
+  responsibilities:
+  - Work with strategic clients to help them utilize their data to take action
+  - Stay up-to-date on the latest AI tools and features
+  - Provide technical solutioning for generative AI projects
+  - Participate in code reviews and solutioning sessions with cross-functional technical
+    teams
+  - Lead cross-functional projects and enable collaboration across artificial intelligence
+    and the organization
+  - Support the development and deployment of AI initiatives while ensuring high-quality
+    execution and timely delivery
+  use_cases:
+  - Marketing and brand strategy design using analytical and predictive data models
+  - Generative AI solutions for marketing optimization
+  - Customer insights generation to drive sales conversion
+  - Real-time business results amplification through AI
+  - Data-driven decision support for marketing initiatives
+  skills:
+    genai: [Large Language Models]
+    ml: [Data Science]
+    web: []
+    databases: []
+    data: [DataBricks, Domo, Tableau, PowerBI, data analytics]
+    cloud: []
+    ops: []
+    languages: [Python, SQL, R, Object-oriented programming]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8330186'
+  extracted_at: '2026-02-05T12:53:01.993141'

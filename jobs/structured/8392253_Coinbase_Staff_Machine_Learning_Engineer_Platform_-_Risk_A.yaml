@@ -1,0 +1,56 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency exchange and trading platform
+  use_cases:
+  - Fraud detection and prevention for millions of cryptocurrency users
+  - Account takeover detection and prevention
+  - Scam detection to protect customers from malicious actors
+  - Real-time risk assessment for instant guest checkout transactions
+  - Coinbase Card transaction risk evaluation
+  - LLM-powered conversational agents for customer verification
+position:
+  title: Staff Machine Learning Engineer (Platform - Risk AI/ML)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Hands-on role building, designing, and deploying ML models
+      including GNNs, LSTMs, and LLMs for risk detection. Mentions
+      direct model development for fraud prevention and scam
+      detection, plus LLM agents for conversational systems.
+  responsibilities:
+  - Take full technical ownership of core risk domains like Scams or Account Takeover,
+    designing and building all models
+  - Lead system design and architecture for cross-team risk detection models including
+    feature pipelines and model selection
+  - Drive technical roadmap by translating business needs into clear technical solutions
+    and influencing at organizational level
+  - Mentor and lead senior, mid-level, and junior engineers on the team
+  - Apply advanced ML techniques including deep learning, NLP, Graph Neural Networks,
+    sequence modeling, and LLMs
+  - Architect adaptive risk systems that balance security with user experience through
+    intelligent friction application
+  use_cases:
+  - Fraud detection and prevention for millions of cryptocurrency users
+  - Account takeover detection and prevention
+  - Scam detection to protect customers from malicious actors
+  - Real-time risk assessment for instant guest checkout transactions
+  - Coinbase Card transaction risk evaluation
+  - LLM-powered conversational agents for customer verification
+  skills:
+    genai: [NLP, LLMs, fine-tuning, agentic systems]
+    ml: [PyTorch, TensorFlow, deep learning, Graph Neural Networks (GNNs), LSTMs,
+      sequence modeling, anomaly detection]
+    web: []
+    databases: []
+    data: [Feature Stores (Tecton), Apache Spark, Kafka, Apache Airflow]
+    cloud: []
+    ops: [RayServe, MLOps, model monitoring]
+    languages: [Python]
+    domains: [Risk ML, Payment Risk, Credit Risk, Identity Risk]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8392253'
+  extracted_at: '2026-02-05T13:04:55.457487'

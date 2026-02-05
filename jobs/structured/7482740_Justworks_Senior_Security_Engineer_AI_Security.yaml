@@ -1,0 +1,63 @@
+company:
+  name: Justworks
+  stage: Series D
+  focus: HR solutions and benefits administration platform
+  use_cases:
+  - Securing AI-powered HR and business systems from AI-specific threats and vulnerabilities
+  - Protecting company data through guardrails and security controls for AI features
+  - Implementing AI models to enhance security controls and operations
+  - Monitoring AI systems for security threats in cloud environments (AWS)
+  - Ensuring secure AI implementation across Justworks applications and infrastructure
+  - Managing AI tools including vector databases, model hosting, and AI coding assistants
+position:
+  title: Senior Security Engineer (AI Security)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a security engineering role focused on protecting AI
+      systems, not building them. The candidate will evaluate AI
+      threats, design security controls, implement guardrails, and
+      secure AI infrastructure rather than develop, train, or
+      deploy AI models directly. While they work with AI
+      technologies like LangChain and vector databases, their
+      primary function is enabling secure AI usage for others
+      through security architecture and controls.
+  responsibilities:
+  - Research AI trends, threat landscape, vulnerabilities and remediations, and AI
+    security control advancement
+  - Evaluate and assess AI tools and play a critical role in AI system management
+    and governance
+  - Develop AI security architecture and design standards across applications and
+    infrastructure
+  - Implement AI security capabilities in AWS for corporate and production environments
+  - Provide technical and architectural guidance on AI security to product managers,
+    engineers, and IT
+  - Assist teams to implement AI models for security controls, operations, and risk
+    management
+  - Collaborate with engineering and risk teams to build AI security control requirements
+  - Help Cyber Defense Operations triage incidents related to AI security in internal
+    networks and production
+  use_cases:
+  - Securing AI-powered HR and business systems from AI-specific threats and vulnerabilities
+  - Protecting company data through guardrails and security controls for AI features
+  - Implementing AI models to enhance security controls and operations
+  - Monitoring AI systems for security threats in cloud environments (AWS)
+  - Ensuring secure AI implementation across Justworks applications and infrastructure
+  - Managing AI tools including vector databases, model hosting, and AI coding assistants
+  skills:
+    genai: [LangChain, LangGraph, MCP, Agent-to-Agent Protocol, AI coding assistants]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [DevSecOps, Secure-SDLC, threat modeling, vulnerability management, Docker,
+      Kubernetes, CI/CD]
+    languages: [Ruby on Rails, Go, JavaScript, Python]
+    domains: []
+    other: [security architecture, risk management, incident response, Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7482740'
+  extracted_at: '2026-02-05T10:58:53.538310'

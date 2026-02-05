@@ -1,0 +1,66 @@
+company:
+  name: Genesys
+  stage: Public
+  focus: AI-powered customer experience orchestration platform
+  use_cases:
+  - Self-service IVR systems for automated customer support and routing
+  - AI-driven voicebots and virtual agents for natural language customer interactions
+  - Conversational AI solutions integrating speech recognition and natural language
+    understanding
+  - Customer experience automation through intelligent virtual agents and chatbots
+  - Scalable multi-channel self-service platforms for enterprise customer engagement
+  - Integration of conversational AI with telephony systems and contact center infrastructure
+position:
+  title: Principal Conversational AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with building and deploying AI-driven
+      conversational systems (voicebots, virtual agents) using NLU
+      platforms like Google Dialogflow and Amazon Lex. The
+      developer directly tunes ASR grammars, defines bot intents,
+      implements webhook integrations, and optimizes speech
+      recognition performance - all core AI/ML deployment work.
+  responsibilities:
+  - Lead the design, development, and testing of customized self-service IVR and AI-driven
+    virtual agent applications using Genesys tools
+  - Partner with customers, business owners, and technical SMEs to define requirements,
+    design call flows, and implement scalable, high-performance solutions
+  - Drive architecture design and integration with external platforms including Google
+    Dialogflow and Amazon Lex
+  - Define and tune ASR grammars to optimize accuracy and performance in natural language
+    understanding (NLU) and speech applications
+  - Provide technical estimates and lead end-to-end solution delivery through agile
+    methods
+  - Mentor developers, influence best practices, and contribute to operational strategies
+    that align with Genesys' long-term vision
+  - Collaborate cross-functionally with UI designers, QA engineers, product owners,
+    and scrum masters to ensure quality outcomes
+  - Execute test scripts, perform UAT and QA validation, and deliver solution knowledge
+    transfer to customers and partners
+  use_cases:
+  - Self-service IVR systems for automated customer support and routing
+  - AI-driven voicebots and virtual agents for natural language customer interactions
+  - Conversational AI solutions integrating speech recognition and natural language
+    understanding
+  - Customer experience automation through intelligent virtual agents and chatbots
+  - Scalable multi-channel self-service platforms for enterprise customer engagement
+  - Integration of conversational AI with telephony systems and contact center infrastructure
+  skills:
+    genai: [Google Dialogflow, Amazon Lex, generative AI applications in conversational
+        design]
+    ml: []
+    web: [webhook integration]
+    databases: []
+    data: []
+    cloud: [Genesys Cloud Architect, GCP, AWS]
+    ops: []
+    languages: [Java, C#, Python]
+    domains: [ASR (Automatic Speech Recognition), NLU (Natural Language Understanding)]
+    other: [Genesys Dialog Engine, IVR (Interactive Voice Response), bot intent tuning,
+      predictive routing, agile methodology]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7709436'
+  extracted_at: '2026-02-05T11:21:36.077998'

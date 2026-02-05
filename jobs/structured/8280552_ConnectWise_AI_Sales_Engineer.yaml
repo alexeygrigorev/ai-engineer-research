@@ -1,0 +1,62 @@
+company:
+  name: ConnectWise
+  stage: Public
+  focus: |-
+    Business management software for technology solution
+    providers
+  use_cases:
+  - Business management automation for technology solution providers
+  - AI-powered service delivery and operational efficiency for MSPs and VARs
+  - Data-driven insights and analytics for business decision making
+  - Workflow automation to reduce manual processes and improve productivity
+  - Enterprise AI deployment for managed service providers and IT organizations
+position:
+  title: AI Sales Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales engineering role focused on
+      demonstrating, designing, and selling AI solutions rather
+      than building or deploying models. The role involves
+      technical consulting, POCs, and solution architecture for
+      customers but does not include hands-on model development,
+      training, or deployment work.
+  responsibilities:
+  - Represent technical and functional aspects of AI platform, automation tools, and
+    partner solutions to address customer challenges
+  - Deliver technical demonstrations, product walkthroughs, and presentations tailored
+    to technical and business audiences
+  - Lead proof-of-concepts and pilot engagements showcasing AI models, automation
+    workflows, and data-driven insights
+  - Translate customer requirements into scalable AI solution designs including model
+    selection, data integration, and deployment considerations
+  - Develop and execute POCs, trials, and sandbox environments for prospects to evaluate
+    AI capabilities
+  - Work with sales teams to position AI solutions through capability assessments
+    and ROI analysis
+  - Prepare technical RFP/RFQ responses including architecture diagrams, integration
+    plans, and security documentation
+  - Serve as technical resource for revenue teams by providing product expertise,
+    training, and ongoing support
+  use_cases:
+  - Business management automation for technology solution providers
+  - AI-powered service delivery and operational efficiency for MSPs and VARs
+  - Data-driven insights and analytics for business decision making
+  - Workflow automation to reduce manual processes and improve productivity
+  - Enterprise AI deployment for managed service providers and IT organizations
+  skills:
+    genai: [LLMs, generative AI, RAG architectures, prompt engineering]
+    ml: [AI/ML concepts, model training, inference]
+    web: [APIs]
+    databases: [vector databases]
+    data: [data pipelines, data integration]
+    cloud: [Azure, AWS, GCP]
+    ops: []
+    languages: []
+    domains: []
+    other: [automation frameworks, Salesforce]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8280552'
+  extracted_at: '2026-02-05T12:30:59.218554'

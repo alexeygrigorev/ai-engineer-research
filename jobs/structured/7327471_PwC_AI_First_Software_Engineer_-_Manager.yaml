@@ -1,0 +1,50 @@
+company:
+  name: PwC
+  stage: Public
+  focus: Professional services and consulting
+  use_cases:
+  - Large-scale distributed data processing applications
+  - Enterprise microservices with REST APIs and event-driven design
+  - Client-facing digital transformation solutions
+  - Cloud-native deployments with container orchestration
+  - Development workflow enhancement using AI tools like GitHub CoPilot
+position:
+  title: AI First Software Engineer - Manager
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a management role for general software engineering
+      at PwC. The job focuses on distributed systems and
+      microservices with only mentions of implementing AI thinking
+      and using AI tools like GitHub CoPilot to drive
+      efficiencies, rather than building, training, or deploying
+      AI/ML models.
+  responsibilities:
+  - Design and develop large-scale distributed data processing systems
+  - Lead teams and manage client accounts with strategic planning
+  - Mentor and develop junior staff to enhance their skills
+  - Utilize programming languages such as Java, Scala, Python, and JavaScript
+  - Assure project success and uphold top standards
+  - Implement AI thinking in the team and drive efficiencies across teams
+  use_cases:
+  - Large-scale distributed data processing applications
+  - Enterprise microservices with REST APIs and event-driven design
+  - Client-facing digital transformation solutions
+  - Cloud-native deployments with container orchestration
+  - Development workflow enhancement using AI tools like GitHub CoPilot
+  skills:
+    genai: [GitHub CoPilot]
+    ml: []
+    web: [Spring Boot, Spring Cloud, Microservices, REST API, Event Driven Design]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Knative, Splunk, Prometheus, Grafana]
+    languages: [Java, Scala, Python, JavaScript]
+    domains: []
+    other: [Agile Methodologies]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7327471'
+  extracted_at: '2026-02-05T10:40:07.582402'

@@ -1,0 +1,53 @@
+company:
+  name: G2i
+  stage: null
+  focus: LLM code training and RLHF
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Generating code rankings and edits to create reward signals for reinforcement
+    learning
+  - Improving LLM code generation quality through human feedback and expert code review
+  - Teaching models to propose, critique, and improve code similar to human engineers
+position:
+  title: AI Software Engineer (C)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on providing human feedback through code
+      comparison, ranking, and refactoring to train LLMs via RLHF.
+      The role does not involve building, training, fine-tuning,
+      or deploying models - it's about supplying the training
+      data/feedback that enables others to improve the models.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Maintain smooth operation of the RLHF feedback loop
+  - Apply strong code-review instincts to spot logic errors, performance traps, and
+    security issues
+  - Provide clear written explanations justifying why one coding approach is better
+    than another
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Generating code rankings and edits to create reward signals for reinforcement
+    learning
+  - Improving LLM code generation quality through human feedback and expert code review
+  - Teaching models to propose, critique, and improve code similar to human engineers
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C]
+    domains: []
+    other: [code review, refactoring, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8254964'
+  extracted_at: '2026-02-05T12:24:05.022293'

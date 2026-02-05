@@ -1,0 +1,61 @@
+company:
+  name: EBizCharge
+  stage: null
+  focus: Integrated payment solutions for ERP/CRM/eCommerce
+  use_cases:
+  - AI assistants and agents accessing external capabilities through MCP servers
+  - Automated data querying from databases and external APIs via AI agents
+  - Workflow automation and business process orchestration powered by AI
+  - Secure management and retrieval of Azure cloud resources through AI agents
+  - Knowledge retrieval and intelligent assistant functionality integrated into ERP
+    and payment systems
+position:
+  title: Senior AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building MCP servers that
+      expose tools to AI assistants and agents, implementing
+      function calling, integrating with Azure AI Foundry agents,
+      and designing agentic AI systems. This is directly building
+      AI infrastructure and tooling for AI agents rather than
+      supporting AI work done by others.
+  responsibilities:
+  - Design, develop, and maintain secure MCP servers that expose external tools and
+    capabilities to AI assistants
+  - Implement specific MCP tools for file reading, issue management, database interaction,
+    and workflow automation
+  - Integrate MCP Server tools with Azure AI Foundry agents for data querying and
+    automated workflows
+  - Ensure security and access control for MCP servers, limiting agent access to authorized
+    tools and data
+  - Collaborate with product managers and front-end teams to integrate AI capabilities
+    into user-facing platforms like Microsoft Copilot and web portals
+  - Utilize Azure Functions, Logic Apps, and Cognitive Services to connect AI workflows
+    with enterprise systems including Azure Storage, SQL, and Compute Services
+  use_cases:
+  - AI assistants and agents accessing external capabilities through MCP servers
+  - Automated data querying from databases and external APIs via AI agents
+  - Workflow automation and business process orchestration powered by AI
+  - Secure management and retrieval of Azure cloud resources through AI agents
+  - Knowledge retrieval and intelligent assistant functionality integrated into ERP
+    and payment systems
+  skills:
+    genai: [MCP (Model Context Protocol), LangChain, Semantic Kernel, prompt engineering,
+      AI agents, LLM tool integration]
+    ml: [TensorFlow, PyTorch, Scikit-learn, Keras]
+    web: [FastAPI, Flask, RESTful API, .NET Core]
+    databases: []
+    data: [JSON Schema]
+    cloud: [Azure AI Foundry, Azure OpenAI Service, Azure Functions, Azure Logic Apps,
+      Azure Cognitive Services, Azure Storage, Azure SQL, Azure Compute Services,
+      OAuth, API Keys, Managed Identity]
+    ops: [Docker, Kubernetes, CI/CD, Git]
+    languages: [Python, R]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7592560'
+  extracted_at: '2026-02-05T11:10:30.533120'

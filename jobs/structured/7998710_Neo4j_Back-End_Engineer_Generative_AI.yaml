@@ -1,0 +1,52 @@
+company:
+  name: Neo4j
+  stage: Series F
+  focus: Graph intelligence platform for AI and knowledge graphs
+  use_cases:
+  - Building agent-based AI applications and workflows
+  - Developing scalable back-end infrastructure for GenAI applications
+  - Integrating GenAI capabilities into internal systems
+  - Powering intelligent applications with graph knowledge and context
+  - Creating enterprise-ready AI solutions with explainable and governed AI
+position:
+  title: Back-End Engineer (Generative AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires building applications using Agent
+      Frameworks like LangGraph, CrewAI, and AI-SDK, and
+      explicitly mentions developing back-end infrastructure for
+      AI-driven and GenAI applications. The engineer will work on
+      GenAI products and integrate GenAI capabilities into
+      systems, indicating hands-on work with AI systems.
+  responsibilities:
+  - Design, develop, and maintain high-performance back-end systems using Python/Go/Typescript
+    to support GenAI applications
+  - Stay current with advancements in GenAI technologies and back-end development
+    trends to ensure optimal system architecture
+  - Collaborate with cross-functional teams to propose innovative solutions that enhance
+    GenAI products and services
+  - Support internal teams in integrating GenAI capabilities into their systems, ensuring
+    seamless functionality
+  use_cases:
+  - Building agent-based AI applications and workflows
+  - Developing scalable back-end infrastructure for GenAI applications
+  - Integrating GenAI capabilities into internal systems
+  - Powering intelligent applications with graph knowledge and context
+  - Creating enterprise-ready AI solutions with explainable and governed AI
+  skills:
+    genai: [LangGraph, CrewAI, AG2, AI-SDK, PydanticAI]
+    ml: []
+    web: [FastAPI, back-end development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7998710'
+  extracted_at: '2026-02-05T11:46:59.005899'

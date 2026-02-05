@@ -1,0 +1,64 @@
+company:
+  name: CrowdStrike
+  stage: Public
+  focus: AI-native cybersecurity platform
+  use_cases:
+  - Agentic AI applications that operate within the broader corporate cybersecurity
+    environment
+  - LLM-based solutions integrated into production applications to support business
+    operations
+  - Consulting and internal operations teams harnessing AI for smarter, faster, and
+    more efficient outcomes
+  - AI agents working with cybersecurity systems to deliver enhanced protection capabilities
+  - Fine-tuned models for specific cybersecurity and operational use cases
+position:
+  title: Technical Operations Engineer III - Agentic AI (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning Agentic AI solutions and LLM applications. The
+      engineer will directly work with agents, agentic frameworks,
+      and model fine-tuning, not just supporting infrastructure
+      for AI work.
+  responsibilities:
+  - Lead the design, development, deployment, and maintenance of AI applications using
+    LLMs and Agentic frameworks
+  - Collaborate with cross-functional teams to integrate purposeful, secure, scalable
+    LLM models that support business objectives
+  - Define benchmarks and metrics to evaluate the performance of agents and Agentic
+    frameworks
+  - Lead sophisticated AI agent solutions including fine-tuning and integrating with
+    models
+  - Stay current with AI, LLM, and Agentic framework advancements to evolve existing
+    solutions and architect new ones
+  - Mentor team members and act as an advisor to leadership on AI development strategies
+    and roadmaps
+  - Troubleshoot, isolate, and fix issues throughout the software development lifecycle
+    including production
+  - Participate in 24/7 on-call rotation for production support
+  use_cases:
+  - Agentic AI applications that operate within the broader corporate cybersecurity
+    environment
+  - LLM-based solutions integrated into production applications to support business
+    operations
+  - Consulting and internal operations teams harnessing AI for smarter, faster, and
+    more efficient outcomes
+  - AI agents working with cybersecurity systems to deliver enhanced protection capabilities
+  - Fine-tuned models for specific cybersecurity and operational use cases
+  skills:
+    genai: [LangChain, LangGraph, RAG, agents, LLM fine-tuning, prompt engineering]
+    ml: []
+    web: [REST APIs, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [Python, Go]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8260418'
+  extracted_at: '2026-02-05T12:26:03.903305'

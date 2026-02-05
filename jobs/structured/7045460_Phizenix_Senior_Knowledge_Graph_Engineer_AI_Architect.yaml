@@ -1,0 +1,51 @@
+company:
+  name: Phizenix
+  stage: null
+  focus: Knowledge Graph and AI reasoning systems
+  use_cases:
+  - Advanced inference and decision support systems
+  - Autonomous agents powered by knowledge graphs and AI reasoning
+  - Real-time applications combining LLMs with graph databases
+  - Semantic search and enrichment using knowledge graphs
+  - Knowledge-driven AI systems for intelligent decision-making
+position:
+  title: Senior Knowledge Graph Engineer / AI Architect
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because it directly involves
+      building LLM + graph systems, prototyping real-time
+      applications with LLMs, and developing autonomous agents.
+      The role requires hands-on experience with LLM tools like
+      LangChain and CrewAI, integrating AI models for reasoning
+      and implementing advanced inference systems.
+  responsibilities:
+  - Build and scale Knowledge Graphs using RDF, OWL, SPARQL, and Neo4j
+  - Integrate AI models for reasoning, enrichment, and search capabilities
+  - Develop semantic pipelines including NLP, entity linking, and ontology alignment
+  - Lead technical strategy and mentor engineering teams
+  - Prototype LLM + graph systems for real-time applications
+  - Architect scalable solutions combining semantic technologies with AI models for
+    advanced inference
+  use_cases:
+  - Advanced inference and decision support systems
+  - Autonomous agents powered by knowledge graphs and AI reasoning
+  - Real-time applications combining LLMs with graph databases
+  - Semantic search and enrichment using knowledge graphs
+  - Knowledge-driven AI systems for intelligent decision-making
+  skills:
+    genai: [LLM tools, LangChain, CrewAI, autonomous agents]
+    ml: [entity linking]
+    web: []
+    databases: [SPARQL, Neo4j, RDFox]
+    data: [Knowledge Graphs, RDF, OWL, ontology alignment]
+    cloud: []
+    ops: []
+    languages: [Python, Java]
+    domains: [NLP]
+    other: [reasoning engines, Drools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7045460'
+  extracted_at: '2026-02-05T10:08:09.017802'

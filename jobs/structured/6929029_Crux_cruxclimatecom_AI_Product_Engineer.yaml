@@ -1,0 +1,51 @@
+company:
+  name: Crux (cruxclimate.com
+  stage: Series B
+  focus: Capital markets platform for clean energy financing
+  use_cases:
+  - Streamlining the manual, opaque, and slow process of financing clean energy projects
+  - Accelerating diligence processes for clean energy and manufacturing transactions
+  - Enabling faster decision making and lower cost of capital for developers
+  - Facilitating capital flow into renewable energy projects through AI-powered tools
+  - Transforming complex capital markets transactions with AI automation
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires "proven experience building and shipping
+      user-facing LLM products" and specifically mentions
+      experience with "AI agents that work." This is hands-on work
+      building LLM-powered products and agents, not just
+      supporting AI infrastructure or general software
+      engineering.
+  responsibilities:
+  - Collaborate directly with customers to reimagine transactions in clean energy
+    finance
+  - Build AI products from 0 to 1, starting with diligence applications
+  - Select tools and frameworks for AI product development
+  - Co-design processes and systems for shipping high-quality AI products
+  - Help invent engineering frameworks using first principles
+  - Raise the bar for engineering culture and best practices
+  use_cases:
+  - Streamlining the manual, opaque, and slow process of financing clean energy projects
+  - Accelerating diligence processes for clean energy and manufacturing transactions
+  - Enabling faster decision making and lower cost of capital for developers
+  - Facilitating capital flow into renewable energy projects through AI-powered tools
+  - Transforming complex capital markets transactions with AI automation
+  skills:
+    genai: [LLM product development, AI agents, prompt engineering]
+    ml: []
+    web: [NextJS, React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [evals, CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: [UX design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6929029'
+  extracted_at: '2026-02-05T10:01:11.139768'

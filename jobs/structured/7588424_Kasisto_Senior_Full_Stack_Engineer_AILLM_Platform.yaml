@@ -1,0 +1,62 @@
+company:
+  name: Kasisto
+  stage: null
+  focus: |-
+    Conversational and agentic AI platform for financial
+    institutions
+  use_cases:
+  - Conversational AI agents for financial institutions
+  - Customer-facing intelligent digital assistants for banking
+  - Employee operational automation and support
+  - Multi-channel agentic AI orchestration across customer journeys
+  - Compliant and trustworthy AI interactions for enterprise banking
+  - Knowledge retrieval through RAG for financial services
+position:
+  title: Senior Full Stack Engineer (AI/LLM Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI/LLM systems,
+      specifically building and orchestrating LLM workflows using
+      LangChain and LangGraph, implementing RAG patterns, and
+      integrating multi-provider models. The engineer is working
+      directly ON the AI platform's core functionality, not just
+      supporting infrastructure or building general applications
+      for an AI company.
+  responsibilities:
+  - Design and implement scalable full stack applications using React, TypeScript,
+    and FastAPI
+  - Build backend microservices in Python with SQLAlchemy and PostgreSQL including
+    vector extensions
+  - Develop and orchestrate LLM workflows using LangChain and LangGraph, integrating
+    multi-provider models
+  - Implement RAG patterns, embedding pipelines, and vector search for intelligent
+    knowledge retrieval
+  - Optimize application performance, reliability, and security across Docker/Kubernetes
+    environments
+  - Collaborate with AI researchers, product managers, and UX teams to deliver production-grade
+    AI experiences
+  use_cases:
+  - Conversational AI agents for financial institutions
+  - Customer-facing intelligent digital assistants for banking
+  - Employee operational automation and support
+  - Multi-channel agentic AI orchestration across customer journeys
+  - Compliant and trustworthy AI interactions for enterprise banking
+  - Knowledge retrieval through RAG for financial services
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Anthropic API, Google AI API, RAG]
+    ml: []
+    web: [React, FastAPI, SQLAlchemy, Kong Gateway, REST API, Pydantic, Material-UI,
+      Vite]
+    databases: [PostgreSQL, Vector search, Redis]
+    data: [RabbitMQ]
+    cloud: []
+    ops: [Docker, Kubernetes, Helm, Vitest, Jest, Playwright, pytest, CI/CD]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [OAuth2/OIDC, Keycloak]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7588424'
+  extracted_at: '2026-02-05T11:09:30.773425'

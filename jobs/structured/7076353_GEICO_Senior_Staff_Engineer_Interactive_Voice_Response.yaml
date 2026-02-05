@@ -1,0 +1,63 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Insurance provider using AI for customer service automation
+  use_cases:
+  - Interactive Voice Response (IVR) systems powered by AI for customer self-service
+  - Multi-agent AI systems for intelligent customer service automation across voice
+    and chat channels
+  - Natural language processing for understanding and responding to customer inquiries
+    in real-time
+  - Speech recognition and processing for voice-based customer interactions
+  - Intelligent automation to improve self-service rates and reduce reliance on human
+    agents
+position:
+  title: Senior Staff Engineer,  Interactive Voice Response - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design, development, and
+      deployment of AI applications with specific mention of LLMs,
+      multi-agent systems, and AI/ML models in production. The
+      engineer directly works on building and optimizing AI
+      systems rather than just supporting infrastructure for
+      others.
+  responsibilities:
+  - Design, develop, and deploy large-scale distributed AI applications that power
+    customer self-service across multiple communication channels including voice,
+    IVR, and chat
+  - Build and optimize multi-agent systems that enable intelligent, collaborative
+    decision-making to improve automation and customer experience
+  - Collaborate with cross-functional teams including engineering, product, and data
+    science to translate business requirements into scalable AI/ML solutions
+  - Ensure system reliability, scalability, and performance through best practices
+    in architecture, testing, and monitoring
+  - Stay at the forefront of AI and distributed systems research, bringing innovative
+    approaches and tools into production environment
+  - Mentor junior engineers and consistently share best practices to improve processes
+    within and across teams
+  use_cases:
+  - Interactive Voice Response (IVR) systems powered by AI for customer self-service
+  - Multi-agent AI systems for intelligent customer service automation across voice
+    and chat channels
+  - Natural language processing for understanding and responding to customer inquiries
+    in real-time
+  - Speech recognition and processing for voice-based customer interactions
+  - Intelligent automation to improve self-service rates and reduce reliance on human
+    agents
+  skills:
+    genai: [multi-agent systems, LLMs]
+    ml: [TensorFlow, PyTorch]
+    web: [REST APIs, microservices]
+    databases: [NoSQL databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, infrastructure as code, application monitoring]
+    languages: [Python, Java, C++, SQL, PowerShell]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7076353'
+  extracted_at: '2026-02-05T10:11:56.208475'

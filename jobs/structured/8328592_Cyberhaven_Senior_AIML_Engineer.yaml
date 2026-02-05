@@ -1,0 +1,68 @@
+company:
+  name: Cyberhaven
+  stage: Series B or later
+  focus: AI-enabled data security and DLP
+  use_cases:
+  - Process and analyze billions of workflow events in real-time from tens of thousands
+    of endpoints to understand data movement and detect security risks
+  - Deploy and scale AI-powered data lineage systems that track data across organizations
+    to identify sensitive information and potential threats
+  - Operationalize large language models and AI agents for data security applications,
+    including automated risk detection and threat prevention
+  - Enable real-time data loss prevention through AI analysis of enterprise workflows
+    and data patterns
+  - Provide enterprise-grade security monitoring and threat detection at sub-second
+    latency across massive datasets
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on production experience with large-
+      scale foundational models, transformer architectures, and AI
+      agents. The engineer will deploy, monitor, and iterate on
+      GenAI systems while operationalizing AI prototypes into
+      production services.
+  responsibilities:
+  - Architect, build, and optimize highly scalable and fault-tolerant systems that
+    process large graph datasets at enterprise scale, handling billions of events
+    in real time from tens of thousands of endpoints with sub-second latency
+  - Solve real-world performance and reliability problems through deep analysis, profiling,
+    and systematic troubleshooting in high-throughput distributed environments
+  - Develop and evolve a microservices-based architecture using technologies such
+    as Go, Kubernetes, Docker, and Redis in a continuously improving production stack
+  - Write hardened, security-first code capable of safely processing untrusted data
+    and resisting real-world attack vectors across large-scale internet-facing systems
+  - Partner with research and product teams to operationalize AI prototypes, turning
+    experimental models into robust, scalable, and production-ready services
+  - Build AI agents and orchestration workflows using frameworks such as LangChain,
+    LangGraph, Genkit, or similar technologies
+  use_cases:
+  - Process and analyze billions of workflow events in real-time from tens of thousands
+    of endpoints to understand data movement and detect security risks
+  - Deploy and scale AI-powered data lineage systems that track data across organizations
+    to identify sensitive information and potential threats
+  - Operationalize large language models and AI agents for data security applications,
+    including automated risk detection and threat prevention
+  - Enable real-time data loss prevention through AI analysis of enterprise workflows
+    and data patterns
+  - Provide enterprise-grade security monitoring and threat detection at sub-second
+    latency across massive datasets
+  skills:
+    genai: [LangChain, LangGraph, Genkit, LLMs, transformer-based architectures, AI
+        agents, prompt engineering, GenAI systems deployment, LLM evaluation pipelines]
+    ml: [model evaluation]
+    web: []
+    databases: [Redis, columnar databases]
+    data: [Kafka, Pub/Sub, data pipelines]
+    cloud: [GCS, BigQuery]
+    ops: [Kubernetes, Docker]
+    languages: [Go, Python]
+    domains: []
+    other: [distributed systems, microservices, real-time processing, security-first
+        code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8328592'
+  extracted_at: '2026-02-05T12:52:13.785468'

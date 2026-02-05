@@ -1,0 +1,63 @@
+company:
+  name: Five9
+  stage: Public
+  focus: Cloud contact center software platform
+  use_cases:
+  - Customer support automation through AI agents that handle customer inquiries and
+    resolve issues
+  - Multi-agent reasoning workflows for complex customer experience interactions in
+    contact centers
+  - RAG-powered knowledge retrieval to provide accurate, contextual responses to customer
+    queries
+  - Automated customer experience solutions with intelligent conversation handling
+    and routing
+position:
+  title: Senior Staff Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI Agent software platforms
+      with hands-on experience in LLMs, prompt orchestration,
+      function calling, multi-agent reasoning workflows, RAG
+      pipelines, and vector databases. The engineer will architect
+      and implement AI-enabled microservices, not just support
+      infrastructure for AI teams.
+  responsibilities:
+  - Architect and develop Five9's AI Agent software platform including AI-enabled
+    microservices and distributed systems
+  - Build and integrate LLM providers, embeddings, vector databases, RAG pipelines,
+    and structured output validation systems
+  - Implement prompt orchestration, function calling, and multi-agent reasoning workflows
+    for customer support applications
+  - Drive end-to-end platform architecture from requirements through design, implementation,
+    deployment, and production operations
+  - Set technology direction and mentor junior engineers while ensuring platform scalability,
+    reliability, and maintainability
+  - Design and operate distributed, event-driven systems with high reliability and
+    low latency for enterprise SaaS
+  use_cases:
+  - Customer support automation through AI agents that handle customer inquiries and
+    resolve issues
+  - Multi-agent reasoning workflows for complex customer experience interactions in
+    contact centers
+  - RAG-powered knowledge retrieval to provide accurate, contextual responses to customer
+    queries
+  - Automated customer experience solutions with intelligent conversation handling
+    and routing
+  skills:
+    genai: [LLMs, prompt orchestration, function calling, multi-agent reasoning, RAG
+        pipelines]
+    ml: [embeddings]
+    web: [Spring Boot, REST, gRPC]
+    databases: [vector databases]
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [CI/CD, SRE principles, tracing, logging, metrics, Docker, Kubernetes]
+    languages: [Java]
+    domains: []
+    other: [OAuth2/OIDC, JWT, mTLS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8063375'
+  extracted_at: '2026-02-05T11:57:02.905482'

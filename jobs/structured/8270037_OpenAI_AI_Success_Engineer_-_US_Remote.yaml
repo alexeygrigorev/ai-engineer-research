@@ -1,0 +1,65 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company
+  use_cases:
+  - Enterprise deployment and integration of OpenAI's AI platform including ChatGPT
+    Enterprise and APIs
+  - Workflow transformation using agentic AI capabilities and Codex for code generation
+  - Custom use case development through OpenAI's API platform and integration patterns
+  - Business process automation using OpenAI's enterprise AI tools and capabilities
+  - Strategic AI adoption across large enterprises, government agencies, and educational
+    institutions
+position:
+  title: AI Success Engineer - US Remote
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a post-sales customer success role focused on
+      technical enablement, deployment guidance, and adoption of
+      OpenAI's pre-built AI products (APIs, ChatGPT Enterprise,
+      Codex). The role involves configuring and implementing AI
+      solutions rather than building, training, fine-tuning, or
+      deploying models directly, which aligns with ai-support
+      classification.
+  responsibilities:
+  - Lead technical relationships for post-sale customers as trusted advisor on deployment
+    and value realization
+  - Own account health, adoption velocity, and ongoing technical deployment across
+    customer portfolio
+  - Serve as expert in OpenAI products including API, agentic platform, Codex, and
+    ChatGPT Enterprise
+  - Identify and validate use cases by embedding with customer teams to understand
+    workflows and pain points
+  - Coordinate multi-workstream initiatives including new product activation, change
+    management, and deployment planning
+  - Translate customer objectives into actionable adoption roadmaps with clear milestones
+    and KPIs
+  - Facilitate workshops on use case design, adoption best practices, and internal
+    enablement
+  - Surface customer feedback and technical blockers to Product, Engineering, and
+    Research teams
+  use_cases:
+  - Enterprise deployment and integration of OpenAI's AI platform including ChatGPT
+    Enterprise and APIs
+  - Workflow transformation using agentic AI capabilities and Codex for code generation
+  - Custom use case development through OpenAI's API platform and integration patterns
+  - Business process automation using OpenAI's enterprise AI tools and capabilities
+  - Strategic AI adoption across large enterprises, government agencies, and educational
+    institutions
+  skills:
+    genai: [OpenAI API, Prompt engineering, RAG, Fine-tuning, Embeddings]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, Containers, SSO, Enterprise security]
+    languages: [Python, JavaScript]
+    domains: [GDPR, HIPAA]
+    other: [SDKs, Technical account management, Solutions architecture, Program management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8270037'
+  extracted_at: '2026-02-05T12:27:41.026634'

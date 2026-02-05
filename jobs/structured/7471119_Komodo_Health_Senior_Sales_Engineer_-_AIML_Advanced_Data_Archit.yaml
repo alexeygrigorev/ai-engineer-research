@@ -1,0 +1,66 @@
+company:
+  name: Komodo Health
+  stage: null
+  focus: |-
+    Healthcare data analytics platform for life sciences and
+    healthcare
+  use_cases:
+  - Track detailed patient behaviors and treatment patterns using real-world healthcare
+    data
+  - Identify gaps in care and address unmet patient needs through advanced analytics
+  - Support life sciences commercial strategies and HEOR/RWE (Health Economics and
+    Outcomes Research/Real World Evidence) studies
+  - Enable pharmaceutical companies to unlock critical insights from healthcare claims
+    data and de-identified patient records
+  - Deliver AI-powered healthcare analytics for tracking disease burden and treatment
+    outcomes
+position:
+  title: Senior Sales Engineer - AI/ML Advanced Data Architecture - HealthTech
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer role focused on selling and
+      architecting solutions using Komodo's AI/ML platform, not
+      building or deploying models. The responsibilities involve
+      technical sales, solution design, and client-facing
+      activities around healthcare data and analytics - supporting
+      AI work rather than doing it.
+  responsibilities:
+  - Lead technical sales cycles for complex enterprise opportunities including discovery,
+    qualification, and solution architecture
+  - Serve as subject matter expert on Komodo's healthcare data assets and platform
+    capabilities, translating technical features into business value
+  - Architect cutting-edge solutions leveraging advanced data, machine learning, and
+    AI for Life Sciences and Healthcare customers
+  - Design and deliver bespoke technical demonstrations and proof-of-concepts that
+    showcase solution capabilities
+  - Partner cross-functionally with Product, Data Science, and Engineering teams to
+    deliver customized innovative solutions
+  - Mentor peers and junior team members, elevating technical skills and strategic
+    mindset across the Sales Engineering organization
+  use_cases:
+  - Track detailed patient behaviors and treatment patterns using real-world healthcare
+    data
+  - Identify gaps in care and address unmet patient needs through advanced analytics
+  - Support life sciences commercial strategies and HEOR/RWE (Health Economics and
+    Outcomes Research/Real World Evidence) studies
+  - Enable pharmaceutical companies to unlock critical insights from healthcare claims
+    data and de-identified patient records
+  - Deliver AI-powered healthcare analytics for tracking disease burden and treatment
+    outcomes
+  skills:
+    genai: []
+    ml: [AI and machine learning principles]
+    web: [APIs]
+    databases: [Snowflake]
+    data: [data warehousing, identity resolution, data de-identification]
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: []
+    domains: [HIPAA, GDPR, healthcare claims data]
+    other: [data privacy]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7471119'
+  extracted_at: '2026-02-05T10:57:45.614356'

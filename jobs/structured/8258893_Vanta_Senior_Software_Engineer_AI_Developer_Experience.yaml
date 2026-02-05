@@ -1,0 +1,55 @@
+company:
+  name: Vanta
+  stage: Growth Stage
+  focus: Trust management platform for security compliance
+  use_cases:
+  - AI-powered code generation to accelerate software development
+  - AI-assisted code review to improve code quality and catch issues earlier
+  - Intelligent testing tools to automate and enhance testing workflows
+  - Developer productivity enhancement through AI-powered tooling
+  - Secure developer environment with integrated AI capabilities
+position:
+  title: Senior Software Engineer, AI Developer Experience
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building AI-powered developer tools
+      and infrastructure, not on building or deploying AI models.
+      The engineer will implement AI tooling for code generation,
+      review, and testing, but is enabling other engineers to use
+      AI rather than directly working on models or AI systems.
+  responsibilities:
+  - Lead Vanta's AI tooling strategy for engineering, evaluating and implementing
+    AI-powered development tools including code generation, AI-assisted code review,
+    and intelligent testing tools
+  - Drive key developer experience initiatives such as bringing UI testing in-house,
+    modularizing the codebase for improved testability and isolation, and continuously
+    improving build and deployment systems
+  - Design and build developer tools and infrastructure that enable engineers across
+    all product teams to ship high-quality code efficiently
+  - Collaborate horizontally across engineering teams to understand pain points, identify
+    opportunities for improvement, and deliver solutions that scale across the organization
+  - Mentor engineers on best practices for development workflows, testing approaches,
+    and AI tool adoption
+  use_cases:
+  - AI-powered code generation to accelerate software development
+  - AI-assisted code review to improve code quality and catch issues earlier
+  - Intelligent testing tools to automate and enhance testing workflows
+  - Developer productivity enhancement through AI-powered tooling
+  - Secure developer environment with integrated AI capabilities
+  skills:
+    genai: [AI agents, AI tooling]
+    ml: []
+    web: [React, Node.js, APIs, full-stack applications]
+    databases: []
+    data: []
+    cloud: []
+    ops: [build systems, testing infrastructure, CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8258893'
+  extracted_at: '2026-02-05T12:25:47.352042'

@@ -1,0 +1,57 @@
+company:
+  name: Bee Techy
+  stage: null
+  focus: Software development agency for startups and enterprises
+  use_cases:
+  - Building cutting-edge software solutions for startups and enterprises
+  - Developing multilingual interfaces for global audiences using i18next
+  - Implementing secure payment flows using Stripe for e-commerce applications
+  - Integrating AI-powered features and third-party APIs into production applications
+  - Real-time notifications and user feedback systems
+  - Full-stack applications with server-side rendering and static site generation
+position:
+  title: Full Stack Developer with AI Model Experience (React.js/Node.js/TypeScript)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly requires training, fine-tuning, and
+      deploying AI/ML models and integrating them into production
+      applications. While this is primarily a full-stack position,
+      the hands-on work with AI models (training, fine-tuning,
+      deployment) goes beyond support roles and qualifies as
+      building AI systems.
+  responsibilities:
+  - Develop fast, responsive, and accessible user interfaces using Next.js and TypeScript
+  - Integrate backend services using TanStack/React-Query for data fetching and caching
+  - Build and manage robust RESTful APIs with Node.js and Express.js
+  - Create and optimize databases using PostgreSQL, ensuring data integrity, security,
+    and performance
+  - Implement authentication, authorization, and secure data handling using OAuth
+    and JWT
+  - Train, fine-tune, and deploy AI/ML models, integrating them into full-stack applications
+  - Prepare and manage datasets for AI model evaluation and production readiness
+  - Deploy and monitor AI models in cloud environments using AWS or GCP
+  use_cases:
+  - Building cutting-edge software solutions for startups and enterprises
+  - Developing multilingual interfaces for global audiences using i18next
+  - Implementing secure payment flows using Stripe for e-commerce applications
+  - Integrating AI-powered features and third-party APIs into production applications
+  - Real-time notifications and user feedback systems
+  - Full-stack applications with server-side rendering and static site generation
+  skills:
+    genai: [fine-tuning]
+    ml: [PyTorch, TensorFlow, Hugging Face Transformers, model training]
+    web: [Next.js, React.js, Node.js, Express.js, React-Hook-Form, Zod, Zustand, TanStack/React-Query,
+      i18next, Sonner, RESTful APIs]
+    databases: [PostgreSQL, Prisma ORM]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [OAuth, JWT, Docker, Git, CI/CD]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Stripe]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8203563'
+  extracted_at: '2026-02-05T12:13:48.934682'

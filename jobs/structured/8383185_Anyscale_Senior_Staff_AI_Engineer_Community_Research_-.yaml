@@ -1,0 +1,57 @@
+company:
+  name: Anyscale
+  stage: Series B
+  focus: Distributed computing platform for scalable AI/ML
+  use_cases:
+  - Scaling LLM training and fine-tuning workflows
+  - Building production RAG (Retrieval Augmented Generation) pipelines
+  - Orchestrating agentic AI systems and multi-agent architectures
+  - Distributed training and inference at scale for ML models
+  - LLM serving and deployment in production environments
+position:
+  title: Senior Staff AI Engineer (Community & Research) - EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building ML/AI systems
+      including training, fine-tuning, inference, RAG, and agents.
+      The engineer will build production-quality demos and
+      reference architectures showcasing Ray's capabilities across
+      LLM training, serving, and agentic AI systems, which is
+      direct work on AI implementations.
+  responsibilities:
+  - Present at conferences and engage with the ML/AI community through events, GitHub,
+    Discord, and social platforms
+  - Create production-quality demos, sample applications, and reference architectures
+    showcasing Ray's capabilities across AI workloads
+  - Develop deep expertise in Ray's core workload areas including distributed training,
+    LLM serving, and agentic AI
+  - Develop technical content including blogs, tutorials, workshops, and videos to
+    help ML engineers scale their workloads
+  - Bring real-world feedback from the community back to engineering and product teams
+    and contribute to Ray's open-source libraries
+  - Stay current with ML/AI research and translate emerging techniques into practical,
+    scalable implementations on Ray
+  use_cases:
+  - Scaling LLM training and fine-tuning workflows
+  - Building production RAG (Retrieval Augmented Generation) pipelines
+  - Orchestrating agentic AI systems and multi-agent architectures
+  - Distributed training and inference at scale for ML models
+  - LLM serving and deployment in production environments
+  skills:
+    genai: [HuggingFace, LLMs, RAG, agents, LoRA, QLoRA]
+    ml: [PyTorch, fine-tuning, RLHF, distributed training, inference, TensorFlow,
+      JAX, scikit-learn, CUDA]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: [AWS, GCP, Azure, SageMaker, Vertex AI, Azure ML]
+    ops: [Ray]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8383185'
+  extracted_at: '2026-02-05T13:02:03.494361'

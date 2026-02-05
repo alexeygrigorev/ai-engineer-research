@@ -1,0 +1,60 @@
+company:
+  name: BlackLine
+  stage: Public
+  focus: Cloud-based financial close automation software
+  use_cases:
+  - Automating and controlling the entire financial close process for enterprises
+  - Enhancing finance and accounting operational effectiveness through AI-powered
+    solutions
+  - Deploying LLM-based solutions for financial applications with proprietary data
+    and datasets
+  - Building scalable AI platforms for fintech applications with model orchestration
+    and fallback mechanisms
+position:
+  title: Staff Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs, RAG frameworks,
+      and production AI systems including model orchestration,
+      evaluation, and deployment. The engineer is directly
+      building AI solutions from idea to production, integrating
+      LLM APIs and implementing AI system architecture.
+  responsibilities:
+  - Utilize best-in-class models to deliver AI solutions from idea stage through production
+  - Collaborate with engineering and product teams to integrate AI solutions into
+    existing production processes
+  - Design and implement scalable AI system architecture including model orchestration,
+    caching strategies, and fallback mechanisms
+  - Evaluate and implement new AI technologies and methodologies to maintain cutting-edge
+    capabilities
+  - Work with production LLM APIs including handling rate limits, cost optimization,
+    and performance monitoring
+  - Implement RAG frameworks in production applications to enhance foundational models
+    for proprietary use cases
+  - Test AI systems using model evaluation, A/B testing, and production monitoring
+    methodologies
+  use_cases:
+  - Automating and controlling the entire financial close process for enterprises
+  - Enhancing finance and accounting operational effectiveness through AI-powered
+    solutions
+  - Deploying LLM-based solutions for financial applications with proprietary data
+    and datasets
+  - Building scalable AI platforms for fintech applications with model orchestration
+    and fallback mechanisms
+  skills:
+    genai: [OpenAI API, Anthropic API, Google LLM API, RAG, prompt engineering]
+    ml: [model evaluation, A/B testing]
+    web: [React]
+    databases: [vector databases, embedding systems]
+    data: [ETL, ELT, data pipelines]
+    cloud: []
+    ops: [MLOps, model deployment, cost optimization]
+    languages: [Java, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8236284'
+  extracted_at: '2026-02-05T12:18:47.025711'

@@ -1,0 +1,56 @@
+company:
+  name: Xenon Seven
+  stage: null
+  focus: IT solutions development and on-demand resources
+  use_cases:
+  - MLOps and LLMOps workflow automation for model deployment and orchestration
+  - Multi-workspace Databricks platform automation and governance at scale
+  - Secure integration between AWS cloud services and Databricks environments
+  - Automated workspace provisioning, catalog configuration, and environment setup
+  - Mosaic AI platform integration including gateway, model serving, and agents
+position:
+  title: Databricks Automation & AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building automation frameworks,
+      platform infrastructure, and deployment pipelines that
+      ENABLE AI/ML work rather than directly building, training,
+      or fine-tuning models. The engineer works on MLOps/LLMOps
+      workflows, workspace provisioning, and platform integration
+      - all infrastructure that supports others who work on AI
+      systems.
+  responsibilities:
+  - Build automation workflows for MLOps, LLMOps, and application deployment within
+    Databricks
+  - Enhance workspace onboarding automation including Unity Catalog, permissions,
+    and environment setup
+  - Develop reusable modules for workspace provisioning, catalog configuration, model
+    deployment, and governance workflows
+  - Integrate Mosaic AI components including Gateway, Model Serving, and Agents into
+    platform automation
+  - Ensure consistency, reliability, and scalability across multi-workspace environments
+  - Build AWS integrations using Lambda, API Gateway, and Service Principal authentication
+  - Automate Databricks Job orchestration, monitoring, and deployment pipelines
+  use_cases:
+  - MLOps and LLMOps workflow automation for model deployment and orchestration
+  - Multi-workspace Databricks platform automation and governance at scale
+  - Secure integration between AWS cloud services and Databricks environments
+  - Automated workspace provisioning, catalog configuration, and environment setup
+  - Mosaic AI platform integration including gateway, model serving, and agents
+  skills:
+    genai: []
+    ml: []
+    web: [API Gateway]
+    databases: []
+    data: [Unity Catalog]
+    cloud: [Databricks, AWS, AWS Lambda, IAM, Mosaic AI]
+    ops: [Docker, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8272984'
+  extracted_at: '2026-02-05T12:28:20.567027'

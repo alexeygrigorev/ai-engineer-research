@@ -1,0 +1,46 @@
+company:
+  name: G2i
+  stage: unknown
+  focus: LLM code evaluation and training
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Using human expert feedback to generate reward signals for reinforcement learning
+  - Improving AI code generation through expert ranking, editing, and justification
+position:
+  title: AI Software Engineer (C++)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves providing human feedback (ranking,
+      editing, critiquing code) for LLM training pipelines, not
+      building, deploying, or fine-tuning models. While it's
+      directly contributing to AI development, it's providing the
+      feedback signal rather than implementing the AI/ML systems
+      themselves.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Maintain smooth operation of the RLHF feedback loop
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Using human expert feedback to generate reward signals for reinforcement learning
+  - Improving AI code generation through expert ranking, editing, and justification
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C++]
+    domains: []
+    other: [code review, RLHF, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8254987'
+  extracted_at: '2026-02-05T12:24:30.022464'

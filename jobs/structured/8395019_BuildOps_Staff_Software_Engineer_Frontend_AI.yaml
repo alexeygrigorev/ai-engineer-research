@@ -1,0 +1,65 @@
+company:
+  name: BuildOps
+  stage: Series C
+  focus: Commercial contractor management software platform
+  use_cases:
+  - System of Action software that actively drives decisions and automates workflows
+    for commercial contractors
+  - AI-powered operational workflows including service department management and project
+    management
+  - Semi-autonomous workflows with human-in-the-loop decision making and oversight
+  - Real-time workflow orchestration and automation using AI to drive operational
+    efficiency
+  - Auditability and transparency features for automated actions with history, attribution,
+    and rollback capabilities
+position:
+  title: Staff Software Engineer, Frontend (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Staff Frontend Engineer role focused on building
+      UI/UX interfaces for AI-powered features ("OpsAI"), not
+      building, training, or deploying AI/ML models themselves.
+      The engineer works on frontend architecture, interaction
+      patterns, and user experience to present AI capabilities
+      from backend/ML teams, which is enabling AI work rather than
+      directly working on AI systems.
+  responsibilities:
+  - Define and evolve front-end architecture for AI-driven product experiences across
+    multiple modules and experiences
+  - Establish cohesive interaction model for AI as an operating layer across the platform
+  - Build novel AI interfaces including guardrails, safe-action patterns, and UX for
+    AI quality signals
+  - Own key UI technical decisions including state management, data loading patterns,
+    performance budgets, accessibility, and observability
+  - Partner with Design to create human-in-the-loop interaction patterns and collaborate
+    with backend/ML teams on API contracts
+  - Define and instrument UX and product metrics tied to AI success including time
+    saved, reduced errors, and adoption rates
+  use_cases:
+  - System of Action software that actively drives decisions and automates workflows
+    for commercial contractors
+  - AI-powered operational workflows including service department management and project
+    management
+  - Semi-autonomous workflows with human-in-the-loop decision making and oversight
+  - Real-time workflow orchestration and automation using AI to drive operational
+    efficiency
+  - Auditability and transparency features for automated actions with history, attribution,
+    and rollback capabilities
+  skills:
+    genai: [AI/LLM-powered UX patterns, Copilot, Claude Code, human-in-the-loop design]
+    ml: []
+    web: [React, component architecture, state management, design systems, accessibility,
+      streaming responses, REST APIs]
+    databases: []
+    data: [analytics]
+    cloud: []
+    ops: [observability]
+    languages: [TypeScript]
+    domains: []
+    other: [experimentation frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8395019'
+  extracted_at: '2026-02-05T13:05:54.498851'

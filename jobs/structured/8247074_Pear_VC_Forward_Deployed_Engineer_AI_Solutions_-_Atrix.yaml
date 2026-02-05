@@ -1,0 +1,58 @@
+company:
+  name: Pear VC
+  stage: Seed
+  focus: AI-native platform for pharma and biotech workflows
+  use_cases:
+  - Accelerate evidence generation for pharmaceutical companies
+  - Enable medical strategy teams with AI-powered insights
+  - Support commercial insights for life sciences organizations
+  - Transform complex scientific workflows into reliable AI-powered systems
+  - Deliver the right treatment to the right patient faster
+  - High-stakes decision support for medical, clinical, and commercial teams
+position:
+  title: Forward Deployed Engineer (AI Solutions) - Atrix
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      deploys and configures AI-native workflows for enterprise
+      customers. The role involves hands-on work with LLMs, prompt
+      engineering, AI evals, and optimizing AI-driven workflows to
+      transform scientific workflows into reliable AI-powered
+      systems. The engineer is responsible for configuring
+      templates, writing evals, and ensuring accuracy of AI-
+      generated outputs in production deployments.
+  responsibilities:
+  - Configure Atrix templates, pipelines, and AI workflows to match complex scientific
+    and medical processes
+  - Drive the full implementation lifecycle from onboarding through go-live and iteration
+  - Lead weekly customer calls and serve as the primary technical point of contact
+  - Build quick prototypes and workflow experiments for GTM initiatives
+  - Own business-sense QA and accuracy validation for customer deployments
+  - Enable AI evals to ensure high trust and quality of all workflows
+  - Own 3-5 enterprise accounts end-to-end and identify scalable patterns
+  - Create internal SOPs for deployment, QA, template configuration, and customer
+    onboarding
+  use_cases:
+  - Accelerate evidence generation for pharmaceutical companies
+  - Enable medical strategy teams with AI-powered insights
+  - Support commercial insights for life sciences organizations
+  - Transform complex scientific workflows into reliable AI-powered systems
+  - Deliver the right treatment to the right patient faster
+  - High-stakes decision support for medical, clinical, and commercial teams
+  skills:
+    genai: [LLMs, prompt engineering, AI-native tools]
+    ml: []
+    web: [React]
+    databases: []
+    data: [data engineering]
+    cloud: []
+    ops: [AI evals]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [customer implementation, technical consulting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8247074'
+  extracted_at: '2026-02-05T12:21:08.915797'

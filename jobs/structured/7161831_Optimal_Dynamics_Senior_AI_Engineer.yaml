@@ -1,0 +1,57 @@
+company:
+  name: Optimal Dynamics
+  stage: Series C
+  focus: AI-powered freight and transportation planning
+  use_cases:
+  - Freight and transportation planning optimization
+  - Data-driven logistics decision making
+  - Retrieval-augmented generation for knowledge-grounded AI outputs
+  - Document processing and information retrieval for logistics data
+  - AI-powered operational insights and revenue optimization
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building
+      RAG (Retrieval-Augmented Generation) capabilities end-to-
+      end, from data processing through production deployment. The
+      role involves direct work with AI systems including
+      grounding AI outputs in data, building AI services, and
+      establishing evaluation metrics for AI systems.
+  responsibilities:
+  - Own RAG initiatives end-to-end from problem framing and data readiness through
+    prototyping, iteration, and production launch
+  - Establish foundational components and practices for document processing, indexing,
+    retrieval, orchestration, and evaluation
+  - Build reliable services and APIs that are observable, secure, and designed for
+    scale in a cloud environment
+  - Define success metrics and drive continuous improvement via experimentation and
+    data-driven decisions
+  - Create durable team assets to make RAG development repeatable across products
+  - Collaborate cross-functionally to translate ambiguous needs into shippable capabilities
+    with clear business impact
+  - Mentor teammates and contribute to engineering culture around AI systems
+  use_cases:
+  - Freight and transportation planning optimization
+  - Data-driven logistics decision making
+  - Retrieval-augmented generation for knowledge-grounded AI outputs
+  - Document processing and information retrieval for logistics data
+  - AI-powered operational insights and revenue optimization
+  skills:
+    genai: [RAG]
+    ml: []
+    web: [API design, REST APIs]
+    databases: []
+    data: [information retrieval, document processing, indexing, search, A/B testing,
+      data pipelines]
+    cloud: [AWS]
+    ops: [evaluation methodologies]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7161831'
+  extracted_at: '2026-02-05T10:26:48.789349'

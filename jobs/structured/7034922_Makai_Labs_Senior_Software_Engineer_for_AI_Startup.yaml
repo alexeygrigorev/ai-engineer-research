@@ -1,0 +1,55 @@
+company:
+  name: Makai Labs
+  stage: null
+  focus: |-
+    Enterprise automation platform using AI and data with human-
+    machine teaming
+  use_cases:
+  - Enterprise automation through pre-built components and modules
+  - Human-machine teaming interface for operational and strategic challenges
+  - Workflow documentation and process diagramming from client discovery
+  - Client workflow analysis and process mapping
+  - Solutions that adapt to people rather than requiring people to adapt to software
+position:
+  title: Senior Software Engineer for AI Startup
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend software engineer role at an AI company
+      that focuses on Flask, Python, and microservices
+      architecture. The role involves building general software
+      infrastructure and applications, not directly building,
+      training, fine-tuning, or deploying AI models. While
+      supporting client discovery processes, the work is enabling
+      technology for an AI product rather than hands-on AI/ML
+      development.
+  responsibilities:
+  - Develop new features using Flask for backend applications
+  - Optimize applications for maximum speed and scalability
+  - Ensure the technical feasibility of UI/UX designs
+  - Collaborate with frontend developers and web designers to improve usability
+  - Write robust, clean, and documented code
+  - Maintain and enhance existing applications
+  - Conduct performance tests and ensure responsiveness and stability across all platforms
+  use_cases:
+  - Enterprise automation through pre-built components and modules
+  - Human-machine teaming interface for operational and strategic challenges
+  - Workflow documentation and process diagramming from client discovery
+  - Client workflow analysis and process mapping
+  - Solutions that adapt to people rather than requiring people to adapt to software
+  skills:
+    genai: []
+    ml: []
+    web: [Flask, microservices architecture, authorization mechanisms]
+    databases: [SQLAlchemy]
+    data: [pydantic]
+    cloud: []
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7034922'
+  extracted_at: '2026-02-05T10:07:06.678453'

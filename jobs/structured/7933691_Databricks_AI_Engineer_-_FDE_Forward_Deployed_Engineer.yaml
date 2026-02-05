@@ -1,0 +1,51 @@
+company:
+  name: Databricks
+  stage: Public
+  focus: Data and AI cloud platform
+  use_cases:
+  - Enterprise GenAI applications using RAG and retrieval techniques
+  - Multi-agent systems for complex task automation
+  - Text2SQL applications for natural language database querying
+  - Fine-tuned models for domain-specific applications
+  - Production-grade GenAI deployments with evaluation and optimization
+position:
+  title: AI Engineer - FDE (Forward Deployed Engineer)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that builds and
+      deploys GenAI solutions including RAG, multi-agent systems,
+      Text2SQL, and fine-tuning. The role involves hands-on work
+      with models (building, deploying, optimizing) to production,
+      not just enabling others or providing infrastructure.
+  responsibilities:
+  - Develop cutting-edge GenAI solutions using Mosaic AI research to solve customer
+    problems
+  - Own production rollouts of consumer and internally facing GenAI applications
+  - Serve as a trusted technical advisor to customers across various domains
+  - Present at conferences as a thought leader internally and externally
+  - Collaborate cross-functionally with product and engineering teams to influence
+    priorities and shape product roadmap
+  use_cases:
+  - Enterprise GenAI applications using RAG and retrieval techniques
+  - Multi-agent systems for complex task automation
+  - Text2SQL applications for natural language database querying
+  - Fine-tuned models for domain-specific applications
+  - Production-grade GenAI deployments with evaluation and optimization
+  skills:
+    genai: [HuggingFace, LangChain, DSPy, RAG, Multi-agent systems, Text2SQL, Fine-tuning,
+      LLMOps]
+    ml: [PyTorch, scikit-learn]
+    web: []
+    databases: []
+    data: [pandas, Apache Spark]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7933691'
+  extracted_at: '2026-02-05T11:42:10.633497'

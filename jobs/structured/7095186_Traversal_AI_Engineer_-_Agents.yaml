@@ -1,0 +1,63 @@
+company:
+  name: Traversal
+  stage: Unknown
+  focus: |-
+    AI Site Reliability Engineer for enterprise - AI agents for
+    observability and incident troubleshooting
+  use_cases:
+  - Troubleshoot, remediate, and prevent complex production incidents in enterprise
+    environments
+  - Analyze large-scale observability data including logs, metrics, and traces
+  - Automate incident debugging and resolution through intelligent agent workflows
+  - Provide AI-powered site reliability engineering capabilities
+  - Enable engineers to focus on creative work by reducing firefighting
+  - Scale agentic architectures across distributed systems and environments
+position:
+  title: AI Engineer - Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs and AI agents
+      including designing multi-step reasoning workflows, prompt
+      engineering, function calling, agentic orchestration, and
+      deploying frontier LLMs in production. The engineer will
+      directly build, optimize, and deploy AI systems rather than
+      just supporting infrastructure or data pipelines for others.
+  responsibilities:
+  - Design and build multi-step reasoning workflows that use LLMs and other components
+    to analyze large-scale observability data
+  - Develop tooling for prompt engineering, function calling, and agentic orchestration
+    that optimizes latency, reliability, and performance
+  - Integrate AI components into a robust, scalable production environment with low
+    latency and high uptime requirements
+  - Prototype and test new LLMs, prompting strategies, and fine-tuning approaches
+    to improve the quality and coverage of agentic responses
+  - Work closely with backend, infra, and product teams to ensure AI agents are well-integrated
+    into the broader system
+  - Build evaluation and monitoring tools for agent performance and reliability across
+    production workloads
+  use_cases:
+  - Troubleshoot, remediate, and prevent complex production incidents in enterprise
+    environments
+  - Analyze large-scale observability data including logs, metrics, and traces
+  - Automate incident debugging and resolution through intelligent agent workflows
+  - Provide AI-powered site reliability engineering capabilities
+  - Enable engineers to focus on creative work by reducing firefighting
+  - Scale agentic architectures across distributed systems and environments
+  skills:
+    genai: [prompt engineering, LLMs, function calling, agentic frameworks, model
+        fine-tuning]
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: [observability, logs, metrics, traces]
+    cloud: [distributed systems]
+    ops: [Kubernetes, Terraform, ML orchestration platforms]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7095186'
+  extracted_at: '2026-02-05T10:15:07.646964'

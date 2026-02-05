@@ -1,0 +1,55 @@
+company:
+  name: August Law
+  stage: Seed
+  focus: AI agents for legal document automation and workflows
+  use_cases:
+  - Legal document drafting, review, and analysis at scale
+  - Automating lawyer reasoning, research, and drafting through AI agents
+  - Processing thousands of documents simultaneously with high accuracy
+  - Enabling law firms to provide AI tools directly to their clients
+  - Supporting legal workflows across multiple languages and jurisdictions
+  - Automating knowledge work for mid-market law firms
+position:
+  title: Founding AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building AI agents that mimic lawyer
+      reasoning and automate legal workflows. The engineer will
+      design and scale production-grade agents using LLMs,
+      directly developing agentic systems that perform legal
+      tasks.
+  responsibilities:
+  - Build and deploy agentic systems using Python to automate, evaluate, and scale
+    end-to-end legal workflows
+  - Rapidly prototype, evaluate, integrate, and test new product features in partnership
+    with customers and legal team
+  - Implement streaming, long-running tasks, procedural UX, and AI-native workflows
+    for new legal tasks
+  - Design and scale production-grade agents that perform legal tasks with expert-level
+    reasoning
+  - Deploy AI systems in high-stakes workflows used by real lawyers globally
+  - Balance state-of-the-art AI approaches with pragmatism in product development
+  use_cases:
+  - Legal document drafting, review, and analysis at scale
+  - Automating lawyer reasoning, research, and drafting through AI agents
+  - Processing thousands of documents simultaneously with high accuracy
+  - Enabling law firms to provide AI tools directly to their clients
+  - Supporting legal workflows across multiple languages and jurisdictions
+  - Automating knowledge work for mid-market law firms
+  skills:
+    genai: [LLMs, agents, agentic systems]
+    ml: []
+    web: [streaming]
+    databases: [database systems]
+    data: []
+    cloud: [cloud infrastructure]
+    ops: [Kubernetes, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7569421'
+  extracted_at: '2026-02-05T11:07:34.411601'

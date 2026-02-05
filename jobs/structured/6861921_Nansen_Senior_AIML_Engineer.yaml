@@ -1,0 +1,53 @@
+company:
+  name: Nansen
+  stage: null
+  focus: Blockchain analytics platform for crypto investors
+  use_cases:
+  - Analyze vast amounts of blockchain data to identify patterns and insights
+  - Provide real-time, actionable insights for crypto investors
+  - Enable data-driven decision-making in cryptocurrency and Web3 markets
+  - Enhance blockchain analytics platform with cutting-edge AI capabilities
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with AI/ML models,
+      including development, monitoring, and integration of modern
+      AI systems including LLMs and OpenAI APIs. The job
+      explicitly states "develop and monitor AI models" and
+      requires expertise in ML frameworks like PyTorch and
+      TensorFlow, confirming it's building AI solutions rather
+      than supporting them.
+  responsibilities:
+  - Lead the design, implementation, and use of AI/ML models to process and analyze
+    blockchain data, ensuring high performance and scalability
+  - Collaborate with product managers and engineers to integrate AI/ML models into
+    Nansen's platform, enhancing its analytical capabilities and improving user experience
+  - Stay abreast of the latest developments in AI/ML and blockchain technologies,
+    applying innovative approaches to solve complex challenges
+  - Mentor junior engineers and promote best practices in AI/ML development across
+    the team
+  - Work closely with cross-functional teams to align AI/ML initiatives with business
+    objectives and customer needs
+  use_cases:
+  - Analyze vast amounts of blockchain data to identify patterns and insights
+  - Provide real-time, actionable insights for crypto investors
+  - Enable data-driven decision-making in cryptocurrency and Web3 markets
+  - Enhance blockchain analytics platform with cutting-edge AI capabilities
+  skills:
+    genai: [OpenAI, LLMs]
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: [data engineering]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6861921'
+  extracted_at: '2026-02-05T09:56:21.579290'

@@ -1,0 +1,59 @@
+company:
+  name: CareSource
+  stage: Public
+  focus: Healthcare insurance and managed care
+  use_cases:
+  - Generative AI (LLM-based) applications for business workflows
+  - Agentic AI solutions deployed through user interfaces
+  - NLP-driven capabilities integrated into operational processes
+  - AI model outputs translated into actionable business workflows
+  - Healthcare industry applications using AI technologies
+  - Rapid prototyping and deployment of AI-powered business applications
+position:
+  title: Data Solutions AI Application Developer III - Front-end Development with
+    Python experience
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building user interfaces and
+      applications that operationalize AI solutions developed by
+      others. The role primarily uses low-code platforms and UI
+      development to expose AI capabilities, not building,
+      training, or deploying the AI models themselves. It serves
+      as a bridge between analytics teams and business execution.
+  responsibilities:
+  - Design, configure, test, and deploy AI-enablement applications using low-code/no-code
+    platforms
+  - Develop intuitive user interfaces that expose generative, agentic, and NLP-based
+    AI capabilities to business teams
+  - Translate model outputs into business workflows, integrating with existing platforms
+    and use cases
+  - Collaborate with data engineers and data scientists to transition solutions from
+    analytical environments into production
+  - Develop Python and SQL logic to support automation, orchestration, and system
+    integration where low-code tools are insufficient
+  - Conduct application performance testing and troubleshooting efforts to enhance
+    reliability and ensure compliance standards
+  use_cases:
+  - Generative AI (LLM-based) applications for business workflows
+  - Agentic AI solutions deployed through user interfaces
+  - NLP-driven capabilities integrated into operational processes
+  - AI model outputs translated into actionable business workflows
+  - Healthcare industry applications using AI technologies
+  - Rapid prototyping and deployment of AI-powered business applications
+  skills:
+    genai: [Generative AI, Agentic AI, Microsoft Copilot Studio]
+    ml: []
+    web: [Streamlit, Flask, FastAPI, Django]
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: [Azure, AWS, GCP]
+    ops: [CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: [Microsoft Power Apps, UIPath, Low-code/no-code platforms, Agile development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8020778'
+  extracted_at: '2026-02-05T11:50:01.048129'

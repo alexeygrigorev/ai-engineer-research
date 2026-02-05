@@ -1,0 +1,52 @@
+company:
+  name: Writer
+  stage: Series B or later
+  focus: Enterprise generative AI platform for building AI agents
+  use_cases:
+  - Enterprise AI agents grounded in company data for business transformation
+  - Agentic workflows powered by enterprise-grade LLMs
+  - Secure and scalable generative AI applications for enterprise productivity
+  - Low-latency AI model integration into enterprise platforms
+position:
+  title: Software engineer, generative AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and deploying generative AI
+      applications using LLMs, vector databases, and agentic
+      frameworks. The engineer is directly working ON AI systems,
+      not just supporting infrastructure.
+  responsibilities:
+  - Design and develop robust, scalable, and secure generative AI services and applications
+    using Python and modern frameworks
+  - Build and optimize high-performance, low-latency APIs and microservices for integrating
+    advanced AI models and agentic workflows
+  - Collaborate with cross-functional teams to translate business needs into innovative
+    AI solutions from concept to production
+  - Implement and maintain responsive user interfaces using React and TypeScript for
+    backend enablement
+  - Partner with DevOps teams on continuous deployment, logging, and monitoring to
+    ensure performance and reliability
+  - Own key architectural components ensuring best practices in code quality, security,
+    and maintainability
+  use_cases:
+  - Enterprise AI agents grounded in company data for business transformation
+  - Agentic workflows powered by enterprise-grade LLMs
+  - Secure and scalable generative AI applications for enterprise productivity
+  - Low-latency AI model integration into enterprise platforms
+  skills:
+    genai: [LLMs, agentic frameworks, RAG]
+    ml: []
+    web: [microservices architecture, RESTful APIs, FastAPI, React]
+    databases: [vector databases, Pinecone, Weaviate, pgvector, PostgreSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Asyncio, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8233169'
+  extracted_at: '2026-02-05T12:17:44.954531'

@@ -1,0 +1,53 @@
+company:
+  name: Adevinta
+  stage: Public
+  focus: Online vehicle marketplace and classifieds
+  use_cases:
+  - Automotive marketplace with vehicle listings, financing, and leasing solutions
+  - AI-powered customer experience enhancements for 1.6M vehicle listings
+  - Agentic AI systems for automated workflows and customer interactions
+  - RAG-based applications for vehicle search and recommendations
+  - Multi-cloud AI services integration across AWS Bedrock and Google Vertex AI
+position:
+  title: Senior AI/ML Ops Engineer (d/f/m)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI/ML Ops Engineer role focused on building
+      infrastructure, tooling, and platforms that enable AI work
+      rather than directly building models. The responsibilities
+      include designing AI infrastructure, managing cloud AI
+      services (Bedrock, Vertex AI), supporting deployment of
+      agentic frameworks, and implementing observability - all
+      platform/support functions that enable others to build AI
+      systems.
+  responsibilities:
+  - Design and build AI infrastructure and tooling across AWS and GCP platforms
+  - Support deployment and scaling of agentic frameworks like LangChain and LangGraph
+  - Manage RAG pipelines including vector database operations and tool orchestration
+  - Implement observability, monitoring, and compliance for AI/ML services
+  - Optimize AI/ML workloads through cloud scaling mechanisms and cost management
+  - Automate workflows and operations using scripting and infrastructure as code
+  - Mentor team members and software engineers on SRE principles and best practices
+  use_cases:
+  - Automotive marketplace with vehicle listings, financing, and leasing solutions
+  - AI-powered customer experience enhancements for 1.6M vehicle listings
+  - Agentic AI systems for automated workflows and customer interactions
+  - RAG-based applications for vehicle search and recommendations
+  - Multi-cloud AI services integration across AWS Bedrock and Google Vertex AI
+  skills:
+    genai: [LangChain, LangGraph, RAG]
+    ml: []
+    web: []
+    databases: [Elastic/OpenSearch, S3 Vector, Milvus, QDrant]
+    data: []
+    cloud: [Bedrock, Vertex AI, AWS, GCP]
+    ops: [Kubernetes, AWS CDK, pulumi, terragrunt, Docker, monitoring, logging, alerting]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8355985'
+  extracted_at: '2026-02-05T12:58:30.323642'

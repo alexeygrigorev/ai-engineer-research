@@ -1,0 +1,50 @@
+company:
+  name: PwC
+  stage: Public
+  focus: Professional services with software solutions
+  use_cases:
+  - Software solutions for digital transformation and business performance enhancement
+  - Microservices-based applications with REST APIs and event-driven architecture
+  - Client-facing software projects across various industries
+  - Enterprise applications leveraging AI development tools for efficiency
+position:
+  title: AI First Software Engineer - Senior Associate
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is titled "AI First Software Engineer" but the
+      actual responsibilities focus on general software
+      engineering - building microservices, REST APIs, and web
+      applications using Java, Spring Boot, Docker, and
+      Kubernetes. The AI-related requirements are limited to using
+      AI development tools (GitHub CoPilot, Cursor) and
+      "implementing AI thinking," which means applying AI concepts
+      to improve efficiency rather than building or deploying
+      AI/ML models directly.
+  responsibilities:
+  - Mentor and guide junior team members to foster their development
+  - Cultivate substantial relationships with clients to understand their needs
+  - Analyze project requirements and deliver quality results
+  - Work with cross-functional teams to confirm project alignment
+  - Maintain awareness of industry trends to drive continuous improvement
+  use_cases:
+  - Software solutions for digital transformation and business performance enhancement
+  - Microservices-based applications with REST APIs and event-driven architecture
+  - Client-facing software projects across various industries
+  - Enterprise applications leveraging AI development tools for efficiency
+  skills:
+    genai: []
+    ml: []
+    web: [Spring Boot, Spring Cloud, Microservices, REST API, Event Driven Design]
+    databases: [Relational databases, NoSQL databases]
+    data: [Kafka, Apache NiFi]
+    cloud: []
+    ops: [Knative, Docker, Kubernetes]
+    languages: [Java, Python, JavaScript]
+    domains: []
+    other: [Agile Methodologies, GitHub CoPilot, Cursor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7327457'
+  extracted_at: '2026-02-05T10:39:41.232068'

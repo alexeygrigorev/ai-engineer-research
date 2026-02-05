@@ -1,0 +1,65 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: |-
+    Insurance provider offering auto, home, and other insurance
+    coverage
+  use_cases:
+  - Modernizing legacy CRM systems into scalable, connected solutions for insurance
+    agents
+  - Enabling seamless customer interactions across Chat, SMS, and email channels
+  - Integrating AI-powered services into insurance business workflows and customer
+    support systems
+  - Building high performance, low-latency platforms for insurance business transformation
+  - Implementing self-service and incident response platforms for improved operational
+    efficiency
+position:
+  title: Senior Software Engineer- Artificial Intelligence
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves integrating AI models and services into
+      existing products and workflows, but the primary focus is on
+      platform engineering, CRM modernization with Dynamics 365,
+      and full-stack development. The engineer is not building,
+      training, or fine-tuning models directly, but rather
+      integrating and deploying them within a broader software
+      architecture.
+  responsibilities:
+  - Collaborate with product managers, team members, customers, and other engineering
+    teams to solve complex problems
+  - Integrate AI models and services into existing products, systems, and business
+    workflows
+  - Build prototypes, conduct experiments, and develop production ready systems ensuring
+    privacy, security, and ethical considerations
+  - Develop and execute technical software development strategy including self-service,
+    business continuity, backup/restores, and incident response platforms
+  - Accountable for the quality, usability, and performance of solutions
+  - Lead projects from the front and interact with clients and sponsors on a regular
+    basis
+  - Take on-call and operational support responsibilities
+  use_cases:
+  - Modernizing legacy CRM systems into scalable, connected solutions for insurance
+    agents
+  - Enabling seamless customer interactions across Chat, SMS, and email channels
+  - Integrating AI-powered services into insurance business workflows and customer
+    support systems
+  - Building high performance, low-latency platforms for insurance business transformation
+  - Implementing self-service and incident response platforms for improved operational
+    efficiency
+  skills:
+    genai: []
+    ml: []
+    web: [REST, GRPC, API Gateway, API Management]
+    databases: [MySQL, PostgreSQL]
+    data: []
+    cloud: [Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Java, Python, Go]
+    domains: []
+    other: [Microsoft Dynamics 365, Power Platform]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8351679'
+  extracted_at: '2026-02-05T12:58:00.868393'

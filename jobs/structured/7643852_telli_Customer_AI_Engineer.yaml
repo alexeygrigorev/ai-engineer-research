@@ -1,0 +1,55 @@
+company:
+  name: telli
+  stage: Seed
+  focus: AI-native phone system with voice agents
+  use_cases:
+  - AI voice agents handling repetitive customer calls at scale
+  - Managing human and AI teams on a unified phone platform
+  - Automating customer communication workflows for businesses
+  - Replacing low-quality outsourced call centers with AI agents
+  - Improving customer experience through AI-first phone systems
+position:
+  title: Customer AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building, testing, and optimizing
+      AI voice agents that handle customer conversations. The
+      candidate must have experience with AI agents, prompt
+      engineering, and evaluations, with hands-on implementation
+      of AI systems rather than just supporting infrastructure.
+  responsibilities:
+  - 'Customer success from a technical angle: act as the primary technical point of
+    contact for key account customers, from onboarding to scaling'
+  - 'Design and implement AI agents: build, test, and optimize telli agents that handle
+    real customer conversations at scale'
+  - 'Support and debug: investigate customer issues, troubleshoot technical problems,
+    and work with engineering to ship fixes fast'
+  - 'Enable self-service: improve documentation, prompt templates, and guides so customers
+    can solve problems independently'
+  - 'Help shape platform: surface customer insights, identify missing features, and
+    collaborate with product to improve tools'
+  - 'Build PoCs, Integrations & Workflows: prototype improvements, create internal
+    workflows, and help build integrations to 3rd party systems'
+  use_cases:
+  - AI voice agents handling repetitive customer calls at scale
+  - Managing human and AI teams on a unified phone platform
+  - Automating customer communication workflows for businesses
+  - Replacing low-quality outsourced call centers with AI agents
+  - Improving customer experience through AI-first phone systems
+  skills:
+    genai: [prompt engineering, AI agents]
+    ml: []
+    web: [APIs, REST, web applications, integrations]
+    databases: []
+    data: []
+    cloud: []
+    ops: [troubleshooting]
+    languages: [Python, English, German]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7643852'
+  extracted_at: '2026-02-05T11:17:15.442941'

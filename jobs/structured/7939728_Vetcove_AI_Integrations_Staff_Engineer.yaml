@@ -1,0 +1,51 @@
+company:
+  name: Vetcove
+  stage: Series B
+  focus: Veterinary software and procurement marketplace
+  use_cases:
+  - Integrating AI models into veterinary practice management system to enhance product
+    capabilities
+  - Enhancing veterinary marketplace and ecommerce platforms with AI-powered features
+  - Improving veterinary software user experience through ChatGPT and other LLM integrations
+  - Supporting veterinary organizations with AI tools to focus more on patient care
+position:
+  title: AI Integrations Staff Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI models including
+      integrating ChatGPT, fine-tuning models for optimal
+      performance, and developing AI-powered application features.
+      The engineer is directly working with and adapting AI
+      models, not just providing infrastructure or support.
+  responsibilities:
+  - Evaluating and selecting the most appropriate AI models for products based on
+    business needs
+  - Collaborating with the data science team to fine-tune AI models for optimal performance
+  - Developing and maintaining AI-powered application features using Python
+  - Testing and validating AI model performance in real-world scenarios and troubleshooting
+    issues
+  - Staying current with AI technology advancements and identifying innovation opportunities
+  - Working directly with CTO and engineering team to evolve the platform and products
+  use_cases:
+  - Integrating AI models into veterinary practice management system to enhance product
+    capabilities
+  - Enhancing veterinary marketplace and ecommerce platforms with AI-powered features
+  - Improving veterinary software user experience through ChatGPT and other LLM integrations
+  - Supporting veterinary organizations with AI tools to focus more on patient care
+  skills:
+    genai: [LangChain, OpenAI/ChatGPT API, prompt engineering, LLM fine-tuning]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7939728'
+  extracted_at: '2026-02-05T11:43:26.360710'

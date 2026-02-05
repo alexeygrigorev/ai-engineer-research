@@ -1,0 +1,57 @@
+company:
+  name: Miro
+  stage: Public
+  focus: Visual workspace for innovation and collaboration
+  use_cases:
+  - AI-powered workflows that turn intent into structured steps, suggestions, and
+    actions on the canvas
+  - Help teams go from idea to outcome faster using AI-generated workflows
+  - Enabling users to create, understand, run, and trust AI workflows directly in
+    their visual workspace
+  - Mainstream product AI experience for millions of users at work
+  - Collaborative AI interactions in a real-time visual environment
+position:
+  title: Senior Frontend Engineer, AI Flows
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior Frontend Engineer role focused on building
+      UI interfaces for AI-powered workflows. The engineer will
+      create the frontend layer that displays AI functionality but
+      will NOT build, train, fine-tune, or deploy the actual AI
+      models - they are working on the presentation layer and user
+      experience around AI features.
+  responsibilities:
+  - Design and build highly interactive, visual UI on top of Miro's real-time canvas
+  - 'Shape the core Flows experience: how users create, understand, run, and trust
+    AI workflows'
+  - Turn fuzzy product ideas and design intent into clean, intuitive, polished interfaces
+  - Work closely with product and design to explore new interaction patterns for AI
+    in a collaborative environment
+  - Take ownership end-to-end from problem framing to implementation to iteration
+    and refinement
+  - Improve performance, architecture, and UX quality wherever there is friction
+  use_cases:
+  - AI-powered workflows that turn intent into structured steps, suggestions, and
+    actions on the canvas
+  - Help teams go from idea to outcome faster using AI-generated workflows
+  - Enabling users to create, understand, run, and trust AI workflows directly in
+    their visual workspace
+  - Mainstream product AI experience for millions of users at work
+  - Collaborative AI interactions in a real-time visual environment
+  skills:
+    genai: []
+    ml: []
+    web: [React, real-time UI, front-end architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8327595'
+  extracted_at: '2026-02-05T12:51:49.989152'

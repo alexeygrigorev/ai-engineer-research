@@ -1,0 +1,52 @@
+company:
+  name: Ramp
+  stage: Series C or later
+  focus: Financial operations platform with AI-powered automation
+  use_cases:
+  - AI-powered developer tooling and infrastructure to accelerate engineering productivity
+  - Platform for agent-driven engineering enabling engineers to build software faster
+  - AI coding tools and automation to offload development work and improve velocity
+  - Internal developer platforms integrating AI capabilities into Ramp's engineering
+    workflows
+position:
+  title: Software Engineer, AI DevX
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building developer tooling and infrastructure
+      that enables other engineers to use AI tools more
+      effectively. The engineer is NOT building, training, fine-
+      tuning, or deploying AI models/agents themselves, but rather
+      creating platforms, tooling, and best practices that support
+      other developers in leveraging AI for their work.
+  responsibilities:
+  - Stay at the forefront of the AI development ecosystem, evaluating emerging tools
+    and making informed technology adoption decisions
+  - Drive proficiency with AI coding tools and practices across the engineering organization
+  - Build platforms that enable developers to offload work to AI and improve AI performance
+    on Ramp-specific development tasks
+  - Gather developer feedback, identify friction points, and iterate on solutions
+    that improve developer velocity
+  - Grow AI vendor partnerships and serve as the advocate for Ramp's engineers
+  use_cases:
+  - AI-powered developer tooling and infrastructure to accelerate engineering productivity
+  - Platform for agent-driven engineering enabling engineers to build software faster
+  - AI coding tools and automation to offload development work and improve velocity
+  - Internal developer platforms integrating AI capabilities into Ramp's engineering
+    workflows
+  skills:
+    genai: [AI coding tools, AI coding agents]
+    ml: []
+    web: []
+    databases: []
+    data: [Data Engineering]
+    cloud: []
+    ops: [Bash/Unix, Docker, Terraform]
+    languages: [Python]
+    domains: []
+    other: [AI vendor partnerships]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7503472'
+  extracted_at: '2026-02-05T11:01:36.635011'

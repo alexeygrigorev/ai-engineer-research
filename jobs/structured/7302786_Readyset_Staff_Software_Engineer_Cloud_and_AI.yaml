@@ -1,0 +1,62 @@
+company:
+  name: Readyset
+  stage: Growth stage
+  focus: |-
+    Database cache with zero integration cost and AI-native
+    cloud infrastructure
+  use_cases:
+  - Building AI-native cloud infrastructure powering data-intensive products
+  - Ensuring data freshness for AI systems to maintain user trust and prevent stale
+    results
+  - Designing structured retrievable memory systems for reliable long-term agent behavior
+  - Optimizing AI system costs through batching, caching, and smart model routing
+    for re-embedding, reranker passes, and LLM calls
+  - Deploying production-grade AI systems that are responsive, reliable, and affordable
+    at enterprise scale
+position:
+  title: Staff Software Engineer (Cloud and AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building AI-native infrastructure
+      including retrieval pipelines, memory systems, agent
+      orchestration, and LLM integration. The engineer will work
+      directly on embedding, reranking, and agent systems, not
+      just supporting tools for others.
+  responsibilities:
+  - Design and own critical services, developing robust, scalable, and simple-to-operate
+    production systems
+  - Lead high-impact architectural decisions balancing speed with engineering for
+    3–4 9s availability
+  - Work across the stack from distributed cloud infrastructure to AI-driven features
+    like retrieval, memory, and agent orchestration
+  - Collaborate with leadership and product teams to translate ambitious ideas into
+    reality quickly
+  - Act as a technical leader by mentoring engineers, driving engineering culture,
+    and shaping development practices
+  - Contribute to Readyset's engineering strategy and vision beyond individual projects
+  use_cases:
+  - Building AI-native cloud infrastructure powering data-intensive products
+  - Ensuring data freshness for AI systems to maintain user trust and prevent stale
+    results
+  - Designing structured retrievable memory systems for reliable long-term agent behavior
+  - Optimizing AI system costs through batching, caching, and smart model routing
+    for re-embedding, reranker passes, and LLM calls
+  - Deploying production-grade AI systems that are responsive, reliable, and affordable
+    at enterprise scale
+  skills:
+    genai: [LLMs, retrieval pipelines, memory systems, agent frameworks, agent orchestration]
+    ml: []
+    web: []
+    databases: [MySQL, Postgres]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [distributed systems, caching]
+    languages: [Python, Golang, Java, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7302786'
+  extracted_at: '2026-02-05T10:36:05.400955'

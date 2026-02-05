@@ -1,0 +1,57 @@
+company:
+  name: Zillow
+  stage: Public
+  focus: Real estate platform and marketplace
+  use_cases:
+  - Self-service customer support through interactive agent-driven chat interface
+  - Automated resolution of common customer and frontline issues
+  - Natural language query handling for Zillow's real estate products and services
+  - Internal team support and knowledge access through conversational AI
+  - Compliant and trustworthy help content delivery across customer touchpoints
+position:
+  title: Conversational AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role because the engineer will design,
+      build, and deploy intelligent chat agents and agentic
+      systems. The work involves hands-on development with LLMs
+      including prompt engineering, optimizing natural language
+      understanding/generation, and directly applying machine
+      learning models to create conversational AI experiences.
+  responsibilities:
+  - Design, build, and deploy intelligent chat agents and automated workflows to resolve
+    customer and frontline issues
+  - Integrate core systems like Salesforce with AI tools to create unified, compliant
+    user experiences
+  - Develop and optimize prompts to ensure AI delivers accurate, relevant answers
+    and help content
+  - Evaluate, onboard, and manage AI/ML tools and emerging technologies to enhance
+    system performance
+  - Implement safeguards and monitoring to maintain accuracy, prevent misinformation,
+    and build user trust
+  - Apply machine learning and large language models to improve natural language understanding
+    and generation in chat agents
+  use_cases:
+  - Self-service customer support through interactive agent-driven chat interface
+  - Automated resolution of common customer and frontline issues
+  - Natural language query handling for Zillow's real estate products and services
+  - Internal team support and knowledge access through conversational AI
+  - Compliant and trustworthy help content delivery across customer touchpoints
+  skills:
+    genai: [Large Language Models, Prompt Engineering, Conversational AI, Chatbots,
+      Agentic Systems]
+    ml: [Machine Learning, Natural Language Processing]
+    web: [API Integration]
+    databases: [Salesforce]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8348227'
+  extracted_at: '2026-02-05T12:57:54.026461'

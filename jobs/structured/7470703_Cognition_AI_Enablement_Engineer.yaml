@@ -1,0 +1,62 @@
+company:
+  name: Cognition
+  stage: Series B
+  focus: |-
+    Applied AI lab building software agents and AI development
+    tools
+  use_cases:
+  - AI software engineering agents that can build end-to-end software
+  - AI-native IDEs for collaborative development workflows
+  - Agentic workflows integrated into day-to-day development processes
+  - Automated coding, debugging, and project assistance for engineering teams
+  - Knowledge management through DeepWiki and tool integrations via MCP
+  - Scalable AI adoption and enablement programs for enterprise engineering organizations
+position:
+  title: AI Enablement Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Forward Deployed/Enablement Engineer role that
+      helps customers adopt AI tools (Devin, Windsurf) and
+      integrate agentic workflows. The engineer teaches others to
+      use AI systems and provides infrastructure enablement rather
+      than building, training, or fine-tuning the AI models
+      themselves.
+  responsibilities:
+  - Lead interactive programs for enterprise engineering teams including live workshops
+    and pair programming sessions
+  - Guide customers through installing, configuring, and optimizing Devin and associated
+    tools like DeepWiki and MCP integrations
+  - Pair-program with engineers at varying experience levels to help them build, debug,
+    and automate real projects
+  - Identify high-ROI workflows for Devin across engineering, QA, support, data, and
+    product teams
+  - Create enablement materials, best practices, and shared playbooks based on customer
+    learnings
+  - Collaborate with leadership to scale AI Enablement into a repeatable productized
+    offering through digital learning and partner certifications
+  - Work with Engagement Managers and Engineering teams to refine onboarding and provide
+    feedback on new features
+  use_cases:
+  - AI software engineering agents that can build end-to-end software
+  - AI-native IDEs for collaborative development workflows
+  - Agentic workflows integrated into day-to-day development processes
+  - Automated coding, debugging, and project assistance for engineering teams
+  - Knowledge management through DeepWiki and tool integrations via MCP
+  - Scalable AI adoption and enablement programs for enterprise engineering organizations
+  skills:
+    genai: [MCP, agents, LLM integration]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [DeepWiki]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7470703'
+  extracted_at: '2026-02-05T10:56:51.404079'

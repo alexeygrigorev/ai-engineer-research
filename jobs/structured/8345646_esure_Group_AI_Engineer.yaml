@@ -1,0 +1,55 @@
+company:
+  name: esure Group
+  stage: Public
+  focus: Home and Motor Insurance
+  use_cases:
+  - Enhancing customer experience through NLP and large language models
+  - Integrating third-party GenAI services for personalized customer interactions
+  - Deploying AI applications across the insurance enterprise for various business
+    functions
+  - Measuring AI solution effectiveness through A/B testing to deliver real value
+  - Leveraging data-driven insights for personalized insurance experiences
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including prompt
+      engineering, fine-tuning, and deploying models into
+      production. The engineer directly works on building and
+      optimizing AI applications using NLP and GenAI technologies.
+  responsibilities:
+  - Collaborate with business partners to identify use-cases where GenAI can provide
+    measurable benefits
+  - Support the data science and AI team in deploying scalable AI applications across
+    the enterprise
+  - Work with multi-functional teams to productionize AI services on AWS
+  - Develop prompts, fine-tune models, and track results
+  - Evaluate third-party GenAI and LLM technologies for cost-benefit analysis
+  - Deliver projects from scoping and R&D to production deployment and benefit measurement
+  - Write production-grade Python code with CI/CD, Databricks, and appropriate test
+    coverage
+  - Engineer data for optimal AI application performance
+  use_cases:
+  - Enhancing customer experience through NLP and large language models
+  - Integrating third-party GenAI services for personalized customer interactions
+  - Deploying AI applications across the insurance enterprise for various business
+    functions
+  - Measuring AI solution effectiveness through A/B testing to deliver real value
+  - Leveraging data-driven insights for personalized insurance experiences
+  skills:
+    genai: [LLMs, prompt engineering, LangChain, RAG]
+    ml: [fine-tuning, huggingface, scikit-learn]
+    web: [FastAPI]
+    databases: []
+    data: [pandas, Databricks]
+    cloud: [AWS]
+    ops: [Git, LLMOps, MLflow, Docker, Kubernetes, CI/CD]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8345646'
+  extracted_at: '2026-02-05T12:56:50.039852'

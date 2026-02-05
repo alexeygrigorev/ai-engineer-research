@@ -1,0 +1,63 @@
+company:
+  name: Apollo GraphQL
+  stage: Series D
+  focus: GraphQL API platform and developer tools
+  use_cases:
+  - Enterprise-grade MCP Server exposing diverse tools and systems to AI agents effortlessly
+  - MCP Gateway routing layer for agentic workflows with policy enforcement and request
+    routing
+  - Multi-agent systems with tool discovery, invocation, and orchestration across
+    diverse environments
+  - AI-enhanced developer workflows optimized for orchestration and agent interactions
+  - AI-driven routing strategies for context retrieval optimization, cost reduction,
+    and improved decision accuracy
+position:
+  title: Senior Software Engineer, AI Runtime
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building infrastructure and runtime
+      systems that SUPPORT AI/agent workflows, not building models
+      or agents themselves. The engineer works on MCP
+      Server/Gateway which provides routing, orchestration, and
+      tool integration layers for AI agents to use, but does not
+      involve training, fine-tuning, or deploying AI models.
+  responsibilities:
+  - Scale an enterprise AI/MCP Server and Gateway that powers multi-agent workflows
+    across Apollo, including routing, orchestration, and integration boundaries
+  - Implement robust server infrastructure to ensure reliability, performance, and
+    security at scale
+  - Build and maintain tools for agent discovery, communication, and coordination
+  - Define deployment strategies and runtime optimizations to maximize efficiency
+    and minimize operational overhead
+  - Develop frameworks and patterns that enable seamless multi-agent collaboration
+    and AI-driven orchestration
+  - Integrate observability, logging, and monitoring for full visibility into server
+    and agent behavior
+  use_cases:
+  - Enterprise-grade MCP Server exposing diverse tools and systems to AI agents effortlessly
+  - MCP Gateway routing layer for agentic workflows with policy enforcement and request
+    routing
+  - Multi-agent systems with tool discovery, invocation, and orchestration across
+    diverse environments
+  - AI-enhanced developer workflows optimized for orchestration and agent interactions
+  - AI-driven routing strategies for context retrieval optimization, cost reduction,
+    and improved decision accuracy
+  skills:
+    genai: [MCP]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud-native architectures]
+    ops: [observability, monitoring, debugging frameworks, containerization, orchestration
+        frameworks]
+    languages: [Rust]
+    domains: []
+    other: [distributed systems, server architecture, protocol design, message routing,
+      server-side orchestration frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7568478'
+  extracted_at: '2026-02-05T11:07:12.306182'

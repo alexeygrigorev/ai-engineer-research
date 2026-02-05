@@ -1,0 +1,58 @@
+company:
+  name: Contentful
+  stage: Public
+  focus: |-
+    Digital experience platform with native AI capabilities for
+    content management
+  use_cases:
+  - Automating manual workflows in Customer Experience operations
+  - Expanding team capacity through AI-powered tools and workflow integrations
+  - Improving accuracy and efficiency in Technical Support and CX processes
+  - Rapid prototyping and validation of AI-enabled tools for internal CX use
+  - Cross-functional AI solutions that scale beyond Customer Experience
+position:
+  title: Customer Experience AI Engineer (f/m/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a hands-on builder role focused on applying AI
+      technologies (LLMs, agents) to automate CX workflows and
+      build AI-powered tools. While the role involves building and
+      deploying solutions, the focus is on using AI to support
+      Customer Experience operations through workflow automation
+      and integrations, not on developing or optimizing AI models
+      themselves.
+  responsibilities:
+  - Identify and prioritize high-impact AI-driven opportunities by analyzing existing
+    CX workflows and pain points
+  - Design, build, and implement AI-powered tools and workflows that automate repetitive
+    tasks and improve accuracy
+  - Independently develop and deploy workflow automations and lightweight integrations
+    using APIs and scripting from concept to production
+  - Leverage low-code and no-code platforms to rapidly prototype and test AI-enabled
+    tools with internal stakeholders
+  - Act as an AI mentor and coach to raise AI literacy and confidence across CX teams
+  - Partner with Governance and Security teams to ensure all AI solutions align with
+    policies and standards
+  use_cases:
+  - Automating manual workflows in Customer Experience operations
+  - Expanding team capacity through AI-powered tools and workflow integrations
+  - Improving accuracy and efficiency in Technical Support and CX processes
+  - Rapid prototyping and validation of AI-enabled tools for internal CX use
+  - Cross-functional AI solutions that scale beyond Customer Experience
+  skills:
+    genai: [LLMs, agent-based frameworks, prompt design]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [scripting]
+    domains: []
+    other: [low-code platforms, no-code platforms, workflow automations]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8162783'
+  extracted_at: '2026-02-05T12:07:05.442886'

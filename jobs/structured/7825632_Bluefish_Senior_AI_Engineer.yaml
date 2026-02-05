@@ -1,0 +1,56 @@
+company:
+  name: Bluefish
+  stage: Seed
+  focus: AI-powered marketing and advertising platform
+  use_cases:
+  - LLM-powered marketing and advertising technology solutions
+  - NLP-driven content creation and brand storytelling for enterprises
+  - AI channel engagement tools for brands to interact with consumers
+  - Enterprise brand representation management in AI systems
+  - Information and media consumption optimization via AI interfaces
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with LLMs including
+      training, fine-tuning, and deploying LLM-driven solutions.
+      The engineer holds direct responsibility for the LLM
+      technology stack and works on model optimization,
+      evaluation, and implementation in production environments.
+  responsibilities:
+  - Lead the development, training, and fine-tuning of large language models and LLM-driven
+    solutions for complex NLP tasks
+  - Implement and refine robust, scalable LLM architecture in production environments
+    to ensure optimal performance
+  - Evaluate and enhance existing model performance while addressing data quality,
+    bias mitigation, and model interpretability challenges
+  - Stay current with NLP and AI research advancements, conduct experiments, and prototype
+    new ideas to push LLM capabilities
+  - Collaborate with cross-functional teams to conceptualize innovative solutions
+    and provide mentorship to junior team members
+  - Continuously assess and integrate emerging technologies and best practices to
+    enhance LLM-based solution effectiveness
+  use_cases:
+  - LLM-powered marketing and advertising technology solutions
+  - NLP-driven content creation and brand storytelling for enterprises
+  - AI channel engagement tools for brands to interact with consumers
+  - Enterprise brand representation management in AI systems
+  - Information and media consumption optimization via AI interfaces
+  skills:
+    genai: [Large Language Models, LLM fine-tuning, prompt engineering]
+    ml: [PyTorch, TensorFlow, machine learning, model training, feature engineering,
+      model evaluation]
+    web: []
+    databases: []
+    data: [data preprocessing]
+    cloud: []
+    ops: [model deployment]
+    languages: [Python]
+    domains: [Natural Language Processing]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7825632'
+  extracted_at: '2026-02-05T11:33:57.615201'

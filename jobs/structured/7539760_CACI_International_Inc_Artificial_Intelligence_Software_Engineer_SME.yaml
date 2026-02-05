@@ -1,0 +1,52 @@
+company:
+  name: CACI International Inc
+  stage: Public
+  focus: |-
+    Government defense contractor providing IT and professional
+    services
+  use_cases:
+  - Transform financial auditability and management for USTRANSCOM
+  - Enhance transportation logistics and supply chain management
+  - Streamline operations and improve transparency in financial and logistical processes
+  - Integrate AI capabilities into ERP systems (SAP) for government logistics
+position:
+  title: Artificial Intelligence Software Engineer SME
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on AI work including designing and
+      implementing AI solutions in production environments,
+      leading AI pilot programs, optimizing AI models for
+      performance and scalability. The job requires experience
+      with deep learning frameworks (TensorFlow, PyTorch), NLP,
+      and computer vision - all indicating direct work on building
+      and deploying AI models.
+  responsibilities:
+  - Design, develop, and implement AI solutions in production environments
+  - Lead AI pilot programs from conception to execution
+  - Collaborate with cross-functional teams to integrate AI capabilities into existing
+    systems
+  - Provide technical expertise and guidance on AI technologies and best practices
+  - Contribute to full-stack development projects
+  - Optimize AI models for performance and scalability
+  use_cases:
+  - Transform financial auditability and management for USTRANSCOM
+  - Enhance transportation logistics and supply chain management
+  - Streamline operations and improve transparency in financial and logistical processes
+  - Integrate AI capabilities into ERP systems (SAP) for government logistics
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: [API development]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [Azure, AWS]
+    ops: [DevOps]
+    languages: [Python, Java, C++, JavaScript]
+    domains: [NLP, Computer Vision]
+    other: [SAP, Agile]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7539760'
+  extracted_at: '2026-02-05T11:05:43.973341'

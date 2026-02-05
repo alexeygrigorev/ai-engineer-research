@@ -1,0 +1,58 @@
+company:
+  name: KnowBe4
+  stage: null
+  focus: Security awareness training and simulated phishing platform
+  use_cases:
+  - LLM agents for automating business processes and streamlining workflows
+  - RAG systems for enhanced search using embeddings and custom techniques
+  - Automated systems for detecting and catching LLM hallucinations and unexpected
+    behavior
+  - Microservices for audio file conversion, denoising, and transcription
+  - AI-powered full-stack applications integrating machine learning models with user-facing
+    interfaces
+position:
+  title: AI Software Engineer (Internal Engineering) (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building LLM agents, RAG
+      systems, and deploying AI models to production. The engineer
+      designs and implements AI/ML models, builds guardrails for
+      hallucination detection, and integrates AI components across
+      the full stack.
+  responsibilities:
+  - Develop AI-powered applications by integrating front-end, back-end, and machine
+    learning components
+  - Design and implement AI/ML models and APIs to meet business and technical requirements
+  - Build and maintain data pipelines for training, deploying, and monitoring models
+  - Deploy applications and AI models to cloud platforms (AWS) with CI/CD pipelines
+  - Build LLM agents and toolsets to streamline/automate business needs
+  - Identify edge cases where LLMs struggle and set up automated systems for catching
+    hallucinations
+  - Design, optimize, and test RAG systems for LLM search using embeddings and custom
+    search techniques
+  use_cases:
+  - LLM agents for automating business processes and streamlining workflows
+  - RAG systems for enhanced search using embeddings and custom techniques
+  - Automated systems for detecting and catching LLM hallucinations and unexpected
+    behavior
+  - Microservices for audio file conversion, denoising, and transcription
+  - AI-powered full-stack applications integrating machine learning models with user-facing
+    interfaces
+  skills:
+    genai: [LLM agents, RAG, embeddings, prompt engineering]
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: [React, Angular, Vue.js]
+    databases: [PostgreSQL, MySQL, MongoDB, DynamoDB]
+    data: [ETL]
+    cloud: [AWS, AWS Bedrock, AWS ECS, AWS Lambda, AWS Kinesis, AWS API Gateway, AWS
+        EventBridge, AWS RDS, AWS S3]
+    ops: [Git, CI/CD]
+    languages: [Python, Node.js, Java, Golang]
+    domains: []
+    other: [audio processing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6568532'
+  extracted_at: '2026-02-05T09:45:45.887129'

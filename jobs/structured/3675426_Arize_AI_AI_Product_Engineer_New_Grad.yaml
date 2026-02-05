@@ -1,0 +1,61 @@
+company:
+  name: Arize AI
+  stage: Series C
+  focus: AI observability and evaluation platform for AI systems
+  use_cases:
+  - Monitoring and observing AI systems in production to ensure performance and reliability
+  - Troubleshooting AI applications to identify and resolve issues
+  - Evaluating model performance across billions of data points at scale
+  - Enabling prompt engineering and AI agent development through interactive tools
+  - Providing real-time evaluation infrastructure for AI applications
+  - Helping enterprises like Booking.com, Uber, Siemens, and PepsiCo deliver reliable
+    AI systems
+position:
+  title: AI Product Engineer, New Grad
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Product Engineer role at Arize AI, which is an
+      AI observability and evaluation platform company. The role
+      involves building tools and infrastructure to enable other
+      AI engineers to monitor, troubleshoot, and optimize their AI
+      systems - this is working NEAR AI but NOT building,
+      training, or deploying models directly. The work focuses on
+      developing APIs, evaluation infrastructure, databases, and
+      systems that support AI development rather than creating AI
+      models themselves.
+  responsibilities:
+  - Drive AI product innovation by understanding how engineering teams develop AI
+    and LLM-powered applications
+  - Build clean APIs that instrument applications for observability
+  - Create interactive playgrounds for prompt engineering and agent development
+  - Scale real-time evaluation infrastructure to handle millions of annotations per
+    second
+  - Compute model evaluation metrics across billions of data points
+  - Create AI Agents that help customers troubleshoot their own applications
+  - Implement advanced dimensionality reduction techniques
+  - Build systems on top of a custom OLAP database
+  use_cases:
+  - Monitoring and observing AI systems in production to ensure performance and reliability
+  - Troubleshooting AI applications to identify and resolve issues
+  - Evaluating model performance across billions of data points at scale
+  - Enabling prompt engineering and AI agent development through interactive tools
+  - Providing real-time evaluation infrastructure for AI applications
+  - Helping enterprises like Booking.com, Uber, Siemens, and PepsiCo deliver reliable
+    AI systems
+  skills:
+    genai: [LLMs, prompt engineering, AI agents]
+    ml: [Machine Learning, dimensionality reduction, model evaluation metrics]
+    web: [GraphQL]
+    databases: [OLAP databases]
+    data: [Data Science]
+    cloud: []
+    ops: []
+    languages: [Go, Python, Java, TypeScript]
+    domains: []
+    other: [data visualization]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3675426'
+  extracted_at: '2026-02-05T09:34:41.773558'

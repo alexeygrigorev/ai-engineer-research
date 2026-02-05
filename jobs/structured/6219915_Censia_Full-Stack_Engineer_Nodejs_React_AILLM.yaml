@@ -1,0 +1,51 @@
+company:
+  name: Censia
+  stage: Seed
+  focus: |-
+    AI-powered Talent Intelligence Platform for talent
+    acquisition and management
+  use_cases:
+  - Talent data organization and management for enterprises
+  - Unbiased, predictive talent acquisition and hiring decisions
+  - Automated talent intelligence across the entire talent lifecycle
+  - AI-powered evaluation of candidates based on merit rather than bias
+position:
+  title: Full-Stack Engineer (Node.js, React, AI/LLM)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Full-Stack Engineer role with primary
+      responsibilities in React front-end and Node.js/Express
+      back-end development. While the role involves integrating AI
+      and LLM capabilities (like GPT), the core work is building
+      and maintaining web applications that consume AI services
+      rather than directly building, training, fine-tuning, or
+      deploying models.
+  responsibilities:
+  - Design, develop, and maintain robust front-end applications using React
+  - Build and optimize back-end services and APIs with Node.js and Express
+  - Integrate AI and LLM capabilities into the platform to enhance functionality
+  - Collaborate with cross-functional teams to define, design, and ship new features
+  - Ensure the responsiveness and performance of applications across devices
+  - Implement security best practices and data protection measures
+  use_cases:
+  - Talent data organization and management for enterprises
+  - Unbiased, predictive talent acquisition and hiring decisions
+  - Automated talent intelligence across the entire talent lifecycle
+  - AI-powered evaluation of candidates based on merit rather than bias
+  skills:
+    genai: [GPT, LLMs]
+    ml: []
+    web: [React, Express, HTML, CSS, RESTful APIs]
+    databases: [MongoDB, PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, CI/CD]
+    languages: [Node.js, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6219915'
+  extracted_at: '2026-02-05T09:42:23.510422'

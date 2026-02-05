@@ -1,0 +1,59 @@
+company:
+  name: Snowflake
+  stage: Public
+  focus: Cloud data platform and lakehouse
+  use_cases:
+  - AI/ML workloads on cloud data platform
+  - Enterprise data architecture and lakehouse implementations
+  - Data ingestion, transformation, and analytics pipelines
+  - Healthcare and life sciences sector data solutions
+  - Multi-cloud data architecture design
+position:
+  title: Principal AI/ML Solution Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Solution Engineer role that provides technical
+      guidance and architecture design for Snowflake's platform in
+      AI/ML contexts. While the role requires AI/ML expertise, the
+      focus is on enabling customers to use Snowflake's data
+      platform for their AI/ML workloads rather than building,
+      training, or deploying models directly.
+  responsibilities:
+  - Provide AI/ML technical guidance to healthcare and life sciences customers while
+    working with technical and business executives
+  - Design and architect Snowflake Cloud Data Platform solutions for customer enterprise
+    data ecosystems
+  - Work hands-on with prospects to demonstrate value through demos, proof of concepts,
+    and implementation guidance
+  - Collaborate with sales and solution engineering teams to understand customer AI/ML
+    needs and navigate sales cycles
+  - Leverage expertise in data ingestion, transformation, and lakehouse workloads
+    to create compelling demonstrations
+  - Partner with Product Management, Engineering, and Marketing to improve Snowflake's
+    AI/ML features and capabilities
+  use_cases:
+  - AI/ML workloads on cloud data platform
+  - Enterprise data architecture and lakehouse implementations
+  - Data ingestion, transformation, and analytics pipelines
+  - Healthcare and life sciences sector data solutions
+  - Multi-cloud data architecture design
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Data Lakehouse, ETL, ELT, Data Lake, Data Mesh, Data Fabric, Pandas, Spark,
+      PySpark, Hadoop, Hive, Apache NiFi, Matillion, Fivetran, Qlik, Informatica,
+      Kafka, Flink, Spark Streaming, Iceberg, Delta, Parquet, Data Engineering, Data
+        Integration]
+    cloud: [Snowflake, Kinesis]
+    ops: []
+    languages: [SQL, Python]
+    domains: []
+    other: [AI/ML Architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8295096'
+  extracted_at: '2026-02-05T12:39:48.986840'

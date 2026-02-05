@@ -1,0 +1,61 @@
+company:
+  name: Green Dot Corporation
+  stage: Public
+  focus: Financial services, payment solutions, and money management
+  use_cases:
+  - Smart money management and payment solutions for consumers
+  - Enterprise-grade financial services applications
+  - Cloud-native applications migrated from legacy systems
+  - AI-enhanced development workflows for faster delivery
+  - Automated testing and quality assurance frameworks
+  - Scalable financial transaction processing
+position:
+  title: Lead Product Engineer – .NET and AI Driven
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role uses AI tools (GitHub Copilot, Claude) as
+      development aids to write, test, and refactor code within an
+      AI-enhanced SDLC. However, the engineer is not building,
+      training, deploying, or fine-tuning AI models themselves -
+      they are building traditional .NET financial applications
+      using AI as a productivity tool.
+  responsibilities:
+  - Lead the design, development, and deployment of enterprise-grade applications
+    using .NET, C#, and SQL Server
+  - Architect and execute Azure migration strategies, including re-platforming and
+    modernization of legacy systems
+  - Build and optimize cloud-native solutions leveraging Azure services such as AKS,
+    Cosmos DB, App Services, and Functions
+  - Operate in an AI-driven SDLC environment using AI copilots to translate specifications,
+    iterate on designs, and write code
+  - Implement intelligent testing frameworks that auto-generate test cases, predict
+    bugs, and enable self-healing
+  - Write automated tests concurrently with code development to ensure continuous
+    integration and delivery
+  - Mentor junior engineers and promote best practices in cloud engineering and AI-assisted
+    development
+  use_cases:
+  - Smart money management and payment solutions for consumers
+  - Enterprise-grade financial services applications
+  - Cloud-native applications migrated from legacy systems
+  - AI-enhanced development workflows for faster delivery
+  - Automated testing and quality assurance frameworks
+  - Scalable financial transaction processing
+  skills:
+    genai: [GitHub Copilot, Claude, AI code assistants]
+    ml: []
+    web: [microservices architecture, API testing]
+    databases: [SQL Server, Cosmos DB]
+    data: []
+    cloud: [Azure, AKS (Azure Kubernetes Service), Azure App Services, Azure Functions,
+      Azure DevOps]
+    ops: [CI/CD pipelines, containerization, container orchestration, CNCF projects]
+    languages: [.NET, C#]
+    domains: []
+    other: [TDD (Test-Driven Development), automated testing]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7467931'
+  extracted_at: '2026-02-05T10:56:39.657613'

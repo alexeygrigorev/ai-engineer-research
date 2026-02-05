@@ -1,0 +1,62 @@
+company:
+  name: Candid Health
+  stage: Series B+
+  focus: Healthcare revenue cycle automation
+  use_cases:
+  - Automate healthcare billing and claims processing workflows to reduce administrative
+    waste
+  - Optimize claim submission, resubmission, and revenue cycle management operations
+  - Apply NLP models to process medical billing data and documentation
+  - Enable medical providers to focus on patient care by streamlining revenue cycle
+    operations
+  - Provide intelligent, data-driven approaches to simplify billing and enhance claims
+    processing
+position:
+  title: AI/ML Engineer (Senior)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI Engineer role responsible for building
+      and deploying AI/ML systems directly. The role involves
+      building AI features, scaling prototypes, architecting AI
+      infrastructure, and making decisions between deterministic
+      ML and non-deterministic LLM approaches for business
+      applications.
+  responsibilities:
+  - Build and deploy AI features into Candid's healthcare billing platform to deliver
+    outcomes for internal teams and external customers
+  - Research and drive technical AI strategy, identifying when and which AI/ML techniques
+    deliver business value
+  - Scale prototypes into production-grade systems and deploy them across the customer
+    base
+  - Partner with cross-functional teams to automate complex workflows like claim submission,
+    resubmission, and optimization
+  - Architect AI infrastructure to leverage AI across all product facets and structure
+    data for AI development
+  - Establish rigorous processes for model training, testing, and monitoring with
+    high security standards
+  use_cases:
+  - Automate healthcare billing and claims processing workflows to reduce administrative
+    waste
+  - Optimize claim submission, resubmission, and revenue cycle management operations
+  - Apply NLP models to process medical billing data and documentation
+  - Enable medical providers to focus on patient care by streamlining revenue cycle
+    operations
+  - Provide intelligent, data-driven approaches to simplify billing and enhance claims
+    processing
+  skills:
+    genai: [LLM]
+    ml: [model training, model testing]
+    web: []
+    databases: [BigQuery, PostgreSQL]
+    data: [Metabase]
+    cloud: [Google Cloud Platform]
+    ops: [model monitoring, Terraform]
+    languages: [Python]
+    domains: [NLP models]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8020704'
+  extracted_at: '2026-02-05T11:49:38.077954'

@@ -1,0 +1,72 @@
+company:
+  name: Collibra
+  stage: null
+  focus: |-
+    Data intelligence and governance platform with AI
+    capabilities
+  use_cases:
+  - Enabling large organizations to deploy Unstructured AI applications in their own
+    cloud environments
+  - Supporting flexible deployment scenarios including bring-your-own VPC, custom
+    networking, and varied customer setups
+  - Providing secure, scalable, and easily deployable infrastructure for enterprise
+    AI workloads
+  - Ensuring reliable operations with monitoring, observability, and incident response
+    for deployed AI applications
+  - Automating product lifecycle management including updates and upgrades for AI
+    platforms
+position:
+  title: Platform Engineer, Unstructured AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building infrastructure, deployment automation,
+      and platform tooling for an AI product, not developing the
+      AI models or systems themselves. The Platform Engineer
+      focuses on Terraform, Kubernetes, cloud infrastructure, and
+      observability to deploy and maintain the Unstructured AI
+      application, which is enabling work for others who work on
+      AI.
+  responsibilities:
+  - Design, implement, and maintain infrastructure blueprint for deploying Unstructured
+    AI application in customer cloud environments
+  - Codify infrastructure as code using Terraform with modular, secure configurations
+    for flexible deployment scenarios
+  - Manage Kubernetes and Helm-based deployment stacks including databases, secrets,
+    authentication, and SSO components
+  - Set up and maintain monitoring, alerting, and observability systems using Datadog,
+    Prometheus, and Grafana for operational visibility
+  - Participate in incident response and troubleshooting for customer-deployed environments
+    using observability data
+  - Collaborate with application teams to implement Python code and configuration
+    changes for infrastructure and deployment patterns
+  - Build tools and services to automate product updates, upgrades, and ongoing maintenance
+    of the Unstructured AI application
+  use_cases:
+  - Enabling large organizations to deploy Unstructured AI applications in their own
+    cloud environments
+  - Supporting flexible deployment scenarios including bring-your-own VPC, custom
+    networking, and varied customer setups
+  - Providing secure, scalable, and easily deployable infrastructure for enterprise
+    AI workloads
+  - Ensuring reliable operations with monitoring, observability, and incident response
+    for deployed AI applications
+  - Automating product lifecycle management including updates and upgrades for AI
+    platforms
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, VPC, IAM]
+    ops: [Terraform, Kubernetes, Helm, Datadog, Prometheus, Grafana, Docker, CI/CD,
+      container orchestration, deployment automation, incident response, secrets management]
+    languages: [Python]
+    domains: []
+    other: [networking, security configurations, SSO, distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8004849'
+  extracted_at: '2026-02-05T11:47:43.407360'

@@ -1,0 +1,55 @@
+company:
+  name: Lorikeet
+  stage: Series B
+  focus: |-
+    AI-powered customer support automation for complex
+    businesses
+  use_cases:
+  - Automating customer support responses for complex businesses including fintechs,
+    healthtechs, marketplaces, and delivery services
+  - Providing personalized concierge services to customers beyond reactive support
+  - Handling high volumes of support tickets with AI automation
+  - Enabling support teams to focus on managing automation and complex cases rather
+    than simple tickets
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer who deploys AI
+      solutions directly to customers, configures AI tools for
+      their specific needs, and leads AI implementation projects
+      from kickoff to deployment. They work hands-on with the AI
+      technology, not just on supporting infrastructure or general
+      software engineering.
+  responsibilities:
+  - Lead AI implementation projects from kickoff to successful deployment for customers
+  - Understand client workflows and configure Lorikeet's AI tools to meet their specific
+    needs
+  - Serve as AI expert and evangelist for Lorikeet's customer base
+  - Guide customers through technical implementation while building strong relationships
+  - Work with product team to represent customer needs and inform product strategy
+  - Solve complex integration challenges creatively and efficiently
+  use_cases:
+  - Automating customer support responses for complex businesses including fintechs,
+    healthtechs, marketplaces, and delivery services
+  - Providing personalized concierge services to customers beyond reactive support
+  - Handling high volumes of support tickets with AI automation
+  - Enabling support teams to focus on managing automation and complex cases rather
+    than simple tickets
+  skills:
+    genai: []
+    ml: []
+    web: [React, REST]
+    databases: []
+    data: [data analysis]
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: [customer support]
+    other: [integration, project management, stakeholder management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8005716'
+  extracted_at: '2026-02-05T11:48:04.089211'

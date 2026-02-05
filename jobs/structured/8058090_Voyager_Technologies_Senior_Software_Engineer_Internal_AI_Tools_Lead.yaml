@@ -1,0 +1,61 @@
+company:
+  name: Voyager Technologies
+  stage: null
+  focus: Defense, national security, and space technology
+  use_cases:
+  - Automated report generation for finance and operations teams
+  - Deal review and financial/ops reconciliation workflows
+  - Policy Q&A systems for HR and compliance
+  - Supplier analysis and procurement automation
+  - Document processing and retrieval from enterprise repositories
+  - Workflow automation for HR, supply chain, and manufacturing processes
+position:
+  title: Senior Software Engineer – Internal AI Tools Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building AI-powered automations, copilots, and
+      agents including RAG systems and workflow agents. Candidate
+      must have hands-on experience with LLMs, retrieval-augmented
+      generation, and agentic workflows to build internal AI
+      systems that automate business processes.
+  responsibilities:
+  - Own the technical architecture and roadmap for Voyager's Internal Tools and AI
+    Automation platforms
+  - Partner with business leaders across Finance, HR, IT, Cyber Security, Supply Chain,
+    and Manufacturing to map and automate manual workflows
+  - Design and build full-stack internal tools including workflow engines, approval
+    systems, dashboards, and copilots integrating with enterprise systems
+  - Build and maintain AI-powered automations and assistants such as Slack/Teams bots,
+    workflow agents, and RAG systems for report generation, deal review, and policy
+    Q&A
+  - Establish engineering standards for code quality, testing, observability, and
+    security practices appropriate for defense and aerospace
+  - Mentor and develop a team of software engineers while staying hands-on as an individual
+    contributor
+  - Leverage agentic workflows and AI agents to rapidly develop internal tools
+  - Define and track KPIs and OKRs for automation coverage and process improvements
+    across business operations
+  use_cases:
+  - Automated report generation for finance and operations teams
+  - Deal review and financial/ops reconciliation workflows
+  - Policy Q&A systems for HR and compliance
+  - Supplier analysis and procurement automation
+  - Document processing and retrieval from enterprise repositories
+  - Workflow automation for HR, supply chain, and manufacturing processes
+  skills:
+    genai: [LangGraph, RAG, agents, agentic workflows, LLMs, MCP]
+    ml: []
+    web: [React, Next.js, FastAPI, Node.js, REST, APIs]
+    databases: [Postgres, MongoDB, vector databases]
+    data: [event-driven architectures]
+    cloud: []
+    ops: [CI/CD, Docker, Kubernetes]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [n8n, ERP, CRM, HRIS, FedRAMP, ITAR]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8058090'
+  extracted_at: '2026-02-05T11:54:23.300028'

@@ -1,0 +1,69 @@
+company:
+  name: Qumis
+  stage: Series A
+  focus: AI platform for insurance policy interpretation
+  use_cases:
+  - Insurance policy interpretation and analysis for P&C insurance professionals
+  - Reading and understanding complex legal documents like insurance policies with
+    lawyer-level accuracy
+  - Coverage analysis, comparisons, and recommendations for claims advocates, brokers,
+    and underwriters
+  - Risk detection and clause-level segmentation in insurance contracts
+  - Legal-grade decision support for claims, underwriting, and compliance teams
+  - Interactive AI-powered workflows that reduce reliance on siloed expertise in the
+    insurance industry
+position:
+  title: Founding Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role building and
+      deploying production AI systems including RAG pipelines, LLM
+      workflows, document understanding, and agentic systems. The
+      engineer will own the entire AI stack from unstructured
+      document ingestion to interactive LLM outputs, directly
+      implementing models and workflows rather than just
+      supporting them.
+  responsibilities:
+  - Build and ship production AI features end-to-end from R&D to SaaS integration,
+    observability, and iteration
+  - Design and deploy advanced document understanding systems including RAG pipelines,
+    clause segmentation, summarization, and risk detection
+  - Create scalable APIs that deliver real-time coverage analysis, comparisons, and
+    recommendations inside a modern SaaS UI
+  - Engineer robust data workflows across OCR, PDF ingestion, parsing, normalization,
+    and embedding generation
+  - Own evaluation and observability from automated accuracy pipelines to human-in-the-loop
+    systems that maintain trust and reliability
+  - Design for explainability and develop transparent workflows that help legal, claims,
+    and compliance professionals understand what the AI sees and says
+  - Collaborate across disciplines with designers, PMs, and domain experts to translate
+    insurance workflows into AI-powered systems
+  - Set technical direction and shape infrastructure, tooling, and AI product roadmap
+    from the ground up
+  use_cases:
+  - Insurance policy interpretation and analysis for P&C insurance professionals
+  - Reading and understanding complex legal documents like insurance policies with
+    lawyer-level accuracy
+  - Coverage analysis, comparisons, and recommendations for claims advocates, brokers,
+    and underwriters
+  - Risk detection and clause-level segmentation in insurance contracts
+  - Legal-grade decision support for claims, underwriting, and compliance teams
+  - Interactive AI-powered workflows that reduce reliance on siloed expertise in the
+    insurance industry
+  skills:
+    genai: [RAG, LLM workflows, agents, agentic workflows]
+    ml: [OCR, document parsing, document intelligence, NLP, embeddings, ML model deployment]
+    web: [API design, FastAPI, fullstack development]
+    databases: [Pinecone, Weaviate, Qdrant]
+    data: []
+    cloud: []
+    ops: [Docker, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8309932'
+  extracted_at: '2026-02-05T12:45:06.626229'

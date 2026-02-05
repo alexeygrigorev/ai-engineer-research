@@ -1,0 +1,58 @@
+company:
+  name: BNSF Railway
+  stage: Public
+  focus: Freight rail transportation and logistics
+  use_cases:
+  - Predictive maintenance for rail infrastructure and rolling stock
+  - Train scheduling and route planning optimization
+  - Safety monitoring and anomaly detection
+  - Real-time data analysis from IoT sensors and GPS systems
+  - Operational process automation and AI-powered decision making
+  - Fuel efficiency optimization through algorithm tuning
+position:
+  title: Sr/Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work designing, developing, and
+      implementing AI models and algorithms. Requires direct
+      experience with GenAI tools (LangChain, LangGraph), vector
+      databases, agentic architectures, and fine-tuning models for
+      production deployment.
+  responsibilities:
+  - Design, develop, and implement AI models and algorithms tailored to railroad operations
+    including predictive maintenance, scheduling, and safety monitoring
+  - Build scalable AI systems to analyze real-time data from rail infrastructure,
+    rolling stock, and IoT devices
+  - Collect, preprocess, and clean data from various sources for training AI models
+    and build ETL pipelines for AI applications
+  - Fine tune and optimize algorithms to streamline train scheduling, route planning,
+    and fuel efficiency
+  - Collaborate with software engineers and DevOps teams to integrate AI solutions
+    into production environments
+  - Monitor deployed models and systems for performance, scalability, and accuracy
+    to ensure continuous improvement
+  use_cases:
+  - Predictive maintenance for rail infrastructure and rolling stock
+  - Train scheduling and route planning optimization
+  - Safety monitoring and anomaly detection
+  - Real-time data analysis from IoT sensors and GPS systems
+  - Operational process automation and AI-powered decision making
+  - Fuel efficiency optimization through algorithm tuning
+  skills:
+    genai: [LangChain, LangGraph, OpenAI/Anthropic APIs, prompt engineering, RAG,
+      agents]
+    ml: [TensorFlow, PyTorch, scikit-learn, model training, fine-tuning]
+    web: []
+    databases: [Pinecone, Weaviate, Chroma, Qdrant, pgvector, SQL, NoSQL]
+    data: [Spark, Databricks, PySpark, ETL, data pipelines]
+    cloud: [AWS, Azure]
+    ops: [MLflow, Kubeflow, Docker, Kubernetes, CI/CD]
+    languages: [Python, R, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8318455'
+  extracted_at: '2026-02-05T12:49:53.209740'

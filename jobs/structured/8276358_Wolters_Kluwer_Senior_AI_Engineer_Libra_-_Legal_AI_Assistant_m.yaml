@@ -1,0 +1,60 @@
+company:
+  name: Wolters Kluwer
+  stage: Series B
+  focus: Legal AI assistant platform for lawyers
+  use_cases:
+  - AI-powered legal research to help lawyers find relevant information faster
+  - Legal document drafting assistance for lawyers
+  - Chat-based interfaces for legal knowledge retrieval and analysis
+  - Document parsing and semantic search across legal content
+  - Multi-step legal workflow automation using AI agents
+  - Localized legal AI workspace for lawyers across European markets
+position:
+  title: Senior AI Engineer (Libra - Legal AI Assistant) (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs and AI systems
+      including building RAG systems, agent orchestration,
+      document parsing, and semantic retrieval pipelines. The
+      engineer is directly implementing AI-driven product features
+      end-to-end using LLM APIs, not just supporting AI
+      infrastructure.
+  responsibilities:
+  - Design, implement, and maintain AI-driven product features end-to-end using LLM
+    APIs
+  - Build and optimize RAG systems including document parsing, semantic chunking,
+    and retrieval pipelines
+  - Design and implement agent orchestration systems for complex, multi-step legal
+    workflows
+  - Build scalable, maintainable backend systems using FastAPI and modern Python tooling
+  - Build infrastructure for evaluations and benchmarking including continuous monitoring
+    and alerting using tools like Langfuse
+  - Collaborate with Product and Legal Engineering teams to rapidly prototype and
+    refine new AI use cases
+  - Ensure high security, reliability, and data privacy standards across all AI-powered
+    systems
+  use_cases:
+  - AI-powered legal research to help lawyers find relevant information faster
+  - Legal document drafting assistance for lawyers
+  - Chat-based interfaces for legal knowledge retrieval and analysis
+  - Document parsing and semantic search across legal content
+  - Multi-step legal workflow automation using AI agents
+  - Localized legal AI workspace for lawyers across European markets
+  skills:
+    genai: [LLM APIs, RAG, agent orchestration, document parsing, semantic chunking,
+      retrieval pipelines]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Cursor, Claude Code, Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8276358'
+  extracted_at: '2026-02-05T12:29:43.520159'

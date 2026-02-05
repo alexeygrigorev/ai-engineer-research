@@ -1,0 +1,53 @@
+company:
+  name: Melotech
+  stage: Series A
+  focus: AI-powered media and entertainment platform
+  use_cases:
+  - Content optimization across multiple media verticals
+  - Real-time understanding and tracking of cultural trends
+  - Enhancing creative processes through AI capabilities
+  - Scaling ML systems to millions of users with low latency
+  - Processing and analyzing massive media datasets
+position:
+  title: AI/ML Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and fine-tuning ML
+      models including multimodal AI systems. The engineer
+      directly works on model implementation, inference systems,
+      and transitioning research models into production, which
+      aligns with hands-on AI/ML system building rather than just
+      support infrastructure.
+  responsibilities:
+  - Build and deploy production ML models for content and product ecosystem
+  - Design scalable ML infrastructure and pipelines handling massive media datasets
+  - Implement inference systems for content optimization across multiple verticals
+  - Fine-tune and deploy multimodal AI systems using MLOps best practices
+  - Collaborate with data science teams to transition research models into production
+  - Optimize model performance for cost efficiency while maintaining accuracy and
+    speed
+  - Integrate ML capabilities into existing platforms and build APIs for model consumption
+  use_cases:
+  - Content optimization across multiple media verticals
+  - Real-time understanding and tracking of cultural trends
+  - Enhancing creative processes through AI capabilities
+  - Scaling ML systems to millions of users with low latency
+  - Processing and analyzing massive media datasets
+  skills:
+    genai: [multimodal AI]
+    ml: [ML frameworks, fine-tuning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [cloud platforms]
+    ops: [Docker, Kubernetes, model versioning, monitoring systems, MLOps, inference
+        systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8247435'
+  extracted_at: '2026-02-05T12:21:36.134038'

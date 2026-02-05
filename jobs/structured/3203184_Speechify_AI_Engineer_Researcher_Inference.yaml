@@ -1,0 +1,48 @@
+company:
+  name: Speechify
+  stage: Series B
+  focus: Text-to-speech AI reading accessibility products
+  use_cases:
+  - Text-to-speech conversion for PDFs, books, documents, and websites
+  - Audio generation from written content for faster reading and improved retention
+  - Accessibility support for users with learning differences like dyslexia and ADD
+  - Cross-platform voice synthesis including iOS, Android, Mac, Chrome, and web applications
+position:
+  title: AI Engineer & Researcher, Inference
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves deploying and operating core ML inference
+      workloads for AI Voices, improving model performance and
+      efficiency. The engineer works directly on ML model serving
+      pipeline and deployment, which is hands-on work with AI
+      systems rather than supporting infrastructure.
+  responsibilities:
+  - Work alongside machine learning researchers, engineers, and product managers to
+    bring AI Voices to customers for diverse use cases
+  - Deploy and operate the core ML inference workloads for the AI Voices serving pipeline
+  - Introduce new techniques, tools, and architecture that improve performance, latency,
+    throughput, and efficiency of deployed models
+  - Build tools to gain visibility into bottlenecks and instability sources and implement
+    solutions for priority issues
+  use_cases:
+  - Text-to-speech conversion for PDFs, books, documents, and websites
+  - Audio generation from written content for faster reading and improved retention
+  - Accessibility support for users with learning differences like dyslexia and ADD
+  - Cross-platform voice synthesis including iOS, Android, Mac, Chrome, and web applications
+  skills:
+    genai: []
+    ml: [ML inference]
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP]
+    ops: [Docker, Kubernetes, ML model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3203184'
+  extracted_at: '2026-02-05T09:34:25.485566'

@@ -1,0 +1,54 @@
+company:
+  name: Lawhive
+  stage: Series A
+  focus: AI-powered legal services platform
+  use_cases:
+  - Legal document analysis and review
+  - Automated legal advice generation
+  - Case outcome predictions
+  - Consumer legal work assistance
+  - AI lawyer platform deployment and scaling
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on production deployment, API development,
+      infrastructure reliability, and scaling of AI systems rather
+      than building, training, or fine-tuning models. The engineer
+      works with existing AI models developed by researchers to
+      deploy them into production environments.
+  responsibilities:
+  - Developing production-ready APIs and services that expose AI functionality to
+    internal and external applications
+  - Improving reliability and monitoring for AI-driven applications in production
+  - Scaling AI systems to handle real-world legal use cases including document analysis
+    and legal advice
+  - Collaborating with AI engineers to ensure smooth deployment of AI workflows and
+    models into production
+  - Working with event-driven architectures and async workflows to process large-scale
+    AI workloads efficiently
+  - Ensuring security and compliance in AI-driven legal services
+  use_cases:
+  - Legal document analysis and review
+  - Automated legal advice generation
+  - Case outcome predictions
+  - Consumer legal work assistance
+  - AI lawyer platform deployment and scaling
+  skills:
+    genai: [Hybrid retrieval, LangChain, AutoGen]
+    ml: []
+    web: [API design]
+    databases: [Vector databases]
+    data: [Kafka]
+    cloud: [Pub/Sub, AWS Step Functions, AWS, GCP]
+    ops: [Distributed systems, Observability, Monitoring, Langfuse, ML Ops, Inngest,
+      Temporal]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7954004'
+  extracted_at: '2026-02-05T11:44:09.078025'

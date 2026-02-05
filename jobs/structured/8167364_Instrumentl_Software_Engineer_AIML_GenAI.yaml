@@ -1,0 +1,58 @@
+company:
+  name: Instrumentl
+  stage: Series B+ (hyper growth, YC-backed, cash flow positive, doubling YoY, 4,000+
+    clients)
+  focus: Grant discovery and management platform for nonprofits
+  use_cases:
+  - Grant discovery automation using agentic AI systems
+  - Grant application drafting assistance with LLMs
+  - Research assistance for nonprofit fundraising activities
+  - Hybrid retrieval search across grant databases and domain data
+  - Grounded and citable AI responses with RAG pipelines
+position:
+  title: Software Engineer, AI/ML GenAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building agentic LLM
+      systems, implementing RAG pipelines, managing embeddings and
+      vector stores, and running fine-tuning with SFT/LoRA. The
+      engineer will directly build, deploy, and optimize AI models
+      and systems for production, not just support infrastructure
+      or data pipelines for AI work.
+  responsibilities:
+  - Design and deploy agentic LLM systems with tool/function calling capabilities
+    for grant discovery, application drafting, and research assistance
+  - Own end-to-end RAG implementation including document ingestion, chunking, embedding
+    strategies, hybrid retrieval, re-ranking, and grounding
+  - Manage embeddings at scale including model selection, versioning, vector store
+    maintenance, and index health monitoring
+  - Run fine-tuning with SFT/LoRA and build comprehensive evaluation harnesses for
+    measuring helpfulness, groundedness, and hallucinations
+  - Collaborate cross-functionally with Product, Design, and GTM on feature scoping,
+    experimentation, and iteration based on user feedback
+  - Implement reliability practices including observability, alerts, dashboards, and
+    incident response for AI production systems
+  use_cases:
+  - Grant discovery automation using agentic AI systems
+  - Grant application drafting assistance with LLMs
+  - Research assistance for nonprofit fundraising activities
+  - Hybrid retrieval search across grant databases and domain data
+  - Grounded and citable AI responses with RAG pipelines
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, Semantic Kernel, RAG, agents, function
+        calling, prompt engineering, PEFT]
+    ml: [LoRA, SFT]
+    web: [FastAPI]
+    databases: [pgvector, Pinecone, Weaviate, Milvus, Qdrant, FAISS]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD, Celery]
+    languages: [TypeScript, Node, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8167364'
+  extracted_at: '2026-02-05T12:07:49.041527'

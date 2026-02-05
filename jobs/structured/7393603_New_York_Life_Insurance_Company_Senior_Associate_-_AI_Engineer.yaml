@@ -1,0 +1,56 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: Insurance and financial services provider
+  use_cases:
+  - Increase productivity across the organization through Generative AI solutions
+  - Streamline business processes and workflows for clients, agents, and employees
+  - Deploy AI models to support insurance operations and decision-making
+  - Integrate natural language processing techniques for text analysis and understanding
+  - Create seamless digital experiences for internal and external stakeholders
+position:
+  title: Senior Associate - AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design, development, and
+      implementation of AI/ML models and Generative AI solutions,
+      including LLMs, hyperparameter tuning, and deployment to
+      production. The engineer is responsible for integrating ML
+      models into real-world systems, not just supporting
+      infrastructure for other AI developers.
+  responsibilities:
+  - Design and develop production grade AI solutions ensuring code conforms to software
+    engineering best practices
+  - Implement models with debugging, scaling and monitoring capabilities
+  - Set up ML experiments for server-based hyperparameter tuning and collaborate on
+    model deployment automation
+  - Develop solution architectures that integrate ML models into real-world systems
+  - Hands-on prototyping of new technology and AI solutions including Generative AI
+    applications
+  - Collaborate with product managers, data scientists, and platform engineers on
+    architecture and implementation
+  - Review code to ensure solutions are properly designed and implemented
+  - Stay current with AI trends and emerging technologies to improve the tech stack
+  use_cases:
+  - Increase productivity across the organization through Generative AI solutions
+  - Streamline business processes and workflows for clients, agents, and employees
+  - Deploy AI models to support insurance operations and decision-making
+  - Integrate natural language processing techniques for text analysis and understanding
+  - Create seamless digital experiences for internal and external stakeholders
+  skills:
+    genai: [Generative AI, LLMs]
+    ml: [scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, hyperparameter tuning]
+    web: [API development, REST]
+    databases: [PostgreSQL, Redshift, Snowflake, Vector Databases]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Linux, Kubernetes, model deployment]
+    languages: [Python, SQL]
+    domains: [SpaCy, NLTK, NLP]
+    other: [MCP servers, Agile/Scrum]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7393603'
+  extracted_at: '2026-02-05T10:46:15.483385'

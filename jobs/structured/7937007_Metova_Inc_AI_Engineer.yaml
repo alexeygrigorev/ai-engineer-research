@@ -1,0 +1,57 @@
+company:
+  name: Metova, Inc.
+  stage: null
+  focus: Accounting software for Mexico
+  use_cases:
+  - Autonomous agents and co-pilots for business operations
+  - Multi-agent coordination systems using MCP and A2A protocols
+  - RAG-based solutions with vector stores for information retrieval
+  - AI-powered solutions for accounting, finance, payroll, billing, or ERP domains
+  - Intelligent agent architectures that integrate with existing business systems
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building autonomous agents,
+      co-pilots, and RAG architectures using LangChain,
+      LlamaIndex, AutoGen, and CrewAI. The engineer will implement
+      MCP/A2A protocols and work directly with LLMs and
+      intelligent agent architectures, which is core AI
+      development rather than support work.
+  responsibilities:
+  - Define, design, and supervise the technical architecture of solutions based on
+    intelligent agents and LLMs
+  - Integrate frameworks such as LangChain, LlamaIndex, AutoGen, CrewAI, or equivalent
+    into agent architectures
+  - Implement MCP (Model Context Protocol) and A2A (Agent-to-Agent) architectures
+    for multi-agent coordination
+  - Enable autonomous flows within business environments through agent coordination
+  - Collaborate with MLOps team on continuous agent updating and deployment
+  - Manage memory, context, and long-term planning in execution environments
+  - Work with product, UX, data, and backend teams to map business needs to intelligent
+    agent architectures
+  use_cases:
+  - Autonomous agents and co-pilots for business operations
+  - Multi-agent coordination systems using MCP and A2A protocols
+  - RAG-based solutions with vector stores for information retrieval
+  - AI-powered solutions for accounting, finance, payroll, billing, or ERP domains
+  - Intelligent agent architectures that integrate with existing business systems
+  skills:
+    genai: [LangChain, LlamaIndex, AutoGen, CrewAI, Semantic Kernel, RAG architectures,
+      MCP (Model Context Protocol), A2A (Agent-to-Agent) protocols, autonomous agents,
+      co-pilots]
+    ml: []
+    web: [FastAPI, asyncio, Pydantic, asynchronous architectures]
+    databases: [vector stores, Chroma, Weaviate, Pinecone]
+    data: []
+    cloud: []
+    ops: [CI/CD, Docker, Kubernetes, agent monitoring, automated retraining]
+    languages: [Python, Golang, Java, C#, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7937007'
+  extracted_at: '2026-02-05T11:42:45.198753'

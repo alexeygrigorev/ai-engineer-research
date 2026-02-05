@@ -1,0 +1,57 @@
+company:
+  name: Extreme Networks
+  stage: Public
+  focus: Cloud-driven networking solutions
+  use_cases:
+  - Cloud-driven networking solutions for digital transformation
+  - Big data processing and analytics pipelines
+  - Machine learning platform infrastructure for networking applications
+  - Distributed systems for data lakehouse architectures
+  - Automation and analytics using AI/ML capabilities
+position:
+  title: Staff Software Engineer - Big Data (Gen AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building big data infrastructure
+      (Spark, Lakehouse architectures, data pipelines) and
+      distributed systems to support ML initiatives, not directly
+      building or deploying AI models. The primary
+      responsibilities involve designing data platform
+      architectures, optimizing big data workflows, and
+      engineering scalable systems - all enabling work for AI/ML
+      rather than hands-on model development.
+  responsibilities:
+  - Drive innovative vision for products and platforms, design and launch strategic
+    ML solutions
+  - Lead end-to-end software development lifecycle including design, testing, deployment,
+    and operations
+  - Craft high-performance Big Data Lakehouse architectures such as Hudi, Delta, or
+    Iceberg
+  - Develop Big Data Platform to solve big data pipeline and processing challenges
+  - Mentor and develop other engineers, establish technical direction and foster team
+    culture
+  - Build highly resilient and scalable systems and champion operational and process
+    improvements
+  use_cases:
+  - Cloud-driven networking solutions for digital transformation
+  - Big data processing and analytics pipelines
+  - Machine learning platform infrastructure for networking applications
+  - Distributed systems for data lakehouse architectures
+  - Automation and analytics using AI/ML capabilities
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [NoSQL databases]
+    data: [Spark, PySpark, Hudi, Delta, Iceberg]
+    cloud: [AWS, Azure, Google Cloud, AWS EMR]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7316269'
+  extracted_at: '2026-02-05T10:37:12.933687'

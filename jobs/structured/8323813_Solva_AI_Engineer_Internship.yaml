@@ -1,0 +1,48 @@
+company:
+  name: Solva
+  stage: Y Combinator S25
+  focus: AI for insurance claims processing
+  use_cases:
+  - AI-powered claims decision support for insurers
+  - Automated reasoning and evaluation of insurance claims
+  - Retrieval-based systems for insurance data analysis
+  - Agent-based workflows for claims processing
+  - Fine-tuned LLMs for insurance domain decisions
+position:
+  title: AI Engineer Internship
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role directly involves building AI systems using LLMs, fine-
+      tuning, RAG, and agent workflows. Hands-on work with model
+      experimentation, evaluation, and deployment for claims
+      decision support.
+  responsibilities:
+  - Work on AI systems behind claims decision support and reasoning
+  - Develop agent workflows, evaluation pipelines, retrieval logic and prompt strategies
+  - Experiment with LLMs, fine-tuning, RAG, embeddings and model selection
+  - Stress test outputs and build robust engineering systems
+  - Ship fast, iterate with customers and solve messy problems
+  - Build internal tools, dashboards and analysis frameworks
+  use_cases:
+  - AI-powered claims decision support for insurers
+  - Automated reasoning and evaluation of insurance claims
+  - Retrieval-based systems for insurance data analysis
+  - Agent-based workflows for claims processing
+  - Fine-tuned LLMs for insurance domain decisions
+  skills:
+    genai: [RAG, agents, fine-tuning, prompt strategies, LLMs, embeddings]
+    ml: [model evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8323813'
+  extracted_at: '2026-02-05T12:50:54.966992'

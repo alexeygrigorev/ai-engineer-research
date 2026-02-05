@@ -1,0 +1,64 @@
+company:
+  name: SS&C Technologies
+  stage: Public
+  focus: Financial services and healthcare technology
+  use_cases:
+  - Cloud infrastructure platform for Kubernetes and containerized workloads
+  - Release management and CI/CD pipeline automation for application deployments
+  - Monitoring and logging platform for infrastructure and application performance
+    visibility
+  - Cloud cost optimization for efficient infrastructure operations
+  - Secure and compliant cloud operations meeting financial services and healthcare
+    regulatory standards
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Kubernetes and Cloud Operations role focused on
+      building infrastructure platforms and release management
+      processes. The role involves cloud-native services,
+      containerization, and operations to support application
+      deployment, but does not include building, training, or
+      deploying AI models directly.
+  responsibilities:
+  - Design, implement, and maintain cloud infrastructure including Kubernetes clusters
+    and containerization
+  - Develop and maintain Kubernetes expertise including cluster management, deployment
+    strategies, and troubleshooting
+  - Develop and implement release management processes and procedures for efficient
+    and secure deployments
+  - Build and lead a team of engineers for release management and operations
+  - Develop operational processes and procedures ensuring high availability, scalability,
+    and security
+  - Collaborate with development teams to ensure smooth application deployments and
+    provide architectural feedback
+  - Develop and implement monitoring and logging strategies for application and infrastructure
+    visibility
+  - Ensure cloud infrastructure and applications are secure, compliant, and meet regulatory
+    requirements
+  use_cases:
+  - Cloud infrastructure platform for Kubernetes and containerized workloads
+  - Release management and CI/CD pipeline automation for application deployments
+  - Monitoring and logging platform for infrastructure and application performance
+    visibility
+  - Cloud cost optimization for efficient infrastructure operations
+  - Secure and compliant cloud operations meeting financial services and healthcare
+    regulatory standards
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [cloud-native databases]
+    data: []
+    cloud: [cloud infrastructure, AWS, GCP, Azure, serverless computing]
+    ops: [Kubernetes, containerization, GitOps, CI/CD, monitoring, logging, service
+        mesh, Docker, Terraform]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7530812'
+  extracted_at: '2026-02-05T11:05:36.867102'

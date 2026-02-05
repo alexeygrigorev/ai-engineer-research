@@ -1,0 +1,50 @@
+company:
+  name: Toggle AI
+  stage: null
+  focus: AI-powered investment insights for professional investors
+  use_cases:
+  - AI-powered investment insights and earnings analysis for professional investors
+  - Risk assessment and market catalyst detection
+  - Reasoning engines for understanding market data and investor decisions
+  - Knowledge systems integrating proprietary financial data with AI models
+position:
+  title: Machine Learning and AI Engineer - New York
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves designing, fine-tuning, and deploying ML and
+      LLM-driven systems in production, plus building inference
+      pipelines and integrating OpenAI, Gemini, and Anthropic
+      models into reasoning systems. This is hands-on work
+      building and deploying AI models directly for investment
+      insights.
+  responsibilities:
+  - Design, fine-tune, and deploy ML and LLM-driven systems used in production by
+    professional investors
+  - Build and maintain fast, observable, and reliable inference pipelines
+  - Integrate OpenAI, Gemini, and Anthropic models into reasoning and knowledge systems
+  - Work closely with backend engineers to productionize models in Golang-based services
+  - Improve signal quality for investor decision-making
+  - Review code and designs with focus on long-term maintainability
+  use_cases:
+  - AI-powered investment insights and earnings analysis for professional investors
+  - Risk assessment and market catalyst detection
+  - Reasoning engines for understanding market data and investor decisions
+  - Knowledge systems integrating proprietary financial data with AI models
+  skills:
+    genai: [OpenAI, Anthropic, Gemini, fine-tuning, LLM reasoning systems, knowledge
+        graphs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [inference pipelines, model deployment]
+    languages: [Python, Golang]
+    domains: []
+    other: [Cursor, Claude Code]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8151500'
+  extracted_at: '2026-02-05T12:06:01.346264'

@@ -1,0 +1,55 @@
+company:
+  name: Capital Technology Group
+  stage: null
+  focus: |-
+    IT consulting and digital transformation for federal and
+    commercial clients
+  use_cases:
+  - Modernizing and innovating federal government software delivery
+  - Supporting high-impact civic tech initiatives within federal government
+  - Deploying production enterprise applications in AWS that use AI/ML
+  - Evaluating and prototyping emerging technologies for government clients
+  - Solving complex, mission-critical business challenges for federal and commercial
+    clients
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires 3+ years of experience deploying
+      production AI/ML applications in AWS and hands-on
+      proficiency with TensorFlow/PyTorch frameworks. The Lead
+      AI/ML Engineer must perform as a developer in cloud
+      environments for AI/ML systems, indicating direct work
+      building and deploying AI models.
+  responsibilities:
+  - Leads the team in evaluating new or emerging technologies using prototypes and/or
+    proof of concepts
+  - Analyzes and communicates the benefits and risks in implementing solutions using
+    the new technologies
+  - Perform as a developer, operations, and security engineer in cloud environments
+  - Lead teams to support the adoption of new technologies across the enterprise
+  - Provides technical leadership by supervising and mentoring junior IT specialists
+  use_cases:
+  - Modernizing and innovating federal government software delivery
+  - Supporting high-impact civic tech initiatives within federal government
+  - Deploying production enterprise applications in AWS that use AI/ML
+  - Evaluating and prototyping emerging technologies for government clients
+  - Solving complex, mission-critical business challenges for federal and commercial
+    clients
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: [pandas]
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8230284'
+  extracted_at: '2026-02-05T12:16:32.414214'

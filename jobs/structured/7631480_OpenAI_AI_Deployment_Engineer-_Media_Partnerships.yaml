@@ -1,0 +1,64 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company
+  use_cases:
+  - Customer service applications for news organizations
+  - Contextual search solutions for news content
+  - Personalization engines for reader experience
+  - Internal business operations optimization
+  - Marketing and audience development applications
+  - Sales support tools
+position:
+  title: AI Deployment Engineer- Media Partnerships
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that works directly
+      on building and deploying Generative AI applications for
+      customers. The role involves prototyping solutions,
+      designing enterprise architectures using OpenAI APIs, and
+      moving GenAI use cases from prototype to production - all
+      hands-on work with AI systems, not just enabling
+      infrastructure.
+  responsibilities:
+  - Collaborate with news organizations globally to implement GenAI technology across
+    newsroom operations, customer service, marketing, and business operations
+  - Deeply embed with sophisticated platform customers as a technical thought partner
+    to ideate and build novel applications using OpenAI API
+  - Provide proactive technical guidance to customers on maximizing business impact
+    from their GenAI applications
+  - Experiment and prototype solutions with and for customers, moving applications
+    from prototype through production
+  - Forge and manage relationships with customer leadership and stakeholders to ensure
+    successful deployment and scaling
+  - Contribute to open-source developer and enterprise resources and codify best practices
+    through notebooks and documentation
+  - Validate, synthesize, and deliver high-signal feedback to Product, Engineering,
+    and Research teams
+  - Design holistic enterprise architectures using OpenAI API and other services to
+    maximize customer value
+  use_cases:
+  - Customer service applications for news organizations
+  - Contextual search solutions for news content
+  - Personalization engines for reader experience
+  - Internal business operations optimization
+  - Marketing and audience development applications
+  - Sales support tools
+  skills:
+    genai: [OpenAI API]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [prototyping, enterprise architecture, technical consulting, stakeholder
+        management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7631480'
+  extracted_at: '2026-02-05T11:16:11.481821'

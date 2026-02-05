@@ -1,0 +1,65 @@
+company:
+  name: TENEX.AI
+  stage: Series B
+  focus: |-
+    AI-native Managed Detection and Response (MDR) cybersecurity
+    provider
+  use_cases:
+  - Autonomous threat detection using AI-powered systems that analyze security events
+  - RAG-backed investigation workflows for cybersecurity incident analysis
+  - Automated remediation of security threats through AI-driven decision making
+  - Real-time processing and analysis of billions of security events using streaming
+    pipelines
+  - Multi-modal threat detection combining text analysis, log data, and graph-based
+    reasoning
+  - Graph-based reasoning engines for understanding attacker behavior patterns
+position:
+  title: Principal AI Engineer (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems: designing the AI layer, productionizing LLMs,
+      developing RAG-backed workflows, building agents and
+      orchestration frameworks, and implementing fine-tuning and
+      evaluation systems. This is direct work ON AI models and
+      systems, not support infrastructure.
+  responsibilities:
+  - Design and build the AI layer that powers autonomous detection, RAG-backed investigation,
+    and auto-remediation workflows
+  - Develop and productionize large-scale LLMs, graph-based reasoning engines, and
+    streaming feature pipelines operating on billions of security events
+  - Own evaluation and reliability including prompt libraries, fine-tuning, red-team
+    testing, latency budgets, and fallback strategies
+  - Mentor and grow AI engineers, run design reviews, uphold code quality, and instill
+    security-first mindset
+  - Partner with Product, Detection Engineering, and Customer Success to translate
+    attacker behavior into robust ML and rule-based detections
+  - Experiment with retrieval-augmented generation, tool-calling agents, and multi-modal
+    models combining text, logs, and graphs
+  use_cases:
+  - Autonomous threat detection using AI-powered systems that analyze security events
+  - RAG-backed investigation workflows for cybersecurity incident analysis
+  - Automated remediation of security threats through AI-driven decision making
+  - Real-time processing and analysis of billions of security events using streaming
+    pipelines
+  - Multi-modal threat detection combining text analysis, log data, and graph-based
+    reasoning
+  - Graph-based reasoning engines for understanding attacker behavior patterns
+  skills:
+    genai: [LLM architecture, prompt engineering, agents, LangChain, LangGraph, RAG,
+      tool-calling, multi-modal models]
+    ml: [fine-tuning]
+    web: [REST, gRPC]
+    databases: [vector databases, graph databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Go, Rust, Java]
+    domains: []
+    other: [microservices architecture, event-driven systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7483844'
+  extracted_at: '2026-02-05T10:59:04.665221'

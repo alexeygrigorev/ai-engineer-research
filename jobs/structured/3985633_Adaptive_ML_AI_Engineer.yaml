@@ -1,0 +1,64 @@
+company:
+  name: Adaptive ML
+  stage: Seed
+  focus: RLOps platform for LLM specialization and deployment
+  use_cases:
+  - Specializing and deploying large language models into production environments
+    for enterprises
+  - Building synthetic data pipelines to bootstrap models and enable continuous improvement
+    from production feedback
+  - Optimizing task-specific LLM development for measurable business impact and ROI
+  - Running production-ready workflows that serve millions of requests while optimizing
+    cost and performance
+  - Helping customers bridge the gap from proof-of-concept to production for generative
+    AI projects
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work specializing LLMs for
+      production deployment using reinforcement learning and
+      building synthetic data pipelines. The engineer directly
+      experiments with model personalization and productionizes
+      frontier AI research, which is core AI development work
+      rather than just support or infrastructure.
+  responsibilities:
+  - Embed directly with enterprise customers to help maximize the value of their Adaptive
+    Engine deployment
+  - Experiment with pipelines to personalize models at scale, leveraging synthetic
+    data and production feedback
+  - Ensure customer success by owning problems end-to-end from ideation to deployment,
+    validation, and production
+  - Work closely with research staff to productionize the latest frontier AI research
+    initiatives
+  - Contribute to the product roadmap by identifying promising trends and customer
+    needs
+  - Report clearly on work to a distributed collaborative team with a focus on asynchronous
+    written communication
+  use_cases:
+  - Specializing and deploying large language models into production environments
+    for enterprises
+  - Building synthetic data pipelines to bootstrap models and enable continuous improvement
+    from production feedback
+  - Optimizing task-specific LLM development for measurable business impact and ROI
+  - Running production-ready workflows that serve millions of requests while optimizing
+    cost and performance
+  - Helping customers bridge the gap from proof-of-concept to production for generative
+    AI projects
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: [Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Synthetic Data]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '3985633'
+  extracted_at: '2026-02-05T09:37:09.562431'

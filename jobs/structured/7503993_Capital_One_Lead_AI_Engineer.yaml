@@ -1,0 +1,59 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+  use_cases:
+  - Informing customers about unusual charges on their accounts
+  - Answering customer questions in real time with AI-powered chatbots
+  - Delivering personalized banking experiences through ML-driven recommendations
+  - Supporting AI models and platforms that empower teams across Capital One to enhance
+    their products
+  - Building responsible and scalable AI systems for banking applications
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is directly building and deploying AI systems -
+      specifically foundation model training, LLM inference,
+      similarity search, guardrails, and model optimization. This
+      is hands-on work with models and production AI
+      infrastructure, not supporting infrastructure or general
+      software engineering.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that transform
+    how associates work and customers interact with Capital One
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, large language model inference, similarity search, guardrails,
+    model evaluation, experimentation, governance, and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve the
+    scalability, cost, latency, and throughput of large scale production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Informing customers about unusual charges on their accounts
+  - Answering customer questions in real time with AI-powered chatbots
+  - Delivering personalized banking experiences through ML-driven recommendations
+  - Supporting AI models and platforms that empower teams across Capital One to enhance
+    their products
+  - Building responsible and scalable AI systems for banking applications
+  skills:
+    genai: [LLM inference, RAG, Guardrails, Nemo Guardrails]
+    ml: [PyTorch, Hugging Face, Model evaluation, Foundation model training]
+    web: []
+    databases: [Vector databases, Similarity search]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Experimentation, Governance, Observability, LLM optimization]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7503993'
+  extracted_at: '2026-02-05T11:02:37.338247'

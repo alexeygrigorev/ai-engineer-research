@@ -1,0 +1,52 @@
+company:
+  name: Loop AI - Delivery Intelligence Platform
+  stage: Seed/Series A (founded 2022, startup)
+  focus: Delivery Intelligence Platform for food-tech brands
+  use_cases:
+  - Delivery intelligence platform for data-driven digital food brands
+  - Optimize operations for food-tech companies
+  - Enable data-driven decision making for food brands
+  - Enhance customer experience through innovative backend solutions
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The job description describes a backend engineering role
+      with no mention of building, training, fine-tuning, or
+      deploying AI/ML models. The title mentions "AI Engineer" but
+      all responsibilities and requirements focus on backend
+      system architecture, Python/Django development, and database
+      optimization - this is general software engineering for an
+      AI company, not hands-on AI work.
+  responsibilities:
+  - Develop ideal backend system architecture to solve problems efficiently and create
+    strategic plans for long-term vision
+  - Engage with customers to understand pain points and collaborate on innovative
+    solutions
+  - Apply critical thinking to problem-solving from the ground up and challenge existing
+    solutions
+  - Write clean and maintainable code using Python and Django backend stack
+  - Troubleshoot and debug issues in the backend system
+  - Optimize performance of backend services using GCP and dbt
+  use_cases:
+  - Delivery intelligence platform for data-driven digital food brands
+  - Optimize operations for food-tech companies
+  - Enable data-driven decision making for food brands
+  - Enhance customer experience through innovative backend solutions
+  skills:
+    genai: []
+    ml: []
+    web: [Django]
+    databases: [PostgreSQL]
+    data: [dbt]
+    cloud: [GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [backend systems, system architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8297866'
+  extracted_at: '2026-02-05T12:40:44.843895'

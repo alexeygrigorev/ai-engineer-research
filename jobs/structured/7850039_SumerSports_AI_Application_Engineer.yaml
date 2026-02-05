@@ -1,0 +1,57 @@
+company:
+  name: SumerSports
+  stage: null
+  focus: Football intelligence technology for NFL and NCAA
+  use_cases:
+  - AI-powered sports analytics answering complex football questions
+  - Domain-aware insights for NFL clubs within salary cap constraints
+  - NCAA transfer portal analysis and recommendations
+  - RAG systems for sports knowledge retrieval
+  - Agent-based workflows combining structured sports data with AI reasoning
+  - AI-assisted tools for coaches and team decision-making
+position:
+  title: AI Application Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building LLM-based applications
+      including RAG systems, agents, and prompt orchestration. The
+      engineer is directly implementing AI features, not just
+      supporting infrastructure for other teams.
+  responsibilities:
+  - Design and build AI-powered user features using prompt-based and retrieval-augmented
+    systems (RAG) to answer sports questions
+  - Build agents and workflows combining deterministic logic with LLM reasoning
+  - Prototype and iterate rapidly using prompting, tool orchestration, and retrieval
+    design with automated quality checks
+  - Collaborate with LLMOps Platform team on eval frameworks, prompt registries, and
+    model gateways
+  - Integrate deep learning and data systems combining structured stats, tracking
+    data, and video-derived features
+  - Build APIs and UI layers exposing insights to coaches, teams, and partners
+  - Explore novel sports analytics tools using LLMs, retrieval, and deterministic
+    logic
+  use_cases:
+  - AI-powered sports analytics answering complex football questions
+  - Domain-aware insights for NFL clubs within salary cap constraints
+  - NCAA transfer portal analysis and recommendations
+  - RAG systems for sports knowledge retrieval
+  - Agent-based workflows combining structured sports data with AI reasoning
+  - AI-assisted tools for coaches and team decision-making
+  skills:
+    genai: [LangChain, LlamaIndex, Semantic Kernel, Haystack, prompt engineering,
+      RAG, agents, tool orchestration]
+    ml: []
+    web: [Node.js, React, REST APIs]
+    databases: [Pinecone, Weaviate, Qdrant, vector databases]
+    data: []
+    cloud: [Vercel, AWS, GCP]
+    ops: [Langfuse, Arize Phoenix, Promptfoo, CI/CD]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7850039'
+  extracted_at: '2026-02-05T11:35:41.286961'

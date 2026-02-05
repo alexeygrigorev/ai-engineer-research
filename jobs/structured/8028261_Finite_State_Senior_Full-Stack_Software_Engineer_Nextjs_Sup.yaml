@@ -1,0 +1,76 @@
+company:
+  name: Finite State
+  stage: Series B
+  focus: |-
+    Cybersecurity platform for connected devices and supply
+    chains
+  use_cases:
+  - Provides transparency and security analysis for connected devices and embedded
+    systems across industries
+  - Analyzes firmware builds by unpacking and examining every file, configuration,
+    and setting to generate complete software bill of materials
+  - Identifies known vulnerabilities and zero-day threats in IoT and connected device
+    software supply chains
+  - Generates contextual risk scores and actionable remediation guidance for product
+    security teams
+  - Secures critical infrastructure including medical devices, power grids, telecommunications
+    networks, and connected vehicles
+  - Helps manufacturers maintain device production timelines and budgets while managing
+    cybersecurity risks
+position:
+  title: Senior Full-Stack Software Engineer (Next.js + Supabase + AI-Native)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack software engineer role that uses AI
+      tools (Cursor, Copilot, Devin) to accelerate development
+      workflows and build internal agents for automation tasks.
+      However, the role focuses on building cybersecurity platform
+      applications using Next.js and Supabase, not on developing,
+      training, or deploying AI/ML models themselves.
+  responsibilities:
+  - Build and maintain secure, scalable web applications using Next.js, React, TypeScript,
+    and Node with PostgreSQL on Supabase
+  - Design and implement business logic close to the data using Postgres functions,
+    views, triggers, Row-Level Security, and Supabase Edge Functions
+  - Leverage AI-assisted development tools like Cursor, Devin, and GitHub Copilot
+    to scaffold features, generate schemas, and build internal automation agents
+  - Embed security best practices across all development layers including secure coding,
+    dependency management, and authentication/authorization
+  - Collaborate with product managers and designers to translate customer needs into
+    impactful features while providing technical and data-informed guidance
+  - Design and optimize API contracts, edge endpoints, and event flows considering
+    performance, resiliency, and multi-region deployment
+  - Model and optimize relational data in PostgreSQL for large multi-tenant workloads
+    with proper indexing strategies and query performance tuning
+  - Support automated testing, CI/CD pipelines, database migrations, and vulnerability
+    scanning throughout the development lifecycle
+  use_cases:
+  - Provides transparency and security analysis for connected devices and embedded
+    systems across industries
+  - Analyzes firmware builds by unpacking and examining every file, configuration,
+    and setting to generate complete software bill of materials
+  - Identifies known vulnerabilities and zero-day threats in IoT and connected device
+    software supply chains
+  - Generates contextual risk scores and actionable remediation guidance for product
+    security teams
+  - Secures critical infrastructure including medical devices, power grids, telecommunications
+    networks, and connected vehicles
+  - Helps manufacturers maintain device production timelines and budgets while managing
+    cybersecurity risks
+  skills:
+    genai: [Cursor, GitHub Copilot, Devil, agent frameworks]
+    ml: []
+    web: [Next.js, React, Node.js, Supabase Auth, OAuth2, OIDC, SSO, REST, GraphQL]
+    databases: [PostgreSQL, Supabase, Redis, Row-Level Security (RLS)]
+    data: []
+    cloud: [AWS RDS, AWS, Edge Functions]
+    ops: [Docker, Kubernetes, CI/CD, Trivy, Snyk]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8028261'
+  extracted_at: '2026-02-05T11:50:39.276651'

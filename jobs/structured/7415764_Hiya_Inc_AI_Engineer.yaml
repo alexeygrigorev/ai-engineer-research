@@ -1,0 +1,52 @@
+company:
+  name: Hiya Inc.
+  stage: Series B
+  focus: AI voice call protection and spam detection
+  use_cases:
+  - AI-powered voice call analysis for spam and scam detection
+  - Protecting over 550 million users from fraudulent calls and AI manipulation
+  - Multi-agent systems for next-generation voice intelligence
+  - LLM-based applications for call trust and confidence
+  - Voice communication safety and authenticity verification
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with AI models: fine-
+      tuning LLMs, implementing multi-agent systems, prompt
+      engineering, and RAG. This is building and deploying AI
+      solutions rather than supporting infrastructure.
+  responsibilities:
+  - Integrate AI solutions into existing products and workflows
+  - Conduct model evaluations, prompt engineering, and fine-tuning of large language
+    models (LLMs)
+  - Implement and manage AI orchestration, including agent-based systems
+  - Participate in the design and implementation of AI-powered applications and interfaces
+  - Collaborate with cross-functional teams to translate business requirements into
+    technical solutions
+  - Shape technical direction and best practices for LLM application development
+  - Stay at the forefront of AI research and incorporate state-of-the-art techniques
+  use_cases:
+  - AI-powered voice call analysis for spam and scam detection
+  - Protecting over 550 million users from fraudulent calls and AI manipulation
+  - Multi-agent systems for next-generation voice intelligence
+  - LLM-based applications for call trust and confidence
+  - Voice communication safety and authenticity verification
+  skills:
+    genai: [prompt engineering, LLM fine-tuning, RAG, LangChain, AutoGen, agent-based
+        systems]
+    ml: [model evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Kubernetes, Docker]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7415764'
+  extracted_at: '2026-02-05T10:49:30.817359'

@@ -1,0 +1,65 @@
+company:
+  name: Imprint
+  stage: Series B
+  focus: Co-branded credit cards and financial products
+  use_cases:
+  - Automating internal workflows across multiple departments including engineering,
+    operations, finance, and business development
+  - Integrating AI agents with internal systems like CRMs, data warehouses, and communication
+    tools to streamline operations
+  - Creating intelligent, self-improving workflows that replace manual processes and
+    increase team efficiency
+  - Building secure agent orchestration systems that leverage LLMs for process automation
+  - Enabling non-technical users to access advanced AI capabilities through intuitive
+    interfaces
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building an internal AI agent platform
+      from scratch, creating 50+ specialized agents using LLM
+      techniques, implementing RAG pipelines and embedding
+      systems, and working directly with AI frameworks like
+      OpenAI/Claude APIs. The engineer will hands-on develop,
+      deploy, and iterate on agent-based solutions, not just
+      support others who build AI.
+  responsibilities:
+  - Design Imprints internal agent platform from the ground up
+  - Create 50+ specialized AI agents automating workflows across engineering, operations,
+    customer success, finance, and business development
+  - Build secure, scalable agent orchestration systems integrating with existing tech
+    stack and internal systems
+  - Partner with teams across Imprint to identify high-impact automation opportunities
+    and transform manual processes into intelligent workflows
+  - Implement RAG pipelines, embedding systems, and multi-modal AI solutions using
+    cutting-edge frameworks
+  - Rapidly prototype with LLM APIs while balancing experimental innovation with production
+    reliability and security
+  use_cases:
+  - Automating internal workflows across multiple departments including engineering,
+    operations, finance, and business development
+  - Integrating AI agents with internal systems like CRMs, data warehouses, and communication
+    tools to streamline operations
+  - Creating intelligent, self-improving workflows that replace manual processes and
+    increase team efficiency
+  - Building secure agent orchestration systems that leverage LLMs for process automation
+  - Enabling non-technical users to access advanced AI capabilities through intuitive
+    interfaces
+  skills:
+    genai: [OpenAI API, Claude API, Gemini, prompt engineering, agent frameworks,
+      RAG architectures]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [GitHub Actions, ArgoCD, CI/CD]
+    languages: [Go, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6768326'
+  extracted_at: '2026-02-05T09:51:51.988640'

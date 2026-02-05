@@ -1,0 +1,52 @@
+company:
+  name: Mistral AI
+  stage: Series A
+  focus: Open-source LLMs and AI platform
+  use_cases:
+  - Enterprise AI platform deployment for customers in cloud or on-premises environments
+  - Consumer AI assistant applications through le Chat
+  - Industrial AI applications and transformations across various industries
+  - Inference and fine-tuning deployment for enterprise customers
+  - End-to-end AI solutions from GPU infrastructure to user interfaces
+position:
+  title: Applied AI Engineer, Senior/Staff Devops/SRE - EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that deploys state-
+      of-the-art AI applications, works on inference and fine-
+      tuning, and owns end-to-end execution from GPU stack to
+      production. The role involves hands-on work with AI models
+      and deployment, not just supporting infrastructure for
+      others.
+  responsibilities:
+  - Onboard customers on Mistral products with guidance on deployment and integration
+    from GPU stack through infrastructure to interfaces
+  - Deploy state-of-the-art AI applications from consumer products to industrial use
+    cases to drive technological transformation
+  - Collaborate with researchers and engineers on complex customer projects involving
+    deployment, scaling, inference and fine-tuning
+  - Participate in pre-sales calls to understand client needs and provide technical
+    guidance on Mistral technologies
+  use_cases:
+  - Enterprise AI platform deployment for customers in cloud or on-premises environments
+  - Consumer AI assistant applications through le Chat
+  - Industrial AI applications and transformations across various industries
+  - Inference and fine-tuning deployment for enterprise customers
+  - End-to-end AI solutions from GPU infrastructure to user interfaces
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Terraform, Ansible, inference]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '3831853'
+  extracted_at: '2026-02-05T09:36:59.848381'

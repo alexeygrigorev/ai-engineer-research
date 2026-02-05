@@ -1,0 +1,60 @@
+company:
+  name: EvolutionIQ
+  stage: Series B+ (growth stage company with global expansion and massive growth)
+  focus: AI guidance platform for insurance claims handling
+  use_cases:
+  - Extract key information from complex medical documents for insurance claims
+  - Generate human-in-the-loop summaries for medical claims processing
+  - Improve claims handling accuracy and efficiency using hybrid ML approaches
+  - Embeddings-based retrieval for medical document search and synthesis
+  - Agentic AI systems for autonomous claims processing
+  - RAG-powered medical synthesis with domain-specific fine-tuned LLMs
+position:
+  title: Senior AI/ML Engineer (LLMs)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work building, deploying,
+      and optimizing LLM-powered features including RAG systems,
+      fine-tuning models, and implementing agentic systems. The
+      engineer is responsible for end-to-end development from
+      ideation to production deployment of AI/ML solutions, which
+      is characteristic of ai-first roles.
+  responsibilities:
+  - Design, build, and deploy AI-powered and LLM-driven features for claim synthesis
+    product including robust extraction from medical documents and human-in-the-loop
+    summarization workflows
+  - Develop and implement hybrid machine learning solutions combining statistical
+    models, LLMs, and RAG embeddings-based retrieval techniques to improve accuracy,
+    scalability, and robustness
+  - Write clean, scalable, and efficient code while optimizing the performance of
+    existing AI/ML systems in production
+  - Collaborate with data labelers and subject matter experts to rigorously evaluate
+    AI system outputs and continuously improve model performance
+  - Partner with Product teams to rapidly iterate on feedback and deliver impactful
+    features
+  - Translate cutting-edge AI/ML research and novel techniques into production-grade,
+    reliable, and maintainable solutions for live customer environments
+  use_cases:
+  - Extract key information from complex medical documents for insurance claims
+  - Generate human-in-the-loop summaries for medical claims processing
+  - Improve claims handling accuracy and efficiency using hybrid ML approaches
+  - Embeddings-based retrieval for medical document search and synthesis
+  - Agentic AI systems for autonomous claims processing
+  - RAG-powered medical synthesis with domain-specific fine-tuned LLMs
+  skills:
+    genai: [LLMs, RAG, embeddings, prompt engineering, fine-tuning, agentic systems]
+    ml: [statistical machine learning]
+    web: [API services, microservice architectures]
+    databases: [vector search]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8231676'
+  extracted_at: '2026-02-05T12:17:03.353926'

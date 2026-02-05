@@ -1,0 +1,58 @@
+company:
+  name: Crunchyroll
+  stage: Public
+  focus: Global anime streaming platform
+  use_cases:
+  - Serving machine learning models at scale for a global streaming platform
+  - Enabling multi-model inference runtimes with GPU/TPU acceleration
+  - Providing platform infrastructure for authentication, security, and notification
+    services
+  - Deploying and operationalizing ML workloads for production environments
+  - Supporting intelligent features and experiences for anime streaming users
+position:
+  title: Staff Software Engineer, AI Runtime Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building ML inference runtimes and
+      platform infrastructure that enables ML teams to deploy and
+      operate models, rather than building, training, or fine-
+      tuning models directly. The engineer works on the serving
+      layer, optimization, and operationalization of ML systems to
+      support other teams who work on AI/ML.
+  responsibilities:
+  - Architect, build, and maintain ML inference runtimes for multi-model serving,
+    autoscaling, and GPU/TPU utilization
+  - Optimize inference pipelines and platform services for performance, reliability,
+    and scalability
+  - Lead deployment, operationalization, and maintenance of ML workloads in collaboration
+    with ML and data science teams
+  - Shape and maintain core platform services, including authentication, security,
+    and notifications
+  - Define scalable system architectures and guide cross-team design alignment
+  - Develop benchmarking, validation, and monitoring tools to measure and maintain
+    system performance
+  use_cases:
+  - Serving machine learning models at scale for a global streaming platform
+  - Enabling multi-model inference runtimes with GPU/TPU acceleration
+  - Providing platform infrastructure for authentication, security, and notification
+    services
+  - Deploying and operationalizing ML workloads for production environments
+  - Supporting intelligent features and experiences for anime streaming users
+  skills:
+    genai: []
+    ml: [model optimization]
+    web: [REST, gRPC]
+    databases: []
+    data: []
+    cloud: [SageMaker, ECS, AWS]
+    ops: [KServe, TorchServe, TensorRT, Triton, Kubeflow, BentoML, Kubernetes, GPU
+        acceleration, CI/CD, MLOps]
+    languages: [JavaScript, TypeScript, Golang, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7799756'
+  extracted_at: '2026-02-05T11:31:54.472680'

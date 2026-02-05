@@ -1,0 +1,52 @@
+company:
+  name: Burq, Inc.
+  stage: Series B
+  focus: Delivery and logistics platform with AI/ML automation
+  use_cases:
+  - AI/ML-powered automation for logistics and delivery operations
+  - Turnkey delivery solution with intelligent features
+  - Logistics optimization through machine learning models
+  - Production ML systems for delivery platform scale
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This is an ML-first role focused on designing, training,
+      deploying, and optimizing machine learning models using
+      TensorFlow and AWS SageMaker. The role involves hands-on
+      model engineering work with MLOps practices, not just
+      support infrastructure or LLM-specific development.
+  responsibilities:
+  - Design, train, and deploy machine learning models using AWS-native tools including
+    SageMaker, Lambda, Step Functions, and S3
+  - Collaborate with data engineers to build and maintain robust data pipelines for
+    feature ingestion, ETL, and model training
+  - Fine-tune and optimize models for scalability, accuracy, and production readiness
+  - Implement MLOps best practices including CI/CD pipelines, model versioning, monitoring,
+    and automated retraining workflows
+  - Monitor model performance, detect drift, and implement automated alerts and corrective
+    actions
+  - Work with cross-functional teams to integrate AI capabilities into user-facing
+    features
+  use_cases:
+  - AI/ML-powered automation for logistics and delivery operations
+  - Turnkey delivery solution with intelligent features
+  - Logistics optimization through machine learning models
+  - Production ML systems for delivery platform scale
+  skills:
+    genai: []
+    ml: [TensorFlow]
+    web: [React]
+    databases: []
+    data: [ETL, batch/streaming pipelines]
+    cloud: [SageMaker, AWS Lambda, AWS Step Functions, S3, DynamoDB]
+    ops: [Docker, CI/CD, MLOps]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7362831'
+  extracted_at: '2026-02-05T10:43:03.473381'

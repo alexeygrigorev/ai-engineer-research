@@ -1,0 +1,61 @@
+company:
+  name: MixMode
+  stage: Series B
+  focus: AI-powered cybersecurity threat detection
+  use_cases:
+  - Real-time threat detection for known and unknown cybersecurity threats across
+    cloud, hybrid, and on-premises environments
+  - Self-supervised AI systems that automatically learn and adapt to dynamic network
+    environments
+  - Scalable cybersecurity monitoring for large organizations with big data workloads
+  - Protecting critical infrastructure and government/defense assets from cyber threats
+  - Context-aware anomaly detection in network traffic patterns
+position:
+  title: Sr. Software Reliability Engineer for AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE role that focuses on infrastructure,
+      reliability, and operational health of AI systems rather
+      than building, training, or fine-tuning models. The engineer
+      collaborates with ML researchers but works on distributed
+      systems, monitoring, and deployment infrastructure to
+      support AI workloads.
+  responsibilities:
+  - Own the reliability, performance, and operational health of production AI systems,
+    focusing on improving complex, existing services
+  - Lead efforts to refactor and harden the AI codebase to improve observability,
+    maintainability, and resilience
+  - Diagnose and resolve issues across distributed systems, including latency, throughput,
+    data pipelines, and resource utilization
+  - Design and build monitoring, alerting, and debugging tools for high-availability
+    services
+  - Partner with researchers and ML engineers to productionize models at scale
+  - Establish best practices for testing, deployment, capacity planning, and incident
+    response
+  - Serve as a technical leader during on-call rotations, driving incident response,
+    postmortems, and continuous system improvements
+  use_cases:
+  - Real-time threat detection for known and unknown cybersecurity threats across
+    cloud, hybrid, and on-premises environments
+  - Self-supervised AI systems that automatically learn and adapt to dynamic network
+    environments
+  - Scalable cybersecurity monitoring for large organizations with big data workloads
+  - Protecting critical infrastructure and government/defense assets from cyber threats
+  - Context-aware anomaly detection in network traffic patterns
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [PostgreSQL, MySQL]
+    data: [Spark, Flink, Kafka]
+    cloud: []
+    ops: [Kubernetes, Docker, monitoring, alerting, logging, metrics, tracing, CI/CD]
+    languages: [Python, Java, Scala, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8168111'
+  extracted_at: '2026-02-05T12:08:27.866468'

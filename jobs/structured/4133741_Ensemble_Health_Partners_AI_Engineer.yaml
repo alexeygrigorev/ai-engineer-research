@@ -1,0 +1,58 @@
+company:
+  name: Ensemble Health Partners
+  stage: null
+  focus: |-
+    Technology-enabled revenue cycle management solutions for
+    healthcare
+  use_cases:
+  - Revenue cycle management optimization for health systems and hospitals
+  - Clinical applications using generative AI and large language models
+  - Predictive analytics to drive business insights and decision-making
+  - Processing multimodal datasets for complex healthcare problems
+  - Reducing healthcare costs and eliminating administrative complexity
+  - Enhancing patient outcomes through AI-powered solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Lead AI Engineer role that directly designs and
+      implements AI/ML systems, specifically focusing on
+      generative AI, LLMs, and retrieval augmented generation
+      (RAG) pipelines. The job requires hands-on experience
+      building, deploying, and evaluating machine learning models
+      using frameworks like PyTorch, TensorFlow, and LLM tools
+      like LangChain, LlamaIndex, and vector databases.
+  responsibilities:
+  - Design and develop AI algorithms and systems for clinical applications
+  - Evaluate and deploy models to address complex problems with multimodal data sets
+  - Utilize advanced techniques including deep learning, neural networks, and ML algorithms
+    to generate business insights
+  - Automate processes and build infrastructure for the AI team and collaborators
+  - Foster collaboration between Data Scientists, Product Analysts and the wider organization
+  - Drive innovation to scale growth through technology, standardization and optimization
+  use_cases:
+  - Revenue cycle management optimization for health systems and hospitals
+  - Clinical applications using generative AI and large language models
+  - Predictive analytics to drive business insights and decision-making
+  - Processing multimodal datasets for complex healthcare problems
+  - Reducing healthcare costs and eliminating administrative complexity
+  - Enhancing patient outcomes through AI-powered solutions
+  skills:
+    genai: [LangChain, LlamaIndex, Haystack, RAG, generative AI, LLMs, Azure AI Studio,
+      retrieval techniques]
+    ml: [PyTorch, TensorFlow, scikit-learn, XGBoost, deep learning, neural networks]
+    web: []
+    databases: [vector databases, SQL]
+    data: [data pipelines, Azure Data Factory, Hadoop, Spark]
+    cloud: [Azure, GCP, AWS]
+    ops: [MLOps, code pipelines, Continuous Integration, Unit/Integration Testing,
+      Code Reviews]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '4133741'
+  extracted_at: '2026-02-05T09:37:40.633995'

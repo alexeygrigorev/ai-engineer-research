@@ -1,0 +1,53 @@
+company:
+  name: Hex
+  stage: Series B
+  focus: AI-powered Data Science and Analytics platform
+  use_cases:
+  - Notebook Agent - AI-powered assistance for data science workflows
+  - Agentic search and discovery for finding relevant data context
+  - Context management and retrieval for AI agents in data science
+  - Permissions-aware search and indexing for data science platforms
+  - AI-powered recommendations for data science and analytics
+  - Accelerating and augmenting the data science workflow with AI
+position:
+  title: AI Engineer (Search and Context)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      agentic AI systems, including experimenting with agentic
+      techniques, fine-tuning models, and deploying AI
+      infrastructure. The engineer will directly work on agents,
+      search subagents, and context management systems that power
+      AI experiences for real customers.
+  responsibilities:
+  - Experimenting with new agentic techniques for search, discovery, and context management
+  - Designing and implementing architecture for scalable search and indexing pipelines
+  - Building and deploying AI infrastructure for production applications
+  - Running experiments and fine-tuning models for AI experiences
+  - Building and maintaining experimentation tooling and systems
+  - Developing high-scale, permissions-aware indexing systems
+  - Building agentic search and discovery subagents
+  use_cases:
+  - Notebook Agent - AI-powered assistance for data science workflows
+  - Agentic search and discovery for finding relevant data context
+  - Context management and retrieval for AI agents in data science
+  - Permissions-aware search and indexing for data science platforms
+  - AI-powered recommendations for data science and analytics
+  - Accelerating and augmenting the data science workflow with AI
+  skills:
+    genai: [agents, RAG, context management]
+    ml: [recommendation systems, model fine-tuning]
+    web: []
+    databases: []
+    data: [search systems]
+    cloud: []
+    ops: [MLOps]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8074529'
+  extracted_at: '2026-02-05T11:57:52.178803'

@@ -1,0 +1,55 @@
+company:
+  name: Atomicwork
+  stage: null
+  focus: Enterprise AI workflow automation and intelligent assistants
+  use_cases:
+  - Enterprise workflow automation powered by intelligent AI systems
+  - Autonomous assistants for conversational task completion
+  - Machine-assisted task automation with agentic orchestration
+  - Automated knowledge search and semantic retrieval
+  - Context-aware natural language understanding for enterprise workflows
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, fine-tuning, and
+      deploying transformer-based models, RAG systems, and AI
+      agents. The engineer works directly on the AI systems rather
+      than supporting infrastructure or data pipelines for others.
+  responsibilities:
+  - Design, build, and fine-tune transformer-based and retrieval-augmented models
+    for natural language understanding, intent classification, summarization, and
+    context-aware reasoning
+  - Develop AI components that power automated knowledge search, semantic retrieval,
+    agentic task orchestration, and conversational assistants
+  - Integrate AI systems with production data pipelines in a scalable and secure way
+  - Build evaluation pipelines, define metrics, and establish performance and reliability
+    benchmarks for AI features
+  - Collaborate with engineering, data, and product teams to productize models with
+    observability, monitoring, and continuous improvement
+  - Take end-to-end ownership of features from problem definition to deployment and
+    performance monitoring
+  use_cases:
+  - Enterprise workflow automation powered by intelligent AI systems
+  - Autonomous assistants for conversational task completion
+  - Machine-assisted task automation with agentic orchestration
+  - Automated knowledge search and semantic retrieval
+  - Context-aware natural language understanding for enterprise workflows
+  skills:
+    genai: [transformer-based models, LLMs, embeddings, RAG, multi-agent workflows,
+      semantic search]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [vector search]
+    data: []
+    cloud: [cloud infrastructure]
+    ops: [model serving, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8222402'
+  extracted_at: '2026-02-05T12:14:35.976985'

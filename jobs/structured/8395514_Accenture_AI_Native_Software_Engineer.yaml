@@ -1,0 +1,61 @@
+company:
+  name: Accenture
+  stage: Public
+  focus: Global professional services for cloud, data, and AI
+  use_cases:
+  - Agent-powered enterprise workflows that augment business processes
+  - Domain-specific agentic applications across finance, healthcare, and retail verticals
+  - Multi-provider AI platform integration enabling seamless switching between Anthropic,
+    Google, OpenAI, and open-source models
+  - Policy-based routing and orchestration of AI agents for complex enterprise decision-making
+  - Evaluation and observability systems to monitor agent performance, accuracy, and
+    safety in production
+position:
+  title: AI Native Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on design and deployment of agentic
+      systems including retrieval, orchestration, RAG workflows,
+      and tool invocation. The engineer builds and runs AI agents
+      directly, not just supporting infrastructure for others who
+      work on AI.
+  responsibilities:
+  - Design and build enterprise-ready AI agents with retrieval, orchestration, policy-based
+    routing, tool invocation, evaluation harnesses, and lifecycle observability
+  - Develop abstraction layers across AI providers (Anthropic, Google, OpenAI) to
+    enable seamless integration and multi-provider enablement
+  - Leverage containerization (Kubernetes, Docker), microservices, serverless, event-driven
+    architectures, CI/CD, and observability stacks to deliver scalable AI-native systems
+  - Tailor and deploy agentic applications across verticals (finance, healthcare,
+    retail) by adapting to domain-specific processes and constraints
+  - Participate in and lead design workshops, POCs, and code-with sessions to shape
+    data-driven agent workflows with stakeholders
+  - Define and use key metrics, test harnesses, and evaluation plans to measure agent
+    accuracy, latency, safety, and cost effectiveness
+  use_cases:
+  - Agent-powered enterprise workflows that augment business processes
+  - Domain-specific agentic applications across finance, healthcare, and retail verticals
+  - Multi-provider AI platform integration enabling seamless switching between Anthropic,
+    Google, OpenAI, and open-source models
+  - Policy-based routing and orchestration of AI agents for complex enterprise decision-making
+  - Evaluation and observability systems to monitor agent performance, accuracy, and
+    safety in production
+  skills:
+    genai: [LangChain, RAG, agents, prompt engineering, OpenAI API, Anthropic API,
+      Google Vertex AI, tool invocation, function calling]
+    ml: []
+    web: [microservices, REST]
+    databases: []
+    data: []
+    cloud: [serverless, event-driven architectures]
+    ops: [Kubernetes, Docker, CI/CD, Terraform, Helm, monitoring, evaluation tooling,
+      observability]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8395514'
+  extracted_at: '2026-02-05T13:06:30.506195'

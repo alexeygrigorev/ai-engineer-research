@@ -1,0 +1,56 @@
+company:
+  name: Everway
+  stage: null
+  focus: Neurotechnology software for education and accessibility
+  use_cases:
+  - Education software serving 250M+ users including students and educators
+  - Accessibility solutions for learners with diverse needs
+  - AI-powered products leveraging proprietary data and linguistic expertise
+  - Agentic workflows connecting LLMs with internal tools and data sources
+  - Multi-provider LLM applications using OpenAI, Anthropic, Google, and AWS Bedrock
+position:
+  title: Senior AI/ML Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role that involves
+      building and deploying Generative AI solutions including
+      LLMs, agentic workflows, and RAG implementations. The
+      engineer owns the full lifecycle from concept to production,
+      working with multiple LLM providers, open-source models, and
+      implementing Model Context Protocol - all direct work on AI
+      systems.
+  responsibilities:
+  - Own the full lifecycle of AI projects from ideation and data collection to production
+    deployment and post-launch evaluation
+  - Write well-designed, efficient, and testable code that integrates directly into
+    product codebases
+  - Implement Model Context Protocol (MCP) to connect LLMs with proprietary data sources
+    and internal tools securely
+  - Scope and build Generative AI solutions using a mixture of SaaS and Open Source
+    solutions
+  - Work with development, QA, and infrastructure teams to scale and monitor AI solutions
+    in production
+  use_cases:
+  - Education software serving 250M+ users including students and educators
+  - Accessibility solutions for learners with diverse needs
+  - AI-powered products leveraging proprietary data and linguistic expertise
+  - Agentic workflows connecting LLMs with internal tools and data sources
+  - Multi-provider LLM applications using OpenAI, Anthropic, Google, and AWS Bedrock
+  skills:
+    genai: [OpenAI, Anthropic, Llama, Mistral, Model Context Protocol, RAG, agentic
+        workflows, prompt engineering]
+    ml: [fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS Bedrock, cloud deployment]
+    ops: [CI/CD, Docker, ML deployment, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8189721'
+  extracted_at: '2026-02-05T12:10:53.846237'

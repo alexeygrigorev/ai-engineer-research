@@ -1,0 +1,70 @@
+company:
+  name: Natera
+  stage: Public
+  focus: Genetic testing and diagnostics using cell-free DNA
+  use_cases:
+  - Genomics analytics and clinical trial optimization for diagnostics
+  - Patient-facing solutions and provider engagement workflows
+  - R&D, Lab Ops, Clinical Trials, and Billing workflow automation
+  - Unstructured data extraction, classification, summarization, and generation from
+    knowledge bases
+  - Domain-specific copilots for lab workflows and clinical operations
+  - Personalized genetic testing and earlier targeted interventions
+position:
+  title: Principal AI/ML Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building platforms and infrastructure
+      that enable AI/ML work for others, rather than directly
+      building, training, or deploying models. While the role
+      involves GenAI and LLM technologies, the primary
+      responsibility is creating the tooling, frameworks, and
+      services that data scientists and engineers use to build and
+      deploy AI solutions. The emphasis is on platform
+      architecture, governance, compliance, and infrastructure -
+      classic AI platform engineering that supports AI development
+      rather than hands-on model work.
+  responsibilities:
+  - Define technical vision and architecture for Natera's ML and GenAI platforms ensuring
+    scalability, reliability, and compliance
+  - Build, operate, and evolve core AI platform components including data access,
+    LLM model registries, evaluation pipelines, vector databases, RAG frameworks,
+    and agent frameworks
+  - Design, build, and operate end-to-end ML/DL/FM infrastructure covering feature
+    engineering, distributed training, evaluation, deployment, and monitoring
+  - Implement production-grade GenAI and ML services and APIs powering critical workflows
+    from genomics analytics to clinical trial optimization
+  - Lead deployment and scaling of large models using modern MLOps practices including
+    Kubernetes, MLflow, and AWS-native services
+  - Embed governance and monitoring guardrails into AI/ML pipelines including bias
+    testing, safety, security, hallucination detection, and audit trails
+  - Set coding standards, review designs, and ensure best practices in reproducibility,
+    monitoring, and observability as principal technical authority
+  - Evaluate and integrate emerging AI/ML technologies including foundation models,
+    multimodal AI, biomedical reasoning agents, and federated learning
+  use_cases:
+  - Genomics analytics and clinical trial optimization for diagnostics
+  - Patient-facing solutions and provider engagement workflows
+  - R&D, Lab Ops, Clinical Trials, and Billing workflow automation
+  - Unstructured data extraction, classification, summarization, and generation from
+    knowledge bases
+  - Domain-specific copilots for lab workflows and clinical operations
+  - Personalized genetic testing and earlier targeted interventions
+  skills:
+    genai: [LangChain, LlamaIndex, CrewAI, RAG, agent frameworks, prompt orchestration,
+      LLM fine-tuning, LLMOps]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [vector databases]
+    data: [Spark]
+    cloud: [AWS]
+    ops: [MLflow, Kubernetes, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7789635'
+  extracted_at: '2026-02-05T11:31:24.697841'

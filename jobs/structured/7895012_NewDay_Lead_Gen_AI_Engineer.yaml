@@ -1,0 +1,54 @@
+company:
+  name: NewDay
+  stage: null
+  focus: Financial services and credit solutions
+  use_cases:
+  - Support assistants and knowledge assistants
+  - Case handling automation
+  - Fraud investigation automation
+  - Decision support systems
+  - Customer support solutions
+  - Commercial automation tools
+position:
+  title: Lead Gen AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical role building production-grade
+      Generative AI solutions using LLMs, RAG, and vector search.
+      The role involves designing, architecting, and deploying
+      GenAI systems from concept to production, not just
+      supporting AI work.
+  responsibilities:
+  - Design, architect and deliver production-grade GenAI solutions using LLMs, RAG,
+    vector search, and prompt engineering
+  - Drive GenAI projects end-to-end, evolving solutions from proof-of-concept to production
+    with strong technical quality
+  - Provide hands-on technical leadership, mentoring engineers, defining engineering
+    standards, and leading design reviews
+  - Lead technical execution of real-world GenAI applications including support assistants,
+    case handling automation, fraud investigation, and decision support
+  use_cases:
+  - Support assistants and knowledge assistants
+  - Case handling automation
+  - Fraud investigation automation
+  - Decision support systems
+  - Customer support solutions
+  - Commercial automation tools
+  skills:
+    genai: [LLMs, RAG, vector search, prompt engineering, orchestration frameworks,
+      prompt design, context management, tool use, memory management, agentic workflows]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [CI/CD, observability frameworks]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7895012'
+  extracted_at: '2026-02-05T11:38:27.074178'

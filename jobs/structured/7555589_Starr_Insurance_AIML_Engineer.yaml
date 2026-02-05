@@ -1,0 +1,63 @@
+company:
+  name: Starr Insurance
+  stage: Public
+  focus: Commercial property and casualty insurance
+  use_cases:
+  - Improve profitability through AI/ML-driven insights and optimization
+  - Enhance underwriting decisions using propensity and uplift modeling
+  - Optimize claims processing with predictive classification models
+  - Improve risk assessment through forecasting and advanced analytics
+  - Augment customer service with AI/ML capabilities
+  - Leverage foundation models for insurance-specific applications and fine-tuning
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, developing, and deploying AI/ML
+      solutions with hands-on work in machine learning, deep
+      learning, and foundational models. The engineer will fine-
+      tune, evaluate, and implement foundation models directly,
+      which is core ai-first work rather than support or
+      infrastructure.
+  responsibilities:
+  - Design, develop, and deploy AI/ML solutions using statistics, machine learning,
+    deep learning, and foundational models to improve profitability
+  - Implement classification models, forecasting, propensity and uplift modeling,
+    and foundational model fine-tuning, evaluation, and implementation
+  - Identify growth opportunities in underwriting, claims processing, risk assessment,
+    and customer service through AI/ML augmentation
+  - Collaborate cross-functionally with business, IT, and Transformation teams to
+    drive scalability and impact of AI/ML solutions
+  - Communicate complex AI/ML concepts and findings to business leaders in a clear
+    and concise manner
+  - Uncover meaningful data patterns and transform them into actionable insights through
+    predictive modeling, data mining, and machine learning algorithms
+  - Deploy leading analytics technologies specific to business needs to drive results
+    and identify opportunities
+  use_cases:
+  - Improve profitability through AI/ML-driven insights and optimization
+  - Enhance underwriting decisions using propensity and uplift modeling
+  - Optimize claims processing with predictive classification models
+  - Improve risk assessment through forecasting and advanced analytics
+  - Augment customer service with AI/ML capabilities
+  - Leverage foundation models for insurance-specific applications and fine-tuning
+  skills:
+    genai: [foundation models]
+    ml: [predictive modeling, data mining, machine learning algorithms, propensity
+        modeling, uplift modeling, classification models, forecasting, deep learning,
+      decision tree, logistic regression, hierarchical regression, neural network,
+      random forest]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, R]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7555589'
+  extracted_at: '2026-02-05T11:06:29.247067'

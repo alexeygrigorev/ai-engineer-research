@@ -1,0 +1,60 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Insurance provider and auto insurer
+  use_cases:
+  - Transform legacy CRM into a modern, scalable solution using Microsoft Dynamics
+    365 and Power Platform
+  - Enable GEICO agents to better support customers and deliver seamless experiences
+    across Chat, SMS, and email
+  - Integrate AI-driven capabilities into CRM applications for enhanced customer service
+  - Build high-performance, low-latency platforms for insurance business transformation
+  - Create self-service platforms and business continuity solutions for enterprise
+    operations
+position:
+  title: Senior Software Engineer- CRM, Artificial Intelligence
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves integrating AI solutions (machine
+      learning, NLP) into CRM software applications rather than
+      building, training, or deploying AI models. The primary
+      focus is full-stack development, platform engineering, and
+      Dynamics 365 implementation with AI as an integration
+      component, making this an AI-support role.
+  responsibilities:
+  - Collaborate with product managers, team members, customers, and other engineering
+    teams to solve business problems
+  - Develop and execute technical software development strategy including self-service,
+    business continuity, backup/restores, incident response and paging platforms
+  - Ensure quality, usability, and performance of the solutions delivered
+  - Lead projects from the front and interact with clients and sponsors on a regular
+    basis
+  - Share best practices and improve processes within and across teams
+  - Provide on-call and operational support
+  use_cases:
+  - Transform legacy CRM into a modern, scalable solution using Microsoft Dynamics
+    365 and Power Platform
+  - Enable GEICO agents to better support customers and deliver seamless experiences
+    across Chat, SMS, and email
+  - Integrate AI-driven capabilities into CRM applications for enhanced customer service
+  - Build high-performance, low-latency platforms for insurance business transformation
+  - Create self-service platforms and business continuity solutions for enterprise
+    operations
+  skills:
+    genai: []
+    ml: [machine learning]
+    web: [Dynamics 365, Microsoft Power Platform, Full Stack Development, API Gateway,
+      API management, GRPC, REST]
+    databases: [MySQL, PostgreSQL]
+    data: []
+    cloud: [Azure Services]
+    ops: [Docker, Kubernetes]
+    languages: [Java, Python, Go]
+    domains: [natural language processing]
+    other: [Scrum]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7119763'
+  extracted_at: '2026-02-05T10:19:45.272431'

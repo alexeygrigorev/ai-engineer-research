@@ -1,0 +1,56 @@
+company:
+  name: Reflex Robotics
+  stage: Series A
+  focus: |-
+    Affordable wheeled humanoid robots for manufacturing and
+    logistics automation
+  use_cases:
+  - Automating dangerous and repetitive tasks in manufacturing and logistics
+  - Loading products into containers in e-commerce warehouses
+  - Lifting and moving heavy packages in retail environments
+  - Cleaning and maintenance tasks in various settings
+  - Real-time teleoperation with human-in-the-loop feedback for policy improvement
+  - Achieving 99.99% success rates in robotic manipulation tasks
+position:
+  title: Principal AI Research Engineer - RL
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying reinforcement
+      learning algorithms for robotics, requiring re-
+      implementation of RL algorithms (SAC, DDPG) from scratch and
+      shipping on-policy RL on real hardware. The engineer will be
+      directly developing robot policies and working with their
+      proprietary robotics data to train AI systems.
+  responsibilities:
+  - Create robust robot policies using on-policy reinforcement learning algorithms
+  - Re-implement and optimize core RL algorithms (SAC, DDPG) from scratch for robotics
+    applications
+  - Debug unstable gradients and tune hyperparameters for RL systems
+  - Deploy on-policy RL on real-world hardware for learning in production environments
+  - Develop sample-efficient RL algorithms to improve robot performance
+  - Work with proprietary robotics datasets to train increasingly capable AI systems
+  use_cases:
+  - Automating dangerous and repetitive tasks in manufacturing and logistics
+  - Loading products into containers in e-commerce warehouses
+  - Lifting and moving heavy packages in retail environments
+  - Cleaning and maintenance tasks in various settings
+  - Real-time teleoperation with human-in-the-loop feedback for policy improvement
+  - Achieving 99.99% success rates in robotic manipulation tasks
+  skills:
+    genai: []
+    ml: [Reinforcement Learning, SAC (Soft Actor-Critic), DDPG, DreamerV3, MuZero,
+      on-policy RL, PyTorch, hyperparameter tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [robotics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6684124'
+  extracted_at: '2026-02-05T09:47:09.646225'

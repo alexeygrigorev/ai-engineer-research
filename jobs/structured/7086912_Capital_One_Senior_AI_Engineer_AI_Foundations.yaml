@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services
+  use_cases:
+  - Informing customers about unusual charges in real-time
+  - Answering customer questions in real-time with AI-powered systems
+  - Creating personalized customer experiences through ML applications
+  - Empowering internal teams to enhance products with AI capabilities in responsible
+    and scalable ways
+  - Delivering transformative AI applications that bring humanity and simplicity to
+    banking
+  - Building foundational AI infrastructure that serves millions of customers
+position:
+  title: Senior AI Engineer (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with AI systems
+      including foundation model training, LLM inference, and
+      optimization. The engineer will design, deploy, and support
+      AI components including similarity search, guardrails, and
+      model evaluation systems.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training and LLM inference
+  - Build similarity search, guardrails, model evaluation, experimentation, governance,
+    and observability systems
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    and VectorDBs
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve performance,
+    scalability, cost, latency, and throughput
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Informing customers about unusual charges in real-time
+  - Answering customer questions in real-time with AI-powered systems
+  - Creating personalized customer experiences through ML applications
+  - Empowering internal teams to enhance products with AI capabilities in responsible
+    and scalable ways
+  - Delivering transformative AI applications that bring humanity and simplicity to
+    banking
+  - Building foundational AI infrastructure that serves millions of customers
+  skills:
+    genai: [Nemo Guardrails, RAG]
+    ml: [PyTorch, Huggingface, Foundation model training, Model evaluation]
+    web: []
+    databases: [VectorDBs, Similarity search]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [LLM inference, LLM optimization]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7086912'
+  extracted_at: '2026-02-05T10:13:25.512634'

@@ -1,0 +1,54 @@
+company:
+  name: Spara
+  stage: Series A
+  focus: Enterprise AI agents for sales lead conversion
+  use_cases:
+  - Multi-modal AI sales agents engaging leads across chat, email, and voice channels
+  - Automated qualification and conversion of sales leads into pipeline and revenue
+  - Personalized, human-level AI conversations with customers at scale
+  - Intelligent sales conversation platform replacing traditional human sales interactions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building AI agents that power
+      multi-modal sales interactions (chat, email, voice) through
+      prompt engineering, fine-tuning, and orchestrating
+      foundation models. This is hands-on work with LLMs to create
+      autonomous AI systems, not just supporting infrastructure or
+      data pipelines.
+  responsibilities:
+  - Architect and build Spara's AI engine powering intelligent interactions across
+    chat, email, and voice
+  - Define quantitative success criteria and run online and offline evaluations to
+    maintain performance and reliability
+  - Craft exceptional user experiences through prompt engineering, fine-tuning, and
+    orchestrating foundation models
+  - Collaborate with leadership to shape product roadmap and technical vision with
+    high degree of autonomy
+  - Drive innovation by staying current with best practices and emerging trends in
+    AI application development
+  - Deeply understand customer needs to identify opportunities and act as a force-multiplier
+    across the engineering team
+  use_cases:
+  - Multi-modal AI sales agents engaging leads across chat, email, and voice channels
+  - Automated qualification and conversion of sales leads into pipeline and revenue
+  - Personalized, human-level AI conversations with customers at scale
+  - Intelligent sales conversation platform replacing traditional human sales interactions
+  skills:
+    genai: [OpenAI API, Anthropic API, prompt engineering]
+    ml: [fine-tuning]
+    web: [FastAPI, React]
+    databases: [Postgres, pgvector]
+    data: []
+    cloud: [Google Cloud]
+    ops: [Docker, GitHub Actions]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8031582'
+  extracted_at: '2026-02-05T11:51:39.294535'

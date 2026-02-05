@@ -1,0 +1,57 @@
+company:
+  name: Block
+  stage: Public
+  focus: Financial technology and economic empowerment
+  use_cases:
+  - Automating customer support workflows to improve speed and reliability
+  - Delivering AI-powered customer support experiences that scale across Block's products
+  - Building systems that help millions of customers get better-than-human support
+  - Creating operational leverage across Block through AI-driven support tools
+  - Enabling intelligent support experiences that adapt to diverse products and users
+position:
+  title: Senior Machine Learning Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI/ML systems
+      including fine-tuning large language models, implementing
+      RAG, distillation, and prompt orchestration. The engineer is
+      directly responsible for designing, developing, and
+      deploying AI-powered customer support features, not just
+      providing infrastructure or support for AI teams.
+  responsibilities:
+  - Leverage AI to automate support workflows and deliver AI-powered support product
+    experiences
+  - Design, build, and maintain scalable ML systems including fine-tuning and integrating
+    large language models
+  - Collaborate cross-functionally with product, engineering, design, and operations
+    teams to ship AI features at scale
+  - Build generative AI systems that scale intelligently across multiple business
+    units and use cases
+  - Stay current on LLM developments and assess new techniques like RAG, distillation,
+    and prompt orchestration to enhance systems
+  - Mentor peers and contribute to technical documentation, design reviews, and shared
+    best practices for applied ML systems
+  use_cases:
+  - Automating customer support workflows to improve speed and reliability
+  - Delivering AI-powered customer support experiences that scale across Block's products
+  - Building systems that help millions of customers get better-than-human support
+  - Creating operational leverage across Block through AI-driven support tools
+  - Enabling intelligent support experiences that adapt to diverse products and users
+  skills:
+    genai: [Large Language Models, RAG, prompt orchestration, fine-tuning, distillation,
+      generative AI]
+    ml: [model training, model evaluation]
+    web: []
+    databases: []
+    data: [data gathering]
+    cloud: [cloud vendors]
+    ops: [MLOps, production monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7564889'
+  extracted_at: '2026-02-05T11:06:49.429997'

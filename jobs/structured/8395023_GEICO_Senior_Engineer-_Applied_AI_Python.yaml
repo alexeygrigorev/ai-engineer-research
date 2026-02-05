@@ -1,0 +1,65 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Insurance and financial services
+  use_cases:
+  - Enterprise workflow automation using AI-powered intelligent assistants
+  - Document intelligence systems for processing and extracting insights from documents
+  - Decision support systems that improve business decision-making across the enterprise
+  - Customer experience enhancement through generative AI applications
+  - Knowledge graph and vector search integration for enhanced context retrieval and
+    reasoning
+  - Agentic workflows that orchestrate business logic with AI capabilities
+position:
+  title: Senior Engineer- Applied AI (Python)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role directly building
+      Generative AI systems using LangChain, LangGraph, and
+      agentic workflows. The role involves implementing RAG
+      patterns, building AI agents, and deploying production AI
+      applications - clearly working ON AI systems rather than
+      supporting them.
+  responsibilities:
+  - Design, develop, and maintain scalable microservices using Python, FastAPI, and
+    LangChain/LangGraph to power AI-enabled applications
+  - Build and integrate AI agents and agentic workflows that orchestrate tools, APIs,
+    reasoning steps, and business logic
+  - Implement Retrieval-Augmented Generation (RAG) patterns, Model Context Protocol
+    (MCP) integrations, and agent skills
+  - Leverage knowledge graphs and vector databases to enhance reasoning, entity relationships,
+    and context retrieval
+  - Contribute to architecture and implementation of applied AI solutions including
+    automation, document intelligence, and intelligent assistants
+  - Ensure production systems meet high standards for scalability, resilience, performance,
+    and availability
+  - Collaborate with cross-functional partners to translate business needs into technical
+    AI solutions
+  - Drive continuous improvement by exploring new models, frameworks, and reasoning
+    techniques
+  use_cases:
+  - Enterprise workflow automation using AI-powered intelligent assistants
+  - Document intelligence systems for processing and extracting insights from documents
+  - Decision support systems that improve business decision-making across the enterprise
+  - Customer experience enhancement through generative AI applications
+  - Knowledge graph and vector search integration for enhanced context retrieval and
+    reasoning
+  - Agentic workflows that orchestrate business logic with AI capabilities
+  skills:
+    genai: [LangChain, LangGraph, RAG, MCP, agents, agentic workflows, LLM-based systems,
+      LlamaIndex, Claude]
+    ml: [Hugging Face]
+    web: [FastAPI, RESTful API, microservices]
+    databases: [Pinecone, Weaviate, Milvus, pgvector, knowledge graphs, vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Cursor]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8395023'
+  extracted_at: '2026-02-05T13:06:07.874308'

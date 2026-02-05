@@ -1,0 +1,56 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: AI-powered tax and accounting software
+  use_cases:
+  - AI-powered tax and accounting professional assistance
+  - Real-time AI interactions and agent orchestration for document processing
+  - Large-scale content analysis and retrieval for tax/accounting workflows
+  - High-traffic API serving for intelligent production-scale features
+position:
+  title: Senior Software Engineer - AI (Materia AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior Software Engineer role focused on building
+      backend infrastructure, APIs, and distributed systems that
+      support AI workflows rather than directly building,
+      training, or fine-tuning AI models. The role involves
+      connecting backend services to LLM providers and
+      implementing orchestration logic, but the primary work is
+      backend architecture, microservices, and platform
+      engineering to enable AI capabilities.
+  responsibilities:
+  - Design and implement backend services using Python, FastAPI, and PostgreSQL for
+    AI-native products
+  - Build distributed systems and APIs supporting real-time AI interactions, agents,
+    and orchestration engines
+  - Integrate backend services with LLM providers like OpenAI and Anthropic, implementing
+    orchestration logic and request routing
+  - Productionize AI components with robust error handling, guardrails, and observability
+  - Optimize system performance across concurrency, caching, throughput, and large-scale
+    document processing
+  - Lead architecture discussions, code reviews, and champion engineering best practices
+    for testing and resiliency
+  use_cases:
+  - AI-powered tax and accounting professional assistance
+  - Real-time AI interactions and agent orchestration for document processing
+  - Large-scale content analysis and retrieval for tax/accounting workflows
+  - High-traffic API serving for intelligent production-scale features
+  skills:
+    genai: [OpenAI API, Anthropic API, LLM orchestration, AI agents, Embeddings, Vector
+        search, RAG]
+    ml: []
+    web: [FastAPI, API design]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD, DevOps, Observability]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7830844'
+  extracted_at: '2026-02-05T11:34:29.829470'

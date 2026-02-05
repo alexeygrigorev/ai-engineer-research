@@ -1,0 +1,57 @@
+company:
+  name: Zillow
+  stage: Public
+  focus: Real estate platform and services
+  use_cases:
+  - Always-on AI assistant for home shopping and transaction experience
+  - Context-rich dialogue systems for long conversations and multi-step reasoning
+  - AI-powered tools for home buyers to find their next home
+  - Specialized assistants empowering real estate professionals with domain expertise
+  - Decision-making agents for real estate navigation and transactions
+position:
+  title: Principal Machine Learning Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, prototyping, and
+      deploying agentic AI systems using LangChain/LangGraph,
+      multi-agent frameworks, and LLMs. The engineer directly
+      works with models for perception, language understanding,
+      reasoning, and decision-making, which is core AI/ML
+      development rather than support work.
+  responsibilities:
+  - Design, prototype, and develop multi-agent systems using frameworks like AgentSDK
+    and LangChain/LangGraph for autonomous, context-aware interactions
+  - Leverage advanced GenAI models including reasoning models and real-time voice
+    API to build agentic prototypes and deploy product-level agentic skills to users
+  - Develop perception and language understanding, deep reasoning, and reinforcement
+    learning systems for AI agent decision-making
+  - Deploy models to Zillow's highly scalable infrastructure platforms handling hundreds
+    of millions of daily interactions
+  - Mentor and guide engineers in using the right technologies for agentic AI solutions
+    and foster a culture of innovation
+  - Drive applied science projects, aligning on timelines and prioritization for A/B
+    testing and production rollouts
+  use_cases:
+  - Always-on AI assistant for home shopping and transaction experience
+  - Context-rich dialogue systems for long conversations and multi-step reasoning
+  - AI-powered tools for home buyers to find their next home
+  - Specialized assistants empowering real estate professionals with domain expertise
+  - Decision-making agents for real estate navigation and transactions
+  skills:
+    genai: [LangChain, LangGraph, AgentSDK, agents, multi-agent systems, OpenAI API,
+      real-time voice API, reasoning models, LLM]
+    ml: [reinforcement learning, AI planning]
+    web: []
+    databases: []
+    data: [A/B testing]
+    cloud: []
+    ops: [ML infrastructure, model deployment, scalable systems]
+    languages: [Python]
+    domains: [natural language processing, dialogue systems]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7135177'
+  extracted_at: '2026-02-05T10:23:28.030246'

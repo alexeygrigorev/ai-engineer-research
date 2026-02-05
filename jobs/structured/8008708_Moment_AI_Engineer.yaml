@@ -1,0 +1,52 @@
+company:
+  name: Moment
+  stage: Series B
+  focus: Next-generation trading and portfolio management technology
+  use_cases:
+  - Automated trading and smart order routing with AI assistance
+  - Real-time portfolio optimization using AI-driven insights
+  - High-throughput market data processing enhanced with AI automation
+  - Internal AI primitives to accelerate team workflows and development
+  - AI-powered workflow automation for financial institutions managing $8T+ assets
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, and evangelizing AI
+      primitives including AI Agents, RAG systems, and LLM
+      applications. The engineer will directly work on
+      implementing these AI solutions and determining which AI
+      advancements to apply, which is hands-on AI/ML development
+      work rather than supporting infrastructure.
+  responsibilities:
+  - Deeply understand the product and partner with teams to build truly value-additive
+    AI automation
+  - Judiciously determine which of the latest advancements in AI are worth applying
+    at Moment
+  - Build, deploy and evangelize AI primitives that will help teams move faster internally
+  - Bring 10x better experiences for users through AI solutions
+  - Work with distributed systems to implement AI solutions
+  - Deeply understand customers' workflows to develop impactful AI applications
+  use_cases:
+  - Automated trading and smart order routing with AI assistance
+  - Real-time portfolio optimization using AI-driven insights
+  - High-throughput market data processing enhanced with AI automation
+  - Internal AI primitives to accelerate team workflows and development
+  - AI-powered workflow automation for financial institutions managing $8T+ assets
+  skills:
+    genai: [AI Agents, RAG, Prompt Engineering, MCP, Agent Skills, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Distributed Systems]
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8008708'
+  extracted_at: '2026-02-05T11:48:28.043116'

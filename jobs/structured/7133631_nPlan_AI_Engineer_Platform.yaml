@@ -1,0 +1,52 @@
+company:
+  name: nPlan
+  stage: Series B
+  focus: |-
+    AI-powered construction project forecasting and risk
+    analysis
+  use_cases:
+  - Forecasting construction project outcomes and reducing risk using AI
+  - Analyzing complex graph data from construction project plans
+  - Applying multiple ML and LLM approaches to understand project data
+  - Enabling data-driven decision making for large-scale infrastructure projects
+  - Supporting deep human interactions with project intelligence
+position:
+  title: AI Engineer (Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and shipping LLM and generative
+      AI applications to production, including experience with
+      agentic frameworks and eval frameworks. The engineer will
+      drive the design and implementation of AI features directly,
+      working with both ML and LLM approaches to extract insights
+      from graph data.
+  responsibilities:
+  - Drive the design and implementation of AI features across the product set
+  - Take AI features from inception to release, working with Product organisation
+  - Apply ML and LLM approaches to complex graph data with 10,000+ nodes
+  - Extract meaningful insights using proprietary forecasting engine
+  - Work with production AI systems ensuring efficiency and robustness
+  - Collaborate with engineers, ML specialists, and AI experts on product development
+  use_cases:
+  - Forecasting construction project outcomes and reducing risk using AI
+  - Analyzing complex graph data from construction project plans
+  - Applying multiple ML and LLM approaches to understand project data
+  - Enabling data-driven decision making for large-scale infrastructure projects
+  - Supporting deep human interactions with project intelligence
+  skills:
+    genai: [LLM applications, agentic frameworks, eval frameworks, generative AI]
+    ml: [machine learning]
+    web: [APIs]
+    databases: []
+    data: [graph data]
+    cloud: [cloud backends]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7133631'
+  extracted_at: '2026-02-05T10:23:19.662587'

@@ -1,0 +1,58 @@
+company:
+  name: Yuno
+  stage: null
+  focus: Payment orchestration infrastructure for global transactions
+  use_cases:
+  - AI-powered customer service automation and support systems
+  - Internal agentic workflows for optimizing critical company processes
+  - AI-assisted development, testing, and troubleshooting tools
+  - Payment experience optimization through intelligent decision engines
+  - Autonomous systems for accelerating product creation and innovation
+  - Data-driven operational intelligence and efficiency tools
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM-
+      powered applications, agentic systems, and multi-agent
+      workflows. The engineer will directly work on fine-tuning
+      models, implementing RAG pipelines, and optimizing AI
+      systems - not just supporting AI infrastructure.
+  responsibilities:
+  - Architect, build, and deploy LLM-powered applications that automate workflows
+    across customer service and product development
+  - Design autonomous AI systems that execute technical analysis, testing, troubleshooting,
+    and decision-making at scale
+  - Identify and implement AI-driven efficiency gains that enable scalable growth
+    without increasing headcount
+  - Lead fine-tuning and contextual optimization of AI models using proprietary data
+    with structured feedback loops
+  - Collaborate with data, product, and infrastructure teams to define the long-term
+    AI roadmap
+  - Experiment with emerging AI technologies to identify new capabilities for strategic
+    differentiation
+  use_cases:
+  - AI-powered customer service automation and support systems
+  - Internal agentic workflows for optimizing critical company processes
+  - AI-assisted development, testing, and troubleshooting tools
+  - Payment experience optimization through intelligent decision engines
+  - Autonomous systems for accelerating product creation and innovation
+  - Data-driven operational intelligence and efficiency tools
+  skills:
+    genai: [GPT, Claude, Gemini, RAG, CrewAI, LangChain, LangGraph, LlamaIndex]
+    ml: [fine-tuning, LoRA, supervised fine-tuning (SFT), PyTorch, TensorFlow, JAX,
+      Hugging Face]
+    web: [RESTful APIs]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [model serving, inference optimization, LangSmith, LangFuse, MLOps, CI/CD]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7481665'
+  extracted_at: '2026-02-05T10:58:34.282066'

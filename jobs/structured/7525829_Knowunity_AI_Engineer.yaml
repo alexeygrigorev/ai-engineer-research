@@ -1,0 +1,64 @@
+company:
+  name: Knowunity
+  stage: Series B
+  focus: AI-powered learning companion for students
+  use_cases:
+  - Personalized AI learning companion that adapts to individual student needs and
+    learning styles
+  - Large-scale personalized video content generation and delivery
+  - Intelligent topic prediction and real-time guidance systems for student learning
+    paths
+  - Interactive multi-modal learning outputs with cards, graphs, and practice elements
+  - Guided and diverse practice systems replacing static quiz-based approaches
+  - Social learning integration that combines AI companionship with collaborative
+    student interaction
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, fine-tuning, and deploying LLM-
+      based features for an AI learning companion. The engineer
+      will work directly with multiple LLM providers, custom
+      routing engines, fine-tuned models, and prompt engineering
+      to create personalized educational experiences - hands-on
+      model work, not just infrastructure or support.
+  responsibilities:
+  - Own and build end-to-end AI products that deliver measurable value to students
+    across global user base
+  - Drive technical decisions aligning with product impact - choosing tools, models,
+    and approaches to improve key metrics like DAU and retention
+  - Build truly personalized video experiences and topic prediction systems for guidance
+    and personalization
+  - Create multi-modal interactive learning outputs including cards, graphs, and practice
+    elements within chat interfaces
+  - Develop the future of guided and diverse practice systems replacing traditional
+    quiz-based learning
+  - Design social learning features that complement in-person interaction while bringing
+    students together through AI companions
+  use_cases:
+  - Personalized AI learning companion that adapts to individual student needs and
+    learning styles
+  - Large-scale personalized video content generation and delivery
+  - Intelligent topic prediction and real-time guidance systems for student learning
+    paths
+  - Interactive multi-modal learning outputs with cards, graphs, and practice elements
+  - Guided and diverse practice systems replacing static quiz-based approaches
+  - Social learning integration that combines AI companionship with collaborative
+    student interaction
+  skills:
+    genai: [OpenAI API, Anthropic API, Google Gemini, Mistral, prompt engineering]
+    ml: [fine-tuning]
+    web: [Flutter, Riverpod]
+    databases: [PostgreSQL, BigQuery]
+    data: [dbt]
+    cloud: [AWS]
+    ops: [custom routing engines, Kubernetes]
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7525829'
+  extracted_at: '2026-02-05T11:04:56.939702'

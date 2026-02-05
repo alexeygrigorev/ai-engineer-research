@@ -1,0 +1,58 @@
+company:
+  name: Vanta
+  stage: Series B+
+  focus: Security compliance and trust management platform
+  use_cases:
+  - AI-powered prospecting and pipeline generation automation
+  - Automated account research and customer intelligence gathering
+  - AI-driven workflow automation for renewal preparation and customer success
+  - AI-based content summarization, routing, and scoring for GTM teams
+  - Intelligent business systems integration across Salesforce, HubSpot, Gong, and
+    data platforms
+position:
+  title: GTM Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI-powered workflows, agents, and
+      automation systems for GTM processes. This includes hands-on
+      work with AI tools like Claude Code, designing AI-driven
+      agents for business workflows, and implementing AI for
+      summarization, routing, and scoring. The role goes beyond AI
+      support by directly building and deploying AI solutions.
+  responsibilities:
+  - Systematize and automate GTM workflows using AI and automation across prospecting,
+    pipeline generation, account research, and renewal preparation
+  - Design, build, and maintain AI-driven workflows and agents using workflow tools
+    like Salesforce flows and Workato along with Python and SQL
+  - Develop and maintain internal-facing web applications leveraging Claude Code and
+    Netlify
+  - Collaborate with Sales and Post Sales leadership to build custom AI-based solutions
+    aligned with strategic goals
+  - Develop technical documentation, monitoring, and testing frameworks to ensure
+    GTM systems and AI workflows are reliable and observable
+  - Evaluate and implement new GTM and AI technologies, APIs, and tools with build
+    vs buy perspective
+  use_cases:
+  - AI-powered prospecting and pipeline generation automation
+  - Automated account research and customer intelligence gathering
+  - AI-driven workflow automation for renewal preparation and customer success
+  - AI-based content summarization, routing, and scoring for GTM teams
+  - Intelligent business systems integration across Salesforce, HubSpot, Gong, and
+    data platforms
+  skills:
+    genai: [Claude Code, AI agents, AI summarization, AI routing]
+    ml: []
+    web: [Netlify, API integration]
+    databases: [Snowflake]
+    data: [dbt]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Salesforce, HubSpot, workflow automation, AI scoring, GTM systems integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8185055'
+  extracted_at: '2026-02-05T12:10:09.566558'

@@ -1,0 +1,51 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: AI/LLM agent development and observability platform
+  use_cases:
+  - LLM application observability and monitoring
+  - Testing and evaluation of AI/LLM applications
+  - Debugging agent workflows and chains
+  - Enterprise-scale agent lifecycle management
+  - Controllable agent orchestration visualization
+position:
+  title: Frontend Engineer, AI Observability & Evals Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role focused on building UI
+      features for LangSmith, an observability and testing
+      platform for AI applications. The engineer is not building,
+      training, or deploying AI models, but rather creating the
+      user interface that enables developers to monitor, test, and
+      debug their AI applications.
+  responsibilities:
+  - Develop new user-facing features using React & Typescript for the LangSmith observability
+    platform
+  - Build reusable components and front-end libraries for future development
+  - Translate designs and wireframes into high-quality code
+  - Optimize components for maximum performance across web-capable devices and browsers
+  - Collaborate with fullstack and backend developers and UX/UI designers to enhance
+    usability
+  use_cases:
+  - LLM application observability and monitoring
+  - Testing and evaluation of AI/LLM applications
+  - Debugging agent workflows and chains
+  - Enterprise-scale agent lifecycle management
+  - Controllable agent orchestration visualization
+  skills:
+    genai: []
+    ml: []
+    web: [React, Babel, Vite, Webpack, NPM, Yarn, REST APIs, JWT]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [UX/UI design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8394680'
+  extracted_at: '2026-02-05T13:05:31.023109'

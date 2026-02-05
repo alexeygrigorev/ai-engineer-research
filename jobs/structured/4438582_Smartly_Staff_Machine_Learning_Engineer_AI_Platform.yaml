@@ -1,0 +1,59 @@
+company:
+  name: Smartly
+  stage: Series D or later (750+ employees, 24 locations, managing $6B in ad spend)
+  focus: AI-powered advertising technology platform
+  use_cases:
+  - Help marketers optimize ad creatives including images, video and text for better
+    performance
+  - Build AI-based solutions across media and creative advertising workflows
+  - Enable advertisers to create more effective advertising experiences for consumers
+  - Process and analyze multi-modal data from image, video, audio, text and performance
+    metrics
+  - Generate or enhance advertising creatives at scale using AI technologies
+position:
+  title: Staff Machine Learning Engineer (AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building ML-based software systems for
+      advertising, working with modern ML frameworks (PyTorch,
+      TensorFlow), and applying generative AI, computer vision,
+      and NLP. The engineer will directly implement AI solutions
+      across media and creative workflows, not just support
+      infrastructure for others.
+  responsibilities:
+  - Build ML-based software systems that enable users to craft advertising experiences
+    and campaigns
+  - Drive longer-term technical architecture evolution of the domain
+  - Coach, mentor and train ML Engineering talent
+  - Work with diverse datasets including image, video, audio, text and structured
+    performance data
+  - Contribute to and strengthen Smartly's MLOps and data platform for productionizing
+    AI/ML applications
+  - Collaborate with stakeholders across product, engineering and infrastructure to
+    meet customer needs
+  - Stay current with ML innovations in generative AI, computer vision, NLP and explainability
+  use_cases:
+  - Help marketers optimize ad creatives including images, video and text for better
+    performance
+  - Build AI-based solutions across media and creative advertising workflows
+  - Enable advertisers to create more effective advertising experiences for consumers
+  - Process and analyze multi-modal data from image, video, audio, text and performance
+    metrics
+  - Generate or enhance advertising creatives at scale using AI technologies
+  skills:
+    genai: [generative AI]
+    ml: [PyTorch, TensorFlow, feature engineering, model evaluation]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, GCP]
+    ops: [MLflow, Kubeflow, model monitoring, MLOps]
+    languages: [Python, C++, Java]
+    domains: [computer vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '4438582'
+  extracted_at: '2026-02-05T09:38:49.875462'

@@ -1,0 +1,57 @@
+company:
+  name: Basis
+  stage: null
+  focus: |-
+    Software for automating digital media operations and
+    programmatic advertising
+  use_cases:
+  - LLM-powered automation for media planning and campaign execution
+  - Agentic systems that automate complex media planning workflows
+  - Media planning intelligence, optimization, and analytics across the media buying
+    lifecycle
+  - Programmatic advertising platform powered by intelligent agent systems
+position:
+  title: Sr Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building LLM-powered agent
+      systems using LangChain, LangGraph, and Claude Agent SDK.
+      The engineer will design, build, and tune agent
+      orchestration workflows, develop MCP servers, and deploy
+      production-grade agentic systems for automating media
+      planning workflows.
+  responsibilities:
+  - Collaborate with Data Science and Product teams to design, build, and ship LLM-powered
+    features across the media buying platform
+  - Design and build agents using frameworks including LangChain and LangGraph to
+    automate complex media planning workflows
+  - Develop MCP servers and APIs that connect internal and external agents to the
+    media buying toolkit
+  - Build and tune agent orchestration workflows, including evaluation and observability,
+    to ensure agents reason, plan, and execute reliably
+  - Rapidly experiment with emerging agentic approaches while guiding stable, scalable
+    architectural decisions
+  use_cases:
+  - LLM-powered automation for media planning and campaign execution
+  - Agentic systems that automate complex media planning workflows
+  - Media planning intelligence, optimization, and analytics across the media buying
+    lifecycle
+  - Programmatic advertising platform powered by intelligent agent systems
+  skills:
+    genai: [LangChain, LangGraph, Claude Agent SDK, MCP, prompt engineering, RAG,
+      agents]
+    ml: []
+    web: [REST APIs]
+    databases: [Snowflake, S3, vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Langfuse, LangSmith]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8254649'
+  extracted_at: '2026-02-05T12:23:22.157943'

@@ -1,0 +1,59 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: AI-powered tax and accounting software
+  use_cases:
+  - AI-native tax and accounting products used by accountants on real client work
+  - Tax filing assistance through AI agents and workflows
+  - Advisory and audit support using generative AI and document analysis
+  - Document-centric experiences for tax professionals analyzing millions of documents
+  - AI agents and conversational interfaces for accounting workflows
+  - Knowledge base and retrieval systems for tax laws and regulations
+position:
+  title: Principal Software Engineer-AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and owning AI orchestration
+      systems, agents, and workflows using LLMs. The engineer is
+      directly responsible for turning frontier models into
+      production-grade systems through routing, tool calling, and
+      MCP servers - hands-on work with AI models, not just
+      supporting infrastructure.
+  responsibilities:
+  - Lead multi-quarter initiatives across AI, product, and infrastructure including
+    orchestration layers, retrieval systems, and unified knowledge bases
+  - Architect and implement backend services powering generative AI agents and complex
+    workflows like tax filing, advisory, and audit
+  - Build and evolve AI orchestration including routing, tool calling, MCP servers,
+    multi-step workflows, and safety guardrails around LLMs
+  - Design high-throughput, low-latency AI workloads with caching, queuing, rate-limiting,
+    and model failover strategies
+  - Work with large-scale data including millions of documents, retrieval systems,
+    vector stores, and indexing strategies
+  - Establish SLOs, observability, and incident response for AI systems requiring
+    correctness, auditability, and trustworthiness
+  use_cases:
+  - AI-native tax and accounting products used by accountants on real client work
+  - Tax filing assistance through AI agents and workflows
+  - Advisory and audit support using generative AI and document analysis
+  - Document-centric experiences for tax professionals analyzing millions of documents
+  - AI agents and conversational interfaces for accounting workflows
+  - Knowledge base and retrieval systems for tax laws and regulations
+  skills:
+    genai: [OpenAI API, Anthropic API, LLMs, MCP (Model Context Protocol), RAG (Retrieval
+        Augmented Generation), agents, prompt engineering]
+    ml: [embeddings]
+    web: [FastAPI, Vercel, APIs]
+    databases: [PostgreSQL, vector databases]
+    data: [semantic search, Distributed systems]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, CI/CD, Monitoring, Observability, SLOs]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8147545'
+  extracted_at: '2026-02-05T12:05:33.336529'

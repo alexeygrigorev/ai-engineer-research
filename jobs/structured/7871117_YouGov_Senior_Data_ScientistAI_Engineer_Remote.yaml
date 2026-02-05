@@ -1,0 +1,66 @@
+company:
+  name: YouGov
+  stage: Public
+  focus: Market research and opinion polling
+  use_cases:
+  - AI-powered analysis and summarization of survey data to generate market research
+    insights
+  - Natural language processing applications for topic modeling, text classification,
+    and summarization of opinion data
+  - Building tools to handle complex data problems including missing data, fraud detection,
+    and measurement error in surveys
+  - Processing massive datasets from surveys, voter databases, census microdata, and
+    behavioral tracking sources
+  - Generating insights from diverse opinion data to support local, national, and
+    international communities
+position:
+  title: Senior Data Scientist/AI Engineer  (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building LLM-based
+      applications, developing prompts and chains, working with
+      RAG pipelines, and fine-tuning LLMs. This is directly
+      working ON AI systems rather than just supporting
+      infrastructure or data pipelines.
+  responsibilities:
+  - Design and build AI-powered applications to analyze, summarize, and generate insights
+    from survey data
+  - Contribute to technical design and architecture decisions for AI/ML systems
+  - Develop and optimize prompts and chains
+  - Build applications to simplify analytics and improve the efficiency of data processing
+  - Contribute to model evaluation and performance tracking using both qualitative
+    and quantitative metrics
+  - Work with structured and unstructured data and handle complex data problems
+  - Collaborate with cross-functional teams including data analysts, product managers,
+    UI designers, and software developers
+  - Stay up to date with recent developments in AI and machine learning including
+    LLMs, fine tuning, and RAG pipelines
+  use_cases:
+  - AI-powered analysis and summarization of survey data to generate market research
+    insights
+  - Natural language processing applications for topic modeling, text classification,
+    and summarization of opinion data
+  - Building tools to handle complex data problems including missing data, fraud detection,
+    and measurement error in surveys
+  - Processing massive datasets from surveys, voter databases, census microdata, and
+    behavioral tracking sources
+  - Generating insights from diverse opinion data to support local, national, and
+    international communities
+  skills:
+    genai: [LLM APIs, LLM-based applications and frameworks, prompt engineering, chains,
+      RAG]
+    ml: [fine tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, R]
+    domains: [natural language processing, topic modelling, text classification, summarization]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7871117'
+  extracted_at: '2026-02-05T11:37:01.407854'

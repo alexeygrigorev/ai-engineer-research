@@ -1,0 +1,52 @@
+company:
+  name: Speechify
+  stage: Growth (200 employees, Series C+ scale implied)
+  focus: Text-to-speech reading accessibility platform
+  use_cases:
+  - Text-to-speech conversion for PDFs, books, docs, and web content
+  - Voice cloning to create personalized audio experiences
+  - Low-latency audio generation for real-time reading assistance
+  - Accessibility support for users with dyslexia, ADD, and learning differences
+  - Multi-platform audio delivery across iOS, Android, web, and desktop applications
+position:
+  title: Senior Software Engineer, AI Model Serving - Taipei, Taiwan
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is titled "AI Model Serving" and focuses on
+      infrastructure, scaling, and deploying models rather than
+      building, training, or fine-tuning them. While preferred
+      experience includes deploying NLP/TTS models, the core
+      responsibilities are backend development, Kubernetes
+      orchestration, and ensuring high availability for AI systems
+      - which is supporting AI work rather than working directly
+      on AI models.
+  responsibilities:
+  - Deploy and optimize text-to-speech models with low latency and cost efficiency
+  - Build state-of-the-art voice cloning infrastructure and systems
+  - Ensure infrastructure scales efficiently for AI model serving workloads
+  - Construct resilient end-to-end backend systems for AI product flows
+  - Deploy high availability applications on Kubernetes for production workloads
+  - Optimize cloud infrastructure on GCP with knowledge of AWS and Azure
+  use_cases:
+  - Text-to-speech conversion for PDFs, books, docs, and web content
+  - Voice cloning to create personalized audio experiences
+  - Low-latency audio generation for real-time reading assistance
+  - Accessibility support for users with dyslexia, ADD, and learning differences
+  - Multi-platform audio delivery across iOS, Android, web, and desktop applications
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [GCP, AWS, Azure]
+    ops: [Docker, Kubernetes, NLP deployment, TTS deployment, High availability]
+    languages: [Python]
+    domains: []
+    other: [Backend development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7836450'
+  extracted_at: '2026-02-05T11:35:03.390032'

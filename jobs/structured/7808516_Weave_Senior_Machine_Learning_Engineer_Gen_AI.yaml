@@ -1,0 +1,60 @@
+company:
+  name: Weave
+  stage: null
+  focus: null
+  use_cases:
+  - AI-powered applications that require access to large sets of data
+  - Natural language models with embeddings and inference at scale
+  - Real-time audio models and voice use cases including transcription, ASR pipelines,
+    and speech synthesis
+  - Multi-modal models for various customer-facing products
+  - ML-driven B2B multi-tenant applications in production environments
+  - Handling sensitive data such as PHI (HIPAA) and PII data
+position:
+  title: Senior Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building models with LLMs, implementing
+      RAG, prompt engineering, and fine-tuning models. This is
+      hands-on work directly with AI models and deployment to
+      production, not just infrastructure or platform support.
+  responsibilities:
+  - Design and develop machine learning infrastructure, tooling, and models to help
+    teams deliver world class experiences
+  - Build internal products and platforms to enable teams to incorporate AI into their
+    features and customer facing products
+  - Build scalable, resilient services to support data integration, event processing,
+    and platform extensions
+  - Consult with teams to help them understand common patterns, anti-patterns, and
+    tradeoffs of machine learning
+  - Build models for new products with emerging technologies at scale to enable AI-powered
+    applications
+  - Design and architect systems for distributed data sets and services handling hundreds
+    of millions of people daily
+  use_cases:
+  - AI-powered applications that require access to large sets of data
+  - Natural language models with embeddings and inference at scale
+  - Real-time audio models and voice use cases including transcription, ASR pipelines,
+    and speech synthesis
+  - Multi-modal models for various customer-facing products
+  - ML-driven B2B multi-tenant applications in production environments
+  - Handling sensitive data such as PHI (HIPAA) and PII data
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Fine Tuning, Model Context Protocol (MCP),
+      multi-modal models, embeddings]
+    ml: []
+    web: []
+    databases: [Postgres, warehouses]
+    data: [Dagster, streaming, data mesh, data lakes]
+    cloud: [AWS, GCP]
+    ops: [inference, MLFlow, KubeFlow, DVC, Triton Server, Docker, Kubernetes, GKE,
+      distributed systems, GitOps, IaC]
+    languages: [Python, Go, Java]
+    domains: [ASR (Automatic Speech Recognition), speech synthesis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7808516'
+  extracted_at: '2026-02-05T11:32:39.219942'

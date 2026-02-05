@@ -1,0 +1,59 @@
+company:
+  name: Sixfold
+  stage: Early-stage
+  focus: AI platform for insurance risk evaluation and pricing
+  use_cases:
+  - AI agents that understand risk evaluation similar to veteran underwriters
+  - Analyzing location-specific risks (e.g., bakery in Florida vs Montana)
+  - Detecting risk profile changes when companies pivot business models (e.g., toys
+    to medical devices)
+  - Making million-dollar underwriting decisions with AI intuition
+  - Processing billions in insurance premium for major carriers
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with generative AI and LLMs,
+      including building RAG systems, fine-tuning prompts,
+      designing evaluation metrics, and implementing LLM
+      workflows. The engineer will directly work on the AI
+      pipeline that powers risk evaluation agents, not supporting
+      infrastructure or platforms for other AI workers.
+  responsibilities:
+  - Build and deploy code across the AI pipeline using Python and generative AI/ML
+    tools
+  - Work with large language models, fine-tune prompts, design evaluation metrics,
+    and implement responsible AI practices
+  - Develop full-stack features using Ruby on Rails, React, and TypeScript to integrate
+    AI capabilities with web app and APIs
+  - Collaborate cross-functionally with product managers, designers, and engineers
+    through problem discovery, solution design, and delivery
+  - Own software through entire lifecycle from problem identification and technical
+    specs to deployment and on-call support
+  - Assess pressing product and engineering problems, identify solutions, write technical
+    specs, and scope projects
+  use_cases:
+  - AI agents that understand risk evaluation similar to veteran underwriters
+  - Analyzing location-specific risks (e.g., bakery in Florida vs Montana)
+  - Detecting risk profile changes when companies pivot business models (e.g., toys
+    to medical devices)
+  - Making million-dollar underwriting decisions with AI intuition
+  - Processing billions in insurance premium for major carriers
+  skills:
+    genai: [RAG, LLMs, embedding generation, chunking strategies, prompt fine-tuning,
+      LLM orchestration, LLM fine-tuning]
+    ml: []
+    web: [FastAPI, Ruby on Rails, React, Streamlit]
+    databases: [Weaviate, Pinecone, FAISS, pgvector]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, Pydantic]
+    domains: []
+    other: [Notebooks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7729925'
+  extracted_at: '2026-02-05T11:23:26.805407'

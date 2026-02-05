@@ -1,0 +1,50 @@
+company:
+  name: Arctiq
+  stage: null
+  focus: |-
+    Professional IT services: Enterprise Security, Modern
+    Infrastructure, Platform Engineering
+  use_cases:
+  - Transform raw data into actionable intelligence
+  - Build end-to-end models to drive business value
+  - Apply statistical analysis and AI to solve complex business problems
+  - Leverage Azure ecosystem for scalable model training and deployment
+position:
+  title: Data Scientist/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building, validating, and deploying
+      statistical and AI models to solve complex business
+      problems. Focus on end-to-end model development within Azure
+      ecosystem with hands-on work using Scikit-learn and Azure
+      Machine Learning.
+  responsibilities:
+  - Build, validate, and deploy statistical and AI models to solve complex business
+    problems
+  - Design and refine predictive features, ensuring data quality and model interpretability
+  - Leverage Azure Machine Learning and Microsoft's suite of data services to scale
+    model training and deployment
+  - Apply statistical rigor to analyze data trends and communicate findings to non-technical
+    stakeholders
+  use_cases:
+  - Transform raw data into actionable intelligence
+  - Build end-to-end models to drive business value
+  - Apply statistical analysis and AI to solve complex business problems
+  - Leverage Azure ecosystem for scalable model training and deployment
+  skills:
+    genai: []
+    ml: [Statistics, Scikit-learn, feature engineering]
+    web: []
+    databases: []
+    data: [Pandas, Azure Data Factory]
+    cloud: [Azure Machine Learning, Azure Synapse]
+    ops: [model deployment]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8380475'
+  extracted_at: '2026-02-05T13:01:17.175493'

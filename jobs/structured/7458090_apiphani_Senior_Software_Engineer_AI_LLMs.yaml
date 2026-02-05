@@ -1,0 +1,60 @@
+company:
+  name: apiphani
+  stage: Small but rapidly growing (early-stage)
+  focus: Intelligent infrastructure automation through agentic AI
+  use_cases:
+  - Agentic AI platform for intelligent infrastructure automation
+  - Autonomous infrastructure actions powered by LLM-based reasoning
+  - Retrieval-augmented generation for semantic search across enterprise infrastructure
+    data
+  - Multi-model AI orchestration supporting various LLM providers
+  - Enterprise IT and managed service provider automation through intelligent agents
+position:
+  title: Senior Software Engineer (AI / LLMs)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems -
+      implementing backend services for intelligent agent
+      workflows, integrating LLMs, and developing RAG systems. The
+      engineer will build orchestration layers that combine LLMs
+      with vector databases and autonomous infrastructure actions,
+      not just support infrastructure for AI teams.
+  responsibilities:
+  - Design and implement backend services that enable intelligent agent workflows
+    and autonomous infrastructure actions
+  - Develop APIs and orchestration layers integrating LLMs, vector databases, and
+    observability pipelines
+  - Build scalable systems to support LLM-based reasoning, retrieval, and decision-making
+    across cloud infrastructure
+  - Integrate with AWS Bedrock and other LLM platforms to support multi-model capabilities
+  - Develop data access and semantic search layers using vector databases
+  - Build robust monitoring, testing, and CI/CD systems to ensure reliability of AI
+    workflows
+  - Collaborate with product and DevOps teams on architecture design, deployments,
+    and system health monitoring
+  - Write clean, maintainable code with strong adherence to security and performance
+    best practices
+  use_cases:
+  - Agentic AI platform for intelligent infrastructure automation
+  - Autonomous infrastructure actions powered by LLM-based reasoning
+  - Retrieval-augmented generation for semantic search across enterprise infrastructure
+    data
+  - Multi-model AI orchestration supporting various LLM providers
+  - Enterprise IT and managed service provider automation through intelligent agents
+  skills:
+    genai: [RAG, LangChain, OpenAI API, Anthropic API]
+    ml: [Vector embeddings, Similarity search]
+    web: [API design, Microservices]
+    databases: [pgvector, Pinecone, Qdrant, PostgreSQL]
+    data: [Event pipelines]
+    cloud: [AWS, AWS Bedrock, AWS Lambda, AWS ECS, AWS S3, AWS CloudWatch]
+    ops: [Docker, GitHub Actions, CI/CD, Terraform, AWS CDK, Datadog]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7458090'
+  extracted_at: '2026-02-05T10:55:37.155222'

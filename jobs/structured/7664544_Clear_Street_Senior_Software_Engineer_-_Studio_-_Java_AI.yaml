@@ -1,0 +1,54 @@
+company:
+  name: Clear Street
+  stage: null
+  focus: Cloud-native unified capital markets trading platform
+  use_cases:
+  - AI-powered trading platform features and workflows
+  - Knowledge retrieval and RAG systems for trading intelligence
+  - Model orchestration with guardrails for regulatory compliance and quality control
+  - AI tooling and SDKs to enable AI development across the trading platform
+  - Model evaluation and monitoring systems for production AI workflows
+position:
+  title: Senior Software Engineer - Studio - Java, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building AI workflows, retrieval,
+      orchestration, guardrails, and deploying LLM-backed systems
+      in production. The engineer owns the AI service layer and
+      works directly on implementing RAG pipelines, tool calling,
+      and model evaluation - hands-on AI system development.
+  responsibilities:
+  - Design, implement, and productionize reliable AI workflows to augment the Studio
+    trading platform
+  - Build tooling to monitor, tune, and evaluate models and workflows with applicable
+    guardrails for quality and regulatory compliance
+  - Collaborate with technical and non-technical teams to identify high ROI AI opportunities
+  - Build rapid prototypes and translate them into production-grade systems using
+    AI-powered development tools
+  - Create reusable libraries, SDKs and tooling to enable AI development throughout
+    the firm
+  - Stay current on applied AI by reading papers, evaluating new models, and testing
+    new tools
+  use_cases:
+  - AI-powered trading platform features and workflows
+  - Knowledge retrieval and RAG systems for trading intelligence
+  - Model orchestration with guardrails for regulatory compliance and quality control
+  - AI tooling and SDKs to enable AI development across the trading platform
+  - Model evaluation and monitoring systems for production AI workflows
+  skills:
+    genai: [RAG, tool calling, prompt engineering, guardrails, LLM deployment]
+    ml: []
+    web: [Spring ecosystem]
+    databases: [Postgres, Redis]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Kubernetes, CI/CD]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7664544'
+  extracted_at: '2026-02-05T11:19:16.763112'

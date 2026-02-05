@@ -1,0 +1,51 @@
+company:
+  name: Superblocks
+  stage: null
+  focus: AI platform for non-engineers to create enterprise software
+  use_cases:
+  - Non-engineers creating enterprise software through AI-powered platform
+  - AI agents exploring company data and generating applications within security boundaries
+  - Executing untrusted code in secure sandboxes with low latency globally
+  - Organizational memory and knowledge graphs for AI agent context
+  - Centralized IT governance and control over AI-generated applications and workflows
+position:
+  title: Software Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI agents, an AI memory
+      system, and agentic systems powered by LLMs. The engineer
+      will work on making AI agents accurate, safe, and
+      production-ready at scale, including code generation,
+      execution, debugging, and evaluation of model behavior.
+  responsibilities:
+  - Design and build AI memory systems with short-term memory, persistent memory,
+    and organizational knowledge graphs
+  - Develop AI agents that generate, execute, debug, and test code for non-engineers
+  - Create data exploration capabilities for both humans and AI agents
+  - Build a centralized governance layer for IT admins to control apps, workflows,
+    users, agents, and policies
+  - Design systems to ensure AI agents run safely in production at global scale
+  - Implement security, sandboxing, and isolation for distributed AI systems
+  use_cases:
+  - Non-engineers creating enterprise software through AI-powered platform
+  - AI agents exploring company data and generating applications within security boundaries
+  - Executing untrusted code in secure sandboxes with low latency globally
+  - Organizational memory and knowledge graphs for AI agent context
+  - Centralized IT governance and control over AI-generated applications and workflows
+  skills:
+    genai: [Agentic systems, LLM applications, Orchestration frameworks, Prompt engineering]
+    ml: [Model evaluation]
+    web: [Backend systems]
+    databases: [Database design]
+    data: [Knowledge graphs]
+    cloud: []
+    ops: [Security, Sandboxing, Distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8380448'
+  extracted_at: '2026-02-05T13:01:10.812944'

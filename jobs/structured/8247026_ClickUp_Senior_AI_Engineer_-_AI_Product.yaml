@@ -1,0 +1,63 @@
+company:
+  name: ClickUp
+  stage: Series B
+  focus: AI-powered productivity and workspace platform
+  use_cases:
+  - Context-driven AI workspace that unifies tasks, docs, chat, calendar, and enterprise
+    search
+  - Intelligent, user-facing features leveraging large language models for productivity
+    enhancement
+  - Context-aware and personalized AI experiences that help teams break free from
+    silos
+  - AI-powered productivity tools that reclaim time and unlock new levels of productivity
+  - Enterprise search capabilities supercharged by AI
+position:
+  title: Senior AI Engineer - AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building,
+      deploying, and orchestrating LLMs and AI models directly
+      into user-facing products. The engineer will integrate
+      multiple AI models, develop evaluation frameworks, and
+      deliver context-aware AI experiences, making it a core AI
+      development position rather than a supporting role.
+  responsibilities:
+  - Lead the design, development, and deployment of AI-powered features and products
+    that directly impact ClickUp users
+  - Collaborate with product managers, designers, and engineers to identify opportunities
+    for AI-driven innovation and translate user needs into technical solutions
+  - Integrate and orchestrate multiple LLMs and AI models to deliver robust, context-aware,
+    and personalized user experiences
+  - Prototype, test, and iterate on new AI features, leveraging user feedback and
+    data to drive continuous improvement
+  - Ensure the reliability, scalability, and performance of AI-powered features in
+    production environments
+  - Address AI privacy, security, and compliance challenges, ensuring responsible
+    and ethical use of AI in user-facing applications
+  - Mentor and guide other engineers in best practices for building AI-powered products
+  use_cases:
+  - Context-driven AI workspace that unifies tasks, docs, chat, calendar, and enterprise
+    search
+  - Intelligent, user-facing features leveraging large language models for productivity
+    enhancement
+  - Context-aware and personalized AI experiences that help teams break free from
+    silos
+  - AI-powered productivity tools that reclaim time and unlock new levels of productivity
+  - Enterprise search capabilities supercharged by AI
+  skills:
+    genai: [LLMs, AI model orchestration, RAG, AI evaluation frameworks]
+    ml: []
+    web: []
+    databases: [PostgresDB, MySQL, Elasticsearch]
+    data: []
+    cloud: []
+    ops: [Production deployment, Observability and monitoring]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [AI privacy and security]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8247026'
+  extracted_at: '2026-02-05T12:19:51.657754'

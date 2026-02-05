@@ -1,0 +1,60 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company
+  use_cases:
+  - Customer service automation powered by advanced AI models
+  - Content generation applications for enterprise customers
+  - New product offerings and services leveraging Generative AI capabilities
+  - Industry-specific GenAI use cases tailored to customer business needs
+  - Enterprise-grade production deployments of ChatGPT and OpenAI API applications
+  - AI adoption strategy implementation for business transformation
+position:
+  title: AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Deployment Engineer role at OpenAI that
+      directly deploys GenAI solutions to customers, building
+      hands-on prototypes and guiding projects from prototype to
+      production. The role requires hands-on experience with
+      Generative AI deployments, not just supporting AI
+      infrastructure or data pipelines.
+  responsibilities:
+  - Serve as the primary technical subject matter expert post-sale for a portfolio
+    of customers, embedding deeply with them to design and deploy GenAI solutions
+  - Engage with senior business and technical stakeholders to identify, prioritize,
+    and validate the highest-value GenAI applications in their roadmap
+  - Accelerate customer time to value by providing architectural guidance, building
+    hands-on prototypes, and advising on best practices for scaling solutions in production
+  - Maintain strong relationships with leadership and technical teams to drive adoption,
+    expansion, and successful outcomes
+  - Contribute to open-source resources and enterprise-facing technical documentation
+    to scale best practices across customers
+  - Share learnings and collaborate with internal teams to inform product development
+    and improve customer outcomes
+  - Codify knowledge and operationalize technical success practices to help the Solutions
+    Architecture team scale impact across industries and customer types
+  use_cases:
+  - Customer service automation powered by advanced AI models
+  - Content generation applications for enterprise customers
+  - New product offerings and services leveraging Generative AI capabilities
+  - Industry-specific GenAI use cases tailored to customer business needs
+  - Enterprise-grade production deployments of ChatGPT and OpenAI API applications
+  - AI adoption strategy implementation for business transformation
+  skills:
+    genai: [ChatGPT, OpenAI APIs, Generative AI, RAG]
+    ml: [machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [infrastructure architecture, network architecture]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [solutions architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6431012'
+  extracted_at: '2026-02-05T09:44:46.259974'

@@ -1,0 +1,52 @@
+company:
+  name: Nelly Solutions
+  stage: Series B
+  focus: |-
+    AI-enabled fintech for healthcare and medical practice
+    management
+  use_cases:
+  - Automating manual tasks for commercial teams in healthcare fintech
+  - Building AI-enabled patient relationship management systems
+  - Developing intelligent billing and payment solutions for medical practices
+  - Creating agentic solutions that streamline healthcare administration workflows
+position:
+  title: Junior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development of agentic systems,
+      RAG implementations, and ReAct patterns - building and
+      deploying AI solutions directly. The engineer works on
+      creating practical AI systems from prototypes to production,
+      working directly with LLM agents and agentic frameworks.
+  responsibilities:
+  - Design, build, and deploy agentic systems into production leveraging AI advancements
+    including RAG and ReAct
+  - Work on applied projects with real-world impact using rapid iteration and experimentation
+  - Evaluate, select, and integrate AI tools, frameworks, and platforms for scalability
+    and efficiency
+  - Support user interviews and contribute to product planning with cross-functional
+    teams
+  - Collaborate in an agile environment to drive impactful AI projects from prototypes
+    to production
+  use_cases:
+  - Automating manual tasks for commercial teams in healthcare fintech
+  - Building AI-enabled patient relationship management systems
+  - Developing intelligent billing and payment solutions for medical practices
+  - Creating agentic solutions that streamline healthcare administration workflows
+  skills:
+    genai: [LangChain, LangGraph, RAG, ReAct, LLM agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, cloud-native development]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8057435'
+  extracted_at: '2026-02-05T11:53:51.286734'

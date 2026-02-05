@@ -1,0 +1,66 @@
+company:
+  name: Herald
+  stage: Series A
+  focus: Digital infrastructure for commercial insurance
+  use_cases:
+  - Transform messy email submissions into structured, actionable data with minimal
+    friction
+  - Help brokers move from inbox to quote-ready submissions in minutes instead of
+    hours
+  - Orchestrate broker workflows end-to-end using classification pipelines and data
+    extraction models
+  - Enable rapid iteration on new workflows and AI features across lines of business
+    and carriers
+  - Make AI output transparent, accurate, and trustworthy for commercial insurance
+    brokers
+position:
+  title: Software Engineer - AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building an AI-native platform (Babbix)
+      that orchestrates classification pipelines, data extraction
+      models, and AI-driven workflows. The engineer will work on
+      model orchestration, integrate LLMs and vector databases,
+      and deliver new AI capabilities directly, which aligns with
+      hands-on AI/ML system development rather than just support
+      infrastructure.
+  responsibilities:
+  - Build core AI-product features for enterprise brokers and own large new areas
+    within the product
+  - Drive the development of backend systems including APIs, data pipelines, and model
+    orchestration
+  - Deliver high-velocity experiments to engage customers and ship new AI-driven capabilities
+  - Work across the entire product lifecycle from conceptualization through production
+    deployment
+  - Contribute to internal tooling, testing infrastructure, and CI/CD to improve velocity
+    and reliability
+  - Collaborate directly with clients to gather feedback and translate it into product
+    improvements and feature priorities
+  use_cases:
+  - Transform messy email submissions into structured, actionable data with minimal
+    friction
+  - Help brokers move from inbox to quote-ready submissions in minutes instead of
+    hours
+  - Orchestrate broker workflows end-to-end using classification pipelines and data
+    extraction models
+  - Enable rapid iteration on new workflows and AI features across lines of business
+    and carriers
+  - Make AI output transparent, accurate, and trustworthy for commercial insurance
+    brokers
+  skills:
+    genai: [LLMs]
+    ml: [model evaluation]
+    web: [APIs]
+    databases: [vector databases, Postgres, MySQL, MongoDB, Redis]
+    data: [data pipelines]
+    cloud: [Google Cloud Platform, AWS, Microsoft Azure]
+    ops: [Docker, CI/CD, model orchestration]
+    languages: [Python, TypeScript, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7600139'
+  extracted_at: '2026-02-05T11:11:46.167210'

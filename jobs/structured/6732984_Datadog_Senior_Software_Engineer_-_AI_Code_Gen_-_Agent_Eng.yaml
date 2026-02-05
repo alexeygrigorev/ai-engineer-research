@@ -1,0 +1,57 @@
+company:
+  name: Datadog
+  stage: Public
+  focus: Cloud infrastructure monitoring and SaaS platform
+  use_cases:
+  - AI-assisted code generation to autonomously generate tests, fix bugs, and improve
+    performance
+  - CoPilot-like assistant for developers integrated with Datadog IDE extensions
+  - Runtime data collection from production environments to enhance AI code generation
+    capabilities
+  - Developer productivity tools that make all Datadog customers 10x more effective
+position:
+  title: Senior Software Engineer - AI Code Gen - Agent Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building LLM-based agents,
+      working on prompts, evals, and agent tools for code
+      generation. The engineer will productionize these systems
+      and integrate them with Datadog products, indicating hands-
+      on work with AI models and agent implementations rather than
+      just supporting infrastructure.
+  responsibilities:
+  - Work closely with users, designers, PMs, and data scientists on cutting edge and
+    delightful LLM-based agents
+  - Work on prompts, evals, and agent tools for working with code, and on the engineering
+    to productionize these systems
+  - Prototype and iterate closely with users, then ship products that make Datadog
+    customers more effective
+  - Follow the latest research on LLM prompting, agents, and code editing
+  - Work with other Datadog teams to expand capabilities, such as integrating with
+    IDE extensions to deliver CoPilot-like assistants
+  - Integrate with Dynamic Instrumentation to collect more runtime data from production
+    and pre-production environments
+  use_cases:
+  - AI-assisted code generation to autonomously generate tests, fix bugs, and improve
+    performance
+  - CoPilot-like assistant for developers integrated with Datadog IDE extensions
+  - Runtime data collection from production environments to enhance AI code generation
+    capabilities
+  - Developer productivity tools that make all Datadog customers 10x more effective
+  skills:
+    genai: [Large Language Models, prompt engineering, agents, LLMs]
+    ml: [machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Go, Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6732984'
+  extracted_at: '2026-02-05T09:49:21.577671'

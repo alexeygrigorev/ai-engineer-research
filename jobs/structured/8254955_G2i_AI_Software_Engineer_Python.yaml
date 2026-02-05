@@ -1,0 +1,49 @@
+company:
+  name: G2i
+  stage: null
+  focus: AI model training and evaluation services
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Generating reward signals from human code evaluations to improve model performance
+  - Teaching models to propose, critique, and improve code like expert engineers
+  - Evaluating code correctness and style through human feedback reinforcement learning
+position:
+  title: AI Software Engineer (Python)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on human feedback (RLHF) for code
+      evaluation - ranking, reviewing, and critiquing AI-generated
+      code to train models. The work is NOT building, training, or
+      deploying models but providing data and feedback signals
+      that enable model training by others.
+  responsibilities:
+  - Compare and rank multiple code snippets while explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Identify logic errors, performance traps, and security issues through code review
+  - Provide detailed explanations justifying why one approach is better than another
+  - Maintain smooth operation of the RLHF feedback pipeline
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Generating reward signals from human code evaluations to improve model performance
+  - Teaching models to propose, critique, and improve code like expert engineers
+  - Evaluating code correctness and style through human feedback reinforcement learning
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [code review, RLHF, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8254955'
+  extracted_at: '2026-02-05T12:23:41.399437'

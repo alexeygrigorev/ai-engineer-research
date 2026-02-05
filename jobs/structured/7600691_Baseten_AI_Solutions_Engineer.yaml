@@ -1,0 +1,59 @@
+company:
+  name: Baseten
+  stage: Series E
+  focus: AI inference and deployment platform
+  use_cases:
+  - Deploying production-ready model servers from Docker images on Baseten's platform
+  - Building and deploying high-scale production AI applications for customers like
+    Cursor, Notion, and Writer
+  - Deploying custom ComfyUI workflows as APIs for customer use
+  - Whisper transcription services optimized for speed and accuracy
+  - End-to-end AI/ML solutions from initial exploration through production deployment
+    and monitoring
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineering role where the
+      engineer directly architects, builds, and deploys production
+      AI applications for customers. The role involves hands-on
+      coding of AI/ML solutions, deploying model servers, and
+      optimizing AI workloads, not just supporting infrastructure.
+  responsibilities:
+  - Develop and maintain production-level software systems using general-purpose programming
+    languages with preference for Python
+  - Drive customer impact by designing, implementing, and deploying Baseten solutions
+    end-to-end from problem framing to production monitoring
+  - Deliver with velocity by turning vague objectives into clear specs and well-defined
+    PoCs for customers
+  - Optimize and enhance AI/ML projects while contributing to continuous improvement
+    of the technical stack
+  - Own products and customer projects end-to-end functioning as engineer, project
+    manager, and product manager
+  - Navigate ambiguity and exercise judgment on tradeoffs and tools needed to solve
+    customer problems
+  use_cases:
+  - Deploying production-ready model servers from Docker images on Baseten's platform
+  - Building and deploying high-scale production AI applications for customers like
+    Cursor, Notion, and Writer
+  - Deploying custom ComfyUI workflows as APIs for customer use
+  - Whisper transcription services optimized for speed and accuracy
+  - End-to-end AI/ML solutions from initial exploration through production deployment
+    and monitoring
+  skills:
+    genai: []
+    ml: [AI/ML pipelines, ML model development]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML model deployment, Docker, production systems, monitoring]
+    languages: [Python]
+    domains: []
+    other: [ComfyUI, Whisper, software development]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7600691'
+  extracted_at: '2026-02-05T11:11:54.169758'

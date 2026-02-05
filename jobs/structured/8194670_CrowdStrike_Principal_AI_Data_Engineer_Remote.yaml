@@ -1,0 +1,64 @@
+company:
+  name: CrowdStrike
+  stage: Public
+  focus: AI-native cybersecurity platform
+  use_cases:
+  - Conversational AI assistants integrated with Slack and enterprise systems for
+    data access
+  - RAG-based systems for enterprise data retrieval and semantic search
+  - Real-time and batch data pipelines supporting AI workloads
+  - LLM-powered integrations for business intelligence and analytics
+  - AI-native cybersecurity platform leveraging data and AI for threat detection
+position:
+  title: Principal, AI Data Engineer (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of LLM-powered
+      integrations, RAG architectures, and conversational AI
+      assistants using platforms like Gemini, Glean, and
+      Agentforce. The role actively designs and builds AI systems
+      (RAG patterns, embeddings, vector databases, LLM
+      integrations) rather than just supporting infrastructure for
+      AI teams.
+  responsibilities:
+  - Design, build, and operate AI-ready data platforms leveraging Snowflake and cloud-native
+    services
+  - Architect and deliver conversational Data & AI Assistants integrated with Slack,
+    Gemini, and enterprise systems
+  - Partner with data analysts and business SMEs to translate business questions into
+    reliable data products and AI experiences
+  - Design and implement LLM-powered integrations and RAG-based data access patterns
+  - Ensure availability, performance, scalability, and resiliency of data, analytics,
+    and AI platforms
+  - Define and implement operational standards including support models, SLAs, escalation
+    paths, and incident lifecycle processes
+  - Serve as a technical leader and mentor, setting engineering best practices and
+    raising the bar across teams
+  - Collaborate with data engineering, AI/ML, cloud, security, product, and business
+    stakeholders
+  use_cases:
+  - Conversational AI assistants integrated with Slack and enterprise systems for
+    data access
+  - RAG-based systems for enterprise data retrieval and semantic search
+  - Real-time and batch data pipelines supporting AI workloads
+  - LLM-powered integrations for business intelligence and analytics
+  - AI-native cybersecurity platform leveraging data and AI for threat detection
+  skills:
+    genai: [Gemini, Glean, Salesforce AI, RAG architectures, embeddings, semantic
+        search]
+    ml: []
+    web: []
+    databases: [Snowflake, Snowpark, vector databases]
+    data: [dbt, orchestration frameworks, batch pipelines, streaming pipelines]
+    cloud: [Snowflake Intelligence AI/ML integrations, AWS, SageMaker, Bedrock]
+    ops: [Terraform, GitLab, CI/CD, observability, incident management, SRE, DevOps,
+      FinOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8194670'
+  extracted_at: '2026-02-05T12:12:10.300288'

@@ -1,0 +1,66 @@
+company:
+  name: OneStudyTeam
+  stage: null
+  focus: Cloud-based platform for clinical trial management
+  use_cases:
+  - AI-driven efficiency improvements and productivity gains across business units
+  - Enterprise automation platforms integration using tools like Zapier and Make
+  - Chatbot workflows and AI knowledge bases for internal operations
+  - AI-powered productivity tools integration including Microsoft Copilot, Slack AI,
+    and Salesforce AI
+  - Responsible AI deployment with compliance monitoring and risk management in regulated
+    clinical research environment
+position:
+  title: Principal Engineer, AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on implementation of AI systems
+      including architecting, configuring, and prototyping
+      solutions using LLMs, APIs, and orchestration tools. The
+      Principal Engineer directly deploys and integrates OpenAI
+      ChatGPT, Anthropic Claude, and internally developed AI-
+      enabled solutions, plus manages chatbot workflows and prompt
+      engineering.
+  responsibilities:
+  - Lead organization-wide AI adoption and enablement initiatives to improve efficiency
+    and productivity across business units
+  - Architect, configure, and prototype solutions using LLMs, APIs, and orchestration
+    tools for department-specific AI use cases
+  - Integrate AI capabilities into existing applications, workflows, and cloud environments
+    (Azure, AWS) through APIs and automation layers
+  - Oversee configuration and operational support of AI platforms including OpenAI,
+    Anthropic, Zapier, and Make
+  - Ensure AI implementations adhere to internal policies and external standards including
+    HIPAA, ISO 27001/27002, NIST AI RMF 1.0, and EU AI Act
+  - Partner with cross-functional teams to evaluate requirements, recommend AI-enabled
+    tools, and support implementation
+  - Serve as trusted AI advisor providing guidance, training, and documentation on
+    AI tool usage and best practices
+  - Continuously research, evaluate, and recommend new AI tools, frameworks, and integration
+    strategies aligned with enterprise goals
+  use_cases:
+  - AI-driven efficiency improvements and productivity gains across business units
+  - Enterprise automation platforms integration using tools like Zapier and Make
+  - Chatbot workflows and AI knowledge bases for internal operations
+  - AI-powered productivity tools integration including Microsoft Copilot, Slack AI,
+    and Salesforce AI
+  - Responsible AI deployment with compliance monitoring and risk management in regulated
+    clinical research environment
+  skills:
+    genai: [OpenAI API, Anthropic Claude, LLMs, prompt engineering, RAG]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: [Azure, AWS]
+    ops: [MLOps, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [HIPAA compliance, ISO 27001/27002, NIST AI RMF 1.0, EU AI Act, Zapier,
+      Make, Microsoft Copilot, Slack AI, Salesforce AI]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8021315'
+  extracted_at: '2026-02-05T11:50:15.452668'

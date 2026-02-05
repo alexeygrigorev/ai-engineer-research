@@ -1,0 +1,62 @@
+company:
+  name: hyperexponential
+  stage: Series B
+  focus: AI-powered insurance pricing and underwriting platform
+  use_cases:
+  - Domain-specific AI peer-programmer embedded in a custom IDE to help actuaries
+    and underwriters code, model risk, and make billion-dollar decisions
+  - Powerful ingestion engine that transforms unstructured insurance documents into
+    structured insights
+  - Agentic workflows that reinvent how the insurance industry operates and makes
+    decisions
+  - AI-powered platform for pricing and underwriting decisions in the insurance industry
+position:
+  title: Senior Software Engineer - AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves architecting and scaling AI/ML systems,
+      deploying cutting-edge model capabilities including LLM-
+      driven workflows, and building production ML products. The
+      engineer directly builds AI systems (domain-specific AI
+      peer-programmer, ingestion engine) rather than just
+      supporting infrastructure for others.
+  responsibilities:
+  - Architect and scale advanced AI and ML systems that power hx's next generation
+    of products, solving problems where no off-the-shelf solution exists
+  - Lead the design and deployment of cutting-edge model capabilities, from LLM-driven
+    workflows to domain-specific ML pipelines optimised for messy, high-value real-world
+    data
+  - Drive foundational decisions across data, modelling, and production infrastructure
+    to ensure performance, robustness, and long-term scalability of the AI platform
+  - Rapidly prototype novel ideas, validate them in live environments, and evolve
+    successful experiments into production-grade systems used by customers at scale
+  - Advance hx's broader AI strategy through shaping technical direction, embedding
+    best practices, and raising the bar for how we build, test, and ship ML-powered
+    features
+  - Act as a technical multiplier by mentoring engineers, cultivating deep ML craftsmanship,
+    and fostering a culture anchored in curiosity, speed, and scientific rigor
+  use_cases:
+  - Domain-specific AI peer-programmer embedded in a custom IDE to help actuaries
+    and underwriters code, model risk, and make billion-dollar decisions
+  - Powerful ingestion engine that transforms unstructured insurance documents into
+    structured insights
+  - Agentic workflows that reinvent how the insurance industry operates and makes
+    decisions
+  - AI-powered platform for pricing and underwriting decisions in the insurance industry
+  skills:
+    genai: [LLM workflows, RAG]
+    ml: [model development, model training, fine-tuning]
+    web: []
+    databases: []
+    data: [distributed pipelines, data processing]
+    cloud: [cloud-native]
+    ops: [ML deployment]
+    languages: [Python]
+    domains: [NLP]
+    other: [system design, mentoring]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7950954'
+  extracted_at: '2026-02-05T11:43:48.165124'

@@ -1,0 +1,53 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and services
+  use_cases:
+  - Improving patient engagement through smart nudging
+  - Predicting onset and progression of disease
+  - Large Language Model solutions for summarizing large scale patient information
+  - Optimizing clinical trials using structured and unstructured text data
+  - Healthcare journey transformation through responsible AI/ML innovation
+position:
+  title: Senior AI/ML Software Engineer - Remote
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on MLOps, inference delivery, data
+      pipelines, and scaling ML systems rather than building,
+      training, or fine-tuning models. The position involves
+      deploying and monitoring machine learning solutions
+      developed by others, making it a support role that enables
+      AI work rather than directly working on AI systems.
+  responsibilities:
+  - Own the inference and delivery of machine learning insights to multiple customers
+  - Manage, monitor, and scale machine learning systems delivering insights to customers
+  - Partner with cross-functional engineering teams to implement scalable, flexible
+    pipelines for AI innovations
+  - Work with large-scale data and distributed computing frameworks to process high-volume
+    healthcare datasets
+  - Drive pipeline efficiency and reliability through profiling, refactoring and advanced
+    engineering
+  - Develop new data pipelines to improve ML model usage
+  use_cases:
+  - Improving patient engagement through smart nudging
+  - Predicting onset and progression of disease
+  - Large Language Model solutions for summarizing large scale patient information
+  - Optimizing clinical trials using structured and unstructured text data
+  - Healthcare journey transformation through responsible AI/ML innovation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL, Snowflake]
+    data: [PySpark, Databricks]
+    cloud: [Azure, AWS, Google Cloud, AzureML]
+    ops: [CI/CD, MLOps, model monitoring, drift detection]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8130350'
+  extracted_at: '2026-02-05T12:04:40.135555'

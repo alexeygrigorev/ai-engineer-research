@@ -1,0 +1,62 @@
+company:
+  name: Delinea
+  stage: null
+  focus: |-
+    Identity security and authorization platform using AI-
+    powered intelligence
+  use_cases:
+  - Intelligent authorization system for securing human and machine identities across
+    cloud and traditional infrastructure
+  - Real-time detection of irregularities and threats in identity access patterns
+  - Context-aware security governance across the entire identity lifecycle including
+    workforce, IT administrators, developers, and machines
+  - Automated discovery of all identities and assignment of appropriate access levels
+  - AI-powered identity security spanning cloud, traditional infrastructure, data,
+    SaaS applications, and AI systems
+position:
+  title: Senior Software Engineer - Authorization AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Senior Software Engineer on an Authorization
+      AI team who builds cloud applications using C#/.NET Core and
+      Azure services. While the team develops AI-enabled security
+      features, the engineer's work focuses on infrastructure,
+      application development, and deployment rather than
+      building, training, or fine-tuning AI models directly.
+  responsibilities:
+  - Design, develop, and deploy scalable and highly available cloud-based applications
+    using C#/.NET Core and Azure App Services in performant Kubernetes clusters
+  - Innovate on the Authorization AI team, bringing AI-enabled features and security
+    to the platform
+  - Collaborate with cross-functional teams to understand requirements, propose technical
+    solutions, and contribute to architectural decisions
+  - Mentor and provide technical guidance to other engineers, fostering a culture
+    of continuous learning and growth
+  - Improve development and automation processes including code quality, E2E testing,
+    security scans, monitoring, and tiered incidence response
+  use_cases:
+  - Intelligent authorization system for securing human and machine identities across
+    cloud and traditional infrastructure
+  - Real-time detection of irregularities and threats in identity access patterns
+  - Context-aware security governance across the entire identity lifecycle including
+    workforce, IT administrators, developers, and machines
+  - Automated discovery of all identities and assignment of appropriate access levels
+  - AI-powered identity security spanning cloud, traditional infrastructure, data,
+    SaaS applications, and AI systems
+  skills:
+    genai: []
+    ml: []
+    web: [Angular]
+    databases: [Azure Cosmos DB]
+    data: []
+    cloud: [Azure App Services, Azure Service Bus]
+    ops: [Kubernetes, CI/CD, DevOps]
+    languages: [C#, .NET Core]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8206838'
+  extracted_at: '2026-02-05T12:14:09.401689'

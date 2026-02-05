@@ -1,0 +1,58 @@
+company:
+  name: Tiger Analytics
+  stage: null
+  focus: Advanced analytics consulting and data engineering
+  use_cases:
+  - Retrieval Augmented Generation (RAG) systems for enterprise knowledge management
+  - Vector search and information retrieval for document-based AI applications
+  - Knowledge graph integration for enhanced AI contextualization
+  - Large-scale document processing and indexing for enterprise search
+  - Unstructured data management (text, audio, video, images) for AI workflows
+position:
+  title: Gen AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building the
+      infrastructure, pipelines, and platforms that support
+      GenAI/RAG systems. The role involves data ingestion, vector
+      databases, knowledge graphs, and document indexing for RAG
+      solutions, but does not include building, training, fine-
+      tuning, or deploying the actual AI models.
+  responsibilities:
+  - Build robust data pipelines for document ingestion, indexing, and retrieval to
+    support scalable RAG solutions
+  - Architect data platforms capable of processing petabytes of data with real-time
+    and batch ingestion
+  - Design and manage infrastructure for optimal extraction, transformation, and loading
+    from various data sources
+  - Integrate external databases, APIs, and knowledge graphs into RAG systems to improve
+    contextualization
+  - Conduct experiments to evaluate RAG workflow effectiveness and iterate for optimal
+    performance
+  - Curate and collect data from traditional and non-traditional sources for AI applications
+  use_cases:
+  - Retrieval Augmented Generation (RAG) systems for enterprise knowledge management
+  - Vector search and information retrieval for document-based AI applications
+  - Knowledge graph integration for enhanced AI contextualization
+  - Large-scale document processing and indexing for enterprise search
+  - Unstructured data management (text, audio, video, images) for AI workflows
+  skills:
+    genai: [RAG, LLMs]
+    ml: []
+    web: [Streamlit]
+    databases: [BigQuery, Snowflake, Neo4j, Vector Databases, Pinecone, Elasticsearch,
+      Milvus]
+    data: [PySpark, Apache Spark, Hadoop]
+    cloud: [AWS, GCP, S3, RDS, AWS Lambda, SageMaker, CloudFormation, OpenSearch,
+      Vertex AI, GKE]
+    ops: [Airflow, AutoSys, CronJobs, FAISS, Linux, GitHub, DevOps, SysOps, Docker,
+      Kubernetes, Terraform, Jenkins, GitHub Actions]
+    languages: [Python, SQL]
+    domains: [Knowledge Graphs, Ontologies, Open Cypher]
+    other: [VS Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7357448'
+  extracted_at: '2026-02-05T10:41:54.597803'

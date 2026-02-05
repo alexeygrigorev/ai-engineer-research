@@ -1,0 +1,64 @@
+company:
+  name: Zapier
+  stage: Series D+ (profitable)
+  focus: Workflow automation and integration platform
+  use_cases:
+  - Building user-facing features leveraging agent architectures with LLMs
+  - Implementing Retrieval-Augmented Generation (RAG) systems for improved model accuracy
+    and speed
+  - Deploying evaluation frameworks for LLMs to assess performance, reliability, and
+    bias
+  - Optimizing knowledge retrieval with semantic search and vector databases
+  - Creating shared libraries, evaluation systems, and orchestration patterns for
+    AI development
+  - Enhancing automation workflows with AI-powered capabilities
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building with LLMs in
+      production, including agent architectures, RAG systems,
+      evaluation frameworks, and function calling. The engineer is
+      responsible for integrating LLMs into software products and
+      owning the full lifecycle of LLM architecture development,
+      not just enabling work for others.
+  responsibilities:
+  - Integrate LLMs into software products at Zapier, setting up necessary infrastructure
+    for performance, scalability, and reliability
+  - Build tooling and infrastructure that enables teams to iterate on AI products
+    faster without sacrificing safety or reliability
+  - Monitor performance and health of AI systems, proactively detecting and addressing
+    system failures and performance degradation
+  - Implement data-driven feedback loops that capture user data, synthesize use cases,
+    and test strategies with LLMs to enhance performance
+  - Improve cost observability across teams and work to optimize spend for AI products
+  - Collaborate with Data and cross-functional teams to refine and deploy LLM-based
+    features
+  use_cases:
+  - Building user-facing features leveraging agent architectures with LLMs
+  - Implementing Retrieval-Augmented Generation (RAG) systems for improved model accuracy
+    and speed
+  - Deploying evaluation frameworks for LLMs to assess performance, reliability, and
+    bias
+  - Optimizing knowledge retrieval with semantic search and vector databases
+  - Creating shared libraries, evaluation systems, and orchestration patterns for
+    AI development
+  - Enhancing automation workflows with AI-powered capabilities
+  skills:
+    genai: [Large Language Models, RAG, agent architectures, function calling, evaluation
+        frameworks]
+    ml: [transformer networks, attention mechanisms]
+    web: []
+    databases: [vector databases]
+    data: [semantic search, data pipelines]
+    cloud: [cloud infrastructure]
+    ops: [cost observability, monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8284307'
+  extracted_at: '2026-02-05T12:33:48.954419'

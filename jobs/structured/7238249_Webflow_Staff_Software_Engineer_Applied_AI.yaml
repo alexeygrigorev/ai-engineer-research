@@ -1,0 +1,49 @@
+company:
+  name: Webflow
+  stage: Series C
+  focus: AI-native Digital Experience Platform
+  use_cases:
+  - Enhance speed, creativity, and quality when building and designing websites
+  - Empower teams to design, launch, and optimize for the web without barriers
+  - Bring development superpowers to everyone through AI-powered features
+  - Improve Webflow user experience through generative AI-powered features
+position:
+  title: Staff Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly integrates and deploys AI models
+      including LLMs and diffusion models into Webflow's product.
+      The engineer will implement AI solutions, work with fine-
+      tuning, vector databases, and prompt engineering - all
+      hands-on model work rather than just infrastructure support.
+  responsibilities:
+  - Lead architecture and design for features integrating large language models and
+    diffusion models
+  - Collaborate with product engineering to identify and implement AI solutions that
+    improve user experience
+  - Develop and maintain user interfaces that integrate AI models and algorithms
+  - Integrate third-party AI APIs into the product's architecture
+  - Build quality feedback tooling including AI-specific evaluations and quality measurements
+  - Drive technical decisions across features and teams working on similar AI problems
+  use_cases:
+  - Enhance speed, creativity, and quality when building and designing websites
+  - Empower teams to design, launch, and optimize for the web without barriers
+  - Bring development superpowers to everyone through AI-powered features
+  - Improve Webflow user experience through generative AI-powered features
+  skills:
+    genai: [Large Language Models, Fine-tuning, Prompt Engineering]
+    ml: []
+    web: [React, REST, GraphQL]
+    databases: [Vector Databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Node.js, TypeScript]
+    domains: [Diffusion Models]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7238249'
+  extracted_at: '2026-02-05T10:31:07.361692'

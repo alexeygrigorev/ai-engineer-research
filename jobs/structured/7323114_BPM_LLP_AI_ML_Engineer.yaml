@@ -1,0 +1,72 @@
+company:
+  name: BPM LLP
+  stage: null
+  focus: |-
+    Global advisory firm offering tax, finance, and business
+    operations consulting across business lifecycle
+  use_cases:
+  - Tax automation through AI-powered chatbots and copilots that handle tax-related
+    queries and workflows
+  - Document processing and analysis for Assurance and Advisory teams using NLP and
+    ML models
+  - Workflow automation across corporate services to reduce manual effort and increase
+    operational efficiency
+  - Copilot extensions integrated into Microsoft ecosystem tools for enhanced employee
+    productivity
+  - Enterprise AI applications that provide strategic insights and support decision-making
+    across business operations
+position:
+  title: AI / ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI/ML Engineer role that involves hands-on
+      building and deploying AI solutions - designing chatbots,
+      copilots, developing AI/ML models, and embedding AI tools
+      into enterprise workflows. The role explicitly states it's
+      for "a builder" who makes AI work at scale, including
+      working with Azure OpenAI, Copilot Studio, and LangChain to
+      create functional AI applications.
+  responsibilities:
+  - Design and evaluate AI/ML models tailored to business use cases including tax
+    AI bots and Copilot extensions
+  - Prepare and manage structured and unstructured datasets, ensuring quality inputs
+    for model training and evaluation
+  - Build and deploy AI features into systems and workflows using tools like Copilot
+    Studio, Azure OpenAI, and Power Platform
+  - Deliver automation solutions that streamline operations and reduce manual effort
+    across Tax, Assurance, and Advisory practices
+  - Collaborate with IT, business stakeholders, and data governance teams to identify
+    use cases and ensure solutions align with firm goals
+  - Rapidly prototype AI solutions, test emerging tools, and recommend best practices
+    for adoption
+  - Apply responsible AI practices, ensuring models are accurate, explainable, and
+    compliant with organizational standards
+  use_cases:
+  - Tax automation through AI-powered chatbots and copilots that handle tax-related
+    queries and workflows
+  - Document processing and analysis for Assurance and Advisory teams using NLP and
+    ML models
+  - Workflow automation across corporate services to reduce manual effort and increase
+    operational efficiency
+  - Copilot extensions integrated into Microsoft ecosystem tools for enhanced employee
+    productivity
+  - Enterprise AI applications that provide strategic insights and support decision-making
+    across business operations
+  skills:
+    genai: [Copilot Studio, LangChain, OpenAI SDK, MCP (Model Context Protocol), applied
+        AI, chatbot development]
+    ml: [machine learning, data science]
+    web: []
+    databases: []
+    data: [Pandas, ML pipelines, data engineering]
+    cloud: [Azure OpenAI, Azure AI SDK, Power Platform]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [responsible AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7323114'
+  extracted_at: '2026-02-05T10:38:45.999443'

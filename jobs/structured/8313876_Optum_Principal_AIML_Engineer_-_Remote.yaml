@@ -1,0 +1,61 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare AI innovation and analytics solutions
+  use_cases:
+  - Healthcare data analysis and modeling for business value insights
+  - Machine learning solutions for UnitedHealthcare and Optum business units (Financial,
+    Health, Insight, Rx)
+  - AI-powered healthcare journey transformation and patient care improvement
+  - Enterprise AI/ML development platform development and support
+  - Complex healthcare system optimization through advanced analytics
+  - Multimodal and NLP applications for healthcare data processing
+position:
+  title: Principal AI/ML Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of ML/LLM models
+      including GNNs, GANs, Transformers, and LLMs with direct
+      experience in LLM alignment (DPO, PPO) and optimization. The
+      engineer will experiment, optimize, and deploy models into
+      production, which is core ai-first work rather than
+      supporting infrastructure or general software engineering.
+  responsibilities:
+  - Drive end-to-end Machine Learning projects with high ambiguity, scale and complexity
+  - Build ML models, perform proof-of-concept, experiment, optimize, and deploy models
+    into production
+  - Perform hands-on analysis and modeling of healthcare datasets to develop business
+    insights
+  - Run A/B experiments, gather data, and perform statistical analysis
+  - Establish scalable, efficient, automated processes for large-scale data analysis
+    and model development/serving
+  - Research and implement innovative machine learning approaches including cutting-edge
+    AI research
+  - Mentor and recruit AI/ML scientists and machine learning engineers to the team
+  - Present findings and insights to senior leadership and pursue IP submissions
+  use_cases:
+  - Healthcare data analysis and modeling for business value insights
+  - Machine learning solutions for UnitedHealthcare and Optum business units (Financial,
+    Health, Insight, Rx)
+  - AI-powered healthcare journey transformation and patient care improvement
+  - Enterprise AI/ML development platform development and support
+  - Complex healthcare system optimization through advanced analytics
+  - Multimodal and NLP applications for healthcare data processing
+  skills:
+    genai: [LLMs, LLM alignment, DPO, PPO, Generative AI, LLM optimization]
+    ml: [PyTorch, TensorFlow, GNNs, GANs, Transformers]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, multimodal modeling]
+    other: [optimization theory, stochastic algorithms, numerical methods, statistical
+        analysis, A/B testing]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8313876'
+  extracted_at: '2026-02-05T12:45:49.005852'

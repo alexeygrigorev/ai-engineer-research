@@ -1,0 +1,58 @@
+company:
+  name: Standard Bots
+  stage: null
+  focus: Robotic automation with AI integration
+  use_cases:
+  - AI-enabled robotic automation solutions for industrial applications
+  - Custom robotic solutions designed around specific customer needs using RO1 AI
+    functionality
+  - Proof of concept demonstrations showcasing Standard Bot's capabilities
+  - Field installation and programming of AI-integrated robotic systems
+position:
+  title: AI Applications Engineer (Glen Cove, NY)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an Applications Engineer role focused on designing,
+      installing, and supporting AI-enabled robotic solutions for
+      customers. The role involves deploying and configuring
+      existing AI functionality (the RO1 AI capabilities) rather
+      than building, training, or developing AI models/agents from
+      scratch. The work is customer-facing and application-
+      focused, making it ai-support rather than ai-first.
+  responsibilities:
+  - Support groundbreaking AI work at the leader of AI integrated Robotics based in
+    New York
+  - Work with sales and customers to design solutions around the Standard Bots RO1
+    for AI enabled applications
+  - Go into the field to install, program and verify Standard Bots AI solutions
+  - Support customers as they find new and innovative ways to use Standard Bot's RO1
+    AI functionality
+  - Develop proof of concept systems to show Standard Bot's capabilities at the AI
+    lab
+  - Develop supporting materials such as sample code, white papers and application
+    notes
+  - Assist in-house engineering with the design and testing of ever-expanding AI functionality
+  - Develop marketing collateral to assist with growing Standard Bot's customer base
+  use_cases:
+  - AI-enabled robotic automation solutions for industrial applications
+  - Custom robotic solutions designed around specific customer needs using RO1 AI
+    functionality
+  - Proof of concept demonstrations showcasing Standard Bot's capabilities
+  - Field installation and programming of AI-integrated robotic systems
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [automation, robotics]
+    other: [electrical systems, mechanical engineering, Solidworks]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8293494'
+  extracted_at: '2026-02-05T12:39:21.429831'

@@ -1,0 +1,59 @@
+company:
+  name: Seek (seekinsights.com)
+  stage: null
+  focus: Marketplace for data apps and analytics platform
+  use_cases:
+  - Natural language search for data discovery and querying
+  - Conversational querying interfaces for analytics
+  - AI-powered recommendations for app store experiences
+  - Guided workflows and intelligent recommendations for data analytics
+  - Assisted discovery and guided analytics capabilities
+position:
+  title: Senior Software Engineer - Applied AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role that integrates AI
+      capabilities into a product platform but does not build,
+      train, or deploy models. The engineer designs APIs,
+      services, and workflows that integrate external AI/LLM
+      models and services into the Insight Cloud platform, which
+      is enabling work for AI rather than working directly on AI
+      systems.
+  responsibilities:
+  - Build full stack features with React, Python, and modern APIs for high-quality
+    user experiences
+  - Design backend services and APIs that integrate AI models and external AI services
+    into the platform
+  - Create intuitive AI-powered workflows including conversational querying, assisted
+    discovery, and guided analytics
+  - Connect AI-driven features to Snowflake and semantic modeling layer for data-driven
+    applications
+  - Contribute to app store experiences with AI-powered recommendations and publishing
+    flows
+  - Ensure reliability at scale with strong testing, CI/CD pipelines, and observability
+  - Collaborate with cross-functional teams to turn AI opportunities into customer-ready
+    features
+  use_cases:
+  - Natural language search for data discovery and querying
+  - Conversational querying interfaces for analytics
+  - AI-powered recommendations for app store experiences
+  - Guided workflows and intelligent recommendations for data analytics
+  - Assisted discovery and guided analytics capabilities
+  skills:
+    genai: [LLM integration, RAG pipelines, OpenAI API, Anthropic API, agent frameworks,
+      AI/ML APIs]
+    ml: []
+    web: [React, API design, REST APIs]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [CI/CD, distributed systems, observability, system architecture]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8328806'
+  extracted_at: '2026-02-05T12:52:20.900996'

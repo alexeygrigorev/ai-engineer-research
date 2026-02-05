@@ -1,0 +1,58 @@
+company:
+  name: Mistral AI
+  stage: Series B
+  focus: Open-source LLM and AI models for enterprise
+  use_cases:
+  - Enterprise AI transformation and deployment across multiple industries
+  - Consumer-facing GenAI product implementations
+  - Industrial AI applications and automation
+  - Custom LLM fine-tuning for enterprise-specific use cases
+  - Advanced RAG systems for enterprise knowledge management
+  - Agentic AI systems for autonomous task execution
+position:
+  title: Applied AI, Forward Deployed Machine Learning Engineer - EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Forward Deployed Engineer role working directly on deploying
+      GenAI solutions with hands-on LLM fine-tuning, RAG
+      implementation, and agentic systems. The role involves
+      building and deploying AI models to production, not just
+      supporting them - explicitly mentions "complex fine-tuning",
+      "LLM applications", and contributing to inference/fine-
+      tuning codebases.
+  responsibilities:
+  - Deploy production AI solutions with measurable business impact across various
+    industries
+  - Implement state-of-the-art GenAI applications from consumer products to industrial
+    use cases
+  - Collaborate with researchers and engineers on complex projects involving LLM fine-tuning
+    and advanced applications
+  - Contribute to open-source codebases for inference and fine-tuning tasks
+  - Engage in pre-sales calls to understand client needs and provide technical guidance
+  - Work with product and science teams to improve model capabilities based on customer
+    feedback
+  use_cases:
+  - Enterprise AI transformation and deployment across multiple industries
+  - Consumer-facing GenAI product implementations
+  - Industrial AI applications and automation
+  - Custom LLM fine-tuning for enterprise-specific use cases
+  - Advanced RAG systems for enterprise knowledge management
+  - Agentic AI systems for autonomous task execution
+  skills:
+    genai: [Fine-tuning, RAG, Agentic systems, LLM applications, Prompt engineering,
+      Open-source contribution]
+    ml: [PyTorch, Machine learning, Deep learning]
+    web: [APIs, Back-end development, Front-end interfaces]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '2935725'
+  extracted_at: '2026-02-05T09:36:05.227979'

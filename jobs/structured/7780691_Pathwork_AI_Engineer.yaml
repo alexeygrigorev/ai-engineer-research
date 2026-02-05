@@ -1,0 +1,58 @@
+company:
+  name: Pathwork
+  stage: Series A
+  focus: AI-native insurance workflow automation platform
+  use_cases:
+  - Transforming insurance distribution workflows with AI-native systems
+  - Providing agentic orchestration for life and health insurance professionals
+  - Automating and structuring outdated insurance broker and carrier workflows
+  - Delivering predictive models and generative AI capabilities for insurance operations
+  - Enabling real-time AI-driven decision support for 2.5M insurance industry professionals
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role building agentic AI
+      systems with direct responsibilities for model
+      orchestration, retrieval, inference, fine-tuning, and
+      evaluation frameworks. The role requires end-to-end
+      ownership of AI systems including LLM deployment and
+      optimization, not just supporting infrastructure or data
+      pipelines.
+  responsibilities:
+  - Build and own end-to-end agentic AI systems including retrieval, orchestration,
+    inference, evaluation, and feedback loops
+  - Shape architecture across model interfaces, data pipelines, vector databases,
+    and streaming infrastructure
+  - Prototype, test, and launch AI-driven features in collaboration with product and
+    design teams
+  - Optimize accuracy, latency, and robustness through fine-tuning, evaluation frameworks,
+    and data iteration
+  - Build infrastructure and tools for debugging, observability, and agent testing
+    to support company growth
+  - Hire, mentor, and collaborate with engineers while taking ownership of technical
+    and product strategy
+  use_cases:
+  - Transforming insurance distribution workflows with AI-native systems
+  - Providing agentic orchestration for life and health insurance professionals
+  - Automating and structuring outdated insurance broker and carrier workflows
+  - Delivering predictive models and generative AI capabilities for insurance operations
+  - Enabling real-time AI-driven decision support for 2.5M insurance industry professionals
+  skills:
+    genai: [LangGraph, RAG, agentic systems, LLM orchestration, retrieval systems,
+      function calling, prompt engineering]
+    ml: [fine-tuning, model evaluation, Whisper]
+    web: [FastAPI, React, Next.js]
+    databases: [Qdrant, Postgres]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS EC2, AWS ECS, AWS S3]
+    ops: [Terraform]
+    languages: [TypeScript, Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7780691'
+  extracted_at: '2026-02-05T11:30:20.930293'

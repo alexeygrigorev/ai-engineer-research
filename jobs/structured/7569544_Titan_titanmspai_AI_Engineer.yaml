@@ -1,0 +1,56 @@
+company:
+  name: Titan (titanmsp.ai)
+  stage: Series B
+  focus: AI-powered IT managed services platform
+  use_cases:
+  - Automating IT operations and decision-making processes for managed service providers
+  - Empowering technicians with AI-powered tools to work faster and more strategically
+  - Delivering faster resolutions and better uptime for customer IT support
+  - Providing proactive, personalized support through autonomous AI agents
+  - Enabling MSPs to scale operations like technology companies
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, building, and optimizing AI
+      models for automation and decision-making, with direct
+      responsibility for model architecture, training
+      infrastructure, and production deployment. The bonus skills
+      section specifically mentions LLMs, fine-tuning, prompting,
+      and AI agents, indicating hands-on work building AI systems
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Design, build, and optimize AI models that enhance automation and decision-making
+    for IT operations
+  - Work closely with design and product teams to build user-centric experiences that
+    empower technicians and enhance service delivery
+  - Research and experiment with cutting-edge AI techniques to improve model accuracy
+    and performance
+  - Collaborate with AI and backend engineers to integrate AI-powered platform into
+    customer-facing tools
+  - Make key technical decisions around model architecture, training infrastructure,
+    and AI best practices
+  - Ship fast and iterate, balancing speed with quality in a fast-paced startup environment
+  use_cases:
+  - Automating IT operations and decision-making processes for managed service providers
+  - Empowering technicians with AI-powered tools to work faster and more strategically
+  - Delivering faster resolutions and better uptime for customer IT support
+  - Providing proactive, personalized support through autonomous AI agents
+  - Enabling MSPs to scale operations like technology companies
+  skills:
+    genai: [LLMs, fine-tuning, prompt engineering, AI agents]
+    ml: [model training, model optimization, model distillation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7569544'
+  extracted_at: '2026-02-05T11:07:57.315894'

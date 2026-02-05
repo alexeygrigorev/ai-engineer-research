@@ -1,0 +1,61 @@
+company:
+  name: 8am (Formerly AffiniPay)
+  stage: Public/Established
+  focus: |-
+    Professional business platform for legal and accounting
+    professionals
+  use_cases:
+  - Enhance and expand 8am suite of products with AI-powered capabilities
+  - Deliver cutting-edge AI features that delight customers and drive business outcomes
+  - Improve workflows and enhance decision-making for legal and accounting professionals
+  - Integrate AI into existing professional business platform solutions
+  - Enable professionals to work smarter and serve clients better through AI-driven
+    features
+position:
+  title: Senior Software Engineer | AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLM frameworks,
+      building and deploying AI-powered services, fine-tuning
+      Large Language Models, and integrating models into
+      production systems. The engineer directly builds, deploys,
+      and evaluates AI features rather than just supporting
+      infrastructure for other AI engineers.
+  responsibilities:
+  - Collaborate with product managers and stakeholders to translate business problems
+    into AI-driven solutions
+  - Design, implement, and integrate AI features into existing 8am products
+  - Partner with the Data team to ensure the right data is collected, enriched, prepared,
+    and staged for AI consumption and use
+  - Build and evaluate AI-powered services, from customer-facing prototypes to general
+    availability to all our customers
+  - Write high-quality Python code to manipulate data, interact with large language
+    models, and assess performance
+  - Develop tools and infrastructure to support reliable, scalable, and secure AI
+    deployment
+  - Work with our cloud operations team to deploy AI features, monitor their impact,
+    and continuously improve them
+  use_cases:
+  - Enhance and expand 8am suite of products with AI-powered capabilities
+  - Deliver cutting-edge AI features that delight customers and drive business outcomes
+  - Improve workflows and enhance decision-making for legal and accounting professionals
+  - Integrate AI into existing professional business platform solutions
+  - Enable professionals to work smarter and serve clients better through AI-driven
+    features
+  skills:
+    genai: [LLM frameworks, large language models, fine-tuning]
+    ml: []
+    web: [SaaS application development]
+    databases: []
+    data: [data manipulation]
+    cloud: [AWS]
+    ops: [DevOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8064450'
+  extracted_at: '2026-02-05T11:57:26.068256'

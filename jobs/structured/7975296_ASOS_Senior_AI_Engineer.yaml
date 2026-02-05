@@ -1,0 +1,59 @@
+company:
+  name: ASOS
+  stage: Public
+  focus: Online fashion retail platform
+  use_cases:
+  - Personalised fashion experiences for millions of online retail customers
+  - LLM-powered product recommendations and search optimization
+  - Generative AI solutions for fashion content creation and styling advice
+  - Automated evaluation and monitoring of AI model performance in retail context
+  - Ethical AI systems with bias mitigation for fashion recommendations
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI solutions using
+      LLMs and generative AI, including prompt engineering, fine-
+      tuning pre-trained models, and designing evaluation
+      frameworks. This is direct work on AI systems rather than
+      supporting infrastructure or platforms for others.
+  responsibilities:
+  - Designing and developing AI solutions using LLMs and generative AI, optimising
+    prompts and workflows for high-quality outputs
+  - Building scalable data pipelines and applying advanced data preparation techniques
+    to ensure integrity and quality
+  - Driving standardisation and reusability of AI workflows, enabling consistency
+    across diverse product domains
+  - Implementing MLOps principles for AI systems including CI/CD, model registries,
+    monitoring, and feature management
+  - Partnering with Cloud Infrastructure teams to design secure, cost-efficient environments
+    for AI workloads
+  - Embedding data ethics principles into AI development, proactively mitigating bias
+    and ensuring safe, responsible AI practices
+  - Fine-tuning pre-trained models for domain-specific tasks to improve performance
+    and relevance
+  - Designing and implementing robust evaluation frameworks for AI models, including
+    automated testing and benchmarking
+  use_cases:
+  - Personalised fashion experiences for millions of online retail customers
+  - LLM-powered product recommendations and search optimization
+  - Generative AI solutions for fashion content creation and styling advice
+  - Automated evaluation and monitoring of AI model performance in retail context
+  - Ethical AI systems with bias mitigation for fashion recommendations
+  skills:
+    genai: [LLMs, generative AI, prompt engineering, fine-tuning]
+    ml: [PyTorch, TensorFlow, Hugging Face]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, MLflow, CI/CD, model monitoring, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7975296'
+  extracted_at: '2026-02-05T11:44:27.857358'

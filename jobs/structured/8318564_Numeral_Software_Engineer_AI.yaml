@@ -1,0 +1,57 @@
+company:
+  name: Numeral
+  stage: Series B
+  focus: Sales tax compliance automation for e-commerce
+  use_cases:
+  - Automating sales tax compliance workflows for e-commerce businesses
+  - Building intelligent agents to handle regulatory and accounting burdens
+  - Implementing document processing and knowledge retrieval for tax compliance
+  - Creating automated workflows that integrate with e-commerce platforms
+  - Developing AI-powered tools to reduce administrative overhead for online businesses
+position:
+  title: Software Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building
+      LLM-powered systems including tool-calling agents, model
+      orchestration, RAG, and agentic workflows. The role directly
+      designs and implements AI/ML systems rather than just
+      supporting them.
+  responsibilities:
+  - Design, build, and operate production AI systems including tool-calling agents,
+    model orchestration layers, and RAG
+  - Implement and maintain AI integrations using modern frameworks, MCP servers, and
+    external model providers
+  - Build and evolve scalable backend services and APIs that power automated workflows
+    and customer-facing features
+  - Design automation systems using workflow orchestration tools and agent-based approaches
+  - Make architectural decisions that balance latency, cost, reliability, and iteration
+    speed
+  - Own infrastructure, observability, and performance for both AI and non-AI services
+  - Collaborate with product, design, and data teams to ship features that solve real
+    customer problems
+  - Define engineering best practices, AI safety/reliability norms, and technical
+    culture
+  use_cases:
+  - Automating sales tax compliance workflows for e-commerce businesses
+  - Building intelligent agents to handle regulatory and accounting burdens
+  - Implementing document processing and knowledge retrieval for tax compliance
+  - Creating automated workflows that integrate with e-commerce platforms
+  - Developing AI-powered tools to reduce administrative overhead for online businesses
+  skills:
+    genai: [LLMs, RAG, agents, tool calling, MCP, model orchestration]
+    ml: []
+    web: []
+    databases: [PostgreSQL, Redis, vector databases, Pinecone]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [n8n, Zapier]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8318564'
+  extracted_at: '2026-02-05T12:50:21.076397'

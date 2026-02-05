@@ -1,0 +1,63 @@
+company:
+  name: Autodesk
+  stage: Public
+  focus: |-
+    Design and engineering software for AEC (Architecture,
+    Engineering, and Construction)
+  use_cases:
+  - Generative AI tools for AEC design and engineering workflows
+  - Geometric data modeling and processing for 2D/3D representations
+  - Foundation models for Architecture, Engineering, and Construction industry
+  - AEC data format transformation including BIM, IFC, CAD, and drawing sets
+  - MEP systems data processing (HVAC, electrical, plumbing)
+  - AI-enhanced design workflows in AutoCAD, Revit, and Construction Cloud
+position:
+  title: 'Senior Principal Research Engineer: AEC Geometric Data - Generative AI'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a data engineering role focused on building scalable
+      data pipelines for ML systems. While the role supports
+      generative AI initiatives by preparing data, the actual work
+      involves transforming geometric data, pipeline architecture,
+      and data preprocessing rather than building, training, or
+      fine-tuning models directly. The role aligns data formats
+      for downstream LLM training but is not hands-on with the
+      models themselves.
+  responsibilities:
+  - Lead development of scalable data pipelines for diverse AEC data sources in production
+    ML systems
+  - Design preprocessing and augmentation techniques for large-scale multi-modal datasets
+    including text and geometric data
+  - Transform unstructured AEC data into representations suitable for machine learning
+  - Collaborate with ML Research Scientists and Engineers to align data formats with
+    LLM training and fine-tuning
+  - Architect and optimize pipelines for scalability, reproducibility, and cloud deployment
+  - Drive technical decision-making and influence engineering best practices across
+    the team
+  - Mentor junior engineers and provide technical guidance on complex data engineering
+    challenges
+  - Participate in technical planning and roadmap development
+  use_cases:
+  - Generative AI tools for AEC design and engineering workflows
+  - Geometric data modeling and processing for 2D/3D representations
+  - Foundation models for Architecture, Engineering, and Construction industry
+  - AEC data format transformation including BIM, IFC, CAD, and drawing sets
+  - MEP systems data processing (HVAC, electrical, plumbing)
+  - AI-enhanced design workflows in AutoCAD, Revit, and Construction Cloud
+  skills:
+    genai: []
+    ml: [PyTorch, CNNs, Transformers]
+    web: []
+    databases: []
+    data: [Data pipelines, ETL]
+    cloud: [AWS, SageMaker]
+    ops: []
+    languages: [Python]
+    domains: [Geometric data modeling, Computational geometry, BIM, IFC, CAD]
+    other: [Software engineering practices, Algorithms]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8394404'
+  extracted_at: '2026-02-05T18:55:21.651209'

@@ -1,0 +1,55 @@
+company:
+  name: Cloudflare
+  stage: Public
+  focus: Internet infrastructure and security platform
+  use_cases:
+  - AI-powered code generation and debugging tools for developers
+  - AI observability platform for model monitoring and explainability
+  - Edge-optimized model inference for low-latency AI applications
+  - Autonomous intelligent agents for developer automation
+  - AI-powered developer platform integrations
+position:
+  title: Senior Systems Engineer, AI Applications Tooling
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building LLM-powered applications, AI
+      observability tools, and edge-optimized model inference
+      systems. The engineer will directly implement AI solutions
+      including code generation tools and autonomous agents,
+      working on model deployment and optimization rather than
+      just supporting infrastructure.
+  responsibilities:
+  - Lead the development of high-impact AI-powered tools and integrations that enhance
+    the developer experience, such as AI-assisted code generation and debugging
+  - Design, architect, and implement AI observability solutions to improve model monitoring,
+    explainability, and performance optimization at scale
+  - Drive cross-functional efforts to integrate AI into Cloudflare's developer platform,
+    ensuring optimal scalability and efficiency
+  - Mentor and champion best practices, engaging with the broader AI and developer
+    community, contributing to open-source projects, technical documentation, and
+    blog posts
+  - Work across Cloudflare's ecosystem to identify and evaluate new AI opportunities,
+    influence technical direction, and drive adoption of AI technologies
+  use_cases:
+  - AI-powered code generation and debugging tools for developers
+  - AI observability platform for model monitoring and explainability
+  - Edge-optimized model inference for low-latency AI applications
+  - Autonomous intelligent agents for developer automation
+  - AI-powered developer platform integrations
+  skills:
+    genai: [LLMs, model inference, AI-powered developer tools, agent frameworks]
+    ml: []
+    web: [Cloudflare Workers]
+    databases: [D1, R2]
+    data: [Durable Objects]
+    cloud: []
+    ops: [AI observability, edge computing, distributed systems]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [open-source contribution]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4447088'
+  extracted_at: '2026-02-05T09:39:35.881253'

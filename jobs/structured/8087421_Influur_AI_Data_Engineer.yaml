@@ -1,0 +1,61 @@
+company:
+  name: Influur
+  stage: Series A
+  focus: Autonomous AI agent for influencer marketing
+  use_cases:
+  - Autonomous agent for influencer marketing that goes from campaign planning to
+    execution with minimal human intervention
+  - AI-powered system that identifies what makes influencer content go viral using
+    proprietary data
+  - Campaign automation that matches influencers with brands and manages execution
+    end-to-end
+  - Social media data analysis to optimize viral content performance for entertainment
+    brands
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building AI agents
+      including memory, planning, tool use, and execution loops.
+      The engineer designs systems from raw data to autonomous
+      action by AI agents, working directly with embeddings,
+      multimodal models, and LLM-powered workflows.
+  responsibilities:
+  - Build scalable data pipelines for unstructured data including video, audio, and
+    multimodal content
+  - Develop and deploy autonomous AI agents with memory, planning, tool use, and execution
+    loops
+  - Design end-to-end systems that transform raw data into insights and autonomous
+    actions
+  - Implement video and sound processing workflows including codecs, frame extraction,
+    batch and streaming
+  - Work with embeddings, multimodal models, and LLM-powered workflows in production
+  - Own architecture decisions from data ingestion to production AI agents
+  - Build data-heavy systems with focus on performance, scalability, and reliability
+  use_cases:
+  - Autonomous agent for influencer marketing that goes from campaign planning to
+    execution with minimal human intervention
+  - AI-powered system that identifies what makes influencer content go viral using
+    proprietary data
+  - Campaign automation that matches influencers with brands and manages execution
+    end-to-end
+  - Social media data analysis to optimize viral content performance for entertainment
+    brands
+  skills:
+    genai: [multimodal models, AI agents, LLM-powered workflows, embeddings]
+    ml: []
+    web: []
+    databases: []
+    data: [data pipelines, unstructured data processing, video processing, audio processing,
+      social media data]
+    cloud: [AWS, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8087421'
+  extracted_at: '2026-02-05T11:59:45.771112'

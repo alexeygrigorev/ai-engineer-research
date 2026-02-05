@@ -1,0 +1,56 @@
+company:
+  name: Tapcart
+  stage: Series B
+  focus: Mobile app platform for Shopify brands
+  use_cases:
+  - Mobile shopping app personalization using generative AI
+  - Customer analytics and segmentation for eCommerce brands
+  - Personalized in-app marketing tools and customer experiences
+  - Real-time data processing for shopper behavior analysis
+  - Scalable infrastructure powering mobile apps for 50+ million consumers
+position:
+  title: Senior Backend Engineer (Analytics/ AI Personalization)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a backend engineering position focused on
+      building data infrastructure and microservices that power
+      analytics, segmentation, and personalization products. While
+      Gen AI experience is listed as a bonus, the core
+      responsibilities are designing and maintaining the
+      distributed systems, databases, and cloud infrastructure
+      that support AI/ML initiatives rather than directly
+      building, training, or deploying models.
+  responsibilities:
+  - Design, build, and maintain data infrastructure systems for analytics, segmentation,
+    and personalization products
+  - Build, optimize, and maintain critical data infrastructure powering AI/ML personalization
+    systems
+  - Build and deploy new microservices in a cloud environment to scale the data platform
+  - Optimize cloud infrastructure for cost and performance while ensuring enterprise-grade
+    security and compliance
+  - Architect and review service designs, define API schemas, and manage change in
+    collaboration with cloud partners
+  - Drive end-to-end ownership from ideation to deployment with direct customer impact
+  use_cases:
+  - Mobile shopping app personalization using generative AI
+  - Customer analytics and segmentation for eCommerce brands
+  - Personalized in-app marketing tools and customer experiences
+  - Real-time data processing for shopper behavior analysis
+  - Scalable infrastructure powering mobile apps for 50+ million consumers
+  skills:
+    genai: [Gen AI Frameworks]
+    ml: []
+    web: [React, React Native, Next.js]
+    databases: [MongoDB, Postgres, BigQuery, Bigtable]
+    data: [Apache Beam, dbt]
+    cloud: [Google Cloud Platform]
+    ops: [Docker, Kubernetes, Infrastructure as Code, CI/CD]
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: [Distributed Systems, Microservices, System Architecture Design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7125632'
+  extracted_at: '2026-02-05T10:21:08.048885'

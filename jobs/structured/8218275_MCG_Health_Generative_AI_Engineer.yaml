@@ -1,0 +1,60 @@
+company:
+  name: MCG Health
+  stage: Public
+  focus: Healthcare evidence-based care guidelines and content
+  use_cases:
+  - Automate search, filter, retrieval, and critical evaluation of medical literature
+    to accelerate content production
+  - Improve content creation efficiency with AI-powered copy editing assistance tools
+  - Streamline evidence-based care guideline updates through automated literature
+    review workflows
+  - Enable clinical editors to create content more efficiently and accurately with
+    AI-powered tools
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      generative AI solutions with LLMs, including RAG
+      implementations, prompt optimization, and full-stack AI
+      application development. The engineer is directly
+      responsible for automating content workflows using OpenAI
+      models, embeddings, and chunking techniques, which is core
+      AI/ML development work rather than support infrastructure.
+  responsibilities:
+  - Drive automation and workflow improvements through innovative LLM solutions balancing
+    speed, function, and robustness
+  - Rapid prototyping of generative AI applications with full-stack development from
+    proof-of-concept to front-end UI
+  - Develop ETL/data pre-processing workflows to structure and manage clinical content
+    for LLM pipelines
+  - Collaborate with clinical editors and data scientists to implement RAG, optimize
+    prompts, and evaluate AI strategies
+  - Evaluate, measure, and continuously improve performance of generative AI solutions
+  - Stay current with industry developments in generative AI technologies and best
+    practices
+  use_cases:
+  - Automate search, filter, retrieval, and critical evaluation of medical literature
+    to accelerate content production
+  - Improve content creation efficiency with AI-powered copy editing assistance tools
+  - Streamline evidence-based care guideline updates through automated literature
+    review workflows
+  - Enable clinical editors to create content more efficiently and accurately with
+    AI-powered tools
+  skills:
+    genai: [OpenAI APIs, RAG, embeddings, chunking, prompt engineering]
+    ml: []
+    web: [React.js]
+    databases: []
+    data: [ETL, data pipelines]
+    cloud: [Azure, AWS]
+    ops: [CI/CD, containerized services]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8218275'
+  extracted_at: '2026-02-05T12:14:22.016263'

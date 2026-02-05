@@ -1,0 +1,62 @@
+company:
+  name: WeBuild-AI
+  stage: null
+  focus: |-
+    Enterprise AI transformation and AI-powered software
+    solutions
+  use_cases:
+  - Transform enterprise organizations into AI-powered and data-driven businesses
+  - Create high-impact AI applications using language models and agents
+  - Reinvent how enterprise clients design, build, and operate AI-powered software
+    at scale
+  - Discover new AI patterns that revolutionize entire business processes
+  - Solve complex enterprise challenges through innovative AI solutions
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing, developing, and
+      deploying AI solutions using language models, agent
+      frameworks (Autogen, LangGraph), and LLM orchestration
+      tools. The Principal AI Engineer directly builds agentic AI
+      systems, not just infrastructure or platforms for others.
+  responsibilities:
+  - Define the overall AI architecture and technology strategy, ensuring long-term
+    scalability and reliability
+  - Lead technical direction across multiple teams, overseeing the full AI solution
+    lifecycle from concept to production
+  - Mentor and guide Lead AI Engineers and technical contributors to raise the engineering
+    bar
+  - Champion best practices for governance, observability, and lifecycle management
+    of AI systems
+  - Evaluate and introduce emerging frameworks, including Autogen, LangGraph, and
+    other agentic ecosystems
+  - Partner with senior stakeholders to align AI strategy with business goals
+  - Drive the evolution of internal platform (Pathway) to enable faster, safer AI
+    delivery
+  - Represent the company externally as a technical authority at client workshops,
+    conferences, and thought leadership sessions
+  use_cases:
+  - Transform enterprise organizations into AI-powered and data-driven businesses
+  - Create high-impact AI applications using language models and agents
+  - Reinvent how enterprise clients design, build, and operate AI-powered software
+    at scale
+  - Discover new AI patterns that revolutionize entire business processes
+  - Solve complex enterprise challenges through innovative AI solutions
+  skills:
+    genai: [Autogen, LangGraph, agent frameworks, LLM orchestration]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS Bedrock, SageMaker, Azure OpenAI, Azure ML]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: [software engineering principles]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7462666'
+  extracted_at: '2026-02-05T10:56:22.055436'

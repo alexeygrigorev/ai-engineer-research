@@ -1,0 +1,52 @@
+company:
+  name: Amperos Health
+  stage: Seed/Early-stage
+  focus: AI-powered healthcare revenue cycle management
+  use_cases:
+  - Multi-modal RCM (Revenue Cycle Management) agents for healthcare clinics
+  - AI agents that interact with insurance agents to collect revenue
+  - Healthcare billing systems where AI must pass Turing Test to appear human-like
+  - Automating the bridge between healthcare providers and payers
+  - Conversational AI for collecting accurate billing information from insurance
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs, AI agents, prompt
+      optimization, and AI orchestration - directly building and
+      improving the AI/ML systems rather than supporting them. The
+      engineer will work on improving model quality, LLM
+      orchestration, and evaluation frameworks for conversational
+      AI agents in healthcare billing.
+  responsibilities:
+  - Improve models, LLM orchestration, prompt optimizations, evaluation framework,
+    and AI infrastructure
+  - Enable agent/workflow product engineers with AI capabilities
+  - Own and raise the bar on AI quality and end-to-end AI orchestration of modules
+  - Work on hardest research problems including making AI agents act more human-like
+  - Balance quick experimentation with systematic evaluation of LLM systems
+  - Prototype new products and turn them into high quality AI products
+  use_cases:
+  - Multi-modal RCM (Revenue Cycle Management) agents for healthcare clinics
+  - AI agents that interact with insurance agents to collect revenue
+  - Healthcare billing systems where AI must pass Turing Test to appear human-like
+  - Automating the bridge between healthcare providers and payers
+  - Conversational AI for collecting accurate billing information from insurance
+  skills:
+    genai: [LLM orchestration, prompt engineering, AI agents, OpenAI API, Claude,
+      RAG, conversational AI]
+    ml: [model training, fine-tuning]
+    web: []
+    databases: []
+    data: [distributed systems]
+    cloud: []
+    ops: [async operations, AI infrastructure, evaluation frameworks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7372132'
+  extracted_at: '2026-02-05T10:44:11.357262'

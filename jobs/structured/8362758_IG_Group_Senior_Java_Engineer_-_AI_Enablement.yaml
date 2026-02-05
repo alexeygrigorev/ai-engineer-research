@@ -1,0 +1,62 @@
+company:
+  name: IG Group
+  stage: Public (FTSE250)
+  focus: Financial services trading platform technology
+  use_cases:
+  - Automated legacy service modernisation and migration using AI-assisted code analysis
+  - AI-powered development tooling for increased engineering productivity and code
+    quality
+  - Model Context Protocol (MCP) implementation for service discovery and architecture
+    compliance
+  - AI-driven CI/CD automation for code review, security scanning, and test generation
+  - Agentic AI solutions for automated refactoring and documentation at scale
+position:
+  title: Senior Java Engineer - AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-powered development
+      infrastructure including MCP servers, AI-assisted CI/CD
+      pipelines, and agentic AI solutions. The engineer will
+      implement AI directly in production workflows for code
+      analysis, automated refactoring, test generation, and
+      documentation - working hands-on with LLMs rather than just
+      supporting others who do.
+  responsibilities:
+  - Modernise legacy services using AI tools for codebase analysis, dependency mapping,
+    and API extraction
+  - Implement Model Context Protocol (MCP) servers for service discovery, dependency
+    mapping, and architecture compliance
+  - Create AI-assisted CI/CD pipelines with automated code review, security scanning,
+    and test generation
+  - Build automation using Claude Code, GitHub Copilot, and LLM APIs for development
+    workflows
+  - Demonstrate AI-first development practices through hands-on coding, refactoring,
+    test creation, and documentation
+  - Train teams on AI-enabled workflows and share learnings through shipped work and
+    patterns
+  use_cases:
+  - Automated legacy service modernisation and migration using AI-assisted code analysis
+  - AI-powered development tooling for increased engineering productivity and code
+    quality
+  - Model Context Protocol (MCP) implementation for service discovery and architecture
+    compliance
+  - AI-driven CI/CD automation for code review, security scanning, and test generation
+  - Agentic AI solutions for automated refactoring and documentation at scale
+  skills:
+    genai: [Model Context Protocol (MCP), Claude Code, GitHub Copilot, LLM APIs, prompt
+        engineering, agentic AI solutions]
+    ml: []
+    web: [microservices architecture, API design, strangler fig patterns]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD pipelines, service decomposition, Docker, Kubernetes, automated testing]
+    languages: [Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8362758'
+  extracted_at: '2026-02-05T12:59:01.885258'

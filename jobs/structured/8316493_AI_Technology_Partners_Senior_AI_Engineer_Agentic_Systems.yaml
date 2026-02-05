@@ -1,0 +1,60 @@
+company:
+  name: AI Technology Partners
+  stage: null
+  focus: |-
+    Secure, compliant generative AI solutions and managed
+    services for enterprises
+  use_cases:
+  - RFP assistance through automated agent workflows
+  - Incident Root Cause Analysis (RCA) drafting using agentic systems
+  - Knowledge operations automation for enterprise workflows
+  - Secure enterprise tool integration and data orchestration
+  - Business process automation with multi-agent systems
+  - Retrieval-augmented generation for enterprise knowledge bases
+position:
+  title: Senior AI Engineer, Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, designing, and
+      deploying agentic AI systems using LangGraph, AutoGen,
+      CrewAI, and other agent frameworks. The engineer directly
+      works on multi-agent architectures, RAG patterns, tool
+      calling, and LLM system productionization—not just
+      supporting infrastructure for AI work.
+  responsibilities:
+  - Design multi-agent architectures with robust state management, memory, and routing
+  - Implement leading agentic frameworks and build modular reusable components
+  - Integrate enterprise tools and data sources via function calling and event-driven
+    flows
+  - Implement RAG patterns with vector stores and structured knowledge sources
+  - Define SLIs/SLOs, implement tracing/metrics, and create evaluation harnesses
+  - Enforce safety and governance policies with role/tenant isolation and data minimization
+  - Collaborate with enterprise clients to translate business processes into agentic
+    designs
+  use_cases:
+  - RFP assistance through automated agent workflows
+  - Incident Root Cause Analysis (RCA) drafting using agentic systems
+  - Knowledge operations automation for enterprise workflows
+  - Secure enterprise tool integration and data orchestration
+  - Business process automation with multi-agent systems
+  - Retrieval-augmented generation for enterprise knowledge bases
+  skills:
+    genai: [LangGraph, LangChain, AutoGen, CrewAI, LlamaIndex, Semantic Kernel, Haystack,
+      RAG, agents, function calling, prompt engineering, guardrails]
+    ml: []
+    web: [REST APIs]
+    databases: [Pinecone, Weaviate, Milvus, pgvector, Azure AI Search, MongoDB Atlas,
+      SQL]
+    data: []
+    cloud: [Azure OpenAI, Azure AI Studio, Azure Functions, Azure Container Apps,
+      Azure Kubernetes Service, Azure Key Vault]
+    ops: [OpenTelemetry, Langfuse, Ragas, DeepEval, promptfoo, CI/CD, Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8316493'
+  extracted_at: '2026-02-05T12:49:43.380615'

@@ -1,0 +1,65 @@
+company:
+  name: Datadog
+  stage: Public
+  focus: Cloud observability and security monitoring
+  use_cases:
+  - Advanced forecasting and anomaly detection for cloud observability using foundation
+    models
+  - Multi-modal telemetry analysis of logs, metrics, and traces
+  - Autonomous SRE agents that automatically detect, diagnose, and resolve production
+    incidents
+  - Production code repair agents that identify and fix performance issues and security
+    vulnerabilities
+  - Multi-step planning and reasoning for incident resolution in production environments
+position:
+  title: AI Research Engineer – Datadog AI Research (DAIR)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building observability foundation
+      models, autonomous agents for SRE, and production code
+      repair agents. Responsibilities include implementing models,
+      running distributed training with Ray, and deploying ML
+      inference systems at scale - all hands-on work with AI/ML
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Build and operate datasets, training and evaluation pipelines, benchmarks, and
+    internal tooling
+  - Implement models, run experiments at scale, and profile for reliability, performance,
+    and cost
+  - Orchestrate distributed training and distributed RL with Ray, including scheduling,
+    scaling, and failure recovery
+  - Make the research stack observable, reproducible, and easier to use
+  - Establish rigorous automated benchmarks and regression tests for forecasting,
+    anomaly detection, multi-modal analysis, agents, and code repair tasks
+  - Collaborate with Research Scientists, Product, and Engineering to integrate advanced
+    AI capabilities into Datadog's product ecosystem and to harden prototypes into
+    reliable services
+  - Contribute high-quality code, documentation, and open-source artifacts that enable
+    the community and internal teams to reproduce, extend, and evaluate results
+  use_cases:
+  - Advanced forecasting and anomaly detection for cloud observability using foundation
+    models
+  - Multi-modal telemetry analysis of logs, metrics, and traces
+  - Autonomous SRE agents that automatically detect, diagnose, and resolve production
+    incidents
+  - Production code repair agents that identify and fix performance issues and security
+    vulnerabilities
+  - Multi-step planning and reasoning for incident resolution in production environments
+  skills:
+    genai: [generative AI agents, domain-specific LLMs]
+    ml: [PyTorch, JAX, CUDA, ML training systems, ML inference systems, distributed
+        training, distributed RL, foundation models, fine-tuning, GPU acceleration]
+    web: []
+    databases: []
+    data: [Ray, Slurm]
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python, Rust, C++, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6943298'
+  extracted_at: '2026-02-05T10:03:12.123827'

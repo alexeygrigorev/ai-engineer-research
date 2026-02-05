@@ -1,0 +1,55 @@
+company:
+  name: G2i
+  stage: null
+  focus: LLM code evaluation and training
+  use_cases:
+  - Training large language models to write production-grade Ruby code
+  - Using human feedback to improve code generation quality through RLHF
+  - Developing models that can propose, critique, and improve code like expert engineers
+  - Converting expert code reviews into reward signals for reinforcement learning
+  - Teaching LLMs to avoid common logic errors, performance traps, and security issues
+position:
+  title: Software Engineer, AI (Ruby)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves generating training data and feedback for
+      RLHF pipelines rather than building, training, or deploying
+      models directly. The engineer reviews and critiques AI-
+      generated code to create reward signals, but does not work
+      on model architecture, training, or inference systems. This
+      is human feedback work that supports AI development without
+      being hands-on AI engineering.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which implementation is best
+    and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Provide detailed code reviews to spot logic errors, performance issues, and security
+    vulnerabilities
+  - Generate expert-level feedback that serves as reward signals for reinforcement
+    learning model tuning
+  - Maintain smooth operation of the RLHF pipeline through consistent, high-quality
+    human evaluations
+  use_cases:
+  - Training large language models to write production-grade Ruby code
+  - Using human feedback to improve code generation quality through RLHF
+  - Developing models that can propose, critique, and improve code like expert engineers
+  - Converting expert code reviews into reward signals for reinforcement learning
+  - Teaching LLMs to avoid common logic errors, performance traps, and security issues
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Ruby]
+    domains: [constraint programming]
+    other: [code review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8114488'
+  extracted_at: '2026-02-05T12:03:10.581290'

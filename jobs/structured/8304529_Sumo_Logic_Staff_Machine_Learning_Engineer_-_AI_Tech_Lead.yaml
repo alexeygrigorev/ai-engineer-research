@@ -1,0 +1,67 @@
+company:
+  name: Sumo Logic
+  stage: Public
+  focus: Cloud-native log analytics and security
+  use_cases:
+  - Agentic Security Operations Center (SOC) for automated security incident detection,
+    triage, investigation, and response
+  - Real-time reasoning over large-scale machine log data to drive security operations
+  - Multi-agent systems for security workflows including threat detection and incident
+    response
+  - LLM-powered analysis of security and observability data with domain-specific fine-tuning
+  - Automated investigation and triage workflows using agent-based reasoning
+position:
+  title: Staff Machine Learning Engineer - AI Tech Lead
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical leadership role building
+      agentic AI systems from the ground up. The role involves
+      directly designing and implementing multi-agent
+      architectures, fine-tuning LLMs, building agent evaluation
+      pipelines, and owning production AI infrastructure - all
+      core ai-first activities working directly on AI systems
+      rather than supporting them.
+  responsibilities:
+  - Lead technical evaluation and adoption of cutting-edge agentic AI platforms including
+    Anthropic, LangChain/LangGraph, and AWS Bedrock
+  - Architect, prototype, and productionize multi-agent AI systems for Agentic SOC
+    use cases including detection, triage, investigation, and response workflows
+  - Own the design of core agent architecture components including planning, execution,
+    tool orchestration, memory, context engineering, and long-running agent workflows
+  - Lead AI agent evaluation systems including offline and online evaluation pipelines,
+    golden datasets, synthetic data generation, and continuous quality monitoring
+  - Drive LLM fine-tuning and alignment efforts to improve domain-specific reasoning,
+    accuracy, and reliability for security and observability use cases
+  - Design scalable LLMOps and AI agent infrastructure including inference routing,
+    latency optimization, cost control, and production observability
+  - Partner with product, security, and data platform teams to deliver end-to-end
+    AI agent capabilities from prototype to customer-facing production systems
+  - Lead technical direction and mentorship for AI engineers working on agentic AI
+    and LLM systems
+  use_cases:
+  - Agentic Security Operations Center (SOC) for automated security incident detection,
+    triage, investigation, and response
+  - Real-time reasoning over large-scale machine log data to drive security operations
+  - Multi-agent systems for security workflows including threat detection and incident
+    response
+  - LLM-powered analysis of security and observability data with domain-specific fine-tuning
+  - Automated investigation and triage workflows using agent-based reasoning
+  skills:
+    genai: [LangChain, LangGraph, Anthropic/Claude, CrewAI, OpenAI, LLM fine-tuning,
+      SFT, RAG, agents, prompt engineering, context engineering, multi-agent architectures,
+      tool orchestration]
+    ml: [RLHF/RLAIF, preference learning, PyTorch]
+    web: []
+    databases: []
+    data: [Airflow]
+    cloud: [AWS Bedrock, Vertex AI, AWS, GCP, Azure]
+    ops: [LLMOps, inference optimization, MLflow, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8304529'
+  extracted_at: '2026-02-05T12:43:05.268551'

@@ -1,0 +1,55 @@
+company:
+  name: Herald
+  stage: Series A
+  focus: Digital infrastructure API for commercial insurance
+  use_cases:
+  - Digital infrastructure platform for commercial insurance industry
+  - API integration for insurance quotes from multiple carriers
+  - Developer tools for connecting applications to insurance ecosystem
+  - Insurance product comparison and quotation system
+position:
+  title: Frontend Engineer - AI Products
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend engineering role at an insurtech company
+      building an API for insurance products. While the job title
+      includes "AI Products," the responsibilities focus
+      exclusively on frontend development (React, TypeScript, UI
+      design) without any hands-on AI/ML model work, making it an
+      ai-support role building user interfaces for AI-enabled
+      products.
+  responsibilities:
+  - Lead the development of a new web application from scratch, setting up architecture,
+    tooling, and best practices
+  - Define and implement frontend architecture ensuring scalability, performance,
+    and maintainability
+  - Build robust, user-friendly, and responsive interfaces using React, TypeScript,
+    and modern libraries
+  - Collaborate with product managers, designers, and backend engineers to deliver
+    seamless user experiences
+  - Establish automated testing strategies including unit, integration, and end-to-end
+    testing
+  - Optimize application performance and maintain CI/CD pipelines
+  use_cases:
+  - Digital infrastructure platform for commercial insurance industry
+  - API integration for insurance quotes from multiple carriers
+  - Developer tools for connecting applications to insurance ecosystem
+  - Insurance product comparison and quotation system
+  skills:
+    genai: []
+    ml: []
+    web: [React, React Hooks, React Context, Flask, TailwindCSS, Material UI, Styled
+        Components, Storybook, Next.js, Micro-frontend architectures]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD]
+    languages: [TypeScript, JavaScript (ES6+), Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7458709'
+  extracted_at: '2026-02-05T10:56:13.836052'

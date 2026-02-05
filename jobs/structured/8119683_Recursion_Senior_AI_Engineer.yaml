@@ -1,0 +1,59 @@
+company:
+  name: Recursion
+  stage: Public
+  focus: TechBio company decoding biology to improve lives
+  use_cases:
+  - Autonomous handling of business and scientific workflows within the TechBio space
+  - Internal operational automation to eliminate toil and drive operational velocity
+  - Self-healing systems that manage configuration, identity, and system health with
+    minimal human intervention
+  - Integration of AI agents with sensitive data and legacy systems for enterprise
+    automation
+  - IT Engineering platform that enables the wider organization to self-serve automations
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly builds, deploys, and architects AI Agent
+      systems, including multi-agent orchestration frameworks, RAG
+      implementations, and agent platforms. This is hands-on work
+      with GenAI technology, not infrastructure support for other
+      AI practitioners.
+  responsibilities:
+  - Architect and implement complex, multi-agent orchestration frameworks and sophisticated
+    AI Agents that autonomously handle business and scientific workflows
+  - Design and build the core internal developer platforms and shared libraries that
+    standardize agent deployment with security and governance
+  - Drive the strategy for autonomous operations and infrastructure-as-code, engineering
+    self-healing systems that manage configuration, identity, and system health
+  - Establish the observability standards (LLMOps) required to debug non-deterministic
+    AI behaviors and conduct systemic root cause analyses
+  - Partner with cross-functional leadership to translate high-level business goals
+    into technical architectures for AI workflow restructuring
+  - Serve as a technical leader for the AI Agent stack through architectural decision
+    records, code reviews, and mentorship
+  use_cases:
+  - Autonomous handling of business and scientific workflows within the TechBio space
+  - Internal operational automation to eliminate toil and drive operational velocity
+  - Self-healing systems that manage configuration, identity, and system health with
+    minimal human intervention
+  - Integration of AI agents with sensitive data and legacy systems for enterprise
+    automation
+  - IT Engineering platform that enables the wider organization to self-serve automations
+  skills:
+    genai: [RAG, agents, prompt engineering, LangChain, GraphRAG, guardrails]
+    ml: [fine-tuning]
+    web: [API design]
+    databases: [vector stores]
+    data: [event-driven architectures, Knowledge Graphs]
+    cloud: []
+    ops: [LLMOps, distributed systems, platform engineering, Terraform]
+    languages: [Python]
+    domains: [PII/PHI compliance]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8119683'
+  extracted_at: '2026-02-05T12:03:37.415808'

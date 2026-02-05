@@ -1,0 +1,63 @@
+company:
+  name: Stuut
+  stage: Series B
+  focus: |-
+    AI-powered accounts receivable and cash flow automation for
+    B2B
+  use_cases:
+  - Automate accounts receivable collections for B2B companies
+  - Reduce Days Sales Outstanding (DSO) and improve collection rates
+  - Integrate with enterprise ERP systems for seamless cash flow management
+  - Replace manual, labor-intensive collections processes with intelligent automation
+  - Provide measurable ROI through automation and improved financial operations
+position:
+  title: AI Sales Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales technical role focused on demonstrating
+      and architecting integrations for Stuut's AI-powered
+      platform. The role does not involve building, training,
+      fine-tuning, or deploying AI models, but rather selling,
+      designing solutions, and supporting customer integrations
+      for an existing AI product.
+  responsibilities:
+  - Serve as technical partner to Sales and Forward Deployed Engineers throughout
+    sales cycle from discovery to close
+  - Lead technical discovery sessions and product demonstrations tailored to customer
+    workflows and data
+  - Design and support proof-of-concept engagements with measurable success metrics
+    like DSO reduction and automation ROI
+  - Architect integration approaches for customer ERP environments including SAP,
+    Oracle, NetSuite, and Dynamics
+  - Develop technical proposals, solution documentation, and ROI models aligned to
+    customer requirements
+  - Support new product launches by contributing to go-to-market collateral and training
+    internal teams
+  - Surface customer and technical insights that inform platform improvements and
+    product strategy
+  - Build trusted relationships with customer technical stakeholders and represent
+    Stuut in technical discussions
+  use_cases:
+  - Automate accounts receivable collections for B2B companies
+  - Reduce Days Sales Outstanding (DSO) and improve collection rates
+  - Integrate with enterprise ERP systems for seamless cash flow management
+  - Replace manual, labor-intensive collections processes with intelligent automation
+  - Provide measurable ROI through automation and improved financial operations
+  skills:
+    genai: [LLMs, agentic workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [data integration patterns]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [SAP, Oracle, NetSuite, Dynamics, MuleSoft, Boomi, Workato, enterprise
+        architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7450319'
+  extracted_at: '2026-02-05T10:54:43.441548'

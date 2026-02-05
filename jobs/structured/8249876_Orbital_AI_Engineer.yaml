@@ -1,0 +1,63 @@
+company:
+  name: Orbital
+  stage: null
+  focus: AI-powered commercial real estate law and due diligence
+  use_cases:
+  - Accelerate complex commercial real estate due diligence by up to 70% with legal-grade
+    precision
+  - Automate the analysis of extensive property portfolios involving tens of thousands
+    of documents
+  - Assist lawyers in conducting faster, more transparent due diligence and document
+    review
+  - Streamline legal workflows for real estate transactions and reduce manual busywork
+  - Provide AI-powered insights for commercial real estate law teams at major firms
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, developing, and deploying AI-
+      driven systems that integrate state-of-the-art LLMs,
+      specifically working on multi-agent systems, RAG
+      implementations, and agentic architectures. The engineer
+      will build and ship features powered by OpenAI, Google, and
+      Anthropic models for production use cases.
+  responsibilities:
+  - Take ownership of key AI technology decisions and establish the technical foundation
+    for company growth
+  - Design, develop, and deploy AI-driven systems and features integrating state-of-the-art
+    LLMs
+  - Collaborate with cross-functional team to define user stories, experiment rapidly,
+    and ship features directly to customers
+  - Explore and implement advanced concepts including multi-agent systems, retrieval-augmented
+    generation (RAG), agentic architectures, and next-generation OCR pipelines
+  - Participate in architecture and code reviews to improve quality, maintainability,
+    security, and scalability
+  - Work across the business to ensure features drive real customer impact and move
+    key business metrics
+  use_cases:
+  - Accelerate complex commercial real estate due diligence by up to 70% with legal-grade
+    precision
+  - Automate the analysis of extensive property portfolios involving tens of thousands
+    of documents
+  - Assist lawyers in conducting faster, more transparent due diligence and document
+    review
+  - Streamline legal workflows for real estate transactions and reduce manual busywork
+  - Provide AI-powered insights for commercial real estate law teams at major firms
+  skills:
+    genai: [LLMs, AI agents, agentic architectures, multi-agent systems, RAG, OpenAI
+        API, Anthropic Claude, Google Gemini]
+    ml: []
+    web: [full stack development, backend development, GraphQL, WebSockets, APIs]
+    databases: []
+    data: [OCR]
+    cloud: []
+    ops: [distributed systems, CI/CD, Datadog, Prometheus]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8249876'
+  extracted_at: '2026-02-05T12:22:06.577523'

@@ -1,0 +1,56 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU-accelerated AI computing and deep learning software
+  use_cases:
+  - Large-scale AI inference workloads on GPU clusters
+  - LLM inference pipelines and deep learning model deployment
+  - Distributed inference scheduling and orchestration across Kubernetes and Slurm
+  - Low-latency production inference systems for AI applications
+  - GPU-accelerated deep learning inference for NLP, image classification, and speech
+    recognition
+position:
+  title: Senior Software Engineer, AI Inference
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and maintaining distributed
+      model management systems for AI inference workloads,
+      including deploying LLM inference pipelines at scale. The
+      engineer will work directly on inference-serving frameworks,
+      GPU inference performance tuning, and optimizing inference
+      performance for deep learning models, which is hands-on work
+      with AI systems rather than just supporting infrastructure.
+  responsibilities:
+  - Build and maintain distributed model management systems, including Rust-based
+    runtime components, for large-scale AI inference workloads
+  - Implement inference scheduling and deployment solutions on Kubernetes and Slurm,
+    driving advances in scaling, orchestration, and resource management
+  - Collaborate with infrastructure engineers and researchers to develop scalable
+    APIs, services, and end-to-end inference workflows
+  - Create monitoring, benchmarking, automation, and documentation processes to ensure
+    low-latency, robust, and production-ready inference systems on GPU clusters
+  use_cases:
+  - Large-scale AI inference workloads on GPU clusters
+  - LLM inference pipelines and deep learning model deployment
+  - Distributed inference scheduling and orchestration across Kubernetes and Slurm
+  - Low-latency production inference systems for AI applications
+  - GPU-accelerated deep learning inference for NLP, image classification, and speech
+    recognition
+  skills:
+    genai: []
+    ml: [PyTorch, CUDA, NVIDIA GPUs]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [vLLM, SGLang, TensorRT, ONNX Runtime, Dynamo Inference Server, Kubernetes,
+      Slurm, Docker, NCCL, NIXL, MPI, InfiniBand, NVLink]
+    languages: [Rust, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6976839'
+  extracted_at: '2026-02-05T10:04:36.015814'

@@ -1,0 +1,62 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+  use_cases:
+  - Informing customers about unusual charges and detecting fraud in real-time
+  - Answering customer questions in real-time with AI-powered conversational interfaces
+  - Creating personalized customer experiences through ML-driven recommendations and
+    insights
+  - Enhancing associate productivity with AI-powered tools and automation
+  - Building responsible and scalable AI governance, guardrails, and observability
+    systems
+position:
+  title: Sr. Distinguished AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work with foundation models, LLM
+      inference, guardrails, model evaluation, and optimization
+      techniques. The engineer will design, develop, deploy, and
+      support AI software components including foundation model
+      training and LLM inference systems.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that transform
+    how associates work and customers interact with Capital One
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    experimentation, governance, and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies including AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of large-scale production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Lead and mentor engineering organizations and influence cross-functional stakeholders
+    up to SVP level
+  use_cases:
+  - Informing customers about unusual charges and detecting fraud in real-time
+  - Answering customer questions in real-time with AI-powered conversational interfaces
+  - Creating personalized customer experiences through ML-driven recommendations and
+    insights
+  - Enhancing associate productivity with AI-powered tools and automation
+  - Building responsible and scalable AI governance, guardrails, and observability
+    systems
+  skills:
+    genai: [OpenAI APIs, Anthropic APIs, RAG, Nemo Guardrails, guardrails]
+    ml: [PyTorch, Huggingface, foundation model training]
+    web: []
+    databases: [VectorDBs, Pinecone, Weaviate, Chroma, Qdrant, Milvus, Faiss]
+    data: []
+    cloud: [AWS, Google Cloud, Azure, AWS Bedrock, AWS SageMaker]
+    ops: [LLM inference, model evaluation, model observability]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: [computer vision, speech recognition, optical character recognition]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8028327'
+  extracted_at: '2026-02-05T11:50:58.489678'

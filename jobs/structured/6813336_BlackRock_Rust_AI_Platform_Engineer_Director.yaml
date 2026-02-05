@@ -1,0 +1,58 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Investment and risk management technology platform
+  use_cases:
+  - Deploying and managing AI models at scale in production environment
+  - Continuous training and deployment pipelines for machine learning models
+  - Multi-cloud platform abstraction for AI infrastructure across AWS, GCP, and Azure
+  - Investment and risk management platform with integrated AI capabilities
+  - GPU orchestration and optimization for AI workloads in Kubernetes
+position:
+  title: Rust, AI Platform Engineer, Director
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Platform Engineering role focused on building
+      infrastructure and platform services for AI/ML workloads.
+      The role involves building platform abstractions, managing
+      Kubernetes clusters, creating CI/CD pipelines, and
+      implementing infrastructure as code to support AI teams -
+      all enabling work rather than building or deploying models
+      directly.
+  responsibilities:
+  - Design, develop, and maintain scalable AI platform for the world's best investment
+    management technology platform
+  - Implement and manage Kubernetes clusters for deploying AI models
+  - Build platform abstractions to manage cloud-native infrastructure across AWS,
+    GCP, or Azure environments
+  - Build and maintain automated pipelines for continuous training, testing, and deployment
+    of machine learning models with integrated enterprise concerns
+  - Ensure the security and compliance of the platform while troubleshooting platform
+    performance and reliability issues
+  - Refine business and functional requirements and translate them into scalable technical
+    designs
+  use_cases:
+  - Deploying and managing AI models at scale in production environment
+  - Continuous training and deployment pipelines for machine learning models
+  - Multi-cloud platform abstraction for AI infrastructure across AWS, GCP, and Azure
+  - Investment and risk management platform with integrated AI capabilities
+  - GPU orchestration and optimization for AI workloads in Kubernetes
+  skills:
+    genai: []
+    ml: [PyTorch, JAX, NumPy]
+    web: []
+    databases: [Cassandra]
+    data: [Spark, Dask, Kafka]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Helm charts, Kustomize, Custom Resource Definitions (CRDs),
+      Docker, containerd, Terraform, CloudFormation, Jenkins, GitHub Actions, ArgoCD,
+      Prometheus, Grafana]
+    languages: [Rust, C++, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6813336'
+  extracted_at: '2026-02-05T09:53:57.229219'

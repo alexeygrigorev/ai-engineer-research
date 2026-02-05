@@ -1,0 +1,63 @@
+company:
+  name: SandboxAQ
+  stage: Series B
+  focus: |-
+    AI solutions with Large Quantitative Models for life
+    sciences, financial services, navigation, and cybersecurity
+  use_cases:
+  - Life sciences applications powered by Large Quantitative Models
+  - Financial services solutions including risk simulation and technical analysis
+  - Navigation systems enhanced by AI and quantitative modeling
+  - Cybersecurity applications leveraging advanced AI frameworks
+  - AI-first SaaS products across multiple industry sectors
+position:
+  title: Staff Machine Learning Engineer, AI Generation Engine
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves working directly on Large Quantitative
+      Models (LQMs) and agentic frameworks, including model
+      development, training, fine-tuning, and production
+      deployment. The engineer owns the entire ML lifecycle and
+      actively builds AI-first SaaS products rather than just
+      supporting infrastructure.
+  responsibilities:
+  - Design, construct, and manage robust data pipelines for the training, validation,
+    and continuous retraining of Large Quantitative Models and agentic frameworks
+  - Develop, implement, and rigorously test novel ML models and algorithms, defining
+    appropriate metrics to ensure model performance aligns with high-level product
+    objectives
+  - Lead the effort in cleaning, transforming, and engineering features from complex
+    and large-scale datasets to optimize LQM performance and predictive accuracy
+  - Conduct deep analysis of model behavior, performance, and failure modes, tuning
+    hyper-parameters and optimizing model architecture for efficiency, speed, and
+    accuracy in a production context
+  - Collaborate closely with AI researchers, product managers, and SWEs to translate
+    high-level business objectives into actionable ML development and deployment roadmaps
+  - Champion and enforce exceptional engineering standards for code quality, system
+    efficiency, and security in a prototyping environment
+  - Drive technical execution with high autonomy, making critical design and implementation
+    decisions independently
+  use_cases:
+  - Life sciences applications powered by Large Quantitative Models
+  - Financial services solutions including risk simulation and technical analysis
+  - Navigation systems enhanced by AI and quantitative modeling
+  - Cybersecurity applications leveraging advanced AI frameworks
+  - AI-first SaaS products across multiple industry sectors
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, JAX, NumPy, model training, fine-tuning, model evaluation,
+      hyperparameter tuning]
+    web: []
+    databases: []
+    data: [Pandas, data pipelines, feature engineering]
+    cloud: [GCP, AWS]
+    ops: [MLOps, CI/CD, Weights & Biases, MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8249749'
+  extracted_at: '2026-02-05T12:21:44.180086'

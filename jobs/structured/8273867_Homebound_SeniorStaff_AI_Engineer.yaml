@@ -1,0 +1,58 @@
+company:
+  name: Homebound
+  stage: Series B+
+  focus: Vertical AI for residential construction
+  use_cases:
+  - Developing LLM-powered applications to improve efficiency and quality across the
+    homebuilding process
+  - Building AI systems that capture and utilize granular data at every stage of homebuilding
+  - Creating vertical AI solutions for residential construction industry workflows
+  - Implementing AI-driven tools for homeowners to select, personalize, and purchase
+    homes online
+position:
+  title: Senior/Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM-
+      powered applications, with direct experience requirements in
+      prompt engineering, RAG, eval frameworks, and agentic
+      workflows. The engineer will design scalable AI systems for
+      production and shape the vision for how LLMs integrate into
+      products, which is core AI development work rather than
+      supporting infrastructure.
+  responsibilities:
+  - Shape the vision for how AI/ML, particularly LLMs, integrate into Homebound's
+    products and operations, defining technical standards for experimentation, deployment,
+    and evaluation
+  - Design and build scalable AI systems that can handle real-world production workloads
+    and evolve with the business
+  - Deliver high-quality, production-grade code daily while ensuring observability,
+    maintainability, and reliability
+  - Raise the bar across engineering by teaching AI best practices, reviewing designs,
+    and guiding engineers through complex technical challenges
+  - Stay abreast of the rapidly evolving AI landscape, bringing forward cutting-edge
+    ideas while focusing investment where it creates clear business impact
+  use_cases:
+  - Developing LLM-powered applications to improve efficiency and quality across the
+    homebuilding process
+  - Building AI systems that capture and utilize granular data at every stage of homebuilding
+  - Creating vertical AI solutions for residential construction industry workflows
+  - Implementing AI-driven tools for homeowners to select, personalize, and purchase
+    homes online
+  skills:
+    genai: [prompt engineering, RAG, agentic workflows, LLM]
+    ml: [Scikit-learn, PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [Pandas, Spark]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8273867'
+  extracted_at: '2026-02-05T12:29:02.393146'

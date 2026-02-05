@@ -1,0 +1,52 @@
+company:
+  name: FlowFuse
+  stage: null
+  focus: FlowFuse platform for applied AI solutions
+  use_cases:
+  - Intelligent search capabilities using embeddings and vector search
+  - Content summarization powered by large language models
+  - Validation systems using AI for data quality checks
+  - Assistant-style workflows to enhance user productivity
+  - AI-powered features for customer and internal engineering problems
+position:
+  title: FlowFuse Full Stack Developer (AI-focused)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI-powered features by
+      integrating LLM APIs, embeddings, and RAG systems into
+      production. The engineer will design and implement AI
+      components, handle failure modes, and establish patterns for
+      others to extend - all hands-on work with AI systems, not
+      just supporting infrastructure.
+  responsibilities:
+  - Integrate LLM APIs and AI services into FlowFuse features and tooling
+  - Build backend services and frontend interfaces that support AI-powered workflows
+  - Prototype, evaluate, and productionize AI features with clear scope and guardrails
+  - Design for AI failure modes, latency, cost, and operational constraints
+  - Ensure AI features align with privacy, security, and SOC 2 requirements
+  - Share best practices and patterns for applied AI across the engineering team
+  - Contribute to broader fullstack product work as priorities evolve
+  use_cases:
+  - Intelligent search capabilities using embeddings and vector search
+  - Content summarization powered by large language models
+  - Validation systems using AI for data quality checks
+  - Assistant-style workflows to enhance user productivity
+  - AI-powered features for customer and internal engineering problems
+  skills:
+    genai: [LLM API integration, Embeddings, Retrieval-augmented generation, Prompt
+        engineering]
+    ml: []
+    web: [Fullstack development, REST APIs]
+    databases: [Vector search]
+    data: []
+    cloud: []
+    ops: [AI observability]
+    languages: []
+    domains: []
+    other: [SOC 2 compliance, Privacy and security]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8067206'
+  extracted_at: '2026-02-05T11:57:36.879090'

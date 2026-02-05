@@ -1,0 +1,62 @@
+company:
+  name: Consumer Reports
+  stage: null
+  focus: Independent nonprofit consumer advocacy organization
+  use_cases:
+  - AI-powered consumer product ratings and reviews
+  - Generative AI applications for enhancing consumer insights and recommendations
+  - Machine learning models for analyzing consumer trends and marketplace challenges
+  - Analytics dashboards for reporting on consumer survey data and testing results
+  - Data-driven advocacy tools for identifying and addressing marketplace harms
+  - Feature stores and data infrastructure supporting production AI/ML workloads
+position:
+  title: Data Engineer (AI, ML, and Data Science)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Data Engineer role focused on building data
+      infrastructure, pipelines, and services that support AI/ML
+      efforts rather than building, training, or deploying models
+      directly. The role involves creating ETL pipelines, feature
+      stores, and data APIs to enable AI/ML engineers and data
+      scientists to work with the data.
+  responsibilities:
+  - Design, develop, and maintain ETL/ELT pipelines for structured and unstructured
+    data to support AI/ML model and application development, evaluation, and monitoring
+  - Build and optimize data processing workflows in Databricks, AWS SageMaker, or
+    similar cloud platforms
+  - Collaborate with AI/ML engineers to deliver clean, reliable datasets for model
+    training and inference
+  - Implement data quality, observability, and lineage tracking within the ML lifecycle
+  - Develop Data APIs/microservices to power AI applications and reporting/analytics
+    dashboards
+  - Support the deployment of AI/ML applications by building and maintaining feature
+    stores and data pipelines optimized for production workloads
+  - Ensure adherence to CR's data governance, security, and compliance standards across
+    all AI and data workflows
+  - Integrate data from multiple internal and external systems, including APIs, third-party
+    datasets, and cloud storage
+  use_cases:
+  - AI-powered consumer product ratings and reviews
+  - Generative AI applications for enhancing consumer insights and recommendations
+  - Machine learning models for analyzing consumer trends and marketplace challenges
+  - Analytics dashboards for reporting on consumer survey data and testing results
+  - Data-driven advocacy tools for identifying and addressing marketplace harms
+  - Feature stores and data infrastructure supporting production AI/ML workloads
+  skills:
+    genai: []
+    ml: [feature stores]
+    web: [microservices, REST APIs]
+    databases: []
+    data: [PySpark, Airflow, dbt, Prefect, Databricks, ETL/ELT, data quality, data
+        lineage, data governance]
+    cloud: [AWS SageMaker, AWS]
+    ops: [Kubernetes, CI/CD, data observability]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7897606'
+  extracted_at: '2026-02-05T11:38:36.002546'

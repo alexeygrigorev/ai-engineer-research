@@ -1,0 +1,55 @@
+company:
+  name: Recall Labs
+  stage: Seed
+  focus: Decentralized AI evaluation and discovery platform
+  use_cases:
+  - AI system evaluation and discovery platform using decentralized approaches
+  - Scalable AI evaluation infrastructure combining AI evals with A/B testing
+  - Agentic architectures and reasoning systems for AI-powered product features
+  - Internal AI tooling integration to enhance engineering workflows
+  - Context engineering and prompt optimization for improved model performance
+position:
+  title: AI Application Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI systems including
+      prompting strategies, reasoning approaches, model
+      optimization, and agentic architectures. The engineer
+      directly experiments with and implements cutting-edge AI
+      techniques, integrates LLM APIs, and deploys models to
+      production.
+  responsibilities:
+  - Drive the identification and prioritization of high-potential AI experiments based
+    on new research developments
+  - Build and maintain comprehensive experimentation infrastructure for AI-facilitated
+    experiments at scale with A/B testing capabilities
+  - Drive high-impact product releases powered by AI innovations, translating research
+    into shipped features
+  - Accelerate engineering adoption of AI capabilities by integrating AI tooling into
+    internal workflows
+  - Establish a culture of AI expertise and knowledge sharing through research dissemination
+    and fast-follow implementation
+  use_cases:
+  - AI system evaluation and discovery platform using decentralized approaches
+  - Scalable AI evaluation infrastructure combining AI evals with A/B testing
+  - Agentic architectures and reasoning systems for AI-powered product features
+  - Internal AI tooling integration to enhance engineering workflows
+  - Context engineering and prompt optimization for improved model performance
+  skills:
+    genai: [LLM APIs, prompt engineering, agentic architectures, context engineering,
+      reasoning systems, model evaluation]
+    ml: [experiment design, A/B testing, statistical analysis]
+    web: []
+    databases: []
+    data: []
+    cloud: [OpenAI API, Anthropic API, Google AI API]
+    ops: [model deployment, inference optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7394194'
+  extracted_at: '2026-02-05T10:46:30.206545'

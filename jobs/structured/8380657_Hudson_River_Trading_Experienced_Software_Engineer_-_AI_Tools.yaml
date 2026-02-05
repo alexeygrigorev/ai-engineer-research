@@ -1,0 +1,60 @@
+company:
+  name: Hudson River Trading
+  stage: Public
+  focus: |-
+    Algorithmic trading firm with sophisticated computing
+    environment
+  use_cases:
+  - Productivity enhancement for developers through AI coding assistants and agentic
+    workflows
+  - AI-powered development support for Python web applications and C++ order execution
+    systems
+  - Research assistance for trade signal investigation using AI tools
+  - Business development support through AI tool integration for vendor interactions
+  - Internal workflow automation across all departments using AI tools
+position:
+  title: Experienced Software Engineer - AI Tools
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building internal tools and
+      infrastructure that enable other developers to use AI
+      products more effectively. The engineer integrates existing
+      AI tools into workflows, builds MCP connectors, and manages
+      vendor comparisons - this is enabling AI adoption rather
+      than building, training, or deploying AI models directly.
+  responsibilities:
+  - Develop software that improves productivity across all offices and departments
+    using latest technologies in software engineering and AI tooling ecosystem
+  - Integrate the newest AI tools into users' workflows to increase company-wide productivity
+  - Deploy and maintain AI tooling applications from design through production phases
+  - Build and define the AI tooling ecosystem by adapting rapidly evolving options
+    to internal systems
+  - Navigate the AI tooling landscape including comparing vendors, fixing authentication,
+    and coding new MCP connectors
+  - Provide AI tooling support for diverse users including Python web app developers,
+    C++ execution systems, researchers, and business development teams
+  use_cases:
+  - Productivity enhancement for developers through AI coding assistants and agentic
+    workflows
+  - AI-powered development support for Python web applications and C++ order execution
+    systems
+  - Research assistance for trade signal investigation using AI tools
+  - Business development support through AI tool integration for vendor interactions
+  - Internal workflow automation across all departments using AI tools
+  skills:
+    genai: [MCP, AI coding assistants, agentic workflows]
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Linux, Unix]
+    languages: [Python, C++, TypeScript, JavaScript]
+    domains: []
+    other: [AI tooling ecosystem, network communication]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8380657'
+  extracted_at: '2026-02-05T13:01:26.001623'

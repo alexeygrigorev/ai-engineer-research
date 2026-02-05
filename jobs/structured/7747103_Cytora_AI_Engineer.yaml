@@ -1,0 +1,61 @@
+company:
+  name: Cytora
+  stage: Acquired (by Applied Systems)
+  focus: |-
+    Generative AI platform for commercial insurance risk
+    digitization
+  use_cases:
+  - Commercial insurance risk processing and digitization
+  - Automated information extraction from insurance documents
+  - Risk assessment using generative AI
+  - Document summarization for insurance workflows
+  - SME, Mid Market, and Specialty risk intake automation
+  - Data-driven insights connecting insurers and brokers
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building, deploying, and
+      optimizing LLM-powered solutions. The engineer works
+      directly on LLM tasks including prompt engineering, agentic
+      systems, and model optimization for risk processing
+      applications.
+  responsibilities:
+  - Engage with domain experts and product managers to define and solve business problems
+    in commercial insurance risk processing using LLMs
+  - Collaborate with consuming service teams to define efficient and scalable interfaces
+    for LLM tasks
+  - Design, develop, test, and deploy domain-specific LLM tasks including information
+    extraction, risk assessment, and document summarization
+  - Stay updated with latest LLM advancements and explore new models, techniques,
+    and tools such as Agentic AI
+  - Develop and implement comprehensive evaluation metrics and tools to rigorously
+    assess LLM task performance
+  - Analyze task performance and implement strategies to optimize accuracy, efficiency,
+    and cost-effectiveness
+  - Monitor deployed LLM tasks in production and proactively address issues to ensure
+    high reliability and accuracy
+  use_cases:
+  - Commercial insurance risk processing and digitization
+  - Automated information extraction from insurance documents
+  - Risk assessment using generative AI
+  - Document summarization for insurance workflows
+  - SME, Mid Market, and Specialty risk intake automation
+  - Data-driven insights connecting insurers and brokers
+  skills:
+    genai: [Prompt engineering, Agentic systems, LLM models, Document processing]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, mypy, asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7747103'
+  extracted_at: '2026-02-05T11:24:57.385176'

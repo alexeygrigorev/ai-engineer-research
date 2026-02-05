@@ -1,0 +1,76 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services with AI
+  use_cases:
+  - Inform customers about unusual charges through real-time AI-powered notifications
+  - Answer customer questions in real time using large language models and AI-powered
+    interfaces
+  - Create real-time personalized customer experiences through machine learning applications
+  - Enable teams across Capital One to enhance their products with AI capabilities
+    through foundational models and platforms
+  - Deliver responsible and scalable AI systems that serve millions of banking customers
+position:
+  title: Senior AI Engineer (FM Hosting, LLM Inference)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work directly ON AI systems -
+      specifically foundation model hosting and LLM inference.
+      Responsibilities include designing, developing, deploying
+      and supporting foundation model training, LLM inference, and
+      implementing state-of-the-art LLM optimization techniques
+      for performance improvements. This is core AI engineering
+      work, not just support infrastructure.
+  responsibilities:
+  - Partner with cross-functional teams including engineers
+  - scientists
+  - program managers
+  - and product managers to deliver AI-powered products for associates and customers
+  - Design
+  - develop
+  - test
+  - deploy
+  - and support AI software components including foundation model training
+  - LLM inference
+  - similarity search
+  - guardrails
+  - model evaluation
+  - experimentation
+  - governance
+  - and observability
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters
+  - Huggingface
+  - VectorDBs
+  - Nemo Guardrails
+  - and PyTorch to build AI solutions
+  - Invent and implement state-of-the-art LLM optimization techniques to improve scalability
+  - cost
+  - latency
+  - and throughput of large-scale production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Inform customers about unusual charges through real-time AI-powered notifications
+  - Answer customer questions in real time using large language models and AI-powered
+    interfaces
+  - Create real-time personalized customer experiences through machine learning applications
+  - Enable teams across Capital One to enhance their products with AI capabilities
+    through foundational models and platforms
+  - Deliver responsible and scalable AI systems that serve millions of banking customers
+  skills:
+    genai: [LLM inference, foundation model training, similarity search, Nemo Guardrails]
+    ml: [PyTorch, Huggingface, model evaluation, model optimization]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS, AWS Ultraclusters]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8314722'
+  extracted_at: '2026-02-05T12:47:46.166410'

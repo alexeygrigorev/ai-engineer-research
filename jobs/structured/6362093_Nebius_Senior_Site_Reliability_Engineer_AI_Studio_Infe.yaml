@@ -1,0 +1,56 @@
+company:
+  name: Nebius
+  stage: Public
+  focus: AI cloud infrastructure and GPU cloud services
+  use_cases:
+  - Deploying foundation models including text, vision, audio, and multimodal architectures
+    at scale
+  - Providing fast, reliable, and effortless model inference serving platform
+  - Enabling massive GPU cloud infrastructure for AI/ML workloads
+  - Handling high-throughput API requests for model inference
+  - Supporting GPU-heavy workloads through accelerator stacks like vLLM, Triton, and
+    Ray
+position:
+  title: Senior Site Reliability Engineer — AI Studio (Inference Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an SRE role focused on infrastructure reliability,
+      observability, and platform engineering for an AI inference
+      platform. The work involves Kubernetes, telemetry pipelines,
+      and infrastructure-as-code rather than building, training,
+      or fine-tuning models directly.
+  responsibilities:
+  - Design and refine telemetry pipelines including metrics, logs, and traces for
+    observability
+  - Tune Kubernetes autoscalers to maximize GPU efficiency and performance
+  - Create Terraform modules that build resilience into every new cluster deployment
+  - Harden request-routing and retry logic to handle transient failures
+  - Build automation and runbooks for rapid incident detection and remediation
+  - Drive post-mortem culture to prevent recurring issues and improve system reliability
+  - Scale the inference platform while meeting aggressive cost and reliability targets
+  use_cases:
+  - Deploying foundation models including text, vision, audio, and multimodal architectures
+    at scale
+  - Providing fast, reliable, and effortless model inference serving platform
+  - Enabling massive GPU cloud infrastructure for AI/ML workloads
+  - Handling high-throughput API requests for model inference
+  - Supporting GPU-heavy workloads through accelerator stacks like vLLM, Triton, and
+    Ray
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: []
+    ops: [Kubernetes, Prometheus, Grafana, Terraform, vLLM, Triton, MLOps, SLOs, infrastructure-as-code,
+      observability, Docker]
+    languages: [Python, Bash]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6362093'
+  extracted_at: '2026-02-05T09:44:15.303271'

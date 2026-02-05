@@ -1,0 +1,61 @@
+company:
+  name: General Motors
+  stage: Public
+  focus: Automotive manufacturer with autonomous vehicle technology
+  use_cases:
+  - Level 4 autonomous driving features and vehicle behaviors
+  - AI/ML model safety validation for autonomous vehicles
+  - Generative AI solutions for autonomous driving systems
+  - Large Language Model applications in automotive safety contexts
+  - Operational design domain validation for autonomous driving
+position:
+  title: 'Principal AV Behavior and AI Safety Engineer: Technical Lead (GPSSC)'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a safety and validation leadership role for
+      autonomous vehicle systems, focused on setting safety
+      standards, assurance processes, and validation strategies
+      for AI/ML models rather than building, training, or
+      deploying the models themselves. The role involves
+      establishing safety frameworks (ISO 8800, ISO 21448),
+      validating AI-driven systems, and providing technical
+      guidance to engineering teams - all support functions that
+      enable safe AI development rather than hands-on model work.
+  responsibilities:
+  - Develop AI/ML and autonomous system safety strategy using ISO 8800, ISO 21448,
+    and industry best practices for development, deployment, and maintenance
+  - Work with software, data science, and systems engineering teams to ensure safe
+    training of machine learning models for autonomous systems
+  - Establish safety standards for prototyping, testing, and deploying new AI solutions
+    including Generative AI
+  - Set strategy for testing and validation of datasets and develop comprehensive
+    assurance plans
+  - Define systematic approach to breaking down operational design domain components
+    and driving behavior components for validation
+  - Collaborate with cross-functional teams to establish safety launch targets across
+    vehicle behaviors and develop assurance processes
+  use_cases:
+  - Level 4 autonomous driving features and vehicle behaviors
+  - AI/ML model safety validation for autonomous vehicles
+  - Generative AI solutions for autonomous driving systems
+  - Large Language Model applications in automotive safety contexts
+  - Operational design domain validation for autonomous driving
+  skills:
+    genai: [LangChain, Large Language Models, Generative AI, RAG]
+    ml: [PyTorch, TensorFlow, Scikit-learn, Deep learning, Reinforcement Learning,
+      Natural Language Processing, SVM, XGBoost, Random Forest, Decision Trees, Clustering]
+    web: []
+    databases: []
+    data: [PySpark, Pandas, NumPy]
+    cloud: [Azure Data Lake, Azure Machine Learning, Azure Databricks, AWS S3, AWS
+        SageMaker, AWS Bedrock, Google BigQuery, Google Dataflow, Google AI Platform]
+    ops: [MLflow, Docker, Kubernetes, GitHub, Model Monitoring, Model Versioning]
+    languages: [Python, R, Java, SQL]
+    domains: [ISO 8800, ISO 21448]
+    other: [Tableau, PowerBI, Jira]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7371557'
+  extracted_at: '2026-02-05T18:55:01.673296'

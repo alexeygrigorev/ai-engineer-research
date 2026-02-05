@@ -1,0 +1,56 @@
+company:
+  name: Anthropic
+  stage: Public benefit corporation
+  focus: Safe, interpretable, steerable AI systems
+  use_cases:
+  - Advanced prompt engineering for production workflows
+  - Agent development and deployment using sub-agents and agent skills
+  - MCP servers for production integration
+  - Enterprise AI application deployment at scale
+  - Evaluation frameworks for LLM implementations
+  - Customer-specific AI solution development across verticals
+position:
+  title: Forward Deployed Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      builds production applications with Claude models,
+      implements MCP servers, sub-agents, and agent skills. The
+      role requires hands-on LLM experience including prompt
+      engineering, agent development, and evaluation frameworks.
+  responsibilities:
+  - Work within customer systems to build production applications with Claude models
+  - Deliver technical artifacts for customers like MCP servers, sub-agents, and agent
+    skills
+  - Provide white glove deployment support for Anthropic products in enterprise environments
+  - Identify and codify repeatable deployment patterns and contribute insights back
+    to Product and Engineering teams
+  - Maintain strong knowledge of LLM capabilities, implementation patterns, and AI
+    product development stacks
+  - Build long term relationships with customers and proactively identify new opportunities
+    for AI deployment
+  use_cases:
+  - Advanced prompt engineering for production workflows
+  - Agent development and deployment using sub-agents and agent skills
+  - MCP servers for production integration
+  - Enterprise AI application deployment at scale
+  - Evaluation frameworks for LLM implementations
+  - Customer-specific AI solution development across verticals
+  skills:
+    genai: [LLM deployment, prompt engineering, agent development, MCP servers, sub-agents,
+      agent skills, evaluation frameworks, Claude models]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [enterprise deployment]
+    languages: [Python, TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7861411'
+  extracted_at: '2026-02-05T11:35:47.476027'

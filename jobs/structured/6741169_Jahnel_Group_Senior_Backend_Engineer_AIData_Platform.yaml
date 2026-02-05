@@ -1,0 +1,54 @@
+company:
+  name: Jahnel Group
+  stage: early-stage startup
+  focus: AI-powered procurement platform
+  use_cases:
+  - AI-powered procurement platform for intelligent sourcing decisions
+  - Complex data ingestion and transformation workflows for procurement data
+  - LLM-driven workflow orchestration enabling smart procurement automation
+  - ETL pipelines processing procurement-related data into analytics-ready formats
+position:
+  title: Senior Backend Engineer (AI/Data Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Senior Backend Engineer who integrates LLM APIs
+      (OpenAI, Anthropic) into production using frameworks like
+      LangChain and builds AI-powered procurement workflows. The
+      role involves hands-on LLM integration and AI workflow
+      orchestration, not just supporting infrastructure for AI
+      teams.
+  responsibilities:
+  - Design and implement scalable systems for data ingestion, transformation, and
+    AI workflows using Python, NestJS, and PostgreSQL
+  - Integrate LLM APIs into production environments using frameworks like LangChain
+    to enable intelligent sourcing decisions
+  - Own the development and maintenance of REST APIs, services, and background jobs
+    while building robust ETL pipelines and analytics-ready data formats
+  - Implement infrastructure-as-code using Terraform and manage deployments via AWS
+    services including ECS, Lambda, S3, and API Gateway
+  - Optimize data models and queries, ensure system reliability, and lead initiatives
+    to enhance observability, monitoring, and CI/CD practices
+  - Make critical technical decisions to ensure system scalability, performance, and
+    extensibility as the platform evolves
+  use_cases:
+  - AI-powered procurement platform for intelligent sourcing decisions
+  - Complex data ingestion and transformation workflows for procurement data
+  - LLM-driven workflow orchestration enabling smart procurement automation
+  - ETL pipelines processing procurement-related data into analytics-ready formats
+  skills:
+    genai: [LangChain, OpenAI API, Anthropic API, LLM orchestration]
+    ml: []
+    web: [NestJS, REST APIs]
+    databases: [PostgreSQL]
+    data: [ETL, data pipelines]
+    cloud: [AWS, ECS, Lambda, S3, API Gateway]
+    ops: [Terraform, Docker, CI/CD, monitoring]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6741169'
+  extracted_at: '2026-02-05T09:50:47.534556'

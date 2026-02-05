@@ -1,0 +1,62 @@
+company:
+  name: Together AI
+  stage: Series A
+  focus: Open-source AI research and infrastructure
+  use_cases:
+  - High-performance storage infrastructure for large-scale AI training and inference
+    workloads
+  - Parallel filesystems and object stores for multi-petabyte ML data storage
+  - Optimized data paths for model weights, datasets, and checkpoint caching at GPU
+    scale
+  - Self-service storage platform with multi-tenancy for ML/SRE teams
+  - Cost-optimized storage tiering and lifecycle management for AI workloads
+position:
+  title: Staff Engineer, Distributed Storage,HPC & AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and managing distributed
+      storage infrastructure and high-performance parallel
+      filesystems that support AI workloads, not on building,
+      training, or deploying AI models. The engineer creates
+      storage platforms, caching systems, and Kubernetes operators
+      that enable AI/ML teams to run their workloads efficiently.
+  responsibilities:
+  - Design multi-petabyte AI/ML storage systems integrating WekaFS, Ceph, and other
+    parallel filesystems with capacity planning and cost optimization
+  - Design and optimize RDMA, InfiniBand, and 400GbE networks for maximum throughput
+    and minimum latency with NVMe-oF/iSCSI implementation
+  - Build Kubernetes storage operators and controllers enabling automated provisioning,
+    self-service abstractions, multi-tenant isolation, and quota management
+  - Deliver 10-50 GB/s per GPU node through caching optimization, parallel filesystem
+    tuning, and data path optimization across thousands of nodes
+  - Implement multi-tier caching architectures with local NVMe, distributed, and object
+    storage optimizing data locality and model-weight distribution
+  - Establish monitoring, alerting, and SLO frameworks with disaster recovery design
+    and chaos engineering to ensure 99.9%+ uptime
+  use_cases:
+  - High-performance storage infrastructure for large-scale AI training and inference
+    workloads
+  - Parallel filesystems and object stores for multi-petabyte ML data storage
+  - Optimized data paths for model weights, datasets, and checkpoint caching at GPU
+    scale
+  - Self-service storage platform with multi-tenancy for ML/SRE teams
+  - Cost-optimized storage tiering and lifecycle management for AI workloads
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [MinIO, S3]
+    data: []
+    cloud: [Kubernetes]
+    ops: [Terraform, Helm, Ansible, ArgoCD, Prometheus, Grafana, Thanos, Docker, WekaFS,
+      Ceph, Lustre, GPFS, BeeGFS, NVMe-oF, iSCSI, RDMA, InfiniBand, Linux Storage
+        Stack, LVM, RAID]
+    languages: [Go, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8256176'
+  extracted_at: '2026-02-05T12:25:27.309122'

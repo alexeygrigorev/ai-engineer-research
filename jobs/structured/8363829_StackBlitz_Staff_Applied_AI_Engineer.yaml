@@ -1,0 +1,66 @@
+company:
+  name: StackBlitz
+  stage: Series B
+  focus: AI-powered web application builder and browser-based IDE
+  use_cases:
+  - Convert natural language into production-ready full-stack web and mobile applications
+  - Maintain context across large codebases while making changes, from simple UI tweaks
+    to complex architectural decisions
+  - Orchestrate multi-step workflows that handle increasingly complex user needs across
+    the application development process
+  - Enable safe and effective tool use by AI agents for web searches, database queries,
+    and domain-specific operations
+  - Provide instant code generation and editing capabilities directly in the browser
+    without requiring traditional code writing
+position:
+  title: Staff Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role working directly with
+      LLMs to build AI agent systems. The engineer will lead the
+      design and evolution of AI agent architectures, work with
+      OpenAI, Anthropic, and Google models, and implement systems
+      that enable agents to generate full-stack applications from
+      natural language - this is core AI development, not support
+      work.
+  responsibilities:
+  - Lead the design and evolution of AI agent systems, establishing patterns, frameworks,
+    and standards for how agents manage context and orchestrate workflows
+  - Shape the multi-provider strategy for LLM models (OpenAI GPT, Anthropic Claude,
+    Google Gemini) and establish evaluation frameworks and selection criteria
+  - Architect foundational systems for tool use and workflow orchestration, enabling
+    AI agents to safely call external tools and APIs
+  - Partner across engineering, product, and design teams to align AI initiatives
+    with business objectives and influence roadmaps
+  - Establish data and evaluation standards for collecting and analyzing agent responses,
+    building evaluation harnesses that support business KPIs
+  - Drive research and innovation in NLP and LLM techniques, including prompting strategies,
+    context handling methods, and fine-tuning opportunities
+  use_cases:
+  - Convert natural language into production-ready full-stack web and mobile applications
+  - Maintain context across large codebases while making changes, from simple UI tweaks
+    to complex architectural decisions
+  - Orchestrate multi-step workflows that handle increasingly complex user needs across
+    the application development process
+  - Enable safe and effective tool use by AI agents for web searches, database queries,
+    and domain-specific operations
+  - Provide instant code generation and editing capabilities directly in the browser
+    without requiring traditional code writing
+  skills:
+    genai: [OpenAI API, Anthropic API, Google Gemini, LangGraph, DSPy, Vercel AI SDK,
+      prompt engineering, function calling, agents, RAG]
+    ml: [fine-tuning, model evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8363829'
+  extracted_at: '2026-02-05T12:59:35.837412'

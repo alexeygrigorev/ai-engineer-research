@@ -1,0 +1,57 @@
+company:
+  name: SmartAssets
+  stage: null
+  focus: |-
+    AI platform for advertising content and creative
+    effectiveness
+  use_cases:
+  - Empower brands and creative agencies to produce high-quality advertising content
+  - Provide insights into the effectiveness of creative choices in advertising
+  - Analyze why ads work or don't work to optimize engagement
+  - Measure marketing effectiveness and provide actionable insights
+  - Apply data science to bring science into the art of advertising
+position:
+  title: AI Engineer / Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing and deploying advanced AI/ML
+      models directly, with hands-on work using TensorFlow,
+      PyTorch, and Scikit-learn. The position requires production
+      deployment of AI models and enhancing AI-driven features for
+      the advertising content platform.
+  responsibilities:
+  - Lead the development and deployment of advanced AI and machine learning models
+    to support and enhance workflows
+  - Collaborate with cross-functional teams to integrate AI technologies with other
+    system components
+  - Ensure the scalability, efficiency, and robustness of AI solutions
+  - Oversee the maintenance and improvement of existing AI features, adapting to new
+    technologies and methodologies
+  - Conduct and participate in code and design reviews to uphold high-quality standards
+  - Mentor and guide junior AI engineers, fostering a collaborative and growth-oriented
+    environment
+  - Drive the analysis and measurement of ad-hoc studies, measuring marketing effectiveness
+    and providing actionable insights
+  use_cases:
+  - Empower brands and creative agencies to produce high-quality advertising content
+  - Provide insights into the effectiveness of creative choices in advertising
+  - Analyze why ads work or don't work to optimize engagement
+  - Measure marketing effectiveness and provide actionable insights
+  - Apply data science to bring science into the art of advertising
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn, statistical analysis, machine learning]
+    web: []
+    databases: []
+    data: [data science]
+    cloud: [GCP]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: [Git, algorithms, data structures]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7694512'
+  extracted_at: '2026-02-05T11:20:49.002854'

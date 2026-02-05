@@ -1,0 +1,58 @@
+company:
+  name: Cohere AI
+  stage: Series A+ (growing startup)
+  focus: Building frontier models and enterprise AI agents
+  use_cases:
+  - Enterprise workflow automation through agentic AI systems
+  - Content generation and semantic search powered by LLMs
+  - Retrieval-Augmented Generation (RAG) for enterprise knowledge access
+  - Multi-step agent workflows that reason, plan, and act across tools and data sources
+  - Tool and API integration for autonomous task execution
+  - Human-in-the-loop workflows with enterprise-grade reliability and observability
+position:
+  title: Applied AI Engineer – Agentic Workflows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an Applied AI Engineer role building, deploying, and
+      optimizing agentic workflows powered by LLMs. The role
+      requires hands-on experience with agent orchestration
+      frameworks, RAG implementation, prompt engineering, and tool
+      integration - all core AI/ML system development work.
+  responsibilities:
+  - Work with enterprise customers and internal teams to turn business workflows into
+    scalable, production-ready agentic AI systems
+  - Design and build LLM-powered agents that reason, plan, and act across tools and
+    data sources with enterprise-grade reliability
+  - Balance rapid iteration with enterprise requirements, evolving prototypes into
+    stable, reusable solutions
+  - Define and apply evaluation and quality standards to measure success, failures,
+    and regressions
+  - Debug real-world agent behavior and systematically improve prompts, workflows,
+    tools, and guardrails
+  - Contribute to shared frameworks and patterns that enable consistent delivery across
+    customers
+  use_cases:
+  - Enterprise workflow automation through agentic AI systems
+  - Content generation and semantic search powered by LLMs
+  - Retrieval-Augmented Generation (RAG) for enterprise knowledge access
+  - Multi-step agent workflows that reason, plan, and act across tools and data sources
+  - Tool and API integration for autonomous task execution
+  - Human-in-the-loop workflows with enterprise-grade reliability and observability
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, OpenAI API, Anthropic API, Google Gemini
+        API, Prompt engineering, RAG, Agents, Function calling]
+    ml: [LLM evaluation, Fine-tuning]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Cloud deployment]
+    ops: []
+    languages: [Python, JavaScript/TypeScript]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8115165'
+  extracted_at: '2026-02-05T12:03:16.375717'

@@ -1,0 +1,55 @@
+company:
+  name: CareSource
+  stage: null
+  focus: Healthcare and managed care services
+  use_cases:
+  - Generative AI platform architecture for enterprise applications
+  - RAG-based semantic search systems for information retrieval
+  - LLM-powered solutions leveraging OpenAI and Llama models
+  - Vector database implementations for embedding-based search
+  - AI-assisted software development workflows using GitHub Copilot and internal tools
+position:
+  title: AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      generative AI solutions including LLMs, RAG systems, vector
+      databases, and inference pipelines. The engineer is
+      responsible for architecture design and proof of concept
+      development using modern GenAI tools like LangChain and
+      OpenAI APIs.
+  responsibilities:
+  - Define and oversee architecture for Generative AI platforms including LLMs, vector
+    databases, and inference pipelines
+  - Design and develop complex software systems ensuring scalability, reliability,
+    and maintainability
+  - Develop proof of concepts to evaluate new AI technologies and value-adding concepts
+  - Drive innovation and teamwork through hands-on implementation and exploration
+    of AI capabilities
+  - Collaborate with leadership to evaluate deployed services and optimize delivery
+    mechanisms
+  - Provide progress updates to stakeholders and identify technical risks with mitigation
+    strategies
+  use_cases:
+  - Generative AI platform architecture for enterprise applications
+  - RAG-based semantic search systems for information retrieval
+  - LLM-powered solutions leveraging OpenAI and Llama models
+  - Vector database implementations for embedding-based search
+  - AI-assisted software development workflows using GitHub Copilot and internal tools
+  skills:
+    genai: [OpenAI, LangChain, Llama, RAG, embeddings, semantic search, vectorization]
+    ml: []
+    web: [Streamlit]
+    databases: [vector databases]
+    data: []
+    cloud: [serverless]
+    ops: [IaC, inference pipelines, containers]
+    languages: [Python]
+    domains: []
+    other: [GitHub Copilot, Agile methodologies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8191380'
+  extracted_at: '2026-02-05T12:11:38.541273'

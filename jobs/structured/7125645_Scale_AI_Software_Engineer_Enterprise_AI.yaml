@@ -1,0 +1,52 @@
+company:
+  name: Scale AI
+  stage: Series E
+  focus: AI data platform and enterprise Generative AI
+  use_cases:
+  - Enterprise-grade knowledge retrieval using Generative AI
+  - LLM inference and evaluation at scale
+  - Building APIs for AI model interactions
+  - Enabling enterprises to deploy and oversee AI applications
+  - Providing high-quality data and full-stack technologies for AI models
+position:
+  title: Software Engineer, Enterprise AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is building infrastructure/platform for an
+      enterprise Generative AI platform that provides APIs for
+      knowledge retrieval, inference, and evaluation. While it
+      mentions interacting with LLMs, the primary focus is on
+      software engineering, scalability, and reliability of the
+      platform itself rather than building, training, or fine-
+      tuning models. The engineer is enabling AI capabilities
+      through product development rather than hands-on model work.
+  responsibilities:
+  - Own large new areas within the Scale Generative AI Platform product
+  - Work across backend, frontend, and interacting with LLMs and ML models
+  - Deliver experiments at high velocity and quality to engage customers
+  - Manage the entire product lifecycle from conceptualization through production
+  - Solve hard engineering problems in scalability and reliability
+  - Multi-task and quickly learn new technologies in a fast-paced environment
+  use_cases:
+  - Enterprise-grade knowledge retrieval using Generative AI
+  - LLM inference and evaluation at scale
+  - Building APIs for AI model interactions
+  - Enabling enterprises to deploy and oversee AI applications
+  - Providing high-quality data and full-stack technologies for AI models
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: [SQL, vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Kubernetes]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [distributed systems, scalability, backend engineering, frontend engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7125645'
+  extracted_at: '2026-02-05T10:21:43.146607'

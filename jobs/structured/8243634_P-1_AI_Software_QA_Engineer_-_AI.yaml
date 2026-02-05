@@ -1,0 +1,51 @@
+company:
+  name: P-1 AI
+  stage: Seed
+  focus: Building engineering AGI for physical products
+  use_cases:
+  - AI engineer performing quantitative intuition over physical product domains
+  - AI agent performing engineering tool use at entry-level design engineer capability
+  - Evaluation system benchmarking AI against real-world engineering skill expectations
+  - Automated assessment of AI learning progress in engineering domains
+  - Preventing capability regressions in evolving AI engineering system
+position:
+  title: Software QA Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA Engineer role focused on building testing and
+      evaluation frameworks to benchmark AI performance against
+      engineering standards. The role designs evals to measure AI
+      system progress and prevent regressions, but does not
+      involve building, training, fine-tuning, or deploying the AI
+      models themselves.
+  responsibilities:
+  - Design and implement automated evaluation frameworks to benchmark Archie's engineering
+    capabilities
+  - Translate engineering judgment into scalable testing systems
+  - Ensure AI is learning the right things and prevent regressions as the system evolves
+  - Collaborate with AI researchers, software engineers, and domain experts on evals
+  - Operate testing systems that define whether the AI is becoming a better engineer
+  - Shape how progress toward engineering AGI is measured through evaluation systems
+  use_cases:
+  - AI engineer performing quantitative intuition over physical product domains
+  - AI agent performing engineering tool use at entry-level design engineer capability
+  - Evaluation system benchmarking AI against real-world engineering skill expectations
+  - Automated assessment of AI learning progress in engineering domains
+  - Preventing capability regressions in evolving AI engineering system
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [test automation, evaluation frameworks, testing, benchmarking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8243634'
+  extracted_at: '2026-02-05T12:19:34.853253'

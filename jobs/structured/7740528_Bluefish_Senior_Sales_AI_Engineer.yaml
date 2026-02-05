@@ -1,0 +1,58 @@
+company:
+  name: Bluefish
+  stage: Series A
+  focus: AI marketing platform for enterprise brands
+  use_cases:
+  - AI-driven marketing experiences for enterprise brands and agencies
+  - AI brand safety management tools for Fortune 500 companies
+  - Personalized AI marketing campaigns to engage consumers on AI channels
+  - Helping brands tell their stories to consumers in the new AI internet ecosystem
+  - Strategic technical evaluations for AI marketing platform adoption
+position:
+  title: Senior Sales AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer role focused on driving customer
+      adoption of an AI platform through technical solutioning,
+      demos, and consulting. The role does not involve building,
+      training, or deploying AI models, but rather selling and
+      implementing an existing AI marketing platform as a trusted
+      advisor to enterprise customers.
+  responsibilities:
+  - Collaborate with sales, product, and customer teams to design and present high-impact
+    AI marketing solutions tailored to customer objectives
+  - Provide strategic consulting and technical guidance to marketing leaders, helping
+    them navigate the shift to AI-driven marketing
+  - Enable and support the sales organization with technical discovery, compelling
+    product demos, technical workshops, and pilots
+  - Develop strategic playbooks and processes to support growth and long-term customer
+    success
+  - Partner with product and engineering to feed real-time customer feedback into
+    the product roadmap and innovation cycles
+  - Act as a bridge between business and technical stakeholders to ensure alignment
+    and clarity throughout implementation
+  use_cases:
+  - AI-driven marketing experiences for enterprise brands and agencies
+  - AI brand safety management tools for Fortune 500 companies
+  - Personalized AI marketing campaigns to engage consumers on AI channels
+  - Helping brands tell their stories to consumers in the new AI internet ecosystem
+  - Strategic technical evaluations for AI marketing platform adoption
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: [martech, adtech]
+    other: [SaaS, sales engineering, solutions consulting, AI/ML tools, analytics,
+      strategic consulting, enterprise sales, technical discovery, product demos,
+      cross-functional collaboration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7740528'
+  extracted_at: '2026-02-05T11:24:27.017583'

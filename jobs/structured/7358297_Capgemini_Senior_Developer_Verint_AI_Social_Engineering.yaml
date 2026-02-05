@@ -1,0 +1,63 @@
+company:
+  name: Capgemini
+  stage: Public
+  focus: Technology consulting and business transformation
+  use_cases:
+  - Intelligent virtual assistant (IVA) for customer interactions
+  - Speech analytics for customer experience optimization
+  - AI-driven customer service and support operations
+  - Digital engagement solutions for insurance carrier
+  - Voice-based customer interaction systems
+  - AI-powered decision support for insurance processes
+position:
+  title: Senior Developer Verint AI & Social Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves implementing and configuring Verint AI
+      solutions (IVA and Speech Analytics) rather than building,
+      training, or fine-tuning custom ML models. The work focuses
+      on integrating AI technologies with enterprise voice
+      platforms and telephony systems, which is
+      enabling/supporting AI rather than directly working on AI
+      models.
+  responsibilities:
+  - Design, develop, test, and implement AI-based applications using Verint technology,
+    including IVA and Speech Analytics
+  - Collaborate with business stakeholders to understand requirements and translate
+    them into scalable technical specifications
+  - Analyze structured and unstructured data to develop AI algorithms that support
+    intelligent decision-making and customer interaction
+  - Integrate Verint AI solutions with enterprise platforms such as CISCO telephony,
+    Google Cloud services, and NICE workforce management systems
+  - Debug and improve existing Verint implementations for performance, scalability,
+    and user experience
+  - Stay current with trends in AI, voice engineering, and social engineering to recommend
+    innovative approaches and technologies
+  - Provide technical guidance and mentorship to junior developers, fostering a collaborative
+    and growth-oriented environment
+  - Document technical specifications, architecture designs, and system integration
+    processes
+  use_cases:
+  - Intelligent virtual assistant (IVA) for customer interactions
+  - Speech analytics for customer experience optimization
+  - AI-driven customer service and support operations
+  - Digital engagement solutions for insurance carrier
+  - Voice-based customer interaction systems
+  - AI-powered decision support for insurance processes
+  skills:
+    genai: [Verint AI, Verint IVA]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Google Cloud]
+    ops: []
+    languages: [Python, Java, C#]
+    domains: [Verint Speech Analytics]
+    other: [CISCO telephony, NICE workforce management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7358297'
+  extracted_at: '2026-02-05T10:42:30.458712'

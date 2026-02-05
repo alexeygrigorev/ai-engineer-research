@@ -1,0 +1,56 @@
+company:
+  name: Block
+  stage: Public
+  focus: Music streaming platform with AI-powered personalization
+  use_cases:
+  - Algorithmically surface music artists have shared through playlist generation
+    and recommendations
+  - Semantic search for discovering music content
+  - Personalized homepage experience tailored to individual listener preferences
+  - Music ranking systems to surface relevant content to users
+  - Advanced search capabilities powered by embeddings and deep learning
+position:
+  title: Staff Machine Learning Engineer, Tidal Personalization AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role directly involves building and deploying AI/ML
+      systems for personalization, including semantic search,
+      recommendations, and rankings using embeddings, deep
+      learning, and LLMs. The role requires developing production
+      ML models and leading initiatives that directly power
+      customer-facing features.
+  responsibilities:
+  - Lead strategic initiatives in Personalization & AI Engineering, driving vision,
+    architecture, and execution
+  - Develop new AI/ML systems powering Tidal's homepage including semantic search,
+    recommendations, UX and playlists
+  - Build production systems that personalize the listener's experience
+  - Act as technical leader establishing quality practices, making design decisions,
+    and setting examples for others
+  - Collaborate with cross-functional teams of designers, business partners, and software
+    engineers to build new technologies and features
+  - Design experiments, test them on production users, analyze results and iterate
+  use_cases:
+  - Algorithmically surface music artists have shared through playlist generation
+    and recommendations
+  - Semantic search for discovering music content
+  - Personalized homepage experience tailored to individual listener preferences
+  - Music ranking systems to surface relevant content to users
+  - Advanced search capabilities powered by embeddings and deep learning
+  skills:
+    genai: [large language models, semantic search]
+    ml: [PyTorch, recommender systems, ranking systems, embeddings, deep learning]
+    web: []
+    databases: []
+    data: [PySpark, Databricks]
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '6706601'
+  extracted_at: '2026-02-05T09:47:51.590657'

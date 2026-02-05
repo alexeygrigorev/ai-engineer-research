@@ -1,0 +1,67 @@
+company:
+  name: Voyager Technologies
+  stage: Unknown
+  focus: Defense, national security, and space technology company
+  use_cases:
+  - Agentic AI platform for computational engineering that compresses hardware development
+    cycles from years to days
+  - AI-native design system integrating Design for Manufacturing, Design for Assembly,
+    and Design for Test into initial design stages
+  - Real-time collaboration between human engineers and AI agents for hardware and
+    CAD design workflows
+  - Visualization and control interface for steering AI agents working on physics
+    simulations and hardware development
+  - Transparent AI agent reasoning and action tracking for engineering decision-making
+    and review processes
+position:
+  title: Software Engineer – Full Stack - Internal AI Tools Team
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack web engineering role focused on
+      building UI/frontend tools for AI agents, not building or
+      deploying AI models directly. The engineer creates
+      visualization interfaces, dashboards, and collaboration
+      features to interact with AI systems, but does not train,
+      fine-tune, or implement the underlying models or agents.
+  responsibilities:
+  - Design and build web applications that serve as mission control for ACE, with
+    focus on responsiveness and usability for expert users
+  - Implement high-fidelity 2D/3D visualizations of CAD models, PCB layouts, and CFD
+    fields using Three.js, WebGL, or WebGPU
+  - Create features that expose agent reasoning, tool usage, and design history in
+    transparent and intuitive ways for engineers
+  - Develop real-time collaborative editing and review workflows using WebSockets
+    or CRDTs for human-AI co-design
+  - Collaborate with backend, platform, and domain team members to design APIs and
+    data contracts that power the UI
+  - Manage agentic teams of LLMs to scaffold components, generate documentation, and
+    accelerate development
+  use_cases:
+  - Agentic AI platform for computational engineering that compresses hardware development
+    cycles from years to days
+  - AI-native design system integrating Design for Manufacturing, Design for Assembly,
+    and Design for Test into initial design stages
+  - Real-time collaboration between human engineers and AI agents for hardware and
+    CAD design workflows
+  - Visualization and control interface for steering AI agents working on physics
+    simulations and hardware development
+  - Transparent AI agent reasoning and action tracking for engineering decision-making
+    and review processes
+  skills:
+    genai: [LLMs, AI tools]
+    ml: []
+    web: [React, Next.js, Three.js, WebGL, WebGPU, WebSockets, CRDTs, HTTP APIs, browser
+        performance optimization, state management]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, TypeScript]
+    domains: [CAD, 3D graphics, data visualization]
+    other: [design systems, UX best practices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8058093'
+  extracted_at: '2026-02-05T11:54:55.302575'

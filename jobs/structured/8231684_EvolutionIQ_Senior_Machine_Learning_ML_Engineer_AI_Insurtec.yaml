@@ -1,0 +1,57 @@
+company:
+  name: EvolutionIQ
+  stage: Series B+
+  focus: AI-powered insurance claims guidance technology
+  use_cases:
+  - Insurance claim guidance and automated recommendations for claims handling teams
+  - Information extraction from complex medical documents using ML/LLM
+  - Claim time series forecasting for predicting claim outcomes and timelines
+  - NLP-based understanding of insurance claim documentation and unstructured text
+  - Human-in-the-loop workflows combining AI recommendations with human review
+  - Making insurance claims handling more accurate, fair, and efficient
+position:
+  title: Senior Machine Learning (ML) Engineer (AI Insurtech)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building ML/LLM-driven features,
+      extracting information from medical documents using language
+      models, and deploying machine learning models for time
+      series forecasting and NLP understanding. The engineer works
+      directly on building, training, and deploying models, not
+      just supporting infrastructure.
+  responsibilities:
+  - Build ML/LLM-driven features for claim guidance product including information
+    extraction from medical documents and human-in-the-loop workflows
+  - Perform exploratory data analysis to scope ML opportunities and establish model
+    design, training, and evaluation strategies
+  - Build scalable machine learning models for claim time series forecasting and NLP
+    text understanding
+  - Translate client business problems into ML problems and implement features to
+    improve model performance
+  - Deploy and maintain model-serving pipelines in production with daily production-quality
+    code reviews
+  - Make sense of large-scale structured and unstructured datasets for business problems
+  use_cases:
+  - Insurance claim guidance and automated recommendations for claims handling teams
+  - Information extraction from complex medical documents using ML/LLM
+  - Claim time series forecasting for predicting claim outcomes and timelines
+  - NLP-based understanding of insurance claim documentation and unstructured text
+  - Human-in-the-loop workflows combining AI recommendations with human review
+  - Making insurance claims handling more accurate, fair, and efficient
+  skills:
+    genai: [LLMs]
+    ml: [PyTorch, Keras, scikit-learn, time series forecasting, probabilistic programming]
+    web: []
+    databases: [BigQuery]
+    data: [Pandas, Spark, Dagster]
+    cloud: [Vertex AI, GCP]
+    ops: [Kubernetes, Terraform, model serving pipelines]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8231684'
+  extracted_at: '2026-02-05T12:17:17.730423'

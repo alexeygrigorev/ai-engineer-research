@@ -1,0 +1,57 @@
+company:
+  name: Cedar
+  stage: Series B+ (raised over $350M)
+  focus: Healthcare financial platform and patient billing
+  use_cases:
+  - AI Voice Agent for patient billing inquiries and support
+  - Bill clarity and financial communication for patients
+  - Workflow automation for healthcare provider billing departments
+  - Unstructured data analysis from call transcripts to improve patient interactions
+  - Personalized patient financial experience using generative AI
+  - Automated voice-based resolution of billing questions and payment discussions
+position:
+  title: AI Engineer (Applied Scientist) III
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and optimizing Kora, an AI Voice
+      Agent for patient billing. The engineer will work directly
+      on prompt and context engineering, develop AI workflows, and
+      enhance features powered by generative AI, which is hands-on
+      AI development.
+  responsibilities:
+  - Analyze unstructured data including call transcripts and patient account details
+    using quantitative and qualitative methods
+  - Design and execute robust experiment plans to rapidly test hypotheses and improve
+    patient experience
+  - Build and enhance features for Kora AI Voice Agent using production-level coding
+    and prompt/context engineering
+  - Measure and track impact of new features, iterating based on results and findings
+    with strong ownership
+  - Collaborate with scientists, engineers, designers, and product teams to solve
+    cross-functional problems
+  - Work in a fast-paced environment to continuously improve the patient financial
+    experience through AI solutions
+  use_cases:
+  - AI Voice Agent for patient billing inquiries and support
+  - Bill clarity and financial communication for patients
+  - Workflow automation for healthcare provider billing departments
+  - Unstructured data analysis from call transcripts to improve patient interactions
+  - Personalized patient financial experience using generative AI
+  - Automated voice-based resolution of billing questions and payment discussions
+  skills:
+    genai: [prompt engineering, context engineering, generative AI]
+    ml: [experimental design]
+    web: []
+    databases: []
+    data: [data analysis, unstructured data analysis]
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7529379'
+  extracted_at: '2026-02-05T11:05:23.279919'

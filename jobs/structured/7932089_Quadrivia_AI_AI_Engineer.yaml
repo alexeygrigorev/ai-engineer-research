@@ -1,0 +1,67 @@
+company:
+  name: Quadrivia AI
+  stage: null
+  focus: Healthcare AI assistant for clinicians
+  use_cases:
+  - Real-time clinical AI assistant that provides text and voice support for healthcare
+    professionals across the care continuum
+  - Multi-agent system for handling clinical tasks through coordinated planning, execution,
+    and critic patterns
+  - RAG-powered system for retrieving and synthesizing medical knowledge with strong
+    grounding and faithfulness guarantees
+  - Voice-enabled interactive system with turn-taking, interruption handling, and
+    sub-2-second response latency for clinical workflows
+  - EHR integration system that transforms healthcare data into LLM-accessible tools
+    for clinical decision support
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI/ML systems -
+      specifically multi-agent LLM systems with real-time text and
+      voice capabilities. The engineer will own the core "brain"
+      service, implementing RAG, agent orchestration, prompt
+      optimization with DSPy, and LLM reasoning patterns.
+  responsibilities:
+  - Own and evolve the core brain service powering Qu including architecture, SLAs,
+    latency budgets, and rollouts
+  - Build low-latency real-time text and voice communication systems with streaming,
+    VAD, and interruption handling
+  - Design and implement multi-agent orchestration systems using planner-executor-critic
+    patterns with role routing and tool coordination
+  - Implement reasoning frameworks including ReAct, Chain-of-Thought, and Tree/Graph-of-Thoughts
+    optimization patterns
+  - Develop programmatic prompt optimization using DSPy, MiPRO, and GEPA for iterative
+    prompt evolution under evaluation constraints
+  - Engineer RAG systems with hybrid search, re-ranking, query rewriting, and evaluate
+    faithfulness, context precision/recall metrics
+  - Build comprehensive evaluation and observability systems with OpenTelemetry tracing,
+    automated evals, regression testing, and CI/CD gates for production LLM systems
+  use_cases:
+  - Real-time clinical AI assistant that provides text and voice support for healthcare
+    professionals across the care continuum
+  - Multi-agent system for handling clinical tasks through coordinated planning, execution,
+    and critic patterns
+  - RAG-powered system for retrieving and synthesizing medical knowledge with strong
+    grounding and faithfulness guarantees
+  - Voice-enabled interactive system with turn-taking, interruption handling, and
+    sub-2-second response latency for clinical workflows
+  - EHR integration system that transforms healthcare data into LLM-accessible tools
+    for clinical decision support
+  skills:
+    genai: [DSPy, RAG, agents, ReAct, Chain-of-Thought, prompt engineering]
+    ml: []
+    web: [FastAPI, asyncio, pydantic, WebRTC]
+    databases: [vector stores, Postgres, Redis]
+    data: []
+    cloud: [GCP, Vertex AI]
+    ops: [Docker, Kubernetes, Terraform, OpenTelemetry, LiveKit]
+    languages: [Python]
+    domains: []
+    other: [STT/TTS]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7932089'
+  extracted_at: '2026-02-05T11:41:59.296088'

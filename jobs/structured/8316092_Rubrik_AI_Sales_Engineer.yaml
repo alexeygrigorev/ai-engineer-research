@@ -1,0 +1,68 @@
+company:
+  name: Rubrik
+  stage: Public
+  focus: |-
+    Cyber resilience and AI operations for enterprise data
+    protection
+  use_cases:
+  - Cyber resilience and data protection against cyberattacks, malicious insiders,
+    and operational disruptions
+  - AI agent deployment acceleration with monitoring, auditing, and real-time guardrails
+    enforcement
+  - Cloud data management, backup, disaster recovery, and data analytics for enterprises
+  - Secure monitoring and recovery of data, identities, and workloads across cloud
+    environments
+  - Agentic AI monitoring with fine-tuning for accuracy and ability to undo agentic
+    mistakes
+position:
+  title: AI Sales Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer/Solutions Architect role focused on
+      GTM strategy, pre-sales activities, and customer advisory
+      for AI products. The role involves positioning and
+      evangelizing Rubrik's AI Agentic Cloud offerings but does
+      not include hands-on building, training, fine-tuning, or
+      deploying models/agents.
+  responsibilities:
+  - Provides technical leadership and direction in developing and positioning Rubrik's
+    AI Agentic Cloud offerings
+  - Serves as a trusted technology advisor and public cloud subject matter expert
+    to customers and prospects
+  - Leads technical sales calls, analyzes customer feedback, and identifies market
+    trends
+  - Qualifies sales opportunities based on technical requirements, competition, and
+    decision-making processes
+  - Maintains alignment between product roadmap and customer demands through collaboration
+    with product management
+  - Develops marketing and sales collateral and delivers technical enablement to sales
+    architects and partners
+  - Drives adoption of cloud native protection technologies across Rubrik and the
+    public cloud ecosystem
+  use_cases:
+  - Cyber resilience and data protection against cyberattacks, malicious insiders,
+    and operational disruptions
+  - AI agent deployment acceleration with monitoring, auditing, and real-time guardrails
+    enforcement
+  - Cloud data management, backup, disaster recovery, and data analytics for enterprises
+  - Secure monitoring and recovery of data, identities, and workloads across cloud
+    environments
+  - Agentic AI monitoring with fine-tuning for accuracy and ability to undo agentic
+    mistakes
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [data analytics]
+    cloud: [cloud infrastructure, cloud hosting, cloud data management]
+    ops: [backup and disaster recovery]
+    languages: []
+    domains: [cyber security]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8316092'
+  extracted_at: '2026-02-05T12:48:38.477203'

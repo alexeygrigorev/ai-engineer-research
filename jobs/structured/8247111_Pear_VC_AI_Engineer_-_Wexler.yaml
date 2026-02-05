@@ -1,0 +1,60 @@
+company:
+  name: Pear VC
+  stage: Seed
+  focus: Legal AI platform for litigation and enterprise law firms
+  use_cases:
+  - Extract objective, cross-referenced facts from millions of legal documents to
+    support litigation
+  - Help litigators find winning strategies and critical facts that determine case
+    outcomes
+  - Create clarity from complex document chaos in legal disputes
+  - Save months of working hours for law firms through automated document analysis
+  - Manage, resolve and prevent legal disputes across enterprise law firms and Fortune
+    500 companies
+position:
+  title: AI Engineer - Wexler
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, designing, and
+      refining LLM agents and RAG pipelines directly for
+      production systems. The engineer will work on prompt
+      engineering, model evaluation frameworks, and deploy agentic
+      AI systems to solve legal document analysis problems.
+  responsibilities:
+  - Design, build and refine production-grade LLM agents and proprietary algorithms
+    for expert litigators
+  - Lead development of robust evaluation frameworks and pipelines, establishing metrics
+    and benchmarking models on large datasets
+  - Drive advanced prompt-engineering practice to maximise model efficacy
+  - Apply core NLP fundamentals including tokenisation, embeddings, and model architecture
+    for structured, performant outputs
+  - Own clean, modular Python back-end code for data-intensive systems while managing
+    token limits, cost and latency
+  - Shape AI strategy and direct oversight of agentic systems that analyze millions
+    of documents
+  use_cases:
+  - Extract objective, cross-referenced facts from millions of legal documents to
+    support litigation
+  - Help litigators find winning strategies and critical facts that determine case
+    outcomes
+  - Create clarity from complex document chaos in legal disputes
+  - Save months of working hours for law firms through automated document analysis
+  - Manage, resolve and prevent legal disputes across enterprise law firms and Fortune
+    500 companies
+  skills:
+    genai: [LLM agents, RAG, prompt engineering]
+    ml: [tokenisation, embeddings, model evaluation]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: [AI evaluation frameworks]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8247111'
+  extracted_at: '2026-02-05T12:21:18.815432'

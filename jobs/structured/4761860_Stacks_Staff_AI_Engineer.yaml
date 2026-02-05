@@ -1,0 +1,56 @@
+company:
+  name: Stacks
+  stage: Series A
+  focus: AI-powered financial close automation
+  use_cases:
+  - Automating the monthly financial close process for mid to large enterprises to
+    reduce manual effort
+  - AI-powered transaction categorization and classification for finance teams
+  - Financial forecasting and predictive analytics using ML models
+  - Extracting strategic insights from messy, unstructured financial data
+  - Decision support systems for finance teams through autonomous AI agents
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and deploying AI agents and
+      ML models, including fine-tuning for financial workflows and
+      transaction categorization. The hands-on work with
+      autonomous agents, transformer-based architectures, and
+      generative AI to automate financial processes clearly places
+      this in the ai-first category.
+  responsibilities:
+  - Build and optimize autonomous AI agents leveraging generative AI to automate financial
+    workflows from data ingestion to decision support
+  - Design, train, evaluate, and deploy ML models for forecasting, predictive analysis,
+    and transaction categorization
+  - Construct and optimize data pipelines for raw, structured, and unstructured data
+    ensuring high-quality inputs for models and AI agents
+  - Incorporate advanced transformer-based architectures and embedding techniques
+    to drive automation and enhance financial insights
+  - Rigorously validate model performance, run data validation and diagnostics, and
+    ensure flawless operations in production environments
+  use_cases:
+  - Automating the monthly financial close process for mid to large enterprises to
+    reduce manual effort
+  - AI-powered transaction categorization and classification for finance teams
+  - Financial forecasting and predictive analytics using ML models
+  - Extracting strategic insights from messy, unstructured financial data
+  - Decision support systems for finance teams through autonomous AI agents
+  skills:
+    genai: [agents, generative AI, RAG, transformer-based architectures, embeddings]
+    ml: [model training, fine-tuning, PyTorch]
+    web: []
+    databases: []
+    data: [data pipelines, ETL, unstructured data]
+    cloud: []
+    ops: [model deployment, data validation, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4761860'
+  extracted_at: '2026-02-05T09:41:23.977593'

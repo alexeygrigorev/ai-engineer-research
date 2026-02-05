@@ -1,0 +1,52 @@
+company:
+  name: Statista
+  stage: Public
+  focus: |-
+    Leading business data platform providing facts, data
+    analytics products and services
+  use_cases:
+  - Automated insight delivery from simple queries to AI-powered outputs
+  - Retrieval-Augmented Generation (RAG) systems for next-gen AI features
+  - Dynamic content generation at scale using rule-based retrieval
+  - Large-scale data indexing and retrieval across products and partner platforms
+position:
+  title: Automation Engineer - AI Insights (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data pipelines, automation
+      systems, and infrastructure that power AI workflows rather
+      than directly building, training, or fine-tuning models. The
+      engineer creates the foundation (pipelines, APIs, indexing,
+      retrieval systems) that enables AI features like RAG to
+      function, which is classic ai-support work.
+  responsibilities:
+  - Build and optimize scalable, high-performance data pipelines connecting databases,
+    schemas, and advanced retrieval logic for structured and unstructured data
+  - Develop automation systems for rule-based retrieval and dynamic content generation
+    enabling real-time, large-scale insight delivery
+  - Ensure data and content are efficiently stored, indexed, and available via robust
+    APIs and partner integrations to power AI features
+  - Analyze and address bottlenecks to advance data automation strategy and improve
+    content workflows for scalability and performance
+  use_cases:
+  - Automated insight delivery from simple queries to AI-powered outputs
+  - Retrieval-Augmented Generation (RAG) systems for next-gen AI features
+  - Dynamic content generation at scale using rule-based retrieval
+  - Large-scale data indexing and retrieval across products and partner platforms
+  skills:
+    genai: [LangChain, RAG, prompt engineering, LLMs, autonomous AI agents]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: [DataOps, data pipelines, data engineering]
+    cloud: [AWS]
+    ops: [Docker, CI/CD, Infrastructure-as-Code]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7038109'
+  extracted_at: '2026-02-05T10:07:28.798263'

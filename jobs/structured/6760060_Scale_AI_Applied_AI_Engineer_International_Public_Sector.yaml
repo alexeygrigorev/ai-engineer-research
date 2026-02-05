@@ -1,0 +1,54 @@
+company:
+  name: Scale AI
+  stage: Public
+  focus: |-
+    AI data and full-stack technologies for enterprises and
+    governments
+  use_cases:
+  - Custom AI applications impacting millions of citizens in public sector
+  - National language model development with high-quality training data
+  - AI-driven solutions for government operational transformation
+  - Deep learning and generative AI applications for public sector challenges
+  - Model evaluation and fine-tuning for real-world government use cases
+position:
+  title: Applied AI Engineer, International Public Sector
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building end-to-end AI applications, deploying
+      models into production, fine-tuning sophisticated models,
+      and developing evaluation frameworks. Hands-on work with
+      generative/agentic AI applications and deep learning
+      solutions directly working ON AI systems rather than just
+      supporting infrastructure.
+  responsibilities:
+  - Partner with public sector clients to understand challenges and define AI-driven
+    solutions
+  - Build and deploy end-to-end AI applications into production using latest AI developments
+  - Collaborate with data annotation specialists to create high-quality training datasets
+  - Design and maintain robust evaluation frameworks to ensure AI model reliability
+    and effectiveness
+  - Participate in customer engagements with occasional travel for hands-on deployment
+  - Contribute to scaling AI capabilities in the public sector through knowledge sharing
+  use_cases:
+  - Custom AI applications impacting millions of citizens in public sector
+  - National language model development with high-quality training data
+  - AI-driven solutions for government operational transformation
+  - Deep learning and generative AI applications for public sector challenges
+  - Model evaluation and fine-tuning for real-world government use cases
+  skills:
+    genai: [generative AI, agentic AI applications]
+    ml: [model fine-tuning, deep learning, model evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [model deployment]
+    languages: [Python, TypeScript/JavaScript, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6760060'
+  extracted_at: '2026-02-05T09:51:04.506447'

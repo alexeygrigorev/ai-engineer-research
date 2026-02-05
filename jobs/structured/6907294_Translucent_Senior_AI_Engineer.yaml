@@ -1,0 +1,55 @@
+company:
+  name: Translucent
+  stage: null
+  focus: AI-powered accounting and finance tools
+  use_cases:
+  - AI-powered accounting assistant for finance teams
+  - Intelligent processing and analysis of Xero and QuickBooks transaction data
+  - Financial consolidation and intercompany transaction handling with AI assistance
+  - Automated document retrieval and attribution for financial records
+  - Safe and transparent AI teammate for sensitive financial operations
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves designing and building production LLM
+      applications, agent infrastructure, and RAG systems. Hands-
+      on work with prompt engineering, tool versioning, LLM evals,
+      and implementing guardrails directly on models, not
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and build production LLM applications and agent infrastructure
+  - Implement evaluation harness with golden datasets, offline and online evals, and
+    CI-gated releases
+  - Define and track LLM quality metrics including groundedness, correctness, tool-use
+    success, and RAG context metrics
+  - Implement prompt and tool versioning with experiment tracking and rollback capabilities
+  - Build guardrails including schema-validated outputs, PII redaction, auth scopes,
+    and circuit breakers
+  - Drive RAG quality through chunking strategies, hybrid search, document attribution,
+    and retriever evaluation
+  - Manage cost and latency through caching, streaming, model routing, and token accounting
+  use_cases:
+  - AI-powered accounting assistant for finance teams
+  - Intelligent processing and analysis of Xero and QuickBooks transaction data
+  - Financial consolidation and intercompany transaction handling with AI assistance
+  - Automated document retrieval and attribution for financial records
+  - Safe and transparent AI teammate for sensitive financial operations
+  skills:
+    genai: [LLM applications, agents, prompt engineering, RAG, function calling, MCP,
+      structured outputs]
+    ml: [embeddings]
+    web: []
+    databases: [vector stores]
+    data: []
+    cloud: []
+    ops: [LangSmith, Promptfoo, TruLens, Phoenix, DeepEval, PII redaction]
+    languages: [TypeScript, Python, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6907294'
+  extracted_at: '2026-02-05T09:58:17.812328'

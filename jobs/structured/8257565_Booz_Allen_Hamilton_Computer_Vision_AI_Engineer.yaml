@@ -1,0 +1,54 @@
+company:
+  name: Booz Allen Hamilton
+  stage: Public
+  focus: Government consulting and technology solutions
+  use_cases:
+  - Missile warning problems in near-real-time
+  - Sensor fusion for space-based solutions
+  - Target tracking systems
+  - Fire control systems for real-time applications
+  - Computer vision for embedded systems
+position:
+  title: Computer Vision AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on traditional computer vision and deep
+      learning models (DINO, CLIP, SAM) for sensor fusion and
+      target tracking, not generative AI or LLMs. The engineer
+      will train, test, deploy, and optimize these CV models using
+      GPU programming and embedded systems - classic ML/DL work
+      applied to computer vision domains.
+  responsibilities:
+  - Develop and implement deep learning computer vision models with focus on sensor
+    fusion and target tracking
+  - Collaborate with multidisciplinary teams to design, develop, test, and deploy
+    technical solutions in Python, C++, and Rust
+  - Develop and maintain Fire Control Systems ensuring robustness and accuracy in
+    real-time applications
+  - Utilize GPU programming including CUDA or RAPIDs to optimize performance of computer
+    vision applications
+  - Contribute to architecture and implementation of embedded systems programming
+    using C, C++, or Rust
+  use_cases:
+  - Missile warning problems in near-real-time
+  - Sensor fusion for space-based solutions
+  - Target tracking systems
+  - Fire control systems for real-time applications
+  - Computer vision for embedded systems
+  skills:
+    genai: []
+    ml: [CUDA, RAPIDs, DINO, CLIP, SAM, deep learning]
+    web: [micro-services]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes]
+    languages: [Python, C++, Rust, C]
+    domains: [sensor fusion, target tracking, computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8257565'
+  extracted_at: '2026-02-05T12:25:39.122132'

@@ -1,0 +1,57 @@
+company:
+  name: Celonis
+  stage: Public
+  focus: Process Intelligence and process mining SaaS platform
+  use_cases:
+  - Business process optimization and improvement using AI and Process Intelligence
+  - Traditional machine learning solutions for enterprise business problems
+  - LLM-based solutions and automations for customer-specific use cases
+  - AI-driven process mining and analysis to uncover business insights
+  - Enterprise automation solutions leveraging AI and process intelligence
+  - Digital twin creation of business operations using AI technology
+position:
+  title: Senior AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that hands-on
+      prototypes, develops, deploys, and scales AI solutions
+      including both traditional ML and LLM-based solutions
+      directly for customers. The role involves architecting end-
+      to-end AI deployments and selecting the right AI technology
+      for customer pain points, which is direct work on AI systems
+      rather than support infrastructure.
+  responsibilities:
+  - Pitch Celonis AI value proposition and align solutions with customer AI strategies
+  - Prototype, develop, deploy, and scale AI solutions including traditional ML and
+    LLM-based solutions
+  - Identify and package scalable AI use cases across the Celonis platform
+  - Lead execution on AI roadmap for Lighthouse customers and share success stories
+  - Collaborate with Product & Engineering teams to inform future product development
+    based on customer feedback
+  - Train internal teams and help them position and deploy AI solutions
+  - Design and architect end-to-end deployments encompassing AI, Process Intelligence
+    & Automation
+  use_cases:
+  - Business process optimization and improvement using AI and Process Intelligence
+  - Traditional machine learning solutions for enterprise business problems
+  - LLM-based solutions and automations for customer-specific use cases
+  - AI-driven process mining and analysis to uncover business insights
+  - Enterprise automation solutions leveraging AI and process intelligence
+  - Digital twin creation of business operations using AI technology
+  skills:
+    genai: [LLM-based solutions]
+    ml: [traditional machine learning]
+    web: []
+    databases: []
+    data: [business data analysis]
+    cloud: []
+    ops: [production level acceptance testing]
+    languages: [Python]
+    domains: [business process improvement]
+    other: [AI solution architecture, end-to-end solution delivery]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7887040'
+  extracted_at: '2026-02-05T11:37:53.623053'

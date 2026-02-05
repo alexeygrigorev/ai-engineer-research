@@ -1,0 +1,61 @@
+company:
+  name: NatWest Group
+  stage: Public
+  focus: Banking and financial services
+  use_cases:
+  - Develop data-driven customer solutions for banking services
+  - Advanced analytics and visualization for business stakeholder insights
+  - Machine learning model deployment for financial risk assessment and customer support
+  - Complex data issue debugging and incident management for customer-facing ML applications
+  - Model governance and ethical implementation for banking compliance
+position:
+  title: AI Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on data science tools, model deployment
+      pipelines (MLflow, Kubeflow), and infrastructure operations
+      (AWS, Airflow, DevOps tools) rather than building or fine-
+      tuning AI models themselves. While there's mention of ML
+      model implementation, the primary emphasis is on
+      operationalizing, deploying, and managing ML systems at
+      scale, which classifies this as supporting AI work rather
+      than directly working on AI/ML models.
+  responsibilities:
+  - Drive and embed design and implementation of data science tools and methods to
+    create market-leading customer solutions
+  - Act as subject matter expert to articulate advanced data and analytics opportunities
+    through data visualization
+  - Proactively apply statistical, mathematical, machine-learning, and software engineering
+    skills to develop solutions and algorithms
+  - Implement ethically sound models end-to-end with software engineering and product
+    development practices
+  - Lead teams in Agile methodology within multi-disciplinary data projects to achieve
+    agreed Scrum outcomes
+  - Select, build, train, and test complex machine learning models considering valuation,
+    risk, governance, and ethics
+  - Deploy, fine-tune, and optimize ML models while managing versioning and drift
+    detection pipelines
+  use_cases:
+  - Develop data-driven customer solutions for banking services
+  - Advanced analytics and visualization for business stakeholder insights
+  - Machine learning model deployment for financial risk assessment and customer support
+  - Complex data issue debugging and incident management for customer-facing ML applications
+  - Model governance and ethical implementation for banking compliance
+  skills:
+    genai: []
+    ml: [fine-tuning, machine learning]
+    web: []
+    databases: [DynamoDB, RDS]
+    data: [Airflow, Kinesis, Spark, PySpark, data visualization]
+    cloud: [AWS, EMR, S3, Elastic Beanstalk, EC2, Lambda]
+    ops: [CloudWatch, Git, Bitbucket, Jenkins, Artifactory, Splunk, MLflow, Kubeflow,
+      model deployment, inference optimization, model versioning, drift detection]
+    languages: [Java, Scala, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8398518'
+  extracted_at: '2026-02-05T13:06:43.960474'

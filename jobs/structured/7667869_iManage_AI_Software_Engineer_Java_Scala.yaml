@@ -1,0 +1,53 @@
+company:
+  name: iManage
+  stage: null
+  focus: |-
+    Intelligent cloud platform for document management and
+    knowledge work
+  use_cases:
+  - Building intelligent features for a document and knowledge management platform
+  - Deploying AI-powered capabilities to thousands of end-users in production
+  - Implementing LLM-driven features to enhance professional work and productivity
+  - Scaling AI systems across 4,100+ customers managing 11 billion documents
+position:
+  title: AI Software Engineer (Java, Scala)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves "design, deploy, and scale AI in the real
+      world" and explicitly mentions "Delivered LLM-powered or AI-
+      driven features into production" as a bonus qualification.
+      The engineer is responsible for building systems that "bring
+      intelligent features into the hands of thousands of end-
+      users," which indicates hands-on work with AI model
+      deployment rather than just supporting infrastructure.
+  responsibilities:
+  - Building high-quality, maintainable, well-tested software for production environments
+  - Enforcing strong standards around monitoring, observability, and integration testing
+  - Designing systems that scale reliably and perform under real-world load
+  - Keeping pace with emerging AI/ML technologies and evaluating where they add value
+  - Deploying and operating services using Kubernetes, Docker, Helm, GitHub Actions,
+    and CI/CD pipelines
+  - Taking ownership of projects from early concept to shipped feature
+  use_cases:
+  - Building intelligent features for a document and knowledge management platform
+  - Deploying AI-powered capabilities to thousands of end-users in production
+  - Implementing LLM-driven features to enhance professional work and productivity
+  - Scaling AI systems across 4,100+ customers managing 11 billion documents
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud-native]
+    ops: [Kubernetes, Docker, Helm, GitHub Actions, CI/CD, monitoring, observability,
+      integration testing]
+    languages: [Java, Scala]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7667869'
+  extracted_at: '2026-02-05T11:19:33.782680'

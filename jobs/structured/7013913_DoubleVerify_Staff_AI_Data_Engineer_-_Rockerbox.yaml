@@ -1,0 +1,58 @@
+company:
+  name: DoubleVerify
+  stage: Public
+  focus: Marketing intelligence and measurement
+  use_cases:
+  - Marketing attribution insights and analysis
+  - Anomaly detection for marketing performance
+  - Content summarization and classification
+  - Automated marketing recommendations
+  - AI-driven workflow automation to reduce manual tasks
+  - Decisioning engines for marketing intelligence
+position:
+  title: Staff AI Data Engineer -  Rockerbox
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including fine-
+      tuning, optimization, RAG implementation, and building AI
+      agents/automations. The engineer will directly architect
+      data systems for AI agents and apply model-tuning techniques
+      to optimize LLMs for specific marketing tasks.
+  responsibilities:
+  - Apply AI theory to design and implement large-scale data systems that feed AI
+    agents and autonomous workflows
+  - Fine-tune, evaluate, and optimize LLMs for marketing tasks including attribution
+    insights, anomaly detection, summarization, classification, and recommendations
+  - Build end-to-end automations using LLMs, internal data, and external signals to
+    eliminate repetitive human tasks
+  - Design retrieval, orchestration, and memory layers that make AI agents smarter
+    over time
+  - Establish best practices for AI data quality, observability, experiments, and
+    safety
+  - Lead R&D initiatives including rapid prototyping, experimentation, model evaluations,
+    and productionization
+  - Mentor data scientists and engineers on LLM use across the organization
+  use_cases:
+  - Marketing attribution insights and analysis
+  - Anomaly detection for marketing performance
+  - Content summarization and classification
+  - Automated marketing recommendations
+  - AI-driven workflow automation to reduce manual tasks
+  - Decisioning engines for marketing intelligence
+  skills:
+    genai: [OpenAI, RAG, agent orchestration, LLMs, retrieval systems]
+    ml: [fine-tuning, embeddings, model evaluation, experimentation, model optimization]
+    web: []
+    databases: [vector stores]
+    data: [data pipelines]
+    cloud: []
+    ops: [distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7013913'
+  extracted_at: '2026-02-05T10:05:32.253161'

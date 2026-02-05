@@ -1,0 +1,66 @@
+company:
+  name: Genies
+  stage: Series C+ (well-funded, $200M raised)
+  focus: |-
+    AI avatar technology and user-generated content platform for
+    digital experiences
+  use_cases:
+  - AI avatar generation and customization for digital identity
+  - 3D asset and mesh synthesis for avatar creation
+  - User-generated content platform for avatar ecosystems
+  - Social gaming experiences powered by AI avatars
+  - Digital self-expression and identity representation
+  - Cross-platform avatar interoperability
+position:
+  title: 'Machine Learning Engineer Intern: 3D Generative AI (Q1 2026)'
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role is hands-on ML focused on 3D computer vision and
+      generative models for avatar creation. The role involves
+      designing, training, fine-tuning, and deploying ML models
+      using PyTorch/TensorFlow for 3D asset synthesis, mesh
+      generation, and graphics. While it works with AI for content
+      generation, it's centered on traditional ML/DL frameworks
+      and computer graphics rather than LLMs or agents, making it
+      ml-first.
+  responsibilities:
+  - Collaborate with R&D and Application teams to integrate AI/ML solutions into avatar
+    creation ecosystem using 3D computer vision and computer graphics techniques
+  - Design, train, fine-tune, accelerate, optimize, and deploy ML models and technical
+    frameworks for 3D asset production
+  - Utilize computer graphics pipelines, computational geometry, and 3D principles
+    to synthesize meshes, images, and motion
+  - Implement white paper concepts to develop user-facing creative technologies and
+    tools
+  - Manage ML framework resources and infrastructure including dataset management,
+    cloud computing, experiment tracking, and model deployment
+  - Partner with Product and Creative teams to refine AI/ML-powered creation tools
+    and interfaces
+  - Communicate technical decisions and project updates to cross-functional stakeholders
+  - Stay up-to-date on emerging AI technologies and advise on strategic integration
+  use_cases:
+  - AI avatar generation and customization for digital identity
+  - 3D asset and mesh synthesis for avatar creation
+  - User-generated content platform for avatar ecosystems
+  - Social gaming experiences powered by AI avatars
+  - Digital self-expression and identity representation
+  - Cross-platform avatar interoperability
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Multimodal Training, Model Training, Fine-tuning]
+    web: []
+    databases: []
+    data: [Data Pipelines]
+    cloud: []
+    ops: [Model Deployment, Distributed Training, Experiment Tracking, Model Versioning]
+    languages: [Python]
+    domains: [3D Computer Vision, Computer Graphics, Computational Geometry, Neural
+        Radiance Fields, Gaussian Splatting, Volumetric Differentiable Rendering,
+      Neural Rendering, Novel View Synthesis]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7901562'
+  extracted_at: '2026-02-05T18:55:12.580422'

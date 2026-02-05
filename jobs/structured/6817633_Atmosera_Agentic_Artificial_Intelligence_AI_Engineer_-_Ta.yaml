@@ -1,0 +1,64 @@
+company:
+  name: Atmosera
+  stage: null
+  focus: Microsoft cloud and AI solutions consultancy
+  use_cases:
+  - Transforming business workflows through intelligent automation using Microsoft
+    365 Copilot agents
+  - Automating enterprise system integrations with Microsoft 365 apps (Teams, Outlook,
+    Excel)
+  - Deploying secure and compliant AI agents for business process optimization
+  - Financial services workflows, audits, and data research automation
+  - Measuring ROI through value stream mapping and performance tracking
+position:
+  title: Agentic Artificial Intelligence (AI) Engineer - Talent Pipeline (Remote -
+    US)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying agentic AI
+      solutions using Microsoft 365 Copilot and Copilot Studio.
+      The engineer designs and implements custom agents,
+      integrates with enterprise APIs, and works directly on agent
+      chaining, orchestration, and autonomous agent design.
+  responsibilities:
+  - Collaborate with business stakeholders to identify, prioritize, and document high-impact
+    agentic AI use cases
+  - Design and implement Copilot Studio agents (declarative and custom) that integrate
+    with Microsoft 365 apps and enterprise systems
+  - Lead technical readiness assessments including API validation, data model alignment,
+    and integration feasibility
+  - Develop and deploy pilot agents aligned with business workflows and success metrics
+  - Ensure secure and compliant agent development by working with InfoSec, Legal,
+    and Risk teams to define guardrails and data access policies
+  - Support change management efforts including training, documentation, and knowledge
+    transfer to internal teams
+  - Contribute to the creation of reusable development patterns and performance monitoring
+    frameworks for future agent deployments
+  - Participate in envisioning sessions, co-development sprints, and stakeholder demos
+    to drive adoption and executive alignment
+  use_cases:
+  - Transforming business workflows through intelligent automation using Microsoft
+    365 Copilot agents
+  - Automating enterprise system integrations with Microsoft 365 apps (Teams, Outlook,
+    Excel)
+  - Deploying secure and compliant AI agents for business process optimization
+  - Financial services workflows, audits, and data research automation
+  - Measuring ROI through value stream mapping and performance tracking
+  skills:
+    genai: [Copilot Studio, Microsoft 365 Copilot, agents, agent chaining, agent orchestration,
+      autonomous agent design]
+    ml: []
+    web: [Power Apps, REST APIs, OAuth2, API gateways]
+    databases: [Dataverse]
+    data: [Kafka]
+    cloud: [Power Platform, Azure, Microsoft Fabric, AWS Queues]
+    ops: [Power Automate]
+    languages: [C#]
+    domains: [data governance, compliance frameworks]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6817633'
+  extracted_at: '2026-02-05T09:54:35.445597'

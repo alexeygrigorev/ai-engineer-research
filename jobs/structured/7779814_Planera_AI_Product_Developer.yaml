@@ -1,0 +1,48 @@
+company:
+  name: Planera
+  stage: null
+  focus: AI-powered construction planning and scheduling
+  use_cases:
+  - AI-powered agentic workflows for construction planning and scheduling
+  - Autonomous agents for construction resource allocation and optimization
+  - Conversational AI interfaces for construction teams
+  - Intelligent automation systems for project management workflows
+position:
+  title: AI Product Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and implementing
+      agentic AI workflows, autonomous agents, and conversational
+      interfaces. The role requires hands-on experience with LLMs,
+      prompt engineering, and deploying agentic chat systems to
+      production, which are core AI development activities.
+  responsibilities:
+  - Design and implement agentic AI workflows for construction automation
+  - Build intelligent agents for scheduling, resource allocation, and project optimization
+  - Develop conversational interfaces and prompt engineering solutions
+  - Create robust backend services in Python/Golang to support AI features
+  - Integrate LLMs and AI APIs into construction workflows
+  - Build scalable APIs for complex construction project data
+  - Collaborate with frontend team to deliver seamless AI experiences
+  use_cases:
+  - AI-powered agentic workflows for construction planning and scheduling
+  - Autonomous agents for construction resource allocation and optimization
+  - Conversational AI interfaces for construction teams
+  - Intelligent automation systems for project management workflows
+  skills:
+    genai: [LangChain, OpenAI/Anthropic APIs, prompt engineering, agents, RAG]
+    ml: []
+    web: [React, API design]
+    databases: [vector databases, PostgreSQL, SQL, NoSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Datadog]
+    languages: [Python, Golang, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7779814'
+  extracted_at: '2026-02-05T11:29:37.406534'

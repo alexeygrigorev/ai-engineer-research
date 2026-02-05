@@ -1,0 +1,56 @@
+company:
+  name: Smartly
+  stage: Series B+
+  focus: AI-powered advertising technology platform
+  use_cases:
+  - Help marketers optimize ad creatives including images, videos, and text
+  - Improve advertising campaign performance using ML-based solutions
+  - Generate and manage billions of ad creatives annually across media platforms
+  - Analyze structured performance data to enhance creative and media strategies
+  - Apply generative AI, computer vision, and NLP to advertising workflows
+position:
+  title: Senior Machine Learning Engineer (AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building ML-based software systems and
+      working directly with ML frameworks like PyTorch and
+      TensorFlow to power advertising experiences. The engineer
+      will work with diverse datasets (image, video, audio, text)
+      and productionize AI/ML applications, indicating hands-on
+      model development and deployment rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Build ML-based software systems that enable users to craft advertising experiences
+    and campaigns
+  - Work with large span of datasets including image, video, audio, text, and structured
+    performance data
+  - Contribute to and strengthen Smartly's MLOps and data platform to productionize
+    AI/ML applications
+  - Work with stakeholders across product, engineering, and infrastructure to meet
+    customer needs
+  - Translate business and product needs into viable ML solutions
+  - Stay up to date with latest ML innovations in generative AI, computer vision,
+    NLP and explainability
+  use_cases:
+  - Help marketers optimize ad creatives including images, videos, and text
+  - Improve advertising campaign performance using ML-based solutions
+  - Generate and manage billions of ad creatives annually across media platforms
+  - Analyze structured performance data to enhance creative and media strategies
+  - Apply generative AI, computer vision, and NLP to advertising workflows
+  skills:
+    genai: [generative AI]
+    ml: [PyTorch, TensorFlow, feature engineering, model evaluation]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, GCP]
+    ops: [MLflow, Kubeflow, model monitoring]
+    languages: [Python, C++, Java]
+    domains: [computer vision, NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7472570'
+  extracted_at: '2026-02-05T10:58:25.256476'

@@ -1,0 +1,57 @@
+company:
+  name: TriEdge Investments
+  stage: null
+  focus: |-
+    AI-native asset management platform for healthcare
+    facilities and real estate
+  use_cases:
+  - Real-time visibility and observability into asset performance, deal progress,
+    and market conditions
+  - AI-driven multidimensional optimization with risk scores, tax strategies, and
+    benchmarking
+  - Automated workflows and orchestration to eliminate inefficiencies in asset management
+  - Intelligent data extraction and analysis for healthcare facilities and multifamily
+    real estate
+  - Agentic systems for complex financial workflow automation and decision support
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building cutting-edge AI agents
+      and working with LLM APIs. The key engineering challenges
+      center on agentic information retrieval, structured data
+      extraction from unstructured data, and synthesizing data
+      using AI technologies.
+  responsibilities:
+  - Build cutting-edge AI agents for asset management workflows
+  - Translate customer needs and product requirements into software solutions
+  - Extract structured data from unstructured data at large scale with high accuracy
+  - Implement agentic information retrieval over structured and unstructured data
+  - Synthesize structured and unstructured data into actionable business insights
+  - Collaborate with leadership team, product manager, and designer on product development
+  use_cases:
+  - Real-time visibility and observability into asset performance, deal progress,
+    and market conditions
+  - AI-driven multidimensional optimization with risk scores, tax strategies, and
+    benchmarking
+  - Automated workflows and orchestration to eliminate inefficiencies in asset management
+  - Intelligent data extraction and analysis for healthcare facilities and multifamily
+    real estate
+  - Agentic systems for complex financial workflow automation and decision support
+  skills:
+    genai: [AI agents, LLM APIs, agentic information retrieval]
+    ml: []
+    web: [React, Next.js]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7106001'
+  extracted_at: '2026-02-05T10:18:04.946807'

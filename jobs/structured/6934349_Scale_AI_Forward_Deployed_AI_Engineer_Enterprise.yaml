@@ -1,0 +1,71 @@
+company:
+  name: Scale AI
+  stage: Public
+  focus: |-
+    Data foundation for AI, enterprise AI solutions, data
+    annotation platform
+  use_cases:
+  - Deep research agents for due diligence that perform multi-agent fact-checking
+    and process complex unstructured data
+  - Churn prediction models with personalized offer curation integrated into copilot
+    systems for call centers
+  - Voice agents with avatars for gathering unstructured health information in healthcare
+    settings
+  - Customer support automation using AI agents to handle routine inquiries and workflow
+    automation
+  - Data analysis and content generation agents tailored to specific enterprise domains
+  - Human-in-the-loop workflows for continuous agent improvement and feedback collection
+position:
+  title: Forward Deployed AI Engineer, Enterprise
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer who builds, deploys,
+      and optimizes AI agents and LLM-based solutions for
+      enterprise customers. The role involves hands-on development
+      of multi-agent systems, RAG implementations, prompt
+      engineering, and fine-tuning pipelines - directly working ON
+      AI models and agents rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Partner directly with enterprise customers to understand their technical infrastructure,
+    data pipelines, and business requirements
+  - Design and implement custom integrations between Scale AI's platform and customer
+    data environments
+  - Develop production-grade AI agents tailored to customer use cases across various
+    domains
+  - Architect multi-agent systems that orchestrate between different models, tools,
+    and data sources
+  - Implement RAG systems and fine-tuning pipelines for customer-specific domains
+  - Create and maintain prompt engineering strategies, libraries, and best practices
+  - Build evaluation frameworks to measure agent performance and iterate toward business
+    objectives
+  - Serve as the primary technical point of contact for strategic enterprise accounts
+  use_cases:
+  - Deep research agents for due diligence that perform multi-agent fact-checking
+    and process complex unstructured data
+  - Churn prediction models with personalized offer curation integrated into copilot
+    systems for call centers
+  - Voice agents with avatars for gathering unstructured health information in healthcare
+    settings
+  - Customer support automation using AI agents to handle routine inquiries and workflow
+    automation
+  - Data analysis and content generation agents tailored to specific enterprise domains
+  - Human-in-the-loop workflows for continuous agent improvement and feedback collection
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, RAG, prompt engineering, AI agents,
+      multi-agent systems, MCP tools]
+    ml: [HuggingFace, fine-tuning, embeddings]
+    web: [REST APIs]
+    databases: [vector databases, semantic search]
+    data: [ETL pipelines, data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Terraform, Infrastructure as Code]
+    languages: [Python]
+    domains: []
+    other: [system design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6934349'
+  extracted_at: '2026-02-05T10:02:42.210678'

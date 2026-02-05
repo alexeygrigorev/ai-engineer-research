@@ -1,0 +1,59 @@
+company:
+  name: Reflex Robotics
+  stage: Series A
+  focus: |-
+    Affordable wheeled humanoid robots for manufacturing and
+    logistics automation
+  use_cases:
+  - Automating dangerous and repetitive tasks in manufacturing and logistics
+  - Loading items into boxes and containers with high precision
+  - Lifting and moving heavy objects (e.g., 40 lb bags) in retail settings
+  - Real-time teleoperation system allowing remote control of robots
+  - Collecting high-quality demonstrations at scale for training
+  - Achieving 99.99% success rates for real-world robot deployments to ensure zero
+    errors
+position:
+  title: Principal AI Research Engineer - World Models
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on AI/ML work focused on building and
+      training world models (large-scale video/world models like
+      Sora/Veo) and turning them into controllable simulators for
+      robotics. The engineer will work directly on model
+      architecture, training, and evaluation - not supporting
+      infrastructure or data pipelines for others.
+  responsibilities:
+  - Architect and train large-scale video/world models (like Sora, Veo) for robotics
+    applications
+  - Turn generative models into controllable simulators with action-/state-conditioned
+    rollouts
+  - Build data and evaluation infrastructure for world modeling to quantify downstream
+    policy success
+  - Develop systems to achieve 99.99% success rates in real robot deployments
+  - Work with proprietary robotics datasets to train increasingly capable AI systems
+  - Contribute to the human-intervention + RL product feedback loop
+  use_cases:
+  - Automating dangerous and repetitive tasks in manufacturing and logistics
+  - Loading items into boxes and containers with high precision
+  - Lifting and moving heavy objects (e.g., 40 lb bags) in retail settings
+  - Real-time teleoperation system allowing remote control of robots
+  - Collecting high-quality demonstrations at scale for training
+  - Achieving 99.99% success rates for real-world robot deployments to ensure zero
+    errors
+  skills:
+    genai: [world models, video models, generative models]
+    ml: [PyTorch, reinforcement learning, model training, simulators]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6696292'
+  extracted_at: '2026-02-05T09:47:19.470546'

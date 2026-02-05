@@ -1,0 +1,59 @@
+company:
+  name: Arize AI
+  stage: Series C
+  focus: AI observability and evaluation platform
+  use_cases:
+  - Monitoring and observability for AI/LLM systems and agents
+  - Model evaluation metrics computation across billions of data points
+  - Real-time evaluation infrastructure handling millions of annotations per second
+  - Prompt engineering and agent development playgrounds
+  - Instrumentation APIs for ML and LLM-powered applications
+  - Dimensionality reduction and visualization for ML model insights
+position:
+  title: Senior AI Product Engineer, Backend
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building backend infrastructure, APIs, and
+      observability platforms for AI/ML systems - it's an enabler
+      role that supports AI engineers rather than directly
+      building, training, or deploying models. The engineer is
+      creating tools, databases, and monitoring systems that OTHER
+      teams use to work with AI/LLMs.
+  responsibilities:
+  - Write maintainable, scalable, and performant backend code primarily in Go, Java,
+    and Python, with opportunities to work in TypeScript
+  - Build high-volume and highly available analytics systems
+  - Design and build APIs specific to customers' Machine Learning and LLM workflows
+  - Prototype, optimize, and maintain scalable backend services that power the Arize
+    core platform
+  - Extend and contribute back to open source OLAP databases and distributed message
+    queue frameworks
+  - Develop and integrate collection tools for robust monitoring of ML and LLM pipelines
+  - Research and implement cutting-edge visualization & dimensionality reduction algorithms
+    in a distributed environment
+  - Collaborate with product, design, and customer engineering teams to enhance and
+    expand product offerings
+  use_cases:
+  - Monitoring and observability for AI/LLM systems and agents
+  - Model evaluation metrics computation across billions of data points
+  - Real-time evaluation infrastructure handling millions of annotations per second
+  - Prompt engineering and agent development playgrounds
+  - Instrumentation APIs for ML and LLM-powered applications
+  - Dimensionality reduction and visualization for ML model insights
+  skills:
+    genai: [LLMs]
+    ml: [dimensionality reduction]
+    web: [API design]
+    databases: [OLAP databases]
+    data: [Kafka]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Prometheus, distributed systems]
+    languages: [Go, Python, Java, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '3675427'
+  extracted_at: '2026-02-05T09:34:54.754423'

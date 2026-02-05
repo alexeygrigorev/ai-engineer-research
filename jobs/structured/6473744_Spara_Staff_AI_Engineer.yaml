@@ -1,0 +1,58 @@
+company:
+  name: Spara
+  stage: Series A
+  focus: Enterprise AI agents for sales lead conversion
+  use_cases:
+  - AI-powered sales agents that engage and qualify leads through human-level conversations
+  - Multi-modal lead conversion through chat, email, and voice interactions
+  - Personalized sales conversations that convert leads into pipeline and revenue
+  - Automated sales workflow that mimics human sales team operations
+  - Real-time lead engagement and qualification across multiple communication channels
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is explicitly focused on building AI agents and
+      engines that power intelligent sales conversations across
+      multiple modalities (chat, email, voice). The engineer will
+      be hands-on with prompt engineering, fine-tuning, and
+      orchestrating foundation models from OpenAI and Anthropic to
+      deliver personalized customer interactions.
+  responsibilities:
+  - Architect and build Spara's AI engine, powering seamless, intelligent interactions
+    across chat, email, voice, and beyond
+  - Define quantitative success criteria for Spara's behavior across multiple dimensions,
+    running online and offline evaluations to achieve and maintain best-in-class performance
+    and reliability
+  - Craft exceptional user experiences by prompt engineering, fine-tuning, and orchestrating
+    foundation models to deliver precise, engaging, and personalized interactions
+  - Operate with a high degree of autonomy while collaborating closely with leadership
+    to shape the product roadmap and technical vision
+  - Drive innovation by staying current with best practices and emerging trends in
+    AI application development
+  - Deliver outsized impact by deeply understanding customer needs and identifying
+    opportunities to be a force-multiplier across the team of experienced engineers
+  use_cases:
+  - AI-powered sales agents that engage and qualify leads through human-level conversations
+  - Multi-modal lead conversion through chat, email, and voice interactions
+  - Personalized sales conversations that convert leads into pipeline and revenue
+  - Automated sales workflow that mimics human sales team operations
+  - Real-time lead engagement and qualification across multiple communication channels
+  skills:
+    genai: [prompt engineering, fine-tuning, RAG, OpenAI API, Anthropic API, agents,
+      foundation models]
+    ml: [online/offline evaluation]
+    web: [FastAPI, React]
+    databases: [Postgres, pgvector]
+    data: []
+    cloud: [Google Cloud]
+    ops: [Docker, GitHub Actions]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6473744'
+  extracted_at: '2026-02-05T09:45:18.724129'

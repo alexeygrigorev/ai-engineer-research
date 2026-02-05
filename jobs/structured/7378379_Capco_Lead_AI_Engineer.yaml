@@ -1,0 +1,55 @@
+company:
+  name: Capco
+  stage: null
+  focus: Consulting for financial services digital transformation
+  use_cases:
+  - Autonomous AI systems with multi-modal capabilities for financial services
+  - Agentic workflows for AI agents interacting with enterprise data sources and APIs
+  - Generative AI solutions integrated into enterprise-scale financial systems
+  - MLOps pipelines for production-grade AI deployments in financial institutions
+  - Strategic GenAI adoption and implementation for Tier 1 financial institutions
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, fine-tuning, and
+      optimizing LLMs, multi-modal models, and agentic AI systems
+      directly. It requires hands-on experience with RAG, prompt
+      engineering, and deploying models at scale - all core ai-
+      first activities.
+  responsibilities:
+  - Architect and develop autonomous AI systems integrating multi-modal LLMs (text,
+    image, audio, video)
+  - Design agentic workflows enabling AI agents to interact with data sources and
+    APIs using prompt engineering and RAG
+  - Fine-tune, optimize, and deploy large language and multi-modal models with a focus
+    on performance and latency
+  - Build scalable MLOps pipelines and full-stack applications to support robust,
+    production-grade AI deployments
+  - Guide multidisciplinary teams and clients through strategic decisions in AI engineering
+    and GenAI adoption
+  - Drive impactful outcomes through advanced engineering, scalable pipelines, and
+    deep cross-functional collaboration
+  use_cases:
+  - Autonomous AI systems with multi-modal capabilities for financial services
+  - Agentic workflows for AI agents interacting with enterprise data sources and APIs
+  - Generative AI solutions integrated into enterprise-scale financial systems
+  - MLOps pipelines for production-grade AI deployments in financial institutions
+  - Strategic GenAI adoption and implementation for Tier 1 financial institutions
+  skills:
+    genai: [LangChain, LlamaIndex, prompt engineering, RAG]
+    ml: [fine-tuning, LLM deployment, multi-modal models, deep learning frameworks]
+    web: [backend development, API development, front-end development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, Langfuse, Langsmith, observability, cloud-native deployment]
+    languages: [Python]
+    domains: []
+    other: [Model Context Protocol]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7378379'
+  extracted_at: '2026-02-05T10:44:56.041880'

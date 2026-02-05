@@ -1,0 +1,59 @@
+company:
+  name: Xsolla
+  stage: null
+  focus: |-
+    Global commerce platform for video game developers -
+    funding, distribution, marketing, and monetization tools
+  use_cases:
+  - LLM-powered applications and platforms leveraging OpenAI, Anthropic, and Hugging
+    Face models
+  - Agentic systems with custom workflows for specific applications
+  - GenAI-powered features integrated into full-stack applications
+  - Context-aware AI experiences using vector databases for retrieval
+  - AI-powered SaaS products for gaming industry solutions
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building LLM-based features, agent
+      workflows, and agentic systems using frameworks like MCP.
+      The engineer will work directly with vector databases, AI
+      model endpoints (OpenAI, Anthropic, Hugging Face), and
+      context engineering - clearly building and deploying AI
+      systems rather than just supporting them.
+  responsibilities:
+  - Design and develop full-stack applications that power GenAI applications and platforms
+  - Develop and maintain frontend applications using Next.js with API routes and responsive
+    UI components
+  - Build APIs and infrastructure to support LLM-based features, tools, and agent
+    workflows
+  - Work with vector databases, data pipelines, and AI model endpoints from OpenAI,
+    Anthropic, and Hugging Face
+  - Optimize backend systems for performance, scalability, and reliability while maintaining
+    production-grade code
+  - Collaborate with frontend, ML, and product teams to create seamless AI experiences
+  use_cases:
+  - LLM-powered applications and platforms leveraging OpenAI, Anthropic, and Hugging
+    Face models
+  - Agentic systems with custom workflows for specific applications
+  - GenAI-powered features integrated into full-stack applications
+  - Context-aware AI experiences using vector databases for retrieval
+  - AI-powered SaaS products for gaming industry solutions
+  skills:
+    genai: [OpenAI, Anthropic, Hugging Face, MCP, Agentic systems, agent orchestration
+        frameworks, context engineering]
+    ml: []
+    web: [Next.js, Tailwind CSS, Shadcn, REST APIs, microservices]
+    databases: [vector databases]
+    data: [data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7521540'
+  extracted_at: '2026-02-05T11:03:49.196854'

@@ -1,0 +1,67 @@
+company:
+  name: Cority
+  stage: Public
+  focus: Enterprise EHS SaaS platform
+  use_cases:
+  - Research agents for automated information gathering and analysis
+  - Coding assistants and developer productivity tools
+  - Conversational AI agents for voice and text interactions
+  - Workflow automation bots for operational efficiency
+  - Analytics agents for data processing and insights generation
+  - Scheduling agents for task and resource management
+position:
+  title: Staff AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building,
+      deploying, and optimizing AI agents and agentic systems. The
+      responsibilities include direct work with LLMs, RAG
+      implementations, agent frameworks (LangChain, LlamaIndex),
+      and end-to-end model deployment - not just infrastructure or
+      support for AI teams.
+  responsibilities:
+  - Design, build, and ship agentic workflows across multiple domains including research
+    agents, coding assistants, conversational agents, reasoning agents, scheduling
+    agents, analytics agents, and workflow automation bots
+  - Own the end-to-end lifecycle from data ingestion through reasoning, action taking,
+    evaluation, and monitoring
+  - Build multi-step agents capable of autonomous planning, context tracking, memory,
+    tool use, and API orchestration using modern agent stacks
+  - Architect robust retrieval pipelines (RAG), vector embeddings, caching layers,
+    and knowledge grounding systems
+  - Deploy agents as microservices with proper observability, evaluations, guardrails,
+    and fallbacks while optimizing inference cost, latency, accuracy, and task-completion
+    rates
+  - Drive technical and architectural decisions to meet product requirements while
+    anticipating and designing for future needs
+  - Mentor junior developers and participate in code reviews to ensure high-quality
+    software development
+  - Communicate directly with Product Owners to ensure requirements and specifications
+    are understood and properly implemented
+  use_cases:
+  - Research agents for automated information gathering and analysis
+  - Coding assistants and developer productivity tools
+  - Conversational AI agents for voice and text interactions
+  - Workflow automation bots for operational efficiency
+  - Analytics agents for data processing and insights generation
+  - Scheduling agents for task and resource management
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI Assistants, MCP (Model Context Protocol),
+      RAG, agents, function calling, prompt engineering, OpenAI API, Anthropic API,
+      Gemini, Llama]
+    ml: []
+    web: [Web APIs, Microservices]
+    databases: [Pinecone, Weaviate, Chroma, PGVector, Postgres, SQL Server, MongoDB,
+      Entity Framework, Dapper]
+    data: [SQS, Google Queues, RabbitMQ, Kafka]
+    cloud: [AWS, Azure]
+    ops: [CI/CD, Docker]
+    languages: [Python, .NET Core, .NET Framework, Node, C#, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8364892'
+  extracted_at: '2026-02-05T12:59:54.235038'

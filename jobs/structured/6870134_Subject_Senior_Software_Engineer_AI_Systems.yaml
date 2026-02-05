@@ -1,0 +1,57 @@
+company:
+  name: Subject
+  stage: Series B
+  focus: AI-powered education platform for personalized learning
+  use_cases:
+  - Automated grading of student assignments with real-time feedback
+  - Personalized learning experiences adapted to individual student needs
+  - Teacher insights and performance analytics dashboards
+  - Data synthesis and analysis for educational content
+  - Student engagement tools powered by generative AI
+  - Human-in-the-loop decision flows for educational assessment
+position:
+  title: Senior Software Engineer, AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      agents using LLMs, LangChain, and vector databases. The
+      engineer will implement multi-step agent orchestration,
+      human-in-the-loop workflows, and optimize agentic AI systems
+      directly for education use cases.
+  responsibilities:
+  - Drive agentic AI infrastructure for grading, data synthesis, and student feedback
+    systems
+  - Implement and optimize AI agents using LangChain, semantic search, vector databases,
+    and OpenAI APIs
+  - Design orchestrators for multi-step, human-in-the-loop workflows
+  - Architect scalable APIs, pipelines, and infrastructure for LLM interaction and
+    grading workflows
+  - Write production-level code across full stack (Next.js, TypeScript frontend, Node.js,
+    Postgres backend)
+  - Champion engineering standards while mentoring mid-level engineers and building
+    team culture
+  use_cases:
+  - Automated grading of student assignments with real-time feedback
+  - Personalized learning experiences adapted to individual student needs
+  - Teacher insights and performance analytics dashboards
+  - Data synthesis and analysis for educational content
+  - Student engagement tools powered by generative AI
+  - Human-in-the-loop decision flows for educational assessment
+  skills:
+    genai: [LangChain, OpenAI API, Claude API, Gemini API, prompt engineering, agents,
+      RAG]
+    ml: []
+    web: [Next.js, React, Node.js]
+    databases: [Pinecone, Weaviate, vector databases, Postgres]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD, Vercel]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6870134'
+  extracted_at: '2026-02-05T09:56:35.291062'

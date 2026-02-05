@@ -1,0 +1,67 @@
+company:
+  name: Ovative Group
+  stage: null
+  focus: Full-funnel media measurement and MarTech platform
+  use_cases:
+  - Enterprise analytics platform that provides AI-driven insights and recommendations
+    from complex datasets
+  - RAG-based system for querying business intelligence data and documentation with
+    semantic search capabilities
+  - Integration with business tools (Confluence, Slack, EMRge) to surface insights
+    through familiar user interfaces
+  - Marketing measurement and media optimization through holistic data analysis and
+    AI-powered recommendations
+position:
+  title: Lead Engineer, AI & Business Intelligence
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical role responsible for building
+      and deploying a Retrieval-Augmented Generation (RAG) system
+      from scratch. The engineer will directly implement AI
+      components including document ingestion, vector databases,
+      semantic modeling, and orchestration of model interactions -
+      not just supporting infrastructure.
+  responsibilities:
+  - Serve as the technical owner of Ovative's RAG-based AI Analytics Platform, leading
+    the system from initial design through production use
+  - Partner with Product Management to translate ambiguous business questions into
+    clear platform capabilities, framing technical tradeoffs and business outcomes
+  - Design and build new platform components including document ingestion and storage
+    services, indexing and vector database capabilities, semantic layer abstractions,
+    and orchestration logic
+  - Lead integrations with enterprise systems including authentication/authorization
+    (SSO, entitlements), knowledge sources (Confluence, internal file stores), and
+    user interfaces (Slack, EMRge, BI tools)
+  - Apply established RAG and AI analytics patterns to prevent hallucinations, enforce
+    business logic, and ensure traceability of answers
+  - Follow technical standards for AI safety, access control, observability, and cost
+    management
+  - Break down complex platform initiatives into sequenced work that a small engineering
+    team can execute effectively
+  - Mentor other engineers by transferring context and patterns as the platform matures
+  use_cases:
+  - Enterprise analytics platform that provides AI-driven insights and recommendations
+    from complex datasets
+  - RAG-based system for querying business intelligence data and documentation with
+    semantic search capabilities
+  - Integration with business tools (Confluence, Slack, EMRge) to surface insights
+    through familiar user interfaces
+  - Marketing measurement and media optimization through holistic data analysis and
+    AI-powered recommendations
+  skills:
+    genai: [RAG, embeddings, semantic modeling]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: [Databricks]
+    cloud: [AWS, GCP, Azure]
+    ops: [SSO]
+    languages: [Python, SQL]
+    domains: []
+    other: [Confluence, Slack]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8255376'
+  extracted_at: '2026-02-05T12:25:09.804857'

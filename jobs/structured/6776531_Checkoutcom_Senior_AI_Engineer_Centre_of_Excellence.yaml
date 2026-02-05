@@ -1,0 +1,57 @@
+company:
+  name: Checkout.com
+  stage: Public
+  focus: Global digital payment processing platform
+  use_cases:
+  - AI-powered chatbots and virtual assistants for internal and external users
+  - Knowledge extraction tools to process and retrieve information from documents
+  - AI-integrated workflows for internal and external business processes
+  - AI-driven features embedded in payment processing products and services
+  - Intelligent interfaces enabling teams to interact with AI capabilities
+position:
+  title: Senior AI Engineer, Centre of Excellence
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, fine-tuning, and
+      deploying LLM-based applications including chatbots,
+      assistants, and knowledge extraction tools. This directly
+      involves working with generative AI models and frameworks
+      rather than just supporting infrastructure or data
+      pipelines.
+  responsibilities:
+  - Partner with product managers, data scientists, and engineers to research, validate,
+    and deliver high-impact Generative AI use cases
+  - Design and build APIs and microservices that integrate AI capabilities into internal
+    and external workflows
+  - Develop, fine-tune, and deploy LLM-based applications including chatbots, assistants,
+    and knowledge extraction tools
+  - Architect scalable AI infrastructure on cloud platforms leveraging containerisation
+    and Infrastructure-as-Code
+  - Implement CI/CD pipelines and enforce best practices for secure, compliant AI
+    deployment
+  - Build intuitive interfaces that enable teams to interact effectively with AI-driven
+    features
+  - Continuously optimize performance, reliability, and scalability of AI systems
+  use_cases:
+  - AI-powered chatbots and virtual assistants for internal and external users
+  - Knowledge extraction tools to process and retrieve information from documents
+  - AI-integrated workflows for internal and external business processes
+  - AI-driven features embedded in payment processing products and services
+  - Intelligent interfaces enabling teams to interact with AI capabilities
+  skills:
+    genai: ['LLMs (GPT, BERT, Llama, Gemini)', LangChain, PydanticAI]
+    ml: [model fine-tuning]
+    web: [RESTful APIs, microservices design, React]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Terraform, CI/CD pipelines]
+    languages: [Python, JavaScript, TypeScript, C#, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6776531'
+  extracted_at: '2026-02-05T09:52:36.353785'

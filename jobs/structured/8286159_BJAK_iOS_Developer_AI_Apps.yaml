@@ -1,0 +1,51 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Proactive AI system for daily user workflows
+  use_cases:
+  - Proactive AI system that users rely on daily
+  - AI interactions across conversations, tools, and workflows
+  - Streaming AI responses in mobile applications
+  - On-device ML inference using TensorFlow Lite
+position:
+  title: iOS Developer, AI Apps
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an iOS Developer role focused on building mobile
+      applications that consume AI through backend APIs. The role
+      involves UI/UX design for AI interactions and integrating AI
+      features, but does not include building, training, fine-
+      tuning, or deploying models - that work is done by backend
+      and ML engineers.
+  responsibilities:
+  - Build and maintain iOS applications using Swift and SwiftUI
+  - Integrate AI-powered features through backend APIs
+  - Design UX patterns for AI interactions including loading states, streaming responses,
+    retries, and fallbacks
+  - Optimize performance, memory usage, and battery efficiency
+  - Capture user signals and feedback to support AI evaluation and iteration
+  - Collaborate with backend and ML engineers on API design and system behavior
+  - Maintain high App Store quality, stability, and production reliability
+  use_cases:
+  - Proactive AI system that users rely on daily
+  - AI interactions across conversations, tools, and workflows
+  - Streaming AI responses in mobile applications
+  - On-device ML inference using TensorFlow Lite
+  skills:
+    genai: []
+    ml: [TensorFlow Lite, CoreML]
+    web: [SwiftUI]
+    databases: [SQL, noSQL]
+    data: []
+    cloud: []
+    ops: [background tasks, performance optimization, memory optimization, feature
+        flags]
+    languages: [Swift, async/await]
+    domains: []
+    other: [SPM, concurrency]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8286159'
+  extracted_at: '2026-02-05T12:36:24.922150'

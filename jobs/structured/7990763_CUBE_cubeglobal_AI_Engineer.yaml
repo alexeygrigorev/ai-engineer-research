@@ -1,0 +1,53 @@
+company:
+  name: CUBE (cube.global)
+  stage: Public
+  focus: Regulatory intelligence and compliance SaaS
+  use_cases:
+  - High cardinality hierarchical classification of regulatory documents
+  - Personalized content filtering of legal and regulatory documents
+  - Networking heterogeneous text data at scale using ML/LLMs
+  - Agent-based knowledge graph insights for regulatory intelligence
+  - LLM-powered features for regulatory compliance automation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building LLM-driven features, agent-ready
+      tools for knowledge graphs, and deploying production ML/LLM
+      solutions. Hands-on work with recommender systems, NLP
+      solutions, and agentic AI implementations directly on AI
+      systems, not just support infrastructure.
+  responsibilities:
+  - Develop, improve and productionise ML and LLM-based features for internal and
+    external platforms including high cardinality hierarchical classifications and
+    personalized content filtering
+  - Build agent-ready tools to leverage insights from knowledge graphs using ML/LLMs
+  - Leverage Azure cloud architecture to deploy interpretable ML/DL solutions that
+    scale efficiently
+  - Collaborate with SMEs to ground research proposals on dynamic, unstructured, high-dimensional
+    data
+  - Innovate and apply the latest research to new products and services in regulatory
+    compliance
+  use_cases:
+  - High cardinality hierarchical classification of regulatory documents
+  - Personalized content filtering of legal and regulatory documents
+  - Networking heterogeneous text data at scale using ML/LLMs
+  - Agent-based knowledge graph insights for regulatory intelligence
+  - LLM-powered features for regulatory compliance automation
+  skills:
+    genai: [LLMs, agents, neurosymbolic AI]
+    ml: [NLP, recommender systems, machine learning, deep learning]
+    web: [software architecture]
+    databases: [NoSQL databases, graph databases]
+    data: [knowledge graphs]
+    cloud: [Azure]
+    ops: [cloud-based ML engineering]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7990763'
+  extracted_at: '2026-02-05T11:46:41.897701'

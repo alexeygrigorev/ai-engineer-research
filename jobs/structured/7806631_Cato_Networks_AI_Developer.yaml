@@ -1,0 +1,55 @@
+company:
+  name: Cato Networks
+  stage: Series B+ (growth stage, SASE market leader)
+  focus: Cloud networking and security platform, SASE
+  use_cases:
+  - Customer success agents for enhanced customer support and engagement
+  - HR process automation to streamline HR workflows and operations
+  - Sales optimization through AI-driven insights and recommendations
+  - Cross-departmental process improvement using custom AI solutions
+  - Data-driven business intelligence and actionable insights generation
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires designing, developing, and deploying AI-
+      based solutions including customer success agents, HR
+      process automation, and sales optimization. The
+      responsibilities explicitly mention building workflows,
+      agents, and ML pipelines, which is hands-on work with AI
+      systems.
+  responsibilities:
+  - Collaborate with stakeholders across global teams to identify opportunities where
+    AI can enhance business processes
+  - Perform deep research and analysis on organizational data to understand its structure,
+    quality, biases, and limitations
+  - Design, develop, and deploy AI-based solutions tailored to organizational needs
+    including customer success agents, HR process automation, and sales optimization
+  - Build workflows, agents, and ML pipelines, ensuring solutions are reliable, scalable,
+    and production-ready
+  - Integrate diverse data sources and leverage multiple data types to create actionable
+    insights
+  - Work closely with business units' management to address specific operational challenges
+  use_cases:
+  - Customer success agents for enhanced customer support and engagement
+  - HR process automation to streamline HR workflows and operations
+  - Sales optimization through AI-driven insights and recommendations
+  - Cross-departmental process improvement using custom AI solutions
+  - Data-driven business intelligence and actionable insights generation
+  skills:
+    genai: [AI frameworks, agents]
+    ml: [ML workflows]
+    web: []
+    databases: []
+    data: [data integration, ML pipelines, data analysis]
+    cloud: [cloud platforms]
+    ops: [MLOps, workflow orchestration tools]
+    languages: [Python]
+    domains: []
+    other: [process automation tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7806631'
+  extracted_at: '2026-02-05T11:32:19.978686'

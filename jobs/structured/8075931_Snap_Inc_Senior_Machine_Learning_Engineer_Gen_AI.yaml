@@ -1,0 +1,54 @@
+company:
+  name: Snap Inc.
+  stage: Public
+  focus: Camera and visual communication platform with AR experiences
+  use_cases:
+  - Image and video generation for AR Lenses in Snapchat
+  - Augmented reality experiences powered by generative models
+  - Consumer-facing GenAI products for millions of daily users
+  - AI-powered editing and creation tools for visual content
+  - LLM integration for interactive camera experiences
+position:
+  title: Senior Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying generative AI
+      models including diffusion/flow matching models, GANs, and
+      LLMs for image and video generation. The engineer directly
+      works on developing GenAI products and AI Lenses that serve
+      millions of users, with hands-on responsibilities for model
+      evaluation, integration, and deployment.
+  responsibilities:
+  - Develop ML-products and AI Lenses serving millions of Snapchatters with focus
+    on image/video generation and LLMs
+  - Build cutting-edge AR experiences using diffusion/flow matching models and GANs
+  - Work on state-of-the-art GenAI pipelines for image and video generation
+  - Collaborate with Product, Software Engineering, Lens Content and Data Science
+    teams to prototype and integrate ML models into production
+  - Monitor GenAI market and research landscape, evaluating open-source models and
+    third-party AI APIs/services
+  - Make build-vs-buy decisions and leverage best available tools to keep products
+    cutting-edge
+  use_cases:
+  - Image and video generation for AR Lenses in Snapchat
+  - Augmented reality experiences powered by generative models
+  - Consumer-facing GenAI products for millions of daily users
+  - AI-powered editing and creation tools for visual content
+  - LLM integration for interactive camera experiences
+  skills:
+    genai: [diffusion models, flow matching models, GANs, LLMs]
+    ml: [deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++]
+    domains: [image generation, video generation, neural rendering, computer graphics]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8075931'
+  extracted_at: '2026-02-05T11:58:28.685879'

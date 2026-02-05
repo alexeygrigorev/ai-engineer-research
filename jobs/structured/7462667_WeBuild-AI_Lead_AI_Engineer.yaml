@@ -1,0 +1,57 @@
+company:
+  name: WeBuild-AI
+  stage: null
+  focus: AI-powered enterprise transformation and AI consulting
+  use_cases:
+  - Transforming enterprise organizations into AI-powered and data-driven businesses
+  - Reinventing how enterprises design, build, and operate AI-powered software at
+    scale
+  - Revolutionizing entire business processes through AI pattern discovery
+  - Solving complex enterprise challenges with cutting-edge AI approaches
+  - Delivering 10x value through high-impact AI applications
+  - Deploying industry-aligned language models and agents in enterprise environments
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, developing, and deploying AI
+      solutions using cutting-edge language models and agent
+      frameworks. The engineer directly builds AI applications
+      that transform client businesses, working hands-on with
+      models and discovering new AI implementation patterns.
+  responsibilities:
+  - Design, develop, and deploy innovative AI solutions that transform client businesses
+  - Leverage cutting-edge language models, agent frameworks, and proprietary Pathway
+    platform
+  - Create high-impact AI applications that deliver 10x value for enterprise organizations
+  - Experiment with and discover new ways AI can solve complex enterprise challenges
+  - Develop novel implementation approaches and intellectual property
+  - Contribute to the evolution of proprietary AI methodology and Pathway platform
+  - Participate in AI research community and establish thought leadership
+  - Work across multiple industries to develop deep domain expertise
+  use_cases:
+  - Transforming enterprise organizations into AI-powered and data-driven businesses
+  - Reinventing how enterprises design, build, and operate AI-powered software at
+    scale
+  - Revolutionizing entire business processes through AI pattern discovery
+  - Solving complex enterprise challenges with cutting-edge AI approaches
+  - Delivering 10x value through high-impact AI applications
+  - Deploying industry-aligned language models and agents in enterprise environments
+  skills:
+    genai: [language models, agent frameworks, OpenAI/Anthropic APIs, RAG, agents,
+      prompt engineering, AI research]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7462667'
+  extracted_at: '2026-02-05T10:56:29.931992'

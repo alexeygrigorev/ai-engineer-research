@@ -1,0 +1,61 @@
+company:
+  name: AssemblyAI
+  stage: Series C
+  focus: Speech AI models and voice applications
+  use_cases:
+  - Voice agents and virtual assistants powered by speech recognition
+  - Meeting assistants and transcription services for collaboration tools
+  - Contact center solutions for real-time speech processing and analytics
+  - Medical scribes for healthcare documentation and record-keeping
+  - Real-time streaming applications with low-latency speech-to-text processing
+  - Multilingual speech recognition and understanding for global applications
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing technical role that involves
+      helping customers implement and integrate AssemblyAI's
+      Speech AI models, but does not involve building, training,
+      fine-tuning, or deploying models. The role focuses on
+      technical support, building demos, troubleshooting API
+      issues, and acting as a liaison between customers and the
+      engineering/research teams.
+  responsibilities:
+  - Guide customers through the entire product journey from onboarding to production
+    deployment and ongoing support
+  - Build custom demos, prototypes, and proofs-of-concept showcasing Speech AI applications
+    for customer use cases
+  - Lead technical discovery sessions and provide architecture guidance for integrating
+    Speech AI APIs
+  - Troubleshoot production issues for customers using streaming and async APIs across
+    various programming languages
+  - Assist with competitive evaluations and benchmarks to help customers compare model
+    performance
+  - Serve as the voice of the customer to internal teams, providing feedback on products
+    and features
+  - Contribute to documentation, guides, and example code to help developers integrate
+    APIs effectively
+  use_cases:
+  - Voice agents and virtual assistants powered by speech recognition
+  - Meeting assistants and transcription services for collaboration tools
+  - Contact center solutions for real-time speech processing and analytics
+  - Medical scribes for healthcare documentation and record-keeping
+  - Real-time streaming applications with low-latency speech-to-text processing
+  - Multilingual speech recognition and understanding for global applications
+  skills:
+    genai: [OpenAI/Claude APIs, prompt engineering]
+    ml: []
+    web: [Web APIs, WebSockets, REST]
+    databases: []
+    data: [real-time data streaming]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, TypeScript, JavaScript, Java, Go, Ruby]
+    domains: [speech recognition, NLP, audio processing]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8228578'
+  extracted_at: '2026-02-05T12:14:59.359881'

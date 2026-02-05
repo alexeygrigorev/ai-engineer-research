@@ -1,0 +1,55 @@
+company:
+  name: Azumo (azumo.com)
+  stage: null
+  focus: |-
+    AI software development services, Generative AI and
+    intelligent automation
+  use_cases:
+  - Generative AI-powered intelligent applications and automation solutions
+  - RAG-based knowledge retrieval systems using vector databases
+  - LLM fine-tuning and optimization for production workloads
+  - Cloud-deployed AI solutions with monitoring and compliance
+  - Automated testing and deployment pipelines for AI/ML systems
+position:
+  title: AI Software Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building and deployment of
+      Generative AI solutions including LLMs, RAG pipelines, model
+      fine-tuning, and LLMOps implementation. The engineer works
+      directly on AI systems throughout the full lifecycle from
+      development to production deployment.
+  responsibilities:
+  - Research, design, and build production-grade Generative AI and intelligent automation
+    solutions using LLMs, RAG pipelines, and vector databases
+  - Lead full-cycle development including data preparation, model fine-tuning, evaluation,
+    optimization, containerization, and secure cloud deployment
+  - Implement MLOps/LLMOps pipelines for automated testing, monitoring, and rollback
+  - Apply Responsible AI practices and compliance standards throughout solution delivery
+  - Translate business and mission requirements into technical designs and prototype
+    with stakeholders
+  - Contribute to innovation roadmap by identifying research topics and advancing
+    AI software development services
+  use_cases:
+  - Generative AI-powered intelligent applications and automation solutions
+  - RAG-based knowledge retrieval systems using vector databases
+  - LLM fine-tuning and optimization for production workloads
+  - Cloud-deployed AI solutions with monitoring and compliance
+  - Automated testing and deployment pipelines for AI/ML systems
+  skills:
+    genai: [LangChain, LangGraph, RAG, LLMs]
+    ml: [model fine-tuning, PyTorch, TensorFlow]
+    web: []
+    databases: [Pinecone, FAISS, Azure AI Search]
+    data: []
+    cloud: [Azure, AWS]
+    ops: [Docker, Kubernetes, GitHub Actions, Terraform, CI/CD, MLOps, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7354918'
+  extracted_at: '2026-02-05T10:41:41.886363'

@@ -1,0 +1,56 @@
+company:
+  name: QuantCo
+  stage: Series B+ (180+ professionals, globally distributed)
+  focus: |-
+    Data science solutions for pricing, claims management,
+    forecasting
+  use_cases:
+  - Algorithmic pricing optimization for large organizations
+  - Data-driven claims management systems
+  - High-dimensional forecasting systems
+  - Decision support systems that improve human decision quality
+  - Enterprise AI applications that unlock operational efficiencies
+  - Core business process transformation using advanced AI/ML solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves building, deploying, and implementing AI
+      systems directly, including LLM-based components like RAG,
+      and may include forward-deployed engineering. This is hands-
+      on work with models, not just supporting infrastructure.
+  responsibilities:
+  - Design, test, and deploy AI systems embedded at scale in enterprise settings
+  - Lead the design of data and inference pipelines for production-ready AI applications
+  - Orchestrate the integration of LLM-based components including retrieval-augmented
+    generation (RAG)
+  - Develop custom tooling for efficient experimentation and evaluation of LLM applications
+    and agentic workflows
+  - Balance engineering constraints with business priorities throughout product development
+    lifecycle
+  - Collaborate with data scientists to solve problems in inference optimization,
+    scalable systems design, and human-computer interaction
+  use_cases:
+  - Algorithmic pricing optimization for large organizations
+  - Data-driven claims management systems
+  - High-dimensional forecasting systems
+  - Decision support systems that improve human decision quality
+  - Enterprise AI applications that unlock operational efficiencies
+  - Core business process transformation using advanced AI/ML solutions
+  skills:
+    genai: [OpenAI API, Anthropic API, Gemini API, RAG, tool calling, agentic workflows]
+    ml: [machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud infrastructure]
+    ops: [distributed systems, high-performance computing]
+    languages: [Python]
+    domains: [Computer Vision, Natural Language Processing, Graph Neural Networks]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7208514'
+  extracted_at: '2026-02-05T10:29:42.883776'

@@ -1,0 +1,57 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Insurance with AI-powered customer service
+  use_cases:
+  - AI-powered Interactive Voice Response (IVR) systems for customer self-service
+  - Multi-agent systems for intelligent automation of customer service interactions
+  - Natural language processing for voice and chat-based customer support
+  - Speech recognition systems for automated customer communication channels
+  - Intelligent automation to improve self-service rates and customer experience
+position:
+  title: Staff Engineer,  Interactive Voice Response - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, and optimizing multi-
+      agent systems and large-scale distributed AI applications
+      that directly power customer self-service. The hands-on work
+      includes designing AI/ML models and LLMs for production,
+      deploying intelligent voice/chat systems, and optimizing
+      multi-agent collaborative decision-making systems.
+  responsibilities:
+  - Design, develop, and deploy large-scale distributed AI applications that power
+    customer self-service across multiple communication channels including voice,
+    IVR, and chat
+  - Build and optimize multi-agent systems that enable intelligent, collaborative
+    decision-making to improve automation and customer experience
+  - Collaborate with cross-functional teams including engineering, product, and data
+    science to translate business requirements into scalable AI/ML solutions
+  - Ensure system reliability, scalability, and performance through best practices
+    in architecture, testing, and monitoring
+  - Stay at the forefront of AI and distributed systems research, bringing innovative
+    approaches and tools into production environment
+  - Utilize programming languages like Python, SQL, NoSQL databases, Container Orchestration
+    services including Docker and Kubernetes, and a variety of Azure tools and services
+  use_cases:
+  - AI-powered Interactive Voice Response (IVR) systems for customer self-service
+  - Multi-agent systems for intelligent automation of customer service interactions
+  - Natural language processing for voice and chat-based customer support
+  - Speech recognition systems for automated customer communication channels
+  - Intelligent automation to improve self-service rates and customer experience
+  skills:
+    genai: [LLMs, multi-agent systems]
+    ml: [TensorFlow, PyTorch]
+    web: [microservices, REST APIs]
+    databases: [NoSQL databases]
+    data: []
+    cloud: [Azure, AWS, GCP]
+    ops: [Docker, Kubernetes, continuous delivery, infrastructure as code]
+    languages: [Python, Java, C++, SQL, PowerShell]
+    domains: [NLP, speech recognition]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7076359'
+  extracted_at: '2026-02-05T10:12:06.753154'

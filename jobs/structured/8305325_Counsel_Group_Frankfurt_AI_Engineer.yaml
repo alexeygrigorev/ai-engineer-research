@@ -1,0 +1,51 @@
+company:
+  name: Counsel Group Frankfurt
+  stage: null
+  focus: AI/ML solutions for banking sector
+  use_cases:
+  - Fraud detection systems for banking transactions
+  - Credit scoring and risk assessment models
+  - NLP-based automation for banking processes
+  - General banking process automation and optimization
+position:
+  title: AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role involves designing and training traditional ML
+      models for banking use cases (fraud detection, scoring, NLP)
+      and building end-to-end ML pipelines. While it mentions MCP
+      adoption, the core work focuses on ML model development and
+      deployment rather than LLMs/agents or generative AI systems.
+  responsibilities:
+  - Develop and train AI/ML models for banking use cases including fraud detection,
+    scoring, NLP, and automation
+  - Build and maintain ML pipelines using Python, Spark, Trino, and Kafka
+  - Deploy ML models into production via microservices using Spring Boot or Python-based
+    APIs
+  - Integrate AI solutions into the On-Premise Openshift ecosystem and optimize model
+    performance
+  - Conduct performance testing with JMeter and monitor systems with Dynatrace
+  - Support the introduction of cloud-based AI platforms including Azure ML, Vertex
+    AI, and AWS SageMaker
+  use_cases:
+  - Fraud detection systems for banking transactions
+  - Credit scoring and risk assessment models
+  - NLP-based automation for banking processes
+  - General banking process automation and optimization
+  skills:
+    genai: [MCP]
+    ml: [TensorFlow, PyTorch]
+    web: [Spring Boot]
+    databases: []
+    data: [Apache Spark, Kafka, Trino]
+    cloud: [Azure ML, Vertex AI, AWS SageMaker]
+    ops: [OpenShift, Docker, Kubernetes, CI/CD, JMeter, Dynatrace]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8305325'
+  extracted_at: '2026-02-05T12:43:25.818821'

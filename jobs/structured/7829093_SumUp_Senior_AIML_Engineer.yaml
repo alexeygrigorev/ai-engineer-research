@@ -1,0 +1,62 @@
+company:
+  name: SumUp
+  stage: Series B+
+  focus: Fintech payments and financial tools for small businesses
+  use_cases:
+  - AI Assistant that automates approximately 40% of merchant requests and provides
+    automated customer support
+  - AI Translation tool enabling cross-language agent service for global operations
+  - AI Agent Copilot supporting human agents with intelligent assistance
+  - Voice Assistant for new customer support channels
+  - Automated support tools that improve operational efficiency for merchants and
+    support agents
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, and optimizing AI
+      solutions including AI Assistant, AI Translation, AI Agent
+      Copilot, and Voice Assistant. The engineer directly works on
+      agentic systems, LLM models, fine-tuning, and production
+      deployment of AI-driven tools.
+  responsibilities:
+  - Design, develop, and deploy high-performance, scalable ML/AI solutions in production
+    environments
+  - Take ownership and technical leadership of AI products including AI Assistant,
+    AI Translation, and AI Agent Copilot
+  - Develop and maintain ML infrastructure and pipelines for data processing, model
+    training, serving, and monitoring
+  - Optimize and fine-tune machine learning models and preprocess large text datasets
+  - Architect and deploy AI systems ensuring reliability, high performance, and scalability
+  - Lead the creation of Voice Assistant pilot and leverage current AI assistant components
+    for new channels
+  - Collaborate with Data Scientists, Product Managers, and Developers to enhance
+    customer experience and operational efficiency
+  - Maintain and improve existing AI assistant infrastructure including behavior improvements
+    and agentic rollouts
+  use_cases:
+  - AI Assistant that automates approximately 40% of merchant requests and provides
+    automated customer support
+  - AI Translation tool enabling cross-language agent service for global operations
+  - AI Agent Copilot supporting human agents with intelligent assistance
+  - Voice Assistant for new customer support channels
+  - Automated support tools that improve operational efficiency for merchants and
+    support agents
+  skills:
+    genai: [GenAI / LLM API, LLM evaluation]
+    ml: [model training, fine-tuning, deep learning]
+    web: [API design]
+    databases: []
+    data: [Airflow, data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLFlow, Kubeflow, Langfuse, Kubernetes, Docker, Git, GitHub Actions, CI/CD,
+      model serving]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7829093'
+  extracted_at: '2026-02-05T11:34:14.525615'

@@ -1,0 +1,60 @@
+company:
+  name: Crosby
+  stage: Seed
+  focus: AI-powered corporate legal services platform
+  use_cases:
+  - Review complex legal documents faster than ever with perfect quality
+  - Enhance the lawyer-machine relationship through human-in-the-loop workflows
+  - Codify systematizable legal work while amplifying human expertise where judgment
+    matters most
+  - Deliver higher-quality legal work faster and more efficiently through AI-powered
+    outcomes
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI systems including
+      building RAG pipelines, implementing agentic workflows, and
+      selectively fine-tuning language models for specific legal
+      tasks. The engineer owns the entire lifecycle of AI features
+      from building underlying systems to customizing models,
+      which directly aligns with working ON AI rather than just
+      supporting AI work.
+  responsibilities:
+  - Build, design, and scale core AI features including complex Retrieval Augmented
+    Generation (RAG) pipelines and agentic workflows
+  - Selectively fine-tune and adapt language models to improve performance on highly
+    specific legal tasks where off-the-shelf solutions fall short
+  - Develop practical evaluation methods and monitoring systems to ensure the reliability,
+    accuracy, and efficiency of AI features in production
+  - Identify and apply the most effective AI techniques and tools from the research
+    frontier to solve immediate product challenges
+  - Collaborate with product, backend, and in-house legal experts to deliver end-to-end
+    solutions that enhance user effectiveness
+  - Take full ownership of AI features from initial concept through deployment and
+    iteration
+  use_cases:
+  - Review complex legal documents faster than ever with perfect quality
+  - Enhance the lawyer-machine relationship through human-in-the-loop workflows
+  - Codify systematizable legal work while amplifying human expertise where judgment
+    matters most
+  - Deliver higher-quality legal work faster and more efficiently through AI-powered
+    outcomes
+  skills:
+    genai: [RAG, agentic workflows, OpenAI API, Anthropic API, model fine-tuning,
+      LLM APIs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation methods, monitoring systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8120539'
+  extracted_at: '2026-02-05T12:04:16.817314'

@@ -1,0 +1,53 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services with AI-powered experiences
+  use_cases:
+  - Informing customers about unusual charges and fraud detection
+  - Real-time customer support and question answering
+  - Personalized customer experiences in banking
+  - AI-powered tools to enhance associate productivity
+  - Responsible and scalable AI platforms for product teams
+position:
+  title: Senior Lead AI Engineer (FM Hosting, LLM Inference)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      optimizing foundation models and LLM inference systems. The
+      engineer will work directly on model training, LLM inference
+      optimization, and AI software components including
+      guardrails and model evaluation.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training and LLM inference
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Informing customers about unusual charges and fraud detection
+  - Real-time customer support and question answering
+  - Personalized customer experiences in banking
+  - AI-powered tools to enhance associate productivity
+  - Responsible and scalable AI platforms for product teams
+  skills:
+    genai: [Hugging Face, LLM Inference, Similarity Search, Guardrails]
+    ml: [PyTorch, Foundation Model Training, Model Evaluation]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8314732'
+  extracted_at: '2026-02-05T12:48:13.604181'

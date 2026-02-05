@@ -1,0 +1,54 @@
+company:
+  name: PermitFlow
+  stage: Series B
+  focus: AI-powered construction permitting and compliance automation
+  use_cases:
+  - Automating construction permitting workflows from application to approval
+  - Navigating licensing and inspections for construction companies
+  - Accelerating housing, clean-energy, and infrastructure development
+  - Reducing compliance time and de-risking construction projects
+  - Understanding what can be built, where, and how for regulatory compliance
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and deploying AI agents that
+      power PermitFlow's platform, with direct ownership of the
+      full lifecycle from model development to orchestration and
+      productionization. The engineer builds multi-step AI/ML
+      systems, optimizes inference pipelines, and implements
+      agentic workflows to automate permitting processes end-to-
+      end.
+  responsibilities:
+  - Develop and deploy AI agents that automate permitting workflows end-to-end
+  - Orchestrate multiple models and tools to create reliable, multi-step AI systems
+  - Build internal tools and infrastructure that power and monitor these agents
+  - Design and implement backend and frontend services, APIs, and data pipelines with
+    integrated AI functionality
+  - Contribute to system architecture and core platform design
+  - Design and maintain evaluations and benchmarks to measure agent accuracy, reliability,
+    and cost-effectiveness
+  - Optimize inference pipelines and backend systems for speed, scalability, and cost
+  use_cases:
+  - Automating construction permitting workflows from application to approval
+  - Navigating licensing and inspections for construction companies
+  - Accelerating housing, clean-energy, and infrastructure development
+  - Reducing compliance time and de-risking construction projects
+  - Understanding what can be built, where, and how for regulatory compliance
+  skills:
+    genai: [agentic workflows, AI agents, multi-step AI systems, model orchestration]
+    ml: [ML pipelines]
+    web: [API development, backend development]
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: [inference optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6779324'
+  extracted_at: '2026-02-05T09:52:47.472042'

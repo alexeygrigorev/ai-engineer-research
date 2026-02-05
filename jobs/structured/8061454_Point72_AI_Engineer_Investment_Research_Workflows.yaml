@@ -1,0 +1,58 @@
+company:
+  name: Point72
+  stage: Public
+  focus: Global asset management and financial investment
+  use_cases:
+  - AI-powered investment research tools and workflows for fundamental equities
+  - Streamlining day-to-day operations for portfolio managers and analysts
+  - Research quality improvement using large language models and retrieval-augmented
+    generation
+  - Agentic systems to automate or assist in investment decision-making processes
+  - Internal tools with heavy end-user interaction for investment professionals
+position:
+  title: AI Engineer – Investment Research & Workflows
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and building AI-driven research
+      tools with a focus on LLMs, retrieval-augmented generation,
+      and agentic systems. The engineer will directly build,
+      deploy, and evaluate GenAI solutions from concept to
+      production, including fine-tuning, prompt engineering, and
+      tool-use architectures.
+  responsibilities:
+  - Partner closely with investment professionals to understand workflows and translate
+    them into high-impact AI solutions
+  - Design and build AI-driven research tools and workflows, with a focus on large
+    language models (LLMs), retrieval-augmented generation, and agentic systems
+  - Build GenAI solutions, leveraging both internal models and external APIs
+  - Apply emerging AI capabilities pragmatically, balancing innovation with robustness,
+    speed, and adoption
+  - Drive solutions from concept to production, including prototyping, evaluation,
+    deployment, and user feedback loops
+  - Collaborate with the AI platform engineering team to ensure solutions are scalable
+    and well-integrated with existing systems
+  - Continually assess new models and techniques for commercial relevance
+  use_cases:
+  - AI-powered investment research tools and workflows for fundamental equities
+  - Streamlining day-to-day operations for portfolio managers and analysts
+  - Research quality improvement using large language models and retrieval-augmented
+    generation
+  - Agentic systems to automate or assist in investment decision-making processes
+  - Internal tools with heavy end-user interaction for investment professionals
+  skills:
+    genai: [prompt engineering, fine-tuning, RAG, agents, LLMs]
+    ml: [applied machine learning]
+    web: []
+    databases: []
+    data: [data analysis]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8061454'
+  extracted_at: '2026-02-05T11:56:20.761384'

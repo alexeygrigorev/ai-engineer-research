@@ -1,0 +1,65 @@
+company:
+  name: Mark43
+  stage: unknown
+  focus: Public safety software and AI-augmented engineering
+  use_cases:
+  - AI-powered software development workflow automation using agentic systems
+  - Multi-agent collaboration for code planning, writing, reviewing, testing, and
+    deployment
+  - Automated PR generation and agentic build pipeline integration
+  - AI-assisted UI prototyping acceleration using TypeScript and AI tools
+  - Internal tooling interfaces enhanced with generative AI capabilities
+  - Safe and secure integration of generative AI into public sector codebase
+position:
+  title: AI - Enabled Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and orchestrating
+      AI agent systems, designing multi-agent workflows, and
+      integrating LLMs into the development stack. The engineer is
+      directly implementing agentic frameworks, writing prompts,
+      and creating systems where AI agents collaboratively plan,
+      write, review, and deploy code - not just supporting AI
+      work.
+  responsibilities:
+  - Design multi-agent systems with coding-focused agents including code writer, reviewer,
+    tester, and deployer roles
+  - Write prompts, logic, and scaffolding to guide each agent's behavior within the
+    system
+  - Handle tool use integration enabling agents to access file systems, test runners,
+    version control, and internal APIs
+  - Evaluate and refine agents' output, performance, collaboration patterns, and feedback
+    loops
+  - Prototype coding assistant workflows using open-source LLMs and internal knowledge
+    bases
+  - Lead architecture discussions on agentic build pipelines and automated PR generation
+  - Collaborate with cross-functional teams to build fast, AI-powered interfaces for
+    internal tooling
+  - Define evaluation frameworks for AI contributions measuring accuracy, speed, and
+    impact
+  use_cases:
+  - AI-powered software development workflow automation using agentic systems
+  - Multi-agent collaboration for code planning, writing, reviewing, testing, and
+    deployment
+  - Automated PR generation and agentic build pipeline integration
+  - AI-assisted UI prototyping acceleration using TypeScript and AI tools
+  - Internal tooling interfaces enhanced with generative AI capabilities
+  - Safe and secure integration of generative AI into public sector codebase
+  skills:
+    genai: [LangChain, LLM APIs, agentic frameworks, multi-agent systems, prompt engineering,
+      AI-assisted development]
+    ml: []
+    web: [React]
+    databases: [vector databases, MySQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java, TypeScript]
+    domains: []
+    other: [Cursor, Windsurf]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4765340'
+  extracted_at: '2026-02-05T09:41:53.833145'

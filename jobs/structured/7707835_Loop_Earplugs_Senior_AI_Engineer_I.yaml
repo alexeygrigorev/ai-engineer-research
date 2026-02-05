@@ -1,0 +1,55 @@
+company:
+  name: Loop Earplugs
+  stage: Series B
+  focus: Earplugs and hearing protection solutions
+  use_cases:
+  - Automating customer feedback analysis using NLP and ML
+  - Streamlining marketing campaign workflows with AI-driven automation
+  - Building tools that improve and accelerate asset creation processes
+  - Deploying internal AI applications that save time across multiple departments
+  - Implementing RAG and agentic workflows for knowledge retrieval and task automation
+position:
+  title: Senior AI Engineer I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with AI models and technologies. The
+      engineer will fine-tune LLMs, implement RAG and agentic
+      workflows, build NLP solutions, and deploy AI systems end-
+      to-end. This is directly working ON AI systems, not just
+      supporting infrastructure or general software engineering.
+  responsibilities:
+  - Develop AI-driven software to solve business challenges, integrating NLP, machine
+    learning, and automation technologies
+  - Build and deploy production-ready applications using frameworks like Streamlit,
+    Gradio, or FastAPI
+  - Create custom API and webhook integrations to connect AI solutions with internal
+    systems
+  - Fine-tune LLMs for specific business applications and use cases
+  - Own projects end-to-end from identifying opportunities through deployment using
+    first-principle thinking
+  - Establish engineering standards and mentor teammates while staying ahead of AI
+    trends
+  use_cases:
+  - Automating customer feedback analysis using NLP and ML
+  - Streamlining marketing campaign workflows with AI-driven automation
+  - Building tools that improve and accelerate asset creation processes
+  - Deploying internal AI applications that save time across multiple departments
+  - Implementing RAG and agentic workflows for knowledge retrieval and task automation
+  skills:
+    genai: [LLMs, RAG, agentic workflows, MCP, function calling, multi-modal systems,
+      fine-tuning]
+    ml: [PyTorch, scikit-learn, model evaluation]
+    web: [Streamlit, Gradio, FastAPI, REST APIs, webhooks]
+    databases: []
+    data: [feature engineering, data preprocessing]
+    cloud: [Azure, GCP]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD, MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7707835'
+  extracted_at: '2026-02-05T11:21:26.581156'

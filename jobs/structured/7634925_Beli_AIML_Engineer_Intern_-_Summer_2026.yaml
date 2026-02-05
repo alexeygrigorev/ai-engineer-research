@@ -1,0 +1,52 @@
+company:
+  name: Beli
+  stage: null
+  focus: Restaurant discovery and recommendation platform
+  use_cases:
+  - Personalized restaurant recommendations based on user behavior and preferences
+  - Natural language understanding for restaurant search and content understanding
+  - Content summarization for restaurant information and reviews
+  - Ranking algorithms for restaurant discovery
+  - AI-driven features to enhance user exploration and discovery of restaurants
+position:
+  title: AI/ML Engineer Intern - Summer 2026
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building, testing, and deploying
+      machine learning models and AI-powered features including
+      natural language understanding, content summarization,
+      personalization, and ranking. This is hands-on AI/ML
+      development work, not just support infrastructure or data
+      pipelines.
+  responsibilities:
+  - Explore Beli's rich dataset of user behavior and restaurant information to uncover
+    opportunities for applying AI across the product
+  - Develop and refine machine learning models and AI-powered features including natural
+    language understanding, content summarization, personalization, and ranking
+  - Implement performant, cost-effective solutions ready for production and bring
+    work to millions of Beli users
+  - Work with product and engineering teams to brainstorm creative applications of
+    AI and evaluate their potential impact
+  use_cases:
+  - Personalized restaurant recommendations based on user behavior and preferences
+  - Natural language understanding for restaurant search and content understanding
+  - Content summarization for restaurant information and reviews
+  - Ranking algorithms for restaurant discovery
+  - AI-driven features to enhance user exploration and discovery of restaurants
+  skills:
+    genai: [natural language understanding, content summarization]
+    ml: [machine learning, personalization, ranking algorithms]
+    web: []
+    databases: []
+    data: [data science, large datasets]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7634925'
+  extracted_at: '2026-02-05T11:16:24.815508'

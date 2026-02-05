@@ -1,0 +1,60 @@
+company:
+  name: Harvard Business Publishing
+  stage: null
+  focus: Management education and publishing
+  use_cases:
+  - LLM chat interface for enhanced product interactivity and user engagement
+  - RAG-based knowledge retrieval using vector stores to leverage content data
+  - Predictive ML workflows with automated triggers for proactive insights
+  - User intent analysis and prediction models to enhance personalization
+  - Data-driven insights for editorial and marketing decision making
+  - Revenue projection and causal factor analysis for business optimization
+position:
+  title: AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building, deploying, and
+      maintaining AI/ML infrastructure including LLM chat
+      interfaces, vector stores for RAG, and predictive ML
+      workflows. The developer will directly create AI-enabled
+      features, prototypes, and production APIs using LangChain
+      and PyTorch, not just supporting infrastructure for others.
+  responsibilities:
+  - Support product teams in building new AI-enabled features and rapid prototypes,
+    contributing to technical vision and integrating AI/ML capabilities into product
+    ideas
+  - Facilitate technical interoperability between product management, data engineering,
+    software engineering, and partner teams to leverage core ML and AI infrastructure
+  - Develop and maintain ML and AI infrastructure including LLM chat interfaces, vector
+    stores for RAG, predictive ML workflows, and MLOps tools in AWS and Snowflake
+    environments
+  - Contribute to data engineering by collaborating on data pipelines and product-facing
+    APIs for the central data warehouse
+  - Support data science and analytics projects including inferring causal factors
+    of user intent, predicting user attributes, and projecting revenue
+  - Deploy production-grade AI/ML APIs using FastAPI or Flask with proper model training,
+    evaluation, and MLOps practices
+  use_cases:
+  - LLM chat interface for enhanced product interactivity and user engagement
+  - RAG-based knowledge retrieval using vector stores to leverage content data
+  - Predictive ML workflows with automated triggers for proactive insights
+  - User intent analysis and prediction models to enhance personalization
+  - Data-driven insights for editorial and marketing decision making
+  - Revenue projection and causal factor analysis for business optimization
+  skills:
+    genai: [LangChain, LLMs, RAG]
+    ml: [PyTorch, scikit-learn]
+    web: [FastAPI, Flask]
+    databases: [vector stores, Snowflake]
+    data: [data pipelines, ETL, dbt, pandas]
+    cloud: [AWS SageMaker, AWS]
+    ops: [MLFlow, Docker, CI/CD, git]
+    languages: [SQL, Python]
+    domains: []
+    other: [Streamlit]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8291746'
+  extracted_at: '2026-02-05T12:38:24.764208'

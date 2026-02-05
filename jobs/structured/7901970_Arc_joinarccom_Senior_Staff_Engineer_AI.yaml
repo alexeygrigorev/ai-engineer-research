@@ -1,0 +1,54 @@
+company:
+  name: Arc (joinarc.com)
+  stage: Series A
+  focus: AI-native business cash management platform
+  use_cases:
+  - AI-powered cash management platform for high-growth companies
+  - Unified treasury and debt-financing platform powered by AI
+  - Financial data analysis and action through AI automation
+  - AI-native business cash management with automated insights
+position:
+  title: Senior Staff Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role responsible for
+      building and deploying Generative AI applications including
+      agentic workflows, RAG systems, and model integrations. The
+      role involves direct work with LLMs, inference optimization,
+      and production-grade AI systems rather than just support
+      infrastructure.
+  responsibilities:
+  - Drive Arc's most critical AI initiatives end-to-end in a cross-functional environment
+  - Serve as a company-wide thought leader on foundational models, LLMs, agent systems,
+    retrieval, and emerging research
+  - Build evaluation frameworks, model-improvement infrastructure, and production-grade
+    AI systems
+  - Architect and implement Generative AI applications using agentic workflows and
+    RAG systems
+  - Optimize for inference performance, token efficiency, latency, and cost
+  - Rapidly prototype 0→1 and MVP experiences to unlock new value for Arc customers
+  - Collaborate with engineering, product, design, and leadership to build and improve
+    AI-powered financial products
+  - Contribute to platform-level systems in Python and Typescript
+  use_cases:
+  - AI-powered cash management platform for high-growth companies
+  - Unified treasury and debt-financing platform powered by AI
+  - Financial data analysis and action through AI automation
+  - AI-native business cash management with automated insights
+  skills:
+    genai: [Agentic workflows, RAG systems, LLMs, Foundational models, Model optimization]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Inference performance optimization, Evaluation pipelines]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7901970'
+  extracted_at: '2026-02-05T11:39:34.473341'

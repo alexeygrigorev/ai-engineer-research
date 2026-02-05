@@ -1,0 +1,59 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services with AI/ML
+  use_cases:
+  - Informing customers about unusual charges and detecting fraud in real-time
+  - Answering customer questions in real-time through AI-powered conversational interfaces
+  - Creating personalized customer experiences using machine learning models
+  - Empowering associates across the company with AI-powered tools and capabilities
+  - Enhancing banking products with responsible and scalable AI solutions
+  - Delivering industry-leading AI infrastructure for high-impact business applications
+position:
+  title: Senior Lead AI Engineer (AI Foundations)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with foundation models, LLM
+      training and inference, similarity search, guardrails, and
+      model optimization. The engineer is directly building,
+      deploying, and optimizing AI models and systems, not just
+      supporting AI work.
+  responsibilities:
+  - Partner with cross-functional teams of engineers, research scientists, and product
+    managers to deliver AI-powered products for associates and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    experimentation, governance, and observability
+  - Leverage a broad stack of open source and SaaS AI technologies such as AWS Ultraclusters,
+    HuggingFace, VectorDBs, Nemo Guardrails, PyTorch, and more
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Develop and apply techniques for optimizing training and inference software to
+    improve hardware utilization, latency, throughput, and cost
+  use_cases:
+  - Informing customers about unusual charges and detecting fraud in real-time
+  - Answering customer questions in real-time through AI-powered conversational interfaces
+  - Creating personalized customer experiences using machine learning models
+  - Empowering associates across the company with AI-powered tools and capabilities
+  - Enhancing banking products with responsible and scalable AI solutions
+  - Delivering industry-leading AI infrastructure for high-impact business applications
+  skills:
+    genai: [LLM inference, Foundation model training, Similarity search, Guardrails,
+      HuggingFace]
+    ml: [PyTorch, Model evaluation]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: [Experimentation, Model optimization]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7666865'
+  extracted_at: '2026-02-05T11:19:27.056387'

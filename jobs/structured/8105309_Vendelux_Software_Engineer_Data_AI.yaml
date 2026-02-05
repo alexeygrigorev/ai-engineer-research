@@ -1,0 +1,67 @@
+company:
+  name: Vendelux
+  stage: Series A
+  focus: AI-powered event marketing insights platform
+  use_cases:
+  - Help event marketers find the highest ROI events, conferences, and trade shows
+    to attend and sponsor
+  - Provide proprietary AI-powered insights for event marketing strategy and decision-making
+  - Enable event marketers to maximize the impact of events their company sponsors
+    and attends
+  - Deliver system of record for event marketing with AI-driven recommendations and
+    analytics
+  - Accelerate insights generation and improve event marketing workflows through AI
+    automation
+position:
+  title: Software Engineer, Data & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work with AI/ML systems
+      including LLMs, RAG, embeddings, and AI agents in
+      production. The engineer will build, deploy, and scale AI-
+      powered features from prototyping through production, not
+      just support infrastructure for others.
+  responsibilities:
+  - Architect, implement, and ship data-driven AI product features using appropriate
+    technology from heuristics to advanced AI
+  - Build maintainable, scalable systems including clean code, data pipeline integration,
+    and cloud deployment
+  - Operate as an end-to-end developer identifying opportunities, prototyping solutions,
+    and productionalizing features with measurable business value
+  - Research and apply modern AI methods including agents, LLMs, RAG, embeddings,
+    and supervised/unsupervised learning
+  - Translate business problems into AI solutions that improve user workflows and
+    accelerate insights
+  - Collaborate cross-functionally to turn customer problems into technical requirements
+    and impactful features
+  - Establish and evangelize standards for AI/ML engineering and data quality across
+    the team
+  use_cases:
+  - Help event marketers find the highest ROI events, conferences, and trade shows
+    to attend and sponsor
+  - Provide proprietary AI-powered insights for event marketing strategy and decision-making
+  - Enable event marketers to maximize the impact of events their company sponsors
+    and attends
+  - Deliver system of record for event marketing with AI-driven recommendations and
+    analytics
+  - Accelerate insights generation and improve event marketing workflows through AI
+    automation
+  skills:
+    genai: [LangChain, LLMs, generative AI, prompt engineering, RAG, LLM deployment,
+      AI agents]
+    ml: [HuggingFace, embeddings, supervised learning, unsupervised learning, recommendation
+        systems]
+    web: []
+    databases: []
+    data: [Airflow, Dagster, data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8105309'
+  extracted_at: '2026-02-05T12:01:51.064031'

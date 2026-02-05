@@ -1,0 +1,70 @@
+company:
+  name: Stripe
+  stage: Public
+  focus: |-
+    Financial infrastructure platform for payments and business
+    revenue
+  use_cases:
+  - Streamline and automate building and maintaining Stripe integrations using LLMs
+    and AI
+  - Re-imagine the zero-to-one integration experience for developers building on Stripe
+    APIs
+  - Bring Stripe knowledge including docs, reference and support to developer fingertips
+    through tools like MCP server
+  - Partner with tools like v0 to help users get set up and taking payments in minutes
+    rather than weeks
+  - Reduce pain of API migrations and upgrades using AI tools to automate the process
+  - Explore new ways AI can improve overall Developer Experience beyond current patterns
+position:
+  title: Staff Product Designer, Developer AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Product Designer role focused on designing AI-
+      powered developer tools and experiences. The role involves
+      creating the user interface and interaction patterns for AI
+      tools, but does not involve building, training, or deploying
+      models - the actual AI engineering is handled by the
+      engineering team the designer works alongside.
+  responsibilities:
+  - Design and prototype innovative new developer tools and experiences powered by
+    AI from the ground up
+  - Apply understanding of the AI industry to craft AI experiences for developers
+  - Create boundary-pushing AI experiences and interaction models that set new industry
+    standards
+  - Turn ambiguous developer-facing problems into concrete products from proposal
+    through launch
+  - Build with AI tools directly and prototype ideas using these tools as part of
+    the design process
+  - Shape the developer experience roadmap alongside engineers by pitching new ideas
+  - Work cross-functionally with Developer Products, Connect, Merchant Experience
+    and other teams to uplevel developer experiences
+  - Advocate for AI capabilities across internal teams and participate in design reviews
+    with leadership
+  use_cases:
+  - Streamline and automate building and maintaining Stripe integrations using LLMs
+    and AI
+  - Re-imagine the zero-to-one integration experience for developers building on Stripe
+    APIs
+  - Bring Stripe knowledge including docs, reference and support to developer fingertips
+    through tools like MCP server
+  - Partner with tools like v0 to help users get set up and taking payments in minutes
+    rather than weeks
+  - Reduce pain of API migrations and upgrades using AI tools to automate the process
+  - Explore new ways AI can improve overall Developer Experience beyond current patterns
+  skills:
+    genai: [LLMs, MCP server, AI engineering techniques, Claude Code, v0]
+    ml: []
+    web: [API design]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Prototyping, Design engineering, Developer tools]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6880819'
+  extracted_at: '2026-02-05T09:56:48.162799'

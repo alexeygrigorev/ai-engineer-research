@@ -1,0 +1,63 @@
+company:
+  name: Dataminr
+  stage: Series D+ (Public company-equivalent, founded 2009)
+  focus: |-
+    Real-time event detection and AI-powered intelligence
+    platform for early risk and threat discovery
+  use_cases:
+  - ReGenAI automatically regenerates real-time Live Event Briefs as events unfold
+  - Intel Agents autonomously generate critical context for clients on real-time events,
+    threats, and risks
+  - Multimodal event detection from images, video, sensor data, audio, and text in
+    over 150 languages
+  - Early signal detection of emerging risks, events, and threats before they unfold
+    for organizations
+  - Real-time analysis of billions of public data inputs spanning multiple modalities
+position:
+  title: Senior Software Engineer, AI Research
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including
+      training, building, adapting, optimizing, and deploying
+      models in production. The engineer works directly on Agentic
+      AI applications and implements state-of-the-art methods in
+      Generative AI, going beyond infrastructure or support to
+      actively develop and deploy AI systems.
+  responsibilities:
+  - Train, build, adapt, optimize, and deploy state-of-the-art LLMs in Predictive
+    AI, Generative AI, and Agentic AI applications
+  - Deploy Agents and LLMs that improve performance across multimodal data (text,
+    images, videos, audio, sensor data) at very large scale
+  - Own the technical design and implementation of robust API services, libraries,
+    and container strategies that define and support the end-to-end LLMOps lifecycle
+  - Optimize DL/LLM training and inference performance for speed and cost on specialized
+    hardware
+  - Drive the full lifecycle of complex AI problems from research and literature review
+    to data exploration, implementation of novel in-house methods, and productization
+  use_cases:
+  - ReGenAI automatically regenerates real-time Live Event Briefs as events unfold
+  - Intel Agents autonomously generate critical context for clients on real-time events,
+    threats, and risks
+  - Multimodal event detection from images, video, sensor data, audio, and text in
+    over 150 languages
+  - Early signal detection of emerging risks, events, and threats before they unfold
+    for organizations
+  - Real-time analysis of billions of public data inputs spanning multiple modalities
+  skills:
+    genai: [LLMs, Generative AI, LangGraph]
+    ml: [PyTorch, Transformers, Deep Learning]
+    web: []
+    databases: [Vector Databases]
+    data: [Databricks]
+    cloud: [AWS]
+    ops: [LangFuse, Kubernetes, Docker, LLMOps, MLOps]
+    languages: [Python]
+    domains: [Natural Language Processing, Computer Vision, Knowledge Representation
+        and Management]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7810171'
+  extracted_at: '2026-02-05T11:33:21.754608'

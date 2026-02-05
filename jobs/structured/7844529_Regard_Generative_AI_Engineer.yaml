@@ -1,0 +1,64 @@
+company:
+  name: Regard
+  stage: Series B
+  focus: AI-powered proactive healthcare documentation platform
+  use_cases:
+  - Extract structured medical information (diagnoses, medications, labs, timelines)
+    from unstructured electronic health records
+  - Generate clinically accurate documentation drafts including H&P notes, progress
+    notes, and discharge summaries
+  - Proactively draft clinical notes before physician visits to improve care quality
+    and reduce documentation burden
+  - Surface clinical evidence and recommend diagnoses by reviewing all patient data
+    in the EHR
+  - Transform diverse EHR data sources into clinician-ready documentation and structured
+    insights
+position:
+  title: Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM-
+      powered systems including RAG components, agent workflows,
+      and prompt engineering. The engineer directly develops
+      generation pipelines, optimizes inference, and integrates
+      models into production services.
+  responsibilities:
+  - Build and refine LLM-powered systems to extract structured medical concepts, diagnoses,
+    medications, labs, and timelines from unstructured records
+  - Develop generation pipelines that produce clinically accurate drafts of notes
+    (H&P, progress notes, discharge summaries, etc.) from factual inputs
+  - Design, prototype, and evaluate prompts, agent workflows, and retrieval-augmented
+    generation (RAG) components
+  - Benchmark LLM systems to evaluate new models and audit accuracy
+  - Optimize inference cost, latency, and throughput through batching, caching, and
+    model-selection strategies
+  - Collaborate closely with product and clinical teams to build systems that transform
+    medical records into structured insights and clinician-ready documentation
+  use_cases:
+  - Extract structured medical information (diagnoses, medications, labs, timelines)
+    from unstructured electronic health records
+  - Generate clinically accurate documentation drafts including H&P notes, progress
+    notes, and discharge summaries
+  - Proactively draft clinical notes before physician visits to improve care quality
+    and reduce documentation burden
+  - Surface clinical evidence and recommend diagnoses by reviewing all patient data
+    in the EHR
+  - Transform diverse EHR data sources into clinician-ready documentation and structured
+    insights
+  skills:
+    genai: [OpenAI, Anthropic, Langfuse, RAG, agents, prompt engineering, embeddings]
+    ml: []
+    web: [React]
+    databases: [vector databases, PostgreSQL, Redis]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7844529'
+  extracted_at: '2026-02-05T11:35:10.297467'

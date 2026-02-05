@@ -1,0 +1,60 @@
+company:
+  name: Zeely – AI Admaker
+  stage: Series B
+  focus: |-
+    AI platform for viral UGC videos and ad banners for small
+    businesses
+  use_cases:
+  - Generate viral UGC videos for small businesses
+  - Create AI-generated ad banners for marketing campaigns
+  - Launch effective ad campaigns on Facebook and Instagram
+  - Help small businesses become visible and scale through AI content
+  - Multi-modal content generation across text, image, audio, and video formats
+position:
+  title: AI Prompt Engineer (ComfyUI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work directly with generative AI
+      models and pipelines - configuring model parameters, fine-
+      tuning, building ComfyUI pipelines, developing custom nodes,
+      and integrating new models. This is not supporting AI work
+      but actively building, deploying, and optimizing generative
+      systems across multiple modalities.
+  responsibilities:
+  - Design, build, and continuously optimize complex generative content pipelines
+    across image, video, audio, and text formats
+  - Configure and fine-tune generative model parameters to achieve optimal balance
+    between quality, consistency, and performance
+  - Develop and maintain advanced ComfyUI pipelines, including working with custom
+    nodes
+  - Proactively troubleshoot generation issues, quickly identifying root causes and
+    implementing effective long-term fixes
+  - Collaborate closely with Product and Content teams to translate feature requirements
+    into reliable production-ready generative solutions
+  - Continuously research, benchmark, and test new models and tools to stay current
+    with emerging technologies
+  use_cases:
+  - Generate viral UGC videos for small businesses
+  - Create AI-generated ad banners for marketing campaigns
+  - Launch effective ad campaigns on Facebook and Instagram
+  - Help small businesses become visible and scale through AI content
+  - Multi-modal content generation across text, image, audio, and video formats
+  skills:
+    genai: [ComfyUI, prompt engineering, generative models, fine-tuning, RAG, agents,
+      LLM orchestration, OpenAI, Flux, Runway, Pika Labs, Kling AI, Veo 3, Nano Banana,
+      Hailuo MiniMax]
+    ml: [Hugging Face, model evaluation]
+    web: []
+    databases: []
+    data: [pipeline development]
+    cloud: []
+    ops: [inference optimization]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7568516'
+  extracted_at: '2026-02-05T11:07:19.935338'

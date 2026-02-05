@@ -1,0 +1,55 @@
+company:
+  name: SmartRecruiters
+  stage: Public
+  focus: AI-powered hiring platform and recruiting software
+  use_cases:
+  - AI recruiting assistants that provide personalized candidate interactions
+  - Intelligent conversational systems for recruiting teams
+  - Autonomous AI agents that reason and act to deliver context-aware recruiting experiences
+  - Automated talent acquisition workflows for enterprises
+  - Chat-based recruitment optimization and decision support
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building agentic AI workflows and
+      conversational systems using LLMs, autonomous agents, and
+      reasoning components. The engineer will be directly
+      responsible for model fine-tuning, training, evaluation,
+      optimization, and deployment of AI systems.
+  responsibilities:
+  - Architect and build agentic workflows combining LLMs, reasoning components, and
+    data pipelines
+  - Lead design and development of advanced ML/NLP products from ideation to production
+  - Drive experimentation with agentic reasoning, coordination, and autonomous system
+    design
+  - Collaborate with product and engineering teams to integrate intelligent agents
+    into recruiting workflows
+  - Guide technical decisions and mentor engineers on scalable ML systems
+  - Contribute to NLP and conversational intelligence stack evolution
+  - Identify opportunities to automate and innovate within chat-based ecosystem
+  use_cases:
+  - AI recruiting assistants that provide personalized candidate interactions
+  - Intelligent conversational systems for recruiting teams
+  - Autonomous AI agents that reason and act to deliver context-aware recruiting experiences
+  - Automated talent acquisition workflows for enterprises
+  - Chat-based recruitment optimization and decision support
+  skills:
+    genai: [LLM fine-tuning, agentic workflows, autonomous AI systems, conversational
+        AI, multi-agent systems, chatbots]
+    ml: [model training, model evaluation, model optimization, PyTorch, TensorFlow,
+      scikit-learn, Hugging Face]
+    web: []
+    databases: []
+    data: [ML pipelines, data ingestion]
+    cloud: []
+    ops: [model deployment, observability]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8036893'
+  extracted_at: '2026-02-05T11:51:57.576157'

@@ -1,0 +1,54 @@
+company:
+  name: Scale AI
+  stage: Scale AI is a well-funded private company (has reached unicorn status), working
+    with major enterprises and government agencies.
+  focus: Enterprise AI platform for building and deploying AI agents
+  use_cases:
+  - Enterprise knowledge retrieval and inference systems for business applications
+  - Interactive AI assistants and agent-based platforms for enterprise workflows
+  - AI-powered media experiences and interactive content
+  - SaaS platform for businesses to deploy and manage AI agents at scale
+position:
+  title: Staff Software Engineer, Full-Stack - Enterprise Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend-focused full-stack engineer role building
+      UIs for AI applications, not building AI models or agents
+      themselves. The engineer integrates with AI/ML teams and
+      works with APIs, but does not train, fine-tune, or deploy
+      models.
+  responsibilities:
+  - Build and enhance user-facing AI applications for major enterprise customers including
+    Fortune 500 companies
+  - Develop and refine features for Scale's GenAI Platform, empowering businesses
+    to build and deploy AI-driven agents
+  - Design, build, and optimize polished, high-performance UIs using Next.js, React,
+    TypeScript, and Tailwind
+  - Integrate frontend applications with backend services, working with APIs, authentication
+    systems, and cloud-based infrastructure
+  - Collaborate cross-functionally with product managers, designers, and AI/ML teams
+    to create seamless user experiences
+  - Ship features at a rapid pace while maintaining high standards of code quality,
+    performance, and accessibility
+  use_cases:
+  - Enterprise knowledge retrieval and inference systems for business applications
+  - Interactive AI assistants and agent-based platforms for enterprise workflows
+  - AI-powered media experiences and interactive content
+  - SaaS platform for businesses to deploy and manage AI agents at scale
+  skills:
+    genai: []
+    ml: []
+    web: [Next.js, React, Tailwind, FastAPI, GraphQL]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4213099'
+  extracted_at: '2026-02-05T09:37:52.860230'

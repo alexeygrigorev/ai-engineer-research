@@ -1,0 +1,64 @@
+company:
+  name: RepRisk
+  stage: null
+  focus: |-
+    Data as a Service for reputational risks and responsible
+    business conduct
+  use_cases:
+  - Agentic AI systems for business problem solving with memory, planning, and tool-use
+    capabilities
+  - LLM-powered microservices for perception, reasoning, and decision-making tasks
+  - Autonomous agent architectures for workflow automation and reasoning-driven applications
+  - AI-powered solutions for corporate responsibility and business conduct risk analysis
+  - Multi-agent coordination systems for complex business workflows
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on building of agentic AI systems, LLM-
+      powered microservices, fine-tuning foundation models, and
+      implementing autonomous agent architectures including tool-
+      use and multi-agent coordination. This is direct work on
+      AI/LLM systems, not supporting infrastructure or general
+      software engineering.
+  responsibilities:
+  - Designing and building agentic AI features that leverage memory, planning, and
+    tool-use to solve real-world business problems
+  - Developing, integrating, and maintaining LLM-powered microservices and pipelines
+    as part of broader production applications
+  - Fine-tuning foundation models and training custom models for perception, reasoning,
+    and decision-making tasks
+  - Identifying, testing, and implementing state-of-the-art advancements in LLMs and
+    autonomous agent architectures
+  - Ensuring robust performance through continuous evaluation, optimization, and A/B
+    testing of AI components
+  - Collaborating closely with product managers, designers, and domain experts to
+    align technical solutions with user needs and business goals
+  - Mentoring and guiding team members, fostering a collaborative engineering culture
+  - Participating in technical design reviews and code reviews to uphold high engineering
+    standards
+  use_cases:
+  - Agentic AI systems for business problem solving with memory, planning, and tool-use
+    capabilities
+  - LLM-powered microservices for perception, reasoning, and decision-making tasks
+  - Autonomous agent architectures for workflow automation and reasoning-driven applications
+  - AI-powered solutions for corporate responsibility and business conduct risk analysis
+  - Multi-agent coordination systems for complex business workflows
+  skills:
+    genai: [LangChain, LLM fine-tuning, autonomous agents, agentic systems, tool-use,
+      multi-agent coordination, RAG, prompt engineering]
+    ml: [HuggingFace]
+    web: [FastAPI, REST, microservices]
+    databases: []
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Docker, Kubernetes, CI/CD, LLM deployment]
+    languages: [Python]
+    domains: []
+    other: [A/B testing]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7595940'
+  extracted_at: '2026-02-05T11:10:47.401540'

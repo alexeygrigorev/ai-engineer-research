@@ -1,0 +1,52 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted content and technology solutions for legal, tax,
+    accounting, compliance, government, and media professionals
+  use_cases:
+  - Intelligent systems for legal professionals to enhance research and document analysis
+  - AI-powered solutions for tax and accounting professionals to automate workflows
+  - Expert solutions for risk and compliance domains with AI-driven insights
+  - AI features supporting justice and regulatory decision-making processes
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves preparing datasets, implementing
+      performance metrics, and translating prototypes into
+      production-ready code - all supporting AI development rather
+      than directly building or training models. The core work is
+      backend software engineering (.NET/C#, SQL, REST APIs) to
+      enable AI features, not hands-on model work.
+  responsibilities:
+  - Prepare and structure datasets for development, testing, and quality evaluation
+    of AI features
+  - Implement AI performance metrics supporting data-driven prioritization of iterative
+    improvements
+  - Translate AI prototypes into production-ready code under guidance
+  - Participate in agile development processes including planning, code reviews, and
+    team ceremonies
+  - Actively learn new tools, frameworks, and best practices for AI development
+  use_cases:
+  - Intelligent systems for legal professionals to enhance research and document analysis
+  - AI-powered solutions for tax and accounting professionals to automate workflows
+  - Expert solutions for risk and compliance domains with AI-driven insights
+  - AI features supporting justice and regulatory decision-making processes
+  skills:
+    genai: [Gen AI, RAG, LLM, Agentic tools]
+    ml: [Machine Learning]
+    web: [REST, API]
+    databases: [SQL]
+    data: []
+    cloud: [Azure Data Store]
+    ops: [Evaluations, Deployment, SDLC]
+    languages: [.NET, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7821596'
+  extracted_at: '2026-02-05T11:33:29.285321'

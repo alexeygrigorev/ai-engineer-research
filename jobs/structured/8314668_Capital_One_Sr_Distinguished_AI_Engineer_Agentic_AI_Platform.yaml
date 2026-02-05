@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-driven personalized
+    customer experiences
+  use_cases:
+  - Informing customers about unusual charges in real-time using AI
+  - Answering customer questions in real-time through AI-powered systems
+  - Creating personalized customer experiences through machine learning
+  - Deploying responsible and reliable AI systems for banking applications
+  - Empowering teams across Capital One to enhance products with AI capabilities in
+    scalable ways
+position:
+  title: Sr. Distinguished AI Engineer (Agentic AI Platform)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI platform
+      capabilities including agent orchestration, multi-agent
+      systems, LLM inference, and optimization techniques for
+      production AI systems. The engineer will directly design,
+      develop, deploy, and support agentic AI systems using
+      LangGraph, PyTorch, and vector databases.
+  responsibilities:
+  - Partner with cross-functional teams to deliver next generation AI engineering
+    platform offerings focused on agent orchestration and multi-agent systems
+  - Design, develop, test, deploy, and support AI platform capabilities integrating
+    foundation model training, LLM inference, context, memory, guardrails, and observability
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, Huggingface,
+    VectorDBs, LangGraph, and PyTorch
+  - Invent and introduce optimization techniques for agents to improve performance,
+    scalability, cost, latency, and throughput of production AI systems
+  - Contribute to technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Lead and mentor engineering organization while influencing cross-functional stakeholders
+  use_cases:
+  - Informing customers about unusual charges in real-time using AI
+  - Answering customer questions in real-time through AI-powered systems
+  - Creating personalized customer experiences through machine learning
+  - Deploying responsible and reliable AI systems for banking applications
+  - Empowering teams across Capital One to enhance products with AI capabilities in
+    scalable ways
+  skills:
+    genai: [LangGraph, LLM inference, Agent orchestration, Multi-agent systems, Guardrails,
+      Memory systems, Agent evaluations]
+    ml: [PyTorch, Hugging Face]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8314668'
+  extracted_at: '2026-02-05T12:47:11.514147'

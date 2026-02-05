@@ -1,0 +1,57 @@
+company:
+  name: Zip Co
+  stage: Public
+  focus: Fintech digital payment services and point-of-sale credit
+  use_cases:
+  - AI-powered customer interactions and personalized repayment journeys
+  - Intelligent support agents for dynamic fintech environment
+  - Autonomous, adaptive AI-native software for financial services
+  - RAG-powered knowledge retrieval for financial systems
+  - Self-improving agentic systems that drive real outcomes in regulated fintech
+position:
+  title: Principal Engineer, Generative & Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of agentic AI systems
+      including autonomous agents, LLM orchestration, and RAG
+      implementations. The Principal Engineer will directly
+      design, develop, and deploy production-grade AI systems with
+      LLMs, vector databases, and agent frameworks, not just
+      support infrastructure for AI work.
+  responsibilities:
+  - Design and build intelligent, autonomous systems that enhance customer experience
+    with AI-powered interactions and personalized repayment journeys
+  - Prototype quickly and scale deliberately by evaluating emerging frameworks and
+    models for production deployment in financial systems
+  - Architect the AI foundation by selecting and integrating LLMs, orchestration frameworks,
+    vector databases, memory strategies, and tooling
+  - Collaborate across engineering, product, design, compliance, and applied research
+    to identify high-impact use cases and deliver resilient, secure intelligent systems
+  - Champion AI-powered engineering by establishing best practices for performance,
+    observability, scalability, and responsible AI
+  - Mentor and inspire engineers while cultivating a culture of technical depth, curiosity,
+    and bold innovation
+  use_cases:
+  - AI-powered customer interactions and personalized repayment journeys
+  - Intelligent support agents for dynamic fintech environment
+  - Autonomous, adaptive AI-native software for financial services
+  - RAG-powered knowledge retrieval for financial systems
+  - Self-improving agentic systems that drive real outcomes in regulated fintech
+  skills:
+    genai: [LLMs, Agentic AI, Generative AI, Agent frameworks, RAG, Orchestration
+        frameworks, Memory/contextual planning systems]
+    ml: [RLHF, Embedding models]
+    web: [Microservices]
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, GCP, AWS]
+    ops: [MLOps]
+    languages: [Python, C#, C++, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8057345'
+  extracted_at: '2026-02-05T11:53:46.767933'

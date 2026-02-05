@@ -1,0 +1,55 @@
+company:
+  name: AiFi Inc.
+  stage: null
+  focus: Autonomous retail with computer vision scene understanding
+  use_cases:
+  - Camera calibration for retail spaces with hundreds of cameras
+  - 3D reconstruction from multi-view camera images
+  - Semantic segmentation for scene understanding in autonomous retail
+  - Structure from Motion and SLAM for spatial mapping
+  - Scene understanding services deployed across hundreds of retail stores
+position:
+  title: Sr. AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on computer vision research
+      and development. The engineer will directly implement state-
+      of-the-art 3D reconstruction, semantic segmentation, multi-
+      view stereo, and SLAM systems - core computer vision AI
+      technologies.
+  responsibilities:
+  - Lead development of scene understanding systems for calibrating hundreds of cameras
+    in retail spaces
+  - Translate state-of-the-art computer vision research into scalable, maintainable
+    engineering systems
+  - Manage scene calibration technologies and collaborate with product managers on
+    roadmaps
+  - Deploy, monitor, and support Scene Understanding Services across hundreds of stores
+  - Enforce best practices in software development and project management
+  - Mentor engineers and build collaborative remote team environment
+  - Evaluate emerging AI trends and technologies for potential applications in current
+    and future projects
+  use_cases:
+  - Camera calibration for retail spaces with hundreds of cameras
+  - 3D reconstruction from multi-view camera images
+  - Semantic segmentation for scene understanding in autonomous retail
+  - Structure from Motion and SLAM for spatial mapping
+  - Scene understanding services deployed across hundreds of retail stores
+  skills:
+    genai: []
+    ml: []
+    web: [RESTful APIs, OpenAPI, gRPC, Protobuf]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, MLOps, DevOps, CI/CD]
+    languages: [Python, Golang]
+    domains: [computer vision, multi-view stereo, Colmap, SLAM, Structure from Motion,
+      3D reconstruction, semantic segmentation]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '3756970'
+  extracted_at: '2026-02-05T09:35:22.787246'

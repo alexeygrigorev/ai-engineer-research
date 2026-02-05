@@ -1,0 +1,57 @@
+company:
+  name: Alteryx
+  stage: Public
+  focus: Analytics and data automation platform
+  use_cases:
+  - Enabling customers to leverage AI and cloud data platforms for analytics and business
+    insights
+  - Supporting go-to-market initiatives for cloud data solutions on Azure/AWS/GCP
+  - Facilitating data-driven decision making through enterprise analytics platforms
+  - Driving adoption of cloud-based data warehousing solutions like Snowflake and
+    Databricks
+position:
+  title: Solution Engineer /SME  ( AI/Cloud Data Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Solution Engineer/SME role focused on AI/Cloud
+      Data Platform that is primarily sales-facing and GTM-
+      oriented. The role involves strategic planning, customer
+      interactions, and driving business initiatives rather than
+      building, deploying, or fine-tuning AI/ML models. While the
+      role works with AI/ML-related products, the actual work is
+      in pre-sales solution engineering and strategic execution
+      rather than hands-on AI/ML development.
+  responsibilities:
+  - Act as Subject Matter Expert with strong field sales and customer-facing interactions
+  - Translate strategic vision into clear execution plans with defined timelines and
+    measurable outcomes
+  - Build alignment across diverse teams, driving accountability while managing dependencies
+    and risks
+  - Deliver high-quality recommendations and executive-ready presentations that influence
+    decision-making
+  - Lead the GTM organization in creation, planning, and execution of GTM messaging
+    and initiatives
+  use_cases:
+  - Enabling customers to leverage AI and cloud data platforms for analytics and business
+    insights
+  - Supporting go-to-market initiatives for cloud data solutions on Azure/AWS/GCP
+  - Facilitating data-driven decision making through enterprise analytics platforms
+  - Driving adoption of cloud-based data warehousing solutions like Snowflake and
+    Databricks
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: [Azure, AWS, GCP, Cloud Data Platforms]
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8044614'
+  extracted_at: '2026-02-05T11:53:17.918037'

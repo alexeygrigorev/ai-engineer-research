@@ -1,0 +1,59 @@
+company:
+  name: Bobsled
+  stage: null
+  focus: AI-powered analytics, text-to-SQL, data agents
+  use_cases:
+  - Natural language to SQL translation for data analytics
+  - Enterprise data insights generation using AI-powered queries
+  - Production-grade text-to-SQL systems for business intelligence
+  - Contextually tuned AI deployments for customer data environments
+  - Automated evaluation and regression testing for data agents
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building LLM applications,
+      designing RAG architectures, prompt engineering, and fine-
+      tuning AI systems for text-to-SQL accuracy. The engineer
+      directly deploys and troubleshoots models in production
+      customer environments, rather than supporting other AI
+      engineers.
+  responsibilities:
+  - Own the text-to-SQL accuracy problem end-to-end including evals, prompt iteration,
+    and retrieval/routing improvements
+  - Build and operate experimentation and evaluation loops with automatic evals, regression
+    suites, and dataset curation
+  - Design pragmatic LLM application architectures using RAG, agent routing, and tool-use
+    orchestration optimized for accuracy and latency
+  - Ship production-grade code, support deployments, and monitor/troubleshoot model
+    behavior in real customer environments
+  - Partner with engineering and customers to improve semantic models, SQL generation,
+    and data alignment
+  - Create user feedback loops to systematically capture issues and convert them into
+    measurable improvements
+  - Contribute to automation of environment provisioning and development workflows
+    for fast iteration
+  use_cases:
+  - Natural language to SQL translation for data analytics
+  - Enterprise data insights generation using AI-powered queries
+  - Production-grade text-to-SQL systems for business intelligence
+  - Contextually tuned AI deployments for customer data environments
+  - Automated evaluation and regression testing for data agents
+  skills:
+    genai: [prompt engineering, RAG, agents, LLM application architecture, text-to-SQL,
+      retrieval, tool orchestration]
+    ml: []
+    web: []
+    databases: [data modeling, vector stores, knowledge graphs, data warehouses]
+    data: [data pipelines]
+    cloud: []
+    ops: [evaluation tooling, model monitoring, CI/CD]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7738766'
+  extracted_at: '2026-02-05T11:23:57.785183'

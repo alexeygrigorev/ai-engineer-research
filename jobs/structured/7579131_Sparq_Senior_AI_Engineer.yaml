@@ -1,0 +1,56 @@
+company:
+  name: Sparq
+  stage: null
+  focus: |-
+    Product engineering partner for AI acceleration, data
+    ecosystems, and digital products
+  use_cases:
+  - AI model training and fine-tuning for various business applications
+  - Cloud-based AI solution deployment for scalability and performance
+  - Data preprocessing and automation of AI workflows
+  - AI system optimization and monitoring for efficiency and accuracy
+  - AI capability enhancement for existing digital products
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves designing, developing, training, and fine-
+      tuning AI models directly, plus deploying AI solutions on
+      cloud platforms. This is hands-on work building AI systems,
+      not just infrastructure or support.
+  responsibilities:
+  - Design, develop, and optimize AI models, including training and fine-tuning for
+    various applications
+  - Implement and deploy AI solutions on cloud platforms, ensuring scalability and
+    performance
+  - Utilize Python for data preprocessing, model development, and automation of AI
+    workflows
+  - Collaborate with development team to broaden AI capabilities and enhance existing
+    solutions
+  - Research and experiment with cutting-edge AI technologies, staying ahead of industry
+    advancements
+  - Optimize and monitor AI models post-deployment to ensure efficiency, accuracy,
+    and reliability
+  use_cases:
+  - AI model training and fine-tuning for various business applications
+  - Cloud-based AI solution deployment for scalability and performance
+  - Data preprocessing and automation of AI workflows
+  - AI system optimization and monitoring for efficiency and accuracy
+  - AI capability enhancement for existing digital products
+  skills:
+    genai: [fine-tuning]
+    ml: [model training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7579131'
+  extracted_at: '2026-02-05T11:08:35.859881'

@@ -1,0 +1,73 @@
+company:
+  name: P-1 AI
+  stage: Seed
+  focus: |-
+    Building engineering AGI and AI agents for
+    industrial/companies
+  use_cases:
+  - AI engineer capable of quantitative intuition over physical product domains and
+    engineering tool use
+  - Design engineering automation that performs at an entry-level engineer level and
+    rapidly improves
+  - Agentic platform that decomposes performance requirements and develops them into
+    design solutions
+  - AI system that accesses and uses customer information systems and understands
+    physics in product design
+  - Deployable AI teammate within corporate networks that can access and process valuable
+    engineering data
+  - Scalable and responsive AI system that performs the same actions as human engineers
+    across industrial companies
+position:
+  title: Senior Software Engineer - Agentic AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building the platform infrastructure,
+      distributed systems, and integration layer that deploys and
+      supports the agentic AI system, rather than building the
+      AI/ML models themselves. The engineer implements prototypes
+      from the AI research team and works on scalability,
+      security, and deployment - classic platform engineering that
+      enables the AI system rather than developing the models or
+      intelligence.
+  responsibilities:
+  - Collaborate with the team to understand the Archie capability roadmap and decompose
+    capabilities into technical development tasks
+  - Transform AI research team prototypes and proofs of concept into robust
+  - scalable production implementations
+  - Diagnose and resolve technical problems reported by the team or end users
+  - Develop and execute automated platform tests including traditional software testing
+  - agentic AI evaluations
+  - and infrastructure testing
+  - Enhance Archie's scalability and robustness through system architecture design
+    and implementation
+  - Integrate with customer information systems and deploy within corporate networks
+  use_cases:
+  - AI engineer capable of quantitative intuition over physical product domains and
+    engineering tool use
+  - Design engineering automation that performs at an entry-level engineer level and
+    rapidly improves
+  - Agentic platform that decomposes performance requirements and develops them into
+    design solutions
+  - AI system that accesses and uses customer information systems and understands
+    physics in product design
+  - Deployable AI teammate within corporate networks that can access and process valuable
+    engineering data
+  - Scalable and responsive AI system that performs the same actions as human engineers
+    across industrial companies
+  skills:
+    genai: [agentic AI evals]
+    ml: []
+    web: []
+    databases: [database interactions]
+    data: [data models]
+    cloud: []
+    ops: [distributed systems, system architecture, automated testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8292031'
+  extracted_at: '2026-02-05T12:39:01.485717'

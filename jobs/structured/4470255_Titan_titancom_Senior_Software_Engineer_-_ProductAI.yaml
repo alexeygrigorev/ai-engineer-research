@@ -1,0 +1,58 @@
+company:
+  name: Titan (titan.com)
+  stage: Series A
+  focus: |-
+    AI-powered wealth management platform democratizing
+    financial advice
+  use_cases:
+  - Democratizing personalized wealth management by putting AI-powered financial advisors
+    in every pocket
+  - Enhancing human wealth advisors with AI superpowers to serve more clients effectively
+  - Providing personalized investment advice and wealth management services to a broader
+    audience
+  - Leveraging LLMs to unlock personalized financial guidance for everyone
+position:
+  title: Senior Software Engineer - Product/AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on integrating AI models into existing
+      architectures and building AI-powered features, but the core
+      requirements emphasize JavaScript/TypeScript engineering for
+      scalable applications rather than hands-on model
+      development, training, or fine-tuning. The engineer is
+      leveraging AI technologies to enhance user experiences
+      rather than directly working on or optimizing AI/ML models
+      themselves.
+  responsibilities:
+  - Develop innovative AI-powered features and systems, working closely with cross-functional
+    teams to ensure they align with product vision and user needs
+  - Integrate AI models into existing architectures, ensuring they are both performant
+    and sustainable as part of a larger system
+  - Contribute to the full product lifecycle, from ideation and development to deployment
+    and monitoring
+  - Stay up to date with the latest AI trends, tools, and techniques, and apply them
+    to products and processes
+  use_cases:
+  - Democratizing personalized wealth management by putting AI-powered financial advisors
+    in every pocket
+  - Enhancing human wealth advisors with AI superpowers to serve more clients effectively
+  - Providing personalized investment advice and wealth management services to a broader
+    audience
+  - Leveraging LLMs to unlock personalized financial guidance for everyone
+  skills:
+    genai: [AI model integration, AI-powered product development, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, TypeScript]
+    domains: []
+    other: [product lifecycle management, cross-functional collaboration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4470255'
+  extracted_at: '2026-02-05T09:40:03.845277'

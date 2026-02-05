@@ -1,0 +1,58 @@
+company:
+  name: Bluefish
+  stage: Series A
+  focus: AI marketing platform for brands
+  use_cases:
+  - Building LLM-powered products for marketing and advertising technologies
+  - Helping brands engage consumers on AI channels and manage brand representation
+    in AI
+  - Enterprise tools to manage how brands are represented across AI platforms
+  - Marketing technology solutions for Fortune 500 customers
+  - AI-driven marketing ecosystem disrupting traditional martech industry
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct work with LLMs including
+      deployment, integration, and evaluation. The candidate will
+      lead ML/LLM integration across data pipelines and ship
+      experiments with ML capabilities.
+  responsibilities:
+  - Lead end-to-end architecture for data platforms and pipelines including scraping,
+    transformation, storage, serving, and ML/LLM integration
+  - Design safe rollout plans and north star data-quality metrics to scale pipelines
+    and handle customer growth
+  - Translate business goals into actionable data products through RFCs and sequenced
+    project deliverables
+  - Establish engineering standards including testing strategy, evals, observability,
+    data contracts, and security practices
+  - Lead architecture reviews, codify patterns, mentor Senior Engineers, and multiply
+    impact through documentation and code reviews
+  - Define how AI engineers work cross-functionally with software engineers, devops,
+    product managers and designers
+  - Ship meaningful experiments by prototyping data/ML capabilities and evaluating
+    feasibility and ROI
+  use_cases:
+  - Building LLM-powered products for marketing and advertising technologies
+  - Helping brands engage consumers on AI channels and manage brand representation
+    in AI
+  - Enterprise tools to manage how brands are represented across AI platforms
+  - Marketing technology solutions for Fortune 500 customers
+  - AI-driven marketing ecosystem disrupting traditional martech industry
+  skills:
+    genai: []
+    ml: [feature engineering, model training]
+    web: []
+    databases: [data modeling]
+    data: [data pipelines, data extraction, ETL]
+    cloud: [cloud infrastructure]
+    ops: [LLM deployment, model evaluation, CI/CD, infrastructure as code, SLOs, observability]
+    languages: [Python]
+    domains: [NLP]
+    other: [system design]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7828454'
+  extracted_at: '2026-02-05T11:34:06.418924'

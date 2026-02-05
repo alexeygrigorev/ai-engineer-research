@@ -1,0 +1,69 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Insurance provider with AI/ML platform
+  use_cases:
+  - Large Language Model training and fine-tuning at scale for insurance applications
+  - LLM inference serving with optimization for low latency and high throughput
+  - Feature stores for ML model training and inference pipelines
+  - GPU compute orchestration and resource optimization for ML workloads
+  - Integration of AI/ML capabilities into customer-facing insurance applications
+  - Research infrastructure for experimenting with cutting-edge LLM techniques and
+    architectures
+position:
+  title: Staff Software Engineer - AI/ML Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role because the engineer is directly
+      building, optimizing, and deploying LLM infrastructure
+      including training, fine-tuning, and serving open source
+      models (Llama, Mistral, Gemma). The role involves hands-on
+      work with inference optimization frameworks (vLLM, TensorRT-
+      LLM) and building systems that enable LLM deployment at
+      scale, not just supporting data teams.
+  responsibilities:
+  - Design and implement scalable infrastructure for training, fine-tuning, and serving
+    open source LLMs
+  - Architect and manage Kubernetes clusters for ML workloads with GPU scheduling
+    and autoscaling
+  - Build and optimize LLM inference systems using vLLM, TensorRT-LLM, and custom
+    serving solutions
+  - Design, implement, and maintain feature stores for ML model training and inference
+    pipelines
+  - Develop and maintain cloud infrastructure using Terraform, ARM templates, and
+    Azure DevOps
+  - Mentor junior engineers on platform best practices, infrastructure design, and
+    ML operations
+  - Collaborate with data scientists and product teams to integrate ML capabilities
+    into applications
+  - Ensure ML platforms meet enterprise security standards and regulatory compliance
+    requirements
+  use_cases:
+  - Large Language Model training and fine-tuning at scale for insurance applications
+  - LLM inference serving with optimization for low latency and high throughput
+  - Feature stores for ML model training and inference pipelines
+  - GPU compute orchestration and resource optimization for ML workloads
+  - Integration of AI/ML capabilities into customer-facing insurance applications
+  - Research infrastructure for experimenting with cutting-edge LLM techniques and
+    architectures
+  skills:
+    genai: [LLMs, Llama, Mistral, Gemma, Qwen, Code Llama]
+    ml: [Transformer architectures, Fine-tuning, RLHF, Inference optimization]
+    web: []
+    databases: [Chronon, Feast, Tecton, Azure ML Feature Store, Milvus, Pinecone,
+      Weaviate, Qdrant, Postgres, NoSQL]
+    data: [Feature stores]
+    cloud: [Azure, Azure Kubernetes Service (AKS), Azure Machine Learning, Azure Container
+        Registry, AWS, GCP, DataRobot, ARM templates, CloudFormation]
+    ops: [Kubernetes, Docker, Terraform, Azure DevOps, GitHub Actions, CI/CD, Prometheus,
+      Grafana, Azure Monitor, MLflow, Kubeflow, vLLM, TensorRT-LLM, Triton Inference
+        Server, ELK stack, Distributed tracing, Pulumi]
+    languages: [Python, Go, Rust, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8268044'
+  extracted_at: '2026-02-05T12:27:08.579857'

@@ -1,0 +1,64 @@
+company:
+  name: EvolutionIQ
+  stage: Growth stage
+  focus: AI Guidance Platform for insurance claims
+  use_cases:
+  - Insurance claims guidance platform using AI to help claims teams make more accurate,
+    fair, and efficient decisions
+  - Processing batch daily data from SQL tables and presenting through intuitive web
+    products
+  - Rules-based engines spanning across all products for insurance claim workflows
+  - Supporting insurance carriers and claims teams to help injured or disabled workers
+    continue their lives with dignity
+  - Large-scale structured and unstructured dataset analysis for insurance business
+    problems
+position:
+  title: Staff Software Engineer (Platform / AI Insurance SaaS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Staff Software Engineer on the Platform
+      Engineering team responsible for building backend
+      infrastructure, REST APIs, and platforms that serve machine
+      learning data to frontend applications. The engineer works
+      NEAR AI by supporting data science teams and building
+      systems that enable ML delivery, but does not directly
+      build, train, fine-tune, or deploy AI models.
+  responsibilities:
+  - Serve as Technical Lead / Staff Engineer on the Platform Engineering team
+  - Build and maintain backend REST servers that feed machine learning and BI data
+    to React frontend
+  - Collaborate closely with data science and data engineering teams to build a robust,
+    scalable unified claims platform
+  - Own the full lifecycle of designing, building and launching enterprise applications
+  - Work on greenfield projects with high levels of ownership and shape product roadmap
+    from technology choices
+  - Provide technical expertise, drive consistency across teams, and help prioritize
+    features to increase client impact
+  - Design and build backend architectures supporting multi-tenant, multi-user scenarios
+  use_cases:
+  - Insurance claims guidance platform using AI to help claims teams make more accurate,
+    fair, and efficient decisions
+  - Processing batch daily data from SQL tables and presenting through intuitive web
+    products
+  - Rules-based engines spanning across all products for insurance claim workflows
+  - Supporting insurance carriers and claims teams to help injured or disabled workers
+    continue their lives with dignity
+  - Large-scale structured and unstructured dataset analysis for insurance business
+    problems
+  skills:
+    genai: []
+    ml: []
+    web: [REST, React, API Design, Service Architecture]
+    databases: [Relational Database Design]
+    data: [Dagster, Airflow]
+    cloud: []
+    ops: [Authentication]
+    languages: [Python, NodeJS, TypeScript]
+    domains: []
+    other: [Multi-tenant Architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8231652'
+  extracted_at: '2026-02-05T12:16:45.392006'

@@ -1,0 +1,64 @@
+company:
+  name: NinjaTech AI
+  stage: pre-Series A
+  focus: Autonomous AI agents platform with full OS capabilities
+  use_cases:
+  - Building intelligent applications and automations (B2B and B2C) powered by the
+    SuperNinja agentic AI platform
+  - Enabling autonomous AI agents to execute complex tasks end-to-end with full OS
+    capabilities
+  - Providing user interfaces and backend infrastructure to make AI agents accessible,
+    fast, and powerful
+  - Creating serving architecture and SDKs that support distributed AI agent systems
+position:
+  title: Full Stack Software Engineer - Agentic AI Startup
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Full Stack Software Engineer role focused on
+      building user-facing features, backend infrastructure, SDKs,
+      and serving architecture for an AI company. While the
+      company builds autonomous AI agents, the engineer's
+      responsibilities are around web development, microservices,
+      and making AI agents accessible through UI/APIs rather than
+      building, training, or fine-tuning the models themselves.
+      The role supports the AI systems through infrastructure and
+      application layers but does not work directly on the AI/ML
+      models.
+  responsibilities:
+  - Develop and implement serving architecture for distributed systems with focus
+    on scalability, observability, and efficiency
+  - Design and build components for internal SDKs for services and integrate them
+    in collaboration with other developers
+  - Write robust and well-documented code, ensuring quality through automated testing
+    and continuous integration and deployment
+  - Develop and maintain documentation for the platform, including API documentation,
+    technical guides, and technical specifications
+  - Translate company vision and customer needs into functional and appealing interactive
+    applications
+  - Conduct code reviews and provide constructive feedback to other members of the
+    team
+  use_cases:
+  - Building intelligent applications and automations (B2B and B2C) powered by the
+    SuperNinja agentic AI platform
+  - Enabling autonomous AI agents to execute complex tasks end-to-end with full OS
+    capabilities
+  - Providing user interfaces and backend infrastructure to make AI agents accessible,
+    fast, and powerful
+  - Creating serving architecture and SDKs that support distributed AI agent systems
+  skills:
+    genai: [Large language models (LLMs), AI agent frameworks]
+    ml: [Machine learning model deployment]
+    web: [React, Next.js, RESTful API, WebSockets]
+    databases: [Firebase, Supabase, DynamoDB, PostgreSQL, MySQL, NoSQL]
+    data: []
+    cloud: [AWS, SQS, Lambda, SNS, ECS]
+    ops: [Git, Terraform, CloudFormation, Grafana, DataDog]
+    languages: [Python]
+    domains: []
+    other: [Microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8351758'
+  extracted_at: '2026-02-05T12:58:09.401987'

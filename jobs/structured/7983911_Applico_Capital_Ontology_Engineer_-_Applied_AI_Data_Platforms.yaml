@@ -1,0 +1,62 @@
+company:
+  name: Applico Capital
+  stage: Series B
+  focus: Venture capital building B2B distribution tech platform
+  use_cases:
+  - B2B distribution industry transformation using AI and modern technologies
+  - Enterprise data interoperability across multiple distributors and business systems
+  - Unlocking AI-enabled synergies in the $8 trillion B2B distribution market
+  - Data automation and AI readiness for products, suppliers, customers, and transactions
+  - Contextual retrieval and entity linking for AI-powered enrichment
+position:
+  title: Ontology Engineer - Applied AI & Data Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an Ontology Engineer role focused on designing
+      semantic models, knowledge graphs, and data schemas that
+      enable AI systems to function. The work involves building
+      the infrastructure and data architecture that supports AI
+      teams (contextual retrieval, RAG, entity linking) rather
+      than directly building, training, or deploying models
+      themselves. The role sits at the intersection of data
+      architecture and applied AI, providing the foundational
+      structure that makes data "ready for automation and AI."
+  responsibilities:
+  - Design and maintain domain ontologies and semantic schemas for key business entities
+  - Map internal data structures to open data standards and taxonomies
+  - Build and manage knowledge graph models and associated metadata structures
+  - Define and enforce data modeling conventions, relationships, and validation rules
+    using RDF, OWL, SHACL, and JSON-LD
+  - Partner with data engineers and architects to embed semantic models into pipelines
+    and APIs
+  - Collaborate with AI teams to support contextual retrieval, entity linking, and
+    enrichment using LLMs and embeddings
+  - Evaluate and adopt open-source tools for ontology management, graph storage, and
+    reasoning
+  - Contribute to data governance, lineage, and interoperability practices across
+    business domains
+  use_cases:
+  - B2B distribution industry transformation using AI and modern technologies
+  - Enterprise data interoperability across multiple distributors and business systems
+  - Unlocking AI-enabled synergies in the $8 trillion B2B distribution market
+  - Data automation and AI readiness for products, suppliers, customers, and transactions
+  - Contextual retrieval and entity linking for AI-powered enrichment
+  skills:
+    genai: [LangChain, LangGraph, DSPy, OpenAI APIs, RAG pipelines, LLM-based enrichment]
+    ml: []
+    web: []
+    databases: [Neo4j, ArangoDB, Weaviate, Ontotext GraphDB, Stardog]
+    data: [RDF, OWL, SHACL, JSON-LD, SPARQL, schema.org, GS1, UNSPSC, ETIM, eCl@ss,
+      Protégé, dbt, Airbyte, Dagster, Prefect, knowledge graphs, data modeling, ontology
+        engineering, data governance, data lineage, data interoperability]
+    cloud: []
+    ops: [vector search]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7983911'
+  extracted_at: '2026-02-05T11:45:26.914436'

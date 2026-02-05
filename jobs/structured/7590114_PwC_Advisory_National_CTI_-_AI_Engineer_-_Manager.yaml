@@ -1,0 +1,63 @@
+company:
+  name: PwC
+  stage: Public
+  focus: Professional services with AI and technology consulting
+  use_cases:
+  - Building AI-powered applications integrated with various business platforms to
+    drive data-driven decision making
+  - Implementing RAG (Retrieval Augmented Generation) pipelines and agent orchestration
+    using LLMs for intelligent information retrieval
+  - Processing and analyzing large structured and unstructured datasets to extract
+    actionable insights and create data visualizations
+  - Deploying predictive models and machine learning solutions on cloud platforms
+    (AWS, GCP, Azure) using services like SageMaker, Vertex AI, or Databricks
+position:
+  title: Advisory National CT&I - AI Engineer - Manager
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on AI engineering work including
+      designing, training, and deploying machine learning models,
+      working with LLMs, building RAG pipelines with
+      LangChain/LlamaIndex/LangGraph, and implementing vector
+      databases. The candidate must have end-to-end model
+      development experience with PyTorch/TensorFlow/JAX and
+      deploy AI solutions to production using cloud platforms.
+  responsibilities:
+  - Work with cross-functional teams to incorporate AI into various applications and
+    build end-to-end AI solutions integrated into real-world platforms
+  - Design, train, and deploy machine learning models including LLM-based systems
+    with RAG pipelines and agent orchestration
+  - Lead teams and manage client accounts, focusing on strategic planning and mentoring
+    junior staff while delivering quality AI products
+  - Develop scalable, cloud-native microservices using Docker and Kubernetes for AI
+    applications
+  - Drive initiatives that enhance project outcomes through creative strategies and
+    identify opportunities for technology advancements
+  - Uphold exceptional standards of quality and innovation in deliverables while managing
+    CI/CD pipelines for AI systems
+  use_cases:
+  - Building AI-powered applications integrated with various business platforms to
+    drive data-driven decision making
+  - Implementing RAG (Retrieval Augmented Generation) pipelines and agent orchestration
+    using LLMs for intelligent information retrieval
+  - Processing and analyzing large structured and unstructured datasets to extract
+    actionable insights and create data visualizations
+  - Deploying predictive models and machine learning solutions on cloud platforms
+    (AWS, GCP, Azure) using services like SageMaker, Vertex AI, or Databricks
+  skills:
+    genai: [LangChain, LlamaIndex, LangGraph, LLMs, RAG, agent orchestration]
+    ml: [PyTorch, TensorFlow, JAX, model training, model deployment]
+    web: [React]
+    databases: [vector databases]
+    data: [Pandas, NumPy]
+    cloud: [AWS, GCP, Azure, SageMaker, Vertex AI, Databricks]
+    ops: [Docker, Kubernetes, GitHub Actions, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7590114'
+  extracted_at: '2026-02-05T11:10:06.684261'

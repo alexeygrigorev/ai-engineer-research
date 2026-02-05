@@ -1,0 +1,61 @@
+company:
+  name: Built Technologies
+  stage: Series D
+  focus: |-
+    AI-powered platform for real estate financing, development,
+    and construction management
+  use_cases:
+  - Automating high-leverage operational workflows for lenders using Agentic AI
+  - Construction draw management and loan processing automation
+  - Real estate financing workflow optimization
+  - Operational efficiency improvements for lenders and borrowers
+  - AI-powered inspections and collaboration workflows
+  - Payment and portfolio management automation
+position:
+  title: Staff AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Solutions Engineer role with direct hands-on
+      work building, tuning, and deploying agentic AI workflows.
+      The responsibilities include prompt engineering, agent
+      workflow design, tool/function calling, structured outputs,
+      and working with LLM providers to implement production AI
+      solutions for customers.
+  responsibilities:
+  - Own prompt engineering and agent workflow design including tool/function calling,
+    structured outputs, and guardrails
+  - Translate client Standard Operating Procedures into production workflows accounting
+    for specific client nuances
+  - Operate and iterate with real client data to launch; troubleshoot and resolve
+    issues quickly and back-test changes
+  - Act as the technical escalation point for 6-8 concurrent customers; enable clients
+    and Agent Analysts on best practices
+  - Instrument and report performance, create reusable templates and runbooks, and
+    feed product requirements to Engineering
+  - Partner with Implementation Manager and Agent Analyst as the technical expert
+    to ensure customer success
+  use_cases:
+  - Automating high-leverage operational workflows for lenders using Agentic AI
+  - Construction draw management and loan processing automation
+  - Real estate financing workflow optimization
+  - Operational efficiency improvements for lenders and borrowers
+  - AI-powered inspections and collaboration workflows
+  - Payment and portfolio management automation
+  skills:
+    genai: [prompt engineering, tool/function calling, structured outputs, guardrails,
+      agents, retrieval, OpenAI API, Anthropic API]
+    ml: [evaluation pipelines, A/B testing]
+    web: [REST APIs, GraphQL]
+    databases: [Snowflake]
+    data: [Databricks]
+    cloud: [Azure AI]
+    ops: [Langfuse, MLflow]
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: [SOC2, PII handling]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7428353'
+  extracted_at: '2026-02-05T10:51:47.300969'

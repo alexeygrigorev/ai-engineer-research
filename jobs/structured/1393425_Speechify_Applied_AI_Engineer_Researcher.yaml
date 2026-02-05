@@ -1,0 +1,47 @@
+company:
+  name: Speechify
+  stage: Series B+
+  focus: Text-to-speech and accessibility tools for reading
+  use_cases:
+  - Text-to-speech conversion for various content types (PDFs, books, articles, websites)
+  - Generating human-like AI speech voices
+  - Image generation for content
+  - Accessibility tools for reading and learning
+position:
+  title: Applied AI Engineer & Researcher
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on building text-to-speech and image
+      generation models using deep learning frameworks. The core
+      work involves developing TTS systems and NLP/CV models,
+      which aligns with traditional ML engineering rather than
+      building LLM/agent applications or supporting AI
+      infrastructure.
+  responsibilities:
+  - Research and implement state-of-the-art techniques in NLP, TTS, or CV with focus
+    on image generation
+  - Build and develop human-sounding AI speech models
+  - Deploy NLP or TTS models to production at large scale
+  - Manage engineers and grow the research & development team
+  use_cases:
+  - Text-to-speech conversion for various content types (PDFs, books, articles, websites)
+  - Generating human-like AI speech voices
+  - Image generation for content
+  - Accessibility tools for reading and learning
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [model deployment, production ML]
+    languages: [Python]
+    domains: [NLP, TTS, CV, image generation]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '1393425'
+  extracted_at: '2026-02-05T09:25:23.885737'

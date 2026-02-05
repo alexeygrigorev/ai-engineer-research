@@ -1,0 +1,58 @@
+company:
+  name: Kiddom
+  stage: null
+  focus: |-
+    Educational platform with curriculum management and AI-
+    driven learning experiences
+  use_cases:
+  - Personalized learning paths that adapt to individual student needs
+  - Automated grading systems that provide efficient and accurate assessment
+  - AI-powered test data generation for QA workflows
+  - Self-healing test scripts to improve automation reliability
+  - Bias detection and mitigation in AI-driven educational features
+position:
+  title: Senior QA Engineer, AI Experience
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA Engineer role focused on testing and validating
+      AI-driven features rather than building or deploying AI
+      models. The engineer uses AI tools for test automation, data
+      generation, and documentation to support the AI features
+      developed by others.
+  responsibilities:
+  - Lead QA projects, managing cross-functional interactions and ensuring timely delivery
+  - Analyze user stories and product specifications to provide design feedback and
+    ensure testability
+  - Design and execute comprehensive tests while debugging complex application issues
+  - Integrate AI tools into QA workflows including self-healing scripts and AI-driven
+    test generation
+  - Validate AI-driven educational features like personalized learning paths and automated
+    grading systems for accuracy and bias mitigation
+  - Create automated test scripts, conduct code reviews, and develop maintainable
+    test plans
+  - Utilize LLMs to generate test data, summarize bug reports, and create test documentation
+    drafts
+  - Conduct defect analysis to identify root causes and triage user-reported issues
+  use_cases:
+  - Personalized learning paths that adapt to individual student needs
+  - Automated grading systems that provide efficient and accurate assessment
+  - AI-powered test data generation for QA workflows
+  - Self-healing test scripts to improve automation reliability
+  - Bias detection and mitigation in AI-driven educational features
+  skills:
+    genai: [AI tools, LLMs]
+    ml: []
+    web: [Playwright, Selenium]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [JUnit]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8291786'
+  extracted_at: '2026-02-05T12:38:53.459114'

@@ -1,0 +1,61 @@
+company:
+  name: Anthropic
+  stage: Series C
+  focus: Safe and beneficial AI systems, Claude LLM
+  use_cases:
+  - Digital Native Businesses adopting Claude API into their core products
+  - Customer products powered by Claude including new product development
+  - LLM-based workflows and automation solutions
+  - Evaluation frameworks for measuring LLM performance in production
+  - Agentic AI applications and implementations
+  - AI product development and architecture for enterprise customers
+position:
+  title: Applied AI Engineer (Digital Natives Business)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an Applied AI Engineer role that requires hands-on
+      production experience with LLMs including advanced prompt
+      engineering, agent development, evaluation frameworks, and
+      deployment at scale. The role involves developing pilots,
+      prototypes, evaluation suites, and guiding customers through
+      LLM implementation patterns - this is direct work ON AI
+      systems rather than just supporting them.
+  responsibilities:
+  - Serve as a specialist technical advisor to Anthropic customers as they deploy
+    new products and workflows with models, coordinating internally across multiple
+    teams to drive customer success
+  - Partner with account executives and solutions architects to translate customer
+    business requirements into technical solutions
+  - Influence technical architecture decisions and customer product strategy by developing
+    customized pilots, prototypes, and evaluation suites
+  - Lead hands-on technical workshops and code reviews with customer engineering teams
+  - Identify common design patterns and contribute insights back to Product and Engineering
+    teams
+  - Create scalable public and internal assets documenting the latest LLM prompting,
+    evaluation, agentic, and architecture techniques
+  - Maintain strong knowledge of latest developments in LLM capabilities, implementation
+    patterns, and AI product development stacks
+  use_cases:
+  - Digital Native Businesses adopting Claude API into their core products
+  - Customer products powered by Claude including new product development
+  - LLM-based workflows and automation solutions
+  - Evaluation frameworks for measuring LLM performance in production
+  - Agentic AI applications and implementations
+  - AI product development and architecture for enterprise customers
+  skills:
+    genai: [LLMs, prompt engineering, agents, MCP, Claude API]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation frameworks, deployment at scale]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8152512'
+  extracted_at: '2026-02-05T12:06:08.594245'

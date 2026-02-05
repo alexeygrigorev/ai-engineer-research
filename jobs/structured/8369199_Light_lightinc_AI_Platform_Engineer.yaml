@@ -1,0 +1,59 @@
+company:
+  name: Light (light.inc)
+  stage: Seed/Series A
+  focus: Smart Financial Platform replacing factory-era ERPs
+  use_cases:
+  - Automated accounting and financial flows that move at business speed
+  - Real-time financial reporting and reconciliation
+  - AI-powered finance operations with autonomous agent automation
+  - Integration with external platforms via MCP for extended workflow automation
+  - Deterministic AI features for financial platform users
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because the engineer will directly
+      architect and build an Agent Runtime, internal GenAI
+      Client/SDKs, and AI reliability frameworks. The role
+      involves implementing autonomous agents, prompt testing
+      pipelines, and AI infrastructure - all hands-on work with AI
+      systems rather than just supporting infrastructure for
+      others.
+  responsibilities:
+  - Design and build production-grade Agent Runtime handling tool registration, permissions,
+    timeouts, and retry semantics for autonomous agents
+  - Evolve internal GenAI Client and SDKs to create standardized paved road for product
+    engineers interacting with LLMs
+  - Build reliability frameworks, golden datasets, and regression testing pipelines
+    as CI/CD for AI deployment
+  - Lead integration with external platforms via Model Context Protocol (MCP) and
+    automation tools like n8n
+  - Design guardrails, rate limits, and caching strategies for predictable and cost-effective
+    AI infrastructure scaling
+  - Establish internal standards for AI reliability and deterministic, high-quality
+    AI feature delivery
+  use_cases:
+  - Automated accounting and financial flows that move at business speed
+  - Real-time financial reporting and reconciliation
+  - AI-powered finance operations with autonomous agent automation
+  - Integration with external platforms via MCP for extended workflow automation
+  - Deterministic AI features for financial platform users
+  skills:
+    genai: [MCP, Model Context Protocol, agents, Agent Runtime, prompt engineering,
+      LLM integration, OpenAI API, Anthropic API]
+    ml: []
+    web: [backend systems, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [observability, rate limiting, caching strategies, CI/CD, regression testing,
+      evaluation frameworks, logging]
+    languages: [Kotlin]
+    domains: []
+    other: [n8n, determinism]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8369199'
+  extracted_at: '2026-02-05T13:00:04.700213'

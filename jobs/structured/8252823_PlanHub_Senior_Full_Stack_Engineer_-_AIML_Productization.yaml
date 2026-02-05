@@ -1,0 +1,62 @@
+company:
+  name: PlanHub
+  stage: Series B or later
+  focus: |-
+    Pre-construction SaaS platform and marketplace for
+    commercial construction
+  use_cases:
+  - Intelligent search capabilities for construction projects and bids
+  - Recommendation systems helping contractors connect with subcontractors and suppliers
+  - Automation features to boost productivity and maintain deadlines in construction
+    workflows
+  - Real-time prediction workflows for bid and project matching
+  - User-facing AI-powered features integrated into the PlanHub pre-construction platform
+position:
+  title: Senior Full Stack Engineer - AI/ML Productization
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on productizing and deploying existing ML
+      models rather than building, training, or fine-tuning them.
+      The engineer works on inference systems, data pipelines, and
+      APIs that enable AI capabilities created by others, making
+      it an AI-support role.
+  responsibilities:
+  - Build production-ready APIs and microservices that expose ML model capabilities
+    to applications and end users
+  - Design and implement scalable inference systems supporting both real-time and
+    batch prediction workflows
+  - Develop robust data pipelines for ingesting, processing, validating, and preparing
+    data for ML systems
+  - Create user-facing features powered by AI capabilities including intelligent search,
+    recommendations, and automation
+  - Implement frontend code using Angular to produce end-to-end user experiences that
+    consume AI and ML models at inference time
+  - Optimize model serving for performance, latency, throughput, and cost efficiency
+  - Implement comprehensive logging, monitoring, error handling, and alerting for
+    AI-powered features
+  - Collaborate with AI Engineers to integrate model capabilities into production
+    systems
+  use_cases:
+  - Intelligent search capabilities for construction projects and bids
+  - Recommendation systems helping contractors connect with subcontractors and suppliers
+  - Automation features to boost productivity and maintain deadlines in construction
+    workflows
+  - Real-time prediction workflows for bid and project matching
+  - User-facing AI-powered features integrated into the PlanHub pre-construction platform
+  skills:
+    genai: []
+    ml: []
+    web: [Angular, RESTful APIs, microservices, Laravel]
+    databases: [DynamoDB, SQL, NoSQL, Redis]
+    data: [SQS, Kafka, RabbitMQ, Celery]
+    cloud: [AWS, AWS Lambda, AWS ECS, API Gateway]
+    ops: [Docker, CI/CD, Datadog, Prometheus, Grafana]
+    languages: [Python, PHP]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8252823'
+  extracted_at: '2026-02-05T12:22:41.033951'

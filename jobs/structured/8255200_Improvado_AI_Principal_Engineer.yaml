@@ -1,0 +1,61 @@
+company:
+  name: Improvado
+  stage: Series A
+  focus: AI-powered marketing intelligence and reporting platform
+  use_cases:
+  - Automate complex marketing intelligence and reporting for enterprise marketing
+    teams
+  - Gather, organize, and untangle marketing data to deliver instant insights through
+    AI
+  - Deliver laser-focused insights to optimize marketing budgets and enhance campaign
+    efficiency
+  - Provide AI-powered business intelligence for making data-driven marketing decisions
+  - Enable medium to large-scale enterprises and agencies to improve marketing ROI
+position:
+  title: AI Principal Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role as it involves hands-on building of
+      AI-powered features from the ground up, specifically using
+      modern LLM frameworks to build intelligent agents. The role
+      requires deep experience with LLMs in production, prompt
+      engineering, vector databases, orchestration tools, and
+      model evaluation pipelines - all directly working with AI
+      systems rather than supporting them.
+  responsibilities:
+  - Co-own the AI product and technical roadmap with the CEO
+  - Design and implement key AI-powered features from the ground up
+  - Drive technical architecture decisions and ensure high code quality and reliability
+  - Write scalable, production-ready code and build intelligent agents using modern
+    LLM frameworks
+  - Define and track success metrics from model performance to user satisfaction and
+    adoption
+  - Bridge product thinking and deep engineering as the link between engineering and
+    business
+  - Guide and mentor a small team of AI engineers through hands-on collaboration
+  use_cases:
+  - Automate complex marketing intelligence and reporting for enterprise marketing
+    teams
+  - Gather, organize, and untangle marketing data to deliver instant insights through
+    AI
+  - Deliver laser-focused insights to optimize marketing budgets and enhance campaign
+    efficiency
+  - Provide AI-powered business intelligence for making data-driven marketing decisions
+  - Enable medium to large-scale enterprises and agencies to improve marketing ROI
+  skills:
+    genai: [LLM frameworks, prompt engineering, intelligent agents]
+    ml: [model evaluation pipelines, AI/ML systems]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [orchestration tools]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8255200'
+  extracted_at: '2026-02-05T12:24:57.322251'

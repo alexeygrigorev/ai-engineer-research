@@ -1,0 +1,52 @@
+company:
+  name: P-1 AI
+  stage: Seed
+  focus: Building an engineering AGI for physical product design
+  use_cases:
+  - AI engineer capable of quantitative intuition over physical product domains
+  - Automating engineering tool use for physical product design
+  - Assisting entry-level design engineering work with AI capabilities
+  - Deploying AI engineering systems to industrial manufacturing companies
+  - Integrating AI with industry-standard engineering design workflows
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a research-meets-production role building core AI
+      capabilities, including training, adapting, and deploying
+      large language models and building new agentic behaviors.
+      The engineer works directly on model development and agent
+      implementation, not just supporting infrastructure.
+  responsibilities:
+  - Train, adapt, and deploy large language models for engineering applications
+  - Build new agentic behaviors and capabilities for Archie the AI engineer
+  - Integrate AI systems with industry-standard engineering tools
+  - Collaborate with AI researchers and domain experts to translate ML research into
+    production systems
+  - Develop core AI capabilities that enable quantitative intuition over physical
+    product domains
+  - Work in a research-meets-production environment turning cutting-edge ML into real
+    engineering systems
+  use_cases:
+  - AI engineer capable of quantitative intuition over physical product domains
+  - Automating engineering tool use for physical product design
+  - Assisting entry-level design engineering work with AI capabilities
+  - Deploying AI engineering systems to industrial manufacturing companies
+  - Integrating AI with industry-standard engineering design workflows
+  skills:
+    genai: [Large Language Models, agents]
+    ml: [Deep Learning, model training, model fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8243631'
+  extracted_at: '2026-02-05T12:19:29.072509'

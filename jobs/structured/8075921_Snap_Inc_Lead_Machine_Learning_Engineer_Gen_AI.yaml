@@ -1,0 +1,53 @@
+company:
+  name: Snap Inc.
+  stage: Public
+  focus: Camera and visual messaging platform with AR
+  use_cases:
+  - AI-powered AR lenses for image and video generation and editing on Snapchat
+  - Real-time augmented reality experiences using generative models
+  - Visual content creation tools leveraging LLMs and diffusion models
+  - Consumer-facing ML products for camera and messaging applications
+  - Image and video generation/editing features integrated into Lens Studio
+position:
+  title: Lead Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying generative AI
+      systems including diffusion/flow matching models, GANs, and
+      LLMs for image/video generation. The engineer works directly
+      on model development, evaluation, and integration of GenAI
+      models into production consumer products.
+  responsibilities:
+  - Develop ML-products and AI Lenses serving millions of users, focusing on image/video
+    generation, editing, and LLMs
+  - Build cutting-edge AR experiences using diffusion/flow matching models and GANs
+  - Work on state-of-the-art GenAI pipelines for image and video generation
+  - Collaborate with Product, Software Engineering, Lens Content and Data Science
+    teams to prototype ideas and integrate ML models into production
+  - Monitor market and research landscape for GenAI developments, evaluate open-source
+    models and third-party AI APIs
+  - Evaluate open-source GenAI models and APIs to inform build-vs-buy decisions
+  use_cases:
+  - AI-powered AR lenses for image and video generation and editing on Snapchat
+  - Real-time augmented reality experiences using generative models
+  - Visual content creation tools leveraging LLMs and diffusion models
+  - Consumer-facing ML products for camera and messaging applications
+  - Image and video generation/editing features integrated into Lens Studio
+  skills:
+    genai: [diffusion models, flow matching, GANs, LLMs]
+    ml: [generative models, segmentation, object detection, classification, tracking,
+      deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++]
+    domains: [image generation, video generation, neural rendering, computer graphics]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8075921'
+  extracted_at: '2026-02-05T11:58:10.814416'

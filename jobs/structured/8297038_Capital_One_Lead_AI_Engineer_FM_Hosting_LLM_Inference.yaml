@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-driven customer
+    experiences
+  use_cases:
+  - Real-time customer experience personalization using AI/ML
+  - Informing customers about unusual financial charges and suspicious activity
+  - Answering customer questions in real-time through AI-powered systems
+  - Enhancing banking products with responsible and scalable AI capabilities
+  - AI-powered solutions for associates to improve productivity
+  - Large-scale production AI systems for banking applications
+position:
+  title: Lead AI Engineer (FM Hosting, LLM Inference)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with large language model
+      inference, foundation model training, and LLM optimization
+      techniques. The engineer will design, deploy, and support AI
+      software components including inference systems, guardrails,
+      and model evaluation, working directly with AI models and
+      optimization.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that transform
+    how associates work and customers interact with Capital One
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies including AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Develop and apply novel techniques from AI research to optimize training and inference
+    software for better hardware utilization and performance
+  use_cases:
+  - Real-time customer experience personalization using AI/ML
+  - Informing customers about unusual financial charges and suspicious activity
+  - Answering customer questions in real-time through AI-powered systems
+  - Enhancing banking products with responsible and scalable AI capabilities
+  - AI-powered solutions for associates to improve productivity
+  - Large-scale production AI systems for banking applications
+  skills:
+    genai: [Huggingface, LLM Inference, Nemo Guardrails, Similarity Search, Guardrails]
+    ml: [PyTorch, Foundation Model Training, Model Evaluation]
+    web: []
+    databases: [VectorDBs]
+    data: []
+    cloud: [AWS Ultraclusters, AWS, Google Cloud, Azure]
+    ops: [LLM Optimization]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8297038'
+  extracted_at: '2026-02-05T12:40:40.190623'

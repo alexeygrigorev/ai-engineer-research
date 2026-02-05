@@ -1,0 +1,52 @@
+company:
+  name: G2i
+  stage: null
+  focus: AI code evaluation and LLM training services
+  use_cases:
+  - Training LLMs to write production-grade code across multiple programming languages
+  - Teaching models to propose, critique, and improve code through expert feedback
+  - Improving AI code generation quality through reinforcement learning
+  - Converting human code review feedback into reward signals for model tuning
+  - Enhancing model ability to generate code that meets production standards
+position:
+  title: Software Engineer, AI (C)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves working directly ON AI/LLM systems
+      through RLHF (Reinforcement Learning with Human Feedback),
+      ranking code snippets, providing feedback to train models,
+      and refactoring AI-generated code. The employee is actively
+      involved in the training pipeline that tunes the model's
+      behavior, which constitutes hands-on AI model development
+      work.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Maintain smooth operation of the RLHF feedback loop for model training
+  - Provide detailed justifications for code review decisions to train model reasoning
+  - Identify logic errors, performance traps, and security issues in AI-generated
+    code
+  use_cases:
+  - Training LLMs to write production-grade code across multiple programming languages
+  - Teaching models to propose, critique, and improve code through expert feedback
+  - Improving AI code generation quality through reinforcement learning
+  - Converting human code review feedback into reward signals for model tuning
+  - Enhancing model ability to generate code that meets production standards
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [C]
+    domains: []
+    other: [code review, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8114466'
+  extracted_at: '2026-02-05T12:02:48.180894'

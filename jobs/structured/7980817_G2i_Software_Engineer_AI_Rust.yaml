@@ -1,0 +1,51 @@
+company:
+  name: G2i
+  stage: null
+  focus: LLM code evaluation and training through human feedback
+  use_cases:
+  - Training large language models to write production-grade code
+  - Generating expert code comparisons and rankings for model learning
+  - Creating reward signals through human code feedback for reinforcement learning
+  - Improving AI code generation through human-in-the-loop refinement
+  - Teaching LLMs to propose, critique, and improve code like expert engineers
+position:
+  title: Software Engineer, AI (Rust)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on providing human feedback (ranking,
+      editing, reviewing code) for RLHF pipelines to train LLMs,
+      rather than building, deploying, or fine-tuning models
+      directly. The work involves code review and refactoring to
+      generate training data/signals for others to use in model
+      training, which is enabling work for AI systems rather than
+      hands-on AI development.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Provide detailed explanations of code quality to help the model learn
+  - Identify logic errors, performance traps, and security issues in code
+  - Maintain smooth operation of the RLHF feedback pipeline
+  use_cases:
+  - Training large language models to write production-grade code
+  - Generating expert code comparisons and rankings for model learning
+  - Creating reward signals through human code feedback for reinforcement learning
+  - Improving AI code generation through human-in-the-loop refinement
+  - Teaching LLMs to propose, critique, and improve code like expert engineers
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Rust]
+    domains: []
+    other: [code review, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7980817'
+  extracted_at: '2026-02-05T11:45:03.119306'

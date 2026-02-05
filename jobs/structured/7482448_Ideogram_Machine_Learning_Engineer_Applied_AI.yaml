@@ -1,0 +1,60 @@
+company:
+  name: Ideogram
+  stage: Series B
+  focus: |-
+    Generative media models and AI-native creative workflows for
+    graphic design
+  use_cases:
+  - Text-to-image generation for graphic design and creative workflows
+  - Image-to-text and multimodal model applications for design assistance
+  - Image enhancement and editing tools powered by generative models
+  - AI-native creative workflows that multiply human creativity
+  - First-party app and API products delivering generative media capabilities
+  - Design tools that help creatives with ideogram, canvas, and character creation
+position:
+  title: Machine Learning Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly working on generative media
+      models, fine-tuning and deploying them for production, and
+      building ML systems. The engineer will handle text-to-image,
+      image-to-text, and multimodal models, which is hands-on
+      AI/ML model work, not just supporting infrastructure.
+  responsibilities:
+  - Bridge research and product by turning frontier generative models into production
+    features across app and API
+  - Fine-tune and deploy models for creative use cases including text-to-image, image-to-text,
+    image enhancement and editing
+  - Build rigorous evaluations, datasets, and benchmarks while running error analyses
+    and debugging numerical stability
+  - Partner with research, engineering, infra, and product teams to ship reliable
+    and scalable ML systems
+  - Lead 0 to 1 projects that shape Applied AI practices and establish success metrics
+    for quality, latency, and cost
+  - Contribute to safety, monitoring, and reliability of ML systems while delivering
+    features that create value for users
+  use_cases:
+  - Text-to-image generation for graphic design and creative workflows
+  - Image-to-text and multimodal model applications for design assistance
+  - Image enhancement and editing tools powered by generative models
+  - AI-native creative workflows that multiply human creativity
+  - First-party app and API products delivering generative media capabilities
+  - Design tools that help creatives with ideogram, canvas, and character creation
+  skills:
+    genai: [diffusion models, multimodal models, generative models]
+    ml: [PyTorch, JAX, transformers, encoders, model fine-tuning, evaluation metrics,
+      numerical stability debugging]
+    web: []
+    databases: []
+    data: [data curation and labeling]
+    cloud: []
+    ops: [model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7482448'
+  extracted_at: '2026-02-05T10:58:41.128088'

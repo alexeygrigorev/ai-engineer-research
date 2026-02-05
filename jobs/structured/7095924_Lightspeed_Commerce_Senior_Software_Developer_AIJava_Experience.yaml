@@ -1,0 +1,52 @@
+company:
+  name: Lightspeed Commerce
+  stage: Public
+  focus: |-
+    Cloud commerce platform for retail, hospitality, and golf
+    businesses
+  use_cases:
+  - Building internal AI-powered tools to improve team productivity
+  - Extending commerce product suite with new AI features
+  - Helping other teams integrate LLMs and AI patterns into their workflows
+  - Implementing text summarization and classification capabilities
+  - Building RAG systems for document retrieval and knowledge access
+position:
+  title: Senior Software Developer (AI+Java Experience)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI-powered tools
+      and product features using LLMs, RAG, prompt pipelines, and
+      agent frameworks. The developer will directly implement and
+      integrate AI capabilities rather than just supporting
+      infrastructure for AI teams.
+  responsibilities:
+  - Building and maintaining backend services and APIs in a Spring Boot Java environment
+  - Designing and implementing AI-powered tools and product features
+  - Collaborating with other teams to help them integrate LLMs and AI patterns
+  - Exploring and applying LLM capabilities such as summarization, classification,
+    RAG, and prompt pipelines
+  - Writing clean, maintainable, and well-tested backend code
+  - Ensuring reliability, performance, and scalability of the systems built
+  use_cases:
+  - Building internal AI-powered tools to improve team productivity
+  - Extending commerce product suite with new AI features
+  - Helping other teams integrate LLMs and AI patterns into their workflows
+  - Implementing text summarization and classification capabilities
+  - Building RAG systems for document retrieval and knowledge access
+  skills:
+    genai: [OpenAI, Claude, prompt engineering, RAG]
+    ml: []
+    web: [Spring Boot, REST APIs]
+    databases: [SQL, NoSQL, vector search, semantic retrieval]
+    data: []
+    cloud: []
+    ops: [Docker, CI/CD, Kubernetes]
+    languages: [Java, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7095924'
+  extracted_at: '2026-02-05T10:16:01.782289'

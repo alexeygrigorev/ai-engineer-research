@@ -1,0 +1,68 @@
+company:
+  name: Finn Partners
+  stage: Public
+  focus: Public relations and marketing communications agency
+  use_cases:
+  - Automating internal workflows and boosting productivity through AI capabilities
+  - Developing agentic AI platform to serve as foundational technology for enterprise-wide
+    solutions
+  - Building AI-powered tools and micro-services to solve specific business problems
+    within a PR/marketing organization
+  - Fine-tuning and optimizing generative models (Gemini, ChatGPT, Claude) for internal
+    business use cases
+  - Implementing AI systems to support marketing and communications workflows and
+    client services
+position:
+  title: AI Solutions Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI-
+      powered tools, including agentic AI platforms, internal AI
+      tools, and micro-services. The engineer is responsible for
+      model selection, fine-tuning, prompt engineering, and the
+      full technical lifecycle from prototype to production - all
+      direct AI/ML system development tasks.
+  responsibilities:
+  - Manage the full technical lifecycle of AI-driven solutions from initial prototype
+    to production deployment and maintenance
+  - Assess, evaluate, and implement a standard agentic AI platform as foundational
+    technology for enterprise-wide solutions
+  - Design, build, and maintain internal tools, integrations, and micro-services to
+    address business pain points and scalability requirements
+  - Rapidly prototype AI-enabled utilities, validate business value, and promote successful
+    pilots into robust production services
+  - Oversee architectural and technology choices for internal AI systems by reviewing
+    model selection, libraries, and frameworks
+  - Provide expert guidance on prompt engineering and interaction patterns for generative
+    models including Gemini, ChatGPT, and Claude
+  - Assist teams with data preparation, fine-tuning, and evaluation to maximize solution
+    accuracy, safety, and reliability
+  - Set up and leverage MCP servers to power AI-driven actions
+  use_cases:
+  - Automating internal workflows and boosting productivity through AI capabilities
+  - Developing agentic AI platform to serve as foundational technology for enterprise-wide
+    solutions
+  - Building AI-powered tools and micro-services to solve specific business problems
+    within a PR/marketing organization
+  - Fine-tuning and optimizing generative models (Gemini, ChatGPT, Claude) for internal
+    business use cases
+  - Implementing AI systems to support marketing and communications workflows and
+    client services
+  skills:
+    genai: [generative AI APIs, prompt engineering, fine-tuning, agentic AI, MCP (Model
+        Context Protocol)]
+    ml: [machine learning algorithms, AI frameworks and libraries]
+    web: [micro-services]
+    databases: []
+    data: [data preparation]
+    cloud: [Azure, GCP, AWS]
+    ops: [system architecture]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8044913'
+  extracted_at: '2026-02-05T11:53:29.328036'

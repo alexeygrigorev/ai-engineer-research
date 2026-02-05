@@ -1,0 +1,62 @@
+company:
+  name: Medal
+  stage: Seed
+  focus: AI foundation models for spatial and embodied intelligence
+  use_cases:
+  - Spatial and temporal reasoning agents for complex environments
+  - World models and simulation environments for training and evaluation
+  - Video understanding with generalization beyond gaming applications
+  - Robotic systems with perception, sensor fusion, and inverse dynamics
+  - Industrial automation and manufacturing with AI-powered control systems
+  - Aerospace and defense applications with edge AI deployment
+position:
+  title: Applied AI Engineer (Spatial and Embodied AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an Applied AI Engineer role that directly works on
+      building, tuning, deploying, and optimizing AI models for
+      real-world applications. The engineer is responsible for
+      post-training, evaluation, and integrating AI inference
+      engines with hardware, working hands-on with agents, world
+      models, and perception systems in production environments.
+  responsibilities:
+  - Embed with partners to solve complex problems using frontier AI/ML tools and inform
+    research and product development
+  - Build, tune, and optimize models for deployment in constrained hardware environments
+    with real-world interference
+  - Develop high-performance integration code connecting AI inference engines with
+    legacy sensors, RTOS, and diverse hardware peripherals
+  - Serve as the primary filter between real-world physical constraints and research
+    staff to surface commercial challenges
+  - Optimize complex ML models for harsh computing environments and validate plans
+    using simulation and world-model capabilities
+  - Translate probabilistic AI outputs into deterministic language for industrial
+    control systems and mission operators
+  - Deploy, evaluate, and debug models throughout their lifecycle from prototype to
+    production
+  use_cases:
+  - Spatial and temporal reasoning agents for complex environments
+  - World models and simulation environments for training and evaluation
+  - Video understanding with generalization beyond gaming applications
+  - Robotic systems with perception, sensor fusion, and inverse dynamics
+  - Industrial automation and manufacturing with AI-powered control systems
+  - Aerospace and defense applications with edge AI deployment
+  skills:
+    genai: []
+    ml: [PyTorch, CUDA, reinforcement learning]
+    web: [React, Electron]
+    databases: [Redis]
+    data: [RabbitMQ, Airflow, NumPy]
+    cloud: [GCP]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Triton, TensorRT, ONNX, Kubeflow,
+      edge AI, inference optimization, model optimization, RTOS, DevSecOps]
+    languages: [Python, C++, Go, Rust, Java, C#, Swift, Kotlin]
+    domains: [OpenCV, planning, control theory, spatial reasoning, world models, simulation
+        environments, perception, sensor fusion, inverse dynamics models]
+    other: [Unity, Unreal, Omniverse, Isaac Sim]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8315107'
+  extracted_at: '2026-02-05T12:48:26.026697'

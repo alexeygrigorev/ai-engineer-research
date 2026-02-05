@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI/ML-driven customer
+    experiences
+  use_cases:
+  - Informing customers about unusual charges in real-time
+  - Answering customer questions in real-time through AI-powered systems
+  - Creating real-time, personalized customer experiences in banking
+  - Enabling associates to work more efficiently with AI-powered tools
+  - Delivering responsible and scalable AI platforms that enhance products across
+    the company
+position:
+  title: Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with foundation models, LLM
+      inference training, and optimization techniques. The
+      engineer will design, develop, deploy and support AI
+      software components including large language model
+      inference, similarity search, and guardrails, working
+      directly on AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Partner with cross-functional teams including engineers, research scientists,
+    technical program managers, and product managers to deliver AI-powered products
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, large language model inference, similarity search, guardrails,
+    model evaluation, experimentation, governance, and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve the
+    performance - scalability, cost, latency, throughput - of large scale production
+    AI systems
+  - Contribute to the technical vision and the long term roadmap of foundational AI
+    systems at Capital One
+  use_cases:
+  - Informing customers about unusual charges in real-time
+  - Answering customer questions in real-time through AI-powered systems
+  - Creating real-time, personalized customer experiences in banking
+  - Enabling associates to work more efficiently with AI-powered tools
+  - Delivering responsible and scalable AI platforms that enhance products across
+    the company
+  skills:
+    genai: [Hugging Face, LLM inference, Guardrails, RAG]
+    ml: [PyTorch, Model training, Model optimization, Model evaluation]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, Go, Scala, Java, C++, C#]
+    domains: []
+    other: [Similarity search]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7612300'
+  extracted_at: '2026-02-05T11:13:59.983791'

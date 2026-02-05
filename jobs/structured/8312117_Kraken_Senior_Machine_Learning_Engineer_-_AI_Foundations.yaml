@@ -1,0 +1,58 @@
+company:
+  name: Kraken
+  stage: Public
+  focus: Smart energy operating system and platform
+  use_cases:
+  - Enabling safe, reliable, and efficient use of machine learning across the entire
+    company
+  - Providing standardized access to ML and generative AI models through shared gateways
+  - Supporting AI adoption in energy optimization and grid intelligence applications
+  - Measuring and monitoring AI system performance and safety at scale
+  - Enabling engineering and product teams to integrate AI into everyday development
+    workflows
+position:
+  title: Senior Machine Learning Engineer - AI Foundations
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform/infrastructure role that builds
+      foundational AI capabilities, gateways, and tooling for
+      other teams to use. The role focuses on enabling AI adoption
+      rather than building, training, or deploying models
+      directly, which aligns with ai-support classification.
+  responsibilities:
+  - Build and maintain foundational AI gateways and inference services providing reliable
+    access to ML and generative AI models
+  - Architect and evolve internal evaluation tooling and monitoring frameworks for
+    measuring system performance, quality, and safety at scale
+  - Act as technical mentor teaching software engineers and ML specialists how to
+    adopt foundational AI capabilities
+  - Create and maintain high-quality documentation, internal guidance, and technical
+    standards for effective AI usage
+  - Continuously improve AI enablement approach by balancing speed, cost, and quality
+    within the managed infrastructure
+  - Work pragmatically favoring production solutions over theoretical perfection
+  use_cases:
+  - Enabling safe, reliable, and efficient use of machine learning across the entire
+    company
+  - Providing standardized access to ML and generative AI models through shared gateways
+  - Supporting AI adoption in energy optimization and grid intelligence applications
+  - Measuring and monitoring AI system performance and safety at scale
+  - Enabling engineering and product teams to integrate AI into everyday development
+    workflows
+  skills:
+    genai: [generative AI]
+    ml: [ML libraries and frameworks]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [cloud infrastructure]
+    ops: [MLOps, model monitoring, model evaluation, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8312117'
+  extracted_at: '2026-02-05T12:45:16.619083'

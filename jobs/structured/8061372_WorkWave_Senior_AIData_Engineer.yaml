@@ -1,0 +1,60 @@
+company:
+  name: WorkWave
+  stage: null
+  focus: |-
+    Decision intelligence and data-driven products for field
+    service and workforce management
+  use_cases:
+  - AI/ML predictions and forecasts for decision intelligence products
+  - Feature engineering pipelines supporting machine learning models
+  - Data validation frameworks ensuring model input/output quality
+  - Analytical data products delivering business insights
+  - Customer-facing data products driving decision intelligence
+position:
+  title: Senior AI/Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building data infrastructure,
+      feature pipelines, and orchestration systems that enable
+      AI/ML work. The candidate builds data validation frameworks,
+      model input/output flows, and MLOps infrastructure, but does
+      not train, deploy, or fine-tune models themselves. They are
+      described as "The ML Enabler" who builds the pipelines that
+      feed models, which is the definition of ai-support.
+  responsibilities:
+  - Build AI/ML predictions and forecasts via feature pipelines, model input/output
+    data flows, and robust data validation frameworks
+  - Design and implement reliable, scalable, and secure data pipelines that serve
+    analytical and product use cases
+  - Provide technical leadership and mentorship to other data engineers and cross-functional
+    collaborators
+  - Own the architecture and evolution of the data platform, ensuring performance,
+    scalability, and agility
+  - Implement data governance, quality, and observability best practices to ensure
+    trustworthy insights
+  - Optimize cloud data infrastructure for cost, performance, and maintainability
+  - Collaborate with product managers, engineers, and customer stakeholders to translate
+    needs into engineering solutions
+  use_cases:
+  - AI/ML predictions and forecasts for decision intelligence products
+  - Feature engineering pipelines supporting machine learning models
+  - Data validation frameworks ensuring model input/output quality
+  - Analytical data products delivering business insights
+  - Customer-facing data products driving decision intelligence
+  skills:
+    genai: []
+    ml: [scikit-learn, feature engineering]
+    web: []
+    databases: [Snowflake, BigQuery, Redshift, data modeling]
+    data: [Airflow, dbt, Dagster, Databricks, data pipelines, ETL]
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8061372'
+  extracted_at: '2026-02-05T11:56:13.031028'

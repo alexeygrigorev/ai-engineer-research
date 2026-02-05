@@ -1,0 +1,64 @@
+company:
+  name: DISQO
+  stage: null
+  focus: Ad measurement and analytics platform
+  use_cases:
+  - AI-powered analytics system for intuitive and instant data exploration
+  - Autonomous data exploration and insight generation using agentic AI
+  - High-performance marketing analytics with sub-second query performance
+  - Advertising performance measurement and consumer behavior analysis
+  - Large-scale data processing at billions of data points for marketing datasets
+  - Intelligent decision-making system for brands, agencies, and media companies
+position:
+  title: Sr. Staff Software Engineer - Advanced Analytics Platform (Rust + AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building an Agentic AI system
+      that leverages AI to drive autonomous, intelligent decision-
+      making and autonomously explore data to surface insights.
+      The engineer will architect and build this next-generation
+      AI analytics engine from the ground up, working hands-on
+      with AI technologies rather than just supporting AI
+      infrastructure.
+  responsibilities:
+  - Architect and deliver a high-performance Advanced Analytics Engine featuring vectorized
+    query processing, columnar storage, and OLAP capabilities
+  - Design and build an Agentic AI system that leverages the Advanced Analytics Engine
+    to drive autonomous, intelligent decision-making
+  - Partner with product, engineering, and data teams to power agentic AI analytics
+    systems that autonomously explore data and surface actionable insights
+  - Profile, benchmark, and optimize Rust components for maximum throughput, low latency,
+    and hardware-aware efficiency
+  - Leverage AWS cloud services to architect scalable, reliable, and cost-efficient
+    analytics infrastructure
+  - Shape the evolution of DISQO's broader data platform and integration across the
+    product ecosystem
+  - Mentor and guide engineers, fostering a culture of technical excellence, innovation,
+    and collaboration
+  - Contribute to open-source or internal frameworks that advance analytical systems
+    and distributed computation
+  use_cases:
+  - AI-powered analytics system for intuitive and instant data exploration
+  - Autonomous data exploration and insight generation using agentic AI
+  - High-performance marketing analytics with sub-second query performance
+  - Advertising performance measurement and consumer behavior analysis
+  - Large-scale data processing at billions of data points for marketing datasets
+  - Intelligent decision-making system for brands, agencies, and media companies
+  skills:
+    genai: [Agentic AI]
+    ml: []
+    web: []
+    databases: []
+    data: [columnar storage, vectorized query processing, OLAP, Apache DataFusion,
+      DuckDB, ClickHouse]
+    cloud: [AWS]
+    ops: [performance engineering, profiling]
+    languages: [Rust, Java]
+    domains: [statistics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7789175'
+  extracted_at: '2026-02-05T11:31:16.018918'

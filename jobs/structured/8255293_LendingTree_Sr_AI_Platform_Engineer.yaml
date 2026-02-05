@@ -1,0 +1,59 @@
+company:
+  name: LendingTree
+  stage: Public
+  focus: Online lending marketplace connecting consumers with lenders
+  use_cases:
+  - Enabling non-technical teams to build AI-driven workflows securely and efficiently
+  - Providing secure access to generative AI models for product teams with usage monitoring
+  - Automating business processes using low-code/no-code platforms integrated with
+    AI services
+  - Bridging business departments with AI capabilities through managed platforms
+  - Supporting AI-powered decision making across lending, insurance, and financial
+    products
+position:
+  title: Sr. AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on managing and integrating AI
+      platforms (AWS Bedrock, Azure AI Foundry) and building
+      automation workflows for teams to use AI services, not on
+      building, training, or fine-tuning models. The engineer
+      enables others to consume AI capabilities through
+      infrastructure, governance, and workflow automation -
+      classic platform engineering support for AI work.
+  responsibilities:
+  - Manage and optimize AI platforms including AWS Bedrock and Azure AI Foundry
+  - Administer and scale third-party integration tools like Zapier, n8n, and Tines
+    for AI-driven workflows
+  - Build automated processes for teams to securely access and use generative AI models
+    with cost monitoring
+  - Enable cross-functional teams to leverage AI tools through automation and platform
+    support
+  - Implement operations, governance, and security practices for AI platform usage
+  - Design and maintain infrastructure using Terraform and cloud best practices
+  use_cases:
+  - Enabling non-technical teams to build AI-driven workflows securely and efficiently
+  - Providing secure access to generative AI models for product teams with usage monitoring
+  - Automating business processes using low-code/no-code platforms integrated with
+    AI services
+  - Bridging business departments with AI capabilities through managed platforms
+  - Supporting AI-powered decision making across lending, insurance, and financial
+    products
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Zapier, n8n, Tines]
+    cloud: [AWS, AWS Bedrock, Amazon SageMaker, Azure AI Foundry, Azure AI Services,
+      Google Vertex AI]
+    ops: [Terraform, Docker, Kubernetes, DevOps, SRE]
+    languages: [Python, Bash, C#, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8255293'
+  extracted_at: '2026-02-05T12:25:04.445032'

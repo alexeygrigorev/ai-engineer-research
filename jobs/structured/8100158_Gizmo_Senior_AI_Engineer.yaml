@@ -1,0 +1,50 @@
+company:
+  name: Gizmo
+  stage: Series A
+  focus: AI-powered gamified learning platform
+  use_cases:
+  - Gamified learning platform that uses AI to make learning easy and fun for anyone
+  - AI-powered educational content generation and personalization
+  - Social and gamified learning mechanics powered by LLMs
+  - Adaptive learning experiences using large language models
+  - Duolingo-style learning for any subject enhanced by AI
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs including prompt
+      engineering, model evaluation, and deploying AI models into
+      production. The engineer directly builds, tests, and ships
+      AI features using models like Gemini 3 and ChatGPT 5.
+  responsibilities:
+  - Design and implement AI features using prompt engineering techniques with latest
+    LLMs like Gemini 3 and ChatGPT 5
+  - Apply LLM evaluation techniques to assess and improve AI systems performance
+  - Deploy and integrate AI models into production environments using TypeScript backend
+  - Collaborate with engineering team to build, test and ship AI-powered product features
+  - Shape product experience for rapidly growing user base of 1.5M monthly active
+    users
+  - Develop deep expertise in LLM evaluation methodologies and systems
+  use_cases:
+  - Gamified learning platform that uses AI to make learning easy and fun for anyone
+  - AI-powered educational content generation and personalization
+  - Social and gamified learning mechanics powered by LLMs
+  - Adaptive learning experiences using large language models
+  - Duolingo-style learning for any subject enhanced by AI
+  skills:
+    genai: [prompt engineering, LLM evaluation, Gemini, ChatGPT/OpenAI API]
+    ml: [Machine Learning]
+    web: [TypeScript backend]
+    databases: []
+    data: []
+    cloud: []
+    ops: [AI model deployment]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8100158'
+  extracted_at: '2026-02-05T12:01:20.405858'

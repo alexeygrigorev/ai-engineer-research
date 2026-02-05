@@ -1,0 +1,56 @@
+company:
+  name: Humana
+  stage: Public
+  focus: Health insurance and healthcare services
+  use_cases:
+  - Retrieval-Augmented Generation applications for business use cases
+  - Generative AI agents for healthcare and insurance operations
+  - Large-scale data processing and transformation for ML/AI workflows
+  - Traditional machine learning model deployment for business analytics
+  - API-driven AI solutions for internal stakeholders
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs and generative AI
+      technologies, including implementing Retrieval-Augmented
+      Generation and generative AI agents. The engineer will
+      directly build, deploy, and maintain AI-powered solutions
+      working with models, not just supporting infrastructure for
+      others.
+  responsibilities:
+  - Explore and implement generative AI technologies using Large Language Models and
+    other generative models to create innovative solutions
+  - Build and maintain robust APIs for enabling Retrieval-Augmented Generation and
+    generative AI agents within business use cases
+  - Design, develop, and maintain robust data pipelines for ingestion, processing,
+    and transformation of large datasets
+  - Assist the data science team in the development and deployment of traditional
+    machine learning models
+  - Collaborate with data scientists to understand model requirements and translate
+    them into scalable engineering solutions
+  - Monitor and maintain performance and reliability of deployed APIs, models, and
+    data pipelines
+  use_cases:
+  - Retrieval-Augmented Generation applications for business use cases
+  - Generative AI agents for healthcare and insurance operations
+  - Large-scale data processing and transformation for ML/AI workflows
+  - Traditional machine learning model deployment for business analytics
+  - API-driven AI solutions for internal stakeholders
+  skills:
+    genai: [Large Language Models, RAG, LangChain, Pydantic AI]
+    ml: [TensorFlow, PyTorch, Scikit-learn]
+    web: [FastAPI, Flask, REST]
+    databases: []
+    data: [Pandas, NumPy, Hadoop, Spark]
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Git]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7528309'
+  extracted_at: '2026-02-05T11:05:11.285634'

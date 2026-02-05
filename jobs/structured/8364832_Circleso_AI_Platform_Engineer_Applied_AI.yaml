@@ -1,0 +1,57 @@
+company:
+  name: Circle.so
+  stage: Series B
+  focus: All-in-one platform for online communities
+  use_cases:
+  - AI-powered agents for community engagement and automation
+  - AI workflows that streamline community management tasks
+  - AI copilot features that assist users within the community platform
+  - RAG-based systems for retrieving relevant community content and discussions
+  - Real-time AI features integrated into live streams, chat, and course functionality
+position:
+  title: AI Platform Engineer, Applied AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building infrastructure for evaluating,
+      measuring, and improving AI systems - specifically
+      evaluation frameworks, observability tooling, and diagnostic
+      infrastructure. The job description explicitly states this
+      is not about ML research or model training, but rather
+      building the platform layer that enables others to work with
+      AI effectively.
+  responsibilities:
+  - Build evaluation infrastructure to measure AI system speed and accuracy in both
+    offline and production environments
+  - Create observability tooling and dashboards that surface quality metrics week-over-week
+  - Diagnose quality gaps by tracing issues to retrieval, ranking, prompting, or other
+    root causes
+  - Experiment with different models and agent configurations using data-driven decisions
+  - Prototype and validate improvements to RAG pipeline including chunking strategies,
+    retrieval methods, and re-ranking approaches
+  - Analyze customer usage patterns of AI features to identify improvements and new
+    development opportunities
+  - Collaborate with other engineers to validate that changes improve system quality
+  - Stay current with cutting-edge AI research, techniques, and tools
+  use_cases:
+  - AI-powered agents for community engagement and automation
+  - AI workflows that streamline community management tasks
+  - AI copilot features that assist users within the community platform
+  - RAG-based systems for retrieving relevant community content and discussions
+  - Real-time AI features integrated into live streams, chat, and course functionality
+  skills:
+    genai: [RAG, LLMs, AI agents, AI workflows]
+    ml: [embeddings, re-ranking]
+    web: []
+    databases: []
+    data: [A/B testing, data analysis]
+    cloud: []
+    ops: [evaluation frameworks, observability]
+    languages: [Python, Ruby on Rails]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8364832'
+  extracted_at: '2026-02-05T12:59:42.874412'

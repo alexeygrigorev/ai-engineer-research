@@ -1,0 +1,56 @@
+company:
+  name: Tenex (tenex.co)
+  stage: null
+  focus: |-
+    AI-powered software development agency building AI
+    strategies and solutions for businesses
+  use_cases:
+  - AI strategy development and implementation for businesses across industries
+  - Building agentic AI side-kicks and AI-powered automation solutions
+  - Mobile application development for startups and enterprise clients
+  - Custom software solutions for established market leaders and new media groups
+  - AI-powered productivity tools and custom automations to accelerate development
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is at an AI-powered software development agency
+      that uses AI tools for productivity but doesn't mention
+      building, training, or deploying models directly. The focus
+      is on leveraging AI tools to accelerate software development
+      for clients rather than hands-on model development work.
+  responsibilities:
+  - Build elegant, scalable code and transform complex problems into streamlined solutions
+    for diverse clients
+  - Leverage AI tools and custom automations to exponentially boost productivity and
+    development speed
+  - Explore new technologies proactively and bring cutting-edge insights back to the
+    team
+  - Elevate team performance through mentorship, clear communication, and proactive
+    collaboration
+  - Design high-level architectural solutions for complex software challenges
+  - Build diverse solutions including agentic AI systems, mobile applications, and
+    customer-specific needs
+  use_cases:
+  - AI strategy development and implementation for businesses across industries
+  - Building agentic AI side-kicks and AI-powered automation solutions
+  - Mobile application development for startups and enterprise clients
+  - Custom software solutions for established market leaders and new media groups
+  - AI-powered productivity tools and custom automations to accelerate development
+  skills:
+    genai: [LangChain, OpenAI API, Anthropic API, prompt engineering, RAG, agents]
+    ml: []
+    web: [React, Vue, FastAPI, REST, GraphQL]
+    databases: [PostgreSQL, MongoDB, Redis, Pinecone, Weaviate, Chroma, Qdrant]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, system design]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8095486'
+  extracted_at: '2026-02-05T12:01:02.800368'

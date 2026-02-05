@@ -1,0 +1,52 @@
+company:
+  name: LexisNexis
+  stage: Public
+  focus: AI-powered patent classification and IP analytics
+  use_cases:
+  - AI-powered patent classification that reads millions of patents globally
+  - Categorizing patents into custom technology areas defined by users
+  - Extracting actionable insights from patent data at scale
+  - Supporting innovators in making informed IP decisions
+  - Enabling compliance with patent regulations through automation
+position:
+  title: Software Engineer III (Python & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves implementing research from an in-house
+      data science team at scale, but the core focus is on
+      software engineering to modernize the application stack
+      rather than building, training, or fine-tuning models. While
+      delivering AI-powered features, the engineer is working on
+      the infrastructure and application layer that supports AI
+      capabilities built by others.
+  responsibilities:
+  - Delivering AI-powered features for patent classification product
+  - Implementing research from data science team at scale
+  - Modernizing existing application stack with new features and functions
+  - Operating in Scrum-based development environment with stakeholders
+  - Participating in development processes, coding best practices, and code reviews
+  - Communicating effectively within a distributed global team
+  - Collaborating closely with cross-functional teams across multiple regions
+  use_cases:
+  - AI-powered patent classification that reads millions of patents globally
+  - Categorizing patents into custom technology areas defined by users
+  - Extracting actionable insights from patent data at scale
+  - Supporting innovators in making informed IP decisions
+  - Enabling compliance with patent regulations through automation
+  skills:
+    genai: []
+    ml: [PyTorch, Scikit-learn]
+    web: [Angular, .Net]
+    databases: [SQL]
+    data: [Databricks]
+    cloud: [AWS, EKS, S3, Lambda, CDK]
+    ops: [Azure Pipelines]
+    languages: [Python, C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7609933'
+  extracted_at: '2026-02-05T11:12:59.752902'

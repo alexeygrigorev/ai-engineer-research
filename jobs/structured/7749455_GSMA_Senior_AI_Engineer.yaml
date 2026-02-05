@@ -1,0 +1,52 @@
+company:
+  name: GSMA
+  stage: null
+  focus: |-
+    Mobile industry association developing AI applications and
+    systems for telecommunications networks
+  use_cases:
+  - Natural Language Processing applications and systems
+  - Large Language Model applications with focus on limitations and optimization
+  - Reinforcement learning and agent-based modeling solutions
+  - AI applications for telecommunications and mobile industry networks
+  - Bio-inspired AI architectures and expert systems
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves working directly with AI algorithms
+      including LLMs, NLP, and reinforcement learning. Key
+      responsibilities include optimizing existing AI algorithms,
+      third-party technology integration, and GPU optimization of
+      AI systems, with hands-on implementation of complex
+      algorithms.
+  responsibilities:
+  - Optimize existing AI algorithms and integrate third-party technologies
+  - Assume ownership of existing codebase including maintenance and enhancement
+  - Implement complex algorithms with testing and verification
+  - Devise novel solutions to challenging problems in a research-oriented role
+  - Share responsibility for general programming tasks within a small team
+  - Learn and apply cutting-edge NLP and LLM techniques and limitations
+  use_cases:
+  - Natural Language Processing applications and systems
+  - Large Language Model applications with focus on limitations and optimization
+  - Reinforcement learning and agent-based modeling solutions
+  - AI applications for telecommunications and mobile industry networks
+  - Bio-inspired AI architectures and expert systems
+  skills:
+    genai: [LLMs]
+    ml: [CUDA, algorithm design]
+    web: []
+    databases: []
+    data: [Distributed systems]
+    cloud: []
+    ops: [GPU optimization]
+    languages: [Python]
+    domains: [NLP, Reinforcement Learning, Agent-based modeling]
+    other: [Mathematical fluency]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7749455'
+  extracted_at: '2026-02-05T11:25:03.448451'

@@ -1,0 +1,59 @@
+company:
+  name: Zillow
+  stage: Public
+  focus: Digital real estate marketplace
+  use_cases:
+  - Personalized home ranking and recommendations for home shoppers
+  - Semantic search and autocomplete for property discovery
+  - Display optimization to show relevant homes at the right time
+  - Generative AI applications for intuitive, personalized home shopping experiences
+  - Large-scale recommender systems serving hundreds of millions of daily requests
+position:
+  title: Machine Learning Engineer, Zillow Shopping AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      optimizing machine learning models including deep learning
+      and LLMs. The engineer owns the full model lifecycle from
+      experimentation to production deployment and A/B testing,
+      directly working on AI systems rather than supporting
+      infrastructure.
+  responsibilities:
+  - Design, build, and ship production machine learning models powering core product
+    features on Zillow's app, website, and notifications
+  - Re-architect core home ranking and recommendation systems to support advanced
+    neural networks and accelerate experimentation
+  - Own full model lifecycle from offline experimentation with massive datasets to
+    online deployment, A/B testing, and performance monitoring
+  - Pioneer application of cutting-edge deep learning and LLMs to improve home shopping
+    experience
+  - Develop AI components optimizing home display and recommendation timing to connect
+    shoppers with the right content
+  - Collaborate with cross-functional team to define, execute, and iterate on strategic
+    roadmap
+  - Contribute to engineering excellence by improving ML infrastructure, development
+    standards, and shared tooling
+  use_cases:
+  - Personalized home ranking and recommendations for home shoppers
+  - Semantic search and autocomplete for property discovery
+  - Display optimization to show relevant homes at the right time
+  - Generative AI applications for intuitive, personalized home shopping experiences
+  - Large-scale recommender systems serving hundreds of millions of daily requests
+  skills:
+    genai: [huggingface, LLMs, generative AI, semantic search]
+    ml: [PyTorch, TensorFlow, CatBoost, scikit-learn, deep learning, personalized
+        ranking, recommender systems]
+    web: []
+    databases: []
+    data: [A/B testing, Spark, Hive, Airflow, Databricks]
+    cloud: []
+    ops: [model deployment]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7862162'
+  extracted_at: '2026-02-05T11:36:24.157198'

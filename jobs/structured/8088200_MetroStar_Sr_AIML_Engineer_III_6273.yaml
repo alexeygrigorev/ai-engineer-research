@@ -1,0 +1,64 @@
+company:
+  name: MetroStar
+  stage: null
+  focus: Technology services and consulting for government
+  use_cases:
+  - Reinforcement learning for decision making and behavior modeling in simulation
+    environments
+  - AI-enabled capabilities for mission-critical modeling and simulation
+  - Training and evaluating RL agents for operational scenarios
+  - Integration of RL components into larger software and modeling systems
+  - Supporting analytical depth and capability modernization across the portfolio
+position:
+  title: Sr. AI/ML Engineer III (6273)
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses exclusively on reinforcement learning
+      algorithms and applied machine learning, working directly
+      with model design, training, and evaluation. While it
+      involves sophisticated AI techniques, it centers on
+      traditional ML approaches (policy gradients, Q-learning,
+      actor-critic models) rather than modern generative AI or LLM
+      technologies.
+  responsibilities:
+  - Design, implement, and tune reinforcement learning algorithms to support decision
+    making and behavior modeling in simulation environments
+  - Define and refine reward functions, state representations, and action spaces aligned
+    to mission objectives
+  - Build and maintain training environments and experimentation pipelines for reinforcement
+    learning agents
+  - Evaluate agent performance using rigorous metrics such as convergence, sample
+    efficiency, robustness, and stability
+  - Analyze training outcomes and simulation results to recommend changes to models,
+    scenarios, or learning approaches
+  - Collaborate closely with modeling and simulation engineers and software teams
+    to integrate RL components into the baseline
+  - Ensure AI and ML components are transparent, testable, and maintainable within
+    the broader system architecture
+  - Support test events, demonstrations, and technical reviews by clearly communicating
+    AI and ML behavior and results
+  use_cases:
+  - Reinforcement learning for decision making and behavior modeling in simulation
+    environments
+  - AI-enabled capabilities for mission-critical modeling and simulation
+  - Training and evaluating RL agents for operational scenarios
+  - Integration of RL components into larger software and modeling systems
+  - Supporting analytical depth and capability modernization across the portfolio
+  skills:
+    genai: []
+    ml: [Reinforcement Learning, Policy Gradient Methods, Q-learning, Actor-Critic
+        Models, Machine Learning]
+    web: []
+    databases: []
+    data: [Data Science]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8088200'
+  extracted_at: '2026-02-05T11:59:53.215481'

@@ -1,0 +1,64 @@
+company:
+  name: Scrunch AI
+  stage: Series B
+  focus: AI search optimization for marketing brands
+  use_cases:
+  - Help brands optimize their presence on AI search and conversational agent platforms
+    like ChatGPT, Claude, and Gemini
+  - Enable marketing teams to discover how their products and services are surfaced
+    on AI platforms
+  - Process and analyze large datasets using LLMs and traditional analytics methods
+  - Build tools to assess and improve accuracy of AI-based classification and summarization
+    tasks
+  - Provide analytics APIs and scheduled reporting for customer insights in the AI
+    era
+position:
+  title: Senior Software Engineer, Data & AI Engineering (US)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full stack data engineering role focused on
+      building data pipelines, analytics APIs, and infrastructure
+      that processes data for LLM-based products, not directly
+      building, training, or fine-tuning models. The role involves
+      using LLMs as tools for classifiers, extractors, and
+      summarizers, but the primary work is on data infrastructure
+      and pipelines supporting AI applications.
+  responsibilities:
+  - Build and maintain data pipelines including batch and streaming/interactive processing
+  - Develop web APIs with proper authentication, authorization, caching, and rate
+    limiting
+  - Work with relational databases like PostgreSQL and analytical platforms like Snowflake/BigQuery
+  - Implement LLM-based and traditional ML tools for classification, data extraction,
+    and summarization
+  - Create full-stack features including data connectors, notifications, alert emails,
+    and scheduled reports
+  - Ensure data quality by validating source data and output data throughout processing
+    pipelines
+  use_cases:
+  - Help brands optimize their presence on AI search and conversational agent platforms
+    like ChatGPT, Claude, and Gemini
+  - Enable marketing teams to discover how their products and services are surfaced
+    on AI platforms
+  - Process and analyze large datasets using LLMs and traditional analytics methods
+  - Build tools to assess and improve accuracy of AI-based classification and summarization
+    tasks
+  - Provide analytics APIs and scheduled reporting for customer insights in the AI
+    era
+  skills:
+    genai: [LLMs]
+    ml: [classifiers, data extractors, summarizers]
+    web: [REST APIs, authentication, authorization, caching, rate limiting, React]
+    databases: [PostgreSQL, Snowflake, BigQuery, DuckDB, Spark SQL]
+    data: [Pandas, Polars, streaming analytics, Flink, Apache Beam, GCP Dataflow,
+      Spark, Celery, Resque, Google Cloud Tasks, Temporal, Inngest, ETL, data pipelines]
+    cloud: []
+    ops: [evals]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7648944'
+  extracted_at: '2026-02-05T11:17:53.204967'

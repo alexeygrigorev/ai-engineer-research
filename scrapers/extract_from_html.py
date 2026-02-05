@@ -184,7 +184,10 @@ def html_to_markdown(html_content, wrap_width=60):
         lines.append(' ' * leading_spaces + rest)
     text = '\n'.join(lines)
     text = text.replace('\xa0', ' ')
-    text = text.replace('\u200b', '')
+    text = text.replace('\u200b', '')  # Zero-width space
+    text = text.replace('\u2028', ' ')  # Line separator
+    text = text.replace('\u2029', ' ')  # Paragraph separator
+    text = text.replace('\u2003', ' ')  # Em space
     text = text.strip()
 
     # Wrap text at wrap_width characters (word-based, preserve list structure)
@@ -354,23 +357,34 @@ def sanitize_filename(name):
 
 def write_yaml_file(job, yaml_file):
     """Write job data to YAML file, skipping empty fields."""
+    # Helper to safely quote YAML values (handles colons, special chars)
+    def yaml_quote(s):
+        if not s:
+            return ''
+        # Quote if contains special YAML characters
+        if any(c in str(s) for c in [':', '[', ']', '{', '}', '|', '>', '#', '&']):
+            # Use double quotes and escape internal quotes/backslashes
+            quoted = str(s).replace('\\', '\\\\').replace('"', '\\"')
+            return f'"{quoted}"'
+        return str(s)
+
     with open(yaml_file, 'w', encoding='utf-8') as f:
         f.write(f"job_id: {job['job_id']}\n")
-        f.write(f"title: {job['title']}\n")
-        f.write(f"company: {job['company']}\n")
-        f.write(f"location: {job['location']}\n")
+        f.write(f"title: {yaml_quote(job['title'])}\n")
+        f.write(f"company: {yaml_quote(job['company'])}\n")
+        f.write(f"location: {yaml_quote(job['location'])}\n")
         if job['work_type']:
-            f.write(f"work_type: {job['work_type']}\n")
+            f.write(f"work_type: {yaml_quote(job['work_type'])}\n")
         if job['level']:
-            f.write(f"level: {job['level']}\n")
+            f.write(f"level: {yaml_quote(job['level'])}\n")
         if job['skills']:
             f.write(f"skills:\n")
             for skill in job['skills']:
-                f.write(f"  - {skill}\n")
+                f.write(f"  - {yaml_quote(skill)}\n")
         if job['company_size']:
-            f.write(f"company_size: {job['company_size']}\n")
+            f.write(f"company_size: {yaml_quote(job['company_size'])}\n")
         if job['compensation']:
-            f.write(f"compensation: {job['compensation']}\n")
+            f.write(f"compensation: {yaml_quote(job['compensation'])}\n")
         if job['description']:
             f.write(f"description: |\n")
             for line in job['description'].split('\n'):
@@ -378,11 +392,11 @@ def write_yaml_file(job, yaml_file):
         if job['industries']:
             f.write(f"industries:\n")
             for ind in job['industries']:
-                f.write(f"  - {ind}\n")
+                f.write(f"  - {yaml_quote(ind)}\n")
         if job['posted_date']:
-            f.write(f"posted_date: {job['posted_date']}\n")
-        f.write(f"url: {job['url']}\n")
-        f.write(f"source: {job['source']}\n")
+            f.write(f"posted_date: {yaml_quote(job['posted_date'])}\n")
+        f.write(f"url: {yaml_quote(job['url'])}\n")
+        f.write(f"source: {yaml_quote(job['source'])}\n")
 
 
 def main():

@@ -1,0 +1,46 @@
+company:
+  name: Rillet
+  stage: Series B
+  focus: AI-native ERP for accounting and finance
+  use_cases:
+  - Automated financial workflows and accounting processes
+  - Specialized AI agents for accrual, audit, P&L flux analysis, and board deck generation
+  - Zero-day close capabilities for financial teams
+  - Multi-entity consolidation and unified source-of-truth data processing
+position:
+  title: ML/AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLM-based agent
+      frameworks and building AI systems for accounting workflows.
+      The engineer will build automated pipelines for model
+      training, evaluation, and deployment, working directly with
+      AI agents and models to solve real financial problems.
+  responsibilities:
+  - Shape Rillet's ML strategy and infrastructure for the long term
+  - Own problems end-to-end from understanding user needs to deploying production
+    systems
+  - Build automated pipelines for model training, evaluation, and deployment
+  - Ensure ML systems scale reliably under real-world conditions
+  use_cases:
+  - Automated financial workflows and accounting processes
+  - Specialized AI agents for accrual, audit, P&L flux analysis, and board deck generation
+  - Zero-day close capabilities for financial teams
+  - Multi-entity consolidation and unified source-of-truth data processing
+  skills:
+    genai: [LLM-based agent frameworks]
+    ml: [scikit-learn, PyTorch, model training]
+    web: []
+    databases: []
+    data: [numpy, pandas]
+    cloud: []
+    ops: [ML infrastructure]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7255651'
+  extracted_at: '2026-02-05T10:31:53.504406'

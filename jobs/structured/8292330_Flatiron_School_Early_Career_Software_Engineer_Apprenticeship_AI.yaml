@@ -1,0 +1,49 @@
+company:
+  name: Flatiron School
+  stage: Series B or later
+  focus: Tech education and bootcamp programs
+  use_cases:
+  - AI-enabled product development
+  - Data science applications in software engineering
+  - Production-level software systems
+  - Data-informed engineering solutions
+position:
+  title: Early Career Software Engineer Apprenticeship (AI & Data Track) - Bletchley
+    Fellowship
+  ai_type:
+    type: unknown
+    reasoning: |-
+      This is an early-career apprenticeship/bootcamp program, not
+      a production role. While it includes AI & Data Science track
+      learning, the role focuses on foundational software
+      engineering education and apprenticeship work rather than
+      hands-on AI/ML system development. Participants are learning
+      these skills rather than being hired to build AI systems.
+  responsibilities:
+  - Complete Flatiron School's Software Engineering and Data Science bootcamp programs
+  - Contribute to real software projects during a paid apprenticeship with an employer
+    partner
+  - Collaborate in sprint-based workflows and participate in code reviews
+  - Build a portfolio of production-level work
+  - Receive mentorship from experienced engineers and product leaders
+  use_cases:
+  - AI-enabled product development
+  - Data science applications in software engineering
+  - Production-level software systems
+  - Data-informed engineering solutions
+  skills:
+    genai: []
+    ml: []
+    web: [Software development]
+    databases: []
+    data: [Data Science]
+    cloud: []
+    ops: [Agile development, Code reviews]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8292330'
+  extracted_at: '2026-02-05T12:39:06.490956'

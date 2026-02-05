@@ -1,0 +1,62 @@
+company:
+  name: Informa
+  stage: Public (FTSE 100)
+  focus: |-
+    Live events and data-driven services for specialist
+    knowledge sharing
+  use_cases:
+  - Natural Language Processing solutions for document and content analysis
+  - Retrieval-Augmented Generation workflows for knowledge extraction from diverse
+    content sources
+  - Multi-modal Generative AI applications handling text, audio, and video content
+  - AI-powered tools for live and on-demand event services
+  - Data-driven services connecting specialists with knowledge
+  - Operational excellence through automated AI solutions across business teams
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      optimizing LLM applications, RAG workflows, agent-based
+      systems, and fine-tuning models. The engineer is directly
+      working ON AI systems, not just supporting them or building
+      infrastructure for others.
+  responsibilities:
+  - Design, develop, and optimize AI algorithms and models tailored to business needs,
+    ensuring scalability and performance
+  - Develop APIs and services to make AI functionalities accessible across the organization
+  - Preprocess and prepare diverse data types (PDFs, Word documents, Excel files,
+    HTML, audio, video, and databases) for machine learning models
+  - Build advanced LLM applications, including Retrieval-Augmented Generation (RAG)
+    workflows, fine-tuning, and embedding models
+  - Implement reasoning and agent-based systems using LangGraph and LangChain frameworks
+  - Deploy AI and LLM applications to AWS cloud infrastructure with Amazon SageMaker
+  - Track performance of deployed AI solutions and continuously improve solution quality
+  - Maintain detailed documentation of AI models, processes, and workflows while establishing
+    best practices
+  use_cases:
+  - Natural Language Processing solutions for document and content analysis
+  - Retrieval-Augmented Generation workflows for knowledge extraction from diverse
+    content sources
+  - Multi-modal Generative AI applications handling text, audio, and video content
+  - AI-powered tools for live and on-demand event services
+  - Data-driven services connecting specialists with knowledge
+  - Operational excellence through automated AI solutions across business teams
+  skills:
+    genai: [RAG, LLM fine-tuning, embedding models, LangGraph, LangChain, agent-based
+        systems, RAGAS, Generative AI]
+    ml: []
+    web: [API development]
+    databases: []
+    data: [ETL, ELT]
+    cloud: [AWS, Amazon SageMaker]
+    ops: [Docker, MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8185811'
+  extracted_at: '2026-02-05T12:10:27.405450'

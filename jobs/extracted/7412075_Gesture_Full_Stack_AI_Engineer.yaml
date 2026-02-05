@@ -25,16 +25,22 @@ description: |
   
   Reports to: VP of Engineering
   
-  About Gesture  
+  About Gesture
+
+
   
   Gesture is where technology meets humanity — a place where
-  innovation, emotion, and impact collide.  We’re a fast-
+  innovation, emotion, and impact collide.
+
+We’re a fast-
   growing tech company using AI, machine learning, and
   intelligent logistics to power a first-of-its-kind platform
   that connects people and brands through real-world, tangible
   experiences. From our mobile app to our B2B Reach360
   platform, Gesture blends data, emotion, and automation to
-  build the future of human connection — at scale.  
+  build the future of human connection — at scale.
+
+
   
   Inside our NYC headquarters, you’ll find an environment that
   moves with the pace and precision of Silicon Valley but with
@@ -43,13 +49,17 @@ description: |
   We run on cutting-edge tools, creative experimentation, and
   raw ambition. Every project, every campaign, every moment
   you work on here matters — because it’s seen, felt, and
-  experienced by real people around the world.  At Gesture,
+  experienced by real people around the world.
+
+At Gesture,
   you’ll work alongside some of the smartest, most driven
   operators, engineers, and creatives in the industry — people
   who think big, move fast, and care deeply about the work
   they do.
   
-  This is a front-row seat to the future of connection.  If
+  This is a front-row seat to the future of connection.
+
+If
   you want to help build something that’s changing how the
   world interacts, welcome to Gesture.
   
@@ -103,17 +113,17 @@ description: |
   
   The Tech Stack You'll Work With
   
-  - Frontend: React / React Native (TypeScript preferred)
-  - Backend: Node.js / Python (FastAPI, Express)
-  - Database: Firestore, BigQuery, PostgreSQL
-  - Cloud Infrastructure: Google Cloud Platform (Firebase, Cloud
+  - "Frontend: React / React Native (TypeScript preferred)"
+  - "Backend: Node.js / Python (FastAPI, Express)"
+  - "Database: Firestore, BigQuery, PostgreSQL"
+  - "Cloud Infrastructure: Google Cloud Platform (Firebase, Cloud"
     Functions, Pub/Sub, Cloud Run), AWS
-  - AI / Data: TensorFlow, PyTorch, scikit-learn, OpenAI /
+  - "AI / Data: TensorFlow, PyTorch, scikit-learn, OpenAI /"
     LangChain API integration
-  - CRM / Marketing Tools: Twilio Segment, Zoho CRM, Voucherify,
+  - "CRM / Marketing Tools: Twilio Segment, Zoho CRM, Voucherify,"
     OneSignal
-  - Version Control: Git, GitHub Actions, Docker
-  - CI/CD:Automated Docker pipelines via GitHub Actions for
+  - "Version Control: Git, GitHub Actions, Docker"
+  - "CI/CD:Automated Docker pipelines via GitHub Actions for"
     testing (Jest), linting, type-checking, and deploying to
     Firebase Hosting and Cloud Run with zero-downtime
     releases.
@@ -220,7 +230,7 @@ description: |
     Cloud ecosystem
   - Prior exposure to CRM-based data flows (Segment, Zoho,
     HubSpot, etc.)
-  - Bonus: Experience with recommendation algorithms,
+  - "Bonus: Experience with recommendation algorithms,"
     reinforcement learning, or consumer marketing tech
   
   What Can You Gain From a Career at Gesture
@@ -231,15 +241,21 @@ description: |
   Professional Growth & Mentorship make this opportunity
   transformational — the kind of experience that looks elite
   on a resume and helps to build a great personal brand
-  critical to your personal development and career growth.  
+  critical to your personal development and career growth.
+
+
   
   1:1 Mentorship with Executives: Direct access to senior
   leadership (including you or divisional heads like Product,
-  Ops, and Engineering) for biweekly growth sessions.  
+  Ops, and Engineering) for biweekly growth sessions.
+
+
   
   Founders’ Roundtable: Attend exclusive fireside-style
   meetings with Gesture’s CEO and leadership team about
-  startup strategy, fundraising, and scaling.  
+  startup strategy, fundraising, and scaling.
+
+
   
   AI Playground Access: Safe sandbox for R&D and to experiment
   with AI tools for content creation, data, and storytelling.
@@ -262,19 +278,26 @@ description: |
   Application Process - Interested candidates should submit
   the following
   
-  A resume outlining relevant experience.  
+  A resume outlining relevant experience.
+
+
   
   A brief cover letter highlighting your key skills,
-  achievements, and what excites you about this opportunity.  
+  achievements, and what excites you about this opportunity.
+
+
   
   Any project work, portfolio samples, or coursework that
-  demonstrate your passion and abilities.  
+  demonstrate your passion and abilities.
+
+
   
   Download The Gesture App
   
   We strongly encourage all applicants to download the Gesture
   app and explore our platform firsthand. You can also visit
-  gesture.vip to learn more about our mission, technology, and
+  gesture.vip
+to learn more about our mission, technology, and
   culture.
   
   Compensation & Culture
@@ -292,7 +315,9 @@ description: |
   At Gesture, we operate with a KPI-driven, pacesetting
   culture — one that rewards sharp, motivated, high-performing
   individuals who take initiative and execute with
-  excellence.  
+  excellence.
+
+
   
   The ideal candidate will thrive in a startup environment,
   embodying curiosity, grit, and a builder’s mindset. This is
@@ -303,7 +328,9 @@ description: |
   Apply today to join Gesture and be part of the team that’s
   redefining how the world connects.
   
-  Join the Movement  If you’re ready to lead by doing, grow
+  Join the Movement
+
+If you’re ready to lead by doing, grow
   fast, and make an impact that matters — we want to hear from
   you.
 industries:

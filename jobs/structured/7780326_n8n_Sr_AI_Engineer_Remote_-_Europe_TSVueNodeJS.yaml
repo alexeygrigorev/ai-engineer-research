@@ -1,0 +1,55 @@
+company:
+  name: n8n
+  stage: Series C
+  focus: Open workflow orchestration platform for AI automation
+  use_cases:
+  - Natural language input for workflow creation and automation building
+  - Smart suggestions and code generation to accelerate workflow development
+  - Intelligent node creation and workflow optimization using AI
+  - Text-to-workflow conversion using embedding models and vector databases
+  - AI-powered code suggestions for developers building automations
+position:
+  title: Sr AI Engineer | Remote - Europe | TS/Vue/NodeJS
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI-powered
+      features including LLM integration, prompt engineering, RAG
+      systems, code generation, and workflow optimization. The
+      engineer will architect and implement end-to-end AI systems
+      using LLM APIs and embedding models to create intelligent
+      capabilities directly within the product.
+  responsibilities:
+  - Architect and implement AI-powered capabilities including code generation, intelligent
+    node creation, and workflow optimization
+  - Integrate LLM APIs and embedding models for text-to-workflow and natural language
+    code suggestions
+  - Design and iterate on prompts to improve model output and user experience
+  - Build internal tooling, evaluation benchmarks, and automated testing for AI components
+  - Collaborate with cross-functional teams to ensure AI features are reliable, performant,
+    and scalable
+  - Improve existing AI integrations and develop new LLM-based enhancements for the
+    core user experience
+  use_cases:
+  - Natural language input for workflow creation and automation building
+  - Smart suggestions and code generation to accelerate workflow development
+  - Intelligent node creation and workflow optimization using AI
+  - Text-to-workflow conversion using embedding models and vector databases
+  - AI-powered code suggestions for developers building automations
+  skills:
+    genai: [LLM APIs, OpenAI, Anthropic, prompt engineering, RAG, embedding models,
+      agent architectures, agent orchestration]
+    ml: [fine-tuning LLMs]
+    web: [Vue, API design]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7780326'
+  extracted_at: '2026-02-05T11:30:10.550253'

@@ -1,0 +1,63 @@
+company:
+  name: Webflow
+  stage: Series C
+  focus: AI-native digital experience platform for web development
+  use_cases:
+  - Empowering users to design, launch, and optimize websites without coding barriers
+    using AI assistance
+  - Enhancing web development workflows with AI-powered features for entrepreneurs
+    and enterprises
+  - Improving user experience through intelligent solutions that leverage LLMs and
+    diffusion models
+  - Providing AI-native tools that bring development superpowers to everyone regardless
+    of technical expertise
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct work with AI models including LLMs
+      and diffusion models, requiring skills in fine-tuning,
+      prompt engineering, and vector databases. The engineer will
+      architect features that integrate AI models, develop AI-
+      specific evaluation tooling, and implement third-party AI
+      APIs, which is hands-on AI development work rather than just
+      support infrastructure.
+  responsibilities:
+  - Lead architecture and design for features that integrate with large language models,
+    diffusion models, and other AI technologies
+  - Develop and maintain user interfaces that integrate AI models and algorithms into
+    the product
+  - Collaborate with product engineering to identify and implement AI solutions that
+    improve user experience and solve specific use cases
+  - Assist in developing and integrating third-party AI APIs into the product's architecture
+  - Build quality feedback tooling including traditional software tests and AI-specific
+    evaluations and quality measurements
+  - Stay up-to-date on AI/ML advancements to assess their relevance for the organization's
+    strategy and maintain high technical quality bar for AI features
+  use_cases:
+  - Empowering users to design, launch, and optimize websites without coding barriers
+    using AI assistance
+  - Enhancing web development workflows with AI-powered features for entrepreneurs
+    and enterprises
+  - Improving user experience through intelligent solutions that leverage LLMs and
+    diffusion models
+  - Providing AI-native tools that bring development superpowers to everyone regardless
+    of technical expertise
+  skills:
+    genai: [large language models, diffusion models, fine-tuning, prompt engineering]
+    ml: []
+    web: [Node.js, React, web technologies, REST APIs, responsive design, web performance
+        metrics, accessibility standards]
+    databases: [vector databases]
+    data: []
+    cloud: [third-party AI API integration]
+    ops: [unit testing, integration testing, AI evaluations]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7201524'
+  extracted_at: '2026-02-05T10:28:45.925795'

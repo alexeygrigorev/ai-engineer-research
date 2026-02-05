@@ -1,0 +1,52 @@
+company:
+  name: Cordial
+  stage: Series B
+  focus: Marketing automation and customer engagement platform
+  use_cases:
+  - Enhancing marketing communications with AI-powered personalization and automation
+  - Improving customer engagement through intelligent message optimization and generation
+  - Driving revenue growth for brands by enabling more efficient use of the platform
+  - Solving complex business challenges using frontier AI models and applied AI systems
+  - Helping clients communicate more effectively with their customers through AI capabilities
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building production
+      applications with LLMs, including prompt engineering, RAG
+      architectures, and LLM orchestration frameworks. The
+      engineer will be a primary contributor to AI strategy and
+      directly implement frontier AI models for production use,
+      not just support infrastructure.
+  responsibilities:
+  - Serve as primary contributor to AI strategy and productize AI-powered solutions
+  - Integrate LLMs into production applications and provide expert guidance on approaches
+  - Partner with product management to drive compelling AI solutions and features
+  - Explore and implement innovative approaches using frontier AI models to solve
+    complex business challenges
+  - Dive into massive datasets with autonomy to turn ideas into real-world results
+    for clients
+  - Build and maintain production services at scale with full ownership
+  use_cases:
+  - Enhancing marketing communications with AI-powered personalization and automation
+  - Improving customer engagement through intelligent message optimization and generation
+  - Driving revenue growth for brands by enabling more efficient use of the platform
+  - Solving complex business challenges using frontier AI models and applied AI systems
+  - Helping clients communicate more effectively with their customers through AI capabilities
+  skills:
+    genai: [LLMs, OpenAI, Anthropic, prompt engineering, RAG, LangChain, LlamaIndex]
+    ml: []
+    web: [REST API]
+    databases: [NoSQL, RDBMS]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7764233'
+  extracted_at: '2026-02-05T11:25:35.249397'

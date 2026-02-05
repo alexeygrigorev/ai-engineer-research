@@ -1,0 +1,55 @@
+company:
+  name: WEX Inc.
+  stage: Public
+  focus: Financial technology and payment solutions
+  use_cases:
+  - Deploy AI functionality into product applications in a scalable manner
+  - Integrate AI components and models into financial payment and healthcare systems
+  - Build agentic AI applications for financial services
+  - Automate infrastructure, testing, and deployment processes using cloud-first approach
+  - Implement machine learning algorithms for regulated financial and healthcare spaces
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires direct hands-on work with machine learning
+      algorithms and ML system pipelines, including design,
+      implementation, training, and maintenance. It specifically
+      mentions experience with deep learning libraries (PyTorch,
+      TensorFlow), building Agentic AI applications, and deploying
+      machine learning models, which are core ai-first activities.
+  responsibilities:
+  - Design, implement, train and maintain machine learning algorithms and ML system
+    pipelines
+  - Work closely with AI platform team and line of business engineering teams to integrate
+    AI components and models into WEX systems
+  - Manage version control using GitHub and implement robust CI/CD pipelines for continuous
+    integration and delivery
+  - Design and implement RESTful APIs to facilitate communication between various
+    components and ensure smooth operation of applications
+  - Collaborate effectively with cross-functional teams, participate in code reviews,
+    and communicate solutions to both technical and non-technical stakeholders
+  - Provision cloud services through IAC frameworks such as Terraform
+  use_cases:
+  - Deploy AI functionality into product applications in a scalable manner
+  - Integrate AI components and models into financial payment and healthcare systems
+  - Build agentic AI applications for financial services
+  - Automate infrastructure, testing, and deployment processes using cloud-first approach
+  - Implement machine learning algorithms for regulated financial and healthcare spaces
+  skills:
+    genai: [Agentic AI Applications, Large Language Models, ChatGPT]
+    ml: [PyTorch, TensorFlow]
+    web: [RESTful APIs]
+    databases: []
+    data: [Pandas, NumPy]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, DevOps, Terraform, GitHub, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8229742'
+  extracted_at: '2026-02-05T12:16:26.260835'

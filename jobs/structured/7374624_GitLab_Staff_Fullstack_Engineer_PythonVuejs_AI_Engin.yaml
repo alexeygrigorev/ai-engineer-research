@@ -1,0 +1,56 @@
+company:
+  name: GitLab
+  stage: Public
+  focus: AI-powered DevSecOps Platform for software development
+  use_cases:
+  - AI-powered chat experience embedded across the GitLab DevSecOps platform for developer
+    assistance
+  - Generative AI integration for code planning, writing, review, and security workflows
+  - Enterprise-scale AI chatbot with multi-provider model integration (e.g., Google
+    Vertex AI)
+position:
+  title: 'Staff Fullstack Engineer (Python/Vue.js), AI Engineering: Duo Chat'
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves integrating and extending generative AI
+      capabilities, working directly with large language models
+      and providers like Google Vertex AI, and building AI-powered
+      chat features for GitLab Duo Chat. The engineer is hands-on
+      with AI model integration, not just supporting
+      infrastructure or working on adjacent systems.
+  responsibilities:
+  - Develop, ship, and maintain features and improvements for GitLab Duo Chat across
+    the full stack in a secure, well-tested, and performant way
+  - Integrate and extend AI capabilities, including large language models and providers
+    such as Google Vertex AI, into GitLab's Ruby on Rails and Python-based services
+  - Design, implement, and review GraphQL APIs and related backend logic, ensuring
+    reliability, scalability, and clear contracts with frontend clients
+  - Collaborate with Product Management, UX, frontend, backend, and AI specialists
+    to refine requirements and deliver high-quality, iterative product enhancements
+  - Improve and extend automated testing, including RSpec and other frameworks, to
+    strengthen quality, reliability, and developer feedback loops
+  - Identify, prioritize, and address technical debt and performance or optimization
+    issues, driving improvements that make the system more stable and efficient
+  use_cases:
+  - AI-powered chat experience embedded across the GitLab DevSecOps platform for developer
+    assistance
+  - Generative AI integration for code planning, writing, review, and security workflows
+  - Enterprise-scale AI chatbot with multi-provider model integration (e.g., Google
+    Vertex AI)
+  skills:
+    genai: [Generative AI, Large Language Models]
+    ml: []
+    web: [Vue.js, GraphQL, Ruby on Rails]
+    databases: []
+    data: []
+    cloud: [Google Vertex AI]
+    ops: [RSpec]
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7374624'
+  extracted_at: '2026-02-05T18:55:06.903025'

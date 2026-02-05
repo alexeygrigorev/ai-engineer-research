@@ -1,0 +1,59 @@
+company:
+  name: Magna Legal Services
+  stage: null
+  focus: End-to-end legal support services
+  use_cases:
+  - Natural language processing for legal document analysis and summarization
+  - Entity extraction and classification for legal and medical content
+  - Document quality control tools for legal proceedings
+  - Automation workflows for legal support services
+  - AI-powered tools for empowering legal professionals with smarter solutions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building and deploying
+      AI/ML solutions in production environments, with direct work
+      on machine learning models, NLP, summarization, entity
+      extraction, and LLMs. The engineer is responsible for
+      designing, developing, and deploying AI systems including
+      natural language processing and document analysis tools, not
+      just supporting infrastructure.
+  responsibilities:
+  - Design, develop, and deploy AI/ML solutions that support Magna's legal and medical
+    platforms
+  - Translate business needs into scalable machine learning models and automation
+    workflows
+  - Work closely with data engineers, software engineers, and product managers to
+    bring AI products from prototype to production
+  - Maintain, optimize, and monitor deployed AI systems to ensure reliability, accuracy,
+    and compliance
+  - Integrate AI solutions into existing platforms, including natural language processing,
+    summarization, and document quality control tools
+  - Conduct research and stay current on emerging AI trends, tools, and frameworks
+    that can be applied to legal services
+  - Collaborate with cross-functional teams to identify opportunities for automation
+    and innovation
+  use_cases:
+  - Natural language processing for legal document analysis and summarization
+  - Entity extraction and classification for legal and medical content
+  - Document quality control tools for legal proceedings
+  - Automation workflows for legal support services
+  - AI-powered tools for empowering legal professionals with smarter solutions
+  skills:
+    genai: [summarization, entity extraction, LLMs]
+    ml: [TensorFlow, PyTorch, Hugging Face, scikit-learn, classification, embeddings]
+    web: []
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [MLOps, model versioning, CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8043403'
+  extracted_at: '2026-02-05T11:53:11.950349'

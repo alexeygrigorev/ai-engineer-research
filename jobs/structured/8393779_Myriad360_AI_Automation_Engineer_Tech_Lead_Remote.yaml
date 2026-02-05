@@ -1,0 +1,69 @@
+company:
+  name: Myriad360
+  stage: null
+  focus: IT value-added reseller providing automation solutions
+  use_cases:
+  - Automate sales processes and workflows to reduce manual tasks and improve efficiency
+  - Streamline operations and finance functions through AI-powered copilots and agents
+  - Enhance IT service delivery with intelligent automation and RAG-powered information
+    retrieval
+  - Improve cross-functional business processes by integrating Microsoft 365 ecosystem
+    with AI agents
+  - Enable secure internal data access and knowledge management through RAG pipelines
+  - Deploy task-specific agents to handle department-specific workflows across the
+    organization
+position:
+  title: AI Automation Engineer Tech Lead (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design and implementation of LLM-
+      based agents, AI-powered workflows, and RAG pipelines. The
+      engineer directly builds and deploys agentic solutions using
+      ChatGPT Enterprise and various AI frameworks, making it a
+      hands-on AI development position rather than support
+      infrastructure.
+  responsibilities:
+  - Design, prototype, and implement AI-powered workflows and agentic solutions, including
+    task- and process-specific agents, copilots, and multi-step orchestrations
+  - Build and optimize retrieval-augmented generation (RAG) pipelines that securely
+    leverage internal data, including data preparation, vectorization, retrieval design,
+    and relevance tuning
+  - Develop and maintain integrations across systems using APIs such as Microsoft
+    Graph API, OpenAI API, and automation platforms like Power Automate, Zapier, n8n,
+    and Make
+  - Implement observability, monitoring, evaluation, and guardrails for AI agents
+    and workflows, including logging, metrics, and feedback loops that support continuous
+    improvement
+  - Partner with business leaders and department heads to map current processes, elicit
+    requirements, and identify high-value AI and automation opportunities
+  - Collaborate with third-party delivery partners and vendors to divide and conquer
+    the AI/automation backlog, provide technical direction, and review solution designs
+    for quality, security, and maintainability
+  use_cases:
+  - Automate sales processes and workflows to reduce manual tasks and improve efficiency
+  - Streamline operations and finance functions through AI-powered copilots and agents
+  - Enhance IT service delivery with intelligent automation and RAG-powered information
+    retrieval
+  - Improve cross-functional business processes by integrating Microsoft 365 ecosystem
+    with AI agents
+  - Enable secure internal data access and knowledge management through RAG pipelines
+  - Deploy task-specific agents to handle department-specific workflows across the
+    organization
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI API, Crew AI, prompt engineering, RAG, agents,
+      guardrails]
+    ml: []
+    web: [Microsoft Graph API, RESTful APIs, webhooks, OAuth]
+    databases: [Pinecone, Weaviate, Qdrant, Chroma]
+    data: []
+    cloud: [Power Platform, Azure AI Foundry]
+    ops: [Power Automate, Zapier, n8n, Make, monitoring, logging]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8393779'
+  extracted_at: '2026-02-05T13:05:11.973912'

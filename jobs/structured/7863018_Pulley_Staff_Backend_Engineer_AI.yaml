@@ -1,0 +1,60 @@
+company:
+  name: Pulley
+  stage: Series B
+  focus: AI-native equity and cap table management
+  use_cases:
+  - Automate complex equity workflows using intelligent agents
+  - Enable AI-native equity and business management for early-stage companies
+  - Process and analyze equity data using embeddings and vector search
+  - Provide real-time data processing for AI-powered cap table management
+  - Orchestrate multi-step AI workflows for equity optimization and management
+position:
+  title: Staff Backend Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Staff Backend Engineer role building
+      infrastructure and backend services that power AI
+      capabilities, not building AI models or agents themselves.
+      The responsibilities focus on architecting distributed
+      systems, APIs, data pipelines, and infrastructure for LLM
+      integrations and vector search to enable intelligent agents
+      built by others.
+  responsibilities:
+  - Architect distributed systems that power AI agent orchestration, handling complex
+    multi-step workflows with reliability and observability
+  - Design and implement core backend services in Golang for high-performance concurrent
+    operations and Python for AI/ML integrations
+  - Build robust APIs and service interfaces that abstract AI capabilities for consumption
+    by multiple clients and internal systems
+  - Own the technical roadmap for backend infrastructure supporting LLM integrations,
+    vector search, and real-time data processing
+  - Establish architectural patterns and standards for service design, data modeling,
+    and inter-service communication
+  - Drive system scalability and reliability, implementing caching strategies, database
+    optimization, and async processing patterns
+  - Build data pipelines that process equity data, embeddings, and user interactions
+    to continuously improve AI model performance
+  - Mentor engineers on backend best practices, system design, and technical decision-making
+  use_cases:
+  - Automate complex equity workflows using intelligent agents
+  - Enable AI-native equity and business management for early-stage companies
+  - Process and analyze equity data using embeddings and vector search
+  - Provide real-time data processing for AI-powered cap table management
+  - Orchestrate multi-step AI workflows for equity optimization and management
+  skills:
+    genai: [LLM integrations]
+    ml: [embeddings]
+    web: [REST, API design, service-to-service communication]
+    databases: [vector search, database optimization]
+    data: [event-driven systems, async workflows, data pipelines]
+    cloud: []
+    ops: [microservices, distributed systems, caching strategies, concurrency patterns]
+    languages: [Golang, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7863018'
+  extracted_at: '2026-02-05T11:36:38.287994'

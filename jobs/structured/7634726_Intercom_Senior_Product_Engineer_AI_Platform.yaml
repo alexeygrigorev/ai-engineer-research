@@ -1,0 +1,61 @@
+company:
+  name: Intercom
+  stage: Public (Series D+)
+  focus: AI-powered customer service and helpdesk platform
+  use_cases:
+  - AI-powered customer service agent (Fin) that delivers always-on, impeccable customer
+    service
+  - AI-enhanced support platform combining AI agent with human helpdesk for complex
+    queries
+  - Supervised learning models for customer service automation
+  - Unsupervised clustering algorithms for customer data analysis
+  - Transformer neural networks for natural language understanding in customer support
+position:
+  title: Senior Product Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role focused on building the
+      AI infrastructure platform and framework-level code that
+      supports ML engineers and scientists. The role involves
+      building systems that power AI products and bringing proof-
+      of-concept ML code to production, but the core work is on
+      the platform and infrastructure layer rather than directly
+      building, training, or fine-tuning models.
+  responsibilities:
+  - Build the systems that power Intercom's flagship AI products, working primarily
+    in ML Python tech stack and Rails app
+  - Work alongside ML engineers and ML Scientists to bring proof-of-concept code to
+    production ensuring robustness and scalability
+  - Partner with ML teams to build the underlying platform that helps shape the best
+    AI-powered product experience for customers
+  - Contribute to all phases of software development including ideation, prototyping,
+    implementation, and testing
+  - Play an active role in the hiring, mentoring, and career development of other
+    engineers
+  - Raise the bar for technical standards, performance, reliability, and operational
+    excellence within the group
+  use_cases:
+  - AI-powered customer service agent (Fin) that delivers always-on, impeccable customer
+    service
+  - AI-enhanced support platform combining AI agent with human helpdesk for complex
+    queries
+  - Supervised learning models for customer service automation
+  - Unsupervised clustering algorithms for customer data analysis
+  - Transformer neural networks for natural language understanding in customer support
+  skills:
+    genai: []
+    ml: []
+    web: [Ruby on Rails]
+    databases: [databases, caches]
+    data: [queues, streams]
+    cloud: []
+    ops: [ML platforms, distributed systems]
+    languages: [Python, Ruby]
+    domains: []
+    other: [backend engineering, mentoring, statistics]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7634726'
+  extracted_at: '2026-02-05T11:16:18.241536'

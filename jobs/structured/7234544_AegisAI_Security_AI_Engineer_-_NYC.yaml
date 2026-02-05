@@ -1,0 +1,50 @@
+company:
+  name: AegisAI Security
+  stage: Stealth
+  focus: AI-powered cybersecurity and threat detection
+  use_cases:
+  - Detecting and stopping adversarial AI attacks in real-time
+  - Identifying customized, high-evasion attacks crafted by AI-enabled adversaries
+  - Providing rapid threat detection that outpaces traditional rules-based systems
+  - Orchestrating multiple AI agents to collaboratively identify emerging threats
+  - Defending organizations against AI-powered security threats and customized evasive
+    payloads
+position:
+  title: AI Engineer - NYC
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI Agents for threat detection,
+      directly working with models that need daily adaptation.
+      This is hands-on development of AI systems (agents,
+      orchestration layer) not just supporting infrastructure.
+  responsibilities:
+  - Architect a constellation of AI agents for detecting and stopping emerging threats
+  - Design and implement orchestration layer for rapid iteration and adaptive learning
+  - Live in live threat data to evolve agents at the speed of the battlefield
+  - Build fast, cheap, and high-precision detection systems
+  - Develop new detection paradigms as threats evolve in real-time
+  - Iterate quickly on AI systems to stay ahead of adversarial AI attacks
+  use_cases:
+  - Detecting and stopping adversarial AI attacks in real-time
+  - Identifying customized, high-evasion attacks crafted by AI-enabled adversaries
+  - Providing rapid threat detection that outpaces traditional rules-based systems
+  - Orchestrating multiple AI agents to collaboratively identify emerging threats
+  - Defending organizations against AI-powered security threats and customized evasive
+    payloads
+  skills:
+    genai: [AI agents, RAG]
+    ml: [AI/ML systems]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [Security/detection systems, Adversarial environments]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7234544'
+  extracted_at: '2026-02-05T10:30:43.828416'

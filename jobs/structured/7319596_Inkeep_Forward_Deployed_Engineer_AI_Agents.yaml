@@ -1,0 +1,50 @@
+company:
+  name: Inkeep
+  stage: Series A
+  focus: |-
+    AI Agent platform for customer support and internal
+    workflows
+  use_cases:
+  - AI agents for customer-facing experiences including documentation, help centers,
+    and marketing sites
+  - Internal workflow automation using AI agents
+  - Customer support automation through conversational AI
+  - RAG-based knowledge retrieval and response generation
+position:
+  title: Forward Deployed Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role for an AI Agent
+      platform where you'll help customers embed and deploy
+      reliable AI systems. The role involves hands-on work with AI
+      and RAG APIs, agent frameworks, and technical onboarding
+      artifacts for AI deployments.
+  responsibilities:
+  - Onboard and support customers through AI agent implementation pilots
+  - Create templates, quickstarts, and other technical onboarding artifacts for agent
+    deployment
+  - Partner with technical and non-technical teams to enable successful AI agent integration
+  - Leverage AI tools to improve work efficiency and enhance customer outcomes
+  use_cases:
+  - AI agents for customer-facing experiences including documentation, help centers,
+    and marketing sites
+  - Internal workflow automation using AI agents
+  - Customer support automation through conversational AI
+  - RAG-based knowledge retrieval and response generation
+  skills:
+    genai: [RAG, AI Agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [customer-facing support, technical writing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7319596'
+  extracted_at: '2026-02-05T10:37:19.540686'

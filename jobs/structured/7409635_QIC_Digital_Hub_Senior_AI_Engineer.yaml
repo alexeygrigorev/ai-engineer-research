@@ -1,0 +1,54 @@
+company:
+  name: QIC Digital Hub
+  stage: Public
+  focus: Insurance provider building digital ecosystem
+  use_cases:
+  - Insurance document processing and automated document analysis
+  - Visual damage assessment from photos using Computer Vision and OCR
+  - Identity verification through image recognition
+  - Customer service chatbots powered by LLMs and RAG
+  - Voice analytics and transcription for multilingual support
+  - Multimodal AI combining text and images for insurance claims
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on development of LLMs (fine-tuning, RAG
+      systems), Computer Vision models, and Speech AI solutions.
+      The engineer will build, deploy, and optimize AI models
+      directly, including training custom LLMs and implementing
+      multimodal AI solutions, which clearly indicates working ON
+      AI systems.
+  responsibilities:
+  - Build LLM-based chatbots, RAG systems, and automated document processing pipelines
+  - Implement Computer Vision solutions for OCR, damage assessment from photos, and
+    identity verification
+  - Develop Speech AI applications for transcription, voice analytics, and multilingual
+    support
+  - Deploy and monitor AI models while integrating with cloud AI services
+  - Embed AI capabilities into business workflows and create AI-powered APIs
+  - Design user-friendly AI-powered experiences for client-facing products
+  use_cases:
+  - Insurance document processing and automated document analysis
+  - Visual damage assessment from photos using Computer Vision and OCR
+  - Identity verification through image recognition
+  - Customer service chatbots powered by LLMs and RAG
+  - Voice analytics and transcription for multilingual support
+  - Multimodal AI combining text and images for insurance claims
+  skills:
+    genai: [OpenAI API, LangChain, Hugging Face Transformers, RAG, Prompt Engineering]
+    ml: [PyTorch, TensorFlow, Fine-tuning]
+    web: [FastAPI, Flask]
+    databases: [Vector DBs]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, Model Optimization, ONNX]
+    languages: [Python]
+    domains: [OpenCV, PIL, YOLO, Detectron2]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7409635'
+  extracted_at: '2026-02-05T10:47:43.177387'

@@ -1,0 +1,63 @@
+company:
+  name: Assembled
+  stage: Series B
+  focus: AI-powered customer support orchestration platform
+  use_cases:
+  - Autonomous AI agents that handle customer support cases end-to-end
+  - AI Copilot that assists human agents with faster, more accurate replies
+  - AI-powered workforce management that optimizes human and AI capacity
+  - Translation capabilities for multilingual customer support
+  - Intelligent categorization and routing of incoming support tickets
+  - Workflow automation that distills complex processes into simple interfaces for
+    support agents
+position:
+  title: Software Engineer - AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      agents, implementing RAG systems with vector search and re-
+      ranking, and working extensively with LLMs for translation,
+      categorization, and workflow automation. The engineer will
+      develop LLM infrastructure, model evaluation systems, and
+      enhance model performance using advanced retrieval
+      techniques, which is hands-on AI/ML system development
+      rather than support infrastructure.
+  responsibilities:
+  - Build foundational new features including translation capabilities powered by
+    LLMs, intelligent ticket categorization, and intuitive workflow builder interfaces
+  - Improve LLM model results by enhancing the RAG engine with vector search, document
+    re-ranking, and hypothetical document embeddings
+  - Develop LLM infrastructure with abstractions for integrating various LLM types,
+    evaluation systems, and logging interfaces
+  - Engage with customers including support agents and managers to understand needs
+    and gather product feedback
+  - Wear multiple hats across coding, user research, planning, brainstorming, interviewing,
+    and cross-team collaboration
+  - Shape team culture with a startup mentality focused on product quality and taking
+    initiative
+  use_cases:
+  - Autonomous AI agents that handle customer support cases end-to-end
+  - AI Copilot that assists human agents with faster, more accurate replies
+  - AI-powered workforce management that optimizes human and AI capacity
+  - Translation capabilities for multilingual customer support
+  - Intelligent categorization and routing of incoming support tickets
+  - Workflow automation that distills complex processes into simple interfaces for
+    support agents
+  skills:
+    genai: [LLMs, RAG, Document re-ranking, Hypothetical document embeddings, Reciprocal
+        Rank Fusion, Hybrid Search, Prompt engineering]
+    ml: []
+    web: []
+    databases: [Vector search]
+    data: []
+    cloud: []
+    ops: [LLM evaluation]
+    languages: [Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7312223'
+  extracted_at: '2026-02-05T10:37:04.645582'

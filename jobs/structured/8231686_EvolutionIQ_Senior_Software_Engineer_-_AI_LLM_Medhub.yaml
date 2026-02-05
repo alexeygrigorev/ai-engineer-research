@@ -1,0 +1,55 @@
+company:
+  name: EvolutionIQ
+  stage: Growth/Scaling stage (noted as experiencing massive growth, converting pilots
+    to production)
+  focus: AI Guidance Platform for insurance claims handling
+  use_cases:
+  - Extract key information from complex medical documents for insurance claims
+  - Enable human-in-the-loop summarization workflows for claims handling
+  - Improve insurance claims accuracy and efficiency through AI-powered guidance
+  - Deliver reliable outcomes for insurance claims teams using hybrid ML approaches
+  - Scale AI solutions across multiple lines of business in the insurance industry
+position:
+  title: Senior Software Engineer - AI / LLM (Medhub)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying
+      AI/LLM features including RAG systems, prompt engineering,
+      fine-tuning models, and implementing hybrid ML solutions.
+      This is direct work on AI systems rather than supporting
+      infrastructure or general software engineering.
+  responsibilities:
+  - Design, build, and deploy AI-powered and LLM-driven features for claim synthesis
+    product
+  - Develop hybrid machine learning solutions combining statistical models, LLMs,
+    and RAG techniques
+  - Write clean, scalable, and efficient code while optimizing AI/ML system performance
+    in production
+  - Collaborate with data labelers and subject matter experts to evaluate AI outputs
+    and improve model performance
+  - Partner with Product teams to iterate on feedback and deliver impactful features
+  - Translate cutting-edge AI/ML research into production-grade, reliable solutions
+    for live customer environments
+  use_cases:
+  - Extract key information from complex medical documents for insurance claims
+  - Enable human-in-the-loop summarization workflows for claims handling
+  - Improve insurance claims accuracy and efficiency through AI-powered guidance
+  - Deliver reliable outcomes for insurance claims teams using hybrid ML approaches
+  - Scale AI solutions across multiple lines of business in the insurance industry
+  skills:
+    genai: [LLMs, RAG, prompt engineering, agents]
+    ml: [fine-tuning, embeddings, statistical machine learning]
+    web: [API services]
+    databases: [vector search]
+    data: []
+    cloud: []
+    ops: [microservice architectures]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8231686'
+  extracted_at: '2026-02-05T12:17:23.728453'

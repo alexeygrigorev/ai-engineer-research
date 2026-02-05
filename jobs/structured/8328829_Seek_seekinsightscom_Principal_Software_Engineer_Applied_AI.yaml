@@ -1,0 +1,63 @@
+company:
+  name: Seek (seekinsights.com)
+  stage: Startup
+  focus: Marketplace for data apps and analytics
+  use_cases:
+  - Conversational data querying allowing users to ask natural language questions
+    about their data
+  - Intelligent recommendations for data apps and cross-app insights within the marketplace
+  - AI-assisted publishing workflow that helps providers create and deploy data applications
+  - Guided analytics and assisted discovery to help users find relevant data and insights
+  - Semantic modeling integration for understanding and relating data across applications
+position:
+  title: Principal Software Engineer, Applied AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on integrating AI models via APIs/SDKs
+      into cloud-native applications rather than building or fine-
+      tuning models. The engineer works on full stack development,
+      system architecture, and enabling AI features through
+      integration patterns - supporting the AI work rather than
+      directly working on the AI systems themselves.
+  responsibilities:
+  - Build full stack features using React, Python, and modern APIs to deliver high-quality
+    user experiences
+  - Design and extend backend services and APIs that integrate AI models and external
+    AI services into the platform
+  - Define patterns and best practices for integrating LLMs and semantic modeling
+    into data workflows
+  - Create intuitive user workflows that incorporate AI such as conversational data
+    querying, assisted discovery, or guided analytics
+  - Mentor and guide engineers, raising the bar on engineering craft, AI integration
+    strategies, and system reliability
+  - Ensure reliability at scale by driving observability, automated testing, CI/CD
+    improvements, and performance tuning across AI-enabled systems
+  - Shape the app marketplace experience by advancing intelligent recommendations,
+    AI-assisted publishing, and cross-app insights
+  - Partner with product and design leadership to translate ambiguous AI opportunities
+    into customer-ready features
+  use_cases:
+  - Conversational data querying allowing users to ask natural language questions
+    about their data
+  - Intelligent recommendations for data apps and cross-app insights within the marketplace
+  - AI-assisted publishing workflow that helps providers create and deploy data applications
+  - Guided analytics and assisted discovery to help users find relevant data and insights
+  - Semantic modeling integration for understanding and relating data across applications
+  skills:
+    genai: [LLM integration, OpenAI API, Anthropic API, RAG, Agent frameworks, Semantic
+        modeling]
+    ml: []
+    web: [React, REST APIs, API design]
+    databases: [Snowflake]
+    data: []
+    cloud: []
+    ops: [Distributed systems, CI/CD, Observability, Automated testing]
+    languages: [Python]
+    domains: []
+    other: [System architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8328829'
+  extracted_at: '2026-02-05T12:52:31.403611'

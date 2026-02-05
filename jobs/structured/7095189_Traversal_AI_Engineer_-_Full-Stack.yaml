@@ -1,0 +1,59 @@
+company:
+  name: Traversal
+  stage: Series A
+  focus: AI-powered site reliability engineering platform
+  use_cases:
+  - Real-time incident detection in complex production environments
+  - Root cause analysis for production incidents
+  - Automated remediation of production incidents
+  - Prevention of complex production incidents before they occur
+  - AI-powered troubleshooting and site reliability engineering
+  - Data visualization for time-series and topological infrastructure data
+position:
+  title: AI Engineer - Full-Stack
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a full-stack engineer building product features
+      and infrastructure to consume AI-powered insights from an AI
+      SRE system. The candidate collaborates with AI
+      engineers/researchers to integrate AI solutions into backend
+      systems but does not build, train, or deploy models
+      themselves. The focus is on product development, API design,
+      and infrastructure rather than hands-on AI/ML model work.
+  responsibilities:
+  - Translate AI-powered insights into user-friendly features that empower engineers
+    and reduce cognitive load
+  - Innovate and drive the evolution of UX/UI design, rapidly iterating based on user
+    feedback to improve overall usability
+  - Design and implement high-performance APIs to enable seamless communication between
+    backend systems and frontend interfaces
+  - Ensure efficient data storage, retrieval, and processing, leveraging technologies
+    like PostgreSQL, Redis, or others
+  - Collaborate with AI engineers/researchers to integrate AI-driven insights and
+    solutions into backend systems
+  - Develop intuitive interfaces for presenting and interacting with complex time-series
+    and topological data
+  use_cases:
+  - Real-time incident detection in complex production environments
+  - Root cause analysis for production incidents
+  - Automated remediation of production incidents
+  - Prevention of complex production incidents before they occur
+  - AI-powered troubleshooting and site reliability engineering
+  - Data visualization for time-series and topological infrastructure data
+  skills:
+    genai: []
+    ml: []
+    web: [FastAPI, React, Next.js, TailwindCSS]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, S3]
+    ops: [ECS, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7095189'
+  extracted_at: '2026-02-05T10:15:42.189240'

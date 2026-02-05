@@ -1,0 +1,55 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Financial services with AI-powered solutions
+  use_cases:
+  - Generative AI applications for financial services
+  - Agentic Workflow systems for automated decision-making
+  - High-volume model serving endpoints for business operations
+  - Scalable ML inference serving architecture
+  - Real-time AI-powered solutions for banking and financial services
+position:
+  title: Lead Machine Learning Engineer (Gen AI, Python, Go, AWS)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, building, and delivering GenAI
+      models and Agentic Workflow systems at massive scale. The
+      engineer is responsible for developing, deploying, and
+      maintaining GenAI models in production, which is direct
+      hands-on work building and deploying AI systems rather than
+      just supporting infrastructure for others.
+  responsibilities:
+  - Design, build, and deliver GenAI models and components to solve complex business
+    problems
+  - Design and implement cloud-native ML Serving Platforms using Docker, Kubernetes,
+    KNative, and KServe
+  - Solve scaling and high-availability problems by writing performant code in Python
+    and Go
+  - Implement advanced MLOps and GitOps practices using CI/CD tools like ArgoCD
+  - Leverage service mesh architectures like Istio for traffic management and security
+  - Retrain, maintain, and monitor models in production
+  - Construct optimized, scalable data pipelines to feed ML models
+  - Ensure code security, model governance, and adherence to Responsible AI practices
+  use_cases:
+  - Generative AI applications for financial services
+  - Agentic Workflow systems for automated decision-making
+  - High-volume model serving endpoints for business operations
+  - Scalable ML inference serving architecture
+  - Real-time AI-powered solutions for banking and financial services
+  skills:
+    genai: [GenAI]
+    ml: [scikit-learn, PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [Dask, Spark]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, KNative, KServe, ArgoCD, Istio, MLOps, CI/CD]
+    languages: [Python, Go, Scala, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8203898'
+  extracted_at: '2026-02-05T12:13:59.955465'

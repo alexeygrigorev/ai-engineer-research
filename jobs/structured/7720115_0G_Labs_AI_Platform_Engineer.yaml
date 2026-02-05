@@ -1,0 +1,57 @@
+company:
+  name: 0G Labs
+  stage: null
+  focus: Decentralized AI platform infrastructure
+  use_cases:
+  - Scalable platform for integrating, training, and deploying ML models in a decentralized
+    environment
+  - Integration of AI capabilities with blockchain systems and decentralized applications
+  - Secure AI infrastructure that adheres to decentralization principles
+  - Cost-optimized cloud infrastructure for high-performance AI workloads
+  - Support for making AI a public good through decentralized platform infrastructure
+position:
+  title: AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Platform Engineer role focused on building
+      infrastructure and platforms to enable AI/ML work rather
+      than directly developing, training, or deploying models. The
+      role emphasizes platform development, infrastructure
+      optimization, and cross-functional integration - all
+      enabling capabilities for others to work with AI systems.
+  responsibilities:
+  - Design, develop, and maintain a scalable AI platform for integrating, training,
+    and deploying ML models
+  - Manage and optimize cloud infrastructure across AWS, GCP, or Azure to balance
+    performance and cost-effectiveness for AI workloads
+  - Collaborate across teams to integrate AI capabilities with blockchain systems
+    and contribute to DApp and smart contract development
+  - Implement robust data security and privacy measures for the platform
+  - Create and maintain comprehensive technical documentation for knowledge sharing
+    and platform scalability
+  - Stay current with emerging trends in AI, blockchain, and cloud technologies to
+    drive continuous innovation
+  use_cases:
+  - Scalable platform for integrating, training, and deploying ML models in a decentralized
+    environment
+  - Integration of AI capabilities with blockchain systems and decentralized applications
+  - Secure AI infrastructure that adheres to decentralization principles
+  - Cost-optimized cloud infrastructure for high-performance AI workloads
+  - Support for making AI a public good through decentralized platform infrastructure
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: [Distributed systems]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Terraform]
+    languages: [Python, Solidity]
+    domains: []
+    other: [Blockchain security, Smart contract development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7720115'
+  extracted_at: '2026-02-05T11:22:10.626398'

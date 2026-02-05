@@ -1,0 +1,54 @@
+company:
+  name: Stability AI
+  stage: Series B
+  focus: Generative AI models and inference platforms
+  use_cases:
+  - Multi-modal generative AI inference for creative applications
+  - Diffusion model-based content generation
+  - High-performance inference optimization for generative models
+  - Cloud-hosted inference solutions for Stability AI models
+  - Production ML systems for image and multi-modal content creation
+position:
+  title: Generative AI Inference Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with generative AI models,
+      specifically working on inference systems, optimization, and
+      deployment of multi-modal models including diffusion
+      architectures. The engineer directly works on model tuning,
+      inference pipeline development, and deploying state-of-the-
+      art generative models to production.
+  responsibilities:
+  - Lead efforts to drive the design, development of customer-facing multi-modal ML
+    inference systems
+  - Work with Platform and Inference teams on building inference systems for next-generation
+    models including optimization, model tuning and deployment
+  - Partner with leading cloud providers to deliver hosted Stability AI inference
+    solutions
+  - Be a strategic thought partner for leaders on driving business impact through
+    machine learning
+  - Bring new Stability models and pipelines into existence
+  - Prototype and productionize inference platform improvements and new features
+  use_cases:
+  - Multi-modal generative AI inference for creative applications
+  - Diffusion model-based content generation
+  - High-performance inference optimization for generative models
+  - Cloud-hosted inference solutions for Stability AI models
+  - Production ML systems for image and multi-modal content creation
+  skills:
+    genai: []
+    ml: [PyTorch, CUDA, OpenCV, HuggingFace]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Triton, TensorRT, NVIDIA Nsight, Weights & Biases, Kubernetes, Docker]
+    languages: [Python]
+    domains: [Diffusion models]
+    other: [ComfyUI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7729834'
+  extracted_at: '2026-02-05T11:23:19.626442'

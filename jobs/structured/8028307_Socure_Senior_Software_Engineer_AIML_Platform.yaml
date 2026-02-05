@@ -1,0 +1,53 @@
+company:
+  name: Socure
+  stage: Series D
+  focus: Identity verification and fraud prevention platform
+  use_cases:
+  - Real-time identity verification for fraud prevention
+  - Model inference systems serving identity trust predictions
+  - Automated ML model deployment pipelines for production systems
+  - Monitoring and observability for deployed ML models
+  - Feature serving and caching for ML workloads
+position:
+  title: Senior Software Engineer – AI/ML Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an ML Platform engineering role focused on building
+      infrastructure, tools, and pipelines to enable ML teams to
+      deploy and serve models. The engineer works NEAR AI by
+      building deployment pipelines, CI/CD workflows, and serving
+      infrastructure, but does not directly build, train, or fine-
+      tune models themselves.
+  responsibilities:
+  - Build and maintain scalable systems and infrastructure for deploying and serving
+    ML models
+  - Design low-latency, fault-tolerant model inference systems using Amazon SageMaker
+  - Implement safe deployment strategies like blue/green deployments and rollbacks
+  - Create and manage CI/CD pipelines for ML workflows
+  - Monitor model performance and system health using AWS observability tools
+  - Develop internal tools and APIs to help ML teams deploy and monitor models easily
+  - Collaborate with ML engineers, data scientists, and DevOps to productionize new
+    models
+  use_cases:
+  - Real-time identity verification for fraud prevention
+  - Model inference systems serving identity trust predictions
+  - Automated ML model deployment pipelines for production systems
+  - Monitoring and observability for deployed ML models
+  - Feature serving and caching for ML workloads
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, Scikit-learn]
+    web: []
+    databases: [SQL, NoSQL, Snowflake, Redshift]
+    data: []
+    cloud: [AWS, Amazon SageMaker]
+    ops: [MLflow, CI/CD, Docker, Kubernetes, CloudWatch, MLOps, TorchScript, ONNX]
+    languages: [Python, Go, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8028307'
+  extracted_at: '2026-02-05T11:50:47.811836'

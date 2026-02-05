@@ -1,0 +1,57 @@
+company:
+  name: Mural
+  stage: null
+  focus: AI-powered visual collaboration platform
+  use_cases:
+  - Enhancing visual collaboration and decision-making through generative AI
+  - Amplifying human creativity and improving team alignment, communication, and visual
+    decision-making
+  - Delivering intuitive, high-impact AI capabilities that make collaboration feel
+    more fluid and human
+  - Implementing AI-powered indexing, retrieval systems, personalization, and natural
+    language processing for visual workspaces
+position:
+  title: Senior Software Engineer, AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role requires implementing full lifecycle of AI development
+      including model selection, productionizing, and maintaining
+      generative AI systems. The engineer builds early-stage AI
+      systems and frameworks that directly deliver AI-powered
+      features to enhance user experiences.
+  responsibilities:
+  - Build and refine early-stage AI systems and frameworks that enhance user experiences
+    and deliver measurable improvements in performance and relevance
+  - Help direction for AI innovation at Mural by working closely with cross-functional
+    teams to define priorities and long-term strategy
+  - Translate complex, open-ended problems into structured engineering approaches
+    grounded in data analysis, experimentation, and machine learning principles
+  - Champion technical excellence and mentorship, fostering best practices in AI development
+    and nurturing a culture of inclusivity, curiosity, and collaboration
+  - Shape the future of the team through thoughtful hiring, process improvements,
+    and initiatives that attract and develop exceptional AI talent
+  use_cases:
+  - Enhancing visual collaboration and decision-making through generative AI
+  - Amplifying human creativity and improving team alignment, communication, and visual
+    decision-making
+  - Delivering intuitive, high-impact AI capabilities that make collaboration feel
+    more fluid and human
+  - Implementing AI-powered indexing, retrieval systems, personalization, and natural
+    language processing for visual workspaces
+  skills:
+    genai: [generative AI, retrieval systems]
+    ml: [machine learning, experimentation, personalization]
+    web: [React, Node]
+    databases: [MongoDB]
+    data: [data analysis, AI indexing]
+    cloud: [Azure OpenAI]
+    ops: []
+    languages: []
+    domains: [natural language processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7890547'
+  extracted_at: '2026-02-05T11:38:07.465274'

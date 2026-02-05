@@ -1,0 +1,68 @@
+company:
+  name: Standard Template Labs
+  stage: stealth-mode
+  focus: AI-native IT Service and Configuration Management
+  use_cases:
+  - Natural language understanding and processing of IT support tickets for automated
+    triage and routing
+  - Dynamic knowledge extraction from IT infrastructure data to build and maintain
+    configuration management databases
+  - Intelligent workflow automation that recommends and executes IT service management
+    processes based on historical patterns
+  - Predictive insights from complex IT infrastructure data for incident forecasting
+    and proactive issue resolution
+  - IT ticket classification and prioritization using machine learning models to improve
+    service desk efficiency
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying AI systems -
+      the responsibilities explicitly include "research,
+      prototype, and productionize machine learning models" and
+      "experiment with LLMs, embeddings, and retrieval-augmented
+      generation (RAG)." The engineer is directly working on
+      models, training/inference pipelines, and optimization, not
+      just supporting infrastructure.
+  responsibilities:
+  - Research, prototype, and productionize machine learning models for ITSM use cases
+    including ticket triage, incident prediction, workflow recommendations, and CMDB
+    inference
+  - Build scalable training and inference pipelines that integrate seamlessly into
+    the core platform
+  - Experiment with LLMs, embeddings, and retrieval-augmented generation (RAG) for
+    IT knowledge and workflow automation
+  - Partner with engineers and product managers to define AI-first features that differentiate
+    the platform
+  - Evaluate performance, optimize models, and ensure reliability, scalability, and
+    cost-efficiency of AI systems
+  - Stay current with advances in machine learning, LLMs, and AI infrastructure and
+    apply them pragmatically
+  use_cases:
+  - Natural language understanding and processing of IT support tickets for automated
+    triage and routing
+  - Dynamic knowledge extraction from IT infrastructure data to build and maintain
+    configuration management databases
+  - Intelligent workflow automation that recommends and executes IT service management
+    processes based on historical patterns
+  - Predictive insights from complex IT infrastructure data for incident forecasting
+    and proactive issue resolution
+  - IT ticket classification and prioritization using machine learning models to improve
+    service desk efficiency
+  skills:
+    genai: [LLMs, embeddings, RAG]
+    ml: [PyTorch, TensorFlow, time-series forecasting]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, model versioning, model deployment, model monitoring]
+    languages: [Python]
+    domains: [NLP, information retrieval, graph ML]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7149858'
+  extracted_at: '2026-02-05T10:25:59.537139'

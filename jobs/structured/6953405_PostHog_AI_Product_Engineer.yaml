@@ -1,0 +1,66 @@
+company:
+  name: PostHog
+  stage: Series B
+  focus: |-
+    Open-source product analytics platform with AI-powered
+    analyst
+  use_cases:
+  - AI-powered analyst that answers product questions and helps users find useful
+    session recordings
+  - Autonomous agents embedded into engineering workflows to change how software gets
+    built
+  - AI observability and evaluation features to help teams measure and improve their
+    AI systems
+  - Background agents that leverage customer data including analytics, sessions, events,
+    and feature flags
+  - Workflow automation and AI copilots integrated across the PostHog product suite
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building AI
+      applications including LLMs, autonomous agents, and AI
+      copilots from scratch. The engineer will implement AI
+      features directly, create background agents embedded in
+      workflows, and build observability layers for measuring
+      model performance.
+  responsibilities:
+  - Own products and features end-to-end from ideation to ongoing success, including
+    user research, MVP testing, and pricing decisions
+  - Ship full-stack AI applications ranging from backend infrastructure to frontend
+    UX using the company's design system
+  - Implement AI features with LLMs and collaborate with the PostHog AI team on AI
+    integrations and observability features
+  - Build autonomous agents and AI-powered tools on top of real customer data with
+    immediate production impact
+  - Create analytics and observability layers for AI systems including surfacing insights,
+    clustering behaviors, and measuring model quality
+  - Engage directly with users to gather feedback, iterate on features quickly, and
+    provide technical support as designated Support hero
+  use_cases:
+  - AI-powered analyst that answers product questions and helps users find useful
+    session recordings
+  - Autonomous agents embedded into engineering workflows to change how software gets
+    built
+  - AI observability and evaluation features to help teams measure and improve their
+    AI systems
+  - Background agents that leverage customer data including analytics, sessions, events,
+    and feature flags
+  - Workflow automation and AI copilots integrated across the PostHog product suite
+  skills:
+    genai: [LLMs, autonomous agents, AI copilots, AI workflow automation, prompt engineering]
+    ml: [model evaluation]
+    web: [React, Django]
+    databases: [PostgreSQL]
+    data: [data pipelines, big data]
+    cloud: []
+    ops: [AI observability]
+    languages: [TypeScript, Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6953405'
+  extracted_at: '2026-02-05T10:03:55.326155'

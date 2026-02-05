@@ -1,0 +1,58 @@
+company:
+  name: Flo Health Inc.
+  stage: Series B
+  focus: Digital health app for female health and wellness
+  use_cases:
+  - AI-powered digital health applications for female health and wellness tracking
+  - LLM-based health assistants providing medically accurate information to users
+  - Personalized health insights and recommendations powered by fine-tuned language
+    models
+  - AI-driven user profiling and health data analysis for improved outcomes
+  - Responsible AI systems with safety monitoring and medical accuracy evaluation
+position:
+  title: Senior AI/ML engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs including fine-
+      tuning, optimizing, and deploying large language models. The
+      engineer will work directly on AI/ML systems building LLM
+      evaluation frameworks, model deployment pipelines, and
+      inference infrastructure, not just supporting other teams.
+  responsibilities:
+  - Develop, fine-tune, and optimize large language models for domain-specific health
+    applications using proprietary and open-source models
+  - Design and maintain automated pipelines for model training, fine-tuning, evaluation,
+    and deployment across diverse AI workloads
+  - Build and enhance LLM evaluation frameworks (AI Judges) for measuring model safety,
+    medical accuracy, and performance
+  - Implement CI/CD practices for ML/AI engineering workflows including experiment
+    tracking, model versioning, and automated testing
+  - Orchestrate deployment of models, AI agents, and inference endpoints with automated
+    testing and rollback capabilities
+  - Implement comprehensive monitoring for model performance, drift detection, AI
+    safety metrics, and responsible AI compliance
+  use_cases:
+  - AI-powered digital health applications for female health and wellness tracking
+  - LLM-based health assistants providing medically accurate information to users
+  - Personalized health insights and recommendations powered by fine-tuned language
+    models
+  - AI-driven user profiling and health data analysis for improved outcomes
+  - Responsible AI systems with safety monitoring and medical accuracy evaluation
+  skills:
+    genai: [LLM fine-tuning, LoRA, prompt engineering, RAG, responsible AI]
+    ml: []
+    web: []
+    databases: []
+    data: [Unity Catalog, Apache Spark]
+    cloud: [Databricks]
+    ops: [model evaluation, MLflow, Docker, Kubernetes, Terraform, CI/CD, LLM inference,
+      model monitoring, drift detection]
+    languages: [Python]
+    domains: []
+    other: [AI safety]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8075221'
+  extracted_at: '2026-02-05T11:58:02.545817'

@@ -1,0 +1,58 @@
+company:
+  name: SandboxAQ
+  stage: Growth capital-backed (Series B+)
+  focus: AI solutions using Large Quantitative Models (LQMs)
+  use_cases:
+  - AI security testing and vulnerability assessment for advanced AI systems
+  - Visualization of complex vulnerability surfaces in AI and ML systems
+  - Low-latency security analysis for AI models and systems
+  - Translation of cryptographic primitives and ML models into deployable software
+    tools
+  - Enterprise-scale AI security monitoring and protection
+position:
+  title: Full Stack Software Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Full Stack Software Engineer role focused on
+      building web applications, APIs, and visualization tools
+      that support AI security researchers rather than directly
+      working on AI/ML models. The role involves translating ML
+      models into software tools and creating dashboards for AI
+      systems, which positions it as enabling infrastructure for
+      AI work rather than building, training, or deploying models.
+  responsibilities:
+  - Design and build complete product features from persistent data storage and high-throughput
+    APIs to polished front-end interfaces
+  - Spearhead system architecture for new components, ensuring resilience, maintainability,
+    and horizontal scalability under enterprise loads
+  - Collaborate with AI Security Researchers to translate cryptographic primitives
+    and machine learning models into robust, documented software tools
+  - Develop sophisticated visualization tools and dashboards that reveal the complex
+    vulnerability surfaces of advanced AI and ML systems
+  - Rapidly iterate on prototypes and scale core applications to ensure high availability
+    for low-latency AI security use cases
+  use_cases:
+  - AI security testing and vulnerability assessment for advanced AI systems
+  - Visualization of complex vulnerability surfaces in AI and ML systems
+  - Low-latency security analysis for AI models and systems
+  - Translation of cryptographic primitives and ML models into deployable software
+    tools
+  - Enterprise-scale AI security monitoring and protection
+  skills:
+    genai: []
+    ml: [Adversarial ML]
+    web: [React, JavaScript, TypeScript, REST APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps]
+    languages: [Go, Rust, Kotlin, Python]
+    domains: []
+    other: [Cryptography, Network Security, Microservices, Event-driven Systems, Data
+        Structures, Algorithms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8249765'
+  extracted_at: '2026-02-05T12:21:51.020927'

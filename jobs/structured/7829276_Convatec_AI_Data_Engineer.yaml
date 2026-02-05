@@ -1,0 +1,59 @@
+company:
+  name: Convatec
+  stage: Public
+  focus: Medical products and technologies for chronic conditions
+  use_cases:
+  - Intelligent automation across enterprise operations
+  - Data-driven decision-making for business analytics
+  - Retrieval-augmented generation (RAG) for knowledge retrieval and question answering
+  - AI-powered workflow automation connected to business processes
+  - Advanced analytics and reporting for medical products and healthcare solutions
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is an AI Data Engineer focused on building data
+      pipelines, ensuring data readiness, and integrating AI
+      services rather than building or training models directly.
+      The position supports AI workflows by preparing data and
+      enabling infrastructure for AI Engineers and Data
+      Scientists, which aligns with ai-support classification.
+  responsibilities:
+  - Design, build, and maintain data pipelines using Azure Data Factory, Microsoft
+    Fabric, and Synapse to support AI and analytics workloads
+  - Prepare and transform data for AI model training, inference, and retrieval workflows
+    using Lakehouse data models
+  - Integrate and operationalize AI solutions using Azure Machine Learning, Azure
+    OpenAI, and Cognitive Services
+  - Develop data interfaces and microservices connecting AI models to business processes
+  - Support deployment, monitoring, and performance optimization of AI and automation
+    workflows in production
+  - Contribute to setup and maintenance of RAG pipelines and agent-based automation
+    frameworks
+  - Implement CI/CD automation and Infrastructure-as-Code practices for repeatable
+    deployments
+  - Ensure data and AI governance through documentation, lineage tracking, and configuration
+    details
+  use_cases:
+  - Intelligent automation across enterprise operations
+  - Data-driven decision-making for business analytics
+  - Retrieval-augmented generation (RAG) for knowledge retrieval and question answering
+  - AI-powered workflow automation connected to business processes
+  - Advanced analytics and reporting for medical products and healthcare solutions
+  skills:
+    genai: [Azure OpenAI, RAG, AI agents, prompt engineering]
+    ml: []
+    web: [API development]
+    databases: [Delta, Parquet, Dataverse]
+    data: [Azure Data Factory, Microsoft Fabric, Synapse Analytics, Power BI]
+    cloud: [Azure Machine Learning, Azure AI Services, Cognitive Services]
+    ops: [Azure DevOps, Docker, Terraform, Bicep, Git, MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7829276'
+  extracted_at: '2026-02-05T11:34:22.503556'

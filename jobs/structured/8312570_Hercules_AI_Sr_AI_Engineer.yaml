@@ -1,0 +1,65 @@
+company:
+  name: Hercules AI
+  stage: null
+  focus: |-
+    AI platform for automating finance and operations data
+    validation and verification
+  use_cases:
+  - Automate validation and verification of data across millions of high-volume, rules-based
+    transactions in finance and operations
+  - Improve billing accuracy, reduce costs, and accelerate cash flow for enterprises
+    through automated data processing
+  - Deploy industry-specific solutions for staffing, insurance, government, and financial
+    services sectors
+  - Build agentic models that autonomously navigate complex environments, write and
+    prototype code, and process multimodal inputs
+position:
+  title: Sr. AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, training, fine-
+      tuning, and deploying LLMs/agents through post-training,
+      distillation, and reinforcement learning. The engineer
+      directly shapes models served in products and owns the
+      entire process from data training to production
+      implementation.
+  responsibilities:
+  - Create training environments for synthetic data generation and high-quality reward
+    signals for off- and on-policy learning
+  - Design and train agentic models that autonomously interact with complex structured
+    and unstructured environments and navigate multimodal inputs
+  - Utilize SFT, distillation, RL, or combinations to optimize model behaviors for
+    interpretability and cost efficiency
+  - Own benchmarking pipelines by assembling high-quality datasets and measuring impact
+    of different training parameters and methodologies
+  - Architect scalable inference strategies to maximize compute efficiency and maintain
+    stable, reliable production solutions
+  - Collaborate with engineering team to design AI-product intersections including
+    interfaces, inference tracking, checkpointing, data persistence, and caching
+  use_cases:
+  - Automate validation and verification of data across millions of high-volume, rules-based
+    transactions in finance and operations
+  - Improve billing accuracy, reduce costs, and accelerate cash flow for enterprises
+    through automated data processing
+  - Deploy industry-specific solutions for staffing, insurance, government, and financial
+    services sectors
+  - Build agentic models that autonomously navigate complex environments, write and
+    prototype code, and process multimodal inputs
+  skills:
+    genai: [post-training, distillation, SFT (Supervised Fine-Tuning), agentic models]
+    ml: [reinforcement learning, 'RL frameworks (verifiers, ART, prime-rl, trl)',
+      benchmarking]
+    web: []
+    databases: []
+    data: [synthetic data generation]
+    cloud: []
+    ops: [Docker, Kubernetes, vLLM, SGlang, llama.cpp, inference engineering]
+    languages: [Python]
+    domains: [multimodal processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8312570'
+  extracted_at: '2026-02-05T12:45:26.674499'

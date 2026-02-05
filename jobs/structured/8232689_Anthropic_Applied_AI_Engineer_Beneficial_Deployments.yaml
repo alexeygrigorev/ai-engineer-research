@@ -1,0 +1,56 @@
+company:
+  name: Anthropic
+  stage: Public Benefit Corporation (Public Benefit Corp, likely Series C+)
+  focus: Building safe, beneficial, steerable AI systems
+  use_cases:
+  - Deploying Claude AI in education sector to support learning and teaching
+  - AI applications for global health initiatives to improve health outcomes
+  - Using AI to enhance economic mobility for underserved communities
+  - Applying AI in life sciences and scientific research for social impact
+  - Supporting nonprofits and mission-driven organizations with AI-powered solutions
+position:
+  title: Applied AI Engineer, Beneficial Deployments
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including
+      building agents, context engineering, prompt engineering,
+      and deploying AI solutions. The engineer directly implements
+      AI systems for partners through prototyping, code
+      contributions, and infrastructure development, which matches
+      ai-first classification.
+  responsibilities:
+  - Serve as a deep technical partner to mission-driven organizations through advising
+    on evals, agent architectures, context engineering, cost optimization, and more
+  - Provide hands-on support to partner engineering teams through pair programming,
+    prototyping, and code contributions that accelerate their development
+  - Develop public goods infrastructure that benefits entire ecosystems through benchmarks,
+    MCP's, and Agent Skills
+  - Identify challenges unique to social impact partners, and contribute findings
+    and improvements back to product, engineering, and research
+  - Create technical presentations, demos, and scalable technical content (documentation,
+    tutorials, sample code) to accelerate partner adoption and self-service
+  - Help shape team processes and culture as we scale from 1 to N
+  use_cases:
+  - Deploying Claude AI in education sector to support learning and teaching
+  - AI applications for global health initiatives to improve health outcomes
+  - Using AI to enhance economic mobility for underserved communities
+  - Applying AI in life sciences and scientific research for social impact
+  - Supporting nonprofits and mission-driven organizations with AI-powered solutions
+  skills:
+    genai: [LLM-powered applications, prompt engineering, context engineering, agent
+        architectures, MCP (Model Context Protocol), agent skills, Claude API]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation frameworks, cost optimization, deployment at scale]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8232689'
+  extracted_at: '2026-02-05T12:17:35.998951'

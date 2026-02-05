@@ -1,0 +1,60 @@
+company:
+  name: Flock Safety
+  stage: Series C+
+  focus: Public safety technology and crime prevention platform
+  use_cases:
+  - AI research assistant (Night Shift) that automates repetitive case investigation
+    tasks for law enforcement
+  - Agentic system that helps investigators work cases faster by automating tedious
+    steps
+  - Search, retrieval, and recommendation system for case-related information
+  - Safety and compliance monitoring with red-teaming and regression testing
+position:
+  title: Staff AI Systems Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM-
+      based agentic AI systems, including tool use, RAG, multi-
+      agent architecture, and agent evaluation frameworks. The
+      engineer will directly work with LangChain/LangGraph,
+      OpenAI/Anthropic APIs, and build the agentic AI system
+      architecture for Night Shift.
+  responsibilities:
+  - Build and deploy agentic AI systems with LLM-based agents using tools, retrieval,
+    memory, and guardrails
+  - Design and implement multi-agent architectural patterns, planning systems, and
+    context management
+  - Develop and own the AI evaluation framework with offline/online eval harnesses,
+    metrics, and regression testing
+  - Implement RAG systems with vector/hybrid search, rerankers, and attribution for
+    claims
+  - Build ML platform infrastructure including web services, cloud infrastructure,
+    observability, and monitoring
+  - Lead R&D initiatives for improving system performance through fine-tuning, embeddings,
+    and multimodal understanding
+  use_cases:
+  - AI research assistant (Night Shift) that automates repetitive case investigation
+    tasks for law enforcement
+  - Agentic system that helps investigators work cases faster by automating tedious
+    steps
+  - Search, retrieval, and recommendation system for case-related information
+  - Safety and compliance monitoring with red-teaming and regression testing
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, Anthropic API, LLM agents, tool use,
+      MCP, RAG, vector search, guardrails, multi-agent systems, prompt engineering]
+    ml: [PyTorch]
+    web: [FastAPI, Express, REST, SSE, JWTs]
+    databases: [pgvector, Postgres, Redis, ClickHouse, BigQuery]
+    data: [Prefect, Ray]
+    cloud: [AWS]
+    ops: [vLLM, TensorRT, NVIDIA Triton, Terraform, Docker, Kubernetes, Prometheus,
+      Grafana, OpenTelemetry, LangSmith, Langfuse, Temporal, Hatchet]
+    languages: [Python, JavaScript, TypeScript, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7669524'
+  extracted_at: '2026-02-05T11:20:00.073437'

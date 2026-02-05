@@ -1,0 +1,62 @@
+company:
+  name: BetterUp
+  stage: Series C
+  focus: AI-powered coaching and human transformation platform
+  use_cases:
+  - AI-powered conversational insights that provide personalized feedback and guidance
+  - Practice-moment nudges that deliver timely prompts for behavior change and skill
+    development
+  - AI copilot (FocusFrame) that assists coaches in real-time to deliver more impactful
+    coaching sessions
+  - Human-AI collaboration tools that augment coaching expertise with AI capabilities
+  - Personalized coaching experiences that scale human transformation through generative
+    AI
+position:
+  title: Senior Machine Learning Engineer, AI Product and Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including fine-
+      tuning, prompt engineering, and building RAG pipelines. The
+      engineer will prototype, evaluate, and ship LLM-powered
+      features like conversational insights and AI copilots,
+      directly working on model architectures and retrieval
+      strategies.
+  responsibilities:
+  - Prototype, fine-tune, and evaluate LLM-powered features including conversational
+    insights and practice-moment nudges
+  - Own the production lifecycle from data prep and experiment design to offline/online
+    evaluation and weekly production deployments
+  - Collaborate with Product, Coaching Science, and Learning Design teams to translate
+    behavior-change research into user features
+  - Shape model architectures, retrieval strategies, and safety guards while maintaining
+    hands-on coding involvement
+  - Define success metrics, implement A/B tests, and iterate based on real coach feedback
+  - Ship end-to-end improvements to AI copilot products like FocusFrame that help
+    coaches deliver higher-impact sessions
+  use_cases:
+  - AI-powered conversational insights that provide personalized feedback and guidance
+  - Practice-moment nudges that deliver timely prompts for behavior change and skill
+    development
+  - AI copilot (FocusFrame) that assists coaches in real-time to deliver more impactful
+    coaching sessions
+  - Human-AI collaboration tools that augment coaching expertise with AI capabilities
+  - Personalized coaching experiences that scale human transformation through generative
+    AI
+  skills:
+    genai: [LLM fine-tuning, prompt engineering, RAG pipelines, multimodal models]
+    ml: [Jupyter notebooks, PyTorch, TensorFlow, JAX, A/B testing, RLHF, preference
+        tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud deployment]
+    ops: [Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7023556'
+  extracted_at: '2026-02-05T10:06:02.062199'

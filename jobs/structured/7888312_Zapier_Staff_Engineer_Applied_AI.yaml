@@ -1,0 +1,67 @@
+company:
+  name: Zapier
+  stage: Series D+
+  focus: Automation platform and AI orchestration
+  use_cases:
+  - Building unified AI orchestration platform that powers agents, chatbots, and AI
+    automation products
+  - Implementing Retrieval-Augmented Generation (RAG) systems with semantic search
+    and vector databases
+  - Creating scalable, safe, and cost-efficient runtime systems for user-facing AI
+    products
+  - Enabling millions of businesses to automate workflows using intelligent AI-powered
+    orchestration
+  - Supporting complex agent architectures that can execute multi-step automation
+    tasks
+position:
+  title: Staff Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because the engineer will work
+      directly on building LLM systems, including agent
+      architectures, RAG implementations, and orchestration
+      platforms. The role requires hands-on production experience
+      with large language models and involves creating the
+      foundational AI execution platform that powers AI products.
+  responsibilities:
+  - Lead key architectural efforts in the unified AI platform, defining orchestrator
+    architecture, shared runtime components, and foundational APIs
+  - Guide high-impact technical decisions around orchestration patterns, execution
+    flows, shared tools, memory, safety, and data model design
+  - Provide technical oversight for consolidating multiple runtimes into a single
+    orchestrator while balancing reliability, speed, safety, and developer ergonomics
+  - Partner deeply with product teams across the AI organization to support migrations,
+    define interfaces, and translate product needs into platform capabilities
+  - Mentor engineers and raise the technical bar for AI Capabilities by sharing patterns
+    and teaching practical AI engineering
+  - Deploy and maintain evaluation frameworks for LLMs covering performance, reliability,
+    and bias metrics
+  use_cases:
+  - Building unified AI orchestration platform that powers agents, chatbots, and AI
+    automation products
+  - Implementing Retrieval-Augmented Generation (RAG) systems with semantic search
+    and vector databases
+  - Creating scalable, safe, and cost-efficient runtime systems for user-facing AI
+    products
+  - Enabling millions of businesses to automate workflows using intelligent AI-powered
+    orchestration
+  - Supporting complex agent architectures that can execute multi-step automation
+    tasks
+  skills:
+    genai: [LLMs, agent architectures, RAG, orchestration, semantic search, function
+        calling]
+    ml: [transformer networks, attention mechanisms]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [cloud-based systems]
+    ops: [evaluation frameworks, platform engineering, system architecture]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7888312'
+  extracted_at: '2026-02-05T11:38:01.271090'

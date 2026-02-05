@@ -1,0 +1,63 @@
+company:
+  name: GrayMatter Robotics
+  stage: Series B
+  focus: |-
+    AI-powered robotics for automated surface finishing in
+    manufacturing
+  use_cases:
+  - Automated surface finishing tasks in manufacturing environments
+  - Perception and inspection systems for robotic quality assurance
+  - Synthetic data generation for training robotic perception models
+  - Reinforcement learning for recipe learning and process optimization
+  - Multi-modal sensor fusion for robotic control and monitoring
+  - Simulation-to-reality transfer for robust robot deployment in high-mix manufacturing
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly designing, implementing, and
+      training AI models for perception, inspection, decision-
+      making, and control on real robotic systems. The engineer is
+      responsible for deploying ML models on production hardware,
+      working with synthetic data generation using generative AI
+      techniques, and implementing reinforcement learning for
+      robotic control - all hands-on model development and
+      deployment work.
+  responsibilities:
+  - Design, implement, and train state-of-the-art AI models for perception, inspection,
+    decision-making, and control in real-world robotic manufacturing systems
+  - Lead the development of simulation-based tooling for reinforcement learning, synthetic
+    data generation, and autonomous robotic cell setup
+  - Own and advance synthetic data generation pipelines using generative AI techniques
+    for complex 3D geometry, physics-based simulation, and image data
+  - Develop and deploy multi-modal inspection and health monitoring systems integrating
+    vision, 3D sensing, and force/torque sensors
+  - Bridge the gap between simulation and reality, ensuring models trained in simulation
+    transfer robustly to physical robotic cells
+  - Optimize, deploy, and maintain ML models on production robotic systems considering
+    latency, reliability, and hardware constraints
+  use_cases:
+  - Automated surface finishing tasks in manufacturing environments
+  - Perception and inspection systems for robotic quality assurance
+  - Synthetic data generation for training robotic perception models
+  - Reinforcement learning for recipe learning and process optimization
+  - Multi-modal sensor fusion for robotic control and monitoring
+  - Simulation-to-reality transfer for robust robot deployment in high-mix manufacturing
+  skills:
+    genai: [diffusion models, Gaussian Splatting, synthetic data generation]
+    ml: [PyTorch, deep learning, machine learning, reinforcement learning, imitation
+        learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ROS/ROS 2]
+    languages: [Python, C++]
+    domains: [computer vision, 3D data processing, Isaac Lab, MuJoCo, physics engines]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8327260'
+  extracted_at: '2026-02-05T12:51:26.464121'

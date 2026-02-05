@@ -1,0 +1,64 @@
+company:
+  name: Pocus
+  stage: Series B
+  focus: AI-native sales prospecting and GTM platform
+  use_cases:
+  - AI-powered prospecting platform that automates manual research and outreach tasks
+    for sales teams
+  - Real-time alerts and account plan generation powered by AI agents monitoring compelling
+    events
+  - Next best action recommendations using intelligent agents that reason over structured
+    and semi-structured data
+  - Automated workflows connecting to sales tools like Slack, Outreach, and CRMs via
+    APIs and webhooks
+  - Semantic enrichment and transformation of customer data from warehouses, databases,
+    and public datasets
+position:
+  title: Product Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building agentic AI systems end-to-end,
+      implementing intelligent agents that use LLMs and tool-use
+      for reasoning and contextualizing data. The engineer is
+      responsible for designing and deploying AI/ML systems that
+      power real-world workflows, not just supporting
+      infrastructure for other engineers.
+  responsibilities:
+  - Build agentic AI systems end-to-end by architecting and implementing intelligent
+    agents that extract insights from fragmented data sources
+  - Engineer an extensible AI platform with flexible data ingestion, semantic enrichment,
+    query engine, and workflow orchestration layers
+  - Prototype, iterate, and ship quickly with deep autonomy to test ideas and own
+    systems that impact customers directly
+  - Prioritize security and reliability by handling sensitive customer data with best-in-class
+    security practices
+  - Elevate the engineering bar through clean abstractions, fast feedback loops, thoughtful
+    testing, and excellent developer tooling
+  use_cases:
+  - AI-powered prospecting platform that automates manual research and outreach tasks
+    for sales teams
+  - Real-time alerts and account plan generation powered by AI agents monitoring compelling
+    events
+  - Next best action recommendations using intelligent agents that reason over structured
+    and semi-structured data
+  - Automated workflows connecting to sales tools like Slack, Outreach, and CRMs via
+    APIs and webhooks
+  - Semantic enrichment and transformation of customer data from warehouses, databases,
+    and public datasets
+  skills:
+    genai: [LLMs, intelligent agents, tool-use, RAG]
+    ml: []
+    web: [GraphQL, APIs, webhooks]
+    databases: [ClickHouse]
+    data: [Presto]
+    cloud: [AWS]
+    ops: [Temporal, distributed systems]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4649854'
+  extracted_at: '2026-02-05T09:40:33.266144'

@@ -1,0 +1,56 @@
+company:
+  name: Spotify
+  stage: Public
+  focus: Audio streaming and digital music platform
+  use_cases:
+  - AI orchestration platforms with robust governance for company-wide platforms
+  - Self-healing systems through AI-driven workflows that automatically detect and
+    resolve IT issues
+  - Intelligent agents that empower Spotifiers with data, control, and speed in the
+    digital workplace
+  - AI-enabled risk mitigation for third-party tools in collaboration ecosystems
+  - Self-service IT platforms enhanced with AI capabilities
+position:
+  title: Fullstack AI Engineer - IT Platform Development
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing, building, and evaluating
+      autonomous agents and AI orchestration platforms. The
+      engineer will work directly on agentic systems, self-healing
+      AI-driven workflows, and intelligent agents - hands-on AI/ML
+      model deployment and agent development.
+  responsibilities:
+  - Identify and mitigate risks from third-party AI-enabled tools integrated into
+    Spotify's collaboration ecosystem
+  - Design, build, and evaluate autonomous agents that detect and resolve IT issues
+    before escalation
+  - Partner with cross-functional teams to build AI-first experiences across the digital
+    workplace
+  - Take operational ownership of components and services developed
+  - Contribute to knowledge sharing and internal upskilling in AI fluency across IT
+    teams
+  use_cases:
+  - AI orchestration platforms with robust governance for company-wide platforms
+  - Self-healing systems through AI-driven workflows that automatically detect and
+    resolve IT issues
+  - Intelligent agents that empower Spotifiers with data, control, and speed in the
+    digital workplace
+  - AI-enabled risk mitigation for third-party tools in collaboration ecosystems
+  - Self-service IT platforms enhanced with AI capabilities
+  skills:
+    genai: [agents, agentic systems, workflows]
+    ml: []
+    web: [React, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java, JavaScript]
+    domains: []
+    other: [software architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7929277'
+  extracted_at: '2026-02-05T11:41:48.424153'

@@ -1,0 +1,56 @@
+company:
+  name: Rearc
+  stage: null
+  focus: Cloud consulting and AI solutions
+  use_cases:
+  - Building and deploying intelligent systems for customer environments
+  - Implementing RAG architectures for knowledge base integration
+  - Developing compound AI systems using LLM orchestration tools
+  - Fine-tuning and adapting generative models for specific customer use cases
+  - Creating scalable and secure AI solutions using cloud services
+position:
+  title: AI Application Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with building and deploying GenAI
+      solutions including LLMs, RAG architectures, and compound AI
+      systems. The engineer will directly implement fine-tuning,
+      prompt engineering, model evaluation, and deploy models
+      using Amazon Bedrock/Databricks AI.
+  responsibilities:
+  - Collaborate with colleagues to understand customer business objectives and technical
+    challenges
+  - Contribute to the design and development of effective GenAI solutions tailored
+    to client needs
+  - Utilize modern tools and frameworks like LangGraph to build scalable, reliable,
+    and maintainable Compound AI systems
+  - Implement Retrieval Augmented Generation (RAG) architectures and integrate retrieval
+    systems with generative models
+  - Integrate Generative AI scripts with services like AWS S3, Lambda, or Databricks
+    Apps for scalable solutions
+  - Stay current with state-of-the-art AI application development technologies and
+    patterns
+  use_cases:
+  - Building and deploying intelligent systems for customer environments
+  - Implementing RAG architectures for knowledge base integration
+  - Developing compound AI systems using LLM orchestration tools
+  - Fine-tuning and adapting generative models for specific customer use cases
+  - Creating scalable and secure AI solutions using cloud services
+  skills:
+    genai: [LangGraph, CrewAI, Bedrock Agents, smolagents, fine-tuning, prompt engineering,
+      RAG, LLM tool calling, Model Context Protocol]
+    ml: [model training]
+    web: []
+    databases: [vector stores, Pinecone, OpenSearch, PostgreSQL, pgvector]
+    data: [ETL]
+    cloud: [Amazon Bedrock, Databricks Mosaic AI, AWS S3, AWS Lambda]
+    ops: [LLMOps, MLOps, CI/CD, containerization, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7580651'
+  extracted_at: '2026-02-05T11:08:44.384919'

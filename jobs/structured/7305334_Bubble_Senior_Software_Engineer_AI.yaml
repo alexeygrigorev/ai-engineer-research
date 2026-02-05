@@ -1,0 +1,60 @@
+company:
+  name: Bubble
+  stage: Series A
+  focus: AI-powered no-code visual development platform
+  use_cases:
+  - AI-assisted full-stack development allowing users to describe applications in
+    natural language and have AI generate, modify, and enhance their apps
+  - Enable users to take ideas from prompt to fully-functional, scalable reality across
+    web, iOS, and Android without writing code
+  - LLM-driven application generation and modification through agentic workflows
+  - Understanding and manipulating Bubble's proprietary application representation
+    through AI
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role involving hands-on work with LLMs,
+      RAG pipelines, and agentic workflows. The engineer will
+      build LLM-driven product features, design agent workflows,
+      and develop private models trained on proprietary datasets.
+      The role directly involves implementing and optimizing AI
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Drive the design and implementation of AI-powered products and features that integrate
+    with the Bubble Editor, elevating and evolving how users build with AI
+  - Iterate across the stack to build intuitive and powerful UX for AI features, improve
+    the latency and accuracy of agent and RAG pipelines, and enhance how the system
+    understands and manipulates Bubble's proprietary application representation
+  - Build frameworks for evaluating agent performance to power both product strategy
+    and engineering innovation
+  - Translate ambiguous AI challenges into actionable engineering plans, leveraging
+    emergent technologies and experimentation
+  - Shape the direction of AI initiatives in partnership with product, engineering,
+    and design teams to advance the platform's capabilities
+  use_cases:
+  - AI-assisted full-stack development allowing users to describe applications in
+    natural language and have AI generate, modify, and enhance their apps
+  - Enable users to take ideas from prompt to fully-functional, scalable reality across
+    web, iOS, and Android without writing code
+  - LLM-driven application generation and modification through agentic workflows
+  - Understanding and manipulating Bubble's proprietary application representation
+    through AI
+  skills:
+    genai: [LangChain, 'LLM APIs (OpenAI, Anthropic)', RAG, agentic AI workflows,
+      chatbot-style LLM interactions]
+    ml: []
+    web: [SolidJS, Node.js]
+    databases: [Redis, Postgres]
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, CDK, ECS]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7305334'
+  extracted_at: '2026-02-05T10:36:31.296469'

@@ -1,0 +1,51 @@
+company:
+  name: LM Studio
+  stage: Seed
+  focus: Building creation tools for local AI
+  use_cases:
+  - Local LLM inference on desktop devices
+  - On-device AI model runtime across various hardware configurations
+  - Day-0 support for new local LLM models
+  - Developer SDKs and CLI tools for local AI development
+  - Collaboration hub for individuals and teams working with AI
+position:
+  title: Software Engineer, AI/ML Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building and optimizing
+      on-device inference engines for local LLMs. The engineer
+      works directly on model runtime, day-0 support for new
+      models, and performance optimization across hardware
+      configurations - all hands-on work with model deployment and
+      inference.
+  responsibilities:
+  - Build and maintain world-class on-device inference engines for LLMs and other
+    models
+  - Integrate emerging AI/ML technologies as production-ready features in LM Studio
+  - Develop with and contribute to OSS engines like llama.cpp, MLX, and more
+  - Collaborate closely with model authors to ship day-0 support for new models
+  - Profile, debug, and improve process memory, CPU usage, and GPU usage
+  - Be an excellent communicator, contributor, and collaborator
+  use_cases:
+  - Local LLM inference on desktop devices
+  - On-device AI model runtime across various hardware configurations
+  - Day-0 support for new local LLM models
+  - Developer SDKs and CLI tools for local AI development
+  - Collaboration hub for individuals and teams working with AI
+  skills:
+    genai: [LLMs]
+    ml: [model inference, machine learning frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [llama.cpp, MLX]
+    languages: [C++, Python, TypeScript]
+    domains: []
+    other: [operating systems, software system design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8077834'
+  extracted_at: '2026-02-05T11:58:42.403983'

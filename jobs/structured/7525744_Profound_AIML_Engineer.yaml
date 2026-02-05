@@ -1,0 +1,67 @@
+company:
+  name: Profound
+  stage: early stage
+  focus: AI presence management and control
+  use_cases:
+  - AI presence management and control for companies
+  - Content generation including blogs, landing pages, help docs, and ads
+  - Text classification, ranking, clustering, and topic discovery for content organization
+  - Content summarization and brief creation with evidence-grounded citations
+  - AEO and SEO visibility optimization through AI-powered content
+  - Content quality evaluation including factuality, tone, safety, and originality
+    checks
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building LLM systems including RAG,
+      prompt engineering, content generation workflows, and
+      evaluation frameworks. The engineer directly designs and
+      deploys NLP/LLM models from data to deployment, not just
+      supporting infrastructure for AI teams.
+  responsibilities:
+  - Build and deploy NLP models at scale for classification, ranking, clustering,
+    topic extraction, and summarization
+  - Design LLM workflows for context and content generation end to end, including
+    topic discovery, brief creation, outlines and drafts, revision loops, and publish-ready
+    assets
+  - Develop prompt and template libraries aligned to brand voice and channel, including
+    blogs, landing pages, help docs, and ads, with retrieval for evidence-grounded
+    generation and citations
+  - Create evaluation frameworks for generated content, including factuality, coverage,
+    tone, safety, and originality, with rubric-based LLM evaluations, human-in-the-loop
+    review, and red teaming
+  - Instrument content performance across AEO and SEO visibility, engagement, and
+    conversion, and run experiments to improve quality, cost, and latency
+  - Transform large text datasets into production features and signals that drive
+    product insights
+  - Partner with engineering to instrument events, maintain data pipelines, and uphold
+    high data quality and observability
+  - Collaborate with product, data, and go-to-market teams on success metrics and
+    experiments that move customer-facing KPIs
+  use_cases:
+  - AI presence management and control for companies
+  - Content generation including blogs, landing pages, help docs, and ads
+  - Text classification, ranking, clustering, and topic discovery for content organization
+  - Content summarization and brief creation with evidence-grounded citations
+  - AEO and SEO visibility optimization through AI-powered content
+  - Content quality evaluation including factuality, tone, safety, and originality
+    checks
+  skills:
+    genai: [OpenAI/Anthropic APIs, prompt engineering, RAG, LangChain, LlamaIndex,
+      guardrails]
+    ml: [huggingface, model training, fine-tuning]
+    web: []
+    databases: [Postgres, vector DBs, Snowflake, BigQuery]
+    data: [Airflow, Kafka, Ray, ETL, data pipelines]
+    cloud: [AWS, GCP, Azure AI Studio, Bedrock, SageMaker, Vertex AI]
+    ops: [Docker, Kubernetes, CI/CD, LangSmith, Arize, monitoring]
+    languages: [Python, SQL, TypeScript]
+    domains: [NLP, CV]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7525744'
+  extracted_at: '2026-02-05T11:04:15.461865'

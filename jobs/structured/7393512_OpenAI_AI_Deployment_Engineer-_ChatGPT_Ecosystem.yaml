@@ -1,0 +1,61 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: |-
+    AI research and deployment company creating general-purpose
+    AI for humanity
+  use_cases:
+  - Building and deploying ChatGPT applications within the OpenAI ecosystem
+  - Integrating commerce checkout experiences with ChatGPT platform
+  - Creating secure and scalable partner experiences using OpenAI API
+  - Developing innovative ecosystem applications for strategic partners
+  - Enabling enterprises to maximize value from OpenAI models and products
+position:
+  title: AI Deployment Engineer- ChatGPT Ecosystem
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves deploying and co-developing ChatGPT
+      applications with strategic partners, providing hands-on
+      technical guidance for building experiences that leverage
+      OpenAI's LLM APIs. The engineer acts as a Forward Deployed
+      Engineer who directly implements AI solutions, guides
+      partners on LLM integration best practices, and supports the
+      development of real-world AI applications, rather than just
+      building supporting infrastructure.
+  responsibilities:
+  - Deliver exceptional partner experience by providing technical expertise, scoping
+    use cases, and supporting development of Apps in ChatGPT and commerce checkout
+    experiences
+  - Partner with Partnerships team to design and support ecosystem integrations, ensuring
+    technical feasibility and high-impact launches
+  - Guide partners on best practices for leveraging OpenAI API and ChatGPT to create
+    secure, scalable, and differentiated experiences
+  - Serve as first line of defense for design, security, compliance, and architecture
+    questions, escalating complex requirements as needed
+  - Create and maintain documentation, implementation guides, and FAQs for common
+    partner requirements and technical challenges
+  - Gather partner feedback and represent voice of ecosystem to internal teams, helping
+    shape product roadmaps and future partner programs
+  use_cases:
+  - Building and deploying ChatGPT applications within the OpenAI ecosystem
+  - Integrating commerce checkout experiences with ChatGPT platform
+  - Creating secure and scalable partner experiences using OpenAI API
+  - Developing innovative ecosystem applications for strategic partners
+  - Enabling enterprises to maximize value from OpenAI models and products
+  skills:
+    genai: [LLMs, MCP, OpenAI API, ChatGPT]
+    ml: []
+    web: [REST APIs, front-end design, front-end development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7393512'
+  extracted_at: '2026-02-05T10:46:02.799093'

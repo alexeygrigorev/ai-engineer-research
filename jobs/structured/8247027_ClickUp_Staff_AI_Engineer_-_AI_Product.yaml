@@ -1,0 +1,59 @@
+company:
+  name: ClickUp
+  stage: Series C+
+  focus: Productivity software with AI-powered workspace
+  use_cases:
+  - Context-driven AI productivity workspace that unifies tasks, docs, chat, calendar,
+    and enterprise search
+  - AI-powered features that help users break free from silos and reclaim time
+  - Personalized user experiences delivered through context-aware AI integration
+  - Enterprise search supercharged by AI for improved productivity
+  - AI-driven innovation in the productivity software space
+position:
+  title: Staff AI Engineer - AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct hands-on work with LLMs and AI
+      models, including integration, orchestration, and deployment
+      of AI-powered features. The engineer will prototype, test,
+      and iterate on AI features while ensuring production
+      reliability and performance - all characteristic of building
+      and deploying AI systems rather than just supporting them.
+  responsibilities:
+  - Lead the design, development, and deployment of AI-powered features and products
+    that directly impact ClickUp users
+  - Collaborate with product managers, designers, and engineers to identify opportunities
+    for AI-driven innovation and translate user needs into technical solutions
+  - Integrate and orchestrate multiple LLMs and AI models to deliver robust, context-aware,
+    and personalized user experiences
+  - Prototype, test, and iterate on new AI features, leveraging user feedback and
+    data to drive continuous improvement
+  - Ensure the reliability, scalability, and performance of AI-powered features in
+    production environments
+  - Address AI privacy, security, and compliance challenges, ensuring responsible
+    and ethical use of AI in user-facing applications
+  - Mentor and guide other engineers in best practices for building AI-powered products
+  use_cases:
+  - Context-driven AI productivity workspace that unifies tasks, docs, chat, calendar,
+    and enterprise search
+  - AI-powered features that help users break free from silos and reclaim time
+  - Personalized user experiences delivered through context-aware AI integration
+  - Enterprise search supercharged by AI for improved productivity
+  - AI-driven innovation in the productivity software space
+  skills:
+    genai: [LLMs, AI models]
+    ml: [evaluation frameworks]
+    web: []
+    databases: [PostgresDB, MySQL, Elasticsearch]
+    data: []
+    cloud: []
+    ops: [observability, logging]
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [AI privacy and security]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8247027'
+  extracted_at: '2026-02-05T12:19:56.339147'

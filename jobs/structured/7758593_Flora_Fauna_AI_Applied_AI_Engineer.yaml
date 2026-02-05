@@ -1,0 +1,59 @@
+company:
+  name: Flora Fauna AI
+  stage: Series B
+  focus: Creative AI tools with agentic workflows
+  use_cases:
+  - Creative professionals orchestrate text, image, and video models on an infinite
+    canvas
+  - Multi-modal agentic workflows that let creatives speak ideas into existence
+  - Tool-using agents with memory for seamless creative content generation
+  - Reliable and trustworthy AI systems for professional creative industries including
+    design and entertainment
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building agentic systems that
+      orchestrate text, image, and video models. The engineer will
+      design, implement, and scale multi-modal AI workflows and
+      tool-using agents, which is direct work on AI systems rather
+      than supporting infrastructure.
+  responsibilities:
+  - Architect and build agentic systems powering FLORA's intelligent canvas
+  - Design and implement multi-modal creative workflows combining text, image, and
+    video models
+  - Build orchestration systems that handle model APIs, retries, fallbacks, and edge
+    cases
+  - Implement memory and retrieval systems using vector DBs and embeddings for context
+    management
+  - Develop evaluation frameworks with automated checks and human-in-the-loop scoring
+    to ensure reliability
+  - Collaborate across product, infrastructure, and design teams to create intuitive
+    agentic features
+  - Work full-stack across frontend, backend, and infrastructure to integrate AI into
+    user-facing products
+  use_cases:
+  - Creative professionals orchestrate text, image, and video models on an infinite
+    canvas
+  - Multi-modal agentic workflows that let creatives speak ideas into existence
+  - Tool-using agents with memory for seamless creative content generation
+  - Reliable and trustworthy AI systems for professional creative industries including
+    design and entertainment
+  skills:
+    genai: [agentic systems, multi-step pipelines, tool-using agents, agents with
+        memory, context management, generative models]
+    ml: [embeddings]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [model orchestration, evaluation frameworks]
+    languages: [Python]
+    domains: [multi-modal workflows]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7758593'
+  extracted_at: '2026-02-05T11:25:14.055565'

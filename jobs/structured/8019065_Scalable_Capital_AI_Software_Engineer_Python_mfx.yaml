@@ -1,0 +1,57 @@
+company:
+  name: Scalable Capital
+  stage: Series B or later
+  focus: Digital investment and banking platform
+  use_cases:
+  - Integrating AI capabilities into real-world financial applications and investment
+    platforms
+  - Building agentic AI systems for digital wealth management and brokerage services
+  - Deploying AI-driven features for internal and client-facing financial services
+  - Orchestrating intelligent workflows to enhance automated investment and banking
+    operations
+position:
+  title: AI Software Engineer – Python (m/f/x)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building agentic AI systems and
+      orchestration workflows using frameworks like LangGraph,
+      integrating AI APIs (OpenAI, Anthropic, Google) into
+      production applications. The engineer will directly
+      implement intelligent workflows and AI-enabled solutions,
+      not just support infrastructure for ML teams.
+  responsibilities:
+  - Develop and maintain AI/LLM services for internal and potential client-facing
+    services, following software engineering best practices
+  - Design and develop appropriate architectures for deploying and maintaining scalable
+    AI-enabled solutions on AWS
+  - Extend Terraform infrastructure and CI/CD pipelines for AI systems
+  - Design and implement testing and monitoring components to ensure the accuracy,
+    reliability, and performance of AI-integrated systems
+  - Work with modern agentic workflow orchestration frameworks like LangGraph to build
+    intelligent workflows
+  - Collaborate with cross-functional teams to ensure the successful integration of
+    AI-driven features into products
+  use_cases:
+  - Integrating AI capabilities into real-world financial applications and investment
+    platforms
+  - Building agentic AI systems for digital wealth management and brokerage services
+  - Deploying AI-driven features for internal and client-facing financial services
+  - Orchestrating intelligent workflows to enhance automated investment and banking
+    operations
+  skills:
+    genai: [LangGraph, OpenAI API, Anthropic API, agents, RAG]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, Docker, CI/CD, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8019065'
+  extracted_at: '2026-02-05T11:49:10.857640'

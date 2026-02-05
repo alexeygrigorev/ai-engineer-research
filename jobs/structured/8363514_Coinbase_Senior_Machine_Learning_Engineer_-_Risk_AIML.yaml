@@ -1,0 +1,59 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency exchange and trading platform
+  use_cases:
+  - Fraud detection and prevention for cryptocurrency transactions
+  - Account takeover protection and prevention
+  - Scam detection and mitigation for crypto platforms
+  - Context-aware risk assessment systems that apply appropriate security measures
+  - LLM-powered conversational agents for user verification
+  - Real-time risk scoring for instant guest checkout and Coinbase Card products
+position:
+  title: Senior Machine Learning Engineer - Risk AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical role requiring direct design,
+      building, and deployment of ML models including GNNs, LSTMs,
+      and LLMs. The role involves owning model architecture from
+      feature pipelines to high-performance serving and applying
+      advanced techniques like deep learning, NLP, and agentic
+      systems to solve risk detection problems.
+  responsibilities:
+  - Own full technical ownership of core risk domains such as Scams or Account Takeover,
+    including designing, building, and leading strategy for all models in the domain
+  - Lead system design and architecture for complex risk detection models, from feature
+    pipeline design to model selection and high-performance serving
+  - Translate ambiguous business needs into clear technical roadmaps, serving as the
+    primary technical voice defining implementation approach
+  - Act as technical leader and mentor for mid-level and junior engineers through
+    code reviews, design docs, and coaching
+  - Apply modern ML methodologies including deep learning, NLP, Graph Neural Networks,
+    sequence modeling, and LLMs to solve crypto-native challenges
+  - Architect adaptive logic systems that determine appropriate friction levels for
+    users, balancing security with user experience
+  use_cases:
+  - Fraud detection and prevention for cryptocurrency transactions
+  - Account takeover protection and prevention
+  - Scam detection and mitigation for crypto platforms
+  - Context-aware risk assessment systems that apply appropriate security measures
+  - LLM-powered conversational agents for user verification
+  - Real-time risk scoring for instant guest checkout and Coinbase Card products
+  skills:
+    genai: [LLMs, Fine-tuning, Agentic systems]
+    ml: [TensorFlow, PyTorch, Graph Neural Networks (GNNs), LSTMs, Deep Learning,
+      Anomaly detection, Recommender systems, Reinforcement Learning]
+    web: []
+    databases: []
+    data: [Tecton, Apache Airflow, Spark, Kafka, Feature stores]
+    cloud: []
+    ops: [RayServe, MLOps, Model monitoring, Model serving]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8363514'
+  extracted_at: '2026-02-05T12:59:20.354026'

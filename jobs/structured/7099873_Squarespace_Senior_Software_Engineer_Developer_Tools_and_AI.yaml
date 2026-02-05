@@ -1,0 +1,55 @@
+company:
+  name: Squarespace
+  stage: Public
+  focus: Website building and commerce platform
+  use_cases:
+  - Developer productivity enhancement through AI tooling adoption
+  - Internal developer experience and workflow automation
+  - Development, debugging, and deployment workflow optimization
+  - AI-powered code assistance and developer tool integration
+  - Large-scale engineering efficiency and tooling solutions
+position:
+  title: Senior Software Engineer (Developer Tools and AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on internal tooling and infrastructure for
+      developer productivity, not building AI models. The position
+      involves advocating for and integrating AI developer tools
+      for other engineers, which is enabling AI adoption rather
+      than hands-on model development.
+  responsibilities:
+  - Promote best practices and adoption of AI developer tools across the engineering
+    organization
+  - Advocate for AI utilization across multiple teams and provide expert guidance
+    on integrating AI tools into daily workflows
+  - Build and support internal developer tools to improve efficiency and streamline
+    development processes
+  - Design and implement scalable, reliable solutions for development, debugging,
+    and deployment workflows
+  - Write high-quality code with industry best practices including resilient architecture
+    and automated testing
+  - Collaborate with Product, Platform, and Infrastructure teams to improve developer
+    productivity
+  use_cases:
+  - Developer productivity enhancement through AI tooling adoption
+  - Internal developer experience and workflow automation
+  - Development, debugging, and deployment workflow optimization
+  - AI-powered code assistance and developer tool integration
+  - Large-scale engineering efficiency and tooling solutions
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Cloud infrastructure]
+    ops: [Kubernetes, Prometheus, Containers, Automated testing]
+    languages: [Go, Python, Java, JavaScript, TypeScript]
+    domains: []
+    other: [AI Developer Tools, Resilient architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7099873'
+  extracted_at: '2026-02-05T10:16:37.772041'

@@ -1,0 +1,56 @@
+company:
+  name: Automattic
+  stage: Public
+  focus: Web publishing, commerce, and messaging platforms
+  use_cases:
+  - Self-hosted AI chat interface for internal team productivity and collaboration
+  - Internal AI-powered developer tools and automations to enhance workflow efficiency
+  - AI capabilities integrated into existing company systems for productivity improvements
+  - Custom agent skills and workflows tailored to specific organizational needs
+  - Open source AI interface maintained and improved for broader community use
+position:
+  title: Applied AI Engineer, Internal Tooling - New York
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building internal tooling, maintaining
+      a self-hosted AI interface (LibreChat), and creating
+      integrations that help teams use AI better. While it works
+      with AI tools and LLM APIs, the primary work is on the
+      infrastructure/platform layer rather than building,
+      training, or fine-tuning models - the role is enabling
+      others to use AI rather than directly working ON AI models.
+  responsibilities:
+  - Own and maintain Automattic's LibreChat deployment including extensions and customization
+    on a TypeScript/Node.js stack
+  - Contribute upstream to the LibreChat open source project to add features for Automattic's
+    needs
+  - Build lightweight internal tools and automations that integrate AI capabilities
+    into existing Automattic systems
+  - Collaborate with DevOps on hosting infrastructure, scaling, reliability, and continuous
+    improvement of services
+  - Create agent skills, custom workflows, and productivity multipliers while experimenting
+    with emerging AI tools
+  - Document tools and run workshops to help engineers adopt AI tooling effectively
+  use_cases:
+  - Self-hosted AI chat interface for internal team productivity and collaboration
+  - Internal AI-powered developer tools and automations to enhance workflow efficiency
+  - AI capabilities integrated into existing company systems for productivity improvements
+  - Custom agent skills and workflows tailored to specific organizational needs
+  - Open source AI interface maintained and improved for broader community use
+  skills:
+    genai: [OpenAI API, Anthropic API, LLM APIs, agents, custom workflows]
+    ml: []
+    web: [Node.js]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, self-hosted infrastructure]
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: [open source, internal tools]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8296668'
+  extracted_at: '2026-02-05T12:40:02.079758'

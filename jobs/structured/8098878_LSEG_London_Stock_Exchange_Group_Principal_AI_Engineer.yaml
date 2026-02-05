@@ -1,0 +1,57 @@
+company:
+  name: LSEG (London Stock Exchange Group)
+  stage: Public
+  focus: Global financial markets infrastructure and data provider
+  use_cases:
+  - LLM-powered applications for financial services leveraging prompt engineering
+    and model fine-tuning
+  - Enterprise AI integration with vector databases and retrieval-augmented generation
+    (RAG) for enhanced information retrieval
+  - AI-driven products and workflows for financial markets infrastructure and data
+    analysis
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work directly with LLMs
+      including prompt engineering, model fine-tuning, deployment,
+      and integration into enterprise applications. The Principal
+      Engineer will implement AI solutions using RAG, vector
+      databases, and embeddings rather than just supporting
+      infrastructure for others.
+  responsibilities:
+  - Design and implement complex, scalable, and secure applications using Java, Python,
+    and other high-level languages
+  - Develop and refine prompt engineering strategies for LLM-based applications and
+    integrate Large Language Models into products
+  - Perform model fine-tuning and deployment while optimizing system performance and
+    troubleshooting critical issues
+  - Prototype and evaluate new AI tools and methodologies including vector databases,
+    embeddings, and retrieval-augmented generation (RAG)
+  - Provide architectural guidance and ensure adherence to best practices across systems
+  - Advocate for automation, testing, and continuous integration practices while ensuring
+    compliance with security and regulatory standards
+  use_cases:
+  - LLM-powered applications for financial services leveraging prompt engineering
+    and model fine-tuning
+  - Enterprise AI integration with vector databases and retrieval-augmented generation
+    (RAG) for enhanced information retrieval
+  - AI-driven products and workflows for financial markets infrastructure and data
+    analysis
+  skills:
+    genai: [OpenAI/Anthropic APIs, prompt engineering, RAG, embeddings]
+    ml: [model fine-tuning]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Langfuse, CI/CD]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8098878'
+  extracted_at: '2026-02-05T12:01:11.831759'

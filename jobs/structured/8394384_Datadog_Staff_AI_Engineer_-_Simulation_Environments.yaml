@@ -1,0 +1,64 @@
+company:
+  name: Datadog
+  stage: Public
+  focus: Cloud infrastructure monitoring and observability platform
+  use_cases:
+  - Safely train and evaluate AI agents in synthetic environments before production
+    deployment
+  - Create high-fidelity simulations of complex distributed systems for agent learning
+    and reasoning
+  - Generate synthetic data at scale to train and assess AI agents across Datadog
+    products
+  - Enable AI agents to learn observability and automation tasks in controlled simulation
+    environments
+  - Bridge the gap between AI research and production through integrated simulation
+    workflows
+position:
+  title: Staff AI Engineer - Simulation Environments
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building simulation infrastructure and
+      synthetic data pipelines to support AI agents, not directly
+      training, fine-tuning, or deploying models. The position
+      emphasizes distributed systems, backend engineering, and
+      platform architecture that enables AI research teams to
+      train and evaluate agents.
+  responsibilities:
+  - Design and build high-fidelity simulation environments that model complex distributed
+    systems with realism and scalability
+  - Develop synthetic data generation tools and evaluation pipelines to train and
+    assess AI agents across Datadog products
+  - Collaborate with AI research and product engineering teams to integrate models
+    into simulation and production workflows
+  - Define architecture and technical direction for Datadog's emerging simulation
+    platform
+  - Mentor engineers and contribute to shaping the culture of a new, cross-functional
+    team
+  use_cases:
+  - Safely train and evaluate AI agents in synthetic environments before production
+    deployment
+  - Create high-fidelity simulations of complex distributed systems for agent learning
+    and reasoning
+  - Generate synthetic data at scale to train and assess AI agents across Datadog
+    products
+  - Enable AI agents to learn observability and automation tasks in controlled simulation
+    environments
+  - Bridge the gap between AI research and production through integrated simulation
+    workflows
+  skills:
+    genai: [generative modeling]
+    ml: [ML/AI systems deployment]
+    web: [backend engineering]
+    databases: []
+    data: [synthetic data generation, data pipelines]
+    cloud: [distributed systems]
+    ops: [infrastructure engineering]
+    languages: []
+    domains: []
+    other: [simulation frameworks]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8394384'
+  extracted_at: '2026-02-05T13:05:24.904194'

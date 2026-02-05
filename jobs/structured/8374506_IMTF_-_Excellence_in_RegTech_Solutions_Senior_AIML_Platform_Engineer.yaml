@@ -1,0 +1,59 @@
+company:
+  name: IMTF - Excellence in RegTech Solutions
+  stage: null
+  focus: RegTech - Anti-Money Laundering and Anti-Fraud solutions
+  use_cases:
+  - Automating manual compliance processes through machine learning and data science
+  - Anti-Money Laundering (AML) detection and monitoring
+  - Anti-Fraud detection and prevention systems
+  - RegTech solutions for financial crime prevention
+  - Enterprise compliance automation for regulated industries
+position:
+  title: Senior AI/ML Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      infrastructure, tooling, and DevOps capabilities to support
+      AI/ML workloads. The responsibilities center on
+      infrastructure, deployment, monitoring, and platform
+      development rather than hands-on model building, training,
+      or fine-tuning.
+  responsibilities:
+  - Design, develop, test, maintain and improve the AI/ML infrastructure for enterprise
+    software solution based on scalable microservice architecture running on Kubernetes
+  - Write high-quality, clean, maintainable, secure and reliable DevOps routines and
+    Helm Charts
+  - Work across the entire backend stack, integrating with event-driven architectures
+    using Kafka, gRPC, REST APIs and robust data engineering pipelines
+  - Leverage modern AI/ML lifecycle technologies (MLFlow) and integrate with scalable
+    data pipelines (Spark)
+  - Drive the evolution of architecture and technology stack, ensuring scalability,
+    performance, reliability and security at ISO 27001 level
+  - Support the deployment, monitoring, and optimization of models in complex and
+    varied production environments, including air-gapped scenarios with or without
+    GPU availability
+  - Contribute to model and data pipeline design decisions to ensure customer deployed
+    Kubernetes stack reliability
+  use_cases:
+  - Automating manual compliance processes through machine learning and data science
+  - Anti-Money Laundering (AML) detection and monitoring
+  - Anti-Fraud detection and prevention systems
+  - RegTech solutions for financial crime prevention
+  - Enterprise compliance automation for regulated industries
+  skills:
+    genai: [LangChain]
+    ml: [SparkML, PyTorch, TensorFlow, ONNX]
+    web: [gRPC, REST APIs]
+    databases: []
+    data: [Spark, Delta Lake, Kafka]
+    cloud: []
+    ops: [Kubernetes, Helm, MLFlow, DevOps, MLOps]
+    languages: [Python]
+    domains: []
+    other: [ISO 27001, Microservices, Distributed Systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8374506'
+  extracted_at: '2026-02-05T13:00:57.879574'

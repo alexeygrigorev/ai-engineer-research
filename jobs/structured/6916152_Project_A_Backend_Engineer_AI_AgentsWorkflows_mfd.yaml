@@ -1,0 +1,56 @@
+company:
+  name: Project A
+  stage: Series B
+  focus: AI-powered supply chain platform
+  use_cases:
+  - AI-driven supply chain management automation for sourcing, distributing, and financing
+    materials
+  - Autonomous supply chain orchestration that eliminates inefficiencies and creates
+    direct bridges between suppliers and buyers
+  - Intelligent workflows and automation leveraging agentic AI for procurement optimization
+  - AI-enabled backend logic providing seamless access to premium materials at scale
+position:
+  title: Backend Engineer (AI Agents/Workflows) (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Backend Engineer who integrates AI
+      capabilities into backend services and works with LLM APIs
+      (OpenAI, etc.) to build workflows. The core work is
+      developing backend infrastructure, APIs, and distributed
+      systems that support AI functionality rather than directly
+      building, training, or fine-tuning models.
+  responsibilities:
+  - Design, develop, test, deploy, and maintain backend services that integrate AI/ML
+    capabilities into products
+  - Build clean, maintainable, and reusable code with a focus on scalability and performance
+  - Develop and optimize APIs that power AI-driven features
+  - Collaborate with frontend engineers to connect user-facing experiences with AI-enabled
+    backend logic
+  - Implement and improve distributed systems and data pipelines
+  - Work with LLM APIs (OpenAI, etc.) to build intelligent workflows and automation
+  - Participate in code reviews, knowledge-sharing sessions, and architecture discussions
+  - Stay current with emerging AI technologies and backend best practices
+  use_cases:
+  - AI-driven supply chain management automation for sourcing, distributing, and financing
+    materials
+  - Autonomous supply chain orchestration that eliminates inefficiencies and creates
+    direct bridges between suppliers and buyers
+  - Intelligent workflows and automation leveraging agentic AI for procurement optimization
+  - AI-enabled backend logic providing seamless access to premium materials at scale
+  skills:
+    genai: [OpenAI API, prompt engineering]
+    ml: [fine-tuning models]
+    web: [Spring Boot]
+    databases: [PostgreSQL, BigQuery]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Java, Python]
+    domains: []
+    other: [distributed systems, event-driven architecture, microservices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6916152'
+  extracted_at: '2026-02-05T10:00:37.831349'

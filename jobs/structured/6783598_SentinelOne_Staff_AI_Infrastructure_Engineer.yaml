@@ -1,0 +1,56 @@
+company:
+  name: SentinelOne
+  stage: Public
+  focus: AI-powered cybersecurity threat protection
+  use_cases:
+  - Hosting and serving AI models in cybersecurity applications
+  - Deploying AI-powered threat detection and prevention systems
+  - Managing secure cloud infrastructure for AI workloads
+  - Supporting high-performance machine learning inference pipelines
+  - Ensuring FedRAMP-compliant AI infrastructure deployment
+position:
+  title: Staff AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building and maintaining the
+      infrastructure that hosts and serves AI models, not
+      building, training, or fine-tuning the models themselves.
+      The engineer creates platforms and systems that enable AI
+      work through Kubernetes, CI/CD pipelines, and
+      infrastructure-as-code, which is characteristic of ai-
+      support work.
+  responsibilities:
+  - Architect, build, and maintain scalable infrastructure to host and serve AI products
+    and models reliably
+  - Automate infrastructure deployment and management using Helm, ArgoCD and Terraform
+  - Manage and optimize Kubernetes clusters to support high-performance AI workloads
+  - Implement and manage CI/CD pipelines utilizing GitHub Actions and Jenkins
+  - Ensure infrastructure compliance with security standards including FedRAMP and
+    related guidelines
+  - Monitor infrastructure health and performance, implementing optimizations proactively
+  - Drive infrastructure best practices and mentor team members to foster technical
+    excellence
+  use_cases:
+  - Hosting and serving AI models in cybersecurity applications
+  - Deploying AI-powered threat detection and prevention systems
+  - Managing secure cloud infrastructure for AI workloads
+  - Supporting high-performance machine learning inference pipelines
+  - Ensuring FedRAMP-compliant AI infrastructure deployment
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, Azure OpenAI]
+    ops: [Kubernetes, Docker, Helm, ArgoCD, Terraform, GitHub Actions, Jenkins, Prometheus,
+      Grafana, Datadog, Jaeger]
+    languages: [Python, Bash]
+    domains: []
+    other: [FedRAMP]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6783598'
+  extracted_at: '2026-02-05T09:53:21.107947'

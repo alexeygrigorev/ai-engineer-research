@@ -1,0 +1,61 @@
+company:
+  name: Particle Health
+  stage: Series B
+  focus: Healthcare data analytics and interoperability platform
+  use_cases:
+  - Care coordination across healthcare providers and systems
+  - Risk stratification for patient population management
+  - Patient identity management across fragmented data silos
+  - Regulatory compliance for healthcare data handling
+  - Real-time patient data access for value-based care providers and payers
+  - Healthcare data analytics for digital health companies and health systems
+position:
+  title: Senior Software Engineer (Backend, Tech Lead - AI-Enabled Systems)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role focused on building
+      healthcare data APIs and distributed systems. The AI
+      component is limited to using AI-assisted development tools
+      (Copilot, Cursor, Claude Code) to improve developer
+      productivity and code quality, not building or deploying AI
+      models/ML systems. The role involves general software
+      engineering for a data platform company.
+  responsibilities:
+  - Design, develop, and maintain RESTful APIs and backend services using Golang and
+    Python
+  - Build scalable, secure, and performant services handling healthcare data with
+    privacy, security, and compliance requirements
+  - Leverage AI-assisted development tools to improve productivity, debugging, testing,
+    documentation, and code quality
+  - Integrate backend services with data pipelines and processing workflows
+  - Take end-to-end ownership of complex systems including architecture, implementation,
+    observability, and operational health
+  - Lead architectural discussions and long-term technical planning
+  - Mentor engineers and contribute to improving engineering standards, tooling, and
+    development practices
+  - Partner with Product to translate requirements into durable technical solutions
+    and support customer integrations
+  use_cases:
+  - Care coordination across healthcare providers and systems
+  - Risk stratification for patient population management
+  - Patient identity management across fragmented data silos
+  - Regulatory compliance for healthcare data handling
+  - Real-time patient data access for value-based care providers and payers
+  - Healthcare data analytics for digital health companies and health systems
+  skills:
+    genai: []
+    ml: []
+    web: [RESTful API design, OAuth, JWT]
+    databases: [SQL, NoSQL]
+    data: [data engineering pipelines, ETL workflows]
+    cloud: [GCP]
+    ops: [Docker, Kubernetes, CI/CD, Terraform]
+    languages: [Golang, Python]
+    domains: [FHIR, HL7, CCDA, HIPAA, SOC 2]
+    other: [distributed systems, event-driven architectures, message queues]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8393632'
+  extracted_at: '2026-02-05T13:05:02.959173'

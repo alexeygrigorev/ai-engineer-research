@@ -1,0 +1,65 @@
+company:
+  name: Accellor
+  stage: null
+  focus: |-
+    AI-first digital transformation partner delivering
+    enterprise AI solutions, data platforms, and product
+    engineering
+  use_cases:
+  - Enterprise workflow automation using AI agents and intelligent assistants
+  - Document intelligence systems for processing and analyzing enterprise documents
+  - Decision support systems leveraging AI reasoning and knowledge graphs
+  - RAG-enhanced applications for context-aware information retrieval
+  - Agentic workflows orchestrating multiple tools and APIs for complex business processes
+position:
+  title: Senior Engineer Applied AI (Java)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      AI/ML systems including RAG patterns, AI agents, agentic
+      workflows, and LLM-based applications. The engineer directly
+      implements generative AI technologies using frameworks like
+      LangChain4j and Spring AI, working on model integration and
+      agent orchestration rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design, develop, and maintain scalable microservices using Java and Spring Boot
+    to power AI-enabled applications
+  - Build and integrate AI agents and agentic workflows that orchestrate tools, APIs,
+    reasoning steps, and business logic
+  - Implement Retrieval-Augmented Generation (RAG) patterns, Model Context Protocol
+    (MCP) integrations, and agent skills
+  - Leverage knowledge graphs and vector databases to enhance reasoning, entity relationships,
+    and context retrieval
+  - Collaborate with cross-functional teams to translate business needs into technical
+    AI solutions
+  - Participate in code reviews and mentor junior engineers on AI and agentic workflow
+    skills
+  - Drive continuous improvement by exploring new models, frameworks, and reasoning
+    techniques
+  - Contribute to engineering best practices for reliability, safety, governance,
+    and monitoring of production AI systems
+  use_cases:
+  - Enterprise workflow automation using AI agents and intelligent assistants
+  - Document intelligence systems for processing and analyzing enterprise documents
+  - Decision support systems leveraging AI reasoning and knowledge graphs
+  - RAG-enhanced applications for context-aware information retrieval
+  - Agentic workflows orchestrating multiple tools and APIs for complex business processes
+  skills:
+    genai: [Spring AI, LangChain4j, RAG, MCP, AI agents, agentic workflows, LangChain,
+      LlamaIndex]
+    ml: [Hugging Face]
+    web: [Spring Boot 3.4.x, Spring Cloud, RESTful APIs, microservices]
+    databases: [Pinecone, Weaviate, Milvus, pgvector]
+    data: [knowledge graphs]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Temporal]
+    languages: [Java 21+]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8269585'
+  extracted_at: '2026-02-05T12:27:16.328146'

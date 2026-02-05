@@ -1,0 +1,59 @@
+company:
+  name: Coinbase
+  stage: Public
+  focus: Cryptocurrency exchange and financial platform
+  use_cases:
+  - AI automation solutions for business workflows and efficiency gains
+  - AI agents and custom copilots to address specific business needs
+  - Intelligent workflows powered by large language models
+  - Enterprise-level AI solutions with strict security, privacy, and ethical guidelines
+    compliance
+  - Applied AI and Generative AI systems for crypto/fintech domain operations
+position:
+  title: Senior Software Engineer - AI Platform (AI Acceleration)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI solutions
+      including AI agents, custom copilots, and intelligent
+      workflows using LLMs and Agentic AI. The engineer will
+      directly design, implement, and prototype AI applications
+      using frameworks like LangChain/LangGraph, moving beyond
+      just supporting AI infrastructure.
+  responsibilities:
+  - Partner with teams across the organization to identify high-leverage opportunities
+    for AI automation and efficiency gains
+  - Apply advanced GenAI techniques including LLMs and Agentic AI to design, build,
+    and iterate on functional prototypes like AI agents and custom copilots
+  - Collaborate with cross-functional teams to evolve prototypes into scalable, secure,
+    production-grade AI solutions
+  - Provide guidance on AI capabilities, prompt engineering best practices, and strategic
+    integration of AI into daily operations
+  - Pilot new AI solutions with functional teams, gather feedback, iterate on prototypes,
+    and support adoption
+  - Partner with central AI Platform and DevX teams to leverage existing infrastructure
+    and ensure scalability and security
+  use_cases:
+  - AI automation solutions for business workflows and efficiency gains
+  - AI agents and custom copilots to address specific business needs
+  - Intelligent workflows powered by large language models
+  - Enterprise-level AI solutions with strict security, privacy, and ethical guidelines
+    compliance
+  - Applied AI and Generative AI systems for crypto/fintech domain operations
+  skills:
+    genai: [LangChain, LangGraph, LLMs, RAG, agents, prompt engineering, Agentic AI,
+      enterprise LLMs]
+    ml: [fine-tuning]
+    web: [microservices]
+    databases: []
+    data: []
+    cloud: []
+    ops: [security]
+    languages: [Python, Golang]
+    domains: [data privacy]
+    other: [system design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8345913'
+  extracted_at: '2026-02-05T12:57:15.929660'

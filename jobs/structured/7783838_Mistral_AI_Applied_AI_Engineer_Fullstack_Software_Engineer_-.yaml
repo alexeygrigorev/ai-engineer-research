@@ -1,0 +1,51 @@
+company:
+  name: Mistral AI
+  stage: null
+  focus: |-
+    High-performance open-source AI models and platform for
+    enterprise
+  use_cases:
+  - Integration of cutting-edge AI/LLM models into enterprise client software products
+  - Full-stack application development for AI-powered solutions
+  - Production deployment of AI solutions across pre-sale to post-implementation stages
+  - Custom use case development and technical guidance for AI model adoption
+position:
+  title: Applied AI Engineer, Fullstack Software Engineer - EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an Applied AI Engineer role that collaborates with
+      customers to integrate cutting-edge AI models into their
+      software products. The role involves hands-on work with
+      LLM/GenAI models, developing complex use cases, and ensuring
+      production integration of AI solutions, making it ai-first.
+  responsibilities:
+  - Collaborate with researchers, AI engineers, and product engineers on complex customer
+    projects integrating AI models into clients' software products
+  - Design, develop, and maintain scalable and robust full-stack applications with
+    seamless front-end and back-end integration
+  - Develop complex use cases with customers and ensure best production integration
+    with back-end and front-end interfaces
+  - Collaborate with product and science teams to continuously improve product and
+    model capabilities based on customer feedback
+  use_cases:
+  - Integration of cutting-edge AI/LLM models into enterprise client software products
+  - Full-stack application development for AI-powered solutions
+  - Production deployment of AI solutions across pre-sale to post-implementation stages
+  - Custom use case development and technical guidance for AI model adoption
+  skills:
+    genai: [LLM/GenAI models]
+    ml: []
+    web: [React, NextJS, VueJS, NodeJS]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Open-source contributions]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7783838'
+  extracted_at: '2026-02-05T11:30:35.656690'

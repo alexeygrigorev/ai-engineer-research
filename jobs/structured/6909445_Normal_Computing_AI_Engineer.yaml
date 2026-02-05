@@ -1,0 +1,55 @@
+company:
+  name: Normal Computing
+  stage: null
+  focus: |-
+    Foundational software and hardware for semiconductor
+    industry and AI infrastructure
+  use_cases:
+  - Convert large technical documents like chip design specifications into code
+  - Extract meaning from complex technical specifications using LLMs
+  - Agentic code generation and tool-use for hardware design
+  - Document understanding for semiconductor industry applications
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building LLM-powered
+      solutions, implementing multi-agent systems for agentic code
+      generation, fine-tuning language models, and using
+      reinforcement learning for production systems. This is core
+      AI/ML development work, not supporting infrastructure.
+  responsibilities:
+  - Lead end-to-end AI development from initial concept through production deployment
+    and iteration
+  - Design and implement LLM-powered solutions that extract meaning from complex technical
+    specifications
+  - Handle multi-modal complexity and explore multi-agent and RL approaches for agentic
+    code generation and tool-use
+  - Design strategies to manage latency, output variance, and graceful error handling
+    at scale
+  - Collaborate with product and engineering teams to embed AI capabilities seamlessly
+    into our platform
+  - Guide junior engineers and establish best practices for AI development
+  use_cases:
+  - Convert large technical documents like chip design specifications into code
+  - Extract meaning from complex technical specifications using LLMs
+  - Agentic code generation and tool-use for hardware design
+  - Document understanding for semiconductor industry applications
+  skills:
+    genai: [LLMs, prompt engineering, fine-tuning, multi-agent systems, agentic workflows,
+      document understanding]
+    ml: [Reinforcement Learning, PyTorch, Hugging Face, transformers]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '6909445'
+  extracted_at: '2026-02-05T10:00:24.179987'

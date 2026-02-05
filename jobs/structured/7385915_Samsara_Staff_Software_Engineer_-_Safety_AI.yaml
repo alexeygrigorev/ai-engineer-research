@@ -1,0 +1,56 @@
+company:
+  name: Samsara
+  stage: Public
+  focus: |-
+    IoT platform for physical operations, fleet management, and
+    connected operations
+  use_cases:
+  - Video-based safety monitoring using AI dash cams to detect driving events
+  - Real-time driver feedback systems to improve safe driving practices
+  - Video-based coaching workflows for fleet safety programs
+  - Safety event tracking and analysis for fleet management
+  - Driver exoneration through video evidence collection in no-fault accidents
+position:
+  title: Staff Software Engineer - Safety AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Staff Software Engineer role building
+      infrastructure and workflows that consume AI outputs from
+      Samsara's AI Dash Cam products, rather than building or
+      training the AI models themselves. The role focuses on
+      software architecture, state machines, event ingestion
+      systems, and web/mobile applications that utilize AI for
+      safety insights, which is supporting AI functionality rather
+      than working directly on AI systems.
+  responsibilities:
+  - Architect, design, and develop software that enables enterprise fleets to operate
+    at scale
+  - Influence the vision and roadmap for the fleet safety team to support rapid growth
+  - Design and build a streamlined state machine for event ingestion and tracking
+  - Architect an improved safety event mocking system to dramatically improve automated
+    and manual testing capabilities
+  - Lead the response to production issues across services and levels of the stack
+  - Champion, role model, and embed Samsara's cultural principles as we scale globally
+  use_cases:
+  - Video-based safety monitoring using AI dash cams to detect driving events
+  - Real-time driver feedback systems to improve safe driving practices
+  - Video-based coaching workflows for fleet safety programs
+  - Safety event tracking and analysis for fleet management
+  - Driver exoneration through video evidence collection in no-fault accidents
+  skills:
+    genai: []
+    ml: []
+    web: [full-stack application architecture]
+    databases: [data modeling]
+    data: [event ingestion systems]
+    cloud: []
+    ops: [state machines]
+    languages: [Go, Python, JavaScript, TypeScript, C/C++]
+    domains: []
+    other: [embedded systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7385915'
+  extracted_at: '2026-02-05T10:45:02.151144'

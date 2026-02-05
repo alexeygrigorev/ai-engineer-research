@@ -1,0 +1,59 @@
+company:
+  name: Phizenix
+  stage: null
+  focus: AWS customer experience solutions with generative AI
+  use_cases:
+  - Customer experience solutions enhanced with generative AI for improved interactions
+  - Cloud-based contact center implementations using Amazon Connect
+  - AI-powered customer service solutions in regulated industries
+  - Large-scale contact center migrations to cloud platforms
+  - Consulting solutions for healthcare, finance, and government sectors
+position:
+  title: Solutions Engineer - AWS Customer Experience & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience implementing
+      generative AI solutions in production environments and
+      integrating generative AI capabilities into customer
+      experience solutions. The responsibilities include
+      developing proof-of-concepts showcasing the potential of
+      combining cloud technologies with AI, indicating direct work
+      building and deploying AI systems rather than just
+      supporting them.
+  responsibilities:
+  - Design and architect comprehensive customer experience solutions leveraging AWS
+    services, particularly Amazon Connect, with a focus on integrating generative
+    AI capabilities to enhance customer interactions
+  - Develop proof-of-concepts and prototypes to demonstrate innovative solutions to
+    clients, showcasing the potential of combining cloud technologies with AI
+  - Lead technical discovery sessions and workshops with clients to understand their
+    unique business challenges and translate them into actionable technical solutions
+  - Write and review code for critical components of client solutions, ensuring high
+    standards of quality and scalability
+  - Create detailed technical specifications and architecture documents that align
+    with both client requirements and AWS best practices
+  - Support continuous value delivery initiatives, including solution design, demonstrations,
+    and implementation for signed customer engagements
+  use_cases:
+  - Customer experience solutions enhanced with generative AI for improved interactions
+  - Cloud-based contact center implementations using Amazon Connect
+  - AI-powered customer service solutions in regulated industries
+  - Large-scale contact center migrations to cloud platforms
+  - Consulting solutions for healthcare, finance, and government sectors
+  skills:
+    genai: [generative AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Amazon Connect]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [software engineering, solution architecture, consulting]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7449320'
+  extracted_at: '2026-02-05T10:54:04.539523'

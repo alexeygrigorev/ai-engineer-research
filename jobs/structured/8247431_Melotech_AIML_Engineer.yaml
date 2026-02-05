@@ -1,0 +1,57 @@
+company:
+  name: Melotech
+  stage: Series A
+  focus: AI-powered media and entertainment content platform
+  use_cases:
+  - Content optimization across media verticals using ML inference
+  - Real-time understanding and analysis of cultural trends in media
+  - Enhancing creative processes in media and entertainment production using AI
+  - Scaling ML systems to serve millions of users with low latency for media content
+  - Multimodal AI systems for analyzing and processing media content (audio, video,
+    text)
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and fine-
+      tuning ML models including multimodal AI systems. The
+      engineer is directly responsible for inference systems,
+      model optimization, and transitioning research models to
+      production - core AI/ML development work rather than just
+      supporting infrastructure.
+  responsibilities:
+  - Building and deploying production ML models for content and product ecosystem
+  - Designing scalable ML infrastructure and pipelines that handle massive media datasets
+  - Implementing inference systems for content optimization across multiple verticals
+  - Fine-tuning and deploying multimodal AI systems using MLOps best practices
+  - Transitioning research models into production-ready systems through collaboration
+    with data science teams
+  - Optimizing model performance for cost efficiency while maintaining accuracy and
+    speed requirements
+  - Integrating ML capabilities into existing platforms and building APIs for seamless
+    model consumption
+  use_cases:
+  - Content optimization across media verticals using ML inference
+  - Real-time understanding and analysis of cultural trends in media
+  - Enhancing creative processes in media and entertainment production using AI
+  - Scaling ML systems to serve millions of users with low latency for media content
+  - Multimodal AI systems for analyzing and processing media content (audio, video,
+    text)
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, model training, fine-tuning, multimodal AI]
+    web: [REST APIs]
+    databases: [PostgreSQL, Redis]
+    data: [data pipelines, ETL]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLflow, model monitoring, model versioning, MLOps, inference
+        optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8247431'
+  extracted_at: '2026-02-05T12:21:30.241466'

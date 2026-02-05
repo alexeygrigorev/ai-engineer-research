@@ -1,0 +1,58 @@
+company:
+  name: Scale AI
+  stage: Series C
+  focus: AI data and evaluation infrastructure for enterprises
+  use_cases:
+  - LLM-powered workflow evaluation and safety assessment for enterprise applications
+  - Automated grading and critique systems for AI agents using LLM-as-a-Judge methodologies
+  - Quality assessment and reliability monitoring of enterprise AI agents and workflows
+  - Human-in-the-loop evaluation systems combining expert rubrics with AI-assisted
+    analysis
+  - Continuous improvement loops for enterprise GenAI applications through automated
+    evaluation pipelines
+position:
+  title: AI Research Engineer, Enterprise Evaluations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI/ML systems -
+      specifically designing and developing LLM-as-a-Judge
+      autorater frameworks, AI-assisted evaluation systems, and
+      automated evaluation pipelines. The engineer will directly
+      work with models to create systems that critique, grade, and
+      evaluate agent outputs, which is core AI/ML development work
+      rather than supporting infrastructure.
+  responsibilities:
+  - Partner with Operations team and enterprise customers to translate ambiguity into
+    structured evaluation data, guiding creation and maintenance of gold-standard
+    human-rated datasets and expert rubrics
+  - Analyze feedback and collected data to identify patterns, refine evaluation frameworks,
+    and establish iterative improvement loops for human-curated assessments
+  - Design, research, and develop LLM-as-a-Judge autorater frameworks and AI-assisted
+    evaluation systems including models that critique, grade, and explain agent outputs
+  - Pursue research initiatives exploring new methodologies for automatically analyzing,
+    evaluating, and improving enterprise agent behavior
+  use_cases:
+  - LLM-powered workflow evaluation and safety assessment for enterprise applications
+  - Automated grading and critique systems for AI agents using LLM-as-a-Judge methodologies
+  - Quality assessment and reliability monitoring of enterprise AI agents and workflows
+  - Human-in-the-loop evaluation systems combining expert rubrics with AI-assisted
+    analysis
+  - Continuous improvement loops for enterprise GenAI applications through automated
+    evaluation pipelines
+  skills:
+    genai: [Large Language Models, LLM-as-a-Judge, RAG, agents]
+    ml: [PyTorch, TensorFlow, model evaluation]
+    web: []
+    databases: []
+    data: [statistical analysis]
+    cloud: [distributed computing, cloud infrastructure]
+    ops: [ML research engineering]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7684106'
+  extracted_at: '2026-02-05T11:20:07.551214'

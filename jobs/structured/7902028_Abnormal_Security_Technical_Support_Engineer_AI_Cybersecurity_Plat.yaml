@@ -1,0 +1,64 @@
+company:
+  name: Abnormal Security
+  stage: Series C
+  focus: AI-powered email and SaaS cybersecurity
+  use_cases:
+  - Cloud Email Security using behavioral AI to detect and block sophisticated email
+    attacks
+  - AI Security Agents for automated threat detection and response in SaaS environments
+  - SaaS Security protection across Microsoft 365, Google Workspace, Slack, and Okta
+    platforms
+  - Behavioral analysis to identify false positives and adjust threat detection parameters
+  - Threat investigation and forensic analysis of potential security incidents
+  - API integration for custom security workflows and SIEM/SOAR platforms
+position:
+  title: Technical Support Engineer – AI Cybersecurity Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a technical support role focused on troubleshooting,
+      configuration, and customer advocacy for an AI cybersecurity
+      platform. The engineer provides technical guidance and
+      resolves issues for customers using AI-based security
+      products but does not build, train, or deploy AI models
+      themselves.
+  responsibilities:
+  - Act as trusted L1 technical advisor for enterprise customers using Cloud Email
+    Security, AI Security Agents, and SaaS Security products
+  - Own and resolve inbound support tickets including configuration issues, API questions,
+    behavioral false positives, and threat investigations
+  - Provide customers with clear, timely updates, root cause insights, and solution
+    recommendations to reinforce product confidence
+  - Collaborate closely with Engineering to ensure timely, high-quality resolutions
+    and robust post-mortem documentation
+  - Support seamless customer onboarding and engagement by working alongside Customer
+    Success Managers
+  - Create and maintain internal and external knowledge base content to improve case
+    deflection and empower customers
+  - Identify patterns in support interactions to flag recurring pain points and drive
+    product improvements
+  use_cases:
+  - Cloud Email Security using behavioral AI to detect and block sophisticated email
+    attacks
+  - AI Security Agents for automated threat detection and response in SaaS environments
+  - SaaS Security protection across Microsoft 365, Google Workspace, Slack, and Okta
+    platforms
+  - Behavioral analysis to identify false positives and adjust threat detection parameters
+  - Threat investigation and forensic analysis of potential security incidents
+  - API integration for custom security workflows and SIEM/SOAR platforms
+  skills:
+    genai: [GPT-based assistants, AI-powered support platforms]
+    ml: []
+    web: [REST API]
+    databases: []
+    data: [Splunk]
+    cloud: [Microsoft 365, Google Workspace, Okta]
+    ops: [Log analysis, Debugging, Technical troubleshooting]
+    languages: []
+    domains: [Email Security, Crowdstrike]
+    other: [Slack, Cortex SOAR, Zoom, Salesforce, Jira, Confluence]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7902028'
+  extracted_at: '2026-02-05T11:39:43.454990'

@@ -1,0 +1,57 @@
+company:
+  name: Moon
+  stage: Stealth
+  focus: SaaS platform for business operations with AI agents
+  use_cases:
+  - Unified platform for business operations powered by proprietary AI agents
+  - Task automation solutions to streamline business processes
+  - AI-supported development practices to enhance engineering productivity
+  - Operational excellence platform for 6000+ employees across multiple business models
+  - Transforming entrepreneurial experience and business operations workflows
+position:
+  title: Principal Software Engineer, AI Agents and Tasks
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is directly responsible for designing, developing,
+      and deploying AI agents and task automation solutions. This
+      is hands-on work building and implementing AI agent systems,
+      not just supporting infrastructure or data pipelines for AI
+      work.
+  responsibilities:
+  - Influence the architectural design and implementation of highly performant and
+    scalable AI agent and task automation systems
+  - Write clean, maintainable, and efficient code primarily in C# and .NET Core with
+    emphasis on best practices
+  - Collaborate with product managers, AI/ML engineers, and stakeholders to translate
+    requirements into technical specifications
+  - Drive the adoption of AI-assisted development tools and methodologies to accelerate
+    coding and improve quality
+  - Mentor and guide junior and mid-level engineers while fostering a culture of continuous
+    learning and technical excellence
+  - Conduct code reviews and ensure adherence to coding standards and architectural
+    guidelines
+  - Contribute to the overall technical strategy and roadmap of the AI Agents and
+    Tasks product line
+  use_cases:
+  - Unified platform for business operations powered by proprietary AI agents
+  - Task automation solutions to streamline business processes
+  - AI-supported development practices to enhance engineering productivity
+  - Operational excellence platform for 6000+ employees across multiple business models
+  - Transforming entrepreneurial experience and business operations workflows
+  skills:
+    genai: [AI agents, task automation]
+    ml: [AI/ML frameworks and libraries]
+    web: [React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Microsoft Azure]
+    ops: []
+    languages: [C#, .NET Core]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7590947'
+  extracted_at: '2026-02-05T11:10:14.043957'

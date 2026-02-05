@@ -1,0 +1,55 @@
+company:
+  name: Mitratech
+  stage: null
+  focus: Legal, Risk, Compliance, and HR software
+  use_cases:
+  - Supporting AI and ML workloads for legal, risk, compliance, and HR software applications
+  - Deploying and managing LLM inference pipelines and Generative AI services
+  - Scaling model deployments and optimizing inference performance
+  - Ensuring security and compliance for AI datasets and environments
+position:
+  title: Senior Infrastructure Engineer - AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building and maintaining
+      infrastructure, cloud environments, and CI/CD pipelines that
+      support AI/ML workloads. The engineer designs AWS
+      infrastructure, manages containers and IaC, and collaborates
+      with ML teams to scale models rather than building,
+      training, or fine-tuning them directly.
+  responsibilities:
+  - Design, deploy, and maintain scalable and secure infrastructure supporting AI
+    and ML workloads
+  - Build and maintain AWS cloud environments including compute, storage, networking,
+    and security services
+  - Implement infrastructure as code using Terraform, AWS CDK, and CloudFormation
+  - Support and optimize AI/ML workloads across AWS services like SageMaker and Bedrock
+  - Set up and maintain monitoring and observability frameworks using CloudWatch and
+    OpenTelemetry
+  - Collaborate with ML and Generative AI teams to scale models and optimize performance
+  use_cases:
+  - Supporting AI and ML workloads for legal, risk, compliance, and HR software applications
+  - Deploying and managing LLM inference pipelines and Generative AI services
+  - Scaling model deployments and optimizing inference performance
+  - Ensuring security and compliance for AI datasets and environments
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, EC2, ECS, EKS, Lambda, S3, EFS, FSx, VPC, Transit Gateway, PrivateLink,
+      Route 53, load balancers, IAM, KMS, Secrets Manager, GuardDuty, Security Hub,
+      SageMaker, Bedrock, Batch, Step Functions, Fargate]
+    ops: [Terraform, AWS CDK, CloudFormation, Docker, Kubernetes, EKS, CloudWatch,
+      OpenTelemetry, CircleCI, GitHub Actions, GitLab CI, CI/CD, Prometheus, Grafana,
+      Linux]
+    languages: []
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8060617'
+  extracted_at: '2026-02-05T11:55:30.202281'

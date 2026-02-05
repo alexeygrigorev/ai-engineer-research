@@ -1,0 +1,71 @@
+company:
+  name: Inari Medical
+  stage: Public
+  focus: Medical device technology for surgery and intervention
+  use_cases:
+  - Computer vision applications for medical device products in surgical and healthcare
+    settings
+  - Augmented reality and mixed reality interfaces for operating room navigation and
+    guidance
+  - Generative AI features including LLMs for clinical decision intelligence and treatment
+    selection
+  - Multi-modal AI systems for image-guided surgery and outcome assessment
+  - Real-time AI inference on edge devices for surgical robotics and operating room
+    safety
+  - Multi-agentic AI frameworks for orchestrating complex clinical workflows
+position:
+  title: Senior AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI deployment role involving direct work
+      with models including optimization for real-time inference,
+      deploying LLMs and GenAI features, and implementing multi-
+      agentic AI frameworks. The engineer builds, optimizes, and
+      deploys AI systems (CV, multimodal, LLMs) across cloud and
+      edge platforms, which qualifies as ai-first rather than
+      support.
+  responsibilities:
+  - Develop and deploy AI-powered software on cloud and edge devices including iPhone,
+    iPad, Vision Pro, Android, and NVidia devices
+  - Optimize AI/ML models and pipelines for real-time inference on edge devices to
+    meet latency and performance requirements
+  - Build containerized AI services using Docker and orchestrate deployments across
+    platforms
+  - Deploy and maintain real-time microservices for AI applications including GenAI
+    applications
+  - Work with MLOps and AI security platform team to support continuous integration,
+    testing, and monitoring of AI models
+  - Design deployment evaluation frameworks and develop unit tests for software components
+    in compliance with regulatory requirements
+  - Perform software verification and validation testing along with code reviews following
+    best coding standards
+  - Generate and review necessary documentation with project teams
+  use_cases:
+  - Computer vision applications for medical device products in surgical and healthcare
+    settings
+  - Augmented reality and mixed reality interfaces for operating room navigation and
+    guidance
+  - Generative AI features including LLMs for clinical decision intelligence and treatment
+    selection
+  - Multi-modal AI systems for image-guided surgery and outcome assessment
+  - Real-time AI inference on edge devices for surgical robotics and operating room
+    safety
+  - Multi-agentic AI frameworks for orchestrating complex clinical workflows
+  skills:
+    genai: [GenAI, LLMs, multiagent systems]
+    ml: [model optimization, real-time inference, quantization, pruning]
+    web: [microservices]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [ONNX Runtime, TensorRT, OpenVINO, CoreML, Docker, Docker Compose, Kubernetes,
+      CI/CD, MLOps, Git, Prometheus, Grafana, Azure Monitor]
+    languages: [Python, C++]
+    domains: [computer vision, augmented reality, mixed reality, multi-modal AI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8341108'
+  extracted_at: '2026-02-05T12:54:29.306265'

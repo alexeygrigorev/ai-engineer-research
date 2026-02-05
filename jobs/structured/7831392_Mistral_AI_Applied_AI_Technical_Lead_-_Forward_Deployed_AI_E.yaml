@@ -1,0 +1,70 @@
+company:
+  name: Mistral AI
+  stage: Series B
+  focus: |-
+    High-performance open-source AI models and enterprise AI
+    platform
+  use_cases:
+  - Enterprise AI solutions deployment using fine-tuned LLMs for industry-specific
+    applications
+  - Retrieval-Augmented Generation (RAG) systems for knowledge-intensive enterprise
+    workflows
+  - Agentic workflows and autonomous AI systems for business process automation
+  - Custom NLP applications deployed at scale across industries including tech, finance,
+    healthcare, and industrial automation
+  - Integration of frontier AI models into enterprise production environments
+  - Pre-sales to post-implementation AI solution lifecycle management for strategic
+    enterprise customers
+position:
+  title: Applied AI, Technical Lead - Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed AI Engineer role that hands-on
+      builds and deploys GenAI solutions including fine-tuning
+      LLMs, RAG systems, and agentic workflows for enterprise
+      customers. The role explicitly requires delivering critical
+      code, reviewing and optimizing AI solutions, and has deep
+      technical expertise in LLM fine-tuning and deployment, not
+      just supporting AI infrastructure.
+  responsibilities:
+  - Deliver critical code for complex AI projects including hands-on implementation,
+    code review, and optimization of AI solutions
+  - Lead technical teams of Applied AI Engineers, providing mentorship, technical
+    guidance, and best practices for deploying GenAI applications
+  - Lead technical discussions during pre-sales, translating customer requirements
+    into actionable AI solutions and communicating technological advantages to stakeholders
+  - Design and oversee implementation of complex AI systems including fine-tuning,
+    RAG, agentic workflows, and custom LLM applications
+  - Drive innovation by identifying emerging AI trends, evaluating new tools and methodologies,
+    and championing best practices for fine-tuning, inference, and deployment
+  - Collaborate with product managers, researchers, and engineers to integrate customer
+    feedback into Mistral's product development cycle
+  use_cases:
+  - Enterprise AI solutions deployment using fine-tuned LLMs for industry-specific
+    applications
+  - Retrieval-Augmented Generation (RAG) systems for knowledge-intensive enterprise
+    workflows
+  - Agentic workflows and autonomous AI systems for business process automation
+  - Custom NLP applications deployed at scale across industries including tech, finance,
+    healthcare, and industrial automation
+  - Integration of frontier AI models into enterprise production environments
+  - Pre-sales to post-implementation AI solution lifecycle management for strategic
+    enterprise customers
+  skills:
+    genai: [Fine-tuning LLMs, RAG, Agentic workflows, LangChain, Hugging Face, Prompt
+        engineering]
+    ml: [PyTorch]
+    web: [API design, Backend development]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: [System architecture]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7831392'
+  extracted_at: '2026-02-05T11:34:42.648432'

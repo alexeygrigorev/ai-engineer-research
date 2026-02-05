@@ -1,0 +1,55 @@
+company:
+  name: Factset
+  stage: Public
+  focus: |-
+    Financial data and analytics platform for investment
+    professionals
+  use_cases:
+  - Enriching data from across the company for use in GenAI workflows
+  - Knowledge graph connecting financial concepts to available data
+  - RAG (Retrieval-Augmented Generation) for financial data and knowledge management
+  - Query planning and optimization for financial data retrieval
+  - AI-powered financial data analytics and decision support
+position:
+  title: Machine Learning Engineer - (Python, Docker, and API development,  AI/ML
+    solutions) - Hybrid
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and maintaining a GenAI RAG
+      stack, evaluating large language models, and working on
+      AI/ML solutions in production. The engineer will directly
+      work with generative AI technologies, including query
+      optimization and model deployment, which is hands-on AI
+      system development.
+  responsibilities:
+  - Build new systems to ingest and enrich data into an ontology
+  - Monitor and enhance the accuracy, performance, and observability of the GenAI
+    RAG stack
+  - Evaluate new large language models, tools, and AI engineering techniques
+  - Improve query planning, optimization, and evaluation infrastructure
+  - Partner with product development leads to identify technical requirements for
+    future product enhancements
+  - Collaborate with teams across the organization to understand their data
+  use_cases:
+  - Enriching data from across the company for use in GenAI workflows
+  - Knowledge graph connecting financial concepts to available data
+  - RAG (Retrieval-Augmented Generation) for financial data and knowledge management
+  - Query planning and optimization for financial data retrieval
+  - AI-powered financial data analytics and decision support
+  skills:
+    genai: [RAG]
+    ml: [Machine Learning, Deep Learning, model development]
+    web: [API development]
+    databases: [relational databases, data modeling]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, model deployment, CI/CD, GitHub]
+    languages: [Python]
+    domains: [Natural Language Processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8391549'
+  extracted_at: '2026-02-05T13:04:42.492519'

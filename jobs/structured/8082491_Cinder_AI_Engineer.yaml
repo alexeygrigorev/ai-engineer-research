@@ -1,0 +1,62 @@
+company:
+  name: Cinder
+  stage: Series A
+  focus: |-
+    AI-powered trust and safety platform for protecting online
+    interaction integrity
+  use_cases:
+  - Real-time content integrity and safety detection to prevent online abuse
+  - AI-powered moderation of user interactions at the product frontend
+  - Protecting online platforms from harmful content and malicious behavior
+  - Integration with major AI companies like OpenAI, Midjourney, and ElevenLabs for
+    content safety
+  - Enterprise-grade trust and safety solutions for high-volume digital products
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work with LLMs including data
+      preparation, fine-tuning, evaluation, and production
+      deployment at scale. Direct implementation of RAG
+      architectures, embedding models, and agent frameworks for
+      production systems.
+  responsibilities:
+  - Own the complete lifecycle of large language model implementation from data preparation
+    and fine-tuning through rigorous evaluation and production deployment
+  - Develop automated evaluation frameworks that continuously assess model accuracy,
+    identify edge cases, and quantify improvements across iterations
+  - Work directly with product managers and engineers to integrate AI as a core product
+    capability
+  - Shape AI roadmap by staying current with industry developments, evaluating emerging
+    techniques, and making pragmatic adoption decisions
+  - Design and implement low-latency, high-throughput, cloud-based AI/ML systems capable
+    of handling thousands of requests per second
+  - Build foundational infrastructure including model serving, monitoring, deployment
+    pipelines, and automated testing frameworks that enables rapid experimentation
+    while maintaining production reliability
+  use_cases:
+  - Real-time content integrity and safety detection to prevent online abuse
+  - AI-powered moderation of user interactions at the product frontend
+  - Protecting online platforms from harmful content and malicious behavior
+  - Integration with major AI companies like OpenAI, Midjourney, and ElevenLabs for
+    content safety
+  - Enterprise-grade trust and safety solutions for high-volume digital products
+  skills:
+    genai: [LLMs, RAG architectures, embedding models, prompt engineering, agents,
+      LangChain]
+    ml: [fine-tuning, TensorFlow, PyTorch, Keras]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, Terraform]
+    ops: [MLOps, CI/CD for ML, model versioning, monitoring, observability, model
+        serving, deployment pipelines]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8082491'
+  extracted_at: '2026-02-05T11:58:51.560425'

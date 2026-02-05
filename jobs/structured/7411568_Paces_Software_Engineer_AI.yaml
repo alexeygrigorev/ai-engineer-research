@@ -1,0 +1,52 @@
+company:
+  name: Paces
+  stage: Seed
+  focus: |-
+    Software and services to accelerate renewable energy
+    development
+  use_cases:
+  - Automating early-stage due diligence for power projects and renewable infrastructure
+  - Streamlining siting, interconnection, and permitting processes
+  - Accelerating projects from siting to construction-ready status
+  - Supporting renewable energy developers, data center developers, real estate firms,
+    and EV charging companies
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on work with AI agents using
+      LangGraph and CrewAI frameworks, including prototyping,
+      experimenting, evaluating, and iterating to improve AI
+      agents. The description emphasizes applied AI engineering in
+      production, which directly involves building and deploying
+      the Agentic AI system that automates due diligence for
+      renewable energy projects.
+  responsibilities:
+  - Have full ownership of various projects, iterate closely with users on end-to-end
+    features
+  - Scale up platform and system to support ever growing traffic
+  - Work in tight collaboration with product team on product roadmap
+  - Prototype, experiment, evaluate, and iterate quickly to improve AI agents
+  use_cases:
+  - Automating early-stage due diligence for power projects and renewable infrastructure
+  - Streamlining siting, interconnection, and permitting processes
+  - Accelerating projects from siting to construction-ready status
+  - Supporting renewable energy developers, data center developers, real estate firms,
+    and EV charging companies
+  skills:
+    genai: [LangGraph, CrewAI, prompt engineering, RAG]
+    ml: [modeling]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [ML infra]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7411568'
+  extracted_at: '2026-02-05T10:49:21.885640'

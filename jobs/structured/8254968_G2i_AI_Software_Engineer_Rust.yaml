@@ -1,0 +1,52 @@
+company:
+  name: G2i
+  stage: null
+  focus: LLM code evaluation and training
+  use_cases:
+  - Training large language models to write production-grade code
+  - Code evaluation and ranking for RLHF pipeline
+  - Generating and improving code across multiple programming languages
+  - Converting expert human feedback into reward signals for model tuning
+  - Building models that can propose, critique, and improve code automatically
+position:
+  title: AI Software Engineer (Rust)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves working directly with LLMs and the RLHF
+      pipeline to improve code generation models. The engineer
+      will rank, edit, and provide feedback on AI-generated code,
+      which is then used as reward signals to fine-tune the model.
+      This is hands-on work with model training and improvement
+      through human feedback loops.
+  responsibilities:
+  - Compare and rank multiple code snippets
+  - explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Identify logic errors, performance traps, and security issues in code
+  - Provide clear written explanations justifying code quality decisions
+  - Participate in the reinforcement learning feedback loop to tune code generation
+    models
+  use_cases:
+  - Training large language models to write production-grade code
+  - Code evaluation and ranking for RLHF pipeline
+  - Generating and improving code across multiple programming languages
+  - Converting expert human feedback into reward signals for model tuning
+  - Building models that can propose, critique, and improve code automatically
+  skills:
+    genai: [LLMs, RLHF]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Rust]
+    domains: []
+    other: [Constraint Programming, Code Review]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8254968'
+  extracted_at: '2026-02-05T12:24:10.991952'

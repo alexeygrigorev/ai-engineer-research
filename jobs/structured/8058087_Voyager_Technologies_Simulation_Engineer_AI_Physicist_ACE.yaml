@@ -1,0 +1,65 @@
+company:
+  name: Voyager Technologies
+  stage: null
+  focus: Defense, national security, and space technology
+  use_cases:
+  - Thermal analysis agents that simulate and optimize thermal characteristics of
+    hardware designs
+  - Supply-chain scouting agents that identify and evaluate components and materials
+  - G-code validation agents that verify manufacturing instructions for CNC machines
+  - Design for Manufacturing (DfM) automation to embed manufacturability constraints
+    early in design
+  - Physics simulation integration to test designs against real-world physical constraints
+  - CAD and PCB routing automation to accelerate hardware development cycles
+position:
+  title: Simulation Engineer / AI Physicist (ACE)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and maintaining
+      production-ready AI agents using frameworks like LangGraph
+      and Agent Development Kits. The engineer will work directly
+      on implementing agentic systems with prompts, tool schemas,
+      and decision-making loops, not just supporting
+      infrastructure for others who work on AI.
+  responsibilities:
+  - Design, implement, and deploy production-ready AI agents using frameworks such
+    as LangGraph or Agent Development Kits
+  - Define clear agent roles, goals, and capabilities including prompts, tool schemas,
+    and decision-making loops
+  - Develop and maintain Model Context Protocol (MCP) servers that expose Voyager's
+    internal systems to agents
+  - Integrate external and internal engineering tools as robust, secure agent tools
+  - Build evaluation suites and benchmarks that measure agent performance on realistic
+    engineering tasks
+  - Collaborate with domain experts to encode manufacturing, test, and safety constraints
+    into agent behavior
+  - Use LLMs as a development accelerator for scaffolding code, writing tests, and
+    generating documentation
+  use_cases:
+  - Thermal analysis agents that simulate and optimize thermal characteristics of
+    hardware designs
+  - Supply-chain scouting agents that identify and evaluate components and materials
+  - G-code validation agents that verify manufacturing instructions for CNC machines
+  - Design for Manufacturing (DfM) automation to embed manufacturability constraints
+    early in design
+  - Physics simulation integration to test designs against real-world physical constraints
+  - CAD and PCB routing automation to accelerate hardware development cycles
+  skills:
+    genai: [LangGraph, LangChain, OpenAI API, Anthropic API, Google Agent Development
+        Kit, Model Context Protocol (MCP), prompt engineering, ReAct, plan-and-solve,
+      agents, function calling]
+    ml: []
+    web: [REST, gRPC, APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8058087'
+  extracted_at: '2026-02-05T11:53:58.587528'

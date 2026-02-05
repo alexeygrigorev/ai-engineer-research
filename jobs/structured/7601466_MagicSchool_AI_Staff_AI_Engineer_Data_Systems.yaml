@@ -1,0 +1,79 @@
+company:
+  name: MagicSchool AI
+  stage: Series B
+  focus: Generative AI platform for teachers and educators
+  use_cases:
+  - AI-powered educational agents that can reason over structured knowledge to assist
+    teachers with curriculum planning and lesson design
+  - Intelligent retrieval systems that surface relevant educational standards, lesson
+    plans, and teaching materials based on contextual queries
+  - Knowledge graph-driven curriculum navigation that helps teachers understand prerequisite
+    relationships and learning progressions
+  - Memory-aware AI agents that maintain coherent understanding across extended teaching
+    workflows while managing token budgets
+  - Educational content processing and enrichment systems that extract pedagogical
+    metadata from unstructured documents
+  - Semantic search over millions of educational resources enabling precise content
+    discovery for diverse teaching scenarios
+position:
+  title: Staff AI Engineer, Data Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Staff AI Engineer role that involves hands-on
+      implementation of GraphRAG systems, knowledge graphs,
+      retrieval-augmented generation pipelines, and embedding
+      strategies. The engineer directly builds and deploys AI
+      infrastructure that enables agents to reason over
+      educational content, including fine-tuning embedding models
+      and optimizing retrieval systems for LLM consumption.
+  responsibilities:
+  - Architect and implement graph-based knowledge systems using Neo4j, Neptune, or
+    similar to represent educational content relationships, standards alignments,
+    and curriculum coherence
+  - Build GraphRAG systems combining knowledge graph traversal with vector similarity
+    for contextually connected educational material retrieval
+  - Design and implement sophisticated RAG pipelines including hybrid search, multi-stage
+    retrieval, reranking strategies, and query understanding
+  - Operationalize embedding pipelines for educational content, including selecting
+    and fine-tuning embedding models and implementing chunking strategies
+  - Build robust content ingestion systems processing structured and unstructured
+    educational content with NLP pipelines for entity extraction and semantic parsing
+  - Invent and operationalize memory compaction mechanisms and session state management
+    for maintaining agent coherence across extended teaching workflows
+  - Partner with Product, Research, and Educators to translate domain expertise into
+    technical architecture for knowledge graphs and retrieval systems
+  - Mentor engineers on knowledge graph design, RAG architecture patterns, embedding
+    strategies, and retrieval optimization
+  use_cases:
+  - AI-powered educational agents that can reason over structured knowledge to assist
+    teachers with curriculum planning and lesson design
+  - Intelligent retrieval systems that surface relevant educational standards, lesson
+    plans, and teaching materials based on contextual queries
+  - Knowledge graph-driven curriculum navigation that helps teachers understand prerequisite
+    relationships and learning progressions
+  - Memory-aware AI agents that maintain coherent understanding across extended teaching
+    workflows while managing token budgets
+  - Educational content processing and enrichment systems that extract pedagogical
+    metadata from unstructured documents
+  - Semantic search over millions of educational resources enabling precise content
+    discovery for diverse teaching scenarios
+  skills:
+    genai: [RAG, GraphRAG, LLM APIs, semantic search, context management, model context
+        protocol]
+    ml: [embedding models, fine-tuning, NLP, entity extraction, text chunking, graph
+        neural networks, node2vec, TransE]
+    web: [NextJS]
+    databases: [Neo4j, Neptune, Pinecone, Weaviate, Qdrant, pgvector, vector databases,
+      PostgreSQL, Supabase]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7601466'
+  extracted_at: '2026-02-05T11:12:19.586031'

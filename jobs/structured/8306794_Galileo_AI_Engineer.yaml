@@ -1,0 +1,59 @@
+company:
+  name: Galileo
+  stage: Series B+ (backed by top-tier investors, first 100 employees, multiple offices,
+    Fortune 10 clients)
+  focus: AI observability and runtime protection platform
+  use_cases:
+  - Agent observability and runtime protection for AI systems
+  - Monitoring and guardrails for production AI applications
+  - Evaluations for AI systems at production speed
+  - Helping developers ship reliable AI applications with agentic workflows
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Developer Relations/AI Engineer role focused on
+      creating educational content, demos, and tutorials rather
+      than building or deploying AI systems. While the role
+      requires hands-on AI knowledge, the work involves teaching
+      others how to use Galileo's observability platform rather
+      than directly working on models, agents, or AI
+      infrastructure. The role is customer-facing and enables
+      developers rather than building AI solutions.
+  responsibilities:
+  - Build, document, and share sample agents using the latest models and frameworks,
+    teaching the community how to build reliable AI
+  - Create deep technical posts, videos, and tutorials that illustrate practical use
+    cases for developers
+  - Represent Galileo at conferences and virtual events, showcasing demos and connecting
+    with developers
+  - Develop and maintain sample code, reference apps, and SDK enhancements that help
+    developers get started quickly
+  - Build relationships with AI thought leaders, influencers, and open-source communities
+    to strengthen Galileo's community
+  - Partner with product, engineering, and growth teams to launch new products and
+    features while synthesizing user feedback
+  - Stay current with the latest in AI research, LLM models, and developer tooling
+  use_cases:
+  - Agent observability and runtime protection for AI systems
+  - Monitoring and guardrails for production AI applications
+  - Evaluations for AI systems at production speed
+  - Helping developers ship reliable AI applications with agentic workflows
+  skills:
+    genai: [LLMs, agents, prompt engineering, RAG, guardrails]
+    ml: []
+    web: [SDK development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [technical content creation, developer relations, open-source community
+        engagement]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8306794'
+  extracted_at: '2026-02-05T12:44:05.404325'

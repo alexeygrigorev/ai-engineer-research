@@ -1,0 +1,59 @@
+company:
+  name: Eloquent AI
+  stage: Series B
+  focus: Multimodal AI operators for enterprise automation
+  use_cases:
+  - Automating compliance reviews for financial institutions and insurers
+  - Handling customer operations with intelligent, end-to-end execution
+  - Replacing repetitive manual tasks with AI-powered automation in regulated environments
+  - Executing complex workflows across fragmented tools with human-level precision
+  - Transforming how millions of people manage their finances through AI-driven automation
+position:
+  title: AI Engineer, London
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a full-stack software engineering role
+      building the applications and infrastructure that power AI
+      workflows, not directly working on models, agents, or AI
+      systems themselves. The engineer collaborates with AI
+      researchers/ML engineers to integrate LLMs and RAG into
+      production applications, but the core work involves front-
+      end interfaces, backend services, and cloud infrastructure
+      that support AI interactions rather than building, training,
+      or deploying models.
+  responsibilities:
+  - Design and build full-stack applications that power AI-driven workflows for enterprise
+    users
+  - Develop high-performance front-end interfaces for AI agent control, monitoring,
+    and visualization
+  - Build scalable backend services that support real-time AI interactions, knowledge
+    retrieval, and automation
+  - Optimize AI-powered UIs to ensure seamless and intuitive user experiences
+  - Work closely with AI researchers and ML engineers to integrate LLMs, RAG, and
+    automation into production-ready applications
+  - Ship robust, minimal-dependency code that performs efficiently in enterprise environments
+  - Continuously iterate and refine AI-driven products, balancing user needs with
+    technical feasibility
+  use_cases:
+  - Automating compliance reviews for financial institutions and insurers
+  - Handling customer operations with intelligent, end-to-end execution
+  - Replacing repetitive manual tasks with AI-powered automation in regulated environments
+  - Executing complex workflows across fragmented tools with human-level precision
+  - Transforming how millions of people manage their finances through AI-driven automation
+  skills:
+    genai: [LLMs, RAG, agentic workflows]
+    ml: []
+    web: [React, TypeScript, Node.js, GraphQL, WebSockets, full-stack development]
+    databases: []
+    data: [real-time data streaming]
+    cloud: [AWS, GCP, Azure, cloud infrastructure, scalable architectures]
+    ops: []
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7569470'
+  extracted_at: '2026-02-05T11:07:42.446193'

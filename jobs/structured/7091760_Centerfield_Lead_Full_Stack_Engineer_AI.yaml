@@ -1,0 +1,61 @@
+company:
+  name: Centerfield
+  stage: null
+  focus: |-
+    Digital marketing solutions and customer acquisition
+    platforms
+  use_cases:
+  - Outcome-based digital marketing solutions for customer acquisition
+  - Personalized omnichannel experiences for leading brands
+  - Scalable customer acquisition platform for residential service, insurance, e-commerce,
+    and B2B brands
+  - Digital experiences reaching 150 million in-market shoppers annually
+  - High-performance web applications for business and broadband services
+position:
+  title: Lead Full Stack Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a Full Stack .NET engineering role focused
+      on building applications for Centerfield's marketing
+      platforms. While the job mentions AI/ML knowledge as "bonus
+      points" including RAG, agents, vector databases, and
+      transformers, the core responsibilities are about technical
+      leadership, system architecture, and software development -
+      not directly building, training, or deploying AI models. The
+      AI/ML skills are listed as nice-to-have for someone to work
+      with AI-related features, but the role itself is not AI-
+      first.
+  responsibilities:
+  - Drive technical initiatives while staying hands-on in development
+  - Partner with cross-functional teams to translate business needs into technical
+    solutions
+  - Mentor and support junior developers through coaching and collaboration
+  - Define and drive system architecture and design for scalable, high-performance
+    applications
+  - Document development phases and monitor systems for quality and goals alignment
+  - Refine team processes and best practices
+  - Evaluate and recommend new technologies and tools to improve our platforms
+  use_cases:
+  - Outcome-based digital marketing solutions for customer acquisition
+  - Personalized omnichannel experiences for leading brands
+  - Scalable customer acquisition platform for residential service, insurance, e-commerce,
+    and B2B brands
+  - Digital experiences reaching 150 million in-market shoppers annually
+  - High-performance web applications for business and broadband services
+  skills:
+    genai: [RAG, prompt engineering, agentic frameworks]
+    ml: [transformers, embeddings, fine-tuning]
+    web: [REST APIs, RPC APIs, React]
+    databases: [PostgreSQL, MySQL, Redis, vector databases, Pinecone]
+    data: [Kafka]
+    cloud: [AWS, GCP, AWS SQS, AWS SNS]
+    ops: [RabbitMQ, CI/CD]
+    languages: [C#, .NET, Python, Node.js, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7091760'
+  extracted_at: '2026-02-05T10:14:30.432208'

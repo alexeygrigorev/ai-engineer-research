@@ -1,0 +1,62 @@
+company:
+  name: Optum
+  stage: Public
+  focus: Healthcare technology and AI/ML solutions
+  use_cases:
+  - Healthcare data analysis and insights generation
+  - Natural language processing for medical text and unstructured health data
+  - Large language model applications for healthcare documentation and decision support
+  - Responsible AI deployment ensuring compliance and ethical standards in healthcare
+  - Predictive modeling for health outcomes and resource optimization
+  - AI-powered solutions connecting people with care, pharmacy benefits, and health
+    resources
+position:
+  title: Lead AI/ML Engineer (NLP) - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, training, and deploying AI/ML
+      models including deep learning, NLP approaches, and LLM
+      frameworks. Responsibilities include developing novel AI
+      approaches for healthcare using both structured and
+      unstructured data, and collaborating on MLOps procedures for
+      deploying these solutions.
+  responsibilities:
+  - Develop novel AI approaches for healthcare using both structured and unstructured
+    data
+  - Build and test deep learning and traditional ML models in distributed computing
+    environments
+  - Design and plan experiments, conduct statistical analysis and create data visualizations
+  - Communicate findings with business stakeholders and collaborate to develop solutions
+    that meet customer needs
+  - Collaborate with the Responsible Use of AI (RUAI) team to ensure that the delivered
+    solutions are compliant with company policies and standards
+  - Develop code and model documentation, patents and publications in scientific conferences
+    and journals
+  - Collaborate with engineering teams to develop robust data pipelines and MLOps
+    procedures for new solutions
+  - Stay up to date with latest technologies and literature
+  use_cases:
+  - Healthcare data analysis and insights generation
+  - Natural language processing for medical text and unstructured health data
+  - Large language model applications for healthcare documentation and decision support
+  - Responsible AI deployment ensuring compliance and ethical standards in healthcare
+  - Predictive modeling for health outcomes and resource optimization
+  - AI-powered solutions connecting people with care, pharmacy benefits, and health
+    resources
+  skills:
+    genai: [text embedding, LLM frameworks]
+    ml: [PyTorch, TensorFlow, deep learning, classical ML methods]
+    web: []
+    databases: [Snowflake]
+    data: [Spark, distributed computing]
+    cloud: []
+    ops: [GitHub, MLOps]
+    languages: [Python]
+    domains: [NLP, text classification]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8282091'
+  extracted_at: '2026-02-05T12:31:48.076151'

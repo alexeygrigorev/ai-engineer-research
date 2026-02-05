@@ -1,0 +1,71 @@
+company:
+  name: Natera
+  stage: Public
+  focus: |-
+    Cell-free DNA testing for genetic diagnostics and
+    personalized medicine
+  use_cases:
+  - Agentic AI automation platform for enterprise workflow orchestration and task
+    execution across multiple business domains
+  - Low-code citizen developer platform enabling business users and analysts to prototype
+    and deploy AI-powered workflows
+  - Intelligent document processing including unstructured data extraction, summarization,
+    classification, and information retrieval
+  - Enterprise system integration connecting AI agents to core business systems for
+    automated real-world actions and decision support
+  - Healthcare and diagnostics automation with regulatory compliance (HIPAA, SOC2,
+    GDPR) for genetic testing and patient data workflows
+position:
+  title: Principal AI Software Engineer, Enterprise AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building an enterprise agentic AI
+      platform with hands-on implementation of RAG systems, agent
+      orchestration engines, LLM integrations, and prompt
+      optimization. The engineer will develop core AI services
+      including vector database integrations, MCP connectors, and
+      evaluation frameworks, which are core AI/ML engineering
+      tasks rather than support functions.
+  responsibilities:
+  - Design and implement the core architecture of the Enterprise AI Platform including
+    low-code interfaces, modular components, and secure infrastructure
+  - Build the agent orchestration runtime with task queues, state management, inter-agent
+    communication, and long-running workflow capabilities
+  - Develop unified low-code and pro-code interfaces for agent workflow composition
+    with shared runtime infrastructure
+  - Implement AI services including RAG pipelines, vector database integrations, prompt
+    optimization, and evaluation guardrails
+  - Integrate Model Context Protocols (MCPs) and build enterprise system connectors
+    for secure agent operations
+  - Establish DevOps pipelines, observability tools, and governance frameworks including
+    RBAC, audit logging, and compliance monitoring
+  - Architect evaluation-first framework with automated monitoring, hallucination
+    detection, bias detection, and performance metrics
+  use_cases:
+  - Agentic AI automation platform for enterprise workflow orchestration and task
+    execution across multiple business domains
+  - Low-code citizen developer platform enabling business users and analysts to prototype
+    and deploy AI-powered workflows
+  - Intelligent document processing including unstructured data extraction, summarization,
+    classification, and information retrieval
+  - Enterprise system integration connecting AI agents to core business systems for
+    automated real-world actions and decision support
+  - Healthcare and diagnostics automation with regulatory compliance (HIPAA, SOC2,
+    GDPR) for genetic testing and patient data workflows
+  skills:
+    genai: [LangChain, LlamaIndex, AutoGen, DSPy, RAG, agents, MCP, prompt engineering]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: [workflow orchestration, Temporal, Airflow]
+    cloud: [AWS Bedrock]
+    ops: [Docker, Kubernetes, CI/CD, observability, telemetry, Kubernetes, Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [governance, HIPAA, SOC2, GDPR, RBAC, low-code platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7789643'
+  extracted_at: '2026-02-05T11:31:34.135362'

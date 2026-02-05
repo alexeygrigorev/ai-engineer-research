@@ -1,0 +1,58 @@
+company:
+  name: Foundation Health
+  stage: Seed
+  focus: AI-powered digital pharmacy platform transforming healthcare
+  use_cases:
+  - Patient care optimization through AI-powered classification and personalization
+  - Healthcare search systems for improved information retrieval
+  - AI-generated content and forecasting for healthcare operations
+  - Care coordination optimization using ML models
+  - Digital pharmacy platform powered by intelligent systems
+  - Enterprise healthcare solutions using foundation models and RAG
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building, training, deploying,
+      and optimizing ML/AI systems across multiple domains
+      (classification, personalization, generation, search,
+      forecasting). Responsibilities include model training,
+      evaluation, deployment, monitoring, and working with RAG and
+      foundation models - all direct AI engineering work.
+  responsibilities:
+  - Lead the design and implementation of production-grade AI systems across diverse
+    problem spaces including classification, personalization, generation, search,
+    and forecasting
+  - Work across the entire AI stack including data pipelines, model training, evaluation,
+    deployment, and monitoring
+  - Define and evolve ML infrastructure and tooling including model tracking, CI/CD
+    for ML, serving patterns, and A/B testing
+  - Collaborate with product and engineering teams to apply ML/AI effectively to real-world
+    use cases while balancing ambition with practicality
+  - Build lightweight prototypes to test ideas and production systems to scale impact
+  - Engage directly with enterprise clients to translate their needs into AI-powered
+    solutions and lead implementation end-to-end
+  use_cases:
+  - Patient care optimization through AI-powered classification and personalization
+  - Healthcare search systems for improved information retrieval
+  - AI-generated content and forecasting for healthcare operations
+  - Care coordination optimization using ML models
+  - Digital pharmacy platform powered by intelligent systems
+  - Enterprise healthcare solutions using foundation models and RAG
+  skills:
+    genai: [RAG, OpenAI]
+    ml: [scikit-learn, PyTorch]
+    web: [Node.js]
+    databases: []
+    data: [pandas]
+    cloud: [GCP, Vertex AI, SageMaker]
+    ops: [Docker, MLflow]
+    languages: [Python, TypeScript, Go]
+    domains: [NLP, computer vision, HIPAA, HL7, FHIR]
+    other: [A/B testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7773793'
+  extracted_at: '2026-02-05T11:26:32.632621'

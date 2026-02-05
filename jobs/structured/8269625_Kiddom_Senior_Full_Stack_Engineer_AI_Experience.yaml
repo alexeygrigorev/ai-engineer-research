@@ -1,0 +1,60 @@
+company:
+  name: Kiddom
+  stage: null
+  focus: |-
+    Educational platform for curriculum management and
+    personalized learning
+  use_cases:
+  - Personalized learning experiences for educators and students at scale
+  - AI-powered curriculum management and instructional materials
+  - Teacher and leader data insights to drive instructional decisions
+  - AI-enhanced user interfaces that create delightful educational experiences
+  - Dynamic digital learning tailored to unique community needs
+position:
+  title: Senior Full Stack Engineer, AI Experience
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct work with AI/LLM-powered features,
+      developing AI integration layers, and building AI-enhanced
+      user experiences. The engineer will prototype AI-driven
+      capabilities, analyze model performance, and reason about AI
+      system behavior - all hands-on work with AI systems rather
+      than supporting infrastructure.
+  responsibilities:
+  - Build end-to-end solutions from React/TypeScript frontends to GoLang and Python
+    backend services
+  - Develop, maintain, and optimize AI/LLM-powered features that personalize learning
+    at scale
+  - Rapidly prototype new AI-driven capabilities and iterate based on user feedback
+    and data
+  - Work with large datasets to analyze model performance, identify issues, and guide
+    improvements
+  - Turn complex product concepts into robust, reliable AI-enhanced user experiences
+  - Collaborate closely with product, design, data science, and ML engineering partners
+  - Contribute to architectural decisions, tooling enhancements, and best practices
+    across the stack
+  - Leverage AI tools to improve engineering velocity, code quality, and experimentation
+    workflows
+  use_cases:
+  - Personalized learning experiences for educators and students at scale
+  - AI-powered curriculum management and instructional materials
+  - Teacher and leader data insights to drive instructional decisions
+  - AI-enhanced user interfaces that create delightful educational experiences
+  - Dynamic digital learning tailored to unique community needs
+  skills:
+    genai: [LLMs, embeddings, RAG]
+    ml: [model performance analysis]
+    web: [React]
+    databases: [vector databases]
+    data: [data pipelines]
+    cloud: [AWS, AWS Lambda, ECS, RDS]
+    ops: [GitHub Actions, Kubernetes, Docker, CI/CD]
+    languages: [TypeScript, GoLang, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8269625'
+  extracted_at: '2026-02-05T12:27:23.532928'

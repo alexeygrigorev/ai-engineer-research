@@ -1,0 +1,58 @@
+company:
+  name: Precision Medicine Group
+  stage: null
+  focus: Precision medicine and healthcare solutions
+  use_cases:
+  - Enterprise AI productivity solutions and productivity tools
+  - RAG-based knowledge retrieval and question answering systems
+  - LLM-powered applications for clinical and pharmaceutical use cases
+  - Deep learning solutions for precision medicine workflows
+  - Scalable AI platforms for regulated healthcare environments
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      scaling AI solutions using LLMs, GenAI approaches, and deep
+      learning. The engineer directly works on RAG pipelines,
+      vector databases, model deployment, and productionizing AI
+      solutions - all core AI/ML development activities rather
+      than supporting infrastructure.
+  responsibilities:
+  - Build and deploy enterprise-ready AI solutions using LLMs, GenAI approaches, and
+    deep learning capabilities
+  - Scale out AI solutions through performance optimization, deployment automation,
+    and testing
+  - Rapidly prototype and iterate on AI applications using Azure, AWS, and off-the-shelf
+    tools
+  - Develop APIs and lightweight UIs using Dash, Flask and others to deliver AI tools
+    to end users
+  - Implement XOps engineering for AI including building, extending, and optimizing
+    pipelines to productionize AI solutions
+  - Stay current on emerging AI technologies including vector databases, RAG pipelines,
+    and productivity AI platforms
+  - Partner with AI Solutions Architect to ensure scalable, secure, and compliant
+    system design
+  use_cases:
+  - Enterprise AI productivity solutions and productivity tools
+  - RAG-based knowledge retrieval and question answering systems
+  - LLM-powered applications for clinical and pharmaceutical use cases
+  - Deep learning solutions for precision medicine workflows
+  - Scalable AI platforms for regulated healthcare environments
+  skills:
+    genai: [LLMs, GenAI, RAG pipelines, LangChain, MCP]
+    ml: [PyTorch, Hugging Face]
+    web: [FastAPI, Flask, Dash]
+    databases: [Snowflake, SQL, NoSQL, Neo4J, MongoDB]
+    data: []
+    cloud: [Azure, AWS, Google Cloud]
+    ops: [MLflow, CI/CD, containerization, pipeline orchestration, GitHub Actions]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8279157'
+  extracted_at: '2026-02-05T12:30:47.481392'

@@ -1,0 +1,64 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted information and technology for legal, tax,
+    accounting, compliance, and media professionals
+  use_cases:
+  - AI-powered search and retrieval systems for legal, tax, and compliance professionals
+  - Document intelligence and information extraction using Azure AI Services
+  - Agentic AI workflows that automate complex professional tasks with tool integration
+  - Hybrid semantic and keyword search providing accurate, citable results from specialized
+    content
+  - Enterprise-grade AI applications with compliance, security, and audit capabilities
+    for regulated industries
+position:
+  title: Senior Software Engineer - AI I
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      including RAG pipelines, agentic workflows with function
+      calling, and integrating Azure OpenAI services directly. The
+      engineer designs retrieval strategies, implements Semantic
+      Kernel orchestration, and deploys AI capabilities to
+      production - not just supporting infrastructure.
+  responsibilities:
+  - Build and own .NET services and REST APIs integrated with Azure OpenAI and Azure
+    AI Services
+  - Design RAG pipelines using Azure AI Search with hybrid retrieval, chunking strategies,
+    grounding, and citations
+  - Create agentic workflows using tool/function calling, planning, memory, and guardrails
+    for safe execution
+  - Develop Semantic Kernel skills, connectors, and planners to orchestrate intelligent
+    behavior
+  - Implement robust observability across latency, cost, token usage, and quality
+    metrics using App Insights and OpenTelemetry
+  - Lead through engineering excellence including mentoring teammates, writing RFCs,
+    and guiding architecture decisions
+  use_cases:
+  - AI-powered search and retrieval systems for legal, tax, and compliance professionals
+  - Document intelligence and information extraction using Azure AI Services
+  - Agentic AI workflows that automate complex professional tasks with tool integration
+  - Hybrid semantic and keyword search providing accurate, citable results from specialized
+    content
+  - Enterprise-grade AI applications with compliance, security, and audit capabilities
+    for regulated industries
+  skills:
+    genai: [Azure OpenAI, RAG, function calling, Semantic Kernel, agentic workflows,
+      prompt flows]
+    ml: []
+    web: [ASP.NET Core, REST APIs, OAuth2, OIDC, JWT]
+    databases: [Azure AI Search]
+    data: []
+    cloud: [Azure, Azure AI Studio, App Service, Azure Functions]
+    ops: [AKS, Container Apps, API Management, Key Vault, Docker, Kubernetes, CI/CD,
+      OpenTelemetry, App Insights]
+    languages: [C#, .NET]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8373747'
+  extracted_at: '2026-02-05T13:00:43.005178'

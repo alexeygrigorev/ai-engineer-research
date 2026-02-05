@@ -1,0 +1,57 @@
+company:
+  name: Chaos Labs
+  stage: Series B
+  focus: |-
+    Automated on-chain economic security and risk management for
+    crypto protocols
+  use_cases:
+  - Financial AI agent for risk management and capital efficiency analysis
+  - On-chain economic security system for crypto protocols
+  - Real-time agent reasoning visualization and insights for DeFi protocols
+  - Automated analysis of protocol mechanics and scenario implications using EVM simulations
+  - Integration of AI agents with blockchain protocols and DeFi systems
+position:
+  title: Full Stack Engineer (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of a financial AI
+      agent with explicit requirements for LLM frameworks
+      (LangChain), vector databases, RAG pipelines, and agent
+      orchestration (MCP). The engineer will integrate and
+      productionize agent logic, build systems for the AI agent,
+      and work directly with agent workflows, which qualifies as
+      working directly ON AI systems rather than just supporting
+      them.
+  responsibilities:
+  - Design and build full-stack systems for the AI financial agent
+  - Develop scalable APIs and backend services to support agent workflows
+  - Build high-performance, user-facing interfaces to visualize agent reasoning and
+    surface insights, as well as enable real-time interaction
+  - Collaborate with AI researchers to integrate and productionize agent logic
+  - Connect and manage data pipelines from financial sources
+  - Implement testing, monitoring, and performance best practices
+  - Stay up to date with LLM frameworks, full-stack tools, and financial trends
+  use_cases:
+  - Financial AI agent for risk management and capital efficiency analysis
+  - On-chain economic security system for crypto protocols
+  - Real-time agent reasoning visualization and insights for DeFi protocols
+  - Automated analysis of protocol mechanics and scenario implications using EVM simulations
+  - Integration of AI agents with blockchain protocols and DeFi systems
+  skills:
+    genai: [LangChain, LLMs, RAG pipelines, prompt engineering, MCP (tool use orchestration),
+      AI agent design, embedding pipelines, semantic search, RAG architectures]
+    ml: []
+    web: [FastAPI, Node.js, React]
+    databases: [vector databases, relational databases, non-relational databases]
+    data: [financial data APIs]
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, TypeScript]
+    domains: []
+    other: [async programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7140475'
+  extracted_at: '2026-02-05T10:24:46.162225'

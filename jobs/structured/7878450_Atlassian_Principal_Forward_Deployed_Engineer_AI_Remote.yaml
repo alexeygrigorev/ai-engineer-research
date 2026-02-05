@@ -1,0 +1,60 @@
+company:
+  name: Atlassian
+  stage: Public
+  focus: Team collaboration and project management software
+  use_cases:
+  - AI-powered workflow automation to enhance operational efficiency within customer
+    environments
+  - Applied AI/ML solutions leveraging generative AI and LLMs for real-world business
+    problems
+  - Enterprise-scale AI solution deployment for top organizations across industries
+  - AI-augmented teamwork and collaboration solutions integrated with Atlassian products
+position:
+  title: Principal Forward Deployed Engineer, AI (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      designs, develops, and deploys AI/ML solutions using LLMs,
+      agent-based frameworks (LangChain, LlamaIndex), and ML
+      frameworks (PyTorch, TensorFlow). The role is hands-on with
+      building and deploying AI-powered solutions to customers,
+      not just enabling AI infrastructure for others.
+  responsibilities:
+  - Lead the design, development, and deployment of AI/ML-powered solutions tailored
+    to customer needs using TensorFlow, PyTorch, and agent-based platforms
+  - Architect and implement robust application integrations using Python, JavaScript,
+    APIs, microservices, and enterprise-scale systems
+  - Drive data-driven solution development by analyzing complex datasets to extract
+    insights and inform product direction
+  - Champion the adoption of AI-augmented workflow automation within customer environments
+    to maximize business value and operational efficiency
+  - Oversee the end-to-end deployment of AI solutions into production with continuous
+    evaluation, monitoring, and improvement
+  - Navigate risk and compliance requirements including AI risk assessment, data privacy
+    (GDPR), and regulatory frameworks
+  - Mentor and guide junior engineers while fostering a culture of innovation, collaboration,
+    and continuous learning
+  use_cases:
+  - AI-powered workflow automation to enhance operational efficiency within customer
+    environments
+  - Applied AI/ML solutions leveraging generative AI and LLMs for real-world business
+    problems
+  - Enterprise-scale AI solution deployment for top organizations across industries
+  - AI-augmented teamwork and collaboration solutions integrated with Atlassian products
+  skills:
+    genai: [LangChain, LlamaIndex, generative AI, LLMs, agent-based frameworks]
+    ml: [PyTorch, TensorFlow]
+    web: [APIs, microservices, enterprise integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: [AI risk assessment]
+    other: [GDPR]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7878450'
+  extracted_at: '2026-02-05T11:37:46.709666'

@@ -1,0 +1,55 @@
+company:
+  name: Saccharo AI
+  stage: Angel
+  focus: AI-powered RFP automation and proposal workflows
+  use_cases:
+  - Ingest and process unstructured RFP documents to identify must-win opportunities
+  - Generate AI-driven strategies and insights for sales proposals
+  - Automate RFP response workflows to reduce manual copy-paste work
+  - Provide grounded answers and content retrieval using RAG
+  - Help proposal managers focus on high-value strategic thinking instead of administrative
+    tasks
+position:
+  title: Lead Engineer (AI and Agent Development)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, fine-tuning, and deploying open-
+      weight LLMs, implementing RAG systems, and training
+      collaborative agentic models. This is hands-on work directly
+      on AI/ML systems, not just supporting infrastructure or data
+      pipelines for others.
+  responsibilities:
+  - Build & maintain data pipelines for ingestion, cleaning, and embedding of unstructured
+    proposal content
+  - Prototype, fine-tune, and evaluate open-weight LLMs; implement retrieval-augmented
+    generation (RAG) for grounded answers
+  - Deploy models behind scalable APIs and monitor latency, cost, and drift
+  - Embed responsible-AI controls (e.g., privacy, transparency, bias checks)
+  - Collaborate cross-functionally with product, sales, and customer SMEs to translate
+    user pain points into ML-powered features
+  - Mentor team members on best practices; contribute to engineering playbooks and
+    code review rituals
+  use_cases:
+  - Ingest and process unstructured RFP documents to identify must-win opportunities
+  - Generate AI-driven strategies and insights for sales proposals
+  - Automate RFP response workflows to reduce manual copy-paste work
+  - Provide grounded answers and content retrieval using RAG
+  - Help proposal managers focus on high-value strategic thinking instead of administrative
+    tasks
+  skills:
+    genai: [LLM, RAG, embeddings, agentic workflows]
+    ml: [PyTorch, TensorFlow, fine-tuning]
+    web: [FastAPI]
+    databases: [Pinecone, vector databases]
+    data: [Pandas]
+    cloud: []
+    ops: [Docker, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7008912'
+  extracted_at: '2026-02-05T10:05:18.873014'

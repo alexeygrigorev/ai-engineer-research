@@ -1,0 +1,60 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+  use_cases:
+  - Automating complex tasks and optimizing workflows across various domains
+  - Solving real-world problems through intelligent agents with autonomous decision-making
+    capabilities
+  - Enhancing decision-making through integration of LLMs and reinforcement learning
+    models
+  - Implementing multi-agent systems for collaborative problem-solving
+  - Automating task execution with minimal human intervention through perception and
+    reasoning modules
+position:
+  title: Senior AI Data Engineer- Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and optimizing AI
+      agents with minimal human intervention. Key responsibilities
+      include designing intelligent agents with perception,
+      reasoning, and action modules, integrating LLMs, and working
+      with agentic frameworks like LangChain and AutoGen.
+  responsibilities:
+  - Design and implement intelligent agents, including their perception, reasoning,
+    planning, and action execution modules
+  - Develop scalable and robust architectures for agentic systems, ensuring high performance,
+    reliability, and security
+  - Integrate various machine learning models including LLMs, reinforcement learning,
+    and predictive models to enhance agent capabilities
+  - Develop agents that can automate complex tasks, optimize workflows, and solve
+    real-world problems across various domains
+  - Utilize and contribute to agentic AI frameworks and development tools
+  - Design and implement metrics and evaluation strategies for agent performance,
+    continuously optimizing and improving agent behavior
+  use_cases:
+  - Automating complex tasks and optimizing workflows across various domains
+  - Solving real-world problems through intelligent agents with autonomous decision-making
+    capabilities
+  - Enhancing decision-making through integration of LLMs and reinforcement learning
+    models
+  - Implementing multi-agent systems for collaborative problem-solving
+  - Automating task execution with minimal human intervention through perception and
+    reasoning modules
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, RAG, LLMs, agents]
+    ml: [PyTorch, TensorFlow, scikit-learn, reinforcement learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Git]
+    languages: [Python, SQL, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8060348'
+  extracted_at: '2026-02-05T11:55:19.792723'

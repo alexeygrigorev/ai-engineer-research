@@ -1,0 +1,53 @@
+company:
+  name: GetYourGuide
+  stage: Series C+
+  focus: Travel experiences booking platform
+  use_cases:
+  - Support for diverse ML/AI use-cases across the travel platform including recommendation
+    systems
+  - Data products for travel experience optimization and personalization
+  - Production ML systems for improving traveler booking experiences and recommendations
+  - Scalable ML infrastructure for search, ranking, and personalization algorithms
+position:
+  title: Senior MLOps Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an MLOps role focused on building infrastructure,
+      tools, and platforms that enable ML/AI systems to go to
+      production. The engineer provides self-service tools and
+      automation for Data Products teams but does not directly
+      build, train, or deploy models themselves.
+  responsibilities:
+  - Design and implement systems and tools for scalable and efficient machine learning
+    solutions
+  - Increase the number of data products in production reliably while reducing time
+    to production and operational costs
+  - Partner with product teams to bring advanced algorithms into production following
+    MLOps best practices
+  - Build self-service tools and automation that enable diverse ML/AI use-cases across
+    the organization
+  - Provide tools and best practices to help Data Products teams build and maintain
+    production-ready ML/AI systems
+  use_cases:
+  - Support for diverse ML/AI use-cases across the travel platform including recommendation
+    systems
+  - Data products for travel experience optimization and personalization
+  - Production ML systems for improving traveler booking experiences and recommendations
+  - Scalable ML infrastructure for search, ranking, and personalization algorithms
+  skills:
+    genai: [LLMs, Generative AI]
+    ml: []
+    web: []
+    databases: [data warehouses]
+    data: [Spark, data engineering]
+    cloud: [cloud infrastructure]
+    ops: [MLOps, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8228041'
+  extracted_at: '2026-02-05T12:14:42.444673'

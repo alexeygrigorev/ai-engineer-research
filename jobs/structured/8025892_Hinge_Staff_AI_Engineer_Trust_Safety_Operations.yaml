@@ -1,0 +1,34 @@
+company:
+  name: Hinge
+  stage: Public
+  focus: Dating app connecting people
+  use_cases: []
+position:
+  title: Staff AI Engineer, Trust & Safety Operations
+  ai_type:
+    type: unknown
+    reasoning: |-
+      The job title mentions "AI Engineer" but the description
+      only contains salary information, benefits, and company
+      values. No technical responsibilities, required skills, or
+      AI-related work details are provided to determine if this
+      involves building models, deploying AI systems, or
+      supporting AI work.
+  responsibilities: []
+  use_cases: []
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8025892'
+  extracted_at: '2026-02-05T11:50:24.188964'

@@ -1,0 +1,58 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: AI computing and GPU technology
+  use_cases:
+  - GPU accelerated math libraries for AI kernel generation and HPC applications
+  - Emulation of math operations across different precision formats for scientific
+    computing
+  - Numerical dense linear algebra operations powering AI training and inference
+  - Support for applications in healthcare, NLP, VR, deep learning, and autonomous
+    vehicles
+  - Data center computing powered by GPUs for scientific and engineering simulations
+position:
+  title: Senior Math Libraries Engineer – Emulation in AI and HPC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on developing GPU math libraries and
+      numerical dense linear algebra software that enable AI
+      workloads, rather than directly building, training, or
+      deploying AI/ML models. The engineer works on foundational
+      infrastructure (CUDA kernels, precision emulation, hardware
+      optimization) that supports AI applications, making it an
+      enabling/support role.
+  responsibilities:
+  - Scoping, designing, and implementing high quality and performance numerical dense
+    linear algebra software on GPUs
+  - Providing technical leadership and feedback to library engineers and mentor interns
+    on projects
+  - Working closely with product management and internal/external customers to understand
+    requirements and define technical roadmaps
+  - Finding opportunities to improve library performance and reduce code maintenance
+    overhead through re-architecting
+  use_cases:
+  - GPU accelerated math libraries for AI kernel generation and HPC applications
+  - Emulation of math operations across different precision formats for scientific
+    computing
+  - Numerical dense linear algebra operations powering AI training and inference
+  - Support for applications in healthcare, NLP, VR, deep learning, and autonomous
+    vehicles
+  - Data center computing powered by GPUs for scientific and engineering simulations
+  skills:
+    genai: []
+    ml: [CUDA, CUTLASS]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [GPU architecture, CPU architecture]
+    languages: [C++, assembly programming, Python]
+    domains: [finite precision arithmetic, numerical methods, linear algebra, dense
+        linear algebra]
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7211789'
+  extracted_at: '2026-02-05T10:30:01.622134'

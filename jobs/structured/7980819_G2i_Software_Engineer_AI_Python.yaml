@@ -1,0 +1,55 @@
+company:
+  name: G2i
+  stage: null
+  focus: AI model training and code evaluation services
+  use_cases:
+  - Training large-language models to write production-grade code across multiple
+    programming languages
+  - RLHF pipeline for code generation and improvement
+  - Converting human code feedback into reward signals for reinforcement learning
+  - Automated code repair and refactoring
+  - Code quality evaluation and ranking at scale
+position:
+  title: Software Engineer, AI (Python)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct work with large-language models
+      through RLHF pipeline, providing code rankings, edits, and
+      feedback to train the model. The engineer is actively
+      participating in the model training process by generating
+      reward signals from code evaluations, which is directly
+      working ON AI systems.
+  responsibilities:
+  - Compare and rank multiple code snippets with explanations of which is best and
+    why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Maintain smooth operation of the RLHF pipeline for continuous model improvement
+  - Identify logic errors, performance traps, and security issues in AI-generated
+    code
+  - Provide clear written justifications for code evaluations to generate training
+    signals
+  use_cases:
+  - Training large-language models to write production-grade code across multiple
+    programming languages
+  - RLHF pipeline for code generation and improvement
+  - Converting human code feedback into reward signals for reinforcement learning
+  - Automated code repair and refactoring
+  - Code quality evaluation and ranking at scale
+  skills:
+    genai: [RLHF, LLMs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [code review, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7980819'
+  extracted_at: '2026-02-05T11:45:09.479032'

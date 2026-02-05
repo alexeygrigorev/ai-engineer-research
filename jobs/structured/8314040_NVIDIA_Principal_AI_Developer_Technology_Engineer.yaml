@@ -1,0 +1,56 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI acceleration hardware/software
+  use_cases:
+  - GPU acceleration of deep learning models including NLP, Computer Vision, and Recommender
+    Systems
+  - Optimization of AI workloads on advanced CPU and GPU architectures
+  - Parallel algorithm implementation for machine learning and deep learning applications
+  - Performance optimization of complex AI and HPC algorithms
+  - Real-time, cost-effective computing platform for AI workloads
+position:
+  title: Principal AI Developer Technology Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves GPU acceleration and optimization of
+      AI/deep learning workloads, including models from NLP, CV,
+      and recommender systems. The engineer works directly on
+      parallel algorithms for AI applications and performs low-
+      level performance optimizations on AI workloads, which is
+      hands-on work with AI systems rather than supporting
+      infrastructure.
+  responsibilities:
+  - Research and develop techniques to GPU accelerate workloads in deep learning,
+    machine learning and other AI domains
+  - Perform in-depth analysis and optimization of complex AI and HPC algorithms for
+    optimal performance on modern CPU and GPU architectures
+  - Publish and present optimization techniques in developer blogs or conferences
+    to educate the developer community
+  - Influence the design of next-generation hardware architectures, software, and
+    programming models through collaboration with NVIDIA teams
+  use_cases:
+  - GPU acceleration of deep learning models including NLP, Computer Vision, and Recommender
+    Systems
+  - Optimization of AI workloads on advanced CPU and GPU architectures
+  - Parallel algorithm implementation for machine learning and deep learning applications
+  - Performance optimization of complex AI and HPC algorithms
+  - Real-time, cost-effective computing platform for AI workloads
+  skills:
+    genai: []
+    ml: [GPU architecture, CPU architecture, deep learning, machine learning, linear
+        algebra]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CUDA, OpenACC, OpenMP, MPI, parallel programming, performance optimization]
+    languages: [C/C++, pthreads]
+    domains: [Natural Language Processing, Computer Vision, Recommender Systems]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8314040'
+  extracted_at: '2026-02-05T12:46:03.335219'

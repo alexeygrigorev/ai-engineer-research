@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection by informing customers about unusual charges
+  - Real-time customer question answering and support systems
+  - AI-powered tools that enhance how associates work internally
+  - Foundation model applications deployed across banking products and services
+  - Responsible and scalable AI systems serving millions of customers
+position:
+  title: Senior Lead AI Engineer (MLX)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems including foundation model training, LLM inference,
+      RAG components (similarity search), guardrails, and
+      optimization of large-scale production AI systems. The
+      engineer is directly responsible for implementing state-of-
+      the-art LLM techniques and deploying AI-powered products,
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that change
+    how associates work and customers interact with Capital One
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    experimentation, governance, and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies including AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve performance,
+    scalability, cost, latency, and throughput of large-scale production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Lead and mentor engineering teams while influencing cross-functional stakeholders
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Fraud detection by informing customers about unusual charges
+  - Real-time customer question answering and support systems
+  - AI-powered tools that enhance how associates work internally
+  - Foundation model applications deployed across banking products and services
+  - Responsible and scalable AI systems serving millions of customers
+  skills:
+    genai: [Hugging Face, Similarity search, RAG, Nemo Guardrails]
+    ml: [PyTorch, Foundation model training, Model evaluation]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [LLM inference, Model optimization, LLM optimization techniques, ML observability]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: [AI system design, AI governance]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8314728'
+  extracted_at: '2026-02-05T12:47:56.685186'

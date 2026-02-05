@@ -1,0 +1,61 @@
+company:
+  name: AHEAD
+  stage: null
+  focus: |-
+    Builds platforms for digital business and digital
+    transformation
+  use_cases:
+  - Automate document handling and processing workflows
+  - Streamline SDLC tasks and development lifecycle automation
+  - Enhance service desk actions and support ticket processing
+  - Automate reporting and decision support processes
+  - Enable enterprise system integrations with AI agents for business process automation
+position:
+  title: AI Engineer, AI Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on builder role developing and deploying
+      agentic AI solutions using LLM frameworks, multi-agent
+      workflows, and RAG systems. The engineer directly works on
+      implementing agents, configuring LLM endpoints, building
+      vector database pipelines, and deploying AI solutions to
+      clients.
+  responsibilities:
+  - Build and customize agents using frameworks such as LangChain, LangGraph, Autogen,
+    CrewAI, and LlamaIndex
+  - Develop and maintain vector DB pipelines and RAG-based retrieval workflows
+  - Implement real-time and batch workflows using Python, Kafka, EventBridge, Airflow,
+    and other data tools
+  - Build integrations with enterprise tools including SharePoint, Salesforce, ServiceNow,
+    Jira, and APIs
+  - Configure LLM/SLM endpoints, tool-calling functions, and agent memory/state handling
+  - Write tests for agent behavior, pipelines, and contribute to monitoring, logging,
+    and guardrail configurations
+  - Participate in client workshops, demos, and translate requirements into technical
+    working components
+  - Follow established patterns for security, governance, access control, data handling,
+    and responsible AI compliance
+  use_cases:
+  - Automate document handling and processing workflows
+  - Streamline SDLC tasks and development lifecycle automation
+  - Enhance service desk actions and support ticket processing
+  - Automate reporting and decision support processes
+  - Enable enterprise system integrations with AI agents for business process automation
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, CrewAI, LlamaIndex, RAG, agents, function
+        calling, prompt engineering, guardrails]
+    ml: []
+    web: [REST, APIs]
+    databases: [Pinecone, pgvector, Elasticsearch, Snowflake]
+    data: [Kafka, Airflow, Celery, S3, n8n]
+    cloud: [EventBridge, AWS, Azure, GCP]
+    ops: [Docker, monitoring, logging, CI/CD, MLflow]
+    languages: [Python]
+    domains: []
+    other: [SharePoint, Salesforce, ServiceNow, Jira]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7898925'
+  extracted_at: '2026-02-05T11:38:55.822455'

@@ -1,0 +1,57 @@
+company:
+  name: DATAPAO
+  stage: Series B
+  focus: Data engineering and AI consulting company
+  use_cases:
+  - End-to-end fully automated ML solutions on Databricks
+  - Production-ready Generative AI applications on Databricks platform
+  - Cloud migration and data architecture consulting
+  - MLOps implementation and ML lifecycle management
+  - Data lake architecture with Delta Lake and Unity Catalog
+  - Real-time data processing with Apache Spark
+position:
+  title: Principal AI Engineer (Databricks) - UK
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves spearheading Machine Learning and
+      generative AI projects on the Databricks platform, deploying
+      production-ready Generative AI applications, and working
+      directly with LLMs and their frameworks. This is hands-on
+      model deployment and AI solution implementation, not just
+      infrastructure or support.
+  responsibilities:
+  - Lead or participate in scoping engagements, designing high-level architecture,
+    defining subtasks, and project delivery schedules
+  - Deliver projects independently or as a technical lead within mixed DS/DE teams
+    while acting as client-facing SPOC
+  - Provide ML/DS consultancy to technical teams for EMEA customers, either direct
+    or via Databricks partnership
+  - Spearhead Machine Learning and generative AI projects on the Databricks platform
+    using latest technologies
+  - Recommend solutions leveraging Databricks or native cloud features based on client
+    needs analysis
+  - Conduct workshops to enable clients on Databricks and cloud platforms
+  use_cases:
+  - End-to-end fully automated ML solutions on Databricks
+  - Production-ready Generative AI applications on Databricks platform
+  - Cloud migration and data architecture consulting
+  - MLOps implementation and ML lifecycle management
+  - Data lake architecture with Delta Lake and Unity Catalog
+  - Real-time data processing with Apache Spark
+  skills:
+    genai: [Large Language Models]
+    ml: [deep learning frameworks, data science libraries]
+    web: []
+    databases: [SQL, Delta Lake, Unity Catalog]
+    data: [PySpark, data visualization, Spark]
+    cloud: [Databricks, AWS, Azure, GCP]
+    ops: [MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7952098'
+  extracted_at: '2026-02-05T11:44:00.958351'

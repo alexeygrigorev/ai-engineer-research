@@ -1,0 +1,61 @@
+company:
+  name: Encord
+  stage: Series B
+  focus: |-
+    AI infrastructure and data quality platform for computer
+    vision and Physical AI
+  use_cases:
+  - Data quality management for robotics and autonomous vehicles training
+  - Large-scale data annotation and curation for computer vision applications
+  - 3D scene rendering and visualization for spatial and sensor data
+  - Physical AI data infrastructure across healthcare, surveillance, retail, and agriculture
+  - Training data preparation and verification for computer vision and deep learning
+    models
+position:
+  title: Senior Full-Stack Engineer - Physical AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role building data
+      infrastructure and tooling for Physical AI applications
+      (robotics, autonomous vehicles). The role focuses on data
+      acquisition, 3D rendering, annotation tools, and web-scale
+      data processing - not building, training, or deploying AI
+      models. While working with ML models is mentioned, it's in
+      the context of integrating them into a broader data platform
+      rather than direct model development.
+  responsibilities:
+  - Build tools for the full Physical AI data stack including data acquisition, ingestion,
+    and curation at scale
+  - Develop 3D rendering, annotation, and verification capabilities for visual and
+    sensor data
+  - Solve problems of large-scale efficient data transfer and storage for complex
+    domain modeling
+  - Apply machine learning models and optimize performance in web browsers for 3D
+    scenes with thousands of objects
+  - Take end-to-end ownership from architectural decisions through deployment, monitoring,
+    and impact measurement
+  - Work across the full stack covering deployment, styling, and everything in between
+  use_cases:
+  - Data quality management for robotics and autonomous vehicles training
+  - Large-scale data annotation and curation for computer vision applications
+  - 3D scene rendering and visualization for spatial and sensor data
+  - Physical AI data infrastructure across healthcare, surveillance, retail, and agriculture
+  - Training data preparation and verification for computer vision and deep learning
+    models
+  skills:
+    genai: []
+    ml: [PyTorch, CUDA]
+    web: [React]
+    databases: []
+    data: [Ray]
+    cloud: [GCP]
+    ops: [Kubernetes]
+    languages: [Python, TypeScript]
+    domains: [3D rendering, computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8240002'
+  extracted_at: '2026-02-05T12:19:12.935198'

@@ -1,0 +1,64 @@
+company:
+  name: Valence
+  stage: Growth stage (venture-backed, Inc. 5000 fastest-growing, at growth inflection
+    point)
+  focus: AI-native leadership coaching platform for enterprise
+  use_cases:
+  - AI-powered personalized leadership coaching for enterprise employees
+  - Context-aware conversational interfaces that adapt to individual goals and organizational
+    culture
+  - Enterprise data transformation into actionable coaching insights
+  - High-stakes enterprise AI deployments delivering expert guidance and support
+  - AI-facilitated learning and development for Fortune 500 companies across healthcare,
+    financial services, manufacturing, and technology
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves developing, evaluating, and refining LLM-
+      based components, building enterprise-grade AI and
+      conversational systems, and working directly at the
+      intersection of generative AI research and product
+      execution. This is hands-on work building and deploying AI
+      models and conversational AI systems, not just supporting
+      infrastructure.
+  responsibilities:
+  - Architect and build enterprise-grade AI and conversational systems that power
+    coaching workflows and user experiences
+  - Develop, evaluate, and refine LLM-based components balancing performance, scalability,
+    and reliability in real use cases
+  - Integrate and manage diverse sources of structured and unstructured data to improve
+    contextual understanding and output quality
+  - Partner closely with product, engineering, and design to translate user needs
+    into impactful technical solutions
+  - Rapidly prototype and iterate on systems spanning backend services, data pipelines,
+    and frontend interactions
+  - Build tooling, tests, and automation to support reliable model deployment, observability,
+    and continuous improvement
+  - Help streamline data and science workflows enabling fast experimentation and data-driven
+    decisions
+  use_cases:
+  - AI-powered personalized leadership coaching for enterprise employees
+  - Context-aware conversational interfaces that adapt to individual goals and organizational
+    culture
+  - Enterprise data transformation into actionable coaching insights
+  - High-stakes enterprise AI deployments delivering expert guidance and support
+  - AI-facilitated learning and development for Fortune 500 companies across healthcare,
+    financial services, manufacturing, and technology
+  skills:
+    genai: [LLMs, generative AI]
+    ml: [NumPy, scikit-learn]
+    web: []
+    databases: [SQL]
+    data: [PySpark]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLflow, Weights & Biases]
+    languages: [Python]
+    domains: [NLP, conversational interfaces]
+    other: [matplotlib, Seaborn, Plotly]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8294889'
+  extracted_at: '2026-02-05T12:39:40.488336'

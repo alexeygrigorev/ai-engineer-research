@@ -1,0 +1,60 @@
+company:
+  name: AutoScout24
+  stage: null
+  focus: Online automotive marketplace platform
+  use_cases:
+  - AI-powered coding assistants to accelerate development and improve code quality
+  - AI tools for code reviews, automated documentation generation, and testing workflows
+  - Internal developer productivity tools leveraging LLMs for code generation, refactoring,
+    and debugging
+  - AI-first development practices integrated into the full software lifecycle
+  - Scalable GenAI adoption patterns and guardrails for enterprise engineering teams
+position:
+  title: Software Engineer / AI Enabler (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an "AI Enabler" role focused on multiplying
+      engineering productivity through GenAI tools usage, coaching
+      teams, and building internal developer-facing tools. The
+      role does not involve building, training, or deploying AI
+      models - instead it works near AI by integrating LLM APIs
+      and enabling AI-first practices across the organization.
+  responsibilities:
+  - Join one of our builders' teams to build great products loved by our customers
+  - 'Apply an AI-first mindset to every phase of you-build-it-you-run-it: from design
+    and coding to testing, deployment and operations'
+  - Work hands-on in real product codebases using GenAI tools to accelerate development,
+    improve quality and simplify existing systems
+  - Build and evolve AI-powered internal tools and workflows (assistants for coding,
+    reviews, documentation, testing) that engineers across AutoScout24 can rely on
+    every day
+  - 'Act as a multiplier and culture driver: coach teams on effective GenAI usage,
+    share patterns and anti-patterns, and help establish AI-first ways of working
+    across our engineering organization'
+  - 'Experiment, measure and improve: run small, data-informed experiments with teams,
+    learn what works in our context, and turn successful approaches into repeatable
+    standards and playbooks'
+  use_cases:
+  - AI-powered coding assistants to accelerate development and improve code quality
+  - AI tools for code reviews, automated documentation generation, and testing workflows
+  - Internal developer productivity tools leveraging LLMs for code generation, refactoring,
+    and debugging
+  - AI-first development practices integrated into the full software lifecycle
+  - Scalable GenAI adoption patterns and guardrails for enterprise engineering teams
+  skills:
+    genai: [GitHub Copilot, ChatGPT, Cursor, OpenAI API, Anthropic API, LLM APIs]
+    ml: []
+    web: [Node.js, Next.js, Spring Boot]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP, Azure OpenAI, Vertex AI]
+    ops: []
+    languages: [TypeScript, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8241313'
+  extracted_at: '2026-02-05T12:19:22.633335'

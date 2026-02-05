@@ -1,0 +1,54 @@
+company:
+  name: WorldQuant
+  stage: null
+  focus: |-
+    Systematic financial strategies and predictive signals for
+    global markets
+  use_cases:
+  - Building AI-driven applications to improve productivity across WorldQuant teams
+  - Developing company-wide tools and solutions for internal stakeholders
+  - Creating scalable AI products that address real-world business problems
+  - Leveraging AI and LLMs to enhance research and development workflows
+  - Implementing vector database solutions for AI-powered applications
+position:
+  title: AI Software Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is explicitly building AI-driven products with
+      strong applied AI orientation, requiring familiarity with
+      language models and vector databases. The responsibilities
+      include designing and building AI-driven applications and
+      staying current with LLM advancements, indicating hands-on
+      work with AI models rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Collaborate with cross-functional distributed teams to gather and analyze requirements
+  - Manage product deliverables and spec out technical requirements
+  - Design and build scalable AI-driven products addressing real-world business problems
+  - Stay current with the latest technical advancements in AI and LLMs
+  - Create company-wide applications to address colleagues' everyday productivity
+    needs
+  - Work with broad range of teams across WorldQuant to implement custom solutions
+  use_cases:
+  - Building AI-driven applications to improve productivity across WorldQuant teams
+  - Developing company-wide tools and solutions for internal stakeholders
+  - Creating scalable AI products that address real-world business problems
+  - Leveraging AI and LLMs to enhance research and development workflows
+  - Implementing vector database solutions for AI-powered applications
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: []
+    databases: [vector databases, SQL, Redis]
+    data: [Kafka]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6604377'
+  extracted_at: '2026-02-05T09:46:22.636957'

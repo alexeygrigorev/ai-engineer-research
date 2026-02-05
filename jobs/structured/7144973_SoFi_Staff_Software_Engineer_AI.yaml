@@ -1,0 +1,53 @@
+company:
+  name: SoFi
+  stage: Public
+  focus: Next-generation financial services company and national bank
+  use_cases:
+  - Embedding personalized financial insights into SoFi products
+  - Supporting members' financial journeys through AI-powered solutions
+  - Developing applications that leverage Large Language Models for practical financial
+    use cases
+  - Building agents and AI systems to enhance member experience in financial services
+position:
+  title: Staff Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building AI systems
+      including creating agents, MCP servers, fine-tuning models,
+      prompt engineering, and integrating Large Language Models.
+      This involves directly working on and deploying AI/ML models
+      and systems rather than just supporting infrastructure for
+      others.
+  responsibilities:
+  - Drive technical architecture, design decisions and cross-functional discussions
+    for the product
+  - Deliver highly available and scalable services in a production environment
+  - Lead the design, development and testing of systems and conduct code and system
+    design reviews
+  - Translate product requirements into user stories and technical solutions
+  - Mentor other engineers, support the technical culture, and help grow the team
+  - Develop and apply advanced AI technologies including agents, MCP servers, LLM
+    integration, and model fine-tuning
+  use_cases:
+  - Embedding personalized financial insights into SoFi products
+  - Supporting members' financial journeys through AI-powered solutions
+  - Developing applications that leverage Large Language Models for practical financial
+    use cases
+  - Building agents and AI systems to enhance member experience in financial services
+  skills:
+    genai: [Agents, MCP servers, prompt engineering, LLM integration]
+    ml: [fine tuning models]
+    web: [Spring, microservices]
+    databases: [PostgreSQL, relational databases, ORMs]
+    data: []
+    cloud: [AWS]
+    ops: [performance evaluation, Kubernetes]
+    languages: [Java, Kotlin, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7144973'
+  extracted_at: '2026-02-05T10:25:50.095835'

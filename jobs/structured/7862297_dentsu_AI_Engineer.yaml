@@ -1,0 +1,55 @@
+company:
+  name: dentsu
+  stage: Public
+  focus: Global advertising and marketing agency network
+  use_cases:
+  - Intelligent briefing assistants that streamline marketing workflows
+  - Content classifiers for organizing and categorizing marketing materials
+  - Creative generation tools for producing marketing content
+  - Automation of routine marketing and advertising tasks
+  - Workflow automation connecting disparate systems in the martech stack
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with GenAI systems -
+      building apps from prototype to production, designing
+      prompts, fine-tuning models, and implementing guardrails.
+      The engineer is directly building, deploying, and optimizing
+      AI solutions rather than supporting infrastructure or
+      platforms for others.
+  responsibilities:
+  - Build GenAI applications including briefing assistants, classifiers, and creative
+    generation tools from prototype to production
+  - Design and optimize prompts, fine-tune models when needed, and ensure reliable
+    outputs
+  - Create automation pipelines using workflow tools like n8n, Make, Zapier, and Copilot
+    Studio
+  - Integrate AI models with martech stack through APIs, webhooks, and custom scripts
+  - Monitor AI outputs, implement guardrails for brand safety, and ensure compliance
+    with data regulations
+  - Debug, document, and continuously improve AI solutions while iterating based on
+    user feedback
+  use_cases:
+  - Intelligent briefing assistants that streamline marketing workflows
+  - Content classifiers for organizing and categorizing marketing materials
+  - Creative generation tools for producing marketing content
+  - Automation of routine marketing and advertising tasks
+  - Workflow automation connecting disparate systems in the martech stack
+  skills:
+    genai: [OpenAI API, Anthropic API, prompt engineering, fine-tuning, Copilot Studio]
+    ml: []
+    web: [APIs, webhooks]
+    databases: []
+    data: [n8n, Make, Zapier, data integration]
+    cloud: []
+    ops: [version control]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7862297'
+  extracted_at: '2026-02-05T11:36:30.095118'

@@ -1,0 +1,54 @@
+company:
+  name: PointClickCare
+  stage: null
+  focus: GenAI platform for healthcare workflow automation
+  use_cases:
+  - Seamless delivery of AI-generated insights into agent workflows
+  - Integration of GenAI capabilities with existing products
+  - Safe and scalable AI product delivery
+  - Real-time monitoring and performance of GenAI workloads
+position:
+  title: Principal AI Platform Engineer (US)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building infrastructure and platforms
+      that enable GenAI capabilities rather than directly
+      building, training, or fine-tuning models. The
+      responsibilities emphasize platform components like model
+      gateways, vector databases, monitoring, and CI/CD pipelines
+      that support other teams working with AI.
+  responsibilities:
+  - Design, build, and maintain the core infrastructure layer supporting GenAI products,
+    including model gateways, prompt/versioning stores, vector databases, and LLM
+    evaluation tools
+  - Implement secure access controls and authentication mechanisms integrated by default
+    into the AI platform components
+  - Develop and manage observability, monitoring, and logging solutions for GenAI
+    workloads and infrastructure
+  - Collaborate closely with product and engineering teams to integrate GenAI infrastructure
+    with agent frameworks and downstream applications
+  - Optimize infrastructure for scalability, high availability, and cost efficiency
+    for production workloads
+  use_cases:
+  - Seamless delivery of AI-generated insights into agent workflows
+  - Integration of GenAI capabilities with existing products
+  - Safe and scalable AI product delivery
+  - Real-time monitoring and performance of GenAI workloads
+  skills:
+    genai: [prompt/versioning stores]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [Kubernetes, container security, OpenTelemetry, MLFlow, vLLM, SGLang, CI/CD,
+      authentication and authorization]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8213536'
+  extracted_at: '2026-02-05T12:14:13.197968'

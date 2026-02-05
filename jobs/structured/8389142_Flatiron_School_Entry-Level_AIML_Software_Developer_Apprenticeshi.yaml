@@ -1,0 +1,50 @@
+company:
+  name: Flatiron School
+  stage: Public
+  focus: Tech education and training provider
+  use_cases:
+  - Learning how engineering and data science intersect in modern AI products
+  - Building and shipping features for real user needs with product strategy alignment
+  - Applying data thinking to solve software engineering challenges
+  - Developing full-stack software development skills with AI/ML awareness
+position:
+  title: Entry-Level AI/ML Software Developer Apprenticeship - Bletchley Fellowship
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an entry-level apprenticeship focused on software
+      engineering with exposure to AI/ML and data science
+      concepts. The role involves contributing to general software
+      projects, attending a data science bootcamp, and learning
+      how data science intersects with engineering, but does not
+      involve hands-on building, training, fine-tuning, or
+      deploying AI models directly.
+  responsibilities:
+  - Attend and complete the Data Science Bootcamp as part of the apprenticeship
+  - Contribute to software projects for host company using modern frameworks and tools
+  - Write clean, maintainable, and testable code following best practices
+  - Collaborate in sprint-based workflows and participate in code reviews
+  - Support feature development, debugging, documentation, and QA processes
+  - Build portfolio of production-level work while receiving mentorship from senior
+    developers
+  use_cases:
+  - Learning how engineering and data science intersect in modern AI products
+  - Building and shipping features for real user needs with product strategy alignment
+  - Applying data thinking to solve software engineering challenges
+  - Developing full-stack software development skills with AI/ML awareness
+  skills:
+    genai: []
+    ml: []
+    web: [web development]
+    databases: [SQL, NoSQL]
+    data: [data science]
+    cloud: []
+    ops: [code review]
+    languages: [Python, JavaScript, Java]
+    domains: []
+    other: [debugging, testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8389142'
+  extracted_at: '2026-02-05T13:04:04.633620'

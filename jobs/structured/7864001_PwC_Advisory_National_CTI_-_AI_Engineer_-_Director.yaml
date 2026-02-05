@@ -1,0 +1,51 @@
+company:
+  name: PwC
+  stage: Public
+  focus: Professional services, data analytics, AI/ML consulting
+  use_cases:
+  - Extract insights from large datasets to drive data-driven decision making
+  - Develop predictive models for solving complex business problems
+  - Create data visualisations to enable informed decision-making and business growth
+  - Transform raw data into actionable insights for clients
+  - Manage large-scale AI solution development projects
+position:
+  title: Advisory National CT&I - AI Engineer - Director
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work designing, training,
+      and deploying machine learning models in production
+      environments. While it includes leadership responsibilities,
+      the core technical focus is on building AI systems, not just
+      supporting infrastructure or data pipelines for others.
+  responsibilities:
+  - Lead the design, training, and deployment of innovative machine learning models
+    in production environments
+  - Set the strategic direction for AI initiatives and drive business growth through
+    creative solutions
+  - Oversee the creation of scalable, cloud-native microservices and CI/CD pipelines
+  - Promote the reliability and maintainability of deployed AI systems
+  - Advocate the use of innovative technologies in AI and machine learning
+  - Foster a culture of continuous improvement and knowledge sharing within the team
+  use_cases:
+  - Extract insights from large datasets to drive data-driven decision making
+  - Develop predictive models for solving complex business problems
+  - Create data visualisations to enable informed decision-making and business growth
+  - Transform raw data into actionable insights for clients
+  - Manage large-scale AI solution development projects
+  skills:
+    genai: []
+    ml: [machine learning, predictive modeling, statistical analysis, ML frameworks]
+    web: [microservices]
+    databases: []
+    data: [data visualization]
+    cloud: [AWS, GCP, Azure, cloud-native]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI, AI governance]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7864001'
+  extracted_at: '2026-02-05T11:36:52.855545'

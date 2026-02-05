@@ -1,0 +1,51 @@
+company:
+  name: BetterHelp
+  stage: Series B+ (public company via Teladoc Health)
+  focus: Online therapy and mental health care platform
+  use_cases:
+  - Productionizing and scaling AI/ML products for mental health services
+  - Building deployment platforms for machine learning models in therapy applications
+  - Creating reusable data pipelines for ML model training and inference
+  - Enabling ML engineering capabilities for therapy service optimization
+position:
+  title: Staff ML/AI Platform Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role that focuses on building
+      infrastructure, frameworks, and deployment platforms for
+      ML/AI products. The responsibilities emphasize platform
+      work, pipelines, and assisting ML Engineers/Data Scientists
+      to deploy their models, rather than building, training, or
+      fine-tuning models directly.
+  responsibilities:
+  - Design, prototype and productionize scalable AI/machine learning models
+  - Develop frameworks, pipelines, libraries, utilities and tools that process massive
+    data for ML tasks
+  - Partner with ML engineers and data scientists to troubleshoot and optimize complex
+    ML pipelines
+  - Build model deployment platform that can simplify implementing new models
+  - Build end-to-end reusable pipelines from data acquisition to model output delivery
+  - Mentor and guide junior data scientists to deploy their models into production
+  use_cases:
+  - Productionizing and scaling AI/ML products for mental health services
+  - Building deployment platforms for machine learning models in therapy applications
+  - Creating reusable data pipelines for ML model training and inference
+  - Enabling ML engineering capabilities for therapy service optimization
+  skills:
+    genai: [LLMs]
+    ml: [model deployment, ML pipelines, feature stores]
+    web: []
+    databases: [Snowflake, DynamoDB]
+    data: [Airflow, data pipelines]
+    cloud: [AWS, SageMaker, AWS Lambda, ECR, S3]
+    ops: [ECS, Fargate, Docker, Terraform, CI/CD, distributed computing, load balancing,
+      autoscaling]
+    languages: [bash/shell scripting]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7875896'
+  extracted_at: '2026-02-05T11:37:30.590480'

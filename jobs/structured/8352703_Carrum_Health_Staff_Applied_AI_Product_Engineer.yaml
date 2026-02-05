@@ -1,0 +1,62 @@
+company:
+  name: Carrum Health
+  stage: Series B
+  focus: |-
+    Digital health platform transforming healthcare payment and
+    delivery through Centers of Excellence
+  use_cases:
+  - Care navigation quality and efficiency improvements through AI-powered agents
+  - Instant answer bots for patient inquiries and healthcare information
+  - Automated appointment logistics and scheduling assistance
+  - Healthcare coordination automation to reduce manual workflows
+  - Patient support systems that provide accurate clinical guidance
+  - AI-powered features that simplify the healthcare experience for patients
+position:
+  title: Staff Applied AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with LLMs, RAG pipelines, and agent
+      development. The engineer will directly build, deploy, and
+      optimize AI systems including vector database integration,
+      prompt engineering, and model evaluation - moving from demos
+      to production-ready AI features.
+  responsibilities:
+  - Architect and integrate LLM-driven features into the core healthcare platform,
+    building agents to support business initiatives
+  - Design and build robust RAG (Retrieval-Augmented Generation) pipelines, select
+    foundation models, and iterate on prompts
+  - Collaborate with DevOps to leverage AWS/Azure for cloud infrastructure deployment
+    and implement comprehensive monitoring and observability
+  - Partner with clinical experts to validate model outputs, ensuring AI agents are
+    safe, accurate, and helpful in healthcare settings
+  - Own AI engineering strategy including model evaluation, latency optimization,
+    cost management, and HIPAA compliance
+  - Champion Responsible AI by operationalizing guidelines for fairness checks, bias
+    detection, and safety guardrails
+  - Mentor the engineering team on AI-native development practices including prompt
+    engineering and context management
+  use_cases:
+  - Care navigation quality and efficiency improvements through AI-powered agents
+  - Instant answer bots for patient inquiries and healthcare information
+  - Automated appointment logistics and scheduling assistance
+  - Healthcare coordination automation to reduce manual workflows
+  - Patient support systems that provide accurate clinical guidance
+  - AI-powered features that simplify the healthcare experience for patients
+  skills:
+    genai: [LangChain, OpenAI API, Anthropic API, Llama, prompt engineering, RAG,
+      agents]
+    ml: [fine-tuning]
+    web: [React, Ruby on Rails, REST APIs]
+    databases: [vector databases, Pinecone, pgvector]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Terraform, monitoring, observability, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8352703'
+  extracted_at: '2026-02-05T12:58:20.490394'

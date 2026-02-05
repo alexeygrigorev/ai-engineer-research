@@ -1,0 +1,61 @@
+company:
+  name: hims & hers
+  stage: Public
+  focus: |-
+    Health and wellness platform providing personalized care,
+    from diagnosis to treatment delivery
+  use_cases:
+  - Conversational AI agents for health coaching and patient interactions
+  - Automated care workflows connecting EHR, pharmacy, payment, and order systems
+    for seamless healthcare delivery
+  - Health automation systems that intelligently route and process patient care requests
+  - AI-powered logistics and fulfillment optimization for healthcare products
+  - Real-time patient support and guidance through intelligent conversational experiences
+position:
+  title: Sr. Full-Stack Engineer, Applied AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building infrastructure, orchestration
+      systems, SDKs, and evaluation pipelines that enable AI
+      workloads rather than directly building, training, or fine-
+      tuning models. The engineer builds the platforms and tools
+      that support AI researchers and data scientists, including
+      workflow orchestration, observability systems, and unified
+      AI gateways.
+  responsibilities:
+  - Design and build scalable AI workflow systems including orchestration runtimes,
+    SDKs, and observability pipelines for real-time intelligent experiences
+  - Develop end-to-end features using TypeScript (Cloudflare Workers, React/Next.js)
+    and Python (Databricks, evaluation, data processing)
+  - Integrate and evaluate LLMs and ML systems through a unified AI Gateway, connecting
+    OpenAI, Anthropic, Vertex, and Databricks
+  - Build tool connectors and APIs for internal domains including EHR, Pharmacy, Payments,
+    Orders, and Care to enable safe automated workflows
+  - Develop evaluation and feedback systems that measure quality, grounding, latency,
+    and safety of AI-powered flows
+  - Contribute to shared TypeScript and Python SDKs that standardize event schemas,
+    tool contracts, and developer experience across Applied AI
+  use_cases:
+  - Conversational AI agents for health coaching and patient interactions
+  - Automated care workflows connecting EHR, pharmacy, payment, and order systems
+    for seamless healthcare delivery
+  - Health automation systems that intelligently route and process patient care requests
+  - AI-powered logistics and fulfillment optimization for healthcare products
+  - Real-time patient support and guidance through intelligent conversational experiences
+  skills:
+    genai: [OpenAI API, Anthropic API, RAG, prompt engineering]
+    ml: []
+    web: [React, Next.js]
+    databases: [vector stores, BigQuery]
+    data: [Databricks, workflow orchestration, data pipelines]
+    cloud: [Cloudflare Workers, AWS, Vertex AI]
+    ops: [observability]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7712672'
+  extracted_at: '2026-02-05T11:21:58.363393'

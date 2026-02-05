@@ -1,0 +1,55 @@
+company:
+  name: Reedsy
+  stage: Series B
+  focus: Publishing platform and marketplace for authors
+  use_cases:
+  - Narrative co-pilot to assist authors in storytelling and writing
+  - Visual storyboarding assistant to help authors visualize scenes and plot
+  - Automated workflow tools to streamline repetitive publishing tasks
+  - AI-powered enhancements to book discovery and writing applications
+  - Intelligent features that support creativity without replacing human authors
+position:
+  title: AI Engineer - Remote Europe
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on AI engineering requiring direct work
+      with LLMs, including prompt engineering, fine-tuning, RAG
+      implementation, and building AI-powered tools like narrative
+      co-pilots. The engineer owns the full lifecycle from
+      modeling to deployment, which is characteristic of ai-first
+      roles.
+  responsibilities:
+  - Design and implement AI-powered tools for authors such as narrative co-pilots
+    and visual storyboarding assistants
+  - Improve internal workflows by automating repetitive tasks and enhancing UX across
+    products
+  - Build internal tools for AI development including evaluation benchmarks and automated
+    testing
+  - Collaborate closely with engineers and operations teams to identify high-impact
+    AI opportunities
+  - Own the full AI/ML lifecycle from modeling and evaluation to deployment and go-to-market
+    execution
+  use_cases:
+  - Narrative co-pilot to assist authors in storytelling and writing
+  - Visual storyboarding assistant to help authors visualize scenes and plot
+  - Automated workflow tools to streamline repetitive publishing tasks
+  - AI-powered enhancements to book discovery and writing applications
+  - Intelligent features that support creativity without replacing human authors
+  skills:
+    genai: [Large Language Models, Prompt Engineering, Fine-tuning, Retrieval-Augmented
+        Generation, LangChain, LlamaIndex, Orchestration frameworks]
+    ml: [Embeddings]
+    web: []
+    databases: [Vector databases, Elasticsearch]
+    data: []
+    cloud: [Google Cloud Platform]
+    ops: [AI deployment]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7771933'
+  extracted_at: '2026-02-05T11:25:52.058854'

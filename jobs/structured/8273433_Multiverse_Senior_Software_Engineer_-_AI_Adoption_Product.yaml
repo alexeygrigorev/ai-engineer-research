@@ -1,0 +1,57 @@
+company:
+  name: Multiverse
+  stage: Series D
+  focus: AI and tech upskilling platform for workforce development
+  use_cases:
+  - Deliver personalized, role- and tool-specific AI use cases to enterprise employees
+  - Provide AI upskilling at scale with enhanced social features and measurable ROI
+  - Help major global companies adopt AI tools and improve workforce productivity
+  - Track and demonstrate ROI improvements through AI-driven productivity gains
+  - Transform workforce capabilities through software and services delivering essential
+    AI and data skills
+position:
+  title: Senior Software Engineer - AI Adoption Product
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software engineering role building an AI adoption
+      platform for workforce training. The role involves full-
+      stack development (Python, TypeScript, React, Elixir, AWS)
+      to deliver AI upskilling products and personalized AI use
+      cases, but does not involve building, training, or deploying
+      AI models itself. The engineer is building the software
+      platform that delivers AI education and training content to
+      end users, working near AI rather than directly on AI
+      systems.
+  responsibilities:
+  - Build and iterate on new features for the AI Adoption Platform from scratch
+  - Work collaboratively with cross-functional teams to design and develop new products
+  - Choose appropriate tools and technologies from the stack (Python, TypeScript,
+    React, Elixir, AWS)
+  - Work across the full development lifecycle from requirements to deployment and
+    ongoing support
+  - Quickly iterate on product improvements based on customer feedback
+  - Mentor and support other team members in a highly collaborative environment
+  use_cases:
+  - Deliver personalized, role- and tool-specific AI use cases to enterprise employees
+  - Provide AI upskilling at scale with enhanced social features and measurable ROI
+  - Help major global companies adopt AI tools and improve workforce productivity
+  - Track and demonstrate ROI improvements through AI-driven productivity gains
+  - Transform workforce capabilities through software and services delivering essential
+    AI and data skills
+  skills:
+    genai: []
+    ml: []
+    web: [React]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, TypeScript, Elixir]
+    domains: []
+    other: [AI-assisted development tools, Cross-functional product development]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8273433'
+  extracted_at: '2026-02-05T12:28:31.331426'

@@ -1,0 +1,57 @@
+company:
+  name: Hatch
+  stage: Series B
+  focus: AI-driven customer service platform
+  use_cases:
+  - AI-powered customer service automation and transformation
+  - AI agent-driven customer engagement systems
+  - End-to-end user interfaces for AI customer service platform
+  - Backend infrastructure supporting AI-driven customer interactions
+  - Real-time customer service AI deployment and monitoring
+position:
+  title: Senior Software Engineer-AI Agents
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role building web
+      applications, backend APIs, and data models that support
+      Hatch's AI-driven customer service platform. The engineer is
+      not building, training, fine-tuning, or deploying AI agents
+      themselves, but rather creating the infrastructure and user-
+      facing experiences that enable the AI systems to function
+      and be delivered to customers.
+  responsibilities:
+  - Design, build, and ship user-facing functionality spanning React web applications,
+    backend APIs, and databases
+  - Develop APIs and services that are reliable, well-structured, and easy for other
+    engineers to extend
+  - Implement clean, maintainable React components and patterns that support usability,
+    accessibility, and long-term velocity
+  - Create intuitive schemas and query patterns that serve both product needs and
+    developer productivity
+  - Define conventions and make architectural decisions that balance speed, quality,
+    and maintainability across the stack
+  - Support engineers working in both backend and frontend areas, growing full-stack
+    fluency and technical ownership
+  use_cases:
+  - AI-powered customer service automation and transformation
+  - AI agent-driven customer engagement systems
+  - End-to-end user interfaces for AI customer service platform
+  - Backend infrastructure supporting AI-driven customer interactions
+  - Real-time customer service AI deployment and monitoring
+  skills:
+    genai: []
+    ml: []
+    web: [React, APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [cloud]
+    ops: [DevOps, deployment, monitoring]
+    languages: [TypeScript, JavaScript, Elixir, Go, Java, Python]
+    domains: []
+    other: [functional programming]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7300850'
+  extracted_at: '2026-02-05T10:34:58.478018'

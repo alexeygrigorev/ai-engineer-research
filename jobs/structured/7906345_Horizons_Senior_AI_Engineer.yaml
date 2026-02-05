@@ -1,0 +1,62 @@
+company:
+  name: Horizons
+  stage: null
+  focus: |-
+    Workforce management platform for global payroll, benefits,
+    taxes, and compliance
+  use_cases:
+  - Global payroll processing and management
+  - Employee benefits administration
+  - Tax compliance and management across jurisdictions
+  - Workforce hiring and onboarding automation
+  - HR administrative task automation
+  - Compliance checking and validation for international employment
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying LLMs
+      and RAG solutions, including model training, data pipeline
+      design, and cloud infrastructure deployment. This is direct
+      work on AI systems rather than supporting infrastructure or
+      general software engineering.
+  responsibilities:
+  - Implement the company's AI strategy, setting the foundation for AI initiatives
+    across the organization
+  - Lead the design, development, and rollout of Large Language Models (LLMs) and
+    Retrieval-Augmented Generation (RAG) based solutions
+  - Participate in design and management of data pipelines for efficient data collection,
+    preprocessing, and model training
+  - Develop and deploy AI models and solutions into the company's cloud infrastructure,
+    ensuring scalability, security, and performance
+  - Ensure the integrity, quality, and availability of data for training and inference
+  - Work closely with cross-functional teams to integrate AI capabilities into products
+    and services
+  - Identify and prioritize areas where AI and machine learning models can add value
+    to business processes, products, and operations
+  - Educate and guide stakeholders on the potential applications of AI, fostering
+    a culture of innovation
+  use_cases:
+  - Global payroll processing and management
+  - Employee benefits administration
+  - Tax compliance and management across jurisdictions
+  - Workforce hiring and onboarding automation
+  - HR administrative task automation
+  - Compliance checking and validation for international employment
+  skills:
+    genai: [LLMs, RAG]
+    ml: [TensorFlow, PyTorch]
+    web: []
+    databases: [database management]
+    data: [data pipelines, data wrangling]
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [MLOps, distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7906345'
+  extracted_at: '2026-02-05T11:40:21.914118'

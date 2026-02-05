@@ -1,0 +1,63 @@
+company:
+  name: Mutiny
+  stage: Series B
+  focus: Agentic GTM platform for enterprise sales and marketing
+  use_cases:
+  - AI-powered Campaign Builder that lets marketers and sellers generate, edit, and
+    launch personalized campaigns across accounts
+  - Agentic GTM platform that unifies sales and marketing to help companies close
+    enterprise deals faster
+  - Conversational AI collaboration enabling enterprise teams to go from idea to personalized
+    assets with speed and trust
+  - Personalized marketing and sales experiences delivered at scale through AI agents
+    and creative workflows
+  - Brand consistency enforcement through AI guardrails in campaign generation
+position:
+  title: Senior Software Engineer (AI Products)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building an AI agent that helps sales and
+      marketing teams create personalized campaigns, working
+      directly with agent networks and LLM-powered features. The
+      engineer will architect and own key functionality of AI
+      Agent experiences, implementing features that leverage RAG,
+      vector databases, LangChain, and agent frameworks to deliver
+      agentic GTM capabilities.
+  responsibilities:
+  - Build across the full stack to deliver a world-class AI agent that helps sales
+    and marketing teams create breakthrough experiences
+  - Work with AI tooling including cloud-based coding agents and agent networks to
+    develop AI-powered features
+  - Collaborate closely with design and product to build AI-powered features that
+    drive real customer value
+  - Build scalable and resilient systems on top of the inherently non-deterministic
+    nature of LLMs
+  - Help grow the engineering team to tackle the AI platform opportunity
+  - Contribute to engineering excellence and work at the bleeding edge of AI development
+  use_cases:
+  - AI-powered Campaign Builder that lets marketers and sellers generate, edit, and
+    launch personalized campaigns across accounts
+  - Agentic GTM platform that unifies sales and marketing to help companies close
+    enterprise deals faster
+  - Conversational AI collaboration enabling enterprise teams to go from idea to personalized
+    assets with speed and trust
+  - Personalized marketing and sales experiences delivered at scale through AI agents
+    and creative workflows
+  - Brand consistency enforcement through AI guardrails in campaign generation
+  skills:
+    genai: [RAG, LangChain, agent frameworks, LLMs]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4476482'
+  extracted_at: '2026-02-05T09:40:13.224746'

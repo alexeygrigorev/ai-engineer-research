@@ -1,0 +1,58 @@
+company:
+  name: Ramp
+  stage: Series C+ (unicorn status)
+  focus: |-
+    Financial operations platform with AI-powered corporate
+    cards, bill payments, and spend management
+  use_cases:
+  - AI Agents for automating financial operations and workflows
+  - Retrieval-Augmented Generation (RAG) for intelligent document and data processing
+  - Structured Extraction for parsing financial documents and data
+  - Internal tooling for customer-facing teams to enhance productivity
+  - Fine-tuned models for finance-specific applications
+  - LLM-powered intelligence for payments, corporate cards, vendor management, and
+    automated bookkeeping
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI systems including
+      building AI Agents, implementing RAG, fine-tuning models,
+      and creating LLM inference infrastructure. The engineer will
+      work directly on production LLM applications rather than
+      just supporting infrastructure for others.
+  responsibilities:
+  - Ship full-stack AI projects end to end from concept to production
+  - Build and integrate components for AI infrastructure supporting production-level
+    inference and fine-tuning
+  - Develop and improve engineering processes, tools, and systems to scale AI solutions
+    across Ramp
+  - Create tools and internal platforms to enhance the productivity and capabilities
+    of Ramp's AI and engineering teams
+  - Work on AI Agents, Retrieval-Augmented Generation, and Structured Extraction projects
+  - Fine-tune models and build infrastructure for LLM inference
+  use_cases:
+  - AI Agents for automating financial operations and workflows
+  - Retrieval-Augmented Generation (RAG) for intelligent document and data processing
+  - Structured Extraction for parsing financial documents and data
+  - Internal tooling for customer-facing teams to enhance productivity
+  - Fine-tuned models for finance-specific applications
+  - LLM-powered intelligence for payments, corporate cards, vendor management, and
+    automated bookkeeping
+  skills:
+    genai: [RAG, AI Agents, LLMs, fine-tuning]
+    ml: []
+    web: [full-stack development, web frameworks, backend systems]
+    databases: []
+    data: []
+    cloud: [cloud infrastructure]
+    ops: [inference]
+    languages: [Python]
+    domains: []
+    other: [Structured Extraction]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8178250'
+  extracted_at: '2026-02-05T12:09:21.400092'

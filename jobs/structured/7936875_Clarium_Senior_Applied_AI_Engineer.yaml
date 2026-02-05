@@ -1,0 +1,60 @@
+company:
+  name: Clarium
+  stage: Series A
+  focus: AI-powered healthcare workflow automation platform
+  use_cases:
+  - Healthcare supply chain operations optimization through data-driven insights
+  - Intelligent workflow automation for daily operational and administrative tasks
+    in hospitals
+  - Automating routine hospital operations to surface only high-complexity issues
+    requiring human expertise
+  - AI-powered software providing actionable insights to healthcare providers
+  - Reducing manual processes and improving efficiency for healthcare workers with
+    AI-driven tools
+position:
+  title: Senior Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an Applied AI Engineer role that involves building
+      AI applications, integrating with proprietary LLM APIs, and
+      implementing AI agents. The role requires hands-on
+      experience deploying AI applications and working directly
+      with LLM APIs (OpenAI, Anthropic) rather than just
+      supporting infrastructure.
+  responsibilities:
+  - Architect and develop robust backend systems to integrate with proprietary LLM
+    APIs
+  - Take ownership of critical system components, from backend APIs to AI agent implementation
+  - Design and develop scalable back-end services using Python and FastAPI
+  - Collaborate with internal product managers and customers to align product development
+    with real-world needs
+  - Build secure, scalable, and high-performance AI applications that improve healthcare
+    supply chain operations
+  - Own significant components of AI infrastructure and drive measurable improvements
+    in system performance and capability
+  use_cases:
+  - Healthcare supply chain operations optimization through data-driven insights
+  - Intelligent workflow automation for daily operational and administrative tasks
+    in hospitals
+  - Automating routine hospital operations to surface only high-complexity issues
+    requiring human expertise
+  - AI-powered software providing actionable insights to healthcare providers
+  - Reducing manual processes and improving efficiency for healthcare workers with
+    AI-driven tools
+  skills:
+    genai: [OpenAI API, Anthropic API, LLM APIs]
+    ml: []
+    web: [FastAPI, RESTful APIs]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [Kubernetes, Terraform]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7936875'
+  extracted_at: '2026-02-05T11:42:34.324302'

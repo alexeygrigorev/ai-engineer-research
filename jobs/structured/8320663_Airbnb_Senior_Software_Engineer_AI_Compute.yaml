@@ -1,0 +1,49 @@
+company:
+  name: Airbnb
+  stage: Public
+  focus: Online marketplace for lodging and experiences
+  use_cases:
+  - Provide GPU platform infrastructure for ML teams to train and deploy models
+  - Enable AI Compute features related to security, networking, and operational efficiency
+  - Support ML engineering experience with reliable and scalable compute infrastructure
+  - Power Airbnb's AI capabilities through Kubernetes-based GPU platform management
+position:
+  title: Senior Software Engineer, AI Compute
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building and operating GPU infrastructure and
+      Kubernetes platforms that support ML teams, not directly
+      working with models themselves. The focus is on enabling ML
+      teams through platform capabilities, security, networking,
+      and developer experience rather than building, training, or
+      deploying models/agents.
+  responsibilities:
+  - Provide technical leadership on high-impact projects and coach distributed teams
+    of engineers
+  - Drive reliability, cost efficiency, and capability enhancements for the GPU fleet
+  - Design, develop, test, deploy, maintain, and enhance the Airbnb AI Compute Platform
+  - Influence cross-team alignment on goals, outcomes, and timelines
+  - Manage project priorities, deadlines, and deliverables across multiple teams
+  - Execute the multi-year strategy for Airbnb's Kubernetes-based GPU platform
+  use_cases:
+  - Provide GPU platform infrastructure for ML teams to train and deploy models
+  - Enable AI Compute features related to security, networking, and operational efficiency
+  - Support ML engineering experience with reliable and scalable compute infrastructure
+  - Power Airbnb's AI capabilities through Kubernetes-based GPU platform management
+  skills:
+    genai: [LLM fundamentals, LLM tuning]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure, Infrastructure as a Service]
+    ops: [Kubernetes, LLM optimization, GPU fleet management]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8320663'
+  extracted_at: '2026-02-05T12:50:43.796914'

@@ -1,0 +1,51 @@
+company:
+  name: BetterUp
+  stage: Series D or later
+  focus: AI-powered coaching and professional development platform
+  use_cases:
+  - AI-powered coaching experiences that combine human expertise with AI capability
+  - Personalized coaching interventions to help individuals maximize their potential
+  - Generative AI systems for professional development and growth
+  - Human-centered AI products that deliver meaningful coaching value
+  - Responsible AI applications in workplace coaching and transformation
+position:
+  title: Staff Machine Learning Engineer, AI Product and Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on ML engineer role focused on building and
+      deploying Generative AI systems using LLMs. The candidate
+      will design, implement, fine-tune, and evaluate LLM-based
+      products, directly working on AI models and bringing them to
+      production.
+  responsibilities:
+  - Design and deliver state-of-the-art Generative AI systems and experiences for
+    coaching
+  - Mentor engineers through technical guidance, code reviews, and design partnership
+  - Collaborate with cross-functional teams to ship and scale AI coaching products
+  - Translate customer needs into technical strategy and product roadmaps
+  - Stay ahead of Generative AI research and lead conversations on emerging technologies
+  - Implement, evaluate, and fine-tune LLM outputs to improve quality and scalability
+  use_cases:
+  - AI-powered coaching experiences that combine human expertise with AI capability
+  - Personalized coaching interventions to help individuals maximize their potential
+  - Generative AI systems for professional development and growth
+  - Human-centered AI products that deliver meaningful coaching value
+  - Responsible AI applications in workplace coaching and transformation
+  skills:
+    genai: [LLMs, Generative AI, fine-tuning, foundation models, LLM internals, prompt
+        engineering]
+    ml: [machine learning, applied ML/AI, model evaluation]
+    web: [software engineering]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8201143'
+  extracted_at: '2026-02-05T12:13:12.544952'

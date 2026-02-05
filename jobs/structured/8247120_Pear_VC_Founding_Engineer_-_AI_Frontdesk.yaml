@@ -1,0 +1,58 @@
+company:
+  name: Pear VC
+  stage: Seed
+  focus: |-
+    AI-powered SMB customer revenue platform with AI agents for
+    customer interactions
+  use_cases:
+  - AI receptionists handling customer conversations for SMBs
+  - AI agents managing all customer interactions from acquisition to retention
+  - Intelligence layer learning from every customer interaction to improve outcomes
+  - Outbound AI driving real revenue growth for small businesses
+  - Unified SMB platform managing customer operations end-to-end
+position:
+  title: Founding Engineer - AI Frontdesk
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack founding engineer role at an AI
+      company, but the responsibilities focus on building the
+      application infrastructure, internal tools, and customer-
+      facing features rather than working directly on AI models.
+      The AI layer appears to be pre-built or integrated via APIs
+      (Twilio, LiveKit), with the engineer's role being to patch
+      AI logic and build around it rather than build/train/fine-
+      tune models themselves.
+  responsibilities:
+  - Ship revenue-generating features used by hundreds of SMBs from prototype to production
+  - Work across the full technology stack including TypeScript, React, FastAPI, Postgres,
+    Twilio, and LiveKit
+  - Patch and debug critical AI logic that impacts call quality and customer experience
+  - Build internal tools and systems that accelerate go-to-market speed and operations
+  - Engage directly with customers through sales calls, support interactions, and
+    product demos
+  - Own large product surface areas including lead capture workflows, analytics, and
+    integrations
+  - Architect key system components and shape engineering culture as the team scales
+  use_cases:
+  - AI receptionists handling customer conversations for SMBs
+  - AI agents managing all customer interactions from acquisition to retention
+  - Intelligence layer learning from every customer interaction to improve outcomes
+  - Outbound AI driving real revenue growth for small businesses
+  - Unified SMB platform managing customer operations end-to-end
+  skills:
+    genai: []
+    ml: []
+    web: [React, FastAPI, Twilio, LiveKit]
+    databases: [Postgres]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8247120'
+  extracted_at: '2026-02-05T12:21:22.518122'

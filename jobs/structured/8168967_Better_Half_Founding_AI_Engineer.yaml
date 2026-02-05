@@ -1,0 +1,62 @@
+company:
+  name: Better Half
+  stage: Seed
+  focus: Trustworthy AI for high-stakes relational domains
+  use_cases:
+  - High-stakes relational AI for mental health, consumer social, robotics, defense,
+    and education
+  - Trustworthy AI systems that optimize for user thriving rather than engagement
+  - Real-time conversation systems that provide appropriate pushback, softening, or
+    repair interventions
+  - Multi-modal emotion detection and escalation tracking in conversation contexts
+  - Long-term modeling of user growth trajectories and relational capacity across
+    sessions
+position:
+  title: Founding AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building an
+      orchestration engine for LLMs that translates relational
+      intelligence decisions into natural conversation. The
+      engineer will work directly on prompt engineering,
+      constrained generation, multi-model LLM orchestration, and
+      transformer-based emotion analysis - all hands-on AI/ML
+      system building work.
+  responsibilities:
+  - Build affect analysis pipeline with real-time emotion detection and multi-modal
+    sentiment analysis
+  - Develop memory systems for storing and retrieving relational context across sessions
+  - Engineer prompt systems and constrained generation that translates decisions into
+    natural conversation
+  - Implement multi-model LLM orchestration with latency optimization and fallback
+    strategies
+  - Design and deploy cloud infrastructure on AWS/GCP with PostgreSQL and vector stores
+  - Build evaluation harnesses that measure relational outcomes through tracing and
+    feedback loops
+  use_cases:
+  - High-stakes relational AI for mental health, consumer social, robotics, defense,
+    and education
+  - Trustworthy AI systems that optimize for user thriving rather than engagement
+  - Real-time conversation systems that provide appropriate pushback, softening, or
+    repair interventions
+  - Multi-modal emotion detection and escalation tracking in conversation contexts
+  - Long-term modeling of user growth trajectories and relational capacity across
+    sessions
+  skills:
+    genai: [prompt engineering, constrained generation, LLM orchestration]
+    ml: [Transformer models, sentiment/emotion classifiers, reinforcement learning,
+      multimodal inputs]
+    web: []
+    databases: [PostgreSQL, vector stores]
+    data: []
+    cloud: [AWS, GCP]
+    ops: []
+    languages: [Python, async, Rust]
+    domains: [utility theory, behavioral economics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8168967'
+  extracted_at: '2026-02-05T12:08:45.379816'

@@ -1,0 +1,68 @@
+company:
+  name: VYNYL
+  stage: null
+  focus: |-
+    System modernization and new product development using
+    cloud-native and AI-enabled tools for regulated industries
+  use_cases:
+  - Detecting diseases through AI-enabled diagnostic tools
+  - Identifying children who need special educational support
+  - Applying AI to support complex legal settlements
+  - Helping people access mental health services
+  - System modernization and new product development for regulated industries including
+    healthcare, financial services, government, and education
+position:
+  title: Senior Full Stack Engineer (Python, Serverless, AI Fluency)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Senior Full Stack Engineer focused on building
+      serverless backend services using Python and AWS. While it
+      requires fluency with AI/ML development tools (GitHub
+      Copilot, Claude Code, agentic coding tools, LLMs) for
+      software development productivity, these are used as aids to
+      write and review code rather than building, deploying, or
+      fine-tuning AI/ML models themselves. The engineer works ON
+      applications that may leverage AI services, but the primary
+      responsibility is software engineering and infrastructure
+      development, not AI/ML model development.
+  responsibilities:
+  - Lead the design and implementation of highly scalable, cost-efficient serverless
+    backend services using Python and AWS services including Lambda, API Gateway,
+    DynamoDB, SQS, and EventBridge
+  - Architect and build event-sourced systems and event-driven pipelines, ensuring
+    reliable message processing, idempotency, and eventual consistency across distributed
+    services
+  - Collaborate with product managers and designers to translate requirements into
+    technical designs and shippable code
+  - Implement best practices for security, logging, monitoring, and infrastructure-as-code
+    using Terraform or CloudFormation
+  - Perform rigorous code reviews, mentor junior and mid-level engineers, and drive
+    technical excellence across the team
+  - Actively research, propose, and integrate new technologies and patterns, with
+    a focus on optimizing development velocity and system performance
+  - Clearly articulate a professional point of view on how to effectively, securely,
+    and ethically integrate AI tools into the software development lifecycle
+  use_cases:
+  - Detecting diseases through AI-enabled diagnostic tools
+  - Identifying children who need special educational support
+  - Applying AI to support complex legal settlements
+  - Helping people access mental health services
+  - System modernization and new product development for regulated industries including
+    healthcare, financial services, government, and education
+  skills:
+    genai: [GitHub Copilot, Claude Code, Agentic Coding Tools, Large Language Models]
+    ml: []
+    web: [API Gateway, React, Vue, Angular]
+    databases: [DynamoDB]
+    data: []
+    cloud: [AWS Lambda, SQS, EventBridge, Kinesis]
+    ops: [Terraform, CloudFormation, CI/CD]
+    languages: [Python, Node.js, TypeScript]
+    domains: []
+    other: [Event Sourcing, Event-Driven Architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8389528'
+  extracted_at: '2026-02-05T13:04:18.242210'

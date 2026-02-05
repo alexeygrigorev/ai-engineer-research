@@ -1,0 +1,60 @@
+company:
+  name: hyperexponential
+  stage: Series B
+  focus: AI-powered platform for insurance pricing and underwriting
+  use_cases:
+  - AI-powered insurance pricing and underwriting platform
+  - Domain-specific AI peer programmer for actuarial science
+  - Agentic workflows that reinvent insurance industry operations
+  - AI-powered documentation search and question-answering systems
+  - Automated validation of documentation content
+  - AI-assisted content authoring workflows
+position:
+  title: Senior Technical Writer/Documentation Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Technical Writer/Documentation Engineer role
+      focused on creating documentation that supports AI-powered
+      products and agentic workflows. The role involves designing
+      AI-assisted authoring workflows and building content
+      pipelines for AI-powered search, but does not involve
+      building, training, deploying, or fine-tuning AI models
+      directly.
+  responsibilities:
+  - Designing and delivering structured, AI-powered documentation that makes hx products
+    easy to understand, adopt, and scale
+  - Implementing documentation standards, workflows, and governance across teams to
+    ensure consistency and discoverability
+  - Partnering with engineering, product, and customer teams to capture knowledge
+    and translate it into accessible content
+  - Building content pipelines and structures that support AI-powered search, question-answering,
+    and automated validation
+  - Introducing and refining automation and feedback mechanisms to continuously improve
+    documentation quality
+  - Driving adoption of documentation practices that reduce support needs and accelerate
+    onboarding for users
+  use_cases:
+  - AI-powered insurance pricing and underwriting platform
+  - Domain-specific AI peer programmer for actuarial science
+  - Agentic workflows that reinvent insurance industry operations
+  - AI-powered documentation search and question-answering systems
+  - Automated validation of documentation content
+  - AI-assisted content authoring workflows
+  skills:
+    genai: [LLMs, Claude]
+    ml: []
+    web: []
+    databases: []
+    data: [content pipelines]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Zapier, n8n, Grammarly, documentation systems, technical writing, automation,
+      governance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7298439'
+  extracted_at: '2026-02-05T10:33:48.299003'

@@ -1,0 +1,63 @@
+company:
+  name: Flank
+  stage: Series A
+  focus: Autonomous agents for enterprise legal workflows
+  use_cases:
+  - Automating repetitive legal workflows for enterprise teams with 100,000+ employees
+  - Deploying autonomous agents that work 24/7 under supervision and within customer-defined
+    guardrails
+  - Routing only exceptional cases to legal professionals for review while handling
+    routine work automatically
+  - Providing transparent and auditable logs of all agent requests and actions for
+    full visibility
+  - Handling legal tasks that were previously impossible to solve through automation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      optimizing autonomous agents and LLM-based systems. The
+      engineer will directly work on LLMs, agentic frameworks,
+      fine-tuning, RAG, and production deployment of models, which
+      clearly qualifies as working directly ON AI systems rather
+      than supporting them.
+  responsibilities:
+  - Drive applied research into LLMs and agentic systems, rapidly prototyping, validating,
+    and shipping production-ready capabilities
+  - Stay hands-on with the latest advances in foundation models, LLM-as-a-judge, agentic
+    frameworks & tools (e.g. MCP), and move fast to bring them into the product
+  - Build an evals framework in collaboration with legal experts to assess agent performance
+  - Develop a hypervisor system that governs every step of the agentic system and
+    validates agent behavior
+  - Build alignment programs for legal AI systems to ensure agents operate within
+    defined guardrails
+  - Collaborate cross-functionally with product, design, and commercial teams to ship
+    real AI into production
+  - Improve the intelligence and autonomy of agents by leveraging emerging technologies
+    and legal expertise
+  use_cases:
+  - Automating repetitive legal workflows for enterprise teams with 100,000+ employees
+  - Deploying autonomous agents that work 24/7 under supervision and within customer-defined
+    guardrails
+  - Routing only exceptional cases to legal professionals for review while handling
+    routine work automatically
+  - Providing transparent and auditable logs of all agent requests and actions for
+    full visibility
+  - Handling legal tasks that were previously impossible to solve through automation
+  skills:
+    genai: [RAG, prompt engineering, LLM-as-a-judge, MCP, agents]
+    ml: [PyTorch, TensorFlow, Hugging Face, fine-tuning, embeddings]
+    web: [APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, distributed systems]
+    languages: [Python, TypeScript, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7132625'
+  extracted_at: '2026-02-05T10:22:49.810948'

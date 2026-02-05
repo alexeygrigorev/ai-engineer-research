@@ -1,0 +1,56 @@
+company:
+  name: Prokeep
+  stage: Series A
+  focus: Order automation platform for distributors
+  use_cases:
+  - Automating order workflows for distributors
+  - Enabling proactive customer outreach and communication
+  - Turning customer interactions into order opportunities
+  - Streamlining parts ordering for contractors and skilled professionals
+  - Centralizing distributor communication channels
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role focuses on building AI-powered features using LLMs,
+      with hands-on work on model selection, orchestration, and
+      prompting strategies. The engineer is responsible for
+      integrating AI directly into the core product and taking AI
+      features from concept to production.
+  responsibilities:
+  - Build, iterate, and scale AI-powered features using LLMs and modern AI platforms
+    with a strong focus on application-level integration
+  - Help define and drive Prokeep's AI strategy, including where and how AI should
+    be used across the product
+  - Lead AI evaluation and testing efforts, owning the AI engines and testing frameworks
+    to measure quality, reliability, and performance
+  - Design and maintain internal tooling to support AI development, experimentation,
+    and evaluation
+  - Make thoughtful decisions around model selection, orchestration, prompting strategies,
+    and cost/performance tradeoffs
+  - Partner with Product, Engineering, and Leadership to identify high-impact opportunities
+    where AI can improve customer workflows
+  - Ensure AI systems are production-ready, observable, and scalable
+  use_cases:
+  - Automating order workflows for distributors
+  - Enabling proactive customer outreach and communication
+  - Turning customer interactions into order opportunities
+  - Streamlining parts ordering for contractors and skilled professionals
+  - Centralizing distributor communication channels
+  skills:
+    genai: [LLM APIs, prompt engineering, model orchestration]
+    ml: []
+    web: [React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: [production systems]
+    languages: [Python, Elixir]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8271905'
+  extracted_at: '2026-02-05T12:27:56.224999'

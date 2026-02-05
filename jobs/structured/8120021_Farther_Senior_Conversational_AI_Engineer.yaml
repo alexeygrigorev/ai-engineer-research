@@ -1,0 +1,53 @@
+company:
+  name: Farther
+  stage: Series B
+  focus: AI-powered wealth management platform
+  use_cases:
+  - Conversational AI interface for wealth management platform
+  - AI agents handling real financial transactions end-to-end
+  - Chatbot interactions between clients and financial advisors
+  - Intelligent agentic experiences replacing traditional web interfaces
+  - RAG-based conversational systems for financial data and advice
+position:
+  title: Senior Conversational AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role requiring direct hands-on work
+      building conversational AI systems with LLMs, RAG pipelines,
+      and agentic workflows. The engineer will architect and
+      deploy production AI chatbots that handle financial
+      transactions, not support AI infrastructure.
+  responsibilities:
+  - Own conversational AI features end-to-end from requirements through production
+    deployment
+  - Architect chatbot systems using LLMs, RAG pipelines, and agentic workflows
+  - Build with professional engineering standards including testing, observability,
+    reliability, and redundancy
+  - Develop guardrails and authorization boundaries for AI agents handling sensitive
+    financial data
+  - Solve difficult production issues including complex prompt engineering and unfamiliar
+    model behaviors
+  - Collaborate directly with product, data engineering, and business stakeholders
+  use_cases:
+  - Conversational AI interface for wealth management platform
+  - AI agents handling real financial transactions end-to-end
+  - Chatbot interactions between clients and financial advisors
+  - Intelligent agentic experiences replacing traditional web interfaces
+  - RAG-based conversational systems for financial data and advice
+  skills:
+    genai: [LLMs, prompt engineering, RAG, agent frameworks, conversational AI, guardrails]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, LLM evaluation frameworks]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8120021'
+  extracted_at: '2026-02-05T12:03:54.513397'

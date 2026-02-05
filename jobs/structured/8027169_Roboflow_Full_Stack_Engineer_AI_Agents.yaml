@@ -1,0 +1,58 @@
+company:
+  name: Roboflow
+  stage: Series B
+  focus: Computer vision tools and AI platform
+  use_cases:
+  - Guiding users through building, debugging, and deploying computer vision solutions
+  - Enabling external AI agents to interact with Roboflow's platform via tool interfaces
+    and APIs
+  - Automating computer vision pipeline construction through agentic experiences
+  - Streamlining the path from CV prototype to production deployments
+  - Providing developer tools for end-to-end computer vision application development
+position:
+  title: Full Stack Engineer, AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires building agentic AI systems that help
+      users build computer vision solutions. The candidate must
+      have shipped an agentic system with hands-on experience in
+      tool calling and orchestration, directly working on AI
+      agents that guide users through end-to-end CV project
+      development.
+  responsibilities:
+  - Build agentic AI-powered experiences that guide users through building, debugging,
+    and shipping computer vision projects end-to-end
+  - Develop integration surfaces enabling external agents to interact with Roboflow
+    through tool interfaces, APIs, and SDK capabilities
+  - Extend Workflows computer vision pipeline builder with new blocks and improve
+    the building UX
+  - Strengthen SDKs and end-to-end user journeys to streamline development from idea
+    to shipped system
+  - Contribute to core product surfaces agents rely on including Workflows and Deployments
+    offerings
+  - Fill in missing functionality and improve reliability, tooling, and discoverability
+    to tighten prototype-to-production path
+  use_cases:
+  - Guiding users through building, debugging, and deploying computer vision solutions
+  - Enabling external AI agents to interact with Roboflow's platform via tool interfaces
+    and APIs
+  - Automating computer vision pipeline construction through agentic experiences
+  - Streamlining the path from CV prototype to production deployments
+  - Providing developer tools for end-to-end computer vision application development
+  skills:
+    genai: [AI agents, tool calling, orchestration]
+    ml: []
+    web: [Firebase, APIs]
+    databases: []
+    data: []
+    cloud: [Google Cloud Storage]
+    ops: [Docker]
+    languages: [TypeScript, JavaScript, Python]
+    domains: [computer vision]
+    other: [SDKs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8027169'
+  extracted_at: '2026-02-05T11:50:30.668103'

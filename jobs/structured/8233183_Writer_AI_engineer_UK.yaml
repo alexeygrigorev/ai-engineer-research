@@ -1,0 +1,59 @@
+company:
+  name: Writer
+  stage: Series C
+  focus: Enterprise generative AI platform and AI agents
+  use_cases:
+  - Building and deploying AI agents grounded in enterprise company data
+  - Powering enterprise-wide transformation through AI-driven productivity and innovation
+    solutions
+  - Enabling businesses to unlock unprecedented productivity with trustworthy AI integrated
+    with their data
+  - Delivering AI-powered features that address critical business needs for leading
+    enterprises
+  - Supporting IT and business teams with end-to-end AI orchestration platform
+position:
+  title: AI engineer (UK)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, deploying, and optimizing LLMs
+      and AI agents in production environments. The engineer works
+      directly on intelligent agents, AI-powered features, and
+      contributes to research on emerging AI frameworks, which are
+      core AI/ML system development tasks.
+  responsibilities:
+  - Architect, develop, and deploy high-performance, scalable AI applications into
+    production environments with robust platform integrations
+  - Drive the development of intelligent agents and AI-powered features, translating
+    complex research into practical solutions for customers
+  - Collaborate with research scientists, data scientists, and product managers to
+    define technical requirements and deliver critical business features
+  - Contribute to the research and evaluation of emerging AI technologies, frameworks,
+    and tools to maintain leadership in enterprise generative AI
+  - Champion responsible AI practices including bias detection, explainability, and
+    safety alignment ensuring trustworthy and ethical AI
+  use_cases:
+  - Building and deploying AI agents grounded in enterprise company data
+  - Powering enterprise-wide transformation through AI-driven productivity and innovation
+    solutions
+  - Enabling businesses to unlock unprecedented productivity with trustworthy AI integrated
+    with their data
+  - Delivering AI-powered features that address critical business needs for leading
+    enterprises
+  - Supporting IT and business teams with end-to-end AI orchestration platform
+  skills:
+    genai: [large language models]
+    ml: [PyTorch, TensorFlow, JAX, machine learning principles, deep learning architectures]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python]
+    domains: [natural language processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8233183'
+  extracted_at: '2026-02-05T12:18:08.786242'

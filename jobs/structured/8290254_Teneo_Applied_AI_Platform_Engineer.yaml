@@ -1,0 +1,56 @@
+company:
+  name: Teneo
+  stage: null
+  focus: Global CEO advisory and consulting firm
+  use_cases:
+  - AI workflows across business use cases and product integrations
+  - Internal data intelligence using Data Lake
+  - Scoped agent workflows with tool use capabilities
+  - Enterprise AI systems integrated with Microsoft Graph and identity/API permissioning
+  - Production-grade AI systems with observability and monitoring
+position:
+  title: Applied AI & Platform Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI workflows,
+      implementing LLM integrations, designing scoped agent
+      workflows with tool/function calling, and productionizing AI
+      systems on Azure infrastructure. This is direct work ON AI
+      systems (agents, LLMs, guardrails) rather than just
+      supporting infrastructure or data pipelines.
+  responsibilities:
+  - Build end-to-end workflow implementations from requirements to production including
+    APIs, services, orchestration, and integrations
+  - Integrate AI capabilities into products and internal tools including LLM calls,
+    tool/function calling, guardrails, evaluations, and response structuring
+  - Design and implement scoped agent workflows with clear boundaries, tools, permissions,
+    fallbacks, and measurable outcomes
+  - Collaborate with vendors to deliver ROI-focused use cases by defining interfaces,
+    validating delivery quality, and productionizing outputs
+  - Establish strong observability through structured logging, tracing, metrics, dashboards,
+    alerting, and runbooks
+  - Partner with data teams on Data Lake access patterns, workflows, metadata, governance,
+    and reliability
+  use_cases:
+  - AI workflows across business use cases and product integrations
+  - Internal data intelligence using Data Lake
+  - Scoped agent workflows with tool use capabilities
+  - Enterprise AI systems integrated with Microsoft Graph and identity/API permissioning
+  - Production-grade AI systems with observability and monitoring
+  skills:
+    genai: [LLMs, tool calling, guardrails, agents]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [data pipelines, data engineering]
+    cloud: [Azure]
+    ops: [Docker, Terraform, Bicep, CI/CD, observability]
+    languages: [Python]
+    domains: [Microsoft Graph]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8290254'
+  extracted_at: '2026-02-05T12:36:39.888126'

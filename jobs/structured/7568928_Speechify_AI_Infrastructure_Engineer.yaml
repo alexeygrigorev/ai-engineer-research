@@ -1,0 +1,53 @@
+company:
+  name: Speechify
+  stage: Series B
+  focus: Text-to-speech reading accessibility platform
+  use_cases:
+  - Text-to-speech conversion for PDFs, books, documents, websites, and articles
+  - Cross-platform audio generation apps for iOS, Android, Mac, Chrome, and web
+  - Voice synthesis for reading assistance and accessibility
+  - Low-latency audio streaming systems
+  - AI-powered voice model deployment and serving
+position:
+  title: AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Infrastructure Engineer role focused on
+      building platforms and services that enable ML engineers and
+      data scientists to train and deploy models. The role
+      involves MLOps tools, CI/CD pipelines, and infrastructure
+      automation rather than building, training, or fine-tuning
+      models directly.
+  responsibilities:
+  - Design, implement, and maintain high-performance ML training and inference platforms
+  - Ship MLOps tools that allow ML engineers to deploy models in minutes, not days
+  - Improve scalability, reliability, and cost efficiency of model training and serving
+    systems
+  - Partner with researchers to turn experimental voice models into production-ready
+    systems
+  - Establish standards for model versioning, testing, monitoring, and governance
+  - Automate data and model pipelines to reduce manual intervention and speed up experimentation
+  use_cases:
+  - Text-to-speech conversion for PDFs, books, documents, websites, and articles
+  - Cross-platform audio generation apps for iOS, Android, Mac, Chrome, and web
+  - Voice synthesis for reading assistance and accessibility
+  - Low-latency audio streaming systems
+  - AI-powered voice model deployment and serving
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, ONNX]
+    web: []
+    databases: [vector databases]
+    data: [Airflow, Kafka, Spark Streaming, Flink, feature stores]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, CI/CD, Terraform, CloudFormation, Kubeflow, MLflow,
+      Prometheus, Grafana, Datadog, TensorRT, vLLM, Triton]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7568928'
+  extracted_at: '2026-02-05T11:07:28.090461'

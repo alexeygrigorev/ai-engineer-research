@@ -1,0 +1,51 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: Insurance and financial services
+  use_cases:
+  - AI-enabled developer productivity tools and automation
+  - Cloud-native insurance platforms with AI capabilities
+  - Agentic AI use cases for operational improvements
+  - LLM-based solutions for enterprise applications
+  - DevSecOps automation enhanced with AI
+position:
+  title: Senior Associate - Senior Software Engineer - AI & Cloud Platforms
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building or deploying
+      AI and Agentic AI use cases, with preferred experience in
+      LLM-based solutions and emerging AI technologies. This goes
+      beyond support infrastructure to actively implementing AI
+      capabilities for developer productivity and automation.
+  responsibilities:
+  - Design, build, and deploy cloud-native applications and platforms on AWS
+  - Apply AI and automation to improve developer experience and productivity
+  - Build and optimize CI/CD pipelines and DevSecOps automation
+  - Design and consume APIs and reusable services
+  - Ensure solutions meet security, performance, resilience, and compliance standards
+  - Collaborate with cross-functional teams in an Agile delivery environment
+  - Contribute to architecture evolution, technical standards, and engineering best
+    practices
+  use_cases:
+  - AI-enabled developer productivity tools and automation
+  - Cloud-native insurance platforms with AI capabilities
+  - Agentic AI use cases for operational improvements
+  - LLM-based solutions for enterprise applications
+  - DevSecOps automation enhanced with AI
+  skills:
+    genai: [Agentic AI, LLM-based solutions]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Terraform, EKS, ECR]
+    ops: [CI/CD, DevSecOps, Docker, Kubernetes, GitHub]
+    languages: [Python, Java, .NET]
+    domains: []
+    other: [Jira]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8219705'
+  extracted_at: '2026-02-05T12:14:28.899830'

@@ -1,0 +1,57 @@
+company:
+  name: Mastercard
+  stage: Public
+  focus: Global digital payments technology company
+  use_cases:
+  - Generative AI platform for Large Language Models serving enterprise-wide use cases
+  - MCP server deployment at scale for protocol-based AI interactions
+  - AI Agents deployment with context window management and A2A protocol support
+  - RAG systems with prompt engineering, chunking, embeddings, and vector stores
+  - Model evaluation, governance, tuning, and orchestration for commercial and open
+    source models
+position:
+  title: Lead AI Software Engineer- AI Enablement
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building a Generative AI/LLM platform
+      including MLOps/LLMOps infrastructure. The engineer will
+      implement model deployment, orchestration, RAG systems, and
+      agent deployment - working directly ON AI systems rather
+      than just supporting them.
+  responsibilities:
+  - Design, configure, and implement a Gen AI platform including MLOps/LLMOps for
+    LLMs both commercial and open source
+  - Ensure alignment to appropriate patterns and standards for cloud integration and
+    automation
+  - Identify opportunities for reuse and improved efficiency in AI platform development
+  - Engage with IT and business partners, product owners and stakeholders to create
+    meaningful roadmaps
+  - Champion Mastercard engineering principles and participate in Software Engineering
+    Guild sharing best practices
+  - Help identify and drive meaningful behavior changing metrics for the AI platform
+  use_cases:
+  - Generative AI platform for Large Language Models serving enterprise-wide use cases
+  - MCP server deployment at scale for protocol-based AI interactions
+  - AI Agents deployment with context window management and A2A protocol support
+  - RAG systems with prompt engineering, chunking, embeddings, and vector stores
+  - Model evaluation, governance, tuning, and orchestration for commercial and open
+    source models
+  skills:
+    genai: [MCP protocol, AI Agents, A2A protocol, RAG, prompt engineering, embeddings,
+      GitHub Copilot, Amazon Q, Claude]
+    ml: [model evaluation, model governance, fine-tuning]
+    web: []
+    databases: [vector stores]
+    data: [Databricks, Iceberg]
+    cloud: [SageMaker, Bedrock, Azure ML, Microsoft Foundry, S3, watsonx, AWS, Azure,
+      cloud architecture, cloud integration, cloud native modernization]
+    ops: [containerization, Kubernetes, CDK, Bicep, Terraform, automation]
+    languages: []
+    domains: []
+    other: [Agile/Scrum, Waterfall, SDLC]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8331154'
+  extracted_at: '2026-02-05T12:53:21.583529'

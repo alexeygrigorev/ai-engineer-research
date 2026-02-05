@@ -1,0 +1,51 @@
+company:
+  name: Cherry Ventures
+  stage: Pre-Seed
+  focus: AI-powered B2B payments and receivables management
+  use_cases:
+  - AI partner that manages B2B receivables like a human would
+  - Automating manual B2B payment processes and document exchange
+  - 24/7 monitoring and management of payment messages and communications
+  - Ensuring businesses get paid by tracking and managing receivables
+  - Replacing manual document, email, phone, and check-based B2B trade workflows
+position:
+  title: Senior Product Engineer - AI fintech startup
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Senior Product Engineer role building an AI
+      partner that manages B2B receivables using agentic AI
+      architectures, curated LLM pipelines, and prompt
+      engineering. The role involves hands-on work with AI
+      architectures and prompt engineering to build the core AI
+      product.
+  responsibilities:
+  - Build intuitive user interfaces and robust API designs across the full stack
+  - Design and implement agentic AI architectures and LLM pipelines for B2B payment
+    automation
+  - Apply prompt engineering techniques to optimize AI system performance
+  - Shape product decisions, technology choices, and company culture
+  - Work on quantitative methods and robust SaaS foundations
+  - Collaborate with a small team to deliver products users love
+  use_cases:
+  - AI partner that manages B2B receivables like a human would
+  - Automating manual B2B payment processes and document exchange
+  - 24/7 monitoring and management of payment messages and communications
+  - Ensuring businesses get paid by tracking and managing receivables
+  - Replacing manual document, email, phone, and check-based B2B trade workflows
+  skills:
+    genai: [agentic AI architectures, LLM pipelines, prompt engineering]
+    ml: []
+    web: [Next.js, Tailwind]
+    databases: [Supabase, Postgres]
+    data: []
+    cloud: []
+    ops: [Vercel]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7452356'
+  extracted_at: '2026-02-05T10:54:53.349970'

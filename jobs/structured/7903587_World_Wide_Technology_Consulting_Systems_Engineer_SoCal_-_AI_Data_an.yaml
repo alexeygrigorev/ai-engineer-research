@@ -1,0 +1,62 @@
+company:
+  name: World Wide Technology
+  stage: Public
+  focus: |-
+    Global technology solutions provider for AI and digital
+    transformation
+  use_cases:
+  - AI enablement and deployment architecture design for enterprise clients
+  - Data pipeline and big data solution implementations
+  - MLOps infrastructure and model lifecycle management
+  - Cloud data platform migrations and modernizations
+  - DevOps automation and CI/CD pipeline implementations
+  - Multi-cloud architecture design and optimization
+position:
+  title: Consulting Systems Engineer (SoCal) - AI, Data, and DevOps Solutions
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales consulting role focused on designing
+      solution architectures and selling technology services
+      rather than building or deploying AI/ML models. While the
+      role requires understanding AI/ML and MLOps concepts to
+      design customer solutions, it is primarily a technical
+      sales/solutions architecture position that supports AI
+      deployments rather than directly implementing them.
+  responsibilities:
+  - Lead technical discussions in customer sales meetings, presentations, and whiteboard
+    sessions
+  - Capture customer requirements and map them to modern integrated solutions
+  - Design AI, data pipeline, and automation architectures aligned to customer business
+    outcomes
+  - Develop Statements of Work, Proofs of Concept, Bills of Materials, and Level of
+    Effort estimates
+  - Partner with local Client Executives to build long-term customer relationships
+  - Collaborate with ecosystem partners including Snowflake, Databricks, NVIDIA, cloud
+    hyperscalers, and field engineering teams
+  - Conduct POCs, demos, and ATC-backed workshops for customers
+  - Support executive strategy conversations and hands-on technical workshops
+  use_cases:
+  - AI enablement and deployment architecture design for enterprise clients
+  - Data pipeline and big data solution implementations
+  - MLOps infrastructure and model lifecycle management
+  - Cloud data platform migrations and modernizations
+  - DevOps automation and CI/CD pipeline implementations
+  - Multi-cloud architecture design and optimization
+  skills:
+    genai: [LLM deployment, vector databases, RAG architecture]
+    ml: [model lifecycle]
+    web: []
+    databases: [Snowflake, BigQuery, Redshift, Elastic, NoSQL]
+    data: [Databricks, Apache Hadoop, Spark, Kafka]
+    cloud: [AWS, Azure, GCP]
+    ops: [BigPanda, Cribl, Grafana, Splunk, Terraform, GitHub, GitLab, Ansible, Jenkins,
+      Docker, Kubernetes, OpenShift, NVIDIA Enterprise AI stack, GPU sizing]
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7903587'
+  extracted_at: '2026-02-05T11:40:06.546372'

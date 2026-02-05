@@ -1,0 +1,65 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Tax and accounting software and professional information
+    services
+  use_cases:
+  - Automate tax document processing by scanning, organizing, and extracting data
+    from workpapers
+  - Enable data export to tax software at scale through the 1040SCAN product
+  - Move beyond fixed OCR templates to dynamic, context-aware parsing of tax documents
+  - Provide native-PDF and text-layer matching with anomaly detection for quality
+    verification
+  - Support tax determination through rules-based automation and AI-powered workflows
+position:
+  title: Lead/Staff Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI/ML
+      systems including LLMs, CV/NLP models, and document
+      intelligence systems. The engineer owns the end-to-end
+      lifecycle from model development to production deployment,
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Build generalizable models for tax documents using CV/NLP/LLMs and embeddings
+    for dynamic, context-aware parsing
+  - Improve native-PDF/text-layer matching, anomaly detection, and prior-year-aware
+    checks with human-in-the-loop flows
+  - Productionize low-latency training and inference pipelines over millions of documents
+    with observability and drift monitoring
+  - Integrate LLMs and traditional ML models into robust, auditable workflows for
+    tax determination and document processing
+  - Build and maintain data pipelines, feature extraction, and preprocessing for tax-relevant
+    data
+  - Develop and integrate RESTful APIs and microservices to expose AI capabilities
+    to internal and external systems
+  - Lead design reviews, perform code reviews, and mentor mid-level and junior engineers
+    on AI best practices
+  use_cases:
+  - Automate tax document processing by scanning, organizing, and extracting data
+    from workpapers
+  - Enable data export to tax software at scale through the 1040SCAN product
+  - Move beyond fixed OCR templates to dynamic, context-aware parsing of tax documents
+  - Provide native-PDF and text-layer matching with anomaly detection for quality
+    verification
+  - Support tax determination through rules-based automation and AI-powered workflows
+  skills:
+    genai: [LLMs, embeddings, prompt design, prompt evaluation, agentic orchestration,
+      retrieval-augmented generation, tool-use patterns, guardrails]
+    ml: [PyTorch, TensorFlow]
+    web: [REST APIs, microservices]
+    databases: [vector search]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, MLflow, monitoring, logging, tracing, CI/CD, Git, pytest]
+    languages: [Python, C#, Java]
+    domains: [CV, NLP, OCR, information extraction, layout parsing, table extraction,
+      doc-type classification]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7925740'
+  extracted_at: '2026-02-05T11:41:26.634182'

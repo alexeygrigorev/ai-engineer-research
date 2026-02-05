@@ -1,0 +1,59 @@
+company:
+  name: Consumer Reports
+  stage: Public
+  focus: Nonprofit consumer testing and ratings
+  use_cases:
+  - Help consumers make informed choices through intelligent, data-driven experiences
+  - Empower employees with next-generation AI tools
+  - Address AI harms in the digital marketplace
+  - Make AI models accessible through user-facing tools and applications
+  - Provide data-driven product ratings and consumer insights
+position:
+  title: Full Stack Software Engineer (AI, ML, and Data Science)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack software engineer role that builds web
+      applications, APIs, and services to integrate and
+      operationalize AI/ML models, but does not involve building,
+      training, or fine-tuning the models themselves. The engineer
+      implements RAG pipelines and vector databases to make AI
+      models accessible through user-facing tools, which is
+      supporting AI work rather than doing AI work directly.
+  responsibilities:
+  - Design and develop full-stack web applications, Data APIs, and analytics dashboards
+    that integrate AI/ML models
+  - Build and maintain backend services and APIs using Python (FastAPI, Django) and
+    Node.js, integrating with Databricks, AWS SageMaker, or similar platforms
+  - Develop intuitive, responsive front-end interfaces using React.js, Next.js, JavaScript,
+    and CSS frameworks
+  - Deploy scalable, cloud-native applications leveraging AWS, GCP, or Azure infrastructure
+  - Work with AI/ML engineers to implement Retrieval-Augmented Generation (RAG) pipelines,
+    vector databases, and AI model endpoints
+  - Implement secure authentication, data access, and API management for consumer
+    and internal applications
+  - Build CI/CD pipelines, automate testing, and optimize system performance for production
+    workloads
+  - Partner with product and design teams to deliver user-centric AI application experiences
+  use_cases:
+  - Help consumers make informed choices through intelligent, data-driven experiences
+  - Empower employees with next-generation AI tools
+  - Address AI harms in the digital marketplace
+  - Make AI models accessible through user-facing tools and applications
+  - Provide data-driven product ratings and consumer insights
+  skills:
+    genai: [RAG]
+    ml: []
+    web: [FastAPI, Django, React.js, Next.js, CSS, TailwindCSS]
+    databases: [NoSQL, Vector databases]
+    data: [Databricks]
+    cloud: [AWS, GCP, Azure, AWS SageMaker]
+    ops: [CI/CD, Docker]
+    languages: [Python, Node.js, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7897611'
+  extracted_at: '2026-02-05T11:38:44.028187'

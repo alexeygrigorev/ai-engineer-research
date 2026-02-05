@@ -1,0 +1,50 @@
+company:
+  name: Tower Research Capital
+  stage: Public
+  focus: Quantitative trading firm with venture investing
+  use_cases:
+  - Vertical AI applications in portfolio companies
+  - Category-defining product development for early-stage ventures
+  - Applied AI solutions for startup environments
+  - User-facing applications powered by AI technologies
+position:
+  title: Staff AI Engineer - Tower Research Ventures
+  ai_type:
+    type: unknown
+    reasoning: |-
+      While the role mentions "AI Engineer" and "vertical AI
+      applications," the job description lacks specific details
+      about actual AI/ML work. The responsibilities focus on
+      building core features, infrastructure, and product
+      development rather than model building, training, or
+      deployment. Without clear indications of hands-on AI/ML
+      implementation, it cannot be definitively classified as ai-
+      first or ai-support.
+  responsibilities:
+  - Acting as a 'zero to one' engineer, building out core features and infrastructure
+    for new products
+  - Establishing and maintaining a technical roadmap for projects
+  - Evaluating the technical feasibility and scalability of product features
+  - Leading and building out the engineering side of the organization as needed
+  - Mentoring and collaborating with new team members as the engineering team grows
+  use_cases:
+  - Vertical AI applications in portfolio companies
+  - Category-defining product development for early-stage ventures
+  - Applied AI solutions for startup environments
+  - User-facing applications powered by AI technologies
+  skills:
+    genai: []
+    ml: [machine learning engineering]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [product development, technical leadership, early-stage startup]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7601926'
+  extracted_at: '2026-02-05T11:12:24.821284'

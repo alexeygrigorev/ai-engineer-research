@@ -1,0 +1,54 @@
+company:
+  name: Headway
+  stage: Series D
+  focus: Mental healthcare platform with insurance network
+  use_cases:
+  - AI-assisted patient intake processes to streamline onboarding and data collection
+  - AI-supported therapy experiences that enhance patient-clinician interactions
+  - Patient search and matching with mental health providers
+  - Scalable practice management for mental healthcare providers accepting insurance
+position:
+  title: AI Staff Software Engineer (Patient)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI-powered systems
+      for patient experiences, including AI-assisted intake and
+      therapy experiences using LLMs. The responsibilities include
+      designing evaluation frameworks, deploying AI systems with
+      safety considerations, and directly owning AI product
+      delivery, which are core AI engineering tasks rather than
+      support infrastructure.
+  responsibilities:
+  - Lead design, build, and operation of AI-powered systems within the patient experience
+  - Establish AI engineering practices including tooling, evaluation frameworks, and
+    development methodologies
+  - Directly own and deliver AI-supported patient products including AI-assisted intake
+    and therapy experiences
+  - Design systems that multiple teams rely on and partner with product, clinical,
+    and data leaders
+  - Ensure AI systems are safe, effective, and aligned with patient outcomes through
+    appropriate evaluation strategies
+  - Design with reliability, privacy, and safety constraints in mind when deploying
+    AI systems
+  use_cases:
+  - AI-assisted patient intake processes to streamline onboarding and data collection
+  - AI-supported therapy experiences that enhance patient-clinician interactions
+  - Patient search and matching with mental health providers
+  - Scalable practice management for mental healthcare providers accepting insurance
+  skills:
+    genai: [LLMs, prompt engineering, RAG]
+    ml: []
+    web: [FastAPI, React, Remix, Next.js, React Aria]
+    databases: []
+    data: [Spark, Kafka]
+    cloud: [AWS, Fargate, ECS, S3]
+    ops: [Datadog, PagerDuty, Sentry, GitHub, evaluation frameworks]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8381956'
+  extracted_at: '2026-02-05T13:01:38.008411'

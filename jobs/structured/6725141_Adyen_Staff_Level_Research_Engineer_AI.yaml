@@ -1,0 +1,59 @@
+company:
+  name: Adyen
+  stage: Public
+  focus: Global financial technology and payments platform
+  use_cases:
+  - AI agents for data analysis and operational workflows in financial services
+  - Human-in-the-loop research for Integrity Risk management in payments
+  - Foundational model development for financial technology applications
+  - Multi-step reasoning for financial data analysis tasks
+  - AI-powered solutions for consumers, merchants, and financial institutions
+  - Safe and regulated AI innovation in fintech sector
+position:
+  title: Staff Level Research Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role focuses directly on building and implementing AI
+      systems, specifically Generative AI, AI agents, and
+      foundational models. The candidate will translate research
+      papers into production-ready code, rapidly prototype AI
+      features, and work hands-on with code - all indicating
+      direct work on AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Drive the execution of AI research strategy focusing on Generative AI and AI agents
+    for data analysis, operational workflows, and Integrity Risk
+  - Bridge the gap between cutting-edge AI research and production by prototyping
+    AI features and implementing research papers into scalable code
+  - Contribute to defining the long-term vision for AI at Adyen, focusing on AI-human
+    interactions in finance including consumers, merchants, and financial institutions
+  - Drive innovation by challenging the status quo, introducing transformative ideas,
+    and leveraging technologies to improve solutions aligned with company strategy
+  - Provide technical mentorship and sponsorship to engineers across the organization,
+    fostering collaboration and cultivating a culture of continuous improvement
+  - Connect with the broader AI community including startups, VCs, and AI labs to
+    stay informed of advancements and identify partnership opportunities
+  use_cases:
+  - AI agents for data analysis and operational workflows in financial services
+  - Human-in-the-loop research for Integrity Risk management in payments
+  - Foundational model development for financial technology applications
+  - Multi-step reasoning for financial data analysis tasks
+  - AI-powered solutions for consumers, merchants, and financial institutions
+  - Safe and regulated AI innovation in fintech sector
+  skills:
+    genai: [Generative AI, Large Language Models, AI agents]
+    ml: [machine learning, applied research]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [software engineering]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6725141'
+  extracted_at: '2026-02-05T09:48:16.356274'

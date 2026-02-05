@@ -1,0 +1,61 @@
+company:
+  name: Percepta AI
+  stage: Series A
+  focus: Applied AI for critical industries
+  use_cases:
+  - Deploying agentic workflows for critical industries including healthcare, manufacturing,
+    and energy
+  - Building multi-step AI agents with tool use capabilities for enterprise automation
+  - Implementing RAG pipelines for knowledge retrieval and document analysis
+  - Creating human-in-the-loop AI systems that integrate with existing business operations
+  - Developing AI solutions that drive measurable business value for industry-leading
+    customers
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building and deploying
+      production-grade AI agents and agentic workflows using
+      frontier LLM technology. Engineers work hands-on with RAG
+      pipelines, multi-step agents, and tool use, directly
+      implementing AI systems rather than just supporting AI
+      infrastructure.
+  responsibilities:
+  - Collaborate directly with customer executives and technical teams to define long-term
+    AI strategy and transformation roadmap
+  - Identify and prioritize high-leverage AI use cases that connect business ambition
+    to measurable value
+  - Design, build, and deploy production-grade AI agents and workflows that operate
+    in real-world environments
+  - Contribute features, patterns, and abstractions to the Mosaic product toolkit
+    based on customer engagement learnings
+  - Work backwards from customer vision to surface specific AI applications with clear
+    business value
+  - Ship AI solutions quickly while balancing speed and quality in complex production
+    environments
+  use_cases:
+  - Deploying agentic workflows for critical industries including healthcare, manufacturing,
+    and energy
+  - Building multi-step AI agents with tool use capabilities for enterprise automation
+  - Implementing RAG pipelines for knowledge retrieval and document analysis
+  - Creating human-in-the-loop AI systems that integrate with existing business operations
+  - Developing AI solutions that drive measurable business value for industry-leading
+    customers
+  skills:
+    genai: [LangGraph, Agents SDK, RAG pipelines, multi-step agents, tool use, human-in-the-loop,
+      Anthropic APIs]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [DevOps tooling]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7569542'
+  extracted_at: '2026-02-05T11:07:51.084313'

@@ -1,0 +1,57 @@
+company:
+  name: iManage
+  stage: 'Public (implied by large scale: 4,100+ customers, 430,000+ users, enterprise
+    SaaS)'
+  focus: |-
+    Cloud-enabled intelligent document and knowledge management
+    platform
+  use_cases:
+  - Intelligent document management and knowledge work platform
+  - AI-powered capabilities for professional content and communications
+  - Cloud-native SaaS platform serving 4,100+ customers managing 11 billion documents
+  - Scalable document management with 11 petabytes of data
+  - LLM-powered or AI-driven features for end users
+position:
+  title: AI Entry/Graduate Level Software Engineer (Java)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the role is titled "AI Software Engineer" and involves
+      working with AI features, the responsibilities focus on
+      general software engineering: building production software,
+      CI/CD pipelines, Kubernetes deployment, monitoring, and
+      scaling systems. The role collaborates with knowledge
+      engineering teams and deploys AI features rather than
+      building, training, or fine-tuning models directly. This
+      places it as enabling AI work rather than hands-on model
+      development.
+  responsibilities:
+  - Building high-quality, maintainable, well-tested software for production environments
+  - Enforcing strong standards around monitoring, observability, and integration testing
+  - Designing systems that scale reliably and perform under real-world load
+  - Keeping pace with emerging AI/ML technologies and evaluating where they add value
+  - Deploying and operating services using Kubernetes, Docker, Helm, GitHub Actions,
+    and CI/CD pipelines
+  - Taking ownership of projects from early concept to shipped feature
+  use_cases:
+  - Intelligent document management and knowledge work platform
+  - AI-powered capabilities for professional content and communications
+  - Cloud-native SaaS platform serving 4,100+ customers managing 11 billion documents
+  - Scalable document management with 11 petabytes of data
+  - LLM-powered or AI-driven features for end users
+  skills:
+    genai: [LLM-powered features, AI-driven features]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud-native platforms]
+    ops: [Kubernetes, Docker, Helm, GitHub Actions, CI/CD, GitOps, monitoring, observability]
+    languages: [Java, Scala]
+    domains: []
+    other: [integration testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8201043'
+  extracted_at: '2026-02-05T12:13:03.665885'

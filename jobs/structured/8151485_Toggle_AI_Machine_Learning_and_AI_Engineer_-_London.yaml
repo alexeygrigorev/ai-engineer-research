@@ -1,0 +1,50 @@
+company:
+  name: Toggle AI
+  stage: null
+  focus: AI-powered investment insights for professional investors
+  use_cases:
+  - Deliver investment insights and earnings analysis to professional investors
+  - Help investors understand risk and market catalysts through AI-powered reasoning
+  - Provide real-time analysis that influences investment decision-making
+  - Generate high-quality trading signals from proprietary data
+  - Enable understanding of market dynamics through LLM-driven knowledge systems
+position:
+  title: Machine Learning and AI Engineer - London
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, fine-tuning, and
+      deploying ML and LLM-driven systems in production. The
+      engineer will work directly with OpenAI, Gemini, and
+      Anthropic models to build reasoning systems and inference
+      pipelines that deliver real investment insights.
+  responsibilities:
+  - Design, fine-tune, and deploy ML and LLM-driven systems used in production by
+    professional investors
+  - Build and maintain fast, observable, and reliable inference pipelines
+  - Integrate OpenAI, Gemini, and Anthropic models into reasoning and knowledge systems
+  - Work closely with backend engineers to productionize models in Golang-based services
+  - Improve signal quality and model accuracy for investment insights
+  - Review code and designs with a focus on long-term maintainability
+  use_cases:
+  - Deliver investment insights and earnings analysis to professional investors
+  - Help investors understand risk and market catalysts through AI-powered reasoning
+  - Provide real-time analysis that influences investment decision-making
+  - Generate high-quality trading signals from proprietary data
+  - Enable understanding of market dynamics through LLM-driven knowledge systems
+  skills:
+    genai: [OpenAI API, Gemini, Anthropic API, LLM reasoning systems]
+    ml: [fine-tuning, ML systems]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [inference pipelines]
+    languages: [Python, Golang]
+    domains: []
+    other: [Cursor, Claude Code]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8151485'
+  extracted_at: '2026-02-05T12:05:54.081285'

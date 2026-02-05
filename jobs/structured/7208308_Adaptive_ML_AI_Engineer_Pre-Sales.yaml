@@ -1,0 +1,56 @@
+company:
+  name: Adaptive ML
+  stage: Seed
+  focus: RLOps platform for specializing and deploying LLMs
+  use_cases:
+  - Specializing large language models for enterprise-specific business needs
+  - Deploying adapted LLMs into production workflows with measurable impact
+  - Building and evaluating optimized models for specific enterprise use cases
+  - Enabling companies to leverage reinforcement learning for model improvement
+position:
+  title: AI Engineer (Pre-Sales)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work with AI systems including
+      fine-tuning LLMs and building prototype pipelines using
+      Adaptive Engine. Unlike typical pre-sales roles, this
+      position involves directly working on model adaptation and
+      deployment, not just demonstrating technology that others
+      build.
+  responsibilities:
+  - Partner with sales to engage with prospects, uncovering business challenges and
+    mapping them to Adaptive ML solutions
+  - Design and deliver compelling technical demos tailored to specific customer use
+    cases
+  - Lead and manage proof-of-concepts and pilots, ensuring technical success and clear
+    business outcomes
+  - Build prototype pipelines and fine-tuned LLMs using Adaptive Engine to showcase
+    production-ready solutions
+  - Translate technical requirements into custom proposals, suggested architectures,
+    and recommendations for customer deployments
+  - Collaborate with research and product teams to influence roadmap priorities based
+    on customer feedback
+  - Represent Adaptive ML at conferences, webinars, and industry events with technical
+    authority
+  use_cases:
+  - Specializing large language models for enterprise-specific business needs
+  - Deploying adapted LLMs into production workflows with measurable impact
+  - Building and evaluating optimized models for specific enterprise use cases
+  - Enabling companies to leverage reinforcement learning for model improvement
+  skills:
+    genai: [fine-tuning, LLMs, generative AI, model adaptation]
+    ml: [machine learning, data science]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP, reinforcement learning]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7208308'
+  extracted_at: '2026-02-05T10:29:26.239881'

@@ -1,0 +1,72 @@
+company:
+  name: Wolf Games
+  stage: Seed
+  focus: |-
+    Platform for generative entertainment universes and AI-
+    powered detective games
+  use_cases:
+  - Generative entertainment universes where creators, players, and AI collaborate
+    in real time
+  - Crime-solving detective games where players collect evidence, crack cases, and
+    rise through ranks of a connected detective program
+  - Living, ever-expanding game worlds where intelligent systems learn, adapt, and
+    surprise players
+  - AI-powered game development workflows that enable rapid prototyping and fast iteration
+  - Scalable game platform that supports multiple interconnected game titles with
+    shared progression and experiences
+position:
+  title: Software Engineer, AI Web Game
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software engineer role building web-based games
+      and game infrastructure for a generative entertainment
+      platform. While the company uses AI in their products and
+      workflows, the role involves building game systems,
+      infrastructure, and platform integrations using AI-assisted
+      development tools rather than building, training, or
+      deploying AI/ML models directly.
+  responsibilities:
+  - Take validated prototypes from concept stage to production-ready games, refactoring
+    exploratory code into maintainable, performant systems
+  - Build and maintain shared game infrastructure including progression systems, save/load,
+    analytics integration, and platform APIs that accelerates development across all
+    titles
+  - Adapt core systems to the unique requirements of each new game, balancing reusability
+    with the flexibility to support diverse gameplay experiences
+  - Collaborate with the Creative Engineer to establish clear technical handoff processes
+    ensuring promising prototypes have a smooth path to production
+  - Leverage AI-assisted development tools to accelerate implementation while maintaining
+    code quality and architectural coherence
+  - Integrate with distribution platforms, ad networks, and third-party services to
+    maximize reach and revenue across the portfolio
+  - Identify opportunities to extract reusable components from production games back
+    into shared libraries continuously improving development velocity
+  - Contribute to technical decision-making around architecture, tooling, and process
+    as the game portfolio scales
+  use_cases:
+  - Generative entertainment universes where creators, players, and AI collaborate
+    in real time
+  - Crime-solving detective games where players collect evidence, crack cases, and
+    rise through ranks of a connected detective program
+  - Living, ever-expanding game worlds where intelligent systems learn, adapt, and
+    surprise players
+  - AI-powered game development workflows that enable rapid prototyping and fast iteration
+  - Scalable game platform that supports multiple interconnected game titles with
+    shared progression and experiences
+  skills:
+    genai: []
+    ml: []
+    web: [Pixi.js, Phaser, Three.js, browser performance optimization]
+    databases: []
+    data: []
+    cloud: [GCP, AWS]
+    ops: [CI/CD]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8393890'
+  extracted_at: '2026-02-05T13:05:18.945384'

@@ -1,0 +1,53 @@
+company:
+  name: Hex
+  stage: Series B
+  focus: AI-powered data science and analytics platform
+  use_cases:
+  - Notebook Agent - AI-powered assistance for data science workflows
+  - SQL generation - generating accurate SQL queries for data analysis
+  - Context engine - managing and utilizing user context to improve AI experiences
+  - LLM-based evaluation of agent threads for quality assessment
+  - Highly accurate and curated data experiences for enterprise data teams
+  - Accelerating and augmenting the data science workflow with AI capabilities
+position:
+  title: AI Engineer (Curator)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML systems including
+      fine-tuning models, deploying AI infrastructure, and
+      building experimentation tooling. The AI Engineer will work
+      directly on LLM applications like SQL generation and agent
+      thread evaluation, which are core AI/ML system components.
+  responsibilities:
+  - Build features and experiences from 0 to 1 for AI capabilities
+  - Partner on determining architecture and stack for AI-enabled capabilities
+  - Ship product experiences that fundamentally change how Data Scientists and Analysts
+    operate
+  - Run experiments, fine-tune models, and deploy AI infrastructure
+  - Build and maintain experimentation tooling
+  - Drive Hex's context engine including SQL generation quality and LLM-based evaluation
+  - Work at the cutting edge of production AI applications
+  use_cases:
+  - Notebook Agent - AI-powered assistance for data science workflows
+  - SQL generation - generating accurate SQL queries for data analysis
+  - Context engine - managing and utilizing user context to improve AI experiences
+  - LLM-based evaluation of agent threads for quality assessment
+  - Highly accurate and curated data experiences for enterprise data teams
+  - Accelerating and augmenting the data science workflow with AI capabilities
+  skills:
+    genai: [fine-tuning, SQL generation, agents, prompt engineering]
+    ml: [production ML]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [LLM deployment, MLOps, experimentation tooling]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: [system architecture, software architecture, testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7173715'
+  extracted_at: '2026-02-05T10:27:50.587112'

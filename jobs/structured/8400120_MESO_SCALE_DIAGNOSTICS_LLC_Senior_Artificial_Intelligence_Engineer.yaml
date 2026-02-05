@@ -1,0 +1,60 @@
+company:
+  name: MESO SCALE DIAGNOSTICS, LLC.
+  stage: null
+  focus: Diagnostics and AI-powered software solutions
+  use_cases:
+  - Information retrieval using semantic and vector search capabilities
+  - Knowledge distillation to create smaller models for on-premise deployment
+  - Prompt engineering and in-context learning for enhanced model performance
+  - Model optimization and reasoning capabilities for self-hosted environments
+  - Production AI systems leveraging AWS Bedrock and SageMaker services
+  - Robust evaluation frameworks for assessing model performance and trade-offs
+position:
+  title: Senior Artificial Intelligence Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, fine-tuning, and
+      deploying AI models and systems including RAG, model fine-
+      tuning, knowledge distillation, and on-premise deployment.
+      The engineer is directly working ON AI/ML systems -
+      implementing retrieval systems, optimizing models, and
+      engineering reasoning capabilities in LLMs, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design and implement retrieval-augmented generation (RAG) systems with semantic
+    and traditional search capabilities
+  - Develop and optimize vector search systems and data pipelines for model fine-tuning
+  - Execute model fine-tuning experiments, knowledge distillation, and design prompt
+    engineering strategies
+  - Build fault-tolerant applications integrating with AWS Bedrock and SageMaker
+  - Implement production-grade Python backends for AI-powered features
+  - Optimize models for on-premise deployment in data center environments
+  - Manage model deployment, monitoring, and engineer reasoning capabilities in self-hosted
+    models
+  - Develop evaluation frameworks for RAG and fine-tuning performance
+  use_cases:
+  - Information retrieval using semantic and vector search capabilities
+  - Knowledge distillation to create smaller models for on-premise deployment
+  - Prompt engineering and in-context learning for enhanced model performance
+  - Model optimization and reasoning capabilities for self-hosted environments
+  - Production AI systems leveraging AWS Bedrock and SageMaker services
+  - Robust evaluation frameworks for assessing model performance and trade-offs
+  skills:
+    genai: [RAG, retrieval-augmented generation, prompt engineering, in-context learning,
+      fine-tuning]
+    ml: [knowledge distillation, model optimization, embeddings]
+    web: [FastAPI, Flask, Django, REST]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS Bedrock, AWS SageMaker]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, monitoring, infrastructure-as-code,
+      model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8400120'
+  extracted_at: '2026-02-05T13:07:02.639188'

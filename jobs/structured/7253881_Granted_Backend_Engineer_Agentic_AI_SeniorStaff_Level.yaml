@@ -1,0 +1,72 @@
+company:
+  name: Granted
+  stage: Seed
+  focus: |-
+    AI-powered healthcare billing and insurance claims
+    automation
+  use_cases:
+  - Automating the identification, categorization, and resolution of errors in medical
+    billing and insurance claims
+  - Building agentic workflows that navigate complex healthcare case work with minimal
+    human intervention
+  - Integrating domain-specific healthcare knowledge into AI models and decision engines
+    to improve accuracy
+  - Developing real-world AI performance measurement and improvement tooling for healthcare
+    automation
+  - Fighting claim denials, correcting billing errors, and negotiating bills through
+    AI-driven automation
+position:
+  title: Backend Engineer, Agentic AI (Senior/Staff Level)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role because the engineer will directly
+      build agentic AI workflows, including prompt orchestration,
+      agent frameworks, and model evaluation loops. The role
+      involves creating and optimizing AI pipelines and automated
+      agents that handle complex healthcare case flows, which is
+      hands-on work with AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design and build scalable systems and APIs that power agentic workflows from case
+    activation through resolution
+  - Push the frontier of AI-driven engineering, working on prompt orchestration, agent
+    frameworks, and model evaluation loops
+  - Collaborate closely with Product, Engineering, and domain experts to translate
+    complex healthcare processes into reliable automations
+  - Architect systems for scale and reliability, ensuring human escalation pathways
+    are transparent and seamless
+  - Play a key role in shaping the pod's technical strategy, and mentor others as
+    the team grows
+  - Create and optimize AI pipelines to identify, categorize, and resolve errors in
+    medical billing and insurance claims
+  - Build automated agents and backend services that handle complex case flows with
+    minimal human intervention
+  use_cases:
+  - Automating the identification, categorization, and resolution of errors in medical
+    billing and insurance claims
+  - Building agentic workflows that navigate complex healthcare case work with minimal
+    human intervention
+  - Integrating domain-specific healthcare knowledge into AI models and decision engines
+    to improve accuracy
+  - Developing real-world AI performance measurement and improvement tooling for healthcare
+    automation
+  - Fighting claim denials, correcting billing errors, and negotiating bills through
+    AI-driven automation
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, prompt engineering, agents, OpenAI API,
+      model evaluation]
+    ml: []
+    web: [FastAPI, REST]
+    databases: []
+    data: []
+    cloud: []
+    ops: [distributed systems, Kubernetes, Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7253881'
+  extracted_at: '2026-02-05T10:31:43.415964'

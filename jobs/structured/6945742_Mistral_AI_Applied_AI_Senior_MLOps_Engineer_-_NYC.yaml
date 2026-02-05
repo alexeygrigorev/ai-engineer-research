@@ -1,0 +1,52 @@
+company:
+  name: Mistral AI
+  stage: Series B
+  focus: Open-source AI models and platform for enterprises
+  use_cases:
+  - Enterprise AI solution deployment for consumer and industrial applications
+  - Customer transformation projects adopting AI technologies in production environments
+  - High-stakes AI deployments across diverse industries globally
+  - End-to-end AI application implementation from infrastructure to front-end interfaces
+position:
+  title: Applied AI, Senior MLOps Engineer - NYC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an MLOps/DevOps focused role that works on
+      infrastructure, deployment pipelines, and operational
+      aspects rather than building, training, or fine-tuning
+      models directly. While it involves deploying AI applications
+      and working with AI products, the core work is on the
+      supporting infrastructure, CI/CD pipelines, and customer
+      deployment guidance, which aligns with ai-support
+      classification.
+  responsibilities:
+  - Onboard customers on products, providing guidance on deployment and integration
+    from GPU stack to infrastructure and interfaces
+  - Deploy state-of-the-art AI applications for consumer and industrial use cases,
+    driving technological transformation
+  - Collaborate with researchers and engineers on complex customer projects involving
+    deployment, scaling, inference, and fine-tuning infrastructure
+  - Participate in pre-sales calls to understand client needs and provide technical
+    guidance on Mistral products and technologies
+  use_cases:
+  - Enterprise AI solution deployment for consumer and industrial applications
+  - Customer transformation projects adopting AI technologies in production environments
+  - High-stakes AI deployments across diverse industries globally
+  - End-to-end AI application implementation from infrastructure to front-end interfaces
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD, Terraform, Ansible]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6945742'
+  extracted_at: '2026-02-05T10:03:21.952372'

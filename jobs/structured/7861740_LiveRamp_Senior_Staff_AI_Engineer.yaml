@@ -1,0 +1,63 @@
+company:
+  name: LiveRamp
+  stage: Public
+  focus: Data collaboration platform for identity and customer data
+  use_cases:
+  - LLM-based agent systems with sophisticated planning and memory mechanisms for
+    autonomous and human-in-the-loop workflows
+  - Identity machine learning solutions for customer data resolution and matching
+  - Agentic AI solutions integrated across LiveRamp's data collaboration platform
+    products
+  - Multi-step autonomous agent workflows with tools/function calling capabilities
+  - Evaluation and safety systems for measuring agent performance, bias, and drift
+    in production
+position:
+  title: Senior Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building LLM-based agents directly,
+      including prompt engineering, fine-tuning, and implementing
+      tools and mechanisms for agentic systems. The engineer will
+      own data science models from identity ML solutions to
+      agentic AI solutions, with hands-on production deployment of
+      agents.
+  responsibilities:
+  - Lead end-to-end development of advanced LLM-based agents including prompt engineering,
+    fine-tuning, and building specialized tools/functions for agents
+  - Establish and implement rigorous evaluation methodologies including LLM-as-a-judge
+    and adversarial testing to measure agent performance, reliability, and safety
+  - Define long-term data science strategy for agentic AI systems across products
+    including model selection and data pipelines for multi-step autonomous behavior
+  - Act as thought leader and mentor to teams of Data Scientists, ML Engineers, and
+    Software Engineers driving best practices in data infrastructure and MLOps
+  - Partner closely with Product Management, Engineering, and Data Science teams to
+    translate agent-based product requirements into actionable solutions
+  - Own and implement data science models in use within products from Identity machine
+    learning solutions to agentic AI solutions
+  use_cases:
+  - LLM-based agent systems with sophisticated planning and memory mechanisms for
+    autonomous and human-in-the-loop workflows
+  - Identity machine learning solutions for customer data resolution and matching
+  - Agentic AI solutions integrated across LiveRamp's data collaboration platform
+    products
+  - Multi-step autonomous agent workflows with tools/function calling capabilities
+  - Evaluation and safety systems for measuring agent performance, bias, and drift
+    in production
+  skills:
+    genai: [LLM agents, prompt engineering, fine-tuning, RAG, function calling, LLM-as-a-judge,
+      adversarial testing, MCP-style agent interfaces, semantic layer patterns, Gemini]
+    ml: [embeddings, model evaluation]
+    web: []
+    databases: [vector search]
+    data: [data pipelines]
+    cloud: [Vertex AI, GCP]
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: []
+    other: [privacy-preserving data practices]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7861740'
+  extracted_at: '2026-02-05T11:35:56.213757'

@@ -1,0 +1,66 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: |-
+    Edge-to-cloud computing solutions, HPC systems, and
+    enterprise infrastructure
+  use_cases:
+  - Scaling high-fidelity discrete-event simulations on HPE supercomputers using distributed
+    memory and checkpointing
+  - Distributed large-scale data analysis of traces, logs, and telemetry data from
+    simulations and HPC systems
+  - Interactive processing of massive telemetry datasets for HPC system monitoring
+    and analysis
+  - Digital twin software development integrated with visualization tools and AI/ML
+    workflows
+  - AI surrogate development for real-time HPC system error detection
+  - LLM-powered chat interfaces for analysis and development environments
+position:
+  title: Senior Software Engineer – HPC & AI Advanced Development
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on HPC infrastructure, distributed
+      systems, and data pipelines for simulation telemetry. While
+      there are "nice to have" mentions of AI surrogates and LLMs,
+      the core responsibilities involve building scalable
+      workflows, data analysis infrastructure, and distributed
+      memory programming - all supporting technologies for AI/HPC
+      workloads rather than directly building or deploying AI
+      models.
+  responsibilities:
+  - Develop distributed HPC/AI workflows for processing large-scale telemetry datasets
+    (terabytes to petabytes)
+  - Compose and integrate open-source solutions using distributed and parallel programming
+    approaches for scaling data and simulations
+  - Collaborate in consensus-driven design processes and Agile development environments
+  - Create technical documentation, collaborate with users, and present progress through
+    various communication channels
+  use_cases:
+  - Scaling high-fidelity discrete-event simulations on HPE supercomputers using distributed
+    memory and checkpointing
+  - Distributed large-scale data analysis of traces, logs, and telemetry data from
+    simulations and HPC systems
+  - Interactive processing of massive telemetry datasets for HPC system monitoring
+    and analysis
+  - Digital twin software development integrated with visualization tools and AI/ML
+    workflows
+  - AI surrogate development for real-time HPC system error detection
+  - LLM-powered chat interfaces for analysis and development environments
+  skills:
+    genai: [LLMs]
+    ml: [AI surrogates, fine-tuning]
+    web: []
+    databases: []
+    data: [Pandas, NumPy, Dask, Spark]
+    cloud: []
+    ops: [Docker, Kubernetes, Slurm, Podman, Apptainer, CI/CD, checkpointing techniques,
+      distributed memory programming, performance debugging, AIOps]
+    languages: [Python, C, C++]
+    domains: [SST simulator, digital twin, discrete event simulation]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8037077'
+  extracted_at: '2026-02-05T11:52:16.898827'

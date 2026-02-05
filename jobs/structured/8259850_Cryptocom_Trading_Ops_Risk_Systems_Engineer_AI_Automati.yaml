@@ -1,0 +1,60 @@
+company:
+  name: Crypto.com
+  stage: Public
+  focus: Cryptocurrency exchange and trading platform
+  use_cases:
+  - Automated trade reconciliation and operational workflows using agentic AI
+  - Real-time P&L attribution with AI-powered anomaly detection and automated report
+    commentary generation
+  - Predictive risk modeling using ML to forecast market volatility and cross-market
+    risks
+  - Intelligent monitoring and alerting for trading desk risk management
+  - Real-time visualization tools for trading performance and risk metrics
+position:
+  title: Trading Ops & Risk Systems Engineer (AI & Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI solutions
+      including agentic AI workflows, LLM integration, and ML-
+      based risk models. The candidate will build, deploy, and
+      fine-tune AI agents for automation and anomaly detection,
+      directly working on AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Manage end-to-end trade lifecycle across multi-asset classes and develop agentic
+    AI workflows with Python and MLOps to automate manual operations and reconciliations
+  - Perform daily P&L attribution and variance analysis using AI/ML frameworks like
+    OpenAI API and LangChain to build intelligent agents for anomaly detection and
+    automated commentary generation
+  - Develop real-time AI-driven risk models using machine learning to predict market
+    volatility and alert on cross-market risks
+  - Build and maintain sophisticated risk reporting dashboards for the trading desk
+  - Ensure data integrity across trading systems, middle-office platforms, and downstream
+    finance ledgers
+  - Leverage LLMs and advanced scripting to automate legacy manual processes and improve
+    predictive risk modeling
+  use_cases:
+  - Automated trade reconciliation and operational workflows using agentic AI
+  - Real-time P&L attribution with AI-powered anomaly detection and automated report
+    commentary generation
+  - Predictive risk modeling using ML to forecast market volatility and cross-market
+    risks
+  - Intelligent monitoring and alerting for trading desk risk management
+  - Real-time visualization tools for trading performance and risk metrics
+  skills:
+    genai: [OpenAI API, LangChain, agentic AI workflows, local LLMs]
+    ml: [machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps]
+    languages: [Python, SQL]
+    domains: [P&L attribution, 'market risk indicators (Greeks, VaR)']
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8259850'
+  extracted_at: '2026-02-05T12:25:55.885270'

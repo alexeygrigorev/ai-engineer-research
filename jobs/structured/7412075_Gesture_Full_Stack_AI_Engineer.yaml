@@ -1,0 +1,65 @@
+company:
+  name: Gesture
+  stage: Growth-stage
+  focus: |-
+    AI-powered platform connecting people and brands through
+    personalized experiences and loyalty programs
+  use_cases:
+  - Consumer intelligence engine for predicting user intent and behavior
+  - Personalized recommendation systems for feeds, notifications, and products
+  - Gesture-based loyalty experiences with predictive engagement cycles
+  - Real-time campaign optimization using behavioral data
+  - Emotional intelligence-driven experiences that adapt to user interactions
+  - First-party data segmentation and behavior scoring for marketing
+position:
+  title: Full Stack + AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on AI/ML engineering including
+      building REAL.AI consumer intelligence engine, implementing
+      predictive modeling, personalization algorithms, and
+      recommendation systems. The engineer will integrate
+      OpenAI/LangChain APIs, develop LLM-powered features, and
+      work with TensorFlow/PyTorch - directly building and
+      deploying AI models, not just supporting infrastructure.
+  responsibilities:
+  - Lead technical implementation of REAL.AI consumer intelligence engine including
+    data modeling, predictive algorithms, and personalized recommendation pipelines
+  - Architect and build loyalty program infrastructure that ties user behaviors to
+    rewards and predictive engagement cycles
+  - Collaborate with mobile team to implement AI-driven personalization across feeds,
+    notifications, and product recommendations
+  - Develop and integrate API layers between Firebase, Zoho CRM, Segment, Voucherify,
+    and internal data warehouse (GCP)
+  - Build scalable backend services supporting dynamic campaigns, A/B tests, and loyalty
+    redemptions
+  - Partner cross-functionally with data science, marketing, and product design to
+    translate consumer behavior into actionable features
+  - Optimize performance, ensure data integrity, and design systems for scalability
+    across millions of users
+  use_cases:
+  - Consumer intelligence engine for predicting user intent and behavior
+  - Personalized recommendation systems for feeds, notifications, and products
+  - Gesture-based loyalty experiences with predictive engagement cycles
+  - Real-time campaign optimization using behavioral data
+  - Emotional intelligence-driven experiences that adapt to user interactions
+  - First-party data segmentation and behavior scoring for marketing
+  skills:
+    genai: [OpenAI API, LangChain, Prompt engineering, LLM integration]
+    ml: [TensorFlow, PyTorch, scikit-learn, Predictive modeling, Personalization algorithms,
+      Recommendation systems]
+    web: [React, React Native, Node.js, FastAPI, Express]
+    databases: [Firestore, BigQuery, PostgreSQL]
+    data: []
+    cloud: [Google Cloud Platform, Firebase, Cloud Functions, Pub/Sub, Cloud Run,
+      AWS]
+    ops: [Docker, CI/CD, GitHub Actions, Git, Jest]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7412075'
+  extracted_at: '2026-02-05T18:56:21.351221'

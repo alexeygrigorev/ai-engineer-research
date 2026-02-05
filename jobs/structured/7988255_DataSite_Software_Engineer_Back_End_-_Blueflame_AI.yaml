@@ -1,0 +1,54 @@
+company:
+  name: DataSite
+  stage: null
+  focus: AI platform for investment management and dealmaking
+  use_cases:
+  - AI platform for investment management industry
+  - AI-powered dealmaking solutions
+  - Data processing and management for financial services
+  - AI deal sourcing and analysis
+  - Client success and business growth optimization
+position:
+  title: Software Engineer (Back End) - Blueflame AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Back End Software Engineer role that builds APIs,
+      databases, and server-side infrastructure for an AI
+      platform. While there's an interest in LLMs mentioned, the
+      actual work involves general software engineering tasks
+      (REST APIs, databases, security) that support AI systems
+      rather than directly building, training, or deploying
+      models.
+  responsibilities:
+  - Design and implement server-side logic and functionality for the Blueflame AI
+    platform
+  - Create, maintain, and optimize databases ensuring data integrity and security
+  - Develop and maintain APIs for server-client communication and third-party integrations
+  - Implement security measures including encryption and authentication protocols
+  - Collaborate with front end engineers to ensure seamless integration with user
+    interfaces
+  - Optimize platform performance and troubleshoot code issues
+  - Write and maintain documentation for code, processes, and best practices
+  use_cases:
+  - AI platform for investment management industry
+  - AI-powered dealmaking solutions
+  - Data processing and management for financial services
+  - AI deal sourcing and analysis
+  - Client success and business growth optimization
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [RESTful APIs]
+    databases: [MongoDB, Redis]
+    data: [distributed systems]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [multi-threading]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7988255'
+  extracted_at: '2026-02-05T11:46:25.859462'

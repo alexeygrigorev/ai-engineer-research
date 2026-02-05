@@ -1,0 +1,53 @@
+company:
+  name: Waymo
+  stage: Public
+  focus: Autonomous driving technology company
+  use_cases:
+  - Autonomous driving safety and operation across cities and driving conditions
+  - Reinforcement learning for autonomous driving decision making
+  - Learning from demonstration to train autonomous driving models
+  - Generative modeling for autonomous driving scenarios
+  - Hierarchical learning for complex driving tasks
+  - Robust evaluation of autonomous driving systems
+position:
+  title: Senior Machine Learning Engineer, AI Foundations
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role involves conducting applied foundation model
+      research, training and evaluating large deep learning
+      models, and working with frameworks like JAX, TensorFlow,
+      and PyTorch. The focus is on traditional ML areas like
+      reinforcement learning, learning from demonstration,
+      Bayesian inference, and hierarchical learning, rather than
+      building LLM-powered applications or agents, which aligns
+      with ml-first classification.
+  responsibilities:
+  - Conduct applied foundation model research and development
+  - Design compelling experiments by training and evaluating large deep learning models
+  - Write high quality code, unit tests, and documentation
+  - Collaborate with other teams to deploy models to production
+  use_cases:
+  - Autonomous driving safety and operation across cities and driving conditions
+  - Reinforcement learning for autonomous driving decision making
+  - Learning from demonstration to train autonomous driving models
+  - Generative modeling for autonomous driving scenarios
+  - Hierarchical learning for complex driving tasks
+  - Robust evaluation of autonomous driving systems
+  skills:
+    genai: []
+    ml: [JAX, TensorFlow, PyTorch, Generative models, Transformer models, Autoencoders,
+      Deep learning, Bayesian inference]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++]
+    domains: [Reinforcement learning, Imitation learning]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8329804'
+  extracted_at: '2026-02-05T12:52:56.148846'

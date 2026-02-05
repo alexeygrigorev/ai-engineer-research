@@ -1,0 +1,54 @@
+company:
+  name: Mozilla
+  stage: Public
+  focus: Privacy-focused web browser and open-source software
+  use_cases:
+  - AI-driven service desk automation and digital workplace operations
+  - Enterprise GenAI copilots and intelligent workflows for internal tools
+  - Automated provisioning/deprovisioning, entitlements, and group lifecycle management
+  - AI virtual agents and self-service portals for improved user experience
+  - Chatbots and AI agents for tier-1 ticket deflection
+position:
+  title: Staff Software Engineer, AI & Automation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on implementing and managing AI-powered
+      internal services and automation platforms, not building or
+      training AI models. The engineer deploys GenAI capabilities,
+      creates chatbots and AI agents, and implements AI governance
+      and security guardrails for enterprise service delivery.
+  responsibilities:
+  - Roll out new collaboration and Enterprise GenAI capabilities including pilots,
+    training, and adoption programs
+  - Design and ship automations using scripts, workflows, chatbots, and AI agents
+    to streamline operations
+  - Build monitoring and alerting for SaaS health and key workflows while leading
+    incident management practices
+  - Implement Enterprise AI security and governance including guardrails, access controls,
+    and compliance
+  - Serve as technical escalation for complex tickets and perform root-cause analysis
+  - Mother P3 engineers in automation, AI prompt engineering, and scalable integration
+    design
+  use_cases:
+  - AI-driven service desk automation and digital workplace operations
+  - Enterprise GenAI copilots and intelligent workflows for internal tools
+  - Automated provisioning/deprovisioning, entitlements, and group lifecycle management
+  - AI virtual agents and self-service portals for improved user experience
+  - Chatbots and AI agents for tier-1 ticket deflection
+  skills:
+    genai: [prompt engineering, RAG, agents]
+    ml: []
+    web: [REST APIs, webhooks]
+    databases: []
+    data: []
+    cloud: []
+    ops: [automation frameworks]
+    languages: [Python]
+    domains: []
+    other: [ITIL, incident management, change management, SLAs/SLOs]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8004471'
+  extracted_at: '2026-02-05T11:47:32.884278'

@@ -1,0 +1,51 @@
+company:
+  name: Optiver
+  stage: Public
+  focus: Market making and trading firm
+  use_cases:
+  - Orchestrating data workflows and decisions across the firm
+  - Integrating AI agents with enterprise systems for business process automation
+  - Evaluating and selecting optimal 3rd party models for specific tasks
+  - Building agents that translate business strategy into executable code
+  - Measuring business impact through AI-driven automation in trading operations
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, building, and deploying AI
+      agents that orchestrate data, workflows, and decisions. This
+      is hands-on work directly ON AI systems, not infrastructure
+      or support for others building AI.
+  responsibilities:
+  - Design and develop robust AI agents using Python
+  - Integrate AI solutions with existing enterprise systems
+  - Understand the landscape of 3rd party models, their strengths and weaknesses
+  - Collaborate with cross-functional teams to understand user needs and deliver effective
+    agents
+  - Maintain a platform for the evaluation of agents
+  - Produce high-quality, unit-tested code and uphold consistent style and documentation
+    through code reviews and CI/CD practices
+  - Troubleshoot and debug AI systems to ensure optimal performance
+  use_cases:
+  - Orchestrating data workflows and decisions across the firm
+  - Integrating AI agents with enterprise systems for business process automation
+  - Evaluating and selecting optimal 3rd party models for specific tasks
+  - Building agents that translate business strategy into executable code
+  - Measuring business impact through AI-driven automation in trading operations
+  skills:
+    genai: [3rd party AI services, AI agents]
+    ml: [AI/ML libraries]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, unit testing, code reviews]
+    languages: [Python, asyncio, type hints, context managers]
+    domains: []
+    other: [software design patterns, object-oriented design, modular architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7195656'
+  extracted_at: '2026-02-05T10:28:28.897520'

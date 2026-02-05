@@ -1,0 +1,71 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Professional information services, legal, tax, and
+    accounting software
+  use_cases:
+  - Generative AI agents for tax, accounting, and audit professionals
+  - AI-driven orchestration systems powering CoCounsel for Tax and Accounting
+  - AI native products for accounting professionals that automate and enhance workflows
+  - Agent-based architectures using LLMs and AI APIs from providers like OpenAI and
+    Anthropic
+  - Search-based AI systems leveraging vector databases and embeddings
+  - Production infrastructure supporting secure, performant, and reliable AI-driven
+    solutions
+position:
+  title: Staff Platform Engineer - Materia AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Platform Engineer role focused on building cloud-
+      native infrastructure, CI/CD pipelines, and developer
+      tooling that powers AI/ML systems rather than directly
+      building, training, or deploying models. The role builds the
+      platform and infrastructure that enables AI/ML engineers to
+      work on Agentic workloads and generative AI agents.
+  responsibilities:
+  - Build and maintain cloud-native platforms that power Agentic AI workloads and
+    orchestration systems
+  - Design and implement scalable, resilient, secure, and cost-effective production
+    infrastructure using Kubernetes, Vercel, AWS, GCP, and AI platforms
+  - Develop Go command-line tools and services that streamline and empower developer
+    workflows from local development to production deployment
+  - Build and maintain golden path reference implementations for automated build,
+    test, and deploy workflows using GitHub Actions, Playwright, and Snyk
+  - Design and implement comprehensive monitoring, logging, and alerting solutions
+    using DataDog and LLM observability tools
+  - Establish platform security best practices using multi-cloud strategies and open-source
+    CNCF solutions
+  - Collaborate with AI/ML engineers, frontend developers, product managers, and SREs
+    to build robust services and developer experiences
+  - Establish, measure, and continuously improve DORA metrics to optimize product
+    delivery velocity and quality
+  use_cases:
+  - Generative AI agents for tax, accounting, and audit professionals
+  - AI-driven orchestration systems powering CoCounsel for Tax and Accounting
+  - AI native products for accounting professionals that automate and enhance workflows
+  - Agent-based architectures using LLMs and AI APIs from providers like OpenAI and
+    Anthropic
+  - Search-based AI systems leveraging vector databases and embeddings
+  - Production infrastructure supporting secure, performant, and reliable AI-driven
+    solutions
+  skills:
+    genai: [OpenAI API, Anthropic API, Agent-based architectures, LLM evaluation tools]
+    ml: []
+    web: [REST API, RPC, Playwright]
+    databases: [Vector databases, PostgreSQL]
+    data: [Pub/sub messaging]
+    cloud: [AWS, GCP, Vercel, VPCs, Secrets management, ECS, Object storage, Serverless
+        functions]
+    ops: [Kubernetes, Docker, Terraform, CUE, GitHub Actions, CI/CD, Snyk, DataDog,
+      LLM observability tools, DNS, TCP, TLS, Service mesh, Infrastructure as code,
+      Container registries]
+    languages: [Go, Python, Rust]
+    domains: []
+    other: [SOC 2 compliance, DORA metrics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8043046'
+  extracted_at: '2026-02-05T11:53:05.658079'

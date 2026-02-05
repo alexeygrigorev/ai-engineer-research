@@ -1,0 +1,61 @@
+company:
+  name: Smartly
+  stage: Public (indicated by 750+ employees, global presence, $6B in managed ad spend,
+    established market position)
+  focus: |-
+    AI-powered advertising technology platform for creative and
+    media optimization
+  use_cases:
+  - AI-based solutions for media and creative workflows to help marketers optimize
+    ad creatives
+  - Campaign optimization products using ML-based solutions for advertising effectiveness
+  - Building better and more effective advertising experiences for consumers
+  - Managing creative and media across major platforms including Facebook, Google,
+    Instagram, Pinterest, Snap, and TikTok
+  - Analyzing product and performance data to optimize advertising campaigns
+position:
+  title: Senior Software Engineer (AI Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is to build backend services and infrastructure
+      that support data scientists in bringing ML models to
+      production. While the platform enables AI/ML work, the
+      engineer is not directly building, training, or deploying
+      models themselves - they're creating the platform and
+      services that enable others to do so.
+  responsibilities:
+  - Design, build and maintain backend services that sit at the core of Smartly.io's
+    campaign optimization products
+  - Support data scientists in bringing machine learning models to production
+  - Mentor team on software development practices and propagate best practices like
+    testing, monitoring, or clean code
+  - Use skills and experience to continuously improve software architecture, coding
+    practices, tools, and processes
+  - Work with stakeholders from product, engineering, and infrastructure to meet customer
+    needs
+  - Translate business and product needs into viable technical solutions
+  use_cases:
+  - AI-based solutions for media and creative workflows to help marketers optimize
+    ad creatives
+  - Campaign optimization products using ML-based solutions for advertising effectiveness
+  - Building better and more effective advertising experiences for consumers
+  - Managing creative and media across major platforms including Facebook, Google,
+    Instagram, Pinterest, Snap, and TikTok
+  - Analyzing product and performance data to optimize advertising campaigns
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow]
+    web: [Node.js, React]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, MLflow, Kubeflow]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7593375'
+  extracted_at: '2026-02-05T11:10:38.782801'

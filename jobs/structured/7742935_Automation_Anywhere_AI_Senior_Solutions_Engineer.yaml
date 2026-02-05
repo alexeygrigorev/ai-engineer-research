@@ -1,0 +1,64 @@
+company:
+  name: Automation Anywhere
+  stage: Public
+  focus: |-
+    Agentic Process Automation with AI-powered RPA and
+    intelligent automation
+  use_cases:
+  - Process automation and discovery using AI-powered agents and the Process Reasoning
+    Engine
+  - Document processing and unstructured data extraction with OCR and Intelligent
+    Document Processing
+  - End-to-end orchestration of business processes combining RPA with AI capabilities
+  - Enterprise system integration and workflow automation across SAP, Salesforce,
+    ServiceNow, and Workday
+  - Intelligent process optimization using LLMs, RAG architectures, and vector databases
+position:
+  title: AI Senior Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on design and deployment of AI
+      agents, RAG architectures, LLMs, and automation solutions
+      directly to customer environments. While customer-facing and
+      sales-oriented, the engineer builds production-grade AI
+      solutions rather than just providing technical support for
+      AI tools.
+  responsibilities:
+  - Embed with customers to understand business processes and identify automation
+    opportunities using AI agents
+  - Design and build rapid proof-of-concept solutions demonstrating Agentic Process
+    Automation and real-world ROI
+  - Develop production-grade bots, AI agents, and workflow automations with enterprise
+    system integrations
+  - Architect scalable automation solutions incorporating RAG, LLMs, OCR, and advanced
+    AI technologies across AWS, Azure, and GCP
+  - Bridge customers and engineering teams by providing detailed product feedback
+    and enhancement opportunities
+  - Identify expansion opportunities and enable implementation partners for successful
+    customer deployments
+  use_cases:
+  - Process automation and discovery using AI-powered agents and the Process Reasoning
+    Engine
+  - Document processing and unstructured data extraction with OCR and Intelligent
+    Document Processing
+  - End-to-end orchestration of business processes combining RPA with AI capabilities
+  - Enterprise system integration and workflow automation across SAP, Salesforce,
+    ServiceNow, and Workday
+  - Intelligent process optimization using LLMs, RAG architectures, and vector databases
+  skills:
+    genai: [RAG, LLMs, prompt engineering, AI agents]
+    ml: []
+    web: [SAP, Salesforce, ServiceNow, Workday]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python, JavaScript]
+    domains: [OCR, Intelligent Document Processing]
+    other: [Automation Anywhere, UiPath, Blue Prism, RPA]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7742935'
+  extracted_at: '2026-02-05T11:24:37.846658'

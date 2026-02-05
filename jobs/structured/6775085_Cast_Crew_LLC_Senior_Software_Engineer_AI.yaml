@@ -1,0 +1,72 @@
+company:
+  name: Cast & Crew LLC
+  stage: null
+  focus: |-
+    Entertainment technology and services provider for
+    production, payroll, and creative tools
+  use_cases:
+  - Context-aware chatbots for navigating complex business workflows in entertainment
+    production
+  - AI-driven data explanations and insights for payroll, compliance, and labor management
+    systems
+  - Natural language query interface over structured business data for self-service
+    analytics
+  - Automated task guidance that proactively fills missing data and recommends next
+    steps
+  - Interactive forecasting dashboards for financial trends and labor predictions
+  - Explainable AI features to provide transparency into system decisions and recommendations
+position:
+  title: Senior Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI features
+      directly with LLMs, embeddings, and prompt engineering. The
+      engineer is designing and implementing context-aware
+      chatbots, AI-driven dashboards, and recommendation systems,
+      not just supporting AI infrastructure for others.
+  responsibilities:
+  - Design and develop context-aware AI assistants and chatbots to help users navigate
+    complex workflows
+  - Build AI-guided task assistants that proactively surface recommendations and automate
+    next steps in real-time
+  - Implement explainable AI features to help users understand insights, predictions,
+    and system decisions transparently
+  - Develop AI-driven dashboards and prediction engines providing insights into financial
+    trends, labor forecasts, and compliance risks
+  - Build scalable backend services in Python, TypeScript, and Node.js integrating
+    with LLMs, vector stores, and analytics engines
+  - Use Model Context Protocol (MCP) to manage and preserve context across chat, prediction,
+    and recommendation workflows
+  - Leverage cloud-native AWS tools (Lambda, SageMaker, Bedrock, DynamoDB) to deploy
+    and scale AI features
+  - Evaluate emerging AI tools, LLM frameworks, and APIs to advance the product's
+    intelligence capabilities
+  use_cases:
+  - Context-aware chatbots for navigating complex business workflows in entertainment
+    production
+  - AI-driven data explanations and insights for payroll, compliance, and labor management
+    systems
+  - Natural language query interface over structured business data for self-service
+    analytics
+  - Automated task guidance that proactively fills missing data and recommends next
+    steps
+  - Interactive forecasting dashboards for financial trends and labor predictions
+  - Explainable AI features to provide transparency into system decisions and recommendations
+  skills:
+    genai: [LLMs, embeddings, prompt engineering, Model Context Protocol (MCP), LangChain,
+      Semantic Kernel]
+    ml: [forecasting models, time-series prediction]
+    web: [REST APIs]
+    databases: [vector stores, PostgreSQL, Redis, DynamoDB]
+    data: []
+    cloud: [AWS, AWS Lambda, SageMaker, Bedrock]
+    ops: []
+    languages: [Python, TypeScript, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6775085'
+  extracted_at: '2026-02-05T09:52:26.585807'

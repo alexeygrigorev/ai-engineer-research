@@ -1,0 +1,50 @@
+company:
+  name: Granola
+  stage: Seed
+  focus: Building LLM-powered user-centric products
+  use_cases:
+  - Multi-provider LLM-based solutions for production use
+  - Large-context LLM systems with RAG, knowledge graphs, and hybrid search
+  - Prompt management, logging/tracing, and evaluation systems
+  - Semantic retrieval and vector search optimization
+  - User-centric product features powered by language models
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building LLM-based
+      features end-to-end, including prompt engineering, RAG
+      systems, evaluation frameworks, and optimization of
+      embeddings and vector stores. The engineer will ship multi-
+      provider LLM solutions to production and work directly with
+      large-context LLM systems using advanced techniques.
+  responsibilities:
+  - Own the development and application of LLM-based features end-to-end
+  - Build and maintain evaluation frameworks for prompt iteration and semantic retrieval
+  - Optimize embeddings and vector stores for performance and scalability
+  - Interact with users to understand their problems and design solutions
+  - Stay up-to-date with the latest trends in LLMs and applied AI practices
+  - Collaborate with a cross-functional team to create cutting-edge products
+  use_cases:
+  - Multi-provider LLM-based solutions for production use
+  - Large-context LLM systems with RAG, knowledge graphs, and hybrid search
+  - Prompt management, logging/tracing, and evaluation systems
+  - Semantic retrieval and vector search optimization
+  - User-centric product features powered by language models
+  skills:
+    genai: [OpenAI API, Anthropic API, RAG, knowledge graphs, prompt engineering]
+    ml: [embeddings]
+    web: [React.js, Node.js]
+    databases: [vector stores]
+    data: []
+    cloud: []
+    ops: [prompt management, logging/tracing, evals]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4757999'
+  extracted_at: '2026-02-05T09:41:07.856008'

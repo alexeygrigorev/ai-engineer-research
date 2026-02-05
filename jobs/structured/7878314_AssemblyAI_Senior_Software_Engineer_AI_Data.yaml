@@ -1,0 +1,57 @@
+company:
+  name: AssemblyAI
+  stage: Series C+
+  focus: Speech AI models for voice applications
+  use_cases:
+  - Speech-to-text transcription for voice applications and meeting assistants
+  - Streaming speech recognition for real-time voice agents and contact centers
+  - Training data pipeline infrastructure for speech AI model development
+  - Keyterms prompting and multilingual support for speech understanding
+  - Medical scribes and voice-powered end-user experiences
+position:
+  title: Senior Software Engineer, AI Data
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds data infrastructure, pipelines, and
+      platforms that support ML training and evaluation. The
+      engineer works on storage, monitoring, resource management,
+      and data processing systems for researchers, but does not
+      directly build, train, fine-tune, or deploy models
+      themselves.
+  responsibilities:
+  - Design scalable, future-proof data platforms optimized for AI research workloads
+  - Build efficient self-serve data processing pipelines leveraging GCP's advanced
+    services
+  - Implement cost-effective storage and monitoring solutions for ML at scale
+  - Create flexible training resource management with intelligent queuing and optimize
+    resource allocation
+  - Lead adoption of cutting-edge ML tools and frameworks, continuously evaluating
+    and integrating best-in-class solutions
+  - Enhance tooling and documentation to accelerate team velocity and maintain competitive
+    edge
+  - Implement guardrails for cost, quality, and performance while eliminating technical
+    bottlenecks
+  - Participate in on-call rotation to ensure system reliability
+  use_cases:
+  - Speech-to-text transcription for voice applications and meeting assistants
+  - Streaming speech recognition for real-time voice agents and contact centers
+  - Training data pipeline infrastructure for speech AI model development
+  - Keyterms prompting and multilingual support for speech understanding
+  - Medical scribes and voice-powered end-user experiences
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [BigQuery]
+    data: [Apache Beam, PySpark, Airflow, Prefect, Dagster]
+    cloud: [GCP, GCS, Cloud Run, GKE]
+    ops: [Datadog, CI/CD]
+    languages: [Python, SQL]
+    domains: []
+    other: [software engineering fundamentals, testing strategies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7878314'
+  extracted_at: '2026-02-05T11:37:38.311067'

@@ -1,0 +1,49 @@
+company:
+  name: Infinity Constellation
+  stage: Unknown
+  focus: AI-powered agentic workflow platform for SMBs
+  use_cases:
+  - AI Employees for SMBs built with intelligent, agentic workflows
+  - Deployed on proprietary platform with orchestration powered by N8n
+  - Generate working, value-generating AI teammates for business operations
+position:
+  title: Senior AI Platform Engineer - Supernal
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agent workflows, RAG design,
+      and LLM orchestration for deployed AI Employees. It's hands-
+      on work directly implementing agentic systems using N8n and
+      the company's platform, not just supporting infrastructure
+      for others.
+  responsibilities:
+  - Build advanced AI agent workflows on N8n and Supernal's proprietary platform
+  - Lead engineering delivery for highest-priority customers
+  - Own technical architecture decisions for agentic systems including tool usage,
+    RAG design, API orchestration, and task decomposition
+  - Define, document, and evolve engineering best practices
+  - Review technical work for quality, scalability, and maintainability
+  - Contribute to internal tooling and system improvements that accelerate agent deployment
+  - Partner with Head of Product to scope and validate technical solutions across
+    accounts
+  use_cases:
+  - AI Employees for SMBs built with intelligent, agentic workflows
+  - Deployed on proprietary platform with orchestration powered by N8n
+  - Generate working, value-generating AI teammates for business operations
+  skills:
+    genai: [prompt engineering, function-calling, RAG, LLM orchestration, agentic
+        architectures]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [N8n, workflow automation]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7928285'
+  extracted_at: '2026-02-05T11:41:41.606573'

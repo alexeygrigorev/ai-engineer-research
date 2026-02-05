@@ -1,0 +1,67 @@
+company:
+  name: Snowflake
+  stage: Public
+  focus: AI Data Cloud platform and enterprise data management
+  use_cases:
+  - Cloud data platform architecture and implementation for enterprise customers
+  - Data analytics and data processing workloads on Snowflake AI Data Cloud
+  - Customer technical enablement and rapid platform adoption for early-stage customers
+  - AI-powered development tools and coding agents to accelerate solution delivery
+  - Workload isolation, resource monitoring, and security setup for cloud data platforms
+  - Reusable educational programs and hands-on labs for customer platform training
+position:
+  title: AI Account Engineer - Activation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing technical role focused on
+      accelerating customer adoption and activation of Snowflake's
+      AI Data Cloud platform. While the role involves leveraging
+      AI-powered tools and coding agents to deliver solutions more
+      efficiently, it does not involve building, training, fine-
+      tuning, or deploying models directly. The focus is on
+      enabling customer success through architectural guidance,
+      technical enablement, and platform adoption support.
+  responsibilities:
+  - Take ownership of the technical success and consumption trajectory within assigned
+    portfolio, driving adoption metrics as the single point of contact for all customer
+    needs
+  - Apply outcome-based selling mindset to customer engagements, focusing on how the
+    Snowflake AI Data Cloud solves complex data challenges and unlocks maximum business
+    value
+  - Serve as a trusted strategic advisor providing guidance on data strategy, technology
+    stack integration, and swift activation of use cases
+  - Deliver technical value efficiently by leveraging cutting-edge AI-powered development
+    tools and automation to accelerate solutions and implementation guidance
+  - Provide customers with critical Snowflake-specific architectural guidance including
+    best practices, workload isolation, warehouse utilization, resource monitoring,
+    and RBAC/security setup
+  - Collaborate effectively with Account Team and internal Snowflake teams to highlight
+    risks and ensure seamless resource orchestration
+  - Create and deliver reusable, high-impact programs such as Hands-on Labs and webinars
+    to educate customers on platform features and industry best practices
+  - Efficiently triage incoming customer inquiries, assisting with demos, troubleshooting,
+    and identifying opportunities for business value expansion
+  use_cases:
+  - Cloud data platform architecture and implementation for enterprise customers
+  - Data analytics and data processing workloads on Snowflake AI Data Cloud
+  - Customer technical enablement and rapid platform adoption for early-stage customers
+  - AI-powered development tools and coding agents to accelerate solution delivery
+  - Workload isolation, resource monitoring, and security setup for cloud data platforms
+  - Reusable educational programs and hands-on labs for customer platform training
+  skills:
+    genai: [AI-powered development tools, coding agents]
+    ml: []
+    web: []
+    databases: []
+    data: [data architecture, data analytics]
+    cloud: [AWS, Azure, Google Cloud, RBAC, Snowflake AI Data Cloud]
+    ops: [CI/CD, orchestration tools]
+    languages: [SQL, Python, Java, Scala]
+    domains: [Data Science concepts]
+    other: [Project Management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8254408'
+  extracted_at: '2026-02-05T12:22:54.331167'

@@ -1,0 +1,62 @@
+company:
+  name: YLD
+  stage: null
+  focus: Software engineering, product design, and data consultancy
+  use_cases:
+  - Automating internal operational workflows across People, Finance, Engineering,
+    Product Design, Client Services, and Commercial departments
+  - Building AI-assisted workflows to reduce manual effort and improve consistency
+    in business processes
+  - Replacing fragile manual processes with resilient automated systems
+  - Integrating disparate internal systems (HRIS, finance, CRM, access management)
+    for seamless end-to-end workflows
+  - Reducing operational friction to improve efficiency across all business functions
+position:
+  title: Contract Principal Operations Engineer (Automation & AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an Operations Engineer role that uses AI as a tool
+      to automate business processes and workflows. The role
+      involves building internal tools, implementing AI-assisted
+      workflows, and applying automation to operational problems -
+      not building, training, or deploying AI models itself.
+  responsibilities:
+  - Identify high-leverage operational pain points across the business and eliminate
+    manual work
+  - Design and build internal tools, workflows, and automations using code, APIs,
+    low-code, and AI
+  - Integrate and extend existing platforms including HRIS, finance systems, CRM,
+    and access management
+  - Identify and implement AI-assisted workflows that remove cognitive or manual load
+    from teams
+  - Work directly with business teams and leadership to understand operational constraints
+    and deliver improvements
+  - Ensure improvements are maintainable, clearly owned, and support organizational
+    scale
+  use_cases:
+  - Automating internal operational workflows across People, Finance, Engineering,
+    Product Design, Client Services, and Commercial departments
+  - Building AI-assisted workflows to reduce manual effort and improve consistency
+    in business processes
+  - Replacing fragile manual processes with resilient automated systems
+  - Integrating disparate internal systems (HRIS, finance, CRM, access management)
+    for seamless end-to-end workflows
+  - Reducing operational friction to improve efficiency across all business functions
+  skills:
+    genai: [AI-assisted workflows]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [process automation, systems integration]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [automation, scripting, low-code, HRIS systems, finance systems, CRM, access
+        management]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8252085'
+  extracted_at: '2026-02-05T12:22:32.733671'

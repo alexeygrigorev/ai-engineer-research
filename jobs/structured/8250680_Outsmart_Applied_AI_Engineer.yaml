@@ -1,0 +1,49 @@
+company:
+  name: Outsmart
+  stage: Seed/Series A
+  focus: |-
+    Reimagining higher education through AI-powered learning
+    experiences
+  use_cases:
+  - Content generation at scale for educational materials
+  - Gamification features for enhanced learning experiences
+  - Benchmarking and analytics for educational outcomes
+  - Multi-modal behavior classification from mobile signals
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is directly building and deploying ML systems
+      including generative and discriminative use cases, content
+      generation at scale, and multi-modal classification. They
+      own end-to-end deployment of ML applications and work on
+      prompting standards and ML benchmarks.
+  responsibilities:
+  - Define ML/MCP stack for the organization
+  - Own prompting standards across the engineering team
+  - Define and enforce ML benchmarks for all ML applications
+  - Own end-to-end deployment and maintenance of ML systems
+  - Work with Product and Engineering leadership to define ML roadmap
+  - Work with backend to define and enforce schemas/data models for ML development
+  use_cases:
+  - Content generation at scale for educational materials
+  - Gamification features for enhanced learning experiences
+  - Benchmarking and analytics for educational outcomes
+  - Multi-modal behavior classification from mobile signals
+  skills:
+    genai: [MCP, prompt engineering, content generation]
+    ml: [multi-modal classification, statistics]
+    web: [fullstack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, ML benchmarks]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8250680'
+  extracted_at: '2026-02-05T12:22:11.303051'

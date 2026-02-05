@@ -1,0 +1,60 @@
+company:
+  name: PwC
+  stage: Public
+  focus: |-
+    Professional services consulting firm providing data
+    analytics and AI solutions
+  use_cases:
+  - Developing predictive models for business insights and decision-making
+  - Building AI-powered applications that transform raw data into actionable insights
+  - Creating data visualizations and statistical analysis to solve complex business
+    problems
+  - Implementing RAG systems for knowledge retrieval and enhanced AI responses
+  - Deploying fine-tuned models for domain-specific applications across industries
+  - Establishing responsible AI governance frameworks for enterprise clients
+position:
+  title: Full Stack AI Engineer - Senior Associate - Commercial Technology & Innovation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with AI/ML technologies
+      including designing and deploying machine learning models
+      and LLMs, fine-tuning models on domain-specific data,
+      implementing RAG pipelines with vector databases, and
+      building end-to-end AI applications. This is direct model
+      and AI system development work, not just support
+      infrastructure.
+  responsibilities:
+  - Design and deploy machine learning models and large language models for client
+    solutions
+  - Build end-to-end AI applications for web, mobile, and API-first platforms
+  - Implement vector databases and RAG pipelines using orchestration tools
+  - Manage CI/CD pipelines for AI systems using GitHub Actions and MLflow
+  - Develop scalable, cloud-native microservices with Docker and Kubernetes
+  - Fine-tune models on domain-specific data to improve performance
+  - Translate complex business problems into software-engineered AI solutions
+  - Apply Responsible AI practices including governance and ethics frameworks
+  use_cases:
+  - Developing predictive models for business insights and decision-making
+  - Building AI-powered applications that transform raw data into actionable insights
+  - Creating data visualizations and statistical analysis to solve complex business
+    problems
+  - Implementing RAG systems for knowledge retrieval and enhanced AI responses
+  - Deploying fine-tuned models for domain-specific applications across industries
+  - Establishing responsible AI governance frameworks for enterprise clients
+  skills:
+    genai: [LLMs, RAG, fine-tuning, prompt engineering]
+    ml: [PyTorch, TensorFlow, model training]
+    web: [microservices, FastAPI, REST, APIs]
+    databases: [vector databases]
+    data: [data visualization, statistical analysis]
+    cloud: [cloud-native]
+    ops: [Docker, Kubernetes, CI/CD, GitHub Actions, MLflow]
+    languages: [Python]
+    domains: []
+    other: [Responsible AI]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7590111'
+  extracted_at: '2026-02-05T11:09:45.680674'

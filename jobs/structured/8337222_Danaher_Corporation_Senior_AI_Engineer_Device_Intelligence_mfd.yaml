@@ -1,0 +1,63 @@
+company:
+  name: Danaher Corporation
+  stage: Public
+  focus: Life sciences, diagnostics, and biotechnology technology
+  use_cases:
+  - Extract meaningful insights from device data to improve user experience and instrument
+    automation
+  - Enhance imaging devices with AI capabilities in life sciences, diagnostics, and
+    biotechnology sectors
+  - Implement agentic workflows and multimodal AI for instrument automation and upleveling
+    user capabilities
+  - Large-scale image processing and analysis for healthcare and life sciences applications
+  - Integrate AI systems with instrument control mechanisms for enhanced automation
+position:
+  title: Senior AI Engineer, Device Intelligence (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role as the engineer will directly
+      design and implement advanced AI systems including agentic
+      workflows, LLMs, RAG approaches, and computer vision
+      technologies. The role involves hands-on end-to-end
+      implementation of AI projects using deep learning
+      frameworks, vector databases, and agentic frameworks to
+      enhance device automation and user capabilities.
+  responsibilities:
+  - Collaborate with team to develop AI-driven product improvements and new products
+    for imaging devices
+  - Design and implement advanced AI systems including agentic workflows, LLMs, and
+    computer vision technologies
+  - Translate product concepts into concrete AI architectures ensuring alignment with
+    product success criteria
+  - Lead technical implementation of complex AI projects spanning multiple functions
+    and multi-quarter timelines
+  - Drive innovation in the AI software stack to maximize value extraction from instruments
+  - Build comprehensive AI roadmaps for imaging products across various verticals
+  use_cases:
+  - Extract meaningful insights from device data to improve user experience and instrument
+    automation
+  - Enhance imaging devices with AI capabilities in life sciences, diagnostics, and
+    biotechnology sectors
+  - Implement agentic workflows and multimodal AI for instrument automation and upleveling
+    user capabilities
+  - Large-scale image processing and analysis for healthcare and life sciences applications
+  - Integrate AI systems with instrument control mechanisms for enhanced automation
+  skills:
+    genai: [Agentic Workflows, LLMs, RAG approaches, Agentic frameworks, Foundation
+        models]
+    ml: [Convolutional neural networks, AI evaluation methods, PyTorch, TensorFlow,
+      OpenCV]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Docker, Kubernetes, GPUs, TPUs]
+    languages: [Python, C++]
+    domains: [Computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8337222'
+  extracted_at: '2026-02-05T12:54:12.843938'

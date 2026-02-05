@@ -1,0 +1,51 @@
+company:
+  name: Capsule (capsule.video)
+  stage: Series A
+  focus: AI-powered video editing tool for teams
+  use_cases:
+  - AI-powered video editing for enterprise teams
+  - Creation of high-quality, on-brand video content at scale
+  - Automated video editing features powered by ML models
+  - Intelligent video content generation and optimization
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role directly involves working ON AI systems -
+      developing, implementing, and deploying ML models to power
+      new video editing features. The engineer will optimize model
+      performance and stay current with ML engineering best
+      practices, indicating hands-on model building and deployment
+      work.
+  responsibilities:
+  - Research and evaluate new ML techniques and technologies that can be applied to
+    our product
+  - Collaborate with cross-functional teams to identify and prioritize ML feature
+    development opportunities
+  - Develop and implement ML models and algorithms to power these features
+  - Optimize model performance and accuracy through testing and iterative development
+  - Participate in code reviews and provide technical guidance to other team members
+  - Bring new ideas to the table that expand the capabilities of the product and delight
+    customers
+  use_cases:
+  - AI-powered video editing for enterprise teams
+  - Creation of high-quality, on-brand video content at scale
+  - Automated video editing features powered by ML models
+  - Intelligent video content generation and optimization
+  skills:
+    genai: []
+    ml: [PyTorch, feature engineering, model selection, model optimization]
+    web: []
+    databases: []
+    data: [data preprocessing]
+    cloud: []
+    ops: [model deployment, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7107575'
+  extracted_at: '2026-02-05T10:18:44.519948'

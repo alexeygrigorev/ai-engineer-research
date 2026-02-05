@@ -1,0 +1,64 @@
+company:
+  name: FGS Global
+  stage: Public
+  focus: Stakeholder strategy and corporate communications PR firm
+  use_cases:
+  - Live AI assistant (Fergus) that provides strategic recommendations to consultants
+    worldwide
+  - AI agents for M&A, crisis communications, and stakeholder strategy that access
+    enterprise data
+  - Generation of press releases and analysis of media coverage using AI capabilities
+  - Real-time media intelligence processing millions of articles and social posts
+    daily
+  - AI-powered tools helping consultants navigate high-stakes client situations with
+    secure data access
+position:
+  title: Integration Engineer – Microsoft Graph & Enterprise AI Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building enterprise integrations, data
+      pipelines, and authentication infrastructure to enable AI
+      agents to access Microsoft 365 services. The work involves
+      supporting AI capabilities through API integration,
+      security, and data infrastructure rather than building,
+      training, or deploying models directly.
+  responsibilities:
+  - Implement OAuth-based authentication flows with proper scope management and secure
+    token strategies
+  - Build data pipelines for email, calendar, file storage, and collaboration platforms
+    using Microsoft Graph API
+  - Develop integrations across Microsoft 365 services with resilient error handling
+    and retry logic
+  - Work with IT teams on app registration, permission workflows, and enterprise security
+    patterns
+  - Monitor integration health, handle API throttling, and debug authentication failures
+    in production
+  - Create resource mapping between internal systems and external platforms while
+    optimizing performance
+  use_cases:
+  - Live AI assistant (Fergus) that provides strategic recommendations to consultants
+    worldwide
+  - AI agents for M&A, crisis communications, and stakeholder strategy that access
+    enterprise data
+  - Generation of press releases and analysis of media coverage using AI capabilities
+  - Real-time media intelligence processing millions of articles and social posts
+    daily
+  - AI-powered tools helping consultants navigate high-stakes client situations with
+    secure data access
+  skills:
+    genai: [Model Context Protocol]
+    ml: []
+    web: [Microsoft Graph API, OAuth 2.0, API integration, MSAL Node]
+    databases: [Redis]
+    data: [data pipelines]
+    cloud: [Azure AD, SharePoint, Microsoft Teams, Exchange Online, GCP]
+    ops: []
+    languages: [Node.js, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8344138'
+  extracted_at: '2026-02-05T12:56:20.597743'

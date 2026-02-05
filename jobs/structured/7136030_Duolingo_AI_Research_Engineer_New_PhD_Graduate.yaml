@@ -1,0 +1,51 @@
+company:
+  name: Duolingo
+  stage: Public
+  focus: Language learning and education app
+  use_cases:
+  - Language learning optimization and personalization
+  - English proficiency testing
+  - Math and music skills development
+  - Educational content recommendation and delivery
+  - Learner engagement and motivation improvement
+position:
+  title: AI Research Engineer, New PhD Graduate
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Research Engineer role requiring a PhD and
+      portfolio of impactful work including publications, open-
+      source projects, or AI internships. The responsibilities
+      involve solving ambitious problems with AI tools,
+      prototyping and implementing AI solutions at scale for
+      language learning applications, and publishing research
+      findings, all indicating hands-on work building and
+      deploying AI systems.
+  responsibilities:
+  - Solve ambitious problems using the right tools for each task
+  - Collaborate cross-functionally to bring ideas to life in the product
+  - Identify problems, prototype solutions, evaluate ROI, and implement best solutions
+    at scale
+  - Share findings within Duolingo and with the broader research community
+  use_cases:
+  - Language learning optimization and personalization
+  - English proficiency testing
+  - Math and music skills development
+  - Educational content recommendation and delivery
+  - Learner engagement and motivation improvement
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow, machine learning, deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: [research, debugging]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7136030'
+  extracted_at: '2026-02-05T10:24:17.084449'

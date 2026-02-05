@@ -1,0 +1,54 @@
+company:
+  name: Helsing
+  stage: Series B
+  focus: AI-based defense and national security technology
+  use_cases:
+  - AI perception systems for human decision-making assistance in defense
+  - Scalable evaluation and assurance of AI products across multiple capabilities
+  - Robustness assessment against adversarial attacks in high-constraint environments
+  - Uncertainty quantification for safe AI decision-making in critical applications
+  - Responsible AI deployment in national security and defense contexts
+position:
+  title: AI Research Engineer - AI Safety
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on AI safety, evaluation, uncertainty
+      quantification, and robustness of AI systems - primarily
+      working with deep learning models rather than building LLMs
+      or generative AI applications. The engineer evaluates and
+      validates AI capabilities, develops safety mechanisms, and
+      assesses adversarial robustness, which is supporting work
+      around AI systems but not building novel AI/ML
+      architectures.
+  responsibilities:
+  - Define operational domains and evaluate the reliability of in-house AI capabilities
+  - Develop and extend state-of-the-art uncertainty quantification and calibration
+    techniques
+  - Design data collection and experimentation strategies to extract causal insights
+  - Evaluate AI system robustness in real-world and adversarial scenarios
+  - Implement safety mechanisms and enhance responsible decision-making
+  - Deploy AI software to production with testing, QA, and monitoring
+  use_cases:
+  - AI perception systems for human decision-making assistance in defense
+  - Scalable evaluation and assurance of AI products across multiple capabilities
+  - Robustness assessment against adversarial attacks in high-constraint environments
+  - Uncertainty quantification for safe AI decision-making in critical applications
+  - Responsible AI deployment in national security and defense contexts
+  skills:
+    genai: []
+    ml: [Deep Learning, uncertainty quantification, model evaluation, adversarial
+        robustness, reinforcement learning, causal inference]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, monitoring, CI/CD]
+    languages: [Python, Rust, Java, C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6516518'
+  extracted_at: '2026-02-05T09:45:28.532477'

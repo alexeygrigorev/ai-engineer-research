@@ -1,0 +1,64 @@
+company:
+  name: RoomPriceGenie
+  stage: Series B
+  focus: AI-powered hotel pricing optimization platform
+  use_cases:
+  - Hotel pricing optimization using algorithms that analyze internal hotel data and
+    market trends
+  - Revenue management system that recommends optimal pricing strategies to enhance
+    booking rates
+  - Demand forecasting engine that helps hotels predict and adjust to market conditions
+  - Real-time pricing recommendations generated from analysis of both historical and
+    market data
+  - Scalable data platform supporting global customer base across multiple geographic
+    markets
+position:
+  title: Remote Senior Data Engineer (AI/ML) (m/f/d)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Data Engineer role focused on building data
+      pipelines and infrastructure (ETL/ELT with Dagster, dbt,
+      Snowflake) to power an existing optimization engine. The
+      role supports ML systems by providing data infrastructure
+      and platform capabilities, but does not involve building,
+      training, or deploying models directly.
+  responsibilities:
+  - Design and build scalable data pipelines using Dagster to handle increasing data
+    volumes and feature complexity
+  - Evolve data platform architecture to support scaling users, datasets, and feature
+    complexity
+  - Partner with Product and Design teams to take full ownership of projects from
+    conception through post-deployment
+  - Collaborate with ML and Backend Engineers to integrate data systems with optimization
+    engine and forecasting
+  - Maintain and optimize data warehousing solutions using Snowflake/Databricks and
+    dbt for modeling and testing
+  - Work with AWS Aurora/RDS (Postgres) to support data storage and retrieval needs
+  use_cases:
+  - Hotel pricing optimization using algorithms that analyze internal hotel data and
+    market trends
+  - Revenue management system that recommends optimal pricing strategies to enhance
+    booking rates
+  - Demand forecasting engine that helps hotels predict and adjust to market conditions
+  - Real-time pricing recommendations generated from analysis of both historical and
+    market data
+  - Scalable data platform supporting global customer base across multiple geographic
+    markets
+  skills:
+    genai: []
+    ml: [SciPy]
+    web: [Django, FastAPI]
+    databases: [Snowflake, AWS Aurora, Postgres, MongoDB, DynamoDB]
+    data: [Dagster, dbt, Databricks, pandas, polars, NumPy, ETL/ELT pipelines, Data
+        warehousing]
+    cloud: []
+    ops: [Terraform, OpenTofu, Celery, RabbitMQ, DataDog]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7705896'
+  extracted_at: '2026-02-05T11:21:16.451840'

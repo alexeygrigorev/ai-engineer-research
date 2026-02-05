@@ -1,0 +1,64 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company
+  use_cases:
+  - Building novel Generative AI applications on OpenAI's API for startup customers
+  - Prototyping and demonstrating practical AI/LLM use cases from ideation through
+    production scaling
+  - Developing industry-specific GenAI use cases for diverse startup backgrounds and
+    maturity levels
+  - Creating and sharing open-source resources and best practices for AI application
+    development
+  - Collecting and delivering high-fidelity product and model feedback to internal
+    teams
+position:
+  title: AI Deployment Engineer- Startups
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that involves
+      building and deploying Generative AI applications directly
+      with customers. The role includes hands-on work with
+      OpenAI's API, prototyping AI solutions, and guiding
+      customers from ideation to production - which constitutes
+      direct work ON AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Partner closely with strategic startup customers as their technical thought partner
+    to build novel applications on our API, helping them rapidly move from ideation
+    to scale
+  - Provide proactive guidance to maximize business impact and accelerate application
+    development
+  - Experiment and prototype alongside customers, demonstrating practical use cases
+  - Contribute to open-source resources and scale the function by sharing knowledge,
+    codifying best practices, and publishing useful resources
+  - Synthesize and deliver valuable feedback to the Product and Research teams
+  - Build relationships within the startup ecosystem, serving as a technical partner
+    to both individual customers and the broader community
+  use_cases:
+  - Building novel Generative AI applications on OpenAI's API for startup customers
+  - Prototyping and demonstrating practical AI/LLM use cases from ideation through
+    production scaling
+  - Developing industry-specific GenAI use cases for diverse startup backgrounds and
+    maturity levels
+  - Creating and sharing open-source resources and best practices for AI application
+    development
+  - Collecting and delivering high-fidelity product and model feedback to internal
+    teams
+  skills:
+    genai: [OpenAI API, LLM best practices]
+    ml: []
+    web: [API development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [prototyping]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7614004'
+  extracted_at: '2026-02-05T11:14:59.215665'

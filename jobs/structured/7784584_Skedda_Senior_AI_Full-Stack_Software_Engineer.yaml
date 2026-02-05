@@ -1,0 +1,53 @@
+company:
+  name: Skedda
+  stage: null
+  focus: |-
+    Workplace management platform with booking, analytics, and
+    integrations
+  use_cases:
+  - AI-powered features for workplace management and booking systems
+  - Integration of machine learning models to enhance product capabilities
+  - Smart analytics and utilization insights for workspace optimization
+  - Interactive floor plans with intelligent recommendations
+  - Meeting room and desk booking with AI-driven scheduling assistance
+position:
+  title: Senior AI Full-Stack Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building AI-powered features and
+      integrating machine learning models directly into the
+      product, which is hands-on AI implementation work. The
+      developer will research, test, and implement AI technologies
+      to advance product capabilities, indicating direct work on
+      AI systems rather than just supporting infrastructure.
+  responsibilities:
+  - Build full-stack AI-powered features, integrating machine learning models and
+    related AI technologies to advance product capabilities
+  - Provide senior-level implementation for new features across the full-stack
+  - Implement full test automation for all work
+  - Own projects from a technical perspective, from conceptualization to launch
+  - Solve complex technical challenges and research new techniques
+  - Collaborate with team members on design techniques and coding standards
+  use_cases:
+  - AI-powered features for workplace management and booking systems
+  - Integration of machine learning models to enhance product capabilities
+  - Smart analytics and utilization insights for workspace optimization
+  - Interactive floor plans with intelligent recommendations
+  - Meeting room and desk booking with AI-driven scheduling assistance
+  skills:
+    genai: [AI integration]
+    ml: [machine learning]
+    web: [.NET, .NET Core, Web APIs]
+    databases: [SQL Server]
+    data: []
+    cloud: [Azure]
+    ops: [Azure DevOps, TDD, test automation]
+    languages: [C#, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7784584'
+  extracted_at: '2026-02-05T11:30:42.694838'

@@ -1,0 +1,58 @@
+company:
+  name: Miro
+  stage: Late-stage (100M+ users, 1,600+ employees, co-headquartered in SF and Amsterdam)
+  focus: |-
+    Visual workspace for innovation and distributed team
+    collaboration
+  use_cases:
+  - AI-powered intelligent assistants (sidekicks) that help users collaborate and
+    create within the Miro platform
+  - Create with AI app enabling users to generate content using AI on the visual canvas
+  - AI context menu providing contextual AI-powered features and suggestions
+  - AI-augmented collaborative workspace experiences for over 90 million users
+  - Intelligent tools that empower teams to innovate and build products more efficiently
+position:
+  title: Full Stack Engineer, AI Experience
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a full-stack engineering role focused on building
+      user-facing interfaces and backend services for AI features.
+      The role collaborates with applied AI teams but does not
+      involve building, training, or deploying models directly.
+      The responsibilities center on enabling AI features through
+      web development and infrastructure rather than working on AI
+      systems themselves.
+  responsibilities:
+  - Build full-stack AI-powered features such as intelligent assistants (sidekicks),
+    Create with AI app and the AI context menu
+  - Develop intuitive frontend interfaces and robust backend services that make AI
+    features accessible and impactful
+  - Collaborate with cross-functional teams including product, design, and applied
+    AI to ideate, prototype, and ship features
+  - Help shape the technical direction and long-term vision of Miro's AI experiences
+  - Contribute to a culture of innovation, quality, and rapid learning
+  - Act as a mentor and technical resource for other engineers
+  use_cases:
+  - AI-powered intelligent assistants (sidekicks) that help users collaborate and
+    create within the Miro platform
+  - Create with AI app enabling users to generate content using AI on the visual canvas
+  - AI context menu providing contextual AI-powered features and suggestions
+  - AI-augmented collaborative workspace experiences for over 90 million users
+  - Intelligent tools that empower teams to innovate and build products more efficiently
+  skills:
+    genai: [AI agent frameworks]
+    ml: []
+    web: [React, REST, gRPC]
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [JavaScript, TypeScript, Java, Kotlin]
+    domains: []
+    other: [OAuth]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6728117'
+  extracted_at: '2026-02-05T09:48:42.001564'

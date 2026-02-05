@@ -1,0 +1,49 @@
+company:
+  name: Coverbase
+  stage: Seed
+  focus: AI-driven third-party risk management platform
+  use_cases:
+  - Organize vast amounts of unstructured counterparty data using modern AI techniques
+  - Compare vendor data against policies to identify key business risks
+  - Streamline business-to-business risk assessment and due diligence
+  - Automate third-party risk management for financial institutions
+  - Reduce time for risk assessments from weeks to days through AI automation
+position:
+  title: Founding AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building LLM features
+      from ideation to production, including scaling and
+      benchmarking. The role involves hands-on development of LLM
+      applications and mitigating hallucinations, not just
+      supporting AI infrastructure.
+  responsibilities:
+  - Build LLM features from ideation to production, including scaling
+  - Develop benchmarks to evaluate LLM performance and mitigate hallucinations
+  - Own the full development lifecycle, including infrastructure and front-end work
+    around AI features
+  - Foster a constructive environment through code reviews, mentoring, and knowledge
+    sharing
+  use_cases:
+  - Organize vast amounts of unstructured counterparty data using modern AI techniques
+  - Compare vendor data against policies to identify key business risks
+  - Streamline business-to-business risk assessment and due diligence
+  - Automate third-party risk management for financial institutions
+  - Reduce time for risk assessments from weeks to days through AI automation
+  skills:
+    genai: [LLM development, prompt engineering, hallucination mitigation]
+    ml: [machine learning]
+    web: [REST APIs]
+    databases: []
+    data: [data pipelines]
+    cloud: [cloud infrastructure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7780278'
+  extracted_at: '2026-02-05T11:29:51.408734'

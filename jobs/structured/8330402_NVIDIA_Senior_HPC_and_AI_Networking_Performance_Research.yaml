@@ -1,0 +1,58 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI infrastructure
+  use_cases:
+  - Distributed deep learning LLM training at scale on NVIDIA supercomputers
+  - High-performance networking optimization for AI/ML workloads
+  - Collective communication optimization using NCCL and RDMA protocols
+  - System performance analysis and bottleneck identification for large-scale GPU
+    clusters
+  - AI workload benchmarking and performance profiling on multi-node systems
+position:
+  title: Senior HPC and AI Networking Performance Research and Analysis Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      This role focuses on analyzing and optimizing performance
+      for distributed deep learning and LLM training workloads,
+      specifically around networking and system performance. The
+      engineer works with PyTorch, TensorFlow, CUDA, and NCCL to
+      understand bottlenecks and optimize training infrastructure,
+      but does not involve building, fine-tuning, or deploying
+      models directly.
+  responsibilities:
+  - Profile and analyze AI workloads and distributed deep learning LLM training on
+    large-scale GPU and CPU clusters
+  - Benchmark and analyze performance with focus on communication patterns, RDMA,
+    networking, and system performance
+  - Implement performance analysis tools and methodologies for root cause analysis
+    of performance bottlenecks
+  - Collaborate with cross-functional teams from hardware to software to provide performance
+    analysis insights
+  - Define performance test planning, set performance expectations for new technologies,
+    and work to reach performance targets
+  use_cases:
+  - Distributed deep learning LLM training at scale on NVIDIA supercomputers
+  - High-performance networking optimization for AI/ML workloads
+  - Collective communication optimization using NCCL and RDMA protocols
+  - System performance analysis and bottleneck identification for large-scale GPU
+    clusters
+  - AI workload benchmarking and performance profiling on multi-node systems
+  skills:
+    genai: []
+    ml: [NVIDIA GPUs, CUDA, TensorFlow, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [RDMA, MPI, NCCL, RoCE, Linux, Performance Analysis, Benchmarking, Congestion
+        Control]
+    languages: [Python, Bash, C]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8330402'
+  extracted_at: '2026-02-05T12:53:09.113647'

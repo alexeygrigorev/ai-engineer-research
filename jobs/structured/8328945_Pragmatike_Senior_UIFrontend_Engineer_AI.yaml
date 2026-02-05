@@ -1,0 +1,56 @@
+company:
+  name: Pragmatike
+  stage: Seed
+  focus: GenAI startup building enterprise AI products
+  use_cases:
+  - Data-heavy dashboards for AI/ML model visualization and monitoring
+  - Real-time web applications displaying AI-powered insights for enterprise customers
+  - High-performance interfaces for Fortune 500 clients to interact with GenAI products
+  - Responsive dashboards handling large-scale AI data and analytics
+  - User interfaces for AI-driven product features and functionality
+position:
+  title: Senior UI/Frontend Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior UI/Frontend Engineer role focused on
+      building web interfaces and dashboards for an AI company's
+      products. The engineer works with React and TypeScript to
+      create user-facing interfaces that display AI/ML data, but
+      does not build, train, or deploy models themselves. The role
+      supports AI functionality by creating the presentation layer
+      for AI-driven products used by Fortune 500 clients.
+  responsibilities:
+  - Build and maintain modern, production-grade web interfaces using React and TypeScript
+  - Translate product requirements and design systems into clean, scalable UI components
+  - Own complex frontend features end to end, from implementation to production support
+  - Optimize UI performance for large datasets, real-time updates, and high-usage
+    dashboards
+  - Collaborate closely with product, design, and backend teams to ship user-facing
+    features
+  - Establish frontend best practices around state management, testing, and code quality
+  - Improve frontend architecture, tooling, and developer experience
+  - Debug and resolve production UI issues across browsers and devices
+  use_cases:
+  - Data-heavy dashboards for AI/ML model visualization and monitoring
+  - Real-time web applications displaying AI-powered insights for enterprise customers
+  - High-performance interfaces for Fortune 500 clients to interact with GenAI products
+  - Responsive dashboards handling large-scale AI data and analytics
+  - User interfaces for AI-driven product features and functionality
+  skills:
+    genai: []
+    ml: []
+    web: [React, state management, Redux, Zustand, React Query, component libraries,
+      design systems, responsive design, accessibility, UI performance optimization]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8328945'
+  extracted_at: '2026-02-05T12:52:37.951218'

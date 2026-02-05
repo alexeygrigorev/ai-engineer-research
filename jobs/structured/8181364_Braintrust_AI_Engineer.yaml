@@ -1,0 +1,60 @@
+company:
+  name: Braintrust
+  stage: null
+  focus: |-
+    AI observability platform for evals and production
+    monitoring
+  use_cases:
+  - AI observability and monitoring in production environments
+  - Model comparison and prompt testing for AI applications
+  - Regression detection and quality evaluation for LLM systems
+  - End-to-end AI workflow instrumentation and tracing
+  - Operationalizing AI evaluations as part of software development lifecycle
+  - Production data analysis for continuous AI system improvement
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a forward deployed engineering role working directly
+      on AI systems with customers. The role involves deploying
+      and improving AI applications, instrumenting AI workflows,
+      working with LLMs and agentic workflows in production, and
+      implementing evaluations and CI quality gates - all hands-on
+      work with models and AI systems.
+  responsibilities:
+  - Partner closely with customer engineering teams to deploy, stabilize, and continuously
+    improve AI applications in production
+  - Instrument and trace real-world AI workflows end-to-end, establishing baseline
+    targets for latency, cost, quality, and reliability
+  - Turn production data into datasets and evaluations; define scoring rubrics and
+    implement CI quality gates
+  - Build prototypes, integrations, and custom workflows that help customers operationalize
+    evaluations and observability as part of their SDLC
+  - Deploy and troubleshoot Braintrust in customer environments (cloud or self-hosted),
+    working across application, data, and infrastructure layers
+  - Act as the technical lead in customer engagements, running an operating cadence
+    and feeding real-world learnings back into Product and Engineering
+  use_cases:
+  - AI observability and monitoring in production environments
+  - Model comparison and prompt testing for AI applications
+  - Regression detection and quality evaluation for LLM systems
+  - End-to-end AI workflow instrumentation and tracing
+  - Operationalizing AI evaluations as part of software development lifecycle
+  - Production data analysis for continuous AI system improvement
+  skills:
+    genai: [LLMs, agentic workflows, prompt engineering]
+    ml: []
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [AI observability, evaluation frameworks, ML/LLMOps, Docker, Kubernetes]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8181364'
+  extracted_at: '2026-02-05T12:09:49.758454'

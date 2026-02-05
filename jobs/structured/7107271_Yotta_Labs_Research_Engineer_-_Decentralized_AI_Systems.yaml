@@ -1,0 +1,53 @@
+company:
+  name: Yotta Labs
+  stage: null
+  focus: Decentralized AI infrastructure for GPU orchestration
+  use_cases:
+  - AI training and inference on geo-distributed GPU networks
+  - Orchestration of AI workloads across heterogeneous hardware from commodity to
+    high-end GPUs
+  - Deployment and management of large language models at planetary scale
+  - Elastic and efficient AI development through decentralized computing resources
+  - GPU resource aggregation and optimization for AI applications
+position:
+  title: Research Engineer - Decentralized AI Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI infrastructure role focused on building
+      systems that orchestrate and optimize AI workloads rather
+      than building, training, or fine-tuning models directly. The
+      work involves distributed systems engineering for GPU
+      resource management and LLM deployment platforms, which
+      supports but doesn't directly work on AI models.
+  responsibilities:
+  - Design and implement components of the DeOS for efficient AI workload orchestration
+  - Develop and optimize software for managing geo-distributed, heterogeneous GPU
+    resources
+  - Collaborate with cross-functional teams to integrate support for various LLMs
+    and AI models
+  - Ensure high availability and fault tolerance in decentralized computing environments
+  - Contribute to open-source projects and engage with the developer community
+  use_cases:
+  - AI training and inference on geo-distributed GPU networks
+  - Orchestration of AI workloads across heterogeneous hardware from commodity to
+    high-end GPUs
+  - Deployment and management of large language models at planetary scale
+  - Elastic and efficient AI development through decentralized computing resources
+  - GPU resource aggregation and optimization for AI applications
+  skills:
+    genai: []
+    ml: [PyTorch, GPU optimization]
+    web: []
+    databases: []
+    data: [Ray]
+    cloud: [cloud computing]
+    ops: [distributed systems, GPU programming, vLLM, SGLang, Verl]
+    languages: [Python]
+    domains: []
+    other: [blockchain technologies]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7107271'
+  extracted_at: '2026-02-05T10:18:37.024874'

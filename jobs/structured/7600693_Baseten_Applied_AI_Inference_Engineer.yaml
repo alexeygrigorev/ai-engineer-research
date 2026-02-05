@@ -1,0 +1,63 @@
+company:
+  name: Baseten
+  stage: Series E
+  focus: AI inference platform for production deployment
+  use_cases:
+  - Deploy production-ready model servers from Docker images for various AI applications
+  - Build high-scale inference systems for transcription using Whisper models
+  - Deploy custom ComfyUI workflows as APIs for generative AI applications
+  - Power mission-critical inference for AI companies including Cursor, Notion, OpenEvidence,
+    Abridge, Clay, Gamma and Writer
+  - Optimize AI applications for quality, latency, and cost outcomes in production
+    environments
+  - Enable companies to bring cutting-edge AI models into production with reliable
+    and observable services
+position:
+  title: Applied AI Inference Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineering role that directly
+      deploys AI/ML solutions to customers. The role involves
+      hands-on coding and software development to build production
+      AI applications, including model servers (Whisper, ComfyUI
+      workflows) and inference systems on Baseten's platform.
+  responsibilities:
+  - Develop and maintain production-level software systems and product features using
+    general-purpose programming languages, preferably Python
+  - Partner directly with customers to architect, build, and deploy high-scale production
+    AI applications on Baseten's platform from exploration to production
+  - Drive customer impact by designing, implementing, and deploying Baseten solutions
+    end-to-end including problem framing, evaluation, production deployment, and monitoring
+  - Turn vague objectives into clear specifications and well-defined PoCs to rapidly
+    ship well-tested services and customer outcomes
+  - Optimize and enhance AI/ML projects, contributing to continuous improvement of
+    the technical stack through features and PRDs
+  - Own products and customer projects end-to-end, functioning as an engineer, project
+    manager, and product manager with focus on user empathy and execution
+  use_cases:
+  - Deploy production-ready model servers from Docker images for various AI applications
+  - Build high-scale inference systems for transcription using Whisper models
+  - Deploy custom ComfyUI workflows as APIs for generative AI applications
+  - Power mission-critical inference for AI companies including Cursor, Notion, OpenEvidence,
+    Abridge, Clay, Gamma and Writer
+  - Optimize AI applications for quality, latency, and cost outcomes in production
+    environments
+  - Enable companies to bring cutting-edge AI models into production with reliable
+    and observable services
+  skills:
+    genai: []
+    ml: [model deployment, ML lifecycle]
+    web: [API development]
+    databases: []
+    data: [AI/ML pipelines]
+    cloud: []
+    ops: [Docker, performance engineering, production monitoring, inference optimization]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7600693'
+  extracted_at: '2026-02-05T11:12:04.483523'

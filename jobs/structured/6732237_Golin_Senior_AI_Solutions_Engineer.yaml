@@ -1,0 +1,62 @@
+company:
+  name: Golin
+  stage: Public
+  focus: Global public relations and communications agency
+  use_cases:
+  - AI-enhanced marketing and PR processes to deliver industry-leading client outcomes
+  - Operational efficiency improvements through AI-assisted workflows that solve daily
+    team challenges
+  - Custom AI assistants and agents built on codified agency processes and best practices
+  - Enterprise web applications integrated with AI capabilities for agency operations
+  - AI-powered products and services for communications and marketing workflows
+position:
+  title: Senior AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and
+      implementing AI solutions including custom AI assistants,
+      Model Context Protocol (MCP) servers, AI agents, and
+      LangChain/LangGraph applications. The engineer works
+      directly with AI platforms like Claude and designs technical
+      specifications for AI-powered solutions.
+  responsibilities:
+  - Partner with local teams to identify operational pain points and convert them
+    into AI-assisted solutions
+  - Design and implement AI-assisted solutions using Claude and other cutting-edge
+    AI platforms
+  - Develop Model Context Protocol (MCP) servers and AI agents for agency operations
+  - Build and deploy enterprise-grade AI solutions in cloud environments (AWS, Azure,
+    GCP)
+  - Build enterprise web applications using state-of-the-art web frameworks and API
+    design
+  - Create comprehensive Claude Project instruction sets and scalable, secure AI solutions
+    that integrate with existing systems
+  - Contribute to multi-year AI technology strategy and assess existing agency IP
+    for AI enhancement opportunities
+  - Provide technical expertise, training, and knowledge transfer to ensure widespread
+    adoption of new AI technologies
+  use_cases:
+  - AI-enhanced marketing and PR processes to deliver industry-leading client outcomes
+  - Operational efficiency improvements through AI-assisted workflows that solve daily
+    team challenges
+  - Custom AI assistants and agents built on codified agency processes and best practices
+  - Enterprise web applications integrated with AI capabilities for agency operations
+  - AI-powered products and services for communications and marketing workflows
+  skills:
+    genai: [LangChain, LangGraph, Claude, custom AI assistant development, Model Context
+        Protocol (MCP), AI agents, prompt engineering]
+    ml: []
+    web: [React, Next.js, API design and development]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, GitHub, enterprise AI deployment]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [AI governance, AI ethics, regulatory compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6732237'
+  extracted_at: '2026-02-05T09:49:13.937831'

@@ -1,0 +1,62 @@
+company:
+  name: PointClickCare
+  stage: Privately held
+  focus: |-
+    Healthcare technology platform for long-term and post-acute
+    care
+  use_cases:
+  - Transform system workflows through AI agents and automations in Salesforce environment
+  - Intelligent process automation to reduce waste and improve efficiency for healthcare
+    providers
+  - AI-driven solutions for integrated partner ecosystem including billing, document
+    signing, and marketing platforms
+  - Automated testing frameworks to improve quality assurance processes
+  - AI change management to accelerate value delivery to healthcare customers
+position:
+  title: Sr Application Engineer (Salesforce Agentforce AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI Agents using
+      Salesforce Agentforce and Microsoft Studio for CoPilot
+      Agents. The engineer is responsible for architecting and
+      delivering AI agents, building AI workflows, and integrating
+      external data sources directly working on AI systems rather
+      than just supporting them.
+  responsibilities:
+  - Build AI Agents using Agentforce and other AI platforms like Microsoft Studio
+    for CoPilot Agents
+  - Pioneer intelligent automations using IPA tools like Power Automate and Alteryx
+  - Develop and maintain Salesforce applications and integrations using Apex, JavaScript,
+    and Python
+  - Build test automations to improve QA efficiencies for Salesforce and other applications
+  - Collaborate with cross-functional teams to identify, prototype, and deliver AI
+    use cases
+  - Provide mentorship, peer reviews, and technical guidance to junior and intermediate
+    application engineers
+  use_cases:
+  - Transform system workflows through AI agents and automations in Salesforce environment
+  - Intelligent process automation to reduce waste and improve efficiency for healthcare
+    providers
+  - AI-driven solutions for integrated partner ecosystem including billing, document
+    signing, and marketing platforms
+  - Automated testing frameworks to improve quality assurance processes
+  - AI change management to accelerate value delivery to healthcare customers
+  skills:
+    genai: [Agentforce, AI Agents, Microsoft Studio for CoPilot Agents, Power Automate,
+      AI workflows, Salesforce Einstein]
+    ml: []
+    web: []
+    databases: []
+    data: [Alteryx]
+    cloud: [Salesforce, Salesforce integrations]
+    ops: [GitHub, Copado, AutoRabit, Selenium, PMD, DevOps]
+    languages: [Apex, JavaScript, Python]
+    domains: []
+    other: [SaaS product development, Service-Oriented Architecture, SAML, OAuth,
+      OpenID Connect, Scrum, Kanban]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8133686'
+  extracted_at: '2026-02-05T12:04:48.408153'

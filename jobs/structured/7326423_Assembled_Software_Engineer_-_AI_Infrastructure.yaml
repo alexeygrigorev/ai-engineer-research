@@ -1,0 +1,60 @@
+company:
+  name: Assembled
+  stage: Series B
+  focus: AI-powered customer support operations platform
+  use_cases:
+  - AI Agents that automate customer support workflows across email, chat, and voice
+    channels
+  - AI Copilot providing real-time assistance to human support agents
+  - AI-powered workforce management optimizing both human and AI capacity
+  - Dynamic routing of LLM requests for performance and cost efficiency
+  - Semantic search across support content using embeddings and vector databases
+  - Enterprise-grade AI systems with strict privacy, security, and compliance guardrails
+position:
+  title: Software Engineer - AI Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building infrastructure and platforms that
+      power LLM-based agents, not building or fine-tuning models
+      themselves. The engineer works on inference routing, storage
+      systems, observability, and developer tools that enable AI
+      work, which aligns with ai-support classification.
+  responsibilities:
+  - Build and operate core infrastructure powering the AI agent platform for customer
+    support at scale
+  - Manage agent service reliability and scaling including inference strategies, model
+    provider integrations, and dynamic traffic routing
+  - Develop prompt and embedding storage systems with fast-access storage and indexing
+    layers for real-time AI interactions
+  - Implement privacy and security systems including intrusion detection, audit logging,
+    and LLM usage policy enforcement
+  - Operate observability and usage analytics systems tracking token usage, latency,
+    cost, and quality signals
+  - Explore and build AI-powered developer tools including internal chat agents and
+    intelligent automation for deployment and debugging
+  use_cases:
+  - AI Agents that automate customer support workflows across email, chat, and voice
+    channels
+  - AI Copilot providing real-time assistance to human support agents
+  - AI-powered workforce management optimizing both human and AI capacity
+  - Dynamic routing of LLM requests for performance and cost efficiency
+  - Semantic search across support content using embeddings and vector databases
+  - Enterprise-grade AI systems with strict privacy, security, and compliance guardrails
+  skills:
+    genai: [OpenAI API, Anthropic API, Semantic search, Prompt templating, LLM integration]
+    ml: []
+    web: []
+    databases: [Pinecone, Weaviate, PGVector, Postgres, PgBouncer, Snowflake, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, Karpenter, vLLM, HuggingFace TGI, Ray Serve, Datadog, Mezmo,
+      CloudWatch, Buildkite, CircleCI, Container orchestration, Inference strategies]
+    languages: [Go, Python]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7326423'
+  extracted_at: '2026-02-05T10:39:14.855040'

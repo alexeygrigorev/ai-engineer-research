@@ -1,0 +1,52 @@
+company:
+  name: G2i
+  stage: null
+  focus: AI code evaluation and model training
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Converting expert code review feedback into reward signals for reinforcement learning
+  - Teaching models to propose, critique, and improve code similar to expert engineers
+  - Improving AI code generation through iterative RLHF processes
+position:
+  title: AI Software Engineer (Java)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs through RLHF
+      (Reinforcement Learning with Human Feedback), directly
+      participating in the model training process by ranking code,
+      providing feedback, and injecting data into the training
+      pipeline. The engineer's expertise directly shapes how the
+      AI model learns and improves its code generation
+      capabilities.
+  responsibilities:
+  - Compare and rank multiple code snippets, explaining which is best and why
+  - Repair and refactor AI-generated code for correctness, efficiency, and style
+  - Inject feedback including ratings, edits, and test results into the RLHF pipeline
+  - Maintain smooth operation of the RLHF pipeline for continuous model improvement
+  - Apply strong code-review instincts to spot logic errors, performance traps, and
+    security issues
+  - Provide clear written explanations justifying code quality decisions
+  use_cases:
+  - Training large language models to write production-grade code across multiple
+    programming languages
+  - Converting expert code review feedback into reward signals for reinforcement learning
+  - Teaching models to propose, critique, and improve code similar to expert engineers
+  - Improving AI code generation through iterative RLHF processes
+  skills:
+    genai: []
+    ml: [RLHF]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Java]
+    domains: []
+    other: [code review, constraint programming]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8254958'
+  extracted_at: '2026-02-05T12:23:50.954191'

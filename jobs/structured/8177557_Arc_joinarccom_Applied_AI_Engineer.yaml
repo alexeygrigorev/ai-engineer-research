@@ -1,0 +1,56 @@
+company:
+  name: Arc (joinarc.com)
+  stage: Series A
+  focus: AI-native business cash management platform
+  use_cases:
+  - Business cash management through AI-powered platform
+  - Treasury management with AI automation
+  - Debt marketplace powered by AI
+  - Financial data analysis and action through unified platform
+  - AI-driven insights for financial decision-making
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI-powered financial products
+      using Generative AI techniques including agentic workflows,
+      RAG systems, and state-of-the-art model integrations. The
+      role involves hands-on work with LLMs, model optimization,
+      and building production-grade AI systems, which clearly
+      qualifies as working ON AI rather than supporting it.
+  responsibilities:
+  - Collaborate with engineering, product, design, and leadership to build and improve
+    AI-powered financial products
+  - Build evaluation frameworks, model-improvement infrastructure, and production-grade
+    AI systems
+  - Rapidly prototype 0→1 and MVP experiences to unlock new value for Arc customers
+  - Ship projects frequently and consistently, with strong bias to action
+  - Architect and implement Generative AI applications using agentic workflows, RAG
+    systems, and state-of-the-art model leveraging techniques
+  - Optimize for inference performance, token efficiency, latency, and cost
+  - Contribute to platform-level systems in Python and Typescript
+  use_cases:
+  - Business cash management through AI-powered platform
+  - Treasury management with AI automation
+  - Debt marketplace powered by AI
+  - Financial data analysis and action through unified platform
+  - AI-driven insights for financial decision-making
+  skills:
+    genai: [Agentic workflows, RAG systems, LLMs, State-of-the-art model leveraging
+        techniques, Model optimization]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Inference performance optimization, Token efficiency, Evaluation pipelines,
+      Model performance tuning]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Workflow automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8177557'
+  extracted_at: '2026-02-05T12:09:14.448000'

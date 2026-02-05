@@ -1,0 +1,58 @@
+company:
+  name: Nory
+  stage: Series B
+  focus: AI-powered restaurant management platform
+  use_cases:
+  - Real-time data analysis and AI predictive analytics for restaurant operations
+  - Food prep optimization and forecasting to reduce waste and improve margins
+  - Operational intelligence system providing control over restaurant margins and
+    consistency
+  - Agent-backed features delivering actionable insights to restaurant operators
+  - Multi-step agentic workflows that automate complex operational decisions
+position:
+  title: Founding AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role building production
+      agentic workflows and LLM-powered systems, not supporting
+      infrastructure. The engineer will directly architect,
+      deploy, and operate multi-step agent systems that deliver
+      real-time intelligence to restaurant operators.
+  responsibilities:
+  - Own production AI systems end-to-end including reliability, monitoring, alerting,
+    and on-call responsibility
+  - Design and build backend services incorporating multi-step agentic workflows with
+    explicit failure and retry handling
+  - Transform prototypes into shipped, customer-facing features and iterate based
+    on real usage
+  - Integrate LLM-powered capabilities into core Nory workflows in collaboration with
+    Product and Data teams
+  - Make pragmatic trade-offs around latency, cost, accuracy, and user trust for AI
+    systems
+  - Establish best practices and patterns for building and operating agentic systems
+    at scale
+  use_cases:
+  - Real-time data analysis and AI predictive analytics for restaurant operations
+  - Food prep optimization and forecasting to reduce waste and improve margins
+  - Operational intelligence system providing control over restaurant margins and
+    consistency
+  - Agent-backed features delivering actionable insights to restaurant operators
+  - Multi-step agentic workflows that automate complex operational decisions
+  skills:
+    genai: [prompt engineering, RAG, agents, embeddings, retrieval, LLM evaluation,
+      orchestration]
+    ml: []
+    web: [API design]
+    databases: []
+    data: [data platforms, analytics pipelines]
+    cloud: [cloud infrastructure]
+    ops: [monitoring, alerting]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7642028'
+  extracted_at: '2026-02-05T11:17:00.166731'

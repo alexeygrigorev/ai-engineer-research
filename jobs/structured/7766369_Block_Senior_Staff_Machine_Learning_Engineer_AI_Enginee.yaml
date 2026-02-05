@@ -1,0 +1,54 @@
+company:
+  name: Block
+  stage: Public
+  focus: Financial technology and payments platform
+  use_cases:
+  - AI-assisted code generation and completion for developers
+  - Intelligent code review and automated refactoring systems
+  - AI-powered developer productivity tools integrated into IDEs and development workflows
+  - LLM-based code analysis and context understanding across repositories
+  - Enterprise-wide AI coding assistant deployment and optimization
+position:
+  title: Senior Staff Machine Learning Engineer, AI Engineering Tools
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and optimizing AI coding agents,
+      integrating LLMs into developer tools, and implementing
+      prompt engineering workflows. The engineer will directly
+      work on AI systems including fine-tuning models, deploying
+      AI services, and building intelligent code assistance
+      systems - this is hands-on work with AI models and agents,
+      not just supporting infrastructure.
+  responsibilities:
+  - Design and build AI-driven developer tools that integrate into the software development
+    lifecycle including code assistance, inline reviews, and automated refactoring
+    systems
+  - Partner with vendors and internal teams to evaluate, integrate, and optimize AI
+    engineering tools and models
+  - Collaborate with engineering leaders to identify opportunities for AI integration
+    that improve developer velocity and code quality
+  - Mentor engineers, contribute to design and code reviews, and establish best practices
+    for building reliable AI systems at scale
+  use_cases:
+  - AI-assisted code generation and completion for developers
+  - Intelligent code review and automated refactoring systems
+  - AI-powered developer productivity tools integrated into IDEs and development workflows
+  - LLM-based code analysis and context understanding across repositories
+  - Enterprise-wide AI coding assistant deployment and optimization
+  skills:
+    genai: [LLMs, prompt engineering, OpenAI API, Anthropic API, fine-tuning, agents]
+    ml: []
+    web: [backend systems]
+    databases: []
+    data: []
+    cloud: []
+    ops: [model deployment, model monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7766369'
+  extracted_at: '2026-02-05T11:25:47.482438'

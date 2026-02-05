@@ -1,0 +1,68 @@
+company:
+  name: Temporal Technologies
+  stage: Series B+
+  focus: |-
+    Open source durable execution platform for reliable AI
+    applications
+  use_cases:
+  - Building fault-tolerant AI applications with reliable execution for reasoning,
+    tool calls, and memory management
+  - Implementing human-in-the-loop interactivity and ambient background processing
+    for AI workflows
+  - Creating distributed systems for complex AI applications with simplified code
+    and improved reliability
+  - Integrating with leading AI frameworks and libraries to provide durable execution
+    foundation
+  - Supporting AI applications for companies like OpenAI, Lovable, and Replit
+position:
+  title: Staff Software Engineer - AI SDK
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building an SDK that provides infrastructure
+      for AI applications, not building the AI models themselves.
+      The engineer creates abstractions and tooling that support
+      AI application developers, focusing on reliability, fault
+      tolerance, and integration with existing AI frameworks. This
+      is enabling infrastructure rather than hands-on model
+      development or deployment.
+  responsibilities:
+  - Design and implement Temporal AI SDK features supporting a broad variety of frameworks
+    and libraries
+  - Develop deep understanding of AI application development techniques, including
+    emerging approaches and architectures
+  - Work with multiple programming languages, primarily Python and TypeScript, to
+    build SDK integrations
+  - Serve as a domain expert on AI design patterns, collaborating with field staff
+    to provide best-practices and canonical examples
+  - Work directly with the developer community to debug issues and gather feedback
+    on SDK features and APIs
+  - Write public technical documentation describing Temporal concepts and APIs for
+    AI developers
+  use_cases:
+  - Building fault-tolerant AI applications with reliable execution for reasoning,
+    tool calls, and memory management
+  - Implementing human-in-the-loop interactivity and ambient background processing
+    for AI workflows
+  - Creating distributed systems for complex AI applications with simplified code
+    and improved reliability
+  - Integrating with leading AI frameworks and libraries to provide durable execution
+    foundation
+  - Supporting AI applications for companies like OpenAI, Lovable, and Replit
+  skills:
+    genai: [generative AI, AI agents]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [concurrent programming, API design, technical documentation, open source
+        contributions, AI coding tools, distributed systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7052572'
+  extracted_at: '2026-02-05T10:09:44.634739'

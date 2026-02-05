@@ -1,0 +1,57 @@
+company:
+  name: Harmonic
+  stage: Series A
+  focus: Startup discovery and investment platform for VCs
+  use_cases:
+  - Conversational interfaces for startup search and research
+  - Agentic layer for automating VC sourcing and diligence workflows
+  - Deep research tools for analyzing tens of millions of startups and their operators
+  - AI-powered search across fragmented and unstructured data sources
+  - Automated evaluation and comparison of startup investment opportunities
+  - Data transformation from unstructured sources into structured insights and searchable
+    indices
+position:
+  title: Full Stack Product Engineer (AI), Search
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI-fueled products
+      including LangGraph backend systems, agentic architectures,
+      and LLM model prototyping and tuning. The engineer will
+      directly build end-to-end AI capabilities from core features
+      to user experiences, not just support AI infrastructure.
+  responsibilities:
+  - Build and ship end-to-end AI capabilities from LangGraph backend to React frontend
+    UI
+  - Rapidly prototype, benchmark, and tune LLM models and agentic architectures
+  - Establish and build evaluation frameworks for AI-driven experiences with human
+    and LLM evaluators
+  - Collaborate with product, design, data, and GTM teams to design AI-first product
+    experiences
+  - Experiment with new AI frameworks and models as they emerge in the rapidly evolving
+    industry
+  - Shape AI-native design principles and HCI patterns for investor productivity tools
+  use_cases:
+  - Conversational interfaces for startup search and research
+  - Agentic layer for automating VC sourcing and diligence workflows
+  - Deep research tools for analyzing tens of millions of startups and their operators
+  - AI-powered search across fragmented and unstructured data sources
+  - Automated evaluation and comparison of startup investment opportunities
+  - Data transformation from unstructured sources into structured insights and searchable
+    indices
+  skills:
+    genai: [LangGraph, LLMs, agentic architectures, prompt engineering]
+    ml: []
+    web: [React, full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6727775'
+  extracted_at: '2026-02-05T09:48:32.902618'

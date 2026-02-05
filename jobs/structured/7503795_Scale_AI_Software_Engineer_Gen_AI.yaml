@@ -1,0 +1,55 @@
+company:
+  name: Scale AI
+  stage: Series F
+  focus: AI data foundry for LLMs and generative models
+  use_cases:
+  - RLHF (Reinforcement Learning with Human Feedback) for LLM training and alignment
+  - Human data generation for generative AI model development
+  - Model evaluation, safety, and alignment for enterprise and government customers
+  - High-impact dataset creation pushing boundaries of LLM capabilities
+  - Contributor onboarding and incentive optimization for data operations
+  - Trust, safety, and security measures for data integrity
+position:
+  title: Software Engineer, Gen AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a software engineering role building full-stack
+      features for data operations platforms, not building or
+      deploying AI models directly. The role involves designing
+      front-end, back-end, and infrastructure systems that support
+      Scale's AI data pipeline and operations, which is
+      infrastructure/platform work that enables others to work
+      with AI.
+  responsibilities:
+  - Design and implement features end-to-end across front-end, back-end, and infrastructure
+  - Build features using TypeScript, MongoDB, Elasticsearch, and Temporal for compute
+    orchestration
+  - Own high-impact technical systems critical to Scale's revenue delivery
+  - Build and iterate on complex systems scaling to millions of tasks per week
+  - Collaborate with model teams, Forward Deployed Engineers, and cross-functional
+    stakeholders
+  - Help shape engineering culture, values, and best practices
+  use_cases:
+  - RLHF (Reinforcement Learning with Human Feedback) for LLM training and alignment
+  - Human data generation for generative AI model development
+  - Model evaluation, safety, and alignment for enterprise and government customers
+  - High-impact dataset creation pushing boundaries of LLM capabilities
+  - Contributor onboarding and incentive optimization for data operations
+  - Trust, safety, and security measures for data integrity
+  skills:
+    genai: []
+    ml: []
+    web: [React, Node]
+    databases: [MongoDB, Elasticsearch]
+    data: []
+    cloud: []
+    ops: [Temporal]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7503795'
+  extracted_at: '2026-02-05T11:02:02.049801'

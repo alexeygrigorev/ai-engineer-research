@@ -1,0 +1,60 @@
+company:
+  name: Howden Re
+  stage: null
+  focus: Global insurance group with employee ownership
+  use_cases:
+  - Enterprise AI solutions used by hundreds of colleagues across the insurance group
+  - RAG-based AI systems for information retrieval in commercial insurance domain
+  - Multi-agent systems and autonomous decision-making frameworks for business applications
+  - Custom model fine-tuning for insurance-specific AI use cases
+  - LLM-based services and applications for enterprise insurance workflows
+position:
+  title: Principal AI Deployment Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying production AI
+      systems including RAG infrastructures, vector databases,
+      agent frameworks, and LLM serving. The engineer works hands-
+      on implementing multi-agent systems, model fine-tuning
+      pipelines, and optimizing RAG pipelines, which is direct
+      work on AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design and develop scalable and secure infrastructure and CI/CD pipelines for
+    AI solutions
+  - Engineer and maintain production-ready RAG infrastructures and Vector Databases
+    with efficient retrieval strategies
+  - Develop and maintain a highly reliable Model Serving Layer including scalable
+    LLM access services
+  - Implement and manage standardized Agent Frameworks, multi-agent systems, and autonomous
+    decision-making frameworks
+  - Engineer and maintain infrastructure and data pipelines for custom model fine-tuning
+  - Build observability, logging, and monitoring solutions for AI use cases including
+    model performance KPIs, token usage, drift, and hallucination detection
+  - Develop and maintain the Howden Enterprise AI Platform including robust security,
+    networking, and access strategies
+  - Implement FinOps framework for AI use cases with precise cost controls and chargebacks
+  use_cases:
+  - Enterprise AI solutions used by hundreds of colleagues across the insurance group
+  - RAG-based AI systems for information retrieval in commercial insurance domain
+  - Multi-agent systems and autonomous decision-making frameworks for business applications
+  - Custom model fine-tuning for insurance-specific AI use cases
+  - LLM-based services and applications for enterprise insurance workflows
+  skills:
+    genai: [RAG, Agent Frameworks, LLM architectures]
+    ml: [Fine-tuning]
+    web: [APIs, Microservices]
+    databases: [Vector Databases, PGVector]
+    data: []
+    cloud: [Azure]
+    ops: [MLOps, AIOps, Terraform, Azure Bicep, CI/CD, Infrastructure as Code, Model
+        Serving, FinOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8342705'
+  extracted_at: '2026-02-05T12:54:45.094202'

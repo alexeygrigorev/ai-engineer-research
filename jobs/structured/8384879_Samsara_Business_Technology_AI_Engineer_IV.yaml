@@ -1,0 +1,49 @@
+company:
+  name: Samsara
+  stage: Public
+  focus: Connected Operations Cloud for physical operations
+  use_cases:
+  - AI-powered business applications for internal Samsara operations
+  - LLM-powered tools and capabilities leveraging foundational models
+  - RAG-based and Agentic AI solutions for business needs
+  - AI applications integrated with large-scale data pipelines
+position:
+  title: Business Technology AI Engineer IV
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building of Generative AI
+      applications, LLM-powered solutions, and implementation of
+      RAG and Agentic frameworks. The engineer is directly working
+      with and deploying models, not just supporting AI
+      infrastructure.
+  responsibilities:
+  - Rapid prototyping and iterative development of AI-based business applications
+    and capabilities with focus on Generative AI
+  - Implement evaluation frameworks for AI applications that leverage foundational
+    models
+  - Apply software engineering best practices and maintain robust AI infrastructure
+  - Provide production support, monitoring, and troubleshooting issues
+  - Work closely with architects, engineers, and cross-functional stakeholders to
+    build AI-powered tools
+  use_cases:
+  - AI-powered business applications for internal Samsara operations
+  - LLM-powered tools and capabilities leveraging foundational models
+  - RAG-based and Agentic AI solutions for business needs
+  - AI applications integrated with large-scale data pipelines
+  skills:
+    genai: [LangChain, Llama Index, RAG, Agentic frameworks, LLMs, prompt engineering]
+    ml: []
+    web: [microservices, REST APIs]
+    databases: [vector databases]
+    data: [data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [SDLC]
+    languages: [Python, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8384879'
+  extracted_at: '2026-02-05T13:02:46.262329'

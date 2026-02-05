@@ -1,0 +1,58 @@
+company:
+  name: Authentic Brands Group
+  stage: Public
+  focus: Sports and entertainment brand licensing and management
+  use_cases:
+  - Enabling LLMs to perform structured, secure actions across enterprise systems
+    through tool calling
+  - Connecting AI capabilities to real-world business workflows and data sources
+  - Building reliable authentication and telemetry for AI-powered business process
+    automation
+  - Integrating AI tools with brand management and licensing operations
+position:
+  title: Senior AI Tools Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role builds the function layer and tool schemas that
+      enable LLMs to perform structured actions across enterprise
+      systems. The engineer works directly with OpenAI/Anthropic
+      function-calling models and LangChain frameworks to
+      integrate AI capabilities with real-world business
+      workflows.
+  responsibilities:
+  - Design and maintain JSON and Pydantic tool schemas for OpenAI, Anthropic, and
+    similar function-calling models
+  - Build and document internal APIs that connect the LLM layer to enterprise data
+    and business logic systems
+  - Partner with data and infrastructure teams to ensure reliable authentication,
+    rate-limiting, and observability across tool integrations
+  - Implement error handling, versioning, and monitoring for all active tools in the
+    Authentic Intelligence platform
+  - Collaborate with the Prompt Architect to align tool capabilities with business
+    logic and prompt engineering requirements
+  - Contribute to internal SDKs and developer documentation for the Authentic Intelligence
+    platform
+  use_cases:
+  - Enabling LLMs to perform structured, secure actions across enterprise systems
+    through tool calling
+  - Connecting AI capabilities to real-world business workflows and data sources
+  - Building reliable authentication and telemetry for AI-powered business process
+    automation
+  - Integrating AI tools with brand management and licensing operations
+  skills:
+    genai: [OpenAI, Anthropic, function calling, LangChain]
+    ml: []
+    web: [JSON, Pydantic, API design, REST APIs, API versioning]
+    databases: []
+    data: []
+    cloud: []
+    ops: [OAuth, SSO, rate limiting, telemetry, error handling, monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7721162'
+  extracted_at: '2026-02-05T11:22:18.179502'

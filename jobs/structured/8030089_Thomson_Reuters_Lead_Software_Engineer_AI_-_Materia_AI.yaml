@@ -1,0 +1,62 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    AI-powered professional information and software for legal,
+    tax, accounting, and compliance
+  use_cases:
+  - Accounting research automation using generative AI agents
+  - Tax filing workflow enhancement through AI-powered orchestration
+  - Tax advisory support with intelligent document processing and analysis
+  - Audit workflow automation with AI-driven insights
+  - Real-time conversational AI interfaces for accounting professionals
+  - Knowledge base and workspace solutions powered by AI agents
+position:
+  title: Lead Software Engineer AI - (Materia AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves designing and implementing backend
+      services that power generative AI agents and orchestration
+      systems, directly integrating LLMs from OpenAI and
+      Anthropic. The engineer is building AI-native products with
+      agent-based architectures for real-world accounting
+      workflows, which is hands-on work building and deploying AI
+      systems rather than just supporting infrastructure.
+  responsibilities:
+  - Design and build backend services for AI-native products focused on accounting
+    research and workflows including tax filing, tax advisory, and audit
+  - Develop and maintain backend services using Python, FastAPI, and PostgreSQL with
+    a focus on scalability and security
+  - Implement AI orchestration systems integrating LLMs from OpenAI, Anthropic, and
+    other providers
+  - Design APIs and backend logic for real-time AI interactions across millions of
+    documents and interactions
+  - Lead teams of engineers, AI researchers, and product teams to translate AI capabilities
+    into real-world applications
+  - Foster a culture of experimentation and continuous improvement while exploring
+    new AI technologies and methodologies
+  - Assist in hiring and mentorship across the organization
+  use_cases:
+  - Accounting research automation using generative AI agents
+  - Tax filing workflow enhancement through AI-powered orchestration
+  - Tax advisory support with intelligent document processing and analysis
+  - Audit workflow automation with AI-driven insights
+  - Real-time conversational AI interfaces for accounting professionals
+  - Knowledge base and workspace solutions powered by AI agents
+  skills:
+    genai: [OpenAI API, Anthropic API, agent-based architectures, AI orchestration]
+    ml: [embeddings]
+    web: [FastAPI, API design]
+    databases: [PostgreSQL, vector databases]
+    data: [data model design]
+    cloud: [AWS]
+    ops: [distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8030089'
+  extracted_at: '2026-02-05T11:51:23.833497'

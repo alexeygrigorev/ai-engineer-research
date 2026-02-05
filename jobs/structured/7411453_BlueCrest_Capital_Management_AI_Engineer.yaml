@@ -1,0 +1,56 @@
+company:
+  name: BlueCrest Capital Management
+  stage: null
+  focus: Quantitative hedge fund and financial trading
+  use_cases:
+  - LLM-powered knowledge retrieval and search systems for quantitative research
+  - Agentic process automation to streamline operational workflows across the firm
+  - Internal AI tools and developer platforms that make advanced AI capabilities accessible
+    to non-technical teams
+  - Decision support systems for traders, analysts, and operational users
+  - Enterprise-scale AI adoption for enhanced trading and research capabilities
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      maintaining RAG systems, LLM-powered applications, and
+      agentic AI frameworks. The engineer will directly implement
+      AI solutions using OpenAI Agents SDK, LangChain, LlamaIndex,
+      and vector databases to create AI tools for the firm.
+  responsibilities:
+  - Design and implement frameworks for LLM-powered applications and RAG systems
+  - Build scalable AI infrastructure that supports agentic process automation
+  - Develop and deploy internal AI tools and SDKs for enterprise use across teams
+  - Implement vector databases, embedding models, and API integrations for knowledge
+    retrieval
+  - Collaborate with Front Office Technology and Quant Research to align AI systems
+    with business goals
+  - Maintain MLOps pipelines, CI/CD for models, and monitoring for production AI systems
+  - Enable improved knowledge retrieval, intelligent process automation, and enhanced
+    decision support
+  use_cases:
+  - LLM-powered knowledge retrieval and search systems for quantitative research
+  - Agentic process automation to streamline operational workflows across the firm
+  - Internal AI tools and developer platforms that make advanced AI capabilities accessible
+    to non-technical teams
+  - Decision support systems for traders, analysts, and operational users
+  - Enterprise-scale AI adoption for enhanced trading and research capabilities
+  skills:
+    genai: [OpenAI Agents SDK, LangChain, LlamaIndex, RAG, LLM orchestration, agentic
+        AI systems, multi-agent orchestration]
+    ml: [Hugging Face Transformers, embedding models]
+    web: []
+    databases: [Qdrant, Pinecone, FAISS, Weaviate]
+    data: []
+    cloud: [AWS, Azure]
+    ops: [Docker, version control, testing, documentation, MLOps, CI/CD, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7411453'
+  extracted_at: '2026-02-05T10:48:39.569787'

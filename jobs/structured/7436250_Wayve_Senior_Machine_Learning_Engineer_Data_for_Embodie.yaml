@@ -1,0 +1,63 @@
+company:
+  name: Wayve
+  stage: Series B
+  focus: Embodied AI for autonomous driving systems
+  use_cases:
+  - Autonomous driving systems that perceive, understand, and navigate complex environments
+    without maps
+  - World model architectures (GAIA and successors) for embodied AI systems
+  - Synthetic data and simulation pipelines to accelerate autonomy development
+  - Training foundation models using multimodal sensor data from vehicles
+  - Large-scale robotics and autonomous vehicle model training
+position:
+  title: Senior Machine Learning Engineer, Data for Embodied AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role sits at the intersection of ML research and data
+      engineering, focusing on building large-scale data pipelines
+      to fuel model training. The engineer designs systems to
+      acquire, process, and curate multimodal datasets rather than
+      building, training, or deploying the models themselves. They
+      enable the work of ML researchers by providing high-quality
+      data infrastructure and tools.
+  responsibilities:
+  - Design and implement large-scale data acquisition, processing, and curation pipelines,
+    owning the full lifecycle of high-quality datasets used to train advanced robotics
+    and foundation models
+  - Continuously improve dataset quality and utility through sophisticated data analysis,
+    debugging, and experimentation; developing metrics, tests, and monitoring mechanisms
+    that directly drive model performance improvements
+  - Develop and scale multimodal data pipelines for ingestion, preprocessing, filtering,
+    annotation, and storage across video, LiDAR, and telemetry modalities
+  - Run systematic experiments on data ablations and composition to assess their impact
+    on model training dynamics, generalisation, and downstream performance
+  - Collaborate with ML researchers and platform engineers to ensure datasets are
+    fit for purpose and efficiently integrated into large-scale training workflows
+  - Build internal tools and workflows for dataset auditing, visualization, and versioning
+    to streamline iteration and reproducibility
+  - Advance best practices for data governance, reliability, and scalability across
+    the data lifecycle; ensuring data safety, privacy, and long-term maintainability
+  use_cases:
+  - Autonomous driving systems that perceive, understand, and navigate complex environments
+    without maps
+  - World model architectures (GAIA and successors) for embodied AI systems
+  - Synthetic data and simulation pipelines to accelerate autonomy development
+  - Training foundation models using multimodal sensor data from vehicles
+  - Large-scale robotics and autonomous vehicle model training
+  skills:
+    genai: []
+    ml: [PyTorch]
+    web: []
+    databases: [Delta Lake]
+    data: [Ray, Dask, Spark, ETL, data pipelines, LakeFS, DVC]
+    cloud: [Azure, AWS, GCP]
+    ops: [MLflow]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7436250'
+  extracted_at: '2026-02-05T10:52:34.228425'

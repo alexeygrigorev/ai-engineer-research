@@ -1,0 +1,58 @@
+company:
+  name: Northbeam
+  stage: Series B
+  focus: Marketing intelligence platform for eCommerce brands
+  use_cases:
+  - Lead generation and enrichment through automated workflows and intelligent agents
+  - Campaign and creative research automation using AI-powered analysis
+  - Competitive intelligence gathering and processing for marketing insights
+  - Sales and marketing enablement through automated tooling and workflow optimization
+  - Internal process automation across marketing, sales, product, finance, and operations
+    teams
+position:
+  title: AI Operations Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI-powered
+      workflows and agents using tools like Langflow, Relevance
+      AI, and similar frameworks. The engineer will directly
+      construct and deploy AI systems for lead generation,
+      competitive intelligence, and sales enablement, not just
+      support infrastructure for others working on AI.
+  responsibilities:
+  - Shadow teams across marketing, sales, product, finance, and ops to identify automation
+    opportunities and inefficiencies
+  - Design and build no-code/low-code workflows using tools like n8n, Gumloop, Zapier,
+    Make, Airtable, Notion, Langflow, and Relevance AI
+  - Integrate internal and external systems via APIs, webhooks, JSON, and light scripting
+    to power intelligent workflows
+  - Deploy successful automation experiments into production-ready systems and monitor
+    performance and reliability
+  - Build AI-driven workflows and agents for lead generation, campaign research, competitive
+    intelligence, and sales enablement
+  - Explore and implement new AI agent patterns and emerging frameworks while documenting
+    workflows for team collaboration
+  use_cases:
+  - Lead generation and enrichment through automated workflows and intelligent agents
+  - Campaign and creative research automation using AI-powered analysis
+  - Competitive intelligence gathering and processing for marketing insights
+  - Sales and marketing enablement through automated tooling and workflow optimization
+  - Internal process automation across marketing, sales, product, finance, and operations
+    teams
+  skills:
+    genai: [Langflow, Relevance AI, AI agents]
+    ml: []
+    web: [APIs, webhooks]
+    databases: []
+    data: [Airtable, JSON]
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: [n8n, Gumloop, Zapier, Make, Notion, automation workflows]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8281581'
+  extracted_at: '2026-02-05T12:31:37.294845'

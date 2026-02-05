@@ -1,0 +1,67 @@
+company:
+  name: Teladoc Health
+  stage: Public
+  focus: Virtual care and telehealth platforms
+  use_cases:
+  - Virtual care and telehealth applications enhanced with generative AI capabilities
+  - Healthcare data analysis and insights through large-scale data processing on Snowflake
+    and Databricks
+  - AI-powered clinical decision support and information retrieval using RAG and vector
+    search
+  - Secure and compliant AI services deployed in regulated healthcare environments
+  - Agentic AI systems for automating healthcare workflows and improving patient care
+    delivery
+position:
+  title: Staff AI Engineer, GenAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      operationalizing GenAI/LLM systems including RAG, vector
+      search, agentic AI, and model serving. The engineer will
+      work directly on model integration, prompt engineering, and
+      production-grade LLM pipelines rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Operationalize GenAI and LLM applications, leveraging RAG, vector search, prompt
+    engineering, agentic AI, and Model Context Protocol
+  - Lead the design, development, and deployment of production-grade LLM and ML pipelines,
+    including data transformation, feature engineering, training, tuning, and serving
+  - Architect scalable data and AI workflows on Snowflake, Databricks, and Azure ML,
+    integrating AI models with modern data lakehouse platforms
+  - Build and maintain API-based AI services using FastAPI and Flask, enabling secure,
+    performant, and reliable model access at scale
+  - Define and implement CI/CD pipelines for GenAI and ML services using GitHub Actions,
+    Azure DevOps, MLFlow, and container orchestration
+  - Develop and enforce MLOps/LLMOps best practices including experiment tracking,
+    model versioning, observability, and governance
+  - Partner with cross-functional teams to integrate AI services into products, ensuring
+    security, compliance, and resilience in regulated healthcare environments
+  - Troubleshoot production AI systems, analyzing inference latency, drift, and performance
+    issues, and implementing preventive solutions
+  use_cases:
+  - Virtual care and telehealth applications enhanced with generative AI capabilities
+  - Healthcare data analysis and insights through large-scale data processing on Snowflake
+    and Databricks
+  - AI-powered clinical decision support and information retrieval using RAG and vector
+    search
+  - Secure and compliant AI services deployed in regulated healthcare environments
+  - Agentic AI systems for automating healthcare workflows and improving patient care
+    delivery
+  skills:
+    genai: [RAG, vector search, prompt engineering, agentic AI, MCP, LangChain, LLMs]
+    ml: []
+    web: [FastAPI, Flask]
+    databases: [Snowflake]
+    data: [Databricks, Spark]
+    cloud: [Azure ML]
+    ops: [MLFlow, Kubernetes, Docker, Terraform, CI/CD, model monitoring, model serving,
+      MLOps, LLMOps]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8343853'
+  extracted_at: '2026-02-05T12:55:22.524243'

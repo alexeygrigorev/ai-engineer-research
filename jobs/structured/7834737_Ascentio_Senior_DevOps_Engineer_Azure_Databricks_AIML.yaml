@@ -1,0 +1,55 @@
+company:
+  name: Ascent.io
+  stage: null
+  focus: Digital transformation and analytics consulting
+  use_cases:
+  - AI/ML model training and deployment platform on Azure Databricks
+  - Machine learning experiment tracking with MLFlow
+  - Data governance and compliance for regulated organizations
+  - Automated model operations and monitoring workflows
+  - Enterprise-grade data schema evolution management
+position:
+  title: Senior DevOps Engineer – Azure & Databricks (AI/ML Focus)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a DevOps Engineer role focused on building
+      infrastructure, pipelines, and platforms that support AI/ML
+      workflows rather than directly building or training models.
+      The role emphasizes CI/CD, MLOps infrastructure, data
+      governance, and cloud-native architecture to enable data
+      scientists to train and deploy models, which is
+      characteristic of an ai-support position.
+  responsibilities:
+  - Design, implement, and optimize ML/AI pipelines for training, deployment, monitoring,
+    and governance
+  - Leverage Azure Databricks capabilities including MLFlow for experiment tracking
+    and Unity Catalog for data governance
+  - Build and maintain CI/CD pipelines and automated ModelOps workflows for AI/ML
+    applications
+  - Ensure data architecture supports schema evolution, governance, and compliance
+    requirements
+  - Operate in a cloud-native Azure environment to deliver robust and scalable ML
+    solutions
+  use_cases:
+  - AI/ML model training and deployment platform on Azure Databricks
+  - Machine learning experiment tracking with MLFlow
+  - Data governance and compliance for regulated organizations
+  - Automated model operations and monitoring workflows
+  - Enterprise-grade data schema evolution management
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, Scikit-learn]
+    web: []
+    databases: []
+    data: [Databricks, Unity Catalog]
+    cloud: [Azure]
+    ops: [MLFlow, CI/CD, Terraform, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7834737'
+  extracted_at: '2026-02-05T11:34:51.456223'

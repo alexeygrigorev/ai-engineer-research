@@ -1,0 +1,54 @@
+company:
+  name: YouGov
+  stage: Public
+  focus: Market research and opinion polling
+  use_cases:
+  - AI-powered survey data analysis and insight generation
+  - Text summarization and topic modeling for market research
+  - RAG pipelines for extracting insights from unstructured survey responses
+  - Natural language processing for text classification and opinion analysis
+  - Fraud detection and data quality improvement in survey responses
+position:
+  title: Data Scientist/AI Engineer (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs including
+      developing prompts, building LLM-based applications and
+      frameworks, working with embeddings and RAG pipelines. The
+      role requires directly building and deploying AI-driven
+      tools, not just supporting infrastructure for other AI
+      engineers.
+  responsibilities:
+  - Design and build AI-powered applications to analyze, summarize, and generate insights
+    from survey data
+  - Develop and optimize prompts and chains for LLM-based applications
+  - Build applications to simplify analytics and improve the efficiency of data processing
+  - Work with structured and unstructured data sources including surveys and behavioral
+    tracking
+  - Contribute to model evaluation and performance tracking using both qualitative
+    and quantitative metrics
+  - Stay up to date with recent developments in AI and machine learning, including
+    LLMs, embeddings, and RAG pipelines
+  use_cases:
+  - AI-powered survey data analysis and insight generation
+  - Text summarization and topic modeling for market research
+  - RAG pipelines for extracting insights from unstructured survey responses
+  - Natural language processing for text classification and opinion analysis
+  - Fraud detection and data quality improvement in survey responses
+  skills:
+    genai: [LLM APIs, prompt engineering, RAG, embeddings, chains]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, R]
+    domains: [NLP, topic modeling, text classification, summarization]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7871123'
+  extracted_at: '2026-02-05T11:37:14.079208'

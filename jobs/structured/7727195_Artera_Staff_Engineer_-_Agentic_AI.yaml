@@ -1,0 +1,59 @@
+company:
+  name: Artera
+  stage: Series B-Growth
+  focus: AI-powered patient communication virtual agents
+  use_cases:
+  - AI-powered virtual agents for patient communication via voice and text
+  - Healthcare patient journey automation including self-scheduling, intake, forms,
+    and billing
+  - Autonomous digital workforce for healthcare organizations
+  - High-throughput patient engagement across 109 languages
+  - 2B communications supporting 100 million patients annually
+  - Augmenting front desk staff with AI-driven support tools
+position:
+  title: Staff Engineer - Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role is focused on agentic AI and MCP server infrastructure,
+      with direct requirements for integrating LLMs and agentic
+      tools like Claude Code. The engineer will architect and
+      build systems for AI-powered virtual agents, not just
+      support infrastructure.
+  responsibilities:
+  - Serve as domain expert in backend architecture, distributed systems, and high-throughput
+    IO
+  - Drive company-wide architectural patterns, platform strategy, and engineering
+    standards
+  - Lead execution on complex, open-ended projects in agentic AI and MCP server infrastructure
+  - Independently design and deliver large-scale features impacting multiple products
+    or services
+  - Identify and eliminate sources of instability, latency, and operational risk
+  - Mentor engineers on architecture, debugging, reliability, and AI-era best practices
+  - Partner with product, design, and data/ML teams to translate technical ideas into
+    solutions
+  use_cases:
+  - AI-powered virtual agents for patient communication via voice and text
+  - Healthcare patient journey automation including self-scheduling, intake, forms,
+    and billing
+  - Autonomous digital workforce for healthcare organizations
+  - High-throughput patient engagement across 109 languages
+  - 2B communications supporting 100 million patients annually
+  - Augmenting front desk staff with AI-driven support tools
+  skills:
+    genai: [LLM integration, Agentic AI, MCP (Model Context Protocol), Claude Code]
+    ml: []
+    web: [Node.js, NEST]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS]
+    ops: [Docker, Microservices, Event-sourced architecture, Distributed systems,
+      High-throughput IO, Event-driven systems, Observability, CI/CD]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7727195'
+  extracted_at: '2026-02-05T11:22:43.404752'

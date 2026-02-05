@@ -1,0 +1,65 @@
+company:
+  name: Defense Unicorns
+  stage: null
+  focus: Secure software and AI solutions for defense
+  use_cases:
+  - Deploying agentic Generative AI systems for defense and government applications
+  - Enabling Retrieval Augmented Generation for information access and decision support
+    in tactical environments
+  - Delivering AI capabilities in air-gapped and secure environments for warfighter
+    operations
+  - Building context engineering solutions that integrate LLMs into larger system
+    architectures
+  - Supporting mission-critical software delivery with rapid deployment and secure
+    AI integration
+position:
+  title: Forward Deployed AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that involves
+      hands-on building, deploying, and operating agentic
+      Generative AI systems including RAG, context engineering,
+      and APIs. The role directly implements AI solutions at
+      customer sites, not just infrastructure or support work.
+  responsibilities:
+  - Embed with strategic customers as a technical partner from problem discovery to
+    solution implementation and adoption
+  - Architect, build, deploy, and operate agentic Generative AI systems including
+    APIs, ETL pipelines, integration layers, RAG, and context engineering
+  - Deploy systems in cloud, on-prem, and edge/air-gapped environments to meet mission
+    requirements
+  - Scope, sequence, and lead delivery of solutions including living roadmaps, priorities,
+    and trade-offs between speed, quality, and scope
+  - Codify reusable patterns and build tools, internal frameworks, and playbooks for
+    faster, safer, repeatable deployments
+  - Act as the technical face to customer leadership, communicating with both technical
+    and non-technical stakeholders to build trust and ensure adoption
+  use_cases:
+  - Deploying agentic Generative AI systems for defense and government applications
+  - Enabling Retrieval Augmented Generation for information access and decision support
+    in tactical environments
+  - Delivering AI capabilities in air-gapped and secure environments for warfighter
+    operations
+  - Building context engineering solutions that integrate LLMs into larger system
+    architectures
+  - Supporting mission-critical software delivery with rapid deployment and secure
+    AI integration
+  skills:
+    genai: [LangChain, RAG, Retrieval Augmented Generation, Context Engineering, Agentic
+        AI, LLM, Prompt Engineering]
+    ml: [Llama3, Mixtral, Gemma, Phi, Fine-tuning, LLM Evaluations]
+    web: [REST, APIs]
+    databases: [Vector Search, Postgres, NoSQL]
+    data: [ETL, Data Pipelines]
+    cloud: []
+    ops: [Inference, VLLM, Triton, Kubernetes, Docker, Helm, Kustomize, Terraform,
+      Pulumi, GitOps, CI/CD]
+    languages: [Python, TypeScript, SQL]
+    domains: [Information Retrieval]
+    other: [Air-gapped, Document Parsing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7696349'
+  extracted_at: '2026-02-05T11:21:07.768408'

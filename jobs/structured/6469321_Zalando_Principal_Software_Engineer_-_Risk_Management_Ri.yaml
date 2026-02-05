@@ -1,0 +1,57 @@
+company:
+  name: Zalando
+  stage: Public
+  focus: Pan-European fashion and lifestyle e-commerce
+  use_cases:
+  - Manage risk and detect fraud in payment transactions amounting to billions of
+    euros annually
+  - Identify, manage, and mitigate payment risks to protect Zalando's financial success
+  - Implement Machine Learning solutions for risk management and fraud detection in
+    e-commerce
+position:
+  title: Principal Software Engineer - Risk Management / Risk AI (all genders)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Principal Software Engineer role focused on ML
+      productionization and MLOps within a Risk Management
+      department. While the role works with ML systems, it focuses
+      on software architecture, infrastructure, and operational
+      excellence rather than building, training, or fine-tuning
+      models directly. The responsibilities emphasize technical
+      leadership, system design, and enabling ML teams rather than
+      hands-on model development.
+  responsibilities:
+  - Design and drive technical solution design for high impact ambiguous projects
+    developed by multiple teams
+  - Break down complex solutions into iterations to reduce risk and complexity, and
+    ship large scale projects to production
+  - Evangelize good software practices and drive technical innovation in the department
+  - Provide technical guidance and mentorship to software engineers on their day to
+    day work
+  - Improve operational excellence of systems by driving operational review meetings
+    and post mortems
+  - Research and propose solutions to improve productivity and effectiveness using
+    technical expertise
+  use_cases:
+  - Manage risk and detect fraud in payment transactions amounting to billions of
+    euros annually
+  - Identify, manage, and mitigate payment risks to protect Zalando's financial success
+  - Implement Machine Learning solutions for risk management and fraud detection in
+    e-commerce
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud environments]
+    ops: [MLOps]
+    languages: []
+    domains: []
+    other: [software architecture, mentoring, technical leadership]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6469321'
+  extracted_at: '2026-02-05T09:45:06.655845'

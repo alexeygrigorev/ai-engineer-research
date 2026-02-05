@@ -1,0 +1,70 @@
+company:
+  name: fanvue
+  stage: Series A
+  focus: AI-powered creator monetization platform
+  use_cases:
+  - Accelerating developer velocity and feature delivery through AI-assisted coding
+    workflows
+  - Enabling parallelized development with AI-generated code review and automated
+    PR processes
+  - Building context-aware code generation systems integrated across IDEs and CI pipelines
+  - Establishing safe and consistent AI deployment practices across the engineering
+    organization
+  - Measuring and improving developer productivity metrics like PR cycle time and
+    throughput
+position:
+  title: AI Developer Tooling Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is about building infrastructure and tooling to
+      enable OTHER engineers to use AI tools more effectively -
+      not building or deploying AI models/products itself. The
+      focus is on developer productivity, setting up AI coding
+      workflows (Cursor, Claude Code, MCP servers), and creating
+      the platforms/frameworks that allow the engineering
+      organization to leverage AI, which falls squarely under ai-
+      support.
+  responsibilities:
+  - Align the Fanvue codebase with modern AI coding tools such as Cursor and Claude
+    Code
+  - Define, standardize, and roll out AI-assisted development stack across IDEs, PR
+    workflows, and CI
+  - Build and operate MCP servers and AI-ready infrastructure for context-aware code
+    generation
+  - Enable parallelized development workflows with confident AI-generated code review
+    and shipping
+  - Establish best practices for AI-assisted coding, reviews, and refactoring across
+    the team
+  - Track and report measurable improvements in developer productivity including PR
+    cycle time and code quality
+  - Evaluate emerging AI developer tools and vendors with success criteria and kill
+    switches
+  use_cases:
+  - Accelerating developer velocity and feature delivery through AI-assisted coding
+    workflows
+  - Enabling parallelized development with AI-generated code review and automated
+    PR processes
+  - Building context-aware code generation systems integrated across IDEs and CI pipelines
+  - Establishing safe and consistent AI deployment practices across the engineering
+    organization
+  - Measuring and improving developer productivity metrics like PR cycle time and
+    throughput
+  skills:
+    genai: [Cursor, Claude Code, Aider, Cline, CodeRabbit, GitHub Copilot, MCP (Model
+        Context Protocol), Context 7, MCP Compass, LLM fundamentals, RAG, prompt engineering,
+      agents]
+    ml: [embeddings, tokenisation, fine-tuning]
+    web: [Puppeteer]
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub workflows, CI/CD, secure coding]
+    languages: [TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7031503'
+  extracted_at: '2026-02-05T10:06:37.244594'

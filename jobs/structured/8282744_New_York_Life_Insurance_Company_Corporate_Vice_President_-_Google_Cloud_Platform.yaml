@@ -1,0 +1,69 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: Insurance and financial services
+  use_cases:
+  - AI-powered insurance applications and analytics
+  - AI inference workloads for predictive modeling and risk assessment
+  - Enterprise data governance and secure AI service consumption
+  - Compliant AI deployment in regulated financial services environment
+  - Scalable containerized AI services and microservices on GKE
+position:
+  title: Corporate Vice President -  Google Cloud Platform Engineer - Enterprise Cloud
+    & AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      infrastructure, security, and governance frameworks to
+      support AI workloads on GCP. The engineer enables AI
+      services through IaC, networking, monitoring, and compliance
+      - but does not build, train, fine-tune, or deploy models
+      themselves. They provide the platform foundation that
+      enables other teams to operationalize AI workloads safely.
+  responsibilities:
+  - Design and maintain enterprise GCP landing zones using Terraform, Cloud Deployment
+    Manager, and Cloud Foundation Toolkit
+  - Engineer and operate GKE clusters for application and AI inference workloads with
+    GPU support
+  - Enable and operate approved Google AI services including Vertex AI with secure
+    access controls and networking
+  - Build secure CI/CD pipelines for application and AI workloads using Harness CICD
+    and enforce policy-as-code guardrails
+  - Implement security, compliance, and governance controls including IAM, VPC Service
+    Controls, Cloud KMS, and Cloud DLP for AI workloads
+  - Monitor AI workloads for performance, reliability, and cost using Cloud Monitoring,
+    New Relic, and Harness CCM
+  - Partner with Data & AI, InfoSec, Security, and Risk teams to ensure compliant
+    AI platform usage and governance
+  - Document reference architectures and best practices for GCP AI services, MLOps,
+    and cloud infrastructure
+  use_cases:
+  - AI-powered insurance applications and analytics
+  - AI inference workloads for predictive modeling and risk assessment
+  - Enterprise data governance and secure AI service consumption
+  - Compliant AI deployment in regulated financial services environment
+  - Scalable containerized AI services and microservices on GKE
+  skills:
+    genai: [Responsible AI]
+    ml: [TensorFlow Extended]
+    web: []
+    databases: [Cloud Spanner]
+    data: []
+    cloud: [GCP, Cloud Deployment Manager, Cloud Foundation Toolkit, Cloud Storage,
+      Cloud Functions, Cloud Run, Cloud Pub/Sub, Cloud Interconnect, Cloud VPN, Google
+        Container Registry, JFrog Artifact Registry, Vertex AI, Cloud Identity & Access
+        Management, VPC Service Controls, Cloud Security Command Center, Google Cloud
+        Policy Analyzer, Workload Identity Federation, Cloud Key Management Service,
+      Cloud Data Loss Prevention, BigQuery, Vertex AI Pipelines]
+    ops: [GKE, Terraform, Kubernetes, Helm, Cloud Monitoring, Harness CICD, Open Policy
+        Agent, Cloud Logging, New Relic, Cloud Trace, Harness CCM, PagerDuty, kubectl,
+      Kubeflow, MLOps]
+    languages: [Python, Bash, Go]
+    domains: []
+    other: [SOC2, SOX]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8282744'
+  extracted_at: '2026-02-05T12:32:07.876917'

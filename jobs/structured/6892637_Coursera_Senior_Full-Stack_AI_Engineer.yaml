@@ -1,0 +1,57 @@
+company:
+  name: Coursera
+  stage: Public
+  focus: Online education platform for global learning
+  use_cases:
+  - Hyper-personalized learning experiences that adapt to individual learners
+  - Adaptive content delivery that adjusts based on learner progress and preferences
+  - Intelligent assistance features providing real-time support to learners
+  - AI-native workflows for online education platform
+  - Personalized skill development and training programs
+  - Automated content generation and curation for courses
+position:
+  title: Senior Full-Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building AI-driven learning
+      experiences using Generative AI frameworks, APIs, and
+      orchestration tools. The engineer will implement features
+      like hyper-personalization, adaptive content, and
+      intelligent assistance - this is hands-on work creating AI
+      applications, not just supporting AI infrastructure.
+  responsibilities:
+  - Build and ship full-stack features using React (or similar), Node.js, and Python
+  - Create AI-driven learning experiences including hyper-personalization, adaptive
+    content, and intelligent assistance by leveraging Generative AI frameworks, APIs,
+    and orchestration tools
+  - Use AI proactively in development workflow for scaffolding, refactoring, and testing
+    code while critically reviewing AI-generated output for quality and performance
+  - Rapidly prototype, test, and iterate on ideas based on user feedback
+  - Collaborate across disciplines to integrate AI capabilities into seamless, intuitive
+    user experiences
+  - Implement and maintain robust testing, deployment, and monitoring for AI-enabled
+    features
+  use_cases:
+  - Hyper-personalized learning experiences that adapt to individual learners
+  - Adaptive content delivery that adjusts based on learner progress and preferences
+  - Intelligent assistance features providing real-time support to learners
+  - AI-native workflows for online education platform
+  - Personalized skill development and training programs
+  - Automated content generation and curation for courses
+  skills:
+    genai: [Generative AI, RAG, embeddings, ChatGPT]
+    ml: []
+    web: [React, Next.js, Node.js, RESTful API]
+    databases: [vector databases, SQL, NoSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [GitHub Copilot]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6892637'
+  extracted_at: '2026-02-05T09:56:58.449968'

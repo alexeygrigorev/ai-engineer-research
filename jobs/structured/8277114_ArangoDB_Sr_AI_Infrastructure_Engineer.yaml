@@ -1,0 +1,57 @@
+company:
+  name: ArangoDB
+  stage: Series B
+  focus: |-
+    AI data platform with graph-based Contextual AI and multi-
+    model database
+  use_cases:
+  - Building and scaling AI-powered applications with contextual enterprise data
+  - Enabling graph-based Contextual AI with unified graph, vector, document, and key-value
+    data
+  - Providing System of Context to bridge enterprise data and LLMs
+  - Supporting Retrieval-Augmented Generation (RAG) and GraphRAG workflows
+  - Delivering enterprise AI with unlimited scale and cost efficiency
+position:
+  title: Sr. AI Infrastructure Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building, maintaining, and
+      stabilizing AI infrastructure services rather than building,
+      training, or deploying AI models. The responsibilities
+      center on infrastructure components like MLflow, Triton,
+      Docker, Kubernetes, observability, and CI/CD pipelines that
+      enable AI work but don't involve hands-on model development.
+  responsibilities:
+  - Maintain, develop, and stabilize AI infrastructure services
+  - Architect and implement foundational services and shared libraries for AI infrastructure
+    ecosystem
+  - Debug complex production issues across application, process, network, and memory
+    layers
+  - Improve observability, profiling, and tracing across distributed microservices
+  - Operate and improve systems running on Docker, Kubernetes, and Helm
+  - Support CI/CD pipelines (CircleCI), testing, and security-relevant components
+  use_cases:
+  - Building and scaling AI-powered applications with contextual enterprise data
+  - Enabling graph-based Contextual AI with unified graph, vector, document, and key-value
+    data
+  - Providing System of Context to bridge enterprise data and LLMs
+  - Supporting Retrieval-Augmented Generation (RAG) and GraphRAG workflows
+  - Delivering enterprise AI with unlimited scale and cost efficiency
+  skills:
+    genai: [RAG, GraphRAG, LLM-based workflows]
+    ml: []
+    web: []
+    databases: [multi-model databases, NoSQL databases, graph databases]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, Helm, CI/CD, CircleCI, MLflow, Triton, observability,
+      profiling, tracing, microservices, distributed systems]
+    languages: [Python, Rust]
+    domains: [graph algorithms, graph-based data modeling]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8277114'
+  extracted_at: '2026-02-05T12:30:07.321620'

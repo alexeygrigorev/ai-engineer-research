@@ -1,0 +1,59 @@
+company:
+  name: sciemo
+  stage: Series A
+  focus: AI platform for consumer goods supply chain optimization
+  use_cases:
+  - Promotion optimization for consumer brands to maximize ROI
+  - Demand and supply balancing across the integrated business planning process
+  - AI agent-based decision support systems assisting in real-time decision-making
+  - Transforming siloed data into actionable business insights for consumer goods
+    companies
+  - Multi-agent AI systems that navigate complex business problems and provide clarity
+    to decision-makers
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development and deployment of AI
+      agents, LLMs, and multi-agent systems. The engineer will
+      architect, build, and deploy ML/GenAI products, not just
+      support infrastructure for others.
+  responsibilities:
+  - Architect, build, and deploy ML/GenAI products on cloud infrastructure (AWS or
+    similar)
+  - 'Design and implement end-to-end AI workflows: data ingestion, feature engineering,
+    modeling, evaluation, and deployment'
+  - Create automated pipelines for continuous learning, model promotion, and performance
+    monitoring
+  - Lead the design of ML orchestration frameworks to ensure reproducibility and scalability
+  - Oversee deployment of large-scale and multi-agent AI systems with high reliability
+    and fault tolerance
+  - Translate complex business problems into AI solutions, including data collection,
+    experiment design, and roadmap planning
+  - Stay current with advancements in AI/ML, including LLMs, diffusion models, graph
+    AI, and agent architectures
+  use_cases:
+  - Promotion optimization for consumer brands to maximize ROI
+  - Demand and supply balancing across the integrated business planning process
+  - AI agent-based decision support systems assisting in real-time decision-making
+  - Transforming siloed data into actionable business insights for consumer goods
+    companies
+  - Multi-agent AI systems that navigate complex business problems and provide clarity
+    to decision-makers
+  skills:
+    genai: [LLMs, agents]
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn]
+    web: []
+    databases: []
+    data: [Spark, Airflow, Kedro, Flyte, dbt]
+    cloud: [AWS]
+    ops: [ZenML]
+    languages: [Python, SQL]
+    domains: [diffusion models, graph AI]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7780697'
+  extracted_at: '2026-02-05T11:30:29.433788'

@@ -1,0 +1,48 @@
+company:
+  name: Momenti
+  stage: null
+  focus: Interactive multi-dimensional video experiences
+  use_cases:
+  - Action recognition on sequences of images for multi-dimensional video content
+  - Autonomous robot navigation and hardware interaction
+  - 3D reconstruction of visual content
+  - Interactive video experiences that break the fourth wall
+position:
+  title: Computer Vision AI Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on traditional computer vision and deep
+      learning techniques like ViT, RCNN, and action recognition
+      on image sequences. While it mentions generative AI as a
+      preference, the core requirements are conventional computer
+      vision algorithms and models for robotic/autonomous systems,
+      not LLMs, RAG, or agentic AI.
+  responsibilities:
+  - Develop, test, debug, deploy, and maintain computer vision algorithms and hardware
+    for different environments
+  - Develop automated vision algorithms for robots and autonomous hardware systems
+  - Gather and optimize analytics from computer vision algorithms to improve performance
+  - Research and apply software, computer vision, and machine learning techniques
+    for challenges bridging virtual and real worlds
+  use_cases:
+  - Action recognition on sequences of images for multi-dimensional video content
+  - Autonomous robot navigation and hardware interaction
+  - 3D reconstruction of visual content
+  - Interactive video experiences that break the fourth wall
+  skills:
+    genai: [Stable Diffusion]
+    ml: [ViT (Vision Transformer), RCNN, TensorFlow, Keras, PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps]
+    languages: [Python]
+    domains: [OpenCV, MediaPipe, 3D reconstruction]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7735177'
+  extracted_at: '2026-02-05T11:23:50.594658'

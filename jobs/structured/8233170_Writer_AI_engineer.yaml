@@ -1,0 +1,55 @@
+company:
+  name: Writer
+  stage: Series C
+  focus: Enterprise generative AI platform with LLMs and AI agents
+  use_cases:
+  - Building and deploying AI agents grounded in enterprise company data
+  - Enabling enterprise-wide transformation through AI-powered work orchestration
+  - Delivering intelligent agents that unlock productivity and innovation for businesses
+  - Providing enterprise-grade LLMs fueled by company-specific data
+  - Supporting IT and business teams with trustworthy AI solutions
+position:
+  title: AI engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with AI systems, specifically building
+      and deploying LLMs and AI agents. The responsibilities
+      include architecting AI applications, developing intelligent
+      agents, contributing to research of emerging AI
+      technologies, and working with AI/ML frameworks like
+      PyTorch, TensorFlow, and JAX.
+  responsibilities:
+  - Architect, develop, and deploy high-performance, scalable AI applications into
+    production environments, ensuring robust integrations with the end-to-end platform
+  - Drive the development of intelligent agents and AI-powered features, translating
+    complex research into practical, impactful solutions for customers
+  - Collaborate closely with research scientists, data scientists, and product managers
+    to define technical requirements and deliver features that address critical business
+    needs
+  - Contribute to the research and evaluation of emerging AI technologies, frameworks,
+    and tools to maintain leadership in the enterprise generative AI space
+  - Champion responsible AI practices, including bias detection, explainability, and
+    safety alignment, ensuring AI is trustworthy and ethical
+  use_cases:
+  - Building and deploying AI agents grounded in enterprise company data
+  - Enabling enterprise-wide transformation through AI-powered work orchestration
+  - Delivering intelligent agents that unlock productivity and innovation for businesses
+  - Providing enterprise-grade LLMs fueled by company-specific data
+  - Supporting IT and business teams with trustworthy AI solutions
+  skills:
+    genai: [large language models, AI agents, RAG, prompt engineering]
+    ml: [PyTorch, TensorFlow, JAX, machine learning, deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLOps]
+    languages: [Python]
+    domains: [natural language processing]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8233170'
+  extracted_at: '2026-02-05T12:17:53.545833'

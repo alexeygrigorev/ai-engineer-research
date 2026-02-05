@@ -1,0 +1,70 @@
+company:
+  name: Wolters Kluwer
+  stage: Public
+  focus: |-
+    Professional information services and software for
+    healthcare, legal, tax, and compliance
+  use_cases:
+  - UpToDate Expert AI - a medical research and clinical reasoning agent that assists
+    physicians with differential diagnosis and treatment decisions
+  - AI platform for healthcare to enable faster, safer decision-making while maintaining
+    safety, privacy, and guideline fidelity
+  - GenAI platform powering critical decisions across legal, tax, and compliance industries
+  - AI agents for accelerating time-to-decision and improving trust/safety metrics
+    in regulated industries
+  - Medical assistant reducing cognitive load for millions of physicians through real-time
+    knowledge access
+position:
+  title: Lead/Staff Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct work on AI agents and GenAI
+      systems. Responsibilities include building AI agents from
+      concept to production, implementing RAG and retrieval
+      patterns, working with LLM frameworks like
+      LangChain/LangGraph, and conducting model evaluations. The
+      role also includes building the platform infrastructure for
+      deploying these agents, making it hands-on AI/ML work rather
+      than just support.
+  responsibilities:
+  - Design and implement full-stack applications, AI agents, and platform components
+    for rapid GenAI agent development, validation, and deployment
+  - Build developer tooling, CI/CD pipelines, and observability systems including
+    evals, canaries, rollout/rollback, and cost/quality telemetry
+  - Apply secure SDLC and privacy-by-design practices including threat modeling and
+    least privilege access
+  - Implement current LLM patterns including RAG, retrieval, routing, tool-use, and
+    evaluations to deliver customer value
+  - Collaborate with product, UX, and domain experts to deliver customer-focused solutions
+    with measurable outcomes
+  - Lead by example through writing high-quality, maintainable code that demonstrates
+    engineering craftsmanship
+  use_cases:
+  - UpToDate Expert AI - a medical research and clinical reasoning agent that assists
+    physicians with differential diagnosis and treatment decisions
+  - AI platform for healthcare to enable faster, safer decision-making while maintaining
+    safety, privacy, and guideline fidelity
+  - GenAI platform powering critical decisions across legal, tax, and compliance industries
+  - AI agents for accelerating time-to-decision and improving trust/safety metrics
+    in regulated industries
+  - Medical assistant reducing cognitive load for millions of physicians through real-time
+    knowledge access
+  skills:
+    genai: [LangChain, LangGraph, MCP/A2A, RAG, retrieval, routing, tool-use, evals,
+      Azure OpenAI, AWS Anthropic, Google Gemini]
+    ml: [fine-tuning, model adaptation]
+    web: [React]
+    databases: [DocumentDB, DynamoDB, OpenSearch, Azure AI Search]
+    data: [A/B testing]
+    cloud: [AWS, Azure, GCP]
+    ops: [Docker, Terraform, GitHub Actions, CI/CD, Site Reliability Engineering,
+      Infrastructure as Code, secure SDLC]
+    languages: [TypeScript, Node.js, Python, Rust]
+    domains: [HIPAA]
+    other: [privacy by design, AI Agent development, SOC2]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7570872'
+  extracted_at: '2026-02-05T11:08:08.949567'

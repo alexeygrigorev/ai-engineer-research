@@ -1,0 +1,58 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: AI-powered software for accounting professionals
+  use_cases:
+  - AI-powered conversational interfaces for accounting professionals to ask questions
+    and get advice
+  - Automated accounting research using generative AI to streamline workflows
+  - Intelligent workspaces that orchestrate AI capabilities to enhance productivity
+  - Ready to Advise feature leveraging AI to provide professional guidance and recommendations
+position:
+  title: Lead Product Engineer (Full Stack), Materia AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Full Stack Lead Product Engineer role building web
+      applications and AI service integrations. The role
+      interfaces with generative AI services and APIs but does not
+      involve building, training, or fine-tuning models directly -
+      the work focuses on product engineering, UI/UX, and
+      connecting to AI services developed by others.
+  responsibilities:
+  - Lead full stack initiatives from React interfaces to Python-based AI services
+    and APIs
+  - Design, build, and maintain generative AI products such as Conversations, Accounting
+    Research, Ready to Advise, and Workspaces
+  - Own complex 6+ month projects from ideation through launch, measurement, and iteration
+  - Build engaging front-ends using Next.js, TypeScript, and Tailwind CSS
+  - Develop robust back-ends with Python, FastAPI, Pydantic, cloud infrastructure,
+    API design, data modeling, and AI service integration
+  - Serve as a product leader for full stack projects through prioritization decisions,
+    scoping, and guiding other engineers
+  - Set and enforce team-wide frameworks, best practices, and code quality standards
+    for both front-end and back-end development
+  - Apply strong design sensibilities to deliver polished, accessible, and user-centric
+    interfaces
+  use_cases:
+  - AI-powered conversational interfaces for accounting professionals to ask questions
+    and get advice
+  - Automated accounting research using generative AI to streamline workflows
+  - Intelligent workspaces that orchestrate AI capabilities to enhance productivity
+  - Ready to Advise feature leveraging AI to provide professional guidance and recommendations
+  skills:
+    genai: [LLMs, AI agent design, prompt engineering]
+    ml: []
+    web: [Next.js, Tailwind CSS, FastAPI, Pydantic, React, API design]
+    databases: [data modeling]
+    data: []
+    cloud: [cloud infrastructure]
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [UI/UX design, A/B testing]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8006570'
+  extracted_at: '2026-02-05T11:48:12.706740'

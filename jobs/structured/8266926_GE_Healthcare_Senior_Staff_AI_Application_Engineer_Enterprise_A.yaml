@@ -1,0 +1,63 @@
+company:
+  name: GE Healthcare
+  stage: Public
+  focus: Medical technology and digital solutions
+  use_cases:
+  - Commercial excellence through AI-driven insights and automation
+  - Logistics optimization and inventory management using predictive and generative
+    AI
+  - Manufacturing innovation with AI-powered process optimization
+  - Finance transformation through automated insights and decision support
+  - Supply chain optimization and demand forecasting
+  - Quality assurance and operational excellence with AI-powered analytics
+position:
+  title: Senior Staff AI Application Engineer, Enterprise AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs, RAG pipelines,
+      AI agents, and generative models. The engineer directly
+      develops, integrates, and deploys AI capabilities including
+      multi-agent systems and multi-model orchestration.
+  responsibilities:
+  - Design and develop AI-powered applications, integrating machine learning and generative
+    models into enterprise-grade software products and internal tools
+  - Own the full software development lifecycle (SDLC), including unit, integration,
+    and end-to-end testing
+  - Develop modern, intuitive interfaces for AI applications with strong focus on
+    usability, accessibility, and AI explainability
+  - Implement scalable and secure back-end services to expose AI capabilities including
+    LLMs, RAG pipelines, and AI agents through standardized APIs
+  - Translate data science prototypes and GenAI models into scalable applications
+    with intuitive user interfaces and reliable back-end infrastructure
+  - Collaborate with MLOps and GenAIOps teams to deploy, monitor, and continuously
+    improve AI applications within standardized CI/CD pipelines
+  - Integrate cloud-native AI services and open-source frameworks like LangChain and
+    LangGraph into enterprise environments
+  - Optimize application performance, infrastructure efficiency, and LLM utilization
+    to enhance business impact
+  use_cases:
+  - Commercial excellence through AI-driven insights and automation
+  - Logistics optimization and inventory management using predictive and generative
+    AI
+  - Manufacturing innovation with AI-powered process optimization
+  - Finance transformation through automated insights and decision support
+  - Supply chain optimization and demand forecasting
+  - Quality assurance and operational excellence with AI-powered analytics
+  skills:
+    genai: [LangChain, LangGraph, OpenAI API, RAG, agents, LLMs, MCP, prompt engineering,
+      diffusion models]
+    ml: [transformers, model training, fine-tuning]
+    web: [React, Next.js, TypeScript, FastAPI, Flask, Node.js, REST, GraphQL, gRPC]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, AWS Bedrock, Azure OpenAI]
+    ops: [MLflow, Docker, Kubernetes, CI/CD, monitoring, LLMOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8266926'
+  extracted_at: '2026-02-05T12:26:28.723987'

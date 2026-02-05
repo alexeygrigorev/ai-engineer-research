@@ -1,0 +1,58 @@
+company:
+  name: Anyscale
+  stage: Series B
+  focus: Distributed computing platform for scalable AI/ML
+  use_cases:
+  - Distributed model training across multi-node and multi-GPU environments
+  - Scalable model inference and serving for production ML workloads
+  - Data preprocessing and feature pipelines at scale
+  - ML workflow orchestration and operational best practices
+  - MLOps platform integration including CI/CD, monitoring, and retraining pipelines
+position:
+  title: AI / ML Solutions Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Solutions Engineer role focused on implementing
+      Ray/Anyscale platform infrastructure for customers. While
+      the work involves AI/ML workloads, the role is primarily
+      about enabling distributed computing infrastructure, MLOps
+      pipelines, and platform integration rather than directly
+      building, training, or fine-tuning models. The engineer
+      implements and scales workloads ON Anyscale's infrastructure
+      but doesn't work directly ON the AI models themselves.
+  responsibilities:
+  - Implement production AI/ML workloads using Ray and Anyscale including distributed
+    training, scalable inference, and data preprocessing
+  - Work hands-on with customer codebases to refactor existing workloads for distributed
+    execution on Ray
+  - Advise customers on ML system architecture, resource management, scaling strategies,
+    and performance tuning
+  - Partner with customer MLE and MLOps teams to integrate Ray into existing platforms
+    and workflows with CI/CD and monitoring support
+  - Enable customer teams through working sessions, design reviews, training delivery,
+    and hands-on guidance
+  - Contribute field feedback to product and engineering teams and develop reference
+    architectures and best practices
+  use_cases:
+  - Distributed model training across multi-node and multi-GPU environments
+  - Scalable model inference and serving for production ML workloads
+  - Data preprocessing and feature pipelines at scale
+  - ML workflow orchestration and operational best practices
+  - MLOps platform integration including CI/CD, monitoring, and retraining pipelines
+  skills:
+    genai: []
+    ml: [Distributed training]
+    web: []
+    databases: []
+    data: [Ray, Spark, Dask, Data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, MLflow, Airflow, Dagster, Kubeflow, Model serving, CI/CD, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8167425'
+  extracted_at: '2026-02-05T12:08:07.280455'

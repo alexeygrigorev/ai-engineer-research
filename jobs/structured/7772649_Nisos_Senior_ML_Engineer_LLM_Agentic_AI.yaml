@@ -1,0 +1,62 @@
+company:
+  name: Nisos
+  stage: null
+  focus: Human risk management and threat intelligence
+  use_cases:
+  - Process and analyze large-scale unstructured data for threat intelligence
+  - Implement automated pattern recognition and entity extraction for intelligence
+    gathering
+  - Enable multi-step reasoning and tool orchestration for complex security analysis
+  - Provide real-time semantic search and retrieval over intelligence data
+  - Support OSINT (Open Source Intelligence) analysis with NLP and computer vision
+    techniques
+position:
+  title: Senior ML Engineer (LLM, Agentic AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying LLM-based
+      systems including fine-tuning models, implementing RAG, and
+      creating agentic workflows with LangGraph. The engineer owns
+      model deployment, evaluation, and optimization - hands-on
+      work with AI systems rather than supporting infrastructure.
+  responsibilities:
+  - Integrate and fine-tune LLMs for natural-language understanding, reasoning, and
+    multi-step tool orchestration
+  - Build agentic workflows using LangGraph to coordinate complex tasks across data
+    sources and services
+  - Architect and implement AI/ML features for pattern recognition, entity extraction,
+    and automated intelligence gathering at scale
+  - Develop scalable data pipelines and streaming architectures that process billions
+    of heterogeneous data points
+  - Create and optimize vector databases and retrieval systems for semantic search
+    and RAG
+  - Deliver production-ready APIs and microservices supporting real-time analysis
+    and model inference
+  - Own model deployment and monitoring using modern ML/LLMOps practices with focus
+    on accuracy, latency, and cost
+  - Evaluate LLM systems using offline metrics, golden test sets, and prompt A/B tests
+  use_cases:
+  - Process and analyze large-scale unstructured data for threat intelligence
+  - Implement automated pattern recognition and entity extraction for intelligence
+    gathering
+  - Enable multi-step reasoning and tool orchestration for complex security analysis
+  - Provide real-time semantic search and retrieval over intelligence data
+  - Support OSINT (Open Source Intelligence) analysis with NLP and computer vision
+    techniques
+  skills:
+    genai: [LangChain, LangGraph, AutoGen, prompt engineering, RAG]
+    ml: [PyTorch, TensorFlow, LLM fine-tuning]
+    web: [FastAPI, REST]
+    databases: [Pinecone, Weaviate]
+    data: [Kafka, Spark, Airflow]
+    cloud: [ECS]
+    ops: [LLMOps, Docker, Terraform, CloudFormation]
+    languages: [Python]
+    domains: [NLP, CV]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7772649'
+  extracted_at: '2026-02-05T11:26:24.446956'

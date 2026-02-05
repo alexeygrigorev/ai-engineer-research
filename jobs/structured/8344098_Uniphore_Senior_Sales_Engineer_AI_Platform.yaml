@@ -1,0 +1,65 @@
+company:
+  name: Uniphore
+  stage: Pre-IPO
+  focus: Enterprise B2B AI platform for customer experience
+  use_cases:
+  - Customer experience optimization through multimodal AI combining Generative AI,
+    Knowledge AI, and Emotion AI
+  - Workflow automation and copilot assistance for enterprise customer interactions
+  - Voice, video, and text capture with AI-powered analysis for business insights
+  - Enterprise AI deployments across multiple industry verticals driving measurable
+    business outcomes
+  - Agent-based AI solutions and RAG implementations for enterprise knowledge management
+position:
+  title: Senior Sales Engineer, AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a pre-sales engineering role focused on
+      demonstrating and selling Uniphore's AI platform rather than
+      building, training, or deploying models. The position
+      involves presenting solutions, conducting proof of concepts,
+      and advising on AI adoption strategies - all enabling work
+      for customers who will use the AI systems, not hands-on
+      model development work.
+  responsibilities:
+  - Act as technical lead in sales cycle, partnering with Account Executives to drive
+    enterprise opportunities from qualification to close
+  - Deliver compelling technical presentations, demos showcasing GenAI, Agentic AI,
+    RAG, and LLM-based solutions
+  - Build and deliver custom demos and POCs to validate business value and technical
+    feasibility
+  - Conduct discovery sessions with business and technical stakeholders to uncover
+    needs, pain points, and desired outcomes
+  - Translate business requirements into AI solution architectures leveraging Uniphore's
+    capabilities
+  - Advise clients on AI adoption strategies, integration with multi-modal data platforms,
+    and industry best practices
+  - Respond to RFPs/RFIs with detailed technical responses and solution designs
+  - Build and maintain deep domain expertise in AI trends, competitor offerings, and
+    enterprise AI adoption
+  use_cases:
+  - Customer experience optimization through multimodal AI combining Generative AI,
+    Knowledge AI, and Emotion AI
+  - Workflow automation and copilot assistance for enterprise customer interactions
+  - Voice, video, and text capture with AI-powered analysis for business insights
+  - Enterprise AI deployments across multiple industry verticals driving measurable
+    business outcomes
+  - Agent-based AI solutions and RAG implementations for enterprise knowledge management
+  skills:
+    genai: [Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Prompt
+        Engineering, Agentic AI architectures]
+    ml: []
+    web: [API Integration, REST, GraphQL, OAuth 2.0]
+    databases: []
+    data: [Data governance]
+    cloud: [AWS, Azure, GCP, Cloud computing principles]
+    ops: []
+    languages: []
+    domains: []
+    other: [AI security and governance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8344098'
+  extracted_at: '2026-02-05T12:56:04.593120'

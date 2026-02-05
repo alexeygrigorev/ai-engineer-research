@@ -1,0 +1,75 @@
+company:
+  name: Ethos
+  stage: Series C
+  focus: Life insurance technology and digital platform
+  use_cases:
+  - LLM-powered copilots for underwriting productivity to help insurance underwriters
+    work more efficiently
+  - Agent enablement tools that provide AI assistance to insurance agents during customer
+    interactions
+  - Customer support automation using AI to handle insurance-related inquiries and
+    provide accurate, cited responses
+  - Operations and compliance copilots to streamline internal workflows and ensure
+    regulatory adherence
+  - Fraud detection and prevention using AI to analyze patterns and identify suspicious
+    activities in insurance applications
+  - Multi-hop context retrieval across complex insurance documents to provide comprehensive,
+    accurate answers to domain-specific questions
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying LLM-powered
+      copilots with hands-on work on RAG systems, LLM
+      orchestration, and GPU inference optimization. The engineer
+      directly owns the LLM + retrieval + context layer,
+      implementing model-centric features like embeddings,
+      reranking, and function calling.
+  responsibilities:
+  - Build and own the LLM + retrieval + context layer for multiple copilot applications
+    across underwriting, agent enablement, customer support, and fraud workflows
+  - Implement production RAG systems including indexing, retrieval, hybrid search,
+    reranking, query rewriting, grounding, and citation management
+  - Develop context graph with entity resolution, linking, provenance, graph + vector
+    retrieval for multi-hop context
+  - Orchestrate LLM operations with tool and function calling, structured outputs,
+    routing across model tiers, and failure mode handling
+  - Optimize GPU inference costs and latency through batching, caching, KV reuse,
+    quantization, and autoscaling strategies
+  - Implement safety and compliance features including PII/PHI handling, redaction,
+    audit logs, deterministic replay, and hallucination mitigation
+  - Build LLMOps infrastructure with evaluation harness using golden sets, regression
+    testing, and adversarial testing, plus monitoring for quality, cost, and drift
+  - Design and ship end-to-end pipelines from retrieve to assemble context to generate
+    to cite to log/monitor with measurable quality metrics
+  use_cases:
+  - LLM-powered copilots for underwriting productivity to help insurance underwriters
+    work more efficiently
+  - Agent enablement tools that provide AI assistance to insurance agents during customer
+    interactions
+  - Customer support automation using AI to handle insurance-related inquiries and
+    provide accurate, cited responses
+  - Operations and compliance copilots to streamline internal workflows and ensure
+    regulatory adherence
+  - Fraud detection and prevention using AI to analyze patterns and identify suspicious
+    activities in insurance applications
+  - Multi-hop context retrieval across complex insurance documents to provide comprehensive,
+    accurate answers to domain-specific questions
+  skills:
+    genai: [LangChain, OpenAI APIs, RAG, prompt engineering, agents, function calling,
+      PEFT]
+    ml: []
+    web: [FastAPI, REST]
+    databases: [Postgres, pgvector, Pinecone, Weaviate, OpenSearch]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, CI/CD, Datadog, VLLM, TensorRT-LLM, TGI]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8281490'
+  extracted_at: '2026-02-05T12:31:26.240285'

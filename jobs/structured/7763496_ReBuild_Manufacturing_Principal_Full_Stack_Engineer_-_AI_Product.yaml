@@ -1,0 +1,57 @@
+company:
+  name: Re:Build Manufacturing
+  stage: Growth stage (backed by parent company with spinout potential)
+  focus: |-
+    AI-powered platform for engineering services and
+    manufacturing collaboration
+  use_cases:
+  - AI-powered agents that supercharge engineering talent and build products in hard
+    technology spaces
+  - Intelligent operating system for engineering firms and their customers
+  - Real-time collaboration and workflow automation for engineering teams
+  - Engineering and manufacturing technical collaboration workflows
+  - B2B SaaS platform for engineering services industry transformation
+position:
+  title: Principal Full Stack Engineer - AI Product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Principal Engineer role hands-on building agentic
+      AI workflows using LangGraph/LangChain, integrating LLM APIs
+      (Claude, GPT-4), implementing RAG architectures with vector
+      databases, and fine-tuning models. The engineer is directly
+      building and deploying AI agents, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Building production-grade React Native applications for web and mobile platforms
+  - Architecting and implementing cloud-native services on GCP including Cloud Run,
+    Cloud SQL, and Pub/Sub
+  - Developing agentic AI workflows using frameworks like LangGraph and LangChain
+  - Integrating LLM APIs with proper error handling, streaming, and cost optimization
+  - Building data pipelines for AI/ML workflows including RAG, vector search, and
+    fine-tuning
+  - Contributing to technical architecture and system design discussions with customers
+  use_cases:
+  - AI-powered agents that supercharge engineering talent and build products in hard
+    technology spaces
+  - Intelligent operating system for engineering firms and their customers
+  - Real-time collaboration and workflow automation for engineering teams
+  - Engineering and manufacturing technical collaboration workflows
+  - B2B SaaS platform for engineering services industry transformation
+  skills:
+    genai: [LangGraph, LangChain, 'LLM APIs (Claude, GPT-4, OpenAI, Anthropic)', RAG,
+      agentic AI workflows]
+    ml: [fine-tuning]
+    web: [React Native, React]
+    databases: ['vector databases (Pinecone, Weaviate, Chroma)']
+    data: [data pipelines]
+    cloud: ['GCP (Cloud Run, Cloud SQL, Pub/Sub, Compute, Storage)']
+    ops: [Docker, DevOps, MLOps]
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: [system design, API architecture, database design]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7763496'
+  extracted_at: '2026-02-05T11:25:28.946343'

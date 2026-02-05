@@ -1,0 +1,58 @@
+company:
+  name: VCU Health
+  stage: null
+  focus: Healthcare AI solutions and clinical decision support
+  use_cases:
+  - Clinical decision support tools to improve patient outcomes and care quality
+  - Healthcare operational efficiency improvements in administrative areas
+  - Predictive models for patient care, healthcare operations, and financial performance
+    optimization
+  - Agentic AI solutions and automation for clinical and administrative workflows
+  - NLP-based analysis of unstructured healthcare data and clinical text
+position:
+  title: AI Engineer II
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on development and deployment of
+      LLM-based agentic AI solutions using RAG and fine-tuning
+      foundation models. This directly builds and deploys AI
+      systems, including predictive models, clinical decision
+      support tools, and GenAI solutions with RESTful API
+      integration.
+  responsibilities:
+  - Develop predictive models and machine learning algorithms that clinicians and
+    staff will use to improve patient care, healthcare operations and financial performance
+  - Develop and deploy LLM based Agentic AI and automation solutions using RAG or
+    fine-tuning foundation models
+  - Design, develop, and maintain robust and scalable ML pipelines, encompassing data
+    ingestion, feature engineering, model training, deployment, and monitoring
+  - Conduct rigorous model evaluation, including performance testing and bias assessment,
+    to ensure the ethical and reliable deployment of AI systems
+  - Design and implement RESTful APIs to integrate ML models or GenAI solutions with
+    other applications and systems within the organization
+  - Stay abreast of the latest advancements in AI and Machine Learning technologies
+    to ensure VCU Health is in the forefront of AI innovation
+  use_cases:
+  - Clinical decision support tools to improve patient outcomes and care quality
+  - Healthcare operational efficiency improvements in administrative areas
+  - Predictive models for patient care, healthcare operations, and financial performance
+    optimization
+  - Agentic AI solutions and automation for clinical and administrative workflows
+  - NLP-based analysis of unstructured healthcare data and clinical text
+  skills:
+    genai: [RAG, fine-tuning, foundation models, prompt engineering]
+    ml: [PyTorch, TensorFlow, Keras, Numpy]
+    web: [RESTful APIs]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [Python, R, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7925663'
+  extracted_at: '2026-02-05T11:41:01.160016'

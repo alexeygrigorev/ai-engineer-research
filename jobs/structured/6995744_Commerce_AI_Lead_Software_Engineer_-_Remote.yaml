@@ -1,0 +1,62 @@
+company:
+  name: Commerce
+  stage: Public
+  focus: Open AI-driven commerce ecosystem platform
+  use_cases:
+  - Consumer-facing agentic product solutions powered by LLMs and GenAI technologies
+  - Personalized commerce experiences across every channel using AI-driven insights
+  - RAG-based information retrieval and knowledge systems for e-commerce data
+  - AI agents and multimodal LLMs for solving complex commerce challenges
+  - Prompt orchestration systems for various product use cases across the business
+  - Data pipeline integration with e-commerce taxonomies and schemas
+position:
+  title: AI Lead Software Engineer - Remote
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building agentic
+      product solutions with LLMs and GenAI technologies,
+      including deep expertise with RAG pipelines, MCP, AI agents,
+      multimodal LLMs, and prompt orchestration. The engineer will
+      directly design and implement AI-based product solutions,
+      not just supporting infrastructure.
+  responsibilities:
+  - Interface with team members across multiple domains, executives and stakeholders
+    to provide context, direction setting and technical guidance
+  - Collaboratively contribute to and author high level designs and partner with key
+    leaders to ensure strategic alignment
+  - Serve as lead engineer for major initiatives, working across teams to develop
+    and implement low level designs
+  - Lead the design and implementation of multiple AI-based product solutions enabling
+    rapid experimentation and implementation
+  - Collaborate with Product and Engineering leadership to help shape the AI strategy
+  - Upskill the organization by evangelizing technologies and identifying opportunities
+    for experimentation and education
+  - Build scalable solutions and systems that are secure, cost-effective and performant
+    at very large scale
+  - Facilitate quick-turnaround solutions to address urgent business needs while balancing
+    delivery speed, scalability, and reliability
+  use_cases:
+  - Consumer-facing agentic product solutions powered by LLMs and GenAI technologies
+  - Personalized commerce experiences across every channel using AI-driven insights
+  - RAG-based information retrieval and knowledge systems for e-commerce data
+  - AI agents and multimodal LLMs for solving complex commerce challenges
+  - Prompt orchestration systems for various product use cases across the business
+  - Data pipeline integration with e-commerce taxonomies and schemas
+  skills:
+    genai: [LLMs, GenAI, RAG pipelines, MCP, AI agents, multimodal LLMs, prompt orchestration]
+    ml: []
+    web: [React, Angular, API architecture]
+    databases: [vector databases, SQL, NoSQL]
+    data: [data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: [LLM telemetry, model orchestration tools, inference frameworks, cloud-native
+        ML workflows, MLOps]
+    languages: [Python, GoLang, Scala, TypeScript, JavaScript]
+    domains: [e-commerce taxonomies]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6995744'
+  extracted_at: '2026-02-05T10:04:57.258260'

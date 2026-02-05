@@ -1,0 +1,47 @@
+company:
+  name: Hex
+  stage: Series B
+  focus: Data analytics platform with AI features
+  use_cases:
+  - AI-augmented analytics workflows for data understanding
+  - Data agents for automated data analysis
+  - Context-aware AI features integrated with data workflows
+  - AI-powered tools that accelerate data exploration
+position:
+  title: Product Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves owning scalable agent infrastructure,
+      working on context and model prompting, and building AI-
+      powered data agents. This is hands-on work building and
+      deploying AI systems (agents), not just supporting
+      infrastructure.
+  responsibilities:
+  - Build AI-powered features into Hex platform
+  - Partner with Research team on context and model prompting
+  - Own scalable agent infrastructure powering data agents
+  - Develop cutting-edge experimentation tooling for AI features
+  - Collaborate with product engineering teams on platform integration
+  - Lead major product initiatives and mentor fellow engineers
+  use_cases:
+  - AI-augmented analytics workflows for data understanding
+  - Data agents for automated data analysis
+  - Context-aware AI features integrated with data workflows
+  - AI-powered tools that accelerate data exploration
+  skills:
+    genai: [Model prompting, Agents]
+    ml: []
+    web: [React, Web infrastructure]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Agent infrastructure]
+    languages: [TypeScript, Python]
+    domains: []
+    other: [Architecture and systems design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7249064'
+  extracted_at: '2026-02-05T10:31:31.783854'

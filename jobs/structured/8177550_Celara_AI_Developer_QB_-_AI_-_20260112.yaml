@@ -1,0 +1,50 @@
+company:
+  name: Celara
+  stage: null
+  focus: Enterprise restaurant technology software
+  use_cases:
+  - AI chatbots and assistants for restaurant operations
+  - Automatic Speech Recognition (ASR) for voice-based interactions
+  - ML forecasting for business predictions
+  - Restaurant technology enterprise solutions
+  - AI-powered automation for restaurant workflows
+position:
+  title: AI Developer (QB - AI - 20260112)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with AI/ML models
+      including LLMs, deep learning models (PyTorch/TensorFlow),
+      and building AI systems like chatbots, ASR, and ML
+      forecasting. The engineer is responsible for designing,
+      developing, deploying, and maintaining AI software and
+      collecting training data - all core AI development tasks.
+  responsibilities:
+  - Research AI technologies for current and future products
+  - Design, develop, test, deploy, and maintain demo and production software
+  - Monitor and improve current ML processes
+  - Develop software to quickly and effectively collect training data
+  - Improve the iteration time between prototype to end-user testing
+  - Convert prototype software projects into demos and production software
+  use_cases:
+  - AI chatbots and assistants for restaurant operations
+  - Automatic Speech Recognition (ASR) for voice-based interactions
+  - ML forecasting for business predictions
+  - Restaurant technology enterprise solutions
+  - AI-powered automation for restaurant workflows
+  skills:
+    genai: [LLMs, Chatbots/AI Assistants]
+    ml: [PyTorch, TensorFlow, Deep Learning, ML models, ML Forecasting]
+    web: [REST]
+    databases: [MongoDB, ElasticSearch]
+    data: [Training Data Sets]
+    cloud: [AWS]
+    ops: [Docker, Agile Scrum, Git, CI/CD, Microservices, Microservice Testing]
+    languages: [Python]
+    domains: [Automatic Speech Recognition (ASR)]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8177550'
+  extracted_at: '2026-02-05T12:09:06.975603'

@@ -1,0 +1,56 @@
+company:
+  name: Multiverse
+  stage: Series D
+  focus: AI and tech upskilling platform for workforce development
+  use_cases:
+  - AI-powered personalized learning experiences and education content
+  - Automated content generation for learning materials
+  - Semantic search and summarization of educational content
+  - Intelligent features that improve learner productivity and performance
+  - AI-driven recommendations for skills development and upskilling
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, fine-tuning, and
+      deploying AI solutions including LLMs and machine learning
+      models. The engineer owns the entire lifecycle from
+      experimentation through deployment and works directly on
+      model integration, not just supporting infrastructure.
+  responsibilities:
+  - Design and deliver AI-powered features in partnership with Product, Design, and
+    Data teams
+  - Design, fine-tune, and integrate LLM-powered solutions for content generation,
+    semantic search, summarization, and personalized learning
+  - Develop, fine-tune, and embed machine learning models into production systems
+    using tools like Cursor and Gemini
+  - Own the end-to-end lifecycle from raw data through experimentation, deployment,
+    and continuous iteration
+  - Track performance, accuracy, and adoption of AI features to drive constant improvement
+  - Build robust MLOps pipelines for model training, deployment, and monitoring using
+    AWS cloud services
+  - Explore and apply new AI tools including Cursor and Gemini to create exceptional
+    user experiences
+  use_cases:
+  - AI-powered personalized learning experiences and education content
+  - Automated content generation for learning materials
+  - Semantic search and summarization of educational content
+  - Intelligent features that improve learner productivity and performance
+  - AI-driven recommendations for skills development and upskilling
+  skills:
+    genai: [LLMs, GPT, Claude, Gemini Pro, prompt engineering, Cursor]
+    ml: [PyTorch, TensorFlow, scikit-learn, fine-tuning]
+    web: [FastAPI, REST, microservices]
+    databases: []
+    data: [feature engineering, data preprocessing]
+    cloud: [AWS]
+    ops: [CI/CD, MLOps, MLflow, Kubernetes, model monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7023088'
+  extracted_at: '2026-02-05T10:05:47.007945'

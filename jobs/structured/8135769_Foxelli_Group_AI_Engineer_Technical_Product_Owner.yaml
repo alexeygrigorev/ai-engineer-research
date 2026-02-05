@@ -1,0 +1,54 @@
+company:
+  name: Foxelli Group
+  stage: Growth-stage (10 years in business, $20M+ annual revenue)
+  focus: D2C e-commerce brands with AI-powered marketing tools
+  use_cases:
+  - Generate advertising copy for Meta ads using LLMs
+  - Test creative variations at scale by combining hooks, angles, formats, and personas
+  - Learn from Meta ad performance data to improve creative generation over time
+  - Automate repetitive creative work for marketing teams
+  - Provide an internal tool that helps D2C brands optimize their advertising performance
+position:
+  title: AI Engineer (Technical Product Owner)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building an internal AI ad engine that
+      generates creative copy for Meta ads, learns from
+      performance data, and gets smarter over time. The engineer
+      will work directly with LLMs, design feedback loops, and
+      build the full backend system - this is hands-on work
+      building and deploying AI systems, not supporting
+      infrastructure or general software engineering for an AI
+      company.
+  responsibilities:
+  - Build the full backend for the internal AI ad engine system
+  - Design how creative elements (hooks, angles, formats, personas) get combined,
+    tested, and improved
+  - Set up clear feedback loops using Meta ad performance data to optimize the system
+  - Make architectural decisions about workflows, queues, callbacks, and system logic
+  - Collaborate with editors to understand requirements for day-to-day creative work
+  - Choose the MVP development path - build small, test fast, iterate often
+  - Maintain simple and scalable system architecture as the product grows
+  use_cases:
+  - Generate advertising copy for Meta ads using LLMs
+  - Test creative variations at scale by combining hooks, angles, formats, and personas
+  - Learn from Meta ad performance data to improve creative generation over time
+  - Automate repetitive creative work for marketing teams
+  - Provide an internal tool that helps D2C brands optimize their advertising performance
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: [asynchronous systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8135769'
+  extracted_at: '2026-02-05T12:04:57.406062'

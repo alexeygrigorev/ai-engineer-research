@@ -1,0 +1,55 @@
+company:
+  name: Mastrics
+  stage: null
+  focus: |-
+    Fertility-tech SaaS platforms for surrogacy, egg donation,
+    and medical record automation
+  use_cases:
+  - Retrieval-augmented generation (RAG) services for SaaS products
+  - AI-powered chatbots for customer interaction
+  - Document summarization pipelines for medical records and background checks
+  - AI features for fertility-tech and agency journey management platforms
+  - Transparent surrogacy and egg-donation funding automation
+position:
+  title: Staff Software Engineer – AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role requires hands-on work building RAG services, LangChain
+      workflows, chatbots, and document summarization pipelines.
+      The engineer will directly architect, deploy, and iterate on
+      AI/ML features including model choice and prompt design.
+  responsibilities:
+  - Architect and deliver next-generation RAG services that power multiple SaaS products
+  - Lead end-to-end design of chatbots, document summarization pipelines, and LangChain
+    workflows with ownership of performance, observability, and security
+  - Mentor and upskill a small engineering team, fostering best practices in AI/ML
+    development and DevOps
+  - Collaborate with product, design, and domain experts to translate ambiguous ideas
+    into shippable, customer-centric features
+  - Drive experimentation using data to validate hypotheses and iterate rapidly on
+    model choice, prompt design, and UX
+  - Champion compliance and ethical AI usage, contributing to SOC 2/HIPAA controls
+    and internal governance guidelines
+  use_cases:
+  - Retrieval-augmented generation (RAG) services for SaaS products
+  - AI-powered chatbots for customer interaction
+  - Document summarization pipelines for medical records and background checks
+  - AI features for fertility-tech and agency journey management platforms
+  - Transparent surrogacy and egg-donation funding automation
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, OpenAI fine-tuning]
+    ml: [embeddings]
+    web: [Flask, FastAPI, Next.js, React]
+    databases: [vector databases, pg vector, Postgres]
+    data: []
+    cloud: [AWS, Amazon Bedrock, SageMaker, Lambda, S3]
+    ops: [ECS, Terraform, CI/CD, MLOps, DevSecOps]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6330562'
+  extracted_at: '2026-02-05T09:43:35.104157'

@@ -1,0 +1,62 @@
+company:
+  name: Yahoo
+  stage: Public
+  focus: Digital advertising and media platform
+  use_cases:
+  - Revenue optimization for multi-billion dollar advertising operations across Yahoo
+    properties
+  - Intelligent automation of ad monetization through agentic AI systems
+  - Real-time predictive targeting and audience segmentation for digital advertising
+  - Automated sales intelligence and customer insights through conversational AI
+  - Yield optimization and decision-making systems for direct, indirect, and native
+    advertising channels
+position:
+  title: Senior AI Engineer - Monetization Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and deploying multi-agent AI
+      ecosystems, LLMs, and agentic AI systems directly.
+      Responsibilities include architecting AI agents, designing
+      ML models for revenue optimization, and developing real-time
+      inference systems, which is hands-on AI/ML work rather than
+      supporting infrastructure.
+  responsibilities:
+  - Architect complex multi-agent AI ecosystems with advanced orchestration and intelligent
+    workflow automation
+  - Lead development of AI agents for revenue optimization, predictive analytics,
+    and real-time decision-making systems
+  - Design state-of-the-art ML models for audience segmentation, yield optimization,
+    and predictive targeting using first-party data
+  - Build advanced NLP and conversational AI systems for automated sales intelligence
+    and customer insights
+  - Develop real-time ML inference systems handling millions of requests per second
+    with low-latency requirements
+  - Provide technical guidance and mentorship to junior AI engineers and cross-functional
+    team members
+  - Integrate AI systems with existing infrastructure including BigQuery, ad serving
+    platforms, and real-time data pipelines
+  use_cases:
+  - Revenue optimization for multi-billion dollar advertising operations across Yahoo
+    properties
+  - Intelligent automation of ad monetization through agentic AI systems
+  - Real-time predictive targeting and audience segmentation for digital advertising
+  - Automated sales intelligence and customer insights through conversational AI
+  - Yield optimization and decision-making systems for direct, indirect, and native
+    advertising channels
+  skills:
+    genai: [LLMs, multi-agent systems, conversational AI]
+    ml: [TensorFlow, PyTorch, JAX, reinforcement learning, AutoML]
+    web: []
+    databases: [BigQuery]
+    data: []
+    cloud: [Google Cloud Platform]
+    ops: [Kubernetes, Docker, distributed computing]
+    languages: [Python, Scala, Java, SQL, C++]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6623720'
+  extracted_at: '2026-02-05T09:46:33.211179'

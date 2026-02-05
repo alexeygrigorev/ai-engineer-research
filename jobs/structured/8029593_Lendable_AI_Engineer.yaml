@@ -1,0 +1,55 @@
+company:
+  name: Lendable
+  stage: Series C+ / Unicorn
+  focus: Fintech lending platform and consumer finance
+  use_cases:
+  - Customer service chatbot that supports customer operations teams
+  - Document parsing automation through schema extraction tools
+  - LLM-driven case management workflow automation
+  - Business process automation using agents and generative AI
+  - Streamlining financial services operations (loans, credit cards, car finance)
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role as the engineer will directly
+      build, deploy, and maintain production GenAI systems
+      including LLMs, RAG pipelines, and agentic workflows. The
+      role involves hands-on work with models, retrieval systems,
+      and automation - not just supporting infrastructure or data
+      pipelines for others.
+  responsibilities:
+  - Build and maintain production GenAI systems including LLMs, retrieval systems,
+    and agents
+  - Improve internal chatbot that supports customer operations using generative AI
+  - Expand in-house schema extraction pipelines for faster and more accurate document
+    parsing automation
+  - Design and implement LLM-driven workflows that streamline case management and
+    business processes
+  - Own solutions end-to-end from idea and prototype to production deployment and
+    monitoring
+  - Identify new opportunities where Generative AI can simplify and automate business
+    operations
+  use_cases:
+  - Customer service chatbot that supports customer operations teams
+  - Document parsing automation through schema extraction tools
+  - LLM-driven case management workflow automation
+  - Business process automation using agents and generative AI
+  - Streamlining financial services operations (loans, credit cards, car finance)
+  skills:
+    genai: [LLMs, prompt engineering, RAG, agents, schema extraction]
+    ml: []
+    web: []
+    databases: []
+    data: [document parsing]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8029593'
+  extracted_at: '2026-02-05T11:51:04.409168'

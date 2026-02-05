@@ -1,0 +1,53 @@
+company:
+  name: Allstate
+  stage: Public
+  focus: Insurance and protection services
+  use_cases:
+  - AI and LLM integration for insurance products and services
+  - Vectorized database solutions for advanced data retrieval and storage
+  - Cloud-native applications deployed on Azure infrastructure
+  - Automated CI/CD pipelines for AI-driven software delivery
+position:
+  title: Managing Engineer (Python/AI LLM)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with AI/LLM adoption,
+      vectorized database solutions, and scalable AI model
+      deployment. As a managing engineer, the person will drive
+      the implementation and adoption of LLM technologies across
+      products and serve as a subject-matter expert on AI/LLMs.
+  responsibilities:
+  - Lead, mentor, and manage a team of software developers, fostering a culture of
+    collaboration, continuous learning, and adherence to XP/Agile principles
+  - Drive the adoption and implementation of AI, LLMs, vectorized database solutions,
+    and other advanced technologies across products
+  - Provide technical leadership in Python development, Azure cloud architecture,
+    and CI/CD pipelines, guiding the team to make informed technology choices
+  - Shape product architecture, design patterns, and technical roadmaps for AI-driven
+    initiatives and cloud-native applications
+  - Establish and optimize continuous integration, delivery, and deployment practices,
+    ensuring high-quality, reliable software releases
+  - Serve as a subject-matter expert on AI, LLMs, vectorized databases, cloud technologies,
+    Python, and modern software development practices
+  use_cases:
+  - AI and LLM integration for insurance products and services
+  - Vectorized database solutions for advanced data retrieval and storage
+  - Cloud-native applications deployed on Azure infrastructure
+  - Automated CI/CD pipelines for AI-driven software delivery
+  skills:
+    genai: [Large Language Models (LLMs)]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [Azure, Cloud-native architecture]
+    ops: [CI/CD, AI model deployment]
+    languages: [Python]
+    domains: []
+    other: [Agile/XP]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8203179'
+  extracted_at: '2026-02-05T12:13:21.390711'

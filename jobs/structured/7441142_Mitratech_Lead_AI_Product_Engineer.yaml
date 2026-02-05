@@ -1,0 +1,58 @@
+company:
+  name: Mitratech
+  stage: null
+  focus: Legal, immigration, HR, and compliance technology
+  use_cases:
+  - AI-assisted software development and code generation
+  - Automated code testing and documentation using AI agents
+  - Prompt engineering for guiding AI-powered coding workflows
+  - AI-integrated microservices for legal and compliance platforms
+  - AI-enhanced code review and quality assurance processes
+position:
+  title: Lead AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on AI integration work including
+      architecting APIs for AI capabilities, prompt engineering,
+      developing prompt strategies for AI agents, and implementing
+      AI tools like GPT APIs and Copilot. The candidate needs
+      production experience with AI/ML models and familiarity with
+      AI agent frameworks like LangChain, CrewAI, and vector
+      databases for LLM infrastructure.
+  responsibilities:
+  - Lead the design, development, and deployment of AI-enhanced software solutions
+    aligned with modern architectural principles
+  - Architect and implement robust APIs and microservices to integrate AI capabilities
+    into platforms
+  - Develop and refine prompt strategies to guide AI agents in coding, testing, and
+    documentation
+  - Translate high-level product goals into actionable tasks optimized for human and
+    AI execution
+  - Mentor nearshore developers and foster a culture of AI tool adoption and clean
+    code practices
+  - Collaborate on optimizing CI/CD pipelines by integrating AI-enhanced review and
+    testing steps
+  use_cases:
+  - AI-assisted software development and code generation
+  - Automated code testing and documentation using AI agents
+  - Prompt engineering for guiding AI-powered coding workflows
+  - AI-integrated microservices for legal and compliance platforms
+  - AI-enhanced code review and quality assurance processes
+  skills:
+    genai: [LangChain, CrewAI, AutoGPT, OpenAI GPT APIs, GitHub Copilot, Devin AI,
+      prompt engineering, embeddings]
+    ml: [AI/ML models]
+    web: [microservices, REST APIs, domain-driven design]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python, Java, Go, Node.js]
+    domains: []
+    other: [code review, system design]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7441142'
+  extracted_at: '2026-02-05T10:53:13.532115'

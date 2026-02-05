@@ -1,0 +1,52 @@
+company:
+  name: boam
+  stage: null
+  focus: |-
+    Managed AI data solutions transforming unstructured data
+    into structured business intelligence
+  use_cases:
+  - Transform messy, unstructured signals from public, private, and proprietary sources
+    into structured intelligence on millions of SMBs and enterprises
+  - Power CRMs, data warehouses, and AI products with agentic AI systems
+  - Enable mission-critical enterprise decisions with always up-to-date business intelligence
+  - Deploy ML and agentic AI systems for top-tier enterprise customers worldwide
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      maintaining LLMs and agentic AI systems. The engineer owns
+      the full model lifecycle from training to production
+      deployment and develops production-ready agent-driven
+      features, which is core AI work.
+  responsibilities:
+  - Own the ML model lifecycle from training and evaluation to deployment
+  - Build and maintain ML and agentic data pipelines for training, inference, and
+    monitoring
+  - Develop production-ready agentic and large-language-model-driven features
+  - Integrate models into production systems in close collaboration with backend engineers
+  - Implement experiment tracking, model CI/CD, and automated retraining
+  - Improve performance, reliability, and observability of ML and AI systems in production
+  use_cases:
+  - Transform messy, unstructured signals from public, private, and proprietary sources
+    into structured intelligence on millions of SMBs and enterprises
+  - Power CRMs, data warehouses, and AI products with agentic AI systems
+  - Enable mission-critical enterprise decisions with always up-to-date business intelligence
+  - Deploy ML and agentic AI systems for top-tier enterprise customers worldwide
+  skills:
+    genai: [LLMs, agentic systems, RAG]
+    ml: [PyTorch, TensorFlow, XGBoost]
+    web: [APIs]
+    databases: [vector DBs]
+    data: [data preprocessing, feature engineering, ML pipelines]
+    cloud: []
+    ops: [experiment tracking, model CI/CD, model deployment, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8249839'
+  extracted_at: '2026-02-05T12:21:58.448147'

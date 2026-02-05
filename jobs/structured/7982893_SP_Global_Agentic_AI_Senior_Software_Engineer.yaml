@@ -1,0 +1,54 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: |-
+    Credit ratings, benchmarks, analytics, and workflow
+    solutions for global capital markets
+  use_cases:
+  - Autonomous testing and defect triage for software quality engineering
+  - AI-powered copilots that assist with quality engineering workflows
+  - Predictive insights and intelligent decision-making for engineering effectiveness
+  - Intelligent environments with data observability and ethical AI governance
+  - AI-driven quality insights aligned with customer journeys and experience
+position:
+  title: Agentic AI Senior Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an agentic AI role focused on architecting and
+      implementing AI-driven solutions including LLM-powered
+      agents, autonomous testing systems, and AI copilots. The
+      role involves hands-on work with LLMOps, GenAI frameworks,
+      and building intelligent automation systems for quality
+      engineering, which is direct work on AI systems rather than
+      supporting infrastructure.
+  responsibilities:
+  - Architect and implement Agentic AI platforms for autonomous testing and defect
+    triage
+  - Integrate AI copilots and LLM-powered agents into Quality Engineering workflows
+  - Define and execute the Agentic AI architecture roadmap for QE transformation
+  - Evaluate and integrate LLMOps, GenAI, and autonomous agent frameworks
+  - Lead AI experimentation labs to validate use cases and proofs of concept
+  - Ensure AI solutions are scalable, secure, and compliant with enterprise standards
+  use_cases:
+  - Autonomous testing and defect triage for software quality engineering
+  - AI-powered copilots that assist with quality engineering workflows
+  - Predictive insights and intelligent decision-making for engineering effectiveness
+  - Intelligent environments with data observability and ethical AI governance
+  - AI-driven quality insights aligned with customer journeys and experience
+  skills:
+    genai: [GenAI, LLM-powered agents, agentic AI frameworks, autonomous agent frameworks]
+    ml: [AI model testing]
+    web: []
+    databases: []
+    data: [ML pipelines, data observability]
+    cloud: [Azure AI]
+    ops: [LLMOps, containerized environments, DevSecOps]
+    languages: [Python]
+    domains: []
+    other: [AI governance, ethical AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7982893'
+  extracted_at: '2026-02-05T11:45:16.625519'

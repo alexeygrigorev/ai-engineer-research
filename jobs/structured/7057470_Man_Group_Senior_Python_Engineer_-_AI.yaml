@@ -1,0 +1,47 @@
+company:
+  name: Man Group
+  stage: Public
+  focus: Alternative investment management firm
+  use_cases:
+  - Building agents that augment, automate and transform investment workflows
+  - Creating tools that transform operational workflows using AI
+  - Deploying AI applications that touch every part of the business
+  - Leveraging scalable intelligence to identify and execute investment opportunities
+position:
+  title: Senior Python Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves building AI/ML applications and
+      agents using GenAI techniques, with advantageous experience
+      in training/fine-tuning generative models. While there's
+      infrastructure work, the hands-on development of AI
+      solutions places this in ai-first rather than ai-support.
+  responsibilities:
+  - Design, build, and maintain the firm's core AI and Machine Learning platform
+  - Partner with stakeholders to design, build, and deploy bespoke AI/ML applications
+    and agents
+  - Monitor latest developments in applied AI to identify and implement novel AI-powered
+    solutions
+  - Promote understanding and adoption of AI tools and capabilities across the business
+  use_cases:
+  - Building agents that augment, automate and transform investment workflows
+  - Creating tools that transform operational workflows using AI
+  - Deploying AI applications that touch every part of the business
+  - Leveraging scalable intelligence to identify and execute investment opportunities
+  skills:
+    genai: [GenAI, agents]
+    ml: [model training, fine-tuning]
+    web: [React, Next.js]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7057470'
+  extracted_at: '2026-02-05T10:09:55.786605'

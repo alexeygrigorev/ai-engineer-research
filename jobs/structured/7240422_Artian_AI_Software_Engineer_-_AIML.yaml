@@ -1,0 +1,49 @@
+company:
+  name: Artian AI
+  stage: startup
+  focus: Agentic AI workflow automation platform for enterprise
+  use_cases:
+  - Enterprise process automation for regulated industries like financial services
+  - Multi-agent automation in large-scale, mission-critical environments
+  - Scalable and reliable AI-powered automation replacing RPA and BPM tools
+  - Collaborative AI workflows enabling seamless agent cooperation
+  - Financial services process automation with future expansion to other industries
+position:
+  title: Software Engineer - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role requires hands-on work with LLMs including prompt
+      engineering, fine-tuning, and building RAG and multi-agent
+      systems. Direct involvement in developing AI/ML models and
+      agentic AI workflows rather than supporting infrastructure.
+  responsibilities:
+  - Build and deploy AI Workflow Agents for enterprise process automation
+  - Implement RAG, AI agents, and multi-agent systems using LLM APIs
+  - Perform LLM fine-tuning and ML model hyperparameter optimization
+  - Work with embeddings and vector databases for AI systems
+  - Develop across components and services in a cross-functional team
+  - Apply AI/ML solutions to regulated industries, starting with financial services
+  use_cases:
+  - Enterprise process automation for regulated industries like financial services
+  - Multi-agent automation in large-scale, mission-critical environments
+  - Scalable and reliable AI-powered automation replacing RPA and BPM tools
+  - Collaborative AI workflows enabling seamless agent cooperation
+  - Financial services process automation with future expansion to other industries
+  skills:
+    genai: [embeddings, OpenAI API, Claude API, Gemini API, Llama, Mistral, prompt
+        engineering, fine-tuning, RAG, AI agents, multi-agent systems]
+    ml: [PyTorch, sklearn, hyperparameter tuning]
+    web: []
+    databases: [vector databases, graph databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7240422'
+  extracted_at: '2026-02-05T10:31:17.408794'

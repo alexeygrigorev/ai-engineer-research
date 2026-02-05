@@ -1,0 +1,65 @@
+company:
+  name: Lloyd's
+  stage: Public
+  focus: Insurance and reinsurance marketplace
+  use_cases:
+  - Automating business processes using generative AI capabilities like Databricks
+    Genie
+  - Delivering advanced analytics solutions with AI-driven insights embedded in core
+    business processes
+  - Enabling self-service analytics capabilities through the Data & AI Marketplace
+  - Operationalizing AI and ML models for actionable insights within insurance and
+    reinsurance workflows
+  - Reducing pipeline run-costs and improving reliability through AI optimization
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Engineer role that involves hands-on work with
+      generative AI systems including LLM orchestration, RAG, and
+      vector search. The role requires operationalizing AI and ML
+      models, integrating GenAI capabilities into business
+      workflows, and deploying solutions directly within the
+      Databricks Lakehouse environment.
+  responsibilities:
+  - Maintain and enforce best practices for AI engineering and governance within the
+    Lakehouse architecture
+  - Integrate generative AI capabilities into business workflows to automate processes
+    and deliver advanced analytics
+  - Operationalise AI and machine learning models within the Databricks Lakehouse
+    environment including deployment and monitoring
+  - Collaborate with cross-functional teams to embed AI-driven insights into core
+    business processes
+  - Contribute to the development of Lloyd's Data & AI Marketplace and self-service
+    analytics capabilities
+  - Drive continuous improvement by researching emerging trends in AI, ML, and visualization
+    technologies
+  - Provide technical leadership and mentoring within the AI & Analytics team
+  - Monitor and report on performance and adoption of AI solutions ensuring measurable
+    business impact
+  use_cases:
+  - Automating business processes using generative AI capabilities like Databricks
+    Genie
+  - Delivering advanced analytics solutions with AI-driven insights embedded in core
+    business processes
+  - Enabling self-service analytics capabilities through the Data & AI Marketplace
+  - Operationalizing AI and ML models for actionable insights within insurance and
+    reinsurance workflows
+  - Reducing pipeline run-costs and improving reliability through AI optimization
+  skills:
+    genai: [RAG, vector search, LLM orchestration, prompt engineering]
+    ml: [ML model deployment, ML model monitoring]
+    web: []
+    databases: []
+    data: [Databricks SQL, Delta Lake, Unity Catalog]
+    cloud: [Azure]
+    ops: [CI/CD, telemetry, metrics, SLOs]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8382001'
+  extracted_at: '2026-02-05T13:01:46.150311'

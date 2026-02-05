@@ -1,0 +1,58 @@
+company:
+  name: Datadog
+  stage: Public
+  focus: Cloud infrastructure monitoring and observability platform
+  use_cases:
+  - Debug and investigate application performance issues down to root cause using
+    AI developer assistants and autonomous agents
+  - Proactively recommend performance and reliability optimizations to prevent incidents
+  - Automatically create intelligent monitors and SLOs for important business flows
+    and critical paths
+  - Analyze telemetry data (traces, metrics, logs) to generate performance diagnoses
+    and explanations
+position:
+  title: Senior AI Engineer - APM Experiences
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires building and deploying LLM- and agent-
+      based features directly. The engineer will develop agentic
+      workflows, tools, retrieval strategies, guardrails, and
+      manage prompts/evals - all hands-on AI/ML system work, not
+      just supporting infrastructure.
+  responsibilities:
+  - Design and ship LLM/agentic workflows that analyze traces, metrics, logs, and
+    telemetry to generate diagnoses and guided fixes
+  - Prototype quickly, define success metrics and evals, run experiments, and productionize
+    AI features for scale and reliability
+  - Build robust agent systems with tools, retrieval and planning strategies, guardrails,
+    and human-in-the-loop paths
+  - Integrate AI capabilities with Datadog's APM platform surfaces like Trace Explorer,
+    Service Catalog, monitors, and workflows
+  - Write performant backend code and own services in production for high-throughput,
+    low-latency data systems
+  use_cases:
+  - Debug and investigate application performance issues down to root cause using
+    AI developer assistants and autonomous agents
+  - Proactively recommend performance and reliability optimizations to prevent incidents
+  - Automatically create intelligent monitors and SLOs for important business flows
+    and critical paths
+  - Analyze telemetry data (traces, metrics, logs) to generate performance diagnoses
+    and explanations
+  skills:
+    genai: [LLMs, agents, prompt engineering, RAG, tool use orchestration, guardrails,
+      prompting, retrieval and indexing, planning frameworks]
+    ml: [PyTorch, model training, evaluation, anomaly detection, NLP]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [microservices]
+    ops: [distributed tracing, OpenTelemetry, monitoring, observability, Docker, Kubernetes]
+    languages: [Go, Java, Python]
+    domains: [SLO/SLA]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7775659'
+  extracted_at: '2026-02-05T11:27:33.148375'

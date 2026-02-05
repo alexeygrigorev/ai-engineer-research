@@ -1,0 +1,54 @@
+company:
+  name: Omni (omni.co)
+  stage: Series B
+  focus: Business intelligence and embedded analytics platform
+  use_cases:
+  - Self-service business intelligence and analytics
+  - AI-assisted data exploration and query writing
+  - Customer-facing data products and analytics
+  - Multi-modal data access through spreadsheets, SQL, or point-and-click
+  - Semantic layer for consistent, trustworthy data access across AI and traditional
+    tools
+position:
+  title: Software Engineer – AI Frontend
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend software engineer role building
+      interfaces and workflows for an AI-powered analytics
+      service, but the description focuses on building UI
+      capabilities rather than directly building, training, or
+      deploying AI/ML models. The engineer works on features like
+      spreadsheets, CSV uploads, and integrating AI tools like
+      their chat bot, but the actual AI model work is handled
+      separately.
+  responsibilities:
+  - Build interfaces and capabilities for AI-powered analytics service
+  - Design intelligent workflows and AI-assisted tools
+  - Work across the technology stack to solve customer problems
+  - Collaborate with team members to ship features quickly and iteratively
+  - Maintain high bars for performance and quality in production software
+  - Integrate AI features and data tools into the platform
+  use_cases:
+  - Self-service business intelligence and analytics
+  - AI-assisted data exploration and query writing
+  - Customer-facing data products and analytics
+  - Multi-modal data access through spreadsheets, SQL, or point-and-click
+  - Semantic layer for consistent, trustworthy data access across AI and traditional
+    tools
+  skills:
+    genai: [MCP (Model Context Protocol), AI-assisted features]
+    ml: []
+    web: [React, Remix]
+    databases: [SQL]
+    data: []
+    cloud: [AWS, Snowflake, BigQuery, Redshift]
+    ops: []
+    languages: [TypeScript, JavaScript, Kotlin, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7916522'
+  extracted_at: '2026-02-05T11:40:43.305661'

@@ -1,0 +1,64 @@
+company:
+  name: Thomson Reuters
+  stage: Public
+  focus: |-
+    Trusted content and technology for legal, tax, accounting,
+    compliance, government, and media professionals
+  use_cases:
+  - Develop NLP and AI-powered solutions for professional information services
+  - Implement agentic design and context engineering for AI systems
+  - Deploy machine learning models into production environments serving legal, tax,
+    accounting, and compliance professionals
+  - Apply empirical methodology and AI evaluation frameworks to ensure system quality
+  - Leverage sentence transformers and other NLP techniques for text processing and
+    understanding applications
+position:
+  title: Lead Research Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires 4+ years of NLP and/or AI engineering
+      experience with deep proficiency in ML frameworks like
+      PyTorch, JAX, and NLP libraries (spaCy,
+      SentenceTransformers). The position involves applying modern
+      ML techniques, deploying AI systems, and working on agentic
+      design and context engineering, which indicates hands-on
+      work building and deploying AI/ML models rather than just
+      supporting infrastructure.
+  responsibilities:
+  - Provide technical leadership partnering with engineers and applied scientists
+    to develop methodology and evolve the technology stack
+  - Build, test, and deliver high-quality AI solutions across the software development
+    lifecycle using modern AI development practices
+  - Share information and partner with cross-functional and remote teams in a collaborative
+    environment
+  - Contribute innovative ideas, create solutions, and be accountable for end-to-end
+    deliveries in a fast-paced, dynamic environment
+  - Effectively articulate ideas and collaborate on technical developments with cross-functional
+    partners
+  - Apply, integrate, and deploy modern ML techniques into real-world systems with
+    focus on empirical methodology and efficient AI evaluation
+  use_cases:
+  - Develop NLP and AI-powered solutions for professional information services
+  - Implement agentic design and context engineering for AI systems
+  - Deploy machine learning models into production environments serving legal, tax,
+    accounting, and compliance professionals
+  - Apply empirical methodology and AI evaluation frameworks to ensure system quality
+  - Leverage sentence transformers and other NLP techniques for text processing and
+    understanding applications
+  skills:
+    genai: [agentic design, context engineering]
+    ml: [PyTorch, JAX, NumPy, scikit-learn, spaCy, SentenceTransformers, AI evaluation]
+    web: []
+    databases: []
+    data: [Pandas]
+    cloud: [AWS, Azure, cloud-native development]
+    ops: [DevOps, automation]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7766251'
+  extracted_at: '2026-02-05T11:25:42.623142'

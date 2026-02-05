@@ -1,0 +1,54 @@
+company:
+  name: Snap Inc.
+  stage: Public
+  focus: Camera-based social media and augmented reality
+  use_cases:
+  - AI-powered AR Lenses for Snapchat that generate and edit images and video in real-time
+  - Visual content creation tools leveraging generative and diffusion models for millions
+    of daily users
+  - LLM-integrated features for the Snapchat camera experience
+  - Augmented reality experiences powered by generative AI models for mobile applications
+position:
+  title: Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building generative AI
+      products including AI Lenses with image/video generation and
+      editing capabilities. The engineer will work directly with
+      generative models, diffusion models, and LLMs, integrating
+      them into production and building AR experiences using these
+      models.
+  responsibilities:
+  - Develop ML-products and AI Lenses serving millions of Snapchatters daily, focusing
+    on image and video generation, editing, and LLMs
+  - Build cutting-edge augmented reality experiences using generative and diffusion
+    models
+  - Work on state-of-the-art GenAI pipelines for image and video generation
+  - Integrate ML models and AI APIs into production and refine them through A/B testing
+    and user feedback
+  - Evaluate open-source models and third-party AI APIs/services to inform build-vs-buy
+    decisions
+  use_cases:
+  - AI-powered AR Lenses for Snapchat that generate and edit images and video in real-time
+  - Visual content creation tools leveraging generative and diffusion models for millions
+    of daily users
+  - LLM-integrated features for the Snapchat camera experience
+  - Augmented reality experiences powered by generative AI models for mobile applications
+  skills:
+    genai: [LLMs]
+    ml: [PyTorch, TensorFlow, generative models, diffusion models, deep learning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, C++]
+    domains: [neural rendering, segmentation, object detection, classification, tracking,
+      computer graphics]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8075922'
+  extracted_at: '2026-02-05T11:58:18.780012'

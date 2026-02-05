@@ -1,0 +1,56 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services with AI/ML
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges
+  - Answering customer questions in real-time
+  - Enhancing banking products with transformative AI capabilities
+  - Supporting associate workflows with AI-powered tools
+  - Responsible and scalable AI deployment for millions of customers
+position:
+  title: Lead AI Engineer (AI Foundations, LLM Core)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM
+      systems including foundation model training, inference,
+      optimization, and guardrails. The engineer is directly
+      working on AI models and their performance, not just
+      supporting infrastructure.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    and governance
+  - Leverage Open Source and SaaS AI technologies including AWS Ultraclusters, HuggingFace,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to technical vision and long-term roadmap of foundational AI systems
+  - Apply latest AI research judiciously in production environments
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges
+  - Answering customer questions in real-time
+  - Enhancing banking products with transformative AI capabilities
+  - Supporting associate workflows with AI-powered tools
+  - Responsible and scalable AI deployment for millions of customers
+  skills:
+    genai: [LLM inference, Foundation model training, RAG, Guardrails, Nemo Guardrails]
+    ml: [HuggingFace, PyTorch, Model evaluation]
+    web: []
+    databases: [VectorDBs, Similarity search]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Model optimization]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7086915'
+  extracted_at: '2026-02-05T10:13:55.346253'

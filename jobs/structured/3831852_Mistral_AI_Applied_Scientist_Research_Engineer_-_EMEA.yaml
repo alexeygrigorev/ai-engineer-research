@@ -1,0 +1,55 @@
+company:
+  name: Mistral AI
+  stage: Series B
+  focus: |-
+    High-performance open-source AI models and enterprise AI
+    platform
+  use_cases:
+  - Deploying large-scale AI models on GPU clusters for enterprise applications
+  - Implementing agents and RAG pipelines for complex customer use cases
+  - Multi-modal AI applications spanning text, image, and speech processing
+  - Client-facing research projects applying novel AI methods across diverse domains
+  - Enterprise AI solutions through le Chat AI assistant for work and life
+position:
+  title: Applied Scientist / Research Engineer - EMEA
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      state-of-the-art AI models including pre-training, post-
+      training, and deployment on GPU clusters. The candidate will
+      work directly on models, agents, and RAG pipelines, not just
+      supporting infrastructure or data pipelines for others.
+  responsibilities:
+  - Run pre-training, post-training and deploy state of the art models on clusters
+    with thousands of GPUs
+  - Generate and curate data for pre-training and post-training, working on evaluations
+    to ensure model performance beats expectations
+  - Develop tools and frameworks to facilitate data generation, model training, evaluation
+    and deployment
+  - Collaborate with cross-functional teams to tackle complex use cases using agents
+    and RAG pipelines
+  - Manage research projects and communications with client research teams
+  - Develop SOTA models across different modalities such as text, image, and speech
+  use_cases:
+  - Deploying large-scale AI models on GPU clusters for enterprise applications
+  - Implementing agents and RAG pipelines for complex customer use cases
+  - Multi-modal AI applications spanning text, image, and speech processing
+  - Client-facing research projects applying novel AI methods across diverse domains
+  - Enterprise AI solutions through le Chat AI assistant for work and life
+  skills:
+    genai: [RAG, agents]
+    ml: [PyTorch, JAX, model training, pre-training, post-training, NCCL]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: [Python]
+    domains: [multi-modality, diffusion models, time-series, robotics]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '3831852'
+  extracted_at: '2026-02-05T09:36:52.698220'

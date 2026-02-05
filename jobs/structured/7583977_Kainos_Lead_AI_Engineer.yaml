@@ -1,0 +1,62 @@
+company:
+  name: Kainos
+  stage: Public
+  focus: |-
+    AI and data consulting, digital transformation, and
+    enterprise solutions
+  use_cases:
+  - Digital transformation services for government, healthcare, defence, and commercial
+    sectors
+  - Generative AI and agentic AI solutions for citizen-scale applications
+  - AI solutions for Workday enterprise platforms
+  - Responsible AI deployment with cybersecurity and ethical compliance
+  - Large-scale data processing and multimodal AI applications
+  - AI-powered digital services delivering measurable business value
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with generative and agentic
+      AI systems, including prompt engineering, RAG
+      implementation, LLM fine-tuning, and deploying AI solutions
+      into production. The Lead AI Engineer directly builds,
+      architecting, and delivers AI models and frameworks rather
+      than just supporting AI infrastructure.
+  responsibilities:
+  - Architect, design, and deliver advanced AI solutions leveraging state-of-the-art
+    machine learning, generative, and agentic AI technologies
+  - Drive the adoption of modern AI frameworks, AIOps best practices, and scalable
+    cloud-native architectures
+  - Provide hands-on technical leadership and collaborate with customers to translate
+    business challenges into trustworthy AI solutions
+  - Ensure responsible AI practices throughout development including model interpretability
+    and ethical considerations
+  - Manage, coach, and develop junior team members while fostering a culture of innovation
+    and engineering excellence
+  - Deploy production-grade AI solutions including prompt engineering, RAG, model
+    evaluation, and monitoring
+  use_cases:
+  - Digital transformation services for government, healthcare, defence, and commercial
+    sectors
+  - Generative AI and agentic AI solutions for citizen-scale applications
+  - AI solutions for Workday enterprise platforms
+  - Responsible AI deployment with cybersecurity and ethical compliance
+  - Large-scale data processing and multimodal AI applications
+  - AI-powered digital services delivering measurable business value
+  skills:
+    genai: [RAG, prompt engineering, agentic AI, LLM fine-tuning, LLM distillation]
+    ml: [PyTorch, TensorFlow, scikit-learn, XGBoost]
+    web: []
+    databases: [vector databases, semantic search, knowledge graphs]
+    data: []
+    cloud: [Azure, AWS]
+    ops: [Kubernetes, Docker, CI/CD, AIOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7583977'
+  extracted_at: '2026-02-05T11:09:06.064575'

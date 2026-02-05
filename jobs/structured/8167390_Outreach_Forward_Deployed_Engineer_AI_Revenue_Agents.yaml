@@ -1,0 +1,61 @@
+company:
+  name: Outreach
+  stage: Series D+
+  focus: AI Revenue Workflow Platform for sales teams
+  use_cases:
+  - Automate sales workflows from new logo prospecting to renewal and expansion
+  - Enable AI agents for revenue-related tasks including research, conversation analysis,
+    and deal management
+  - Integrate AI agents into existing CRM systems like Salesforce and HubSpot
+  - Free sellers to focus on strategic conversations by automating routine tasks
+  - Provide connected account visibility and performance insights across GTM teams
+  - Improve forecasting accuracy through AI-powered workflow automation
+position:
+  title: Forward Deployed Engineer – AI Revenue Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This Forward Deployed Engineer role involves hands-on
+      deployment, customization, and operationalizing of AI agents
+      in customer environments. The engineer directly works with
+      AI Revenue Agents, tuning prompts, configuring agent
+      behavior, and embedding AI solutions into customer
+      workflows, making them builders of AI systems rather than
+      just enablers.
+  responsibilities:
+  - Lead AI agent pilots and implementations by deploying and configuring Outreach's
+    AI Revenue Agents in real customer environments
+  - Partner with Sales, Marketing, and RevOps stakeholders to understand business
+    processes and identify AI agent integration opportunities
+  - Customize and tune AI behavior by adapting agent capabilities to customer-specific
+    use cases using prompts, data integrations, and routing logic
+  - Build and document repeatable implementation patterns, success criteria, and collateral
+    to scale deployments across customers
+  - Provide structured feedback to Product and Engineering based on customer insights
+    and communicate roadmap priorities
+  - Support customer readiness and change management through training, documentation,
+    and functional support
+  use_cases:
+  - Automate sales workflows from new logo prospecting to renewal and expansion
+  - Enable AI agents for revenue-related tasks including research, conversation analysis,
+    and deal management
+  - Integrate AI agents into existing CRM systems like Salesforce and HubSpot
+  - Free sellers to focus on strategic conversations by automating routine tasks
+  - Provide connected account visibility and performance insights across GTM teams
+  - Improve forecasting accuracy through AI-powered workflow automation
+  skills:
+    genai: [prompt engineering, LLMs, AI agents, AI copilots]
+    ml: []
+    web: [APIs, Salesforce, HubSpot, SaaS integrations]
+    databases: [CRM systems]
+    data: [data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8167390'
+  extracted_at: '2026-02-05T12:07:57.968104'

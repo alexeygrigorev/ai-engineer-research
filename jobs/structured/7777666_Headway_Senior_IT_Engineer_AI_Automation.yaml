@@ -1,0 +1,59 @@
+company:
+  name: Headway
+  stage: Series D
+  focus: Mental health care software platform
+  use_cases:
+  - Automating operational workflows across core business systems to improve efficiency
+  - Building internal tools that leverage AI/LLMs to solve operational problems
+  - Creating agentic automation solutions for cross-platform integrations
+  - Implementing productivity engineering frameworks to scale organizational workflows
+  - Developing automation patterns and templates for consistent internal tool development
+position:
+  title: Senior IT Engineer (AI & Automation)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an IT/Operations role that USES AI tools (Gemini,
+      Glean, Slack AI) to build internal automation and
+      productivity tools, not to build, train, or deploy AI
+      models. The work focuses on workflow automation, internal
+      tools, and operational efficiency across business systems -
+      supporting the organization rather than working directly on
+      AI systems.
+  responsibilities:
+  - Architect, build, and deploy scalable workflow automations and integrations across
+    core business systems using AI/LLMs and agentic automation
+  - Design, build, and maintain custom internal tools leveraging APIs and cross-platform
+    automation tools
+  - Implement error handling and observability for automations and internal tools
+    to ensure production-grade reliability
+  - Develop automation templates, standards, and frameworks that enable future workflows
+    to be created rapidly and with consistency
+  - Develop testing frameworks for automated workflows to ensure quality, reliability,
+    and resilience
+  - Partner with stakeholders across the organization to design and implement automated
+    solutions that increase operational efficiency
+  use_cases:
+  - Automating operational workflows across core business systems to improve efficiency
+  - Building internal tools that leverage AI/LLMs to solve operational problems
+  - Creating agentic automation solutions for cross-platform integrations
+  - Implementing productivity engineering frameworks to scale organizational workflows
+  - Developing automation patterns and templates for consistent internal tool development
+  skills:
+    genai: [LLMs, agentic automation, Gemini, Slack AI, Atlassian Intelligence, Glean]
+    ml: []
+    web: [APIs, Gmail, Slack, Google Workspace, Confluence, Jira Service Desk, ZenDesk,
+      Jira]
+    databases: []
+    data: []
+    cloud: []
+    ops: [observability, error handling, testing frameworks, Okta, Lumos, 1Password,
+      JAMF, InTune, Kolide]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7777666'
+  extracted_at: '2026-02-05T11:28:32.836830'

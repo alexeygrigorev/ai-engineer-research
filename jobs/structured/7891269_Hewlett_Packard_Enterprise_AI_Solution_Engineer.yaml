@@ -1,0 +1,52 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: Edge-to-cloud computing solutions
+  use_cases:
+  - Business challenge solving using AI technologies and frameworks
+  - Prototype demonstrations of AI solutions for customer evaluation
+  - Proof-of-concept implementations that scale from pre-sales to production deployments
+  - Hardware-software integrated AI solutions leveraging on-premise GPU clusters
+position:
+  title: AI Solution Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building AI solutions including LLM
+      applications with LangChain and LlamaIndex. The engineer
+      directly architects, prototypes, and deploys AI solutions
+      for customers in pre-sales engagements, working with ML code
+      in PyTorch and implementing proof-of-concepts that can scale
+      to production.
+  responsibilities:
+  - Architect, build, and deliver AI solutions including demos and proof-of-concepts
+    for customers during pre-sales engagements
+  - Lead technical discussions with prospects and partners to propose integrated AI
+    solutions that address business challenges
+  - Lead Proof-of-Concept and Proof-of-Value engagements demonstrating value from
+    HPE's AI offerings with 3rd party and open source components
+  - Demo AI solutions to prospects that address their specific use cases and desired
+    AI outcomes
+  - Assist in product or technical issues toward initial sales or renewals and help
+    enable internal teams on HPE's AI value proposition
+  use_cases:
+  - Business challenge solving using AI technologies and frameworks
+  - Prototype demonstrations of AI solutions for customer evaluation
+  - Proof-of-concept implementations that scale from pre-sales to production deployments
+  - Hardware-software integrated AI solutions leveraging on-premise GPU clusters
+  skills:
+    genai: [LangChain, LlamaIndex, NVIDIA NeMo]
+    ml: [PyTorch]
+    web: []
+    databases: []
+    data: []
+    cloud: [on-premise hardware]
+    ops: [Kubernetes, Unix-like systems, GPU clusters]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7891269'
+  extracted_at: '2026-02-05T11:38:14.227948'

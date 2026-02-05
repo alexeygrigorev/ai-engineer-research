@@ -1,0 +1,61 @@
+company:
+  name: Cloudflare
+  stage: Public
+  focus: Global cloud infrastructure and edge network services
+  use_cases:
+  - Building platform capabilities that power AI agent orchestration and communication
+    at scale
+  - Enabling efficient headless browsing for AI agents through Cloudflare Browser
+    Rendering API
+  - Providing AI auditability and traceability features for website owners
+  - Creating frameworks for seamless Agent-to-Agent interactions
+  - Empowering software engineers to build, deploy, and manage intelligent agents
+    at scale on Cloudflare's global network
+position:
+  title: Software Engineer , AI Agents Tooling & Platforms
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building foundational tooling and
+      platform capabilities that SUPPORT AI agents (like Browser
+      Rendering API, agent orchestration primitives, and agent-to-
+      agent interaction frameworks), rather than building,
+      training, or fine-tuning the AI models themselves. The
+      engineer is creating infrastructure and APIs that enable
+      others to build and deploy AI agents, which is the
+      definition of ai-support work.
+  responsibilities:
+  - Write design documents outlining strategies to tackle specific technical challenges
+  - Ship new features that integrate multiple technologies across the stack
+  - Architect and deliver innovative API primitives for AI agent platforms, including
+    enhancements to the Cloudflare Browser Rendering API
+  - Fix bugs affecting user experience rendering
+  - Own code from inception to release delivering solutions at every layer of the
+    software stack
+  - Participate in on-call rotation to maintain service health and availability if
+    applicable
+  use_cases:
+  - Building platform capabilities that power AI agent orchestration and communication
+    at scale
+  - Enabling efficient headless browsing for AI agents through Cloudflare Browser
+    Rendering API
+  - Providing AI auditability and traceability features for website owners
+  - Creating frameworks for seamless Agent-to-Agent interactions
+  - Empowering software engineers to build, deploy, and manage intelligent agents
+    at scale on Cloudflare's global network
+  skills:
+    genai: [AI frameworks, AI agent orchestration]
+    ml: []
+    web: [web browsers, HTTP, API design, Browser Rendering API]
+    databases: []
+    data: [distributed systems]
+    cloud: [Cloudflare Workers, cloud platforms]
+    ops: []
+    languages: [TypeScript, Go, Rust, C++, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '2910244'
+  extracted_at: '2026-02-05T09:34:08.420059'

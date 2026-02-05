@@ -1,0 +1,53 @@
+company:
+  name: Flip (getflip.com)
+  stage: Series A
+  focus: AI employee experience platform for frontline workers
+  use_cases:
+  - Empowering frontline employees to access company internal information
+  - AI-powered search and information retrieval across organizational knowledge
+  - Transforming employee experience with AI-driven workflows and features
+  - Voice and engagement platform for frontline workers
+position:
+  title: (Senior) AI Engineer (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing, deploying, and
+      scaling LLM-powered systems in production. The engineer will
+      build AI-driven features, work directly with vector
+      databases and AI orchestration frameworks (pydantic-ai), and
+      leverage LLMs, embeddings, and vector search to transform
+      the product.
+  responsibilities:
+  - Architect, develop, and maintain robust, scalable AI-driven features for a SaaS
+    platform
+  - Work hands-on with AI stack including pydantic-ai orchestration, pgvector vector
+    search, and Azure AI models
+  - Partner with product, design, and engineering teams to embed AI components into
+    user-facing workflows
+  - Ensure quality and reliability through testing, monitoring, and observability
+    of AI features in production
+  - Lead technical discussions, mentor colleagues, and define standards for building,
+    deploying, and maintaining AI systems
+  use_cases:
+  - Empowering frontline employees to access company internal information
+  - AI-powered search and information retrieval across organizational knowledge
+  - Transforming employee experience with AI-driven workflows and features
+  - Voice and engagement platform for frontline workers
+  skills:
+    genai: [LLMs, embeddings, pydantic-ai, LangChain, LlamaIndex, prompt engineering,
+      agentic AI]
+    ml: [fine-tuning]
+    web: []
+    databases: [vector databases, pgvector, PostgreSQL]
+    data: []
+    cloud: [Azure OpenAI]
+    ops: [CI/CD, testing, monitoring, observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7203472'
+  extracted_at: '2026-02-05T10:28:56.520989'

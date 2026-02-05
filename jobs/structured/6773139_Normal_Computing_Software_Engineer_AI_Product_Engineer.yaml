@@ -1,0 +1,62 @@
+company:
+  name: Normal Computing
+  stage: null
+  focus: |-
+    Foundational software and hardware for semiconductor
+    industry and critical AI infrastructure
+  use_cases:
+  - AI-assisted semiconductor verification workflows that help hardware engineers
+    build and verify chips
+  - Interfaces and workflows that make complex verification processes more approachable
+    through AI augmentation
+  - AI-powered workflows integrated into existing semiconductor design and verification
+    processes
+position:
+  title: Software Engineer, AI Product Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building user interfaces and workflows that
+      consume AI capabilities (LLMs, ML inference servers) but
+      does not involve building, training, fine-tuning, or
+      deploying models themselves. The engineer is stitching
+      together LLMs with backend services and frontend to create
+      prototypes, while the actual AI/ML work is done by separate
+      ML researchers and teams.
+  responsibilities:
+  - Building complete, integrated prototypes that bring AI capabilities to life in
+    production workflows - stitching together LLMs, backend services, and polished
+    frontend interfaces
+  - Architecting and developing interactive workflow UIs that make complex verification
+    workflows feel approachable
+  - Collaborating closely with product designers to ensure pixel-perfect implementation
+    and maintain an exceptionally high bar for interface quality and usability
+  - Owning APIs and orchestration patterns that connect frontends with ML inference
+    servers and backend services
+  - Partnering with ML researchers, product teams and users to translate complex technical
+    requirements into proof-of-concept features that integrate AI capabilities seamlessly
+  - Driving engineering roadmaps in collaboration with researchers, hardware experts,
+    and product managers to discover and propose features
+  use_cases:
+  - AI-assisted semiconductor verification workflows that help hardware engineers
+    build and verify chips
+  - Interfaces and workflows that make complex verification processes more approachable
+    through AI augmentation
+  - AI-powered workflows integrated into existing semiconductor design and verification
+    processes
+  skills:
+    genai: [LLMs, AI-powered applications]
+    ml: []
+    web: [React, API design, state management, modern frontend architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript]
+    domains: []
+    other: [IDE extensions]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6773139'
+  extracted_at: '2026-02-05T09:52:14.645162'

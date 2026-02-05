@@ -1,0 +1,56 @@
+company:
+  name: Samsara
+  stage: Public
+  focus: Connected Operations Cloud for physical operations
+  use_cases:
+  - Generate high-quality sales outreach at scale
+  - Build copilots for sellers that surface CRM insights and sales knowledge
+  - Enable voice and chat interfaces for more natural customer engagement
+  - Help sellers reach the right customer at the right time with the right message
+  - Transform sales operations through AI-powered intelligence and personalization
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying
+      generative AI applications including LLMs, RAG systems, and
+      AI-powered copilots. The engineer will work directly on
+      model experimentation, prompt engineering, and implementing
+      AI features rather than just supporting AI infrastructure.
+  responsibilities:
+  - Build GenAI tools that help sellers find and connect with the right customers
+    faster
+  - Develop AI-powered copilots that surface CRM insights and sales knowledge in real
+    time
+  - Launch AI features that improve efficiency and personalization across the sales
+    funnel
+  - 'Work hands-on across the stack: from model experimentation to app development
+    and infrastructure'
+  - Collaborate with top-tier engineers, data scientists, and sales operators in a
+    fast-moving environment
+  - Lead development of production-grade generative AI applications that power Samsara's
+    GTM engine
+  use_cases:
+  - Generate high-quality sales outreach at scale
+  - Build copilots for sellers that surface CRM insights and sales knowledge
+  - Enable voice and chat interfaces for more natural customer engagement
+  - Help sellers reach the right customer at the right time with the right message
+  - Transform sales operations through AI-powered intelligence and personalization
+  skills:
+    genai: [LangChain, OpenAI SDK, MCP, LLMs, prompt engineering, embeddings, RAG
+        systems]
+    ml: []
+    web: [APIs, backend systems]
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7125600'
+  extracted_at: '2026-02-05T10:20:56.335393'

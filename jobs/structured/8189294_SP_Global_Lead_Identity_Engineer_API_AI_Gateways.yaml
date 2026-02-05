@@ -1,0 +1,61 @@
+company:
+  name: S&P Global
+  stage: Public
+  focus: Financial data and intelligence services
+  use_cases:
+  - Secure enterprise API access and authorization for human and AI agent users
+  - Model Context Protocol (MCP) Gateway for connecting enterprise data to AI agents
+  - Fine-Grained Authorization (FGA) for AI agent access control and governance
+  - API security and governance platform supporting high-velocity AI agent access
+    patterns
+  - Context-aware policy enforcement for Generative AI applications
+  - OAuth/OIDC-based authorization for API and AI gateway traffic
+position:
+  title: Lead Identity Engineer – API  & AI Gateways
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building security infrastructure
+      (API gateways, authorization frameworks) that supports AI
+      systems rather than building AI models or agents themselves.
+      The candidate will architect the MCP Gateway to enable safe
+      AI adoption but is not deploying, fine-tuning, or building
+      AI/ML systems.
+  responsibilities:
+  - Lead architecture of next-generation API security and authorization platforms
+    for enterprise
+  - Architect and govern the Model Context Protocol (MCP) Gateway as a secure bridge
+    for AI agent access
+  - Build robust Authorization frameworks and API Governance layers that scale for
+    AI agent access patterns
+  - Implement Fine-Grained Authorization (FGA) and context-aware policies for safe
+    Generative AI adoption
+  - Protect critical data sources against unauthorized AI access while enabling automation
+  - Extend existing API security controls to the emerging AI ecosystem
+  - Integrate security controls into CI/CD pipelines for API and AI gateway deployments
+  use_cases:
+  - Secure enterprise API access and authorization for human and AI agent users
+  - Model Context Protocol (MCP) Gateway for connecting enterprise data to AI agents
+  - Fine-Grained Authorization (FGA) for AI agent access control and governance
+  - API security and governance platform supporting high-velocity AI agent access
+    patterns
+  - Context-aware policy enforcement for Generative AI applications
+  - OAuth/OIDC-based authorization for API and AI gateway traffic
+  skills:
+    genai: [Model Context Protocol (MCP)]
+    ml: []
+    web: [Kong, Apigee, API Security, REST, GraphQL, OpenAPI Specification (OAS),
+      Microservices]
+    databases: []
+    data: []
+    cloud: [AWS API Gateway, Azure API Management, Microsoft Entra ID (Azure AD)]
+    ops: [Jenkins, GitHub Actions, GitLab, CI/CD]
+    languages: [Python, Java]
+    domains: []
+    other: [OAuth 2.0, OpenID Connect (OIDC), Fine-Grained Authorization (FGA), Okta,
+      Identity and Access Management (IAM)]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8189294'
+  extracted_at: '2026-02-05T12:10:35.943538'

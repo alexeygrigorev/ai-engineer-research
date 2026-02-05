@@ -1,0 +1,62 @@
+company:
+  name: hyperexponential
+  stage: Series B
+  focus: AI-powered pricing and underwriting platform for insurance
+  use_cases:
+  - Domain-specific AI peer programmer for actuaries and underwriters (similar to
+    GitHub Copilot with actuarial science expertise)
+  - Large-scale document intelligence for insurance submission and decision processing
+  - Agentic workflows that automate insurance industry operations
+  - AI-powered pricing decisions determining which risks to take and how to price
+    them
+  - Real-time underwriting decision support for complex risk assessment
+position:
+  title: AI Engineer - Platform/MLOps
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is an AI Platform/MLOps position focused on
+      building infrastructure and tooling for other teams to
+      deploy and operate AI systems. The engineer creates shared
+      services (LLM gateway, evaluation frameworks, monitoring)
+      and self-service tools but does not build, train, or fine-
+      tune models themselves.
+  responsibilities:
+  - Design and operate scalable AI infrastructure for LLM inference, prompt management,
+    and evaluation pipelines supporting billions in premium flow
+  - Build self-service tools, SDKs, and APIs that enable product teams to move from
+    prototype to production faster
+  - Instrument production AI/ML workloads with standardized logging, tracing, and
+    evaluation metrics for full observability coverage
+  - Implement intelligent routing, caching, and provider optimization via LLM gateway
+    to reduce AI compute costs
+  - Drive adoption of shared platform services including LLM gateway, evaluation frameworks,
+    and monitoring across AI features
+  - Champion developer experience through comprehensive documentation and responsive
+    support for internal customers
+  use_cases:
+  - Domain-specific AI peer programmer for actuaries and underwriters (similar to
+    GitHub Copilot with actuarial science expertise)
+  - Large-scale document intelligence for insurance submission and decision processing
+  - Agentic workflows that automate insurance industry operations
+  - AI-powered pricing decisions determining which risks to take and how to price
+    them
+  - Real-time underwriting decision support for complex risk assessment
+  skills:
+    genai: [prompt management]
+    ml: [A/B testing]
+    web: [SDK development, API design]
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: [LLM inference, evaluation pipelines, model serving, observability, deployment
+        automation, compute orchestration, LLM gateway, intelligent routing, caching,
+      logging, tracing, cost optimization, Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8162183'
+  extracted_at: '2026-02-05T12:06:45.122597'

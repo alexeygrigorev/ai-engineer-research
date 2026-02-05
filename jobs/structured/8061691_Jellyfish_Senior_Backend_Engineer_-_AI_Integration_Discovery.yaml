@@ -1,0 +1,58 @@
+company:
+  name: Jellyfish
+  stage: growth-stage startup
+  focus: |-
+    Engineering productivity measurement platform for AI-
+    integrated teams
+  use_cases:
+  - Measure AI tool adoption patterns across engineering teams
+  - Track and analyze productivity changes from AI coding assistants usage
+  - Help engineering leaders understand the impact of AI tools on team performance
+  - Distinguish effective AI tool usage from hype
+  - Enable organizations to build high-performing AI-integrated engineering teams
+  - Align engineering decisions with business initiatives in AI-transformed environments
+position:
+  title: Senior Backend Engineer - AI Integration Discovery
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role focused on building tools
+      to MEASURE and ANALYZE AI adoption patterns and productivity
+      impact, not on building or deploying AI models/systems. The
+      engineer will work with AI tools (Copilot, Cursor, Claude
+      Code) as end-users, but their core responsibility is
+      developing backend features and integrations to track how
+      engineering teams use these tools.
+  responsibilities:
+  - Design, plan and implement key features as part of a highly effective agile team
+  - Rapidly deliver value for customers by pushing features to AWS-hosted SaaS environment
+    daily with automated CI/CD pipelines
+  - Build features that capture AI adoption patterns, measure productivity changes,
+    and help leaders understand outcomes
+  - Provide technical and product expertise within the team and across the organization
+  - Support production operations of the Jellyfish product
+  - Work with top-tier partners like OpenAI and Amazon to build integrations into
+    the Jellyfish product
+  use_cases:
+  - Measure AI tool adoption patterns across engineering teams
+  - Track and analyze productivity changes from AI coding assistants usage
+  - Help engineering leaders understand the impact of AI tools on team performance
+  - Distinguish effective AI tool usage from hype
+  - Enable organizations to build high-performing AI-integrated engineering teams
+  - Align engineering decisions with business initiatives in AI-transformed environments
+  skills:
+    genai: [Copilot, Cursor, Claude Code, Kiro]
+    ml: []
+    web: [Django, React, API scaling and performance]
+    databases: [relational database modeling, columnar database systems]
+    data: []
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8061691'
+  extracted_at: '2026-02-05T11:56:31.207234'

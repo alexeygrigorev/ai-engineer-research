@@ -1,0 +1,58 @@
+company:
+  name: Cresta
+  stage: null
+  focus: AI-powered contact center intelligence platform
+  use_cases:
+  - Contact center conversation analysis and customer insights discovery
+  - Behavioral best practices identification and training for contact center teams
+  - Automating conversations and inefficient contact center processes
+  - Real-time AI assistance for contact center agents to improve performance
+  - Large language model integration for customer conversation understanding and response
+position:
+  title: Staff Software Engineer, Backend (AI Platform)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role that builds and
+      maintains infrastructure (model serving stacks, training
+      pipelines, Kubernetes orchestration) to enable ML/AI work
+      rather than building or fine-tuning models directly. The
+      role focuses on MLOps, observability, and creating platform
+      primitives for research/product teams to ship models
+      independently.
+  responsibilities:
+  - Design, build, and maintain low-latency, highly-available serving stacks for in-house
+    ML model serving and LLM integration
+  - Orchestrate data prep, training, evaluation, and registry workflows on Kubernetes
+    with MLOps practices
+  - Profile and tune throughput, memory, and cost; introduce caching, sharding, batching,
+    and GPU/CPU autoscaling
+  - Create reusable SDKs, templates, and CLI tools enabling research and product teams
+    to ship models independently and safely
+  - Implement deep observability including tracing, metrics, alerts, and drive blameless
+    post-mortems
+  - Mentor engineers on production ML best practices and maintain culture of rigorous
+    testing and continuous delivery
+  use_cases:
+  - Contact center conversation analysis and customer insights discovery
+  - Behavioral best practices identification and training for contact center teams
+  - Automating conversations and inefficient contact center processes
+  - Real-time AI assistance for contact center agents to improve performance
+  - Large language model integration for customer conversation understanding and response
+  skills:
+    genai: [LLM]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [Kubernetes, vLLM, Triton, TorchServe, Terraform, Helm, Docker, MLflow, real-time
+        streaming inference, container security, MLOps, CI/CD]
+    languages: [Python, Golang]
+    domains: [conversational AI, speech AI]
+    other: [distributed systems, networking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8060180'
+  extracted_at: '2026-02-05T11:55:09.186009'

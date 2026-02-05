@@ -1,0 +1,55 @@
+company:
+  name: Block
+  stage: Public
+  focus: Financial technology and economic empowerment platform
+  use_cases:
+  - Automating workflows to improve operational efficiency
+  - Delivering AI-powered product experiences for customers
+  - Building internal tools and systems for developers and products
+  - Creating scalable AI platforms for cross-block adoption
+  - Enhancing financial services through AI-driven solutions
+position:
+  title: Senior Staff Machine Learning Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role explicitly involves training and deploying ML
+      models, including Large Language Models, with direct
+      responsibility for building AI-powered product experiences.
+      The candidate must understand the full ML lifecycle from
+      data gathering through productionizing models, and will
+      develop AI systems that directly impact customer-facing
+      products and company revenue.
+  responsibilities:
+  - Leverage AI to automate workflows and deliver new AI-powered product experiences
+  - Develop scalable AI systems and platforms
+  - Collaborate across diverse teams to develop AI solutions by understanding and
+    generalizing the problems of cross-functional stakeholders
+  - Lead AI innovation by building and open sourcing advanced frameworks and tools
+    to enhance workflows and set industry standards
+  - Drive alignment with Block's AI strategy by acting as a company AI expert and
+    educating other teams about how to apply cutting-edge AI to their domains
+  - Support the adoption of AI best practices across the company by providing guidance
+    and sharing expertise
+  use_cases:
+  - Automating workflows to improve operational efficiency
+  - Delivering AI-powered product experiences for customers
+  - Building internal tools and systems for developers and products
+  - Creating scalable AI platforms for cross-block adoption
+  - Enhancing financial services through AI-driven solutions
+  skills:
+    genai: [Large Language Models]
+    ml: [model training, model deployment, model evaluation]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, Docker, Kubernetes, CI/CD, monitoring]
+    languages: [Python]
+    domains: []
+    other: [testing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6957617'
+  extracted_at: '2026-02-05T10:04:11.584341'

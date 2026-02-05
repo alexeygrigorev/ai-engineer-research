@@ -1,0 +1,51 @@
+company:
+  name: Devoteam
+  stage: null
+  focus: Google Cloud solutions and AI/ML consulting
+  use_cases:
+  - Building AI & ML solutions on data platforms to create better customer experiences
+  - Migrating and modernizing legacy applications using Cloud Native solutions
+  - Implementing hybrid and multi-cloud strategies for organizations
+  - Accelerating Data & Analytics to get actionable business insights faster
+  - Creating scalable, future-proof and secure data journeys for customers
+position:
+  title: AI & ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience with designing and
+      implementing production-level AI & ML solutions on Google
+      Cloud. As a technical authority responsible for AI/ML
+      strategy and projects, the role involves working directly
+      with machine learning models and MLOps practices to deliver
+      tangible AI solutions for customers.
+  responsibilities:
+  - Serve as technical authority and visionary for AI & ML practice in Netherlands
+  - Shape AI and ML strategy and foster innovation culture within team and for clients
+  - Design and implement production-level AI & ML solutions on Google Cloud Platform
+  - Empower consultants and customers to leverage AI technologies through trusted
+    advisory
+  - Drive team development of AI/ML knowledge and collaborate with international counterparts
+  - Work closely with commercial team to deliver cutting-edge AI/ML projects
+  use_cases:
+  - Building AI & ML solutions on data platforms to create better customer experiences
+  - Migrating and modernizing legacy applications using Cloud Native solutions
+  - Implementing hybrid and multi-cloud strategies for organizations
+  - Accelerating Data & Analytics to get actionable business insights faster
+  - Creating scalable, future-proof and secure data journeys for customers
+  skills:
+    genai: []
+    ml: [machine learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [Google Cloud AI, Google Cloud Platform]
+    ops: [MLOps]
+    languages: [English, Dutch]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8387953'
+  extracted_at: '2026-02-05T13:03:40.576499'

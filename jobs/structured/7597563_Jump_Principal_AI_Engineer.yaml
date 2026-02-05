@@ -1,0 +1,67 @@
+company:
+  name: Jump
+  stage: Series B
+  focus: |-
+    End-to-end fan engagement platform for sports teams and
+    venues
+  use_cases:
+  - Internal AI platform and tools for engineering teams to experiment and deploy
+    AI solutions
+  - AI-powered workflow automation for non-engineering departments including HR, Finance,
+    and Client Services
+  - RAG systems and agentic workflows integrated into fan engagement products
+  - Model evaluation and benchmarking frameworks for ensuring quality and reliability
+    of AI systems
+  - Productivity and automation tools that leverage LLMs across organizational functions
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building and deploying
+      AI/ML systems including RAG, vector databases, agentic
+      workflows, and fine-tuning pipelines. The role requires
+      hands-on experience with LLMs, model evaluation frameworks,
+      and AI infrastructure, moving beyond enabling AI to directly
+      implementing AI systems.
+  responsibilities:
+  - Architect, build, and maintain internal AI platform including model evaluation
+    frameworks, experimentation, context management systems, and fine-tuning pipelines
+  - Standardize and automate internal tooling including orchestration frameworks for
+    AI agents and workflows
+  - Design and deploy RAG systems, vector databases, and foundational components for
+    production-grade AI systems
+  - Define best practices for evaluation and benchmarking of models and agentic workflows
+    across quality, reliability, latency, cost, and safety
+  - Develop templates and libraries for agentic workflows, memory, and tool use
+  - Partner cross-functionally with HR, Finance, and Client Services to design and
+    deploy AI automations
+  - Lead rapid experimentation initiatives to identify and prototype high-impact internal
+    AI use cases
+  - Mentor engineers and product teams on effective use of LLMs, model selection,
+    and architecture design
+  use_cases:
+  - Internal AI platform and tools for engineering teams to experiment and deploy
+    AI solutions
+  - AI-powered workflow automation for non-engineering departments including HR, Finance,
+    and Client Services
+  - RAG systems and agentic workflows integrated into fan engagement products
+  - Model evaluation and benchmarking frameworks for ensuring quality and reliability
+    of AI systems
+  - Productivity and automation tools that leverage LLMs across organizational functions
+  skills:
+    genai: [LangChain, RAG, agents, prompt engineering]
+    ml: [fine-tuning LLMs, model evaluation]
+    web: []
+    databases: [vector databases]
+    data: [N8N]
+    cloud: [AWS Bedrock, AWS]
+    ops: [Docker, Kubernetes, Terraform, CloudFormation]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7597563'
+  extracted_at: '2026-02-05T11:10:57.137998'

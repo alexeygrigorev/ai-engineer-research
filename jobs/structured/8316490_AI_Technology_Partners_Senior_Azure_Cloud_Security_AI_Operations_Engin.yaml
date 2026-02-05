@@ -1,0 +1,66 @@
+company:
+  name: AI Technology Partners
+  stage: null
+  focus: Generative AI solutions and managed services
+  use_cases:
+  - Deploying and managing secure generative AI solutions for enterprise clients
+  - Running Azure OpenAI (GPT-4.1) workloads in production with robust security controls
+  - Implementing RAG pipelines with LibreChat and MeiliSearch for enterprise AI applications
+  - Managing vector search and multi-cloud AI provider integrations (OpenAI, Google
+    Gemini, Cohere)
+  - Supporting secure, compliant AI infrastructure that meets enterprise regulatory
+    requirements
+position:
+  title: Senior Azure Cloud, Security & AI Operations Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is an Azure Cloud, Security & AI Operations
+      Engineer focused on infrastructure, security, and DevOps.
+      While the company delivers generative AI solutions and the
+      engineer uses LLMs to accelerate workflows, the primary
+      responsibilities involve building and maintaining Azure
+      platforms, security operations, and observability - not
+      building, training, or deploying AI models directly. This is
+      an infrastructure/platform role that supports AI workloads
+      rather than developing them.
+  responsibilities:
+  - Own and evolve Azure foundations including subscription strategy, landing zones,
+    networking, identity, secrets management, and data services
+  - Design and implement CI/CD pipelines using GitHub Actions or Azure DevOps with
+    Infrastructure as Code (Terraform/Bicep)
+  - Operate and automate security monitoring, threat detection, vulnerability scanning,
+    and compliance frameworks
+  - Establish SRE practices including SLOs/SLIs, observability, incident response,
+    and auto-remediation workflows
+  - Use LLMs and code generation to accelerate infrastructure and operations workflows
+    like pipeline scaffolding and runbook creation
+  - Work directly with enterprise clients to translate requirements into secure, reliable
+    designs and guide adoption
+  use_cases:
+  - Deploying and managing secure generative AI solutions for enterprise clients
+  - Running Azure OpenAI (GPT-4.1) workloads in production with robust security controls
+  - Implementing RAG pipelines with LibreChat and MeiliSearch for enterprise AI applications
+  - Managing vector search and multi-cloud AI provider integrations (OpenAI, Google
+    Gemini, Cohere)
+  - Supporting secure, compliant AI infrastructure that meets enterprise regulatory
+    requirements
+  skills:
+    genai: [LLMs, code-gen, RAG, Azure OpenAI (GPT-4.1), OpenAI API, Google Gemini,
+      Cohere]
+    ml: []
+    web: []
+    databases: [Cosmos DB, MongoDB Atlas, MeiliSearch, Vector Search]
+    data: []
+    cloud: [Azure, Azure OpenAI, Entra ID, Azure Application Gateway, Private Endpoints]
+    ops: [Azure DevOps, GitHub Actions, Terraform, Bicep, Docker, Azure Container
+        Registry, Azure Monitor, Log Analytics, Application Insights, Microsoft Sentinel,
+      Azure Defender, OpenTelemetry, Azure Key Vault, Snyk, Trivy, Policy-as-code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8316490'
+  extracted_at: '2026-02-05T12:49:30.173605'

@@ -1,0 +1,63 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Insurance company providing auto and property coverage
+  use_cases:
+  - Training and fine-tuning open source Large Language Models for enterprise applications
+  - Serving LLMs at scale with low latency and high throughput for production workloads
+  - Enabling data science teams to develop and deploy ML models through feature stores
+    and infrastructure
+  - Integrating LLM capabilities into GEICO's customer-facing insurance applications
+  - Supporting research teams with infrastructure for experimenting with cutting-edge
+    LLM techniques and architectures
+position:
+  title: Staff Software Engineer - AI/ML Infra
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building infrastructure for training,
+      fine-tuning, and serving LLMs directly. The engineer will
+      implement vLLM, TensorRT-LLM, and custom serving solutions
+      for deploying open source LLMs (Llama, Mistral, Gemma) at
+      scale, which is hands-on work with model deployment rather
+      than just platform support.
+  responsibilities:
+  - Design and implement scalable infrastructure for training, fine-tuning, and serving
+    open source LLMs (Llama, Mistral, Gemma, etc.)
+  - Architect and manage Kubernetes clusters for ML workloads, including GPU scheduling,
+    autoscaling, and resource optimization
+  - Build and optimize LLM inference systems using frameworks like vLLM, TensorRT-LLM,
+    and custom serving solutions
+  - Design and maintain robust CI/CD pipelines for ML model deployment using Azure
+    DevOps, GitHub Actions, and MLOps tools
+  - Mentor junior engineers and data scientists on platform best practices, infrastructure
+    design, and ML operations
+  - Collaborate with data scientists and engineering teams to integrate ML capabilities
+    into customer-facing applications
+  use_cases:
+  - Training and fine-tuning open source Large Language Models for enterprise applications
+  - Serving LLMs at scale with low latency and high throughput for production workloads
+  - Enabling data science teams to develop and deploy ML models through feature stores
+    and infrastructure
+  - Integrating LLM capabilities into GEICO's customer-facing insurance applications
+  - Supporting research teams with infrastructure for experimenting with cutting-edge
+    LLM techniques and architectures
+  skills:
+    genai: [LLM fine-tuning, LLM serving, open source LLMs, RLHF]
+    ml: [DataRobot]
+    web: []
+    databases: [Chronon, Feast, Tecton, Azure ML Feature Store, Milvus, Pinecone,
+      Weaviate, Qdrant]
+    data: []
+    cloud: [Azure, Azure Kubernetes Service (AKS), Azure Machine Learning, Azure Container
+        Instances, AWS, GCP]
+    ops: [Kubernetes, Docker, Terraform, Azure DevOps, GitHub Actions, Prometheus,
+      Grafana, MLflow, Kubeflow, vLLM, TensorRT-LLM, Triton Inference Server]
+    languages: [Python, Go, Rust, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7801916'
+  extracted_at: '2026-02-05T11:32:06.690386'

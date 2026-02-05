@@ -1,0 +1,65 @@
+company:
+  name: MagicSchool AI
+  stage: Series A
+  focus: Generative AI platform for teachers and educators
+  use_cases:
+  - Lesson planning and curriculum development assistance for teachers
+  - Differentiation and personalized learning support for diverse student needs
+  - Assessment creation and automated grading workflows
+  - Educational content retrieval and knowledge management for classroom scenarios
+  - Multi-turn conversational AI assistance with maintained context across teaching
+    workflows
+  - Real-time access to curriculum standards and educational resources during instruction
+position:
+  title: Senior Context Engineer, AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building and optimizing AI agent
+      systems, specifically focusing on context management, RAG
+      implementations, and agent memory systems. The engineer is
+      implementing the technical foundation for how AI agents
+      reason and operate, not just supporting infrastructure.
+  responsibilities:
+  - Architect and implement adaptive context curation pipelines that determine what
+    information enters each agent inference step
+  - Invent and operationalize memory compaction mechanisms and state management patterns
+    for agents across extended teaching workflows
+  - Design evaluation pipelines that measure retrieval precision, token relevance,
+    and reasoning coherence across sessions
+  - Build dynamic runtime data fetching systems for agents to autonomously pull relevant
+    curriculum content and educational resources
+  - Engineer token-efficient tool APIs and retrieval layers with robust metadata to
+    guide agent decision-making
+  - Partner with Product, Research, and Education teams to translate educational workflows
+    into optimal context configurations
+  - Collaborate with ML researchers and platform engineers to co-design architectures
+    integrating memory modules and retrieval adapters
+  - Guide engineers on context engineering patterns including holistic context management
+    and token budget awareness
+  use_cases:
+  - Lesson planning and curriculum development assistance for teachers
+  - Differentiation and personalized learning support for diverse student needs
+  - Assessment creation and automated grading workflows
+  - Educational content retrieval and knowledge management for classroom scenarios
+  - Multi-turn conversational AI assistance with maintained context across teaching
+    workflows
+  - Real-time access to curriculum standards and educational resources during instruction
+  skills:
+    genai: [RAG systems, semantic search, LLM APIs, OpenAI API, Anthropic API, Model
+        Context Protocol, agent frameworks, prompt engineering, retrieval systems]
+    ml: []
+    web: [Node.js, NextJS]
+    databases: [PostgreSQL, Supabase]
+    data: [knowledge graphs]
+    cloud: []
+    ops: [context window optimization, token optimization, distributed systems, context
+        management, agent evaluation]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7615796'
+  extracted_at: '2026-02-05T11:15:19.837609'

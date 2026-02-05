@@ -1,0 +1,59 @@
+company:
+  name: Lazer Technologies
+  stage: null
+  focus: Digital product studio building AI-powered applications
+  use_cases:
+  - Information extraction from documents using AI-powered features
+  - Chatbot implementations leveraging agentic workflows and LLMs
+  - Document construction and generation using generative AI
+  - Search functionality enhanced with AI capabilities
+  - Data normalization using LLM-based processing
+  - Image or video generation using generative AI models
+position:
+  title: Full Stack Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because the engineer works directly
+      on AI systems: hosting, tuning, and managing LLM services,
+      creating agentic workflows and MCP servers, building AI-
+      powered features like chatbots and information extraction,
+      and fine-tuning LLMs. The role requires hands-on
+      implementation of prompt engineering and structured
+      experimentation workflows, and involves applying LLMOps best
+      practices for testing, monitoring, and reliability.
+  responsibilities:
+  - Engage with clients to understand their problems, needs, goals, and technical
+    environments
+  - Architect, build, and ship full stack applications that leverage AI and data capabilities
+  - Apply best practices in MLOps or LLMOps, including testing, monitoring, and reliability
+  - Design and build scalable data pipelines and data lakes as needed
+  - Communicate tradeoffs and risks transparently, supporting client decision-making
+  - Collaborate with other engineers and cross-functional teams to deliver impactful
+    results
+  - Stay current with the latest AI trends, technologies, and tooling to bring innovation
+    to projects
+  use_cases:
+  - Information extraction from documents using AI-powered features
+  - Chatbot implementations leveraging agentic workflows and LLMs
+  - Document construction and generation using generative AI
+  - Search functionality enhanced with AI capabilities
+  - Data normalization using LLM-based processing
+  - Image or video generation using generative AI models
+  skills:
+    genai: [generative AI, LLM services, agentic workflows, MCP servers, prompt engineering,
+      fine-tuning LLMs]
+    ml: []
+    web: [React, Node.js, React Native]
+    databases: []
+    data: [Airflow, data pipelines, data lakes]
+    cloud: [GCP, AWS, Azure, BigQuery, SageMaker]
+    ops: [LLMOps, MLOps, Kubernetes, Docker, monitoring, testing infrastructure]
+    languages: [TypeScript, Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6238063'
+  extracted_at: '2026-02-05T09:42:43.987444'

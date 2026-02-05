@@ -1,0 +1,64 @@
+company:
+  name: Blueprint
+  stage: null
+  focus: |-
+    Technology solutions firm helping organizations unlock value
+    through cutting-edge technology and business transformation
+  use_cases:
+  - Intelligent process automation tools to reduce operational friction across cross-functional
+    teams
+  - AI-driven process optimization to identify and eliminate manual toil
+  - Custom integrations and workflows using automation frameworks to streamline operations
+  - Internal tooling that enhances team productivity in hybrid work environments
+  - AI-assisted automation workflows for enterprise collaboration ecosystems
+position:
+  title: AI Process Automation Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role involves building AI-driven process automation
+      tools and internal applications, but the focus is on
+      implementing AI for workflow optimization rather than
+      building, training, or fine-tuning models. The position
+      emphasizes scripting, CI/CD, automation frameworks (GitHub
+      Actions, Power Automate), and software engineering to reduce
+      manual toil - this is working NEAR AI to enable automation
+      rather than directly ON AI systems.
+  responsibilities:
+  - Design, develop, and maintain AI-driven process automation tools and internal
+    applications
+  - Build, test, and deploy custom integrations and workflows using scripting and
+    automation frameworks like GitHub Actions and Power Automate
+  - Collaborate with program managers and cross-functional stakeholders to identify
+    automation opportunities that reduce manual toil
+  - Write clean, efficient, and scalable code in TypeScript, Python, Go, or Bash for
+    automation solutions
+  - Gather and analyze system requirements, document specifications, and create proof-of-concept
+    solutions
+  - Conduct unit and integration testing, troubleshoot production issues, and ensure
+    high-quality deliverables
+  - Contribute to experimental AI projects aimed at enhancing productivity and collaboration
+    in hybrid work environments
+  use_cases:
+  - Intelligent process automation tools to reduce operational friction across cross-functional
+    teams
+  - AI-driven process optimization to identify and eliminate manual toil
+  - Custom integrations and workflows using automation frameworks to streamline operations
+  - Internal tooling that enhances team productivity in hybrid work environments
+  - AI-assisted automation workflows for enterprise collaboration ecosystems
+  skills:
+    genai: [AI integration]
+    ml: []
+    web: [API integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: [GitHub Actions, CI/CD, Power Automate, workflow optimization]
+    languages: [TypeScript, Python, Go, Bash]
+    domains: []
+    other: [Power Platform, Microsoft 365, process automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8106404'
+  extracted_at: '2026-02-05T12:01:58.135786'

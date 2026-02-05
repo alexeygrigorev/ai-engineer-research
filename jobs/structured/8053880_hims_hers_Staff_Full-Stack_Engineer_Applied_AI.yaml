@@ -1,0 +1,62 @@
+company:
+  name: hims & hers
+  stage: Public
+  focus: Health and wellness platform with personalized healthcare
+  use_cases:
+  - AI-powered patient-facing healthcare journeys and experiences
+  - Internal efficiency tools for operations, pharmacy, and care teams
+  - Intelligent diagnosis and treatment recommendation systems
+  - Personalized healthcare delivery from diagnosis to treatment to delivery
+  - Clinical decision support with safety and privacy guardrails
+  - AI-powered e-commerce and pharmacy experiences
+position:
+  title: Staff Full-Stack Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building AI systems
+      including LLM orchestration platforms, agent-like workflows,
+      evaluation frameworks, and unified AI gateways. The engineer
+      is directly designing and implementing core AI
+      infrastructure and deploying AI-powered features, not just
+      supporting existing AI work.
+  responsibilities:
+  - Design and own core AI workflow platforms
+  - orchestration systems
+  - and shared SDKs that power intelligent healthcare experiences
+  - Build scalable, reliable systems for LLM orchestration, grounding, evaluation,
+    and agent-like workflows
+  - Create reusable frameworks and patterns that other engineering teams can adopt
+    across the company
+  - Develop evaluation frameworks and observability systems that measure AI behavior,
+    grounding, safety, and quality
+  - Establish guardrails and patterns ensuring all AI interactions comply with HIPAA,
+    security-by-design, and privacy-first principles
+  - Integrate and evaluate LLMs and ML systems through unified AI gateway
+  - Build secure APIs and connectors that link to EHR, Pharmacy, Payments, Orders,
+    and Care domains
+  - Mentor engineers and help cultivate strong engineering practices across the Applied
+    AI organization
+  use_cases:
+  - AI-powered patient-facing healthcare journeys and experiences
+  - Internal efficiency tools for operations, pharmacy, and care teams
+  - Intelligent diagnosis and treatment recommendation systems
+  - Personalized healthcare delivery from diagnosis to treatment to delivery
+  - Clinical decision support with safety and privacy guardrails
+  - AI-powered e-commerce and pharmacy experiences
+  skills:
+    genai: [LLM orchestration, RAG, agents, prompt engineering]
+    ml: []
+    web: [React, Next.js, APIs]
+    databases: [vector databases]
+    data: [Databricks]
+    cloud: [AWS, Cloudflare Workers]
+    ops: [Docker, Kubernetes, CI/CD, monitoring]
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '8053880'
+  extracted_at: '2026-02-05T11:53:39.055451'

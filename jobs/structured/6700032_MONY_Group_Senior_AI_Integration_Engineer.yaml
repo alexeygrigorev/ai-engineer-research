@@ -1,0 +1,62 @@
+company:
+  name: MONY Group
+  stage: null
+  focus: |-
+    Helping households save on daily spending and bills through
+    comparison services and AI-enhanced products
+  use_cases:
+  - Building intelligent customer-facing AI agents for conversational problem-solving
+  - Embedding AI in existing products to enrich customer journeys with insights and
+    value
+  - Creating AI-native journeys to reach customers in new channels
+  - Multi-agent orchestration for handling complex customer interactions
+  - Enabling holistic conversational experiences for household spending and savings
+position:
+  title: Senior AI Integration Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      optimizing AI agents and LLMs using frameworks like
+      LangChain, Vercel AI SDK, and AutoGen. The engineer will
+      directly implement prompt engineering, agent-to-agent
+      collaboration, and reasoning workflows - all core AI
+      development tasks rather than support work.
+  responsibilities:
+  - Design, develop, and deploy intelligent AI agents using frameworks like Vercel
+    AI SDK, LangChain, or AutoGen
+  - Integrate and optimize large language models (LLMs) through prompt engineering,
+    chaining, and memory/context handling
+  - Enable agent-to-agent collaboration and reasoning workflows to support advanced
+    customer interactions
+  - Develop scalable backend systems using Node.js and TypeScript
+  - Build and maintain CI/CD pipelines to ensure smooth deployment and continuous
+    improvement
+  - Work with AWS infrastructure (Lambda, ECS, S3, API Gateway) for scalable and secure
+    deployment
+  - Collaborate closely with product managers and designers to deliver user-focused
+    AI experiences
+  use_cases:
+  - Building intelligent customer-facing AI agents for conversational problem-solving
+  - Embedding AI in existing products to enrich customer journeys with insights and
+    value
+  - Creating AI-native journeys to reach customers in new channels
+  - Multi-agent orchestration for handling complex customer interactions
+  - Enabling holistic conversational experiences for household spending and savings
+  skills:
+    genai: [LangChain, AutoGen, Vercel AI SDK, prompt engineering, LLMs, multi-agent
+        orchestration]
+    ml: []
+    web: [Node.js, React, Next.js]
+    databases: []
+    data: []
+    cloud: [AWS, AWS Lambda, AWS ECS, AWS S3, AWS API Gateway]
+    ops: [CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: [GitHub Copilot]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6700032'
+  extracted_at: '2026-02-05T09:47:37.438091'

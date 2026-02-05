@@ -1,0 +1,62 @@
+company:
+  name: Kizen
+  stage: Series B
+  focus: AI-powered workflow automation platform for enterprises
+  use_cases:
+  - Automating insurance contracting and commissions workflows
+  - Enabling healthcare providers to deliver proactive patient care
+  - Financial document classification and automated data extraction
+  - Enterprise workflow automation using pre-built AI agents and use cases
+  - Low-code platform for business users to customize dashboards and AI agents
+  - Developer platform for building enterprise applications on AI-first architecture
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work building,
+      architecting, and deploying AI systems including RAG
+      systems, multi-agent architectures, LLM fine-tuning, and
+      LLM-powered applications. This is core AI/ML development
+      work, not infrastructure or support.
+  responsibilities:
+  - Lead the design and implementation of production-ready RAG systems integrating
+    with Django, Kafka, PostgreSQL, and Clickhouse
+  - Architect multi-agent AI systems that operate within platform constraints and
+    deliver business value
+  - Design and implement sophisticated vector search solutions, including graph-based
+    RAG systems
+  - Architect and build highly scalable LLM-powered systems for enterprise-level workloads
+  - Lead LLM fine-tuning initiatives using RLHF, PEFT, and LoRA for specific business
+    domains
+  - Optimize LLM performance, cost, and reliability in production environments with
+    caching and vector store optimizations
+  - Establish MLOps best practices using Langfuse or LiteLLM for model monitoring
+    and evaluation
+  - Mentor junior engineers in AI/ML best practices and provide technical direction
+    for AI initiatives
+  use_cases:
+  - Automating insurance contracting and commissions workflows
+  - Enabling healthcare providers to deliver proactive patient care
+  - Financial document classification and automated data extraction
+  - Enterprise workflow automation using pre-built AI agents and use cases
+  - Low-code platform for business users to customize dashboards and AI agents
+  - Developer platform for building enterprise applications on AI-first architecture
+  skills:
+    genai: [RAG, graph-based RAG, multi-agent systems, prompt engineering, OpenAI
+        API, Anthropic Claude, Llama]
+    ml: [LLM fine-tuning, PEFT, LoRA, RLHF, PyTorch, TensorFlow, transformers, graph
+        algorithms, A/B testing]
+    web: [Django]
+    databases: [vector databases, PostgreSQL, ClickHouse]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Langfuse, LiteLLM, MLOps]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7269462'
+  extracted_at: '2026-02-05T10:32:54.780322'

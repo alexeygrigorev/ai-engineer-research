@@ -1,0 +1,59 @@
+company:
+  name: TWG Global
+  stage: null
+  focus: |-
+    AI-first business transformation across financial services,
+    insurance, technology, media, and sports
+  use_cases:
+  - Real-time intelligence and interactive business applications for informed decision-making
+  - AI-powered marketing operations and campaign optimization
+  - Data-driven operational efficiency improvements
+  - Product development acceleration through AI insights
+  - Enterprise innovation through tech startup and university partnerships
+  - Agile, data-driven decision support for customers and employees
+position:
+  title: Senior Software Engineer (AI Engineering)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on experience building AI agent-
+      based systems, agent workflows, orchestration logic, and
+      modern LLM frameworks like LangGraph and LangChain. The
+      engineer is directly responsible for designing and building
+      these AI systems that perform multi-step tasks using defined
+      goals, tools, and decision logic.
+  responsibilities:
+  - Lead development of React-based UIs, with thoughtful component architecture and
+    performance optimization
+  - Design, build, and maintain AI agent–based systems that perform multi-step tasks
+    using defined goals, tools, and decision logic
+  - Design, build, and maintain full-stack web applications
+  - Design, develop, and maintain backend services, RESTful APIs, and data models
+  - Architect scalable systems and contribute to high-level design and planning
+  - Drive code quality, testing, and engineering best practices across the team
+  - Collaborate across functions to deliver end-to-end product features
+  - Mentor junior engineers and support peer learning
+  use_cases:
+  - Real-time intelligence and interactive business applications for informed decision-making
+  - AI-powered marketing operations and campaign optimization
+  - Data-driven operational efficiency improvements
+  - Product development acceleration through AI insights
+  - Enterprise innovation through tech startup and university partnerships
+  - Agile, data-driven decision support for customers and employees
+  skills:
+    genai: [LangGraph, LangChain, agent-based systems, tool calling, orchestration,
+      stateful workflows, agent workflows, LLM frameworks]
+    ml: []
+    web: [React, RESTful APIs]
+    databases: [PostgreSQL, MySQL, database design]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD]
+    languages: [Java]
+    domains: []
+    other: [distributed systems, microservices, system design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7985422'
+  extracted_at: '2026-02-05T11:46:10.754915'

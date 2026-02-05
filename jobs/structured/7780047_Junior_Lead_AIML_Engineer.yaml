@@ -1,0 +1,58 @@
+company:
+  name: Junior
+  stage: Series A
+  focus: |-
+    LLM-powered investment research tools for private market
+    investors
+  use_cases:
+  - Investment research process automation for private equity and consulting firms
+  - Semantic search and ranking across unstructured text and interview data
+  - Entity resolution and deduplication from speech-to-text output in investment research
+  - Knowledge graph construction from unstructured interview data for research sprints
+  - LLM-powered prompt systems that continuously refine outputs using production signals
+  - Investment research benchmarking and evaluation using LLM outputs
+position:
+  title: Lead AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI/ML engineering role that involves directly
+      building LLM-powered systems including prompt optimization,
+      agentic entity deduplication, knowledge graphs with agentic
+      infrastructure, and search ranking algorithms. The hands-on
+      work with LLMs, prompt engineering, and agent deployment
+      qualifies this as ai-first, not just supporting
+      infrastructure.
+  responsibilities:
+  - Build LLM-powered systems including prompt optimization and agentic infrastructure
+  - Develop search ranking algorithms integrating user interaction signals with semantic
+    and text search
+  - Create agentic entity deduplication systems for investment research data
+  - Build and maintain knowledge graphs from unstructured interview data using agents
+  - Conduct NLP research synthesis and prove business value for investment research
+    use cases
+  - Contribute to product decisions, direction, and engineering culture as an early
+    ML hire
+  use_cases:
+  - Investment research process automation for private equity and consulting firms
+  - Semantic search and ranking across unstructured text and interview data
+  - Entity resolution and deduplication from speech-to-text output in investment research
+  - Knowledge graph construction from unstructured interview data for research sprints
+  - LLM-powered prompt systems that continuously refine outputs using production signals
+  - Investment research benchmarking and evaluation using LLM outputs
+  skills:
+    genai: [LLMs, prompt engineering, agents, semantic search]
+    ml: [NLP, search ranking algorithms, entity resolution]
+    web: []
+    databases: [knowledge graphs, PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7780047'
+  extracted_at: '2026-02-05T11:29:45.426083'

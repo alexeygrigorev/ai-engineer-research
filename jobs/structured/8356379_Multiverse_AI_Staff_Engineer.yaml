@@ -1,0 +1,60 @@
+company:
+  name: Multiverse
+  stage: Series D
+  focus: AI and tech upskilling platform
+  use_cases:
+  - Personalised learning experiences tailored to individual learners' needs and progress
+  - Content generation for creating scalable, adaptive learning materials
+  - Semantic search capabilities to help learners find relevant content and resources
+  - Summarisation of educational content to improve information accessibility and
+    retention
+  - AI-assisted learning tools that enhance the overall educational experience
+position:
+  title: AI Staff Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is directly working ON AI systems - establishing
+      LLM best practices, fine-tuning and embedding machine
+      learning models, and building AI-powered features using GPT,
+      Claude, and Gemini. This is hands-on model work, not just
+      infrastructure or support.
+  responsibilities:
+  - Design, architect, and deliver AI-powered features in partnership with Product,
+    Design, and Data teams
+  - Establish technical standards and governance for leveraging Large Language Models
+    (LLMs), including design, fine-tuning, and integration
+  - Develop, fine-tune, and embed machine learning models into production systems
+    for high-impact use cases
+  - Own the end-to-end lifecycle from raw data through experimentation, deployment,
+    and continuous iteration
+  - Track performance, accuracy, and adoption of AI features to drive constant improvement
+  - Mentor engineers across teams, sharing expertise to elevate AI capabilities and
+    set best practices
+  - Build robust MLOps pipelines and cloud infrastructure on AWS for deployment and
+    monitoring
+  - Champion innovation by exploring new AI tools and driving organizational adoption
+    across teams
+  use_cases:
+  - Personalised learning experiences tailored to individual learners' needs and progress
+  - Content generation for creating scalable, adaptive learning materials
+  - Semantic search capabilities to help learners find relevant content and resources
+  - Summarisation of educational content to improve information accessibility and
+    retention
+  - AI-assisted learning tools that enhance the overall educational experience
+  skills:
+    genai: [LLMs, GPT, Claude, Gemini, prompt engineering]
+    ml: [fine-tuning, feature engineering]
+    web: [FastAPI, microservices, REST]
+    databases: []
+    data: [data preprocessing]
+    cloud: [AWS]
+    ops: [MLOps, MLflow, Kubeflow, Docker, Kubernetes, CI/CD, monitoring]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8356379'
+  extracted_at: '2026-02-05T12:58:39.478986'

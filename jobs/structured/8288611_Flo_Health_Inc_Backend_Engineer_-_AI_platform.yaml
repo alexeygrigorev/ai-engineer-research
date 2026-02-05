@@ -1,0 +1,62 @@
+company:
+  name: Flo Health Inc.
+  stage: Series C/Public
+  focus: AI-powered digital health platform for women
+  use_cases:
+  - Personalized health recommendations and content generation for 80M+ users
+  - Flo Conversational AI for interactive health guidance
+  - AI-powered experimentation and A/B testing platform
+  - Predictive models for health insights and body tracking
+  - Real-time user profiling for ML-driven personalization at high scale
+position:
+  title: Backend Engineer - AI platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a Backend Engineer on the AI Platform team
+      building infrastructure that powers AI/ML systems, but does
+      not directly work on models. The role builds data pipelines,
+      feature store integrations, and user profile services that
+      enable AI capabilities for other teams, which is
+      characteristic of ai-support work.
+  responsibilities:
+  - Develop new features for the User Profile service that powers personalization,
+    experimentation, and AI features including Flo Conversational AI
+  - Build User Profile 2.0 capabilities including historical data arrays, AI-ready
+    attribute representations, and integration with ML feature stores
+  - Design and implement data pipelines that deliver user attributes to AI/ML systems
+    for personalized content generation and predictive models
+  - Enable inner-source contributions by establishing contribution guidelines, quality
+    gates, and architectural standards for product teams
+  - Review pull requests from contributing teams, providing mentorship and ensuring
+    code quality
+  - Maintain architectural oversight of core components while enabling safe, autonomous
+    contributions from product teams
+  - Build and maintain attribute governance frameworks, cataloguing systems, and documentation
+    standards
+  - Ensure compliance with healthcare regulations (HIPAA, SOC 2, GDPR) and implement
+    privacy-first design patterns
+  - Participate in on-call rotation and drive incident response for critical platform
+    services
+  use_cases:
+  - Personalized health recommendations and content generation for 80M+ users
+  - Flo Conversational AI for interactive health guidance
+  - AI-powered experimentation and A/B testing platform
+  - Predictive models for health insights and body tracking
+  - Real-time user profiling for ML-driven personalization at high scale
+  skills:
+    genai: []
+    ml: [feature stores, ML infrastructure]
+    web: []
+    databases: [DynamoDB, SQL, NoSQL]
+    data: [data pipelines]
+    cloud: [AWS, EKS, serverless]
+    ops: [Docker, Kubernetes, CI/CD, observability, logging, metrics, tracing, alerting]
+    languages: [Scala, Java, Python]
+    domains: []
+    other: [HIPAA, SOC 2, GDPR, feature flagging, A/B testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8288611'
+  extracted_at: '2026-02-05T12:36:31.694392'

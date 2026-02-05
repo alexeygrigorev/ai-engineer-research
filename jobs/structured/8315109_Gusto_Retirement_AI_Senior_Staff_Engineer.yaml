@@ -1,0 +1,58 @@
+company:
+  name: Gusto
+  stage: 'Series D+ (likely Series D or E based on scale: 400K+ SMB customers, 500+
+    employees)'
+  focus: Payroll, benefits, and HR platform for small businesses
+  use_cases:
+  - AI-powered retirement savings guidance and recommendations for small business
+    employees
+  - Conversational interfaces using LLMs to help users understand 401(k) options and
+    retirement planning
+  - RAG-based systems to retrieve and explain retirement plan information
+  - Tool-loop enabled workflows for automated retirement plan setup and management
+position:
+  title: Retirement AI Senior Staff Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role requiring hands-on implementation
+      of LLM-powered features including RAG flows, agents, tool
+      loops, and workflow automation. The engineer will directly
+      build, deploy, and ship production features using large
+      language models, not just support infrastructure for others.
+  responsibilities:
+  - Design, build, and ship production features that use large language models to
+    solve real customer problems
+  - Implement and integrate LLMs including prompting, tool loops, evaluation, and
+    monitoring
+  - Make pragmatic architecture decisions, de-risk tricky areas, and keep the work
+    unblocked
+  - Partner with product and design to refine ideas, shape scope, and iterate quickly
+    on end-to-end experiences
+  - Collaborate with other engineering teams to integrate with existing systems and
+    unblock dependencies
+  - Write clear, reliable, well-tested code that ships quickly and scales well
+  use_cases:
+  - AI-powered retirement savings guidance and recommendations for small business
+    employees
+  - Conversational interfaces using LLMs to help users understand 401(k) options and
+    retirement planning
+  - RAG-based systems to retrieve and explain retirement plan information
+  - Tool-loop enabled workflows for automated retirement plan setup and management
+  skills:
+    genai: [RAG, agents, prompt engineering, tool loops, workflow automation, LLM
+        evaluation, LLM monitoring]
+    ml: []
+    web: [Ruby on Rails, React, APIs]
+    databases: []
+    data: [data flows]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8315109'
+  extracted_at: '2026-02-05T12:48:32.406062'

@@ -1,0 +1,64 @@
+company:
+  name: Cybermedia Technologies (CTEC)
+  stage: Growth stage
+  focus: |-
+    Federal government digital transformation and IT
+    modernization
+  use_cases:
+  - Automating health benefits determinations for the Office of Personnel Management
+    (OPM)
+  - Navigating and interpreting complex federal benefit policies using AI agents
+  - Extracting and processing information from dense federal manuals and unstructured
+    documentation
+  - Ensuring compliance and auditability in automated government decision-making workflows
+  - Hybrid decision-making combining LLM reasoning with deterministic rule validation
+position:
+  title: AI / Machine Learning Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building AI systems: developing
+      Agentic AI with LLMs, implementing RAG, and deploying
+      autonomous agents with multi-step reasoning. The engineer
+      directly constructs, integrates, and monitors AI models and
+      agents for automated decision-making.
+  responsibilities:
+  - Design and deploy autonomous AI agents with multi-step reasoning, tool-use, and
+    self-correction for federal benefit policies
+  - Develop guardrail layers that synchronize probabilistic LLM outputs with deterministic
+    business rules for regulatory compliance
+  - Implement advanced Retrieval-Augmented Generation (RAG) solutions with layout-aware
+    parsing for document processing
+  - Design and evaluate hybrid machine learning models combining data-driven predictions
+    with rule-based automation
+  - Deploy models to cloud environments with LLM-specific observability including
+    tracing, hallucination monitoring, and drift detection
+  - Ensure AI determinations have clear, human-readable audit trails and explainable
+    reasoning chains
+  - Collaborate with architects and stakeholders to translate health insurance policies
+    into executable AI logic
+  use_cases:
+  - Automating health benefits determinations for the Office of Personnel Management
+    (OPM)
+  - Navigating and interpreting complex federal benefit policies using AI agents
+  - Extracting and processing information from dense federal manuals and unstructured
+    documentation
+  - Ensuring compliance and auditability in automated government decision-making workflows
+  - Hybrid decision-making combining LLM reasoning with deterministic rule validation
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Semantic Kernel, RAG, LLM orchestration,
+      Generative AI, agents]
+    ml: [PyTorch, TensorFlow, Scikit-learn]
+    web: []
+    databases: [SQL]
+    data: [Spark, PySpark]
+    cloud: [Azure Machine Learning, Azure AI services]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [RAGAS, LLM-as-a-judge]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8360020'
+  extracted_at: '2026-02-05T12:58:47.207748'

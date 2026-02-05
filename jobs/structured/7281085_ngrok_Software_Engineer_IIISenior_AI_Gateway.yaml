@@ -1,0 +1,68 @@
+company:
+  name: ngrok
+  stage: Series B+
+  focus: |-
+    Cloud networking platform for secure traffic routing and AI
+    gateway
+  use_cases:
+  - AI traffic identification and control at the gateway layer with real-time policy
+    enforcement
+  - Preventing runaway AI costs and misuse through rate limits, usage caps, and access
+    rules
+  - Tracking and measuring AI token consumption and usage patterns for cost observability
+  - Explaining AI traffic behavior by showing which policies were applied and why
+    requests were allowed or blocked
+  - Providing secure routing and transformation for AI inference workloads in production
+    environments
+position:
+  title: Software Engineer III/Senior, AI Gateway
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role involves building gateway infrastructure and
+      policy enforcement systems that sit in front of AI
+      workloads, rather than building, training, or deploying
+      AI/ML models themselves. The engineer works on traffic
+      classification, usage tracking, rate limiting, and
+      observability for AI traffic - all of which are
+      infrastructure/support systems that enable AI workloads but
+      don't involve direct model work.
+  responsibilities:
+  - Build and evolve AI-aware gateway components that classify and handle AI traffic
+    in real-time in the request path
+  - Design and implement AI Gateway Traffic Policy Objects including rate limits,
+    usage caps, and access rules specific to AI workloads
+  - Build and maintain systems that accurately measure AI usage including requests,
+    tokens, and related metadata for customer visibility
+  - Expose clear, trustworthy signals around AI traffic behavior showing what was
+    allowed or blocked and which policies were applied
+  - Design AI-specific gateway primitives and abstractions that feel intentional and
+    safe without exposing provider quirks or infrastructure details
+  - Collaborate with Gateway, Customer Data, and Platform teams to ensure AI usage
+    data, policy enforcement, and billing signals are properly aligned
+  use_cases:
+  - AI traffic identification and control at the gateway layer with real-time policy
+    enforcement
+  - Preventing runaway AI costs and misuse through rate limits, usage caps, and access
+    rules
+  - Tracking and measuring AI token consumption and usage patterns for cost observability
+  - Explaining AI traffic behavior by showing which policies were applied and why
+    requests were allowed or blocked
+  - Providing secure routing and transformation for AI inference workloads in production
+    environments
+  skills:
+    genai: []
+    ml: []
+    web: [Protobuf, gRPC, React, API gateway]
+    databases: [Postgres]
+    data: [Kafka]
+    cloud: [AWS]
+    ops: [Kubernetes, Terraform, Helm, Docker, Buildkite, Observability]
+    languages: [Go, TypeScript]
+    domains: []
+    other: [Rate limiting, Usage tracking]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7281085'
+  extracted_at: '2026-02-05T10:33:16.976960'

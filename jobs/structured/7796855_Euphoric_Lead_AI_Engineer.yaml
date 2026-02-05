@@ -1,0 +1,57 @@
+company:
+  name: Euphoric
+  stage: Seed
+  focus: AI-first employee benefits administration software
+  use_cases:
+  - Employee benefits administration for large global employers
+  - Richer analytics for benefits programs to improve decision-making
+  - Clearer communication about benefits for employees worldwide
+  - Data-driven optimization of user outcomes in benefits administration
+  - AI-first transformation of legacy benefits systems
+  - Improving employee wellbeing and financial security through smarter benefits
+position:
+  title: Lead AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building of AI systems including
+      LLMs, RAG pipelines, context engineering, and production ML
+      models. The Lead AI Engineer will architect processing
+      architectures and deploy simple ML models to optimize user
+      outcomes based on real feedback.
+  responsibilities:
+  - Architect robust AI processing architectures using LLMs, RAG pipelines, and context
+    engineering
+  - Build backend foundations with Python, FastAPI, and SQLAlchemy to power production
+    systems
+  - Lead the transition from zero-shot implementations to data-driven optimization
+    with online evaluation metrics
+  - Deploy ML models such as logistic regression and boosted trees to optimize user
+    outcomes
+  - Partner as a full-stack contributor with frontend React/TypeScript implementation
+    and debugging
+  - M team members on AI concepts and serve as a technical advisor for product and
+    leadership
+  use_cases:
+  - Employee benefits administration for large global employers
+  - Richer analytics for benefits programs to improve decision-making
+  - Clearer communication about benefits for employees worldwide
+  - Data-driven optimization of user outcomes in benefits administration
+  - AI-first transformation of legacy benefits systems
+  - Improving employee wellbeing and financial security through smarter benefits
+  skills:
+    genai: [LLMs, RAG, prompt engineering]
+    ml: [PyTorch, TensorFlow, Keras, scikit-learn, cross-validation, precision/recall]
+    web: [FastAPI, React]
+    databases: [SQLAlchemy]
+    data: []
+    cloud: [GCP, AWS]
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7796855'
+  extracted_at: '2026-02-05T11:31:41.310569'

@@ -1,0 +1,56 @@
+company:
+  name: Hewlett Packard Enterprise
+  stage: Public
+  focus: Edge-to-cloud infrastructure and enterprise solutions
+  use_cases:
+  - Virtual assistants and Q&A chatbots for enterprise applications
+  - Text summarization for document processing and knowledge management
+  - Retrieval-Augmented Generation (RAG) pipelines for knowledge-based queries
+  - Enterprise AI solutions leveraging structured and unstructured data
+  - NLP-based applications for information extraction and analysis
+position:
+  title: Private Cloud AI Customer Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that directly
+      deploys AI solutions to customers. The hands-on work
+      includes building RAG pipelines, implementing
+      LangChain/LlamaIndex solutions, and guiding customers
+      through initial use case adoption with virtual assistants,
+      Q&A chatbots, and summarization applications.
+  responsibilities:
+  - Assist customers in the initial adoption of the HPE Private Cloud AI product with
+    hands-on support and guidance
+  - Guide customers through the implementation of their first AI use cases, providing
+    technical expertise and best practices
+  - Conduct regular cadence calls with customers to track progress, address concerns,
+    and ensure smooth onboarding
+  - Collaborate with Sales, Product Management, and Technical Support teams to address
+    customer needs and resolve issues
+  - Monitor customer progress and provide proactive support to ensure early value
+    realization from the product
+  - Deliver informal product training sessions and explain complex technical concepts
+    clearly to customers
+  use_cases:
+  - Virtual assistants and Q&A chatbots for enterprise applications
+  - Text summarization for document processing and knowledge management
+  - Retrieval-Augmented Generation (RAG) pipelines for knowledge-based queries
+  - Enterprise AI solutions leveraging structured and unstructured data
+  - NLP-based applications for information extraction and analysis
+  skills:
+    genai: [LangChain, LlamaIndex, vLLM, RAG Pipelines]
+    ml: []
+    web: []
+    databases: [Vector DBs, S3, Presto, Superset, NoSQL]
+    data: [Spark, Airflow, Ray, Livy, MLIS]
+    cloud: [NVIDIA AI Enterprise]
+    ops: [LLMOps, Kubernetes, Kubeflow, MLflow, Feast, Linux, Helm]
+    languages: [Python, SQL]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7373748'
+  extracted_at: '2026-02-05T10:44:30.515748'

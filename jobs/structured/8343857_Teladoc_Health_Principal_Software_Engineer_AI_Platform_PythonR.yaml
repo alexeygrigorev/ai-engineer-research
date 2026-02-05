@@ -1,0 +1,64 @@
+company:
+  name: Teladoc Health
+  stage: Public
+  focus: Virtual care and telehealth services
+  use_cases:
+  - Building developer platforms that serve multiple product teams in a healthcare
+    organization
+  - Enabling AI/ML capabilities through platform infrastructure for virtual care applications
+  - Supporting data-intensive applications with robust backend services and data pipelines
+  - Facilitating integration with model inference APIs for healthcare AI solutions
+  - Providing secure, scalable platform services for telehealth and virtual care delivery
+    systems
+position:
+  title: Principal Software Engineer, AI Platform (Python/React)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Platform role focused on building
+      infrastructure and platforms that enable AI work rather than
+      directly implementing AI/ML models. The role involves
+      backend/frontend development, CI/CD pipelines, and platform
+      engineering with only optional exposure to model inference
+      APIs as a bonus qualification.
+  responsibilities:
+  - Lead technical design for platform features and services, breaking ambiguous requirements
+    into clear, incremental designs and stories
+  - Implement backend services in Python/FastAPI and React frontends end-to-end, owning
+    features from idea to production
+  - Define clear API contracts and data flows between services and UIs, creating patterns
+    and templates for others to follow
+  - Champion high-quality engineering practices including code reviews, documentation,
+    and maintainable, testable designs
+  - Establish and evolve automated testing approaches (unit, integration, end-to-end)
+    and CI/CD pipelines for frequent deployments
+  - Own the operational lifecycle of features and services including monitoring, observability,
+    on-call participation, and incident response
+  - Design and implement secure-by-default solutions with robust authentication/authorization
+    and safe handling of sensitive data
+  - Provide hands-on technical leadership and mentorship to engineers through pairing,
+    design discussions, and feedback
+  use_cases:
+  - Building developer platforms that serve multiple product teams in a healthcare
+    organization
+  - Enabling AI/ML capabilities through platform infrastructure for virtual care applications
+  - Supporting data-intensive applications with robust backend services and data pipelines
+  - Facilitating integration with model inference APIs for healthcare AI solutions
+  - Providing secure, scalable platform services for telehealth and virtual care delivery
+    systems
+  skills:
+    genai: [model inference APIs]
+    ml: []
+    web: [FastAPI, React, Flask, Django, REST, API design, HTTP]
+    databases: []
+    data: [distributed systems, data modeling, data pipelines]
+    cloud: [Azure]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8343857'
+  extracted_at: '2026-02-05T12:55:32.062883'

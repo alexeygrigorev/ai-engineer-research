@@ -1,0 +1,66 @@
+company:
+  name: Intercom
+  stage: Public
+  focus: AI-powered customer service platform
+  use_cases:
+  - AI-powered customer service agent (Fin) that delivers always-on, impeccable customer
+    service
+  - AI-enhanced helpdesk and customer service suite for complex or high-touch queries
+    requiring human agents
+  - Customer experience transformation through intelligent agent deployment and support
+    automation
+  - Rapid prototyping and deployment of ML-powered customer service features
+  - Real-world customer service applications using supervised models, unsupervised
+    clustering, and transformer neural networks
+position:
+  title: Senior Product Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a Product Engineer who works alongside ML
+      Scientists to bring proof-of-concept code to production,
+      focusing on robustness, scalability, and integration with
+      the broader product stack. The job description explicitly
+      states "No ML experience required" and emphasizes software
+      engineering skills over ML model building, training, or
+      fine-tuning. The engineer enables the ML scientists to move
+      models to production but does not directly build or deploy
+      the models themselves.
+  responsibilities:
+  - Build the systems that power Intercom's flagship AI products using ML Python tech
+    stack and Rails application
+  - Collaborate with ML Scientists to bring proof-of-concept code to production with
+    robustness and scalability
+  - Partner with product teams outside the AI group to shape AI-powered product experiences
+    for customers
+  - Contribute to all phases of software development including ideation, prototyping,
+    implementation, and testing
+  - Play active role in hiring, mentoring, and career development of other engineers
+  - Raise technical standards for performance, reliability, and operational excellence
+    within the group and across Intercom
+  use_cases:
+  - AI-powered customer service agent (Fin) that delivers always-on, impeccable customer
+    service
+  - AI-enhanced helpdesk and customer service suite for complex or high-touch queries
+    requiring human agents
+  - Customer experience transformation through intelligent agent deployment and support
+    automation
+  - Rapid prototyping and deployment of ML-powered customer service features
+  - Real-world customer service applications using supervised models, unsupervised
+    clustering, and transformer neural networks
+  skills:
+    genai: []
+    ml: []
+    web: [Ruby on Rails]
+    databases: []
+    data: [data analytics, statistical analysis]
+    cloud: []
+    ops: []
+    languages: [Python, Ruby]
+    domains: []
+    other: [software engineering]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7577183'
+  extracted_at: '2026-02-05T11:08:29.951648'

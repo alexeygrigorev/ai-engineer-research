@@ -1,0 +1,56 @@
+company:
+  name: EvolutionIQ
+  stage: Series B
+  focus: AI-powered insurance claims management platform
+  use_cases:
+  - Insurance claims workflow automation and optimization
+  - AI-assisted claims handling for improved accuracy and fairness
+  - Multi-tenant enterprise application serving ML predictions to insurance carriers
+  - Business intelligence and analytics platform for insurance claims data
+  - Enterprise-grade data pipeline serving structured and unstructured claims datasets
+position:
+  title: Senior Software Engineer (Python / AI Insurance SaaS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend software engineering role that builds REST
+      APIs and multi-tenant SaaS applications to serve ML model
+      outputs to customers. While the role collaborates with data
+      science teams, the engineer is not involved in building,
+      training, fine-tuning, or deploying ML models themselves -
+      they build the infrastructure and application layer that
+      supports AI solutions.
+  responsibilities:
+  - Build complex multi-tenant enterprise SaaS application to revolutionize application
+    workflows
+  - Build and maintain backend REST server that feeds machine learning data and Business
+    Intelligence
+  - Own entire lifecycle of designing, building and launching enterprise applications
+  - Work in greenfield projects with high levels of ownership
+  - Work directly with head of product, data science team, UX designers, and end users
+  - Shape product future through technology choices and roadmap building
+  - Provide technical expertise, introduce best practices, drive consistency across
+    teams
+  - Focus on business problems using large-scale structured and unstructured datasets
+  use_cases:
+  - Insurance claims workflow automation and optimization
+  - AI-assisted claims handling for improved accuracy and fairness
+  - Multi-tenant enterprise application serving ML predictions to insurance carriers
+  - Business intelligence and analytics platform for insurance claims data
+  - Enterprise-grade data pipeline serving structured and unstructured claims datasets
+  skills:
+    genai: []
+    ml: []
+    web: [REST, Backend architecture]
+    databases: [Relational databases, Database schema design]
+    data: []
+    cloud: [Multi-tenant architecture]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [Systems design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8231643'
+  extracted_at: '2026-02-05T12:16:36.372663'

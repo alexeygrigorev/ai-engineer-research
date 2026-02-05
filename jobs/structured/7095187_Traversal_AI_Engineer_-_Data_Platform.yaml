@@ -1,0 +1,65 @@
+company:
+  name: Traversal
+  stage: Series A
+  focus: AI-powered SRE and incident remediation platform
+  use_cases:
+  - AI agents diagnose and remediate production incidents in real time
+  - AI-driven root cause analysis for complex production issues
+  - Automated troubleshooting and prevention of production incidents
+  - Real-time observability workflows powered by AI agents
+  - Enterprise-grade incident management and remediation
+  - AI-powered software maintenance and SRE automation
+position:
+  title: AI Engineer - Data Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is on the Data Platform/Infrastructure team
+      building backend systems, data pipelines, and observability
+      infrastructure that POWER AI agents. The engineer does not
+      build, train, fine-tune, or deploy AI models themselves -
+      they create the reliable infrastructure and data foundations
+      (distributed systems, low-latency pipelines, observability
+      stacks) that enable the AI team's agents to function.
+  responsibilities:
+  - Design and implement scalable, resilient infrastructure systems powering AI-driven
+    root cause analysis and observability workflows across on-premises environments
+  - Work on low-level system design foundations, ensuring efficient resource use and
+    high performance at scale
+  - Profile and tune backend systems to improve throughput, reduce latency, and minimize
+    bottlenecks across the stack
+  - Build and maintain the internal observability stack (logs, metrics, traces) used
+    by AI agents to understand and act on production issues
+  - Support hybrid infrastructure architectures for both cloud-hosted SaaS and on-prem
+    deployments serving enterprise customers
+  - Develop and maintain low-latency, high-throughput data pipelines using tools like
+    Kafka, Postgres, and S3 for real-time telemetry workflows
+  - Contribute to infrastructure-as-code, CI/CD tooling, and deployment systems to
+    increase platform velocity and stability
+  - Collaborate with AI, platform, and product teams to ensure smooth integration
+    and shared reliability goals
+  use_cases:
+  - AI agents diagnose and remediate production incidents in real time
+  - AI-driven root cause analysis for complex production issues
+  - Automated troubleshooting and prevention of production incidents
+  - Real-time observability workflows powered by AI agents
+  - Enterprise-grade incident management and remediation
+  - AI-powered software maintenance and SRE automation
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [Postgres, Database tuning]
+    data: [Kafka, Event streaming]
+    cloud: [S3, Cloud infrastructure]
+    ops: [Distributed systems, Terraform, Pulumi, CI/CD, Infrastructure-as-code, Performance
+        profiling, Observability, 'Logs, metrics, and traces', Networking, Low-level
+        system design, Storage internals, OS tuning]
+    languages: [Rust, OCaml, C++, C, Zig, Python]
+    domains: []
+    other: [Concurrency models]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7095187'
+  extracted_at: '2026-02-05T10:15:28.700271'

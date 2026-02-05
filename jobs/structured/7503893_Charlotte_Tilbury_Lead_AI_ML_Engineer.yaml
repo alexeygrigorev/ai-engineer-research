@@ -1,0 +1,66 @@
+company:
+  name: Charlotte Tilbury
+  stage: Public (implied by global scale, 2,300+ employees, and 10+ years of operation)
+  focus: Global beauty and makeup brand
+  use_cases:
+  - Agentic AI systems with RAG capabilities for business process automation and knowledge
+    retrieval
+  - Recommender systems for product suggestions and personalization in e-commerce
+  - Customer segmentation models using supervised and unsupervised learning approaches
+  - Marketing optimisation modules leveraging econometric modelling
+  - Forecasting models for business planning and inventory management
+position:
+  title: Lead AI & ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI/ML engineering role with direct
+      responsibility for building and deploying AI systems,
+      including agentic systems, RAG implementations, and
+      production ML pipelines. The role involves designing and
+      implementing AI solutions using LangChain, LangGraph, prompt
+      engineering, and orchestrating LLM workflows on GCP Vertex
+      AI, while also deploying traditional ML systems like
+      recommender systems and forecasting models.
+  responsibilities:
+  - Partner with stakeholders to scope problems and identify the right solution, whether
+    leveraging existing AI tools or building custom workflows and solutions
+  - Design and implement agentic systems using techniques spanning RAG, grounding,
+    prompt engineering, and orchestration on a GCP-first stack
+  - Build and maintain production ML pipelines and services for non-GenAI use cases
+    including recommender systems, customer segmentation models, and marketing optimisation
+    modules
+  - Develop APIs and microservices for AI/ML solutions, ensuring security, scalability,
+    and observability
+  - Implement CI/CD for ML services, write infrastructure as code, and monitor for
+    model/data drift and performance
+  - Establish robust guardrails for safe AI usage, including prompt security, practical
+    evaluation frameworks, and compliance with privacy regulations
+  - Drive and evangelize best practices, reusable templates, and documentation to
+    scale AI/ML delivery across the business
+  - Line manage AI/ML Engineers by setting goals, developing skills, and mentoring
+    for high performance
+  use_cases:
+  - Agentic AI systems with RAG capabilities for business process automation and knowledge
+    retrieval
+  - Recommender systems for product suggestions and personalization in e-commerce
+  - Customer segmentation models using supervised and unsupervised learning approaches
+  - Marketing optimisation modules leveraging econometric modelling
+  - Forecasting models for business planning and inventory management
+  skills:
+    genai: [LangChain, LangGraph, RAG, prompt engineering]
+    ml: [recommender systems, customer segmentation, marketing optimisation, econometric
+        modelling]
+    web: [FastAPI, microservices]
+    databases: [vector databases]
+    data: [PII handling]
+    cloud: [GCP, GCP Vertex AI, IAM]
+    ops: [Terraform, CI/CD, MLflow, model monitoring, RAGAS, TruLens, LangSmith, Arize]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7503893'
+  extracted_at: '2026-02-05T11:02:20.483305'

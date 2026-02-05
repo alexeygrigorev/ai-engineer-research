@@ -1,0 +1,59 @@
+company:
+  name: N26
+  stage: Public
+  focus: Digital banking platform
+  use_cases:
+  - MLOps platform infrastructure for machine learning model deployment and operations
+  - GenAI capabilities infrastructure supporting generative AI workloads
+  - Scalable and secure AI infrastructure for banking applications
+  - Model deployment and operational efficiency for data science and ML teams
+  - AI platform supporting banking product teams in building AI-powered features
+position:
+  title: Senior Site Reliability Engineer - AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Site Reliability Engineer role focused on building
+      infrastructure platforms that support AI/ML workloads. The
+      role involves creating infrastructure for MLOps and GenAI
+      capabilities, collaborating with ML engineers, and managing
+      deployments, but does not involve directly building,
+      training, or fine-tuning models.
+  responsibilities:
+  - Design, develop, and implement platform solutions that enhance the reliability,
+    security, and scalability of the AI Platform infrastructure
+  - Provide technical leadership in cloud infrastructure, networking, CI/CD, and security
+    for AI and MLOps workloads
+  - Collaborate closely with Data Scientists, ML Engineers, and Product Teams to ensure
+    seamless model deployment and operational efficiency
+  - Mentor and coach team members, fostering a culture of knowledge sharing, technical
+    excellence, and continuous improvement
+  - Take an active role in shaping the team's strategy, roadmap, and architecture
+  - Drive incident management and troubleshooting efforts, ensuring a stable and predictable
+    AI development and deployment environment
+  - Improve observability and monitoring, ensuring the AI Platform meets performance
+    and compliance requirements
+  use_cases:
+  - MLOps platform infrastructure for machine learning model deployment and operations
+  - GenAI capabilities infrastructure supporting generative AI workloads
+  - Scalable and secure AI infrastructure for banking applications
+  - Model deployment and operational efficiency for data science and ML teams
+  - AI platform supporting banking product teams in building AI-powered features
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, Terraform, CloudFormation, AWS SageMaker, AWS Bedrock, networking,
+      security]
+    ops: [GitHub Actions, ArgoCD, Jenkins, DataDog, Prometheus, Grafana, OpenTelemetry,
+      Kubeflow, MLflow, CI/CD, Infrastructure as Code, Docker, Kubernetes, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8386931'
+  extracted_at: '2026-02-05T13:03:03.465184'

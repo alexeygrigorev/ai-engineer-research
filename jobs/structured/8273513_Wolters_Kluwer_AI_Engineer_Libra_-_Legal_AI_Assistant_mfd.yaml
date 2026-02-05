@@ -1,0 +1,57 @@
+company:
+  name: Wolters Kluwer
+  stage: Series B
+  focus: Legal AI assistant platform for lawyers
+  use_cases:
+  - Legal research and document analysis for lawyers
+  - AI-powered drafting assistance for legal documents
+  - Chat-based legal knowledge assistant with retrieval capabilities
+  - Multi-step legal workflow automation using agent orchestration
+  - Localized legal AI workspace across European markets
+position:
+  title: AI Engineer (Libra - Legal AI Assistant) (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role because the engineer will build
+      end-to-end product features using LLM APIs, implement RAG
+      systems, design agent orchestration systems, and directly
+      work with generative AI technology. The role involves hands-
+      on development of AI-powered features including chat-based
+      interfaces, document parsing, semantic chunking, and multi-
+      step legal workflows.
+  responsibilities:
+  - Design, implement, and maintain AI-driven product features end-to-end using LLM
+    APIs
+  - Develop both visible chat-based UX flows and non-visible AI integrations that
+    power Libra's core functionality
+  - Build and optimize RAG systems, including document parsing, semantic chunking,
+    and retrieval pipelines
+  - Build scalable, maintainable backend systems using FastAPI and modern Python tooling
+  - Design and implement agent orchestration systems for complex, multi-step legal
+    workflows
+  - Build infrastructure for evaluations and benchmarking, including continuous monitoring
+    and alerting to ensure quality across all AI-powered features
+  use_cases:
+  - Legal research and document analysis for lawyers
+  - AI-powered drafting assistance for legal documents
+  - Chat-based legal knowledge assistant with retrieval capabilities
+  - Multi-step legal workflow automation using agent orchestration
+  - Localized legal AI workspace across European markets
+  skills:
+    genai: [LLM APIs, RAG, document parsing, semantic chunking, agent orchestration,
+      retrieval pipelines]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Langfuse, monitoring and alerting]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8273513'
+  extracted_at: '2026-02-05T12:28:40.418871'

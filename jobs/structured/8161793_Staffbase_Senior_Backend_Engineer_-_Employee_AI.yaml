@@ -1,0 +1,66 @@
+company:
+  name: Staffbase
+  stage: Unicorn
+  focus: AI-native employee experience platform
+  use_cases:
+  - Agentic AI communications channels including intranet, employee app, and email
+    solutions
+  - Multi-agent architectures for complex conversational workflows
+  - Employee experience platform using AI-native communication tools
+  - Long-running, stateful conversational interactions for workplace communication
+  - AI-powered solutions empowering communicators and frontline workers
+  - Employee engagement and communication through inspirational AI-driven experiences
+position:
+  title: Senior Backend Engineer - Employee AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role focused on building
+      infrastructure and services that power AI applications. The
+      engineer works ON prompt engineering, model integration, and
+      implementing multi-agent architectures (A2A protocols, MCP
+      servers) rather than training or fine-tuning models
+      themselves. While hands-on with AI systems, the work centers
+      on orchestration, observability, and production deployment
+      of AI capabilities built by others.
+  responsibilities:
+  - Design, develop, and maintain scalable and fault-tolerant backend services that
+    power AI applications
+  - Apply advanced prompt engineering techniques to optimize model performance, manage
+    context windows, and ensure high-quality responses
+  - Implement model integration patterns to connect and orchestrate various external
+    and internal services
+  - Develop Agent-to-Agent (A2A) protocol communication strategies for complex multi-agent
+    architectures
+  - Implement systems for Managing Conversational Protocols (MCP servers) and A2A
+    protocol for long-running, stateful interactions
+  - Define and implement observability standards for AI applications including metrics
+    for latency, cost, token usage, drift, and user-perceived quality
+  - Collaborate with ML Scientists and Data Scientists to transition prototypes and
+    models into production-ready, high-availability services
+  - Mentor junior engineers and champion best practices in backend development and
+    MLOps
+  use_cases:
+  - Agentic AI communications channels including intranet, employee app, and email
+    solutions
+  - Multi-agent architectures for complex conversational workflows
+  - Employee experience platform using AI-native communication tools
+  - Long-running, stateful conversational interactions for workplace communication
+  - AI-powered solutions empowering communicators and frontline workers
+  - Employee engagement and communication through inspirational AI-driven experiences
+  skills:
+    genai: [Prompt engineering, RAG, MCP, Agent-to-Agent protocols, Multi-agent systems]
+    ml: []
+    web: []
+    databases: []
+    data: [Kafka, Event-driven architecture]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, Observability, MLOps, Logging, Tracing, Monitoring]
+    languages: [Golang, Java, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8161793'
+  extracted_at: '2026-02-05T12:06:37.012221'

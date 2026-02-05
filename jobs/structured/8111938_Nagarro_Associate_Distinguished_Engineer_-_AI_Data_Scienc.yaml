@@ -1,0 +1,59 @@
+company:
+  name: Nagarro
+  stage: Public
+  focus: Digital product engineering at scale
+  use_cases:
+  - Enterprise-scale AI systems with retrieval-augmented generation and autonomous
+    agent workflows
+  - Multimodal AI applications combining text, vision, and speech processing
+  - Real-time event-driven AI systems with continuous learning loops
+  - Large-scale distributed model training and inference optimization
+  - Data platform modernization for AI and business intelligence use cases
+  - Intelligent automation systems with multi-agent architectures
+position:
+  title: Associate Distinguished Engineer - AI, Data Science & Agentic Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role is deeply hands-on with architecting and building LLM-
+      based systems, agentic workflows, RAG pipelines, and model
+      fine-tuning. While it includes infrastructure work, the core
+      focus is on designing and implementing AI/ML models and
+      systems, not just supporting them.
+  responsibilities:
+  - Architect enterprise-grade AI systems using LLMs, multimodal models, vector databases,
+    knowledge graphs, and agentic orchestration frameworks
+  - Design end-to-end ML pipelines from data ingestion through model training, evaluation,
+    deployment, and feedback loops
+  - Define engineering standards for MLOps, LLMOps, data quality, model observability,
+    guardrails, and prompt security
+  - Guide teams in building prototypes, PoCs, and production systems using modern
+    AI stacks including transformer and diffusion models
+  - Architect secure, high-throughput data platforms for AI/BI use cases based on
+    lakehouse and streaming patterns
+  - Advise CIO/CTO/CDO teams on AI system design, architecture modernization, and
+    model lifecycle governance
+  use_cases:
+  - Enterprise-scale AI systems with retrieval-augmented generation and autonomous
+    agent workflows
+  - Multimodal AI applications combining text, vision, and speech processing
+  - Real-time event-driven AI systems with continuous learning loops
+  - Large-scale distributed model training and inference optimization
+  - Data platform modernization for AI and business intelligence use cases
+  - Intelligent automation systems with multi-agent architectures
+  skills:
+    genai: [LLMs, multimodal models, RAG, agentic systems, prompt engineering]
+    ml: [model training, fine-tuning]
+    web: []
+    databases: [vector databases, knowledge graphs]
+    data: [Databricks, Snowflake, Ray]
+    cloud: [AWS, Azure, GCP, SageMaker, Vertex AI, Azure ML]
+    ops: [MLOps, LLMOps, MLflow, Kubernetes]
+    languages: [Python]
+    domains: [diffusion models]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8111938'
+  extracted_at: '2026-02-05T12:02:23.832783'

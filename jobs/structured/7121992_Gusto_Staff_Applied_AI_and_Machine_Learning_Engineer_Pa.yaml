@@ -1,0 +1,56 @@
+company:
+  name: Gusto
+  stage: Public (Gusto is a publicly traded company that serves 400,000+ small businesses)
+  focus: Payroll, benefits, and HR platform for small businesses
+  use_cases:
+  - Credit risk modeling to assess payment and lending risks
+  - Fraud detection and prevention using traditional ML models and AI-enhanced approaches
+  - Anomaly detection for suspicious payment patterns and user activities
+  - Risk assessment platform for safeguarding users' financial transactions
+  - NLP-based data processing and insights generation using LLMs
+position:
+  title: Staff Applied AI and Machine Learning Engineer, Payments & Risk
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and deploying machine learning
+      models from scratch, including LLM integration for enhancing
+      traditional risk models. The engineer directly develops
+      predictive models for fraud/credit risk and deploys them
+      into production, making it hands-on AI work rather than just
+      support infrastructure.
+  responsibilities:
+  - Build and deploy machine learning models to identify, assess and mitigate payment
+    and fraud risks
+  - Drive end-to-end model development from research through deployment and ongoing
+    performance monitoring
+  - Partner cross-functionally with Engineering, Design, and Product teams to solve
+    complex problems in Payments and Risk domains
+  - Develop scalable frameworks and libraries that enhance team's analysis and modeling
+    capabilities
+  - Integrate Large Language Models to improve data processing, analysis and insights
+  - Identify new opportunities to leverage data to improve Gusto's products and present
+    results to stakeholders
+  use_cases:
+  - Credit risk modeling to assess payment and lending risks
+  - Fraud detection and prevention using traditional ML models and AI-enhanced approaches
+  - Anomaly detection for suspicious payment patterns and user activities
+  - Risk assessment platform for safeguarding users' financial transactions
+  - NLP-based data processing and insights generation using LLMs
+  skills:
+    genai: [Large Language Models]
+    ml: [Logistic regression, Random forest, XGBoost, Neural networks, Predictive
+        modeling, Anomaly detection, Ensemble methods]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, R]
+    domains: [Natural language processing, Credit risk modeling, Fraud risk modeling]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7121992'
+  extracted_at: '2026-02-05T10:20:37.074458'

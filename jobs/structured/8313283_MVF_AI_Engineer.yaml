@@ -1,0 +1,71 @@
+company:
+  name: MVF
+  stage: null
+  focus: |-
+    Building AI agents for business operations and customer
+    optimization
+  use_cases:
+  - AI agents that autonomously optimize business operations and deliver better outcomes
+    for customers
+  - Multi-step agentic workflows that execute function calls and manage state across
+    complex tasks
+  - RAG systems that provide agents with exact context for decision-making through
+    hybrid search
+  - Structured data extraction from unstructured conversations for downstream system
+    consumption
+  - Automated prompt evaluation and testing to ensure reliable agent performance in
+    production
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is building AI agents that actively perform
+      actions (function calls, multi-step workflows) and implement
+      production-grade RAG systems. The role directly involves
+      designing, building, and deploying GenAI systems including
+      prompt engineering, evaluation frameworks, and orchestration
+      of language models.
+  responsibilities:
+  - Architect and engineer AI agents that perform deterministic actions based on probabilistic
+    reasoning and manage multi-step workflows
+  - Implement production-grade RAG with hybrid search, re-ranking strategies, and
+    metadata filtering
+  - Build pipelines for structured data extraction from unstructured conversations
+  - Implement observability tools and tracing systems to monitor agent decision-making
+    and execution chains
+  - Create automated evaluation pipelines with golden datasets to test prompts and
+    ensure deployment confidence
+  - Monitor and optimize token usage, inference latency, and the trade-off between
+    model intelligence and cost
+  - Collaborate with the Head of Data to define technical roadmap and architectural
+    standards
+  - Establish shared deployment patterns, monitoring standards, and security practices
+    with the Data Science team
+  use_cases:
+  - AI agents that autonomously optimize business operations and deliver better outcomes
+    for customers
+  - Multi-step agentic workflows that execute function calls and manage state across
+    complex tasks
+  - RAG systems that provide agents with exact context for decision-making through
+    hybrid search
+  - Structured data extraction from unstructured conversations for downstream system
+    consumption
+  - Automated prompt evaluation and testing to ensure reliable agent performance in
+    production
+  skills:
+    genai: [prompt engineering, RAG, agents, function calling, LangChain, LlamaIndex]
+    ml: []
+    web: [Pydantic, FastAPI]
+    databases: [Snowflake, vector databases, Pinecone, Weaviate]
+    data: [dbt]
+    cloud: [AWS, GCP, Azure, EKS, ECS]
+    ops: [LangSmith, LangFuse, Docker, Kubernetes, Terraform, CI/CD, Datadog]
+    languages: [Python, Asyncio]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8313283'
+  extracted_at: '2026-02-05T12:45:38.758894'

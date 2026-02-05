@@ -1,0 +1,56 @@
+company:
+  name: Blackbaud
+  stage: Public
+  focus: Financial software for social good organizations
+  use_cases:
+  - Intelligent financial applications for the social good ecosystem
+  - Full-fledged accounting capabilities powered by Generative AI
+  - Generative AI-enhanced fintech platform features
+  - Automated and intelligent financial management solutions
+  - AI-powered user experience improvements in financial software
+position:
+  title: Senior .NET Engineer, FinTech and AI Innovation
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is primarily a .NET software engineering role that
+      leverages existing Generative AI services and tooling rather
+      than building, training, or deploying models directly. The
+      engineer is responsible for integrating AI features into
+      financial products using Blackbaud's internal AI platforms,
+      making it an AI-support role.
+  responsibilities:
+  - Design, build, and maintain efficient, reusable, and reliable code on the Microsoft
+    stack
+  - Develop production-ready features that leverage Blackbaud's internal Generative
+    AI services and tooling
+  - Implement UI/UX designs with a focus on web standards and accessibility
+  - Collaborate with engineers and Product Management on technical design and project
+    requirements
+  - Ensure robust, high-quality code through reviews and automated testing
+  - Proactively suggest improvements to enhance client experience and performance
+  - Stay current with developments in Generative AI, Machine Learning, and software
+    engineering
+  - Participate in Agile ceremonies and daily standups
+  use_cases:
+  - Intelligent financial applications for the social good ecosystem
+  - Full-fledged accounting capabilities powered by Generative AI
+  - Generative AI-enhanced fintech platform features
+  - Automated and intelligent financial management solutions
+  - AI-powered user experience improvements in financial software
+  skills:
+    genai: [Generative AI]
+    ml: []
+    web: [Angular, CSS, HTML, RESTful APIs]
+    databases: [SQL Server, Cosmos DB]
+    data: []
+    cloud: [Azure]
+    ops: [Git, CI/CD, test automation]
+    languages: [.NET Core, C#, JavaScript, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7543489'
+  extracted_at: '2026-02-05T11:05:50.624151'

@@ -1,0 +1,69 @@
+company:
+  name: Red Hat
+  stage: Public
+  focus: |-
+    Enterprise open source software solutions for Linux, cloud,
+    containers, and Kubernetes
+  use_cases:
+  - Distributed Large Language Model (LLM) inference systems running on Kubernetes
+    clusters
+  - High-performance LLM serving with low latency and high throughput requirements
+  - GPU-accelerated inference using NVIDIA GPUs, AMD GPUs, and TPUs for production
+    workloads
+  - Advanced inference optimizations including KV caching, continuous batching, and
+    prefill/decode disaggregation
+  - Production deployment of large-scale language models with complex networking and
+    scheduling requirements
+position:
+  title: Forward Deployed Engineer, AI Inference (vLLM and Kubernetes)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on
+      deploying and optimizing vLLM and LLM-D inference platforms
+      directly to customer production environments. The role
+      requires hands-on work with distributed LLM inference
+      systems, KV caching, continuous batching, and model
+      performance optimization on Kubernetes clusters - this is
+      deploying AI solutions, not just supporting AI
+      infrastructure.
+  responsibilities:
+  - Deploy and configure LLM-D and vLLM on Kubernetes clusters with advanced configurations
+    like disaggregated serving, KV-cache aware routing, and KV cache offloading
+  - Run performance benchmarks, tune vLLM parameters, and configure intelligent inference
+    routing policies to meet SLOs for latency and throughput
+  - Write production-quality Python/Go/YAML code to integrate the inference engine
+    into customers' existing Kubernetes ecosystem
+  - Debug complex interactions between model architectures (MoE, large context windows),
+    hardware accelerators (NVIDIA/AMD GPUs, TPUs), and Kubernetes networking
+  - Act as Customer Zero by channeling field learnings back to product development
+    to influence LLM-D and vLLM feature roadmaps
+  - Execute proof-of-concepts and demos with customers to validate inference platform
+    capabilities
+  use_cases:
+  - Distributed Large Language Model (LLM) inference systems running on Kubernetes
+    clusters
+  - High-performance LLM serving with low latency and high throughput requirements
+  - GPU-accelerated inference using NVIDIA GPUs, AMD GPUs, and TPUs for production
+    workloads
+  - Advanced inference optimizations including KV caching, continuous batching, and
+    prefill/decode disaggregation
+  - Production deployment of large-scale language models with complex networking and
+    scheduling requirements
+  skills:
+    genai: [LLM-D, KV caching, continuous batching]
+    ml: [Quantization, AWQ, GPTQ, Speculative Decoding]
+    web: [Gateway API]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [vLLM, Kubernetes, Helm, Terraform, NVIDIA GPUs, AMD GPUs, TPUs, Envoy, ISTIO,
+      disaggregated serving, KServe, CRDs, Operators, Controllers]
+    languages: [Python, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8291315'
+  extracted_at: '2026-02-05T12:37:33.272463'

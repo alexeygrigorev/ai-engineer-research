@@ -1,0 +1,61 @@
+company:
+  name: Lookout
+  stage: null
+  focus: Endpoint to cloud security platform
+  use_cases:
+  - Automating business workflows across Sales, Marketing, Finance, HR, Legal, and
+    Recruiting departments
+  - Integrating autonomous agents with CRM, ERP, and HRIS systems for process automation
+  - Building multi-step agentic workflows that fundamentally change how Lookout operates
+    internally
+  - Implementing RAG patterns for searching and retrieving internal documentation
+  - Enabling autonomous agents to interact with diverse enterprise SaaS ecosystem
+position:
+  title: AI Automation Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying
+      autonomous AI agents and agentic workflows using LLMs
+      (Gemini, OpenAI, Anthropic). The engineer is responsible for
+      prompt engineering, RAG implementations, and orchestrating
+      multi-step agent automation - hands-on model work rather
+      than just enabling infrastructure.
+  responsibilities:
+  - Design, build, and maintain autonomous AI agents using low-code/no-code orchestration
+    platforms and enterprise LLMs
+  - Translate business requirements from departments into AI-compatible workflows
+    and agentic processes
+  - Integrate AI agents with enterprise SaaS platforms including Salesforce, NetSuite,
+    Workday, and Marketo via APIs and webhooks
+  - Develop data strategy for extracting, cleaning, and feeding contextual data to
+    LLMs to ensure accurate outputs
+  - Identify high-value multi-step agentic automation use cases and influence internal
+    AI strategy
+  - Own the lifecycle of internal agents including governance, security, cost-effectiveness,
+    and maintenance
+  use_cases:
+  - Automating business workflows across Sales, Marketing, Finance, HR, Legal, and
+    Recruiting departments
+  - Integrating autonomous agents with CRM, ERP, and HRIS systems for process automation
+  - Building multi-step agentic workflows that fundamentally change how Lookout operates
+    internally
+  - Implementing RAG patterns for searching and retrieving internal documentation
+  - Enabling autonomous agents to interact with diverse enterprise SaaS ecosystem
+  skills:
+    genai: [N8N, LangChain, Flowise, Gemini, OpenAI, Anthropic, prompt engineering,
+      RAG, agents]
+    ml: []
+    web: [APIs, webhooks]
+    databases: [vector databases]
+    data: []
+    cloud: [Google Cloud Platform]
+    ops: []
+    languages: [Python, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8327479'
+  extracted_at: '2026-02-05T12:51:43.639466'

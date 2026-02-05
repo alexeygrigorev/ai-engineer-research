@@ -1,0 +1,63 @@
+company:
+  name: Aegis Ventures
+  stage: Series A
+  focus: AI-powered patient engagement platform for healthcare
+  use_cases:
+  - AI-powered patient engagement for healthcare organizations
+  - Care journey orchestration with automated workflows
+  - Health data integration connecting patient data, clinical protocols, and care
+    coordination
+  - Intelligent automation surfacing critical insights at the right moment to healthcare
+    providers
+  - Streamlining clinical workflows to reduce administrative burden and improve outcomes
+  - Conversational AI assistants for patient care interactions
+position:
+  title: Senior / Staff AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building LLM agents, RAG
+      systems, and agentic workflows using LangChain and AWS
+      Bedrock. The engineer will design and operate LLM services,
+      implement retrieval systems with vector databases, and
+      directly develop conversational AI solutions.
+  responsibilities:
+  - Design and develop robust, scalable, event-driven services using Python, FastAPI,
+    Apache Kafka and GraphQL
+  - Build fundamental LLM agents and integrate them into our product
+  - Design, build, and operate LLM services, including RAG systems, agentic workflows,
+    and evaluation pipelines
+  - Own vector search and embeddings pipelines from schema and metadata design to
+    model benchmarking and cost/latency optimization
+  - Lead conversational AI development enhancing NLU policies, safety guardrails,
+    and custom action servers
+  - Maintain and optimize PostgreSQL databases and data models
+  - Drive engineering best practices through code reviews and mentorship
+  - Engage with current and prospective clients to drive understanding of the Caregentic
+    AI architecture and capabilities
+  use_cases:
+  - AI-powered patient engagement for healthcare organizations
+  - Care journey orchestration with automated workflows
+  - Health data integration connecting patient data, clinical protocols, and care
+    coordination
+  - Intelligent automation surfacing critical insights at the right moment to healthcare
+    providers
+  - Streamlining clinical workflows to reduce administrative burden and improve outcomes
+  - Conversational AI assistants for patient care interactions
+  skills:
+    genai: [LangChain, RAG, LLM agents, agentic workflows, embeddings, LangGraph,
+      Rasa]
+    ml: []
+    web: [FastAPI, Strawberry GraphQL, GraphQL, Apollo Federation, React]
+    databases: [vector search, Databricks Vector Search, PostgreSQL, SQLAlchemy]
+    data: [Apache Kafka, Procrastinate, event-driven systems, message queues]
+    cloud: [AWS Bedrock, AWS]
+    ops: [LangSmith, Docker, Kubernetes, microservices, Terraform]
+    languages: [Python, TypeScript]
+    domains: [spaCy, conversational AI, HIPAA, HL7, FHIR]
+    other: [pytest]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '6897423'
+  extracted_at: '2026-02-05T09:58:04.423941'

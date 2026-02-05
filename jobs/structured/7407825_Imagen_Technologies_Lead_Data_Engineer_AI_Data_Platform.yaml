@@ -1,0 +1,66 @@
+company:
+  name: Imagen Technologies
+  stage: Series B+ ($200M+ funding)
+  focus: |-
+    AI-enabled teleradiology practice and diagnostic imaging
+    platform
+  use_cases:
+  - Managing and processing billions of medical images (DICOM) and clinical reports
+    to support AI development
+  - Scaling a multi-petabyte data platform that powers FDA-cleared AI diagnostic products
+  - Building data infrastructure for 6+ FDA-cleared AI products focused on reducing
+    turnaround times and diagnostic error rates in radiology
+  - Enabling AI development lifecycle with high-quality medical data for teleradiology
+    practice spanning 35+ states
+  - Supporting the development of next-generation diagnostic tools through robust
+    medical imaging data infrastructure
+position:
+  title: Lead Data Engineer, AI Data Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building data infrastructure,
+      pipelines, and platforms that SUPPORT AI development rather
+      than directly building, training, or deploying AI models.
+      The Lead Data Engineer partners with AI teams to provide
+      foundational data systems but does not work directly on
+      model development or ML systems.
+  responsibilities:
+  - Architect and own the technical roadmap for a multi-petabyte, multi-cloud data
+    platform ensuring reliable access for AI teams
+  - Design, build, and maintain robust data ingestion, processing, and transformation
+    pipelines for billions of medical images and clinical reports
+  - Implement modern workflow orchestration solutions to manage end-to-end data pipelines
+    for medical image processing
+  - Establish and enforce rigorous data quality frameworks, validation checks, and
+    security protocols compliant with HIPAA standards
+  - Lead technical strategy and best practices in data engineering, DataOps, and infrastructure
+    management with ownership of tooling decisions
+  - Partner with AI and research teams as the primary technical expert to understand
+    requirements and build solutions that accelerate model development
+  use_cases:
+  - Managing and processing billions of medical images (DICOM) and clinical reports
+    to support AI development
+  - Scaling a multi-petabyte data platform that powers FDA-cleared AI diagnostic products
+  - Building data infrastructure for 6+ FDA-cleared AI products focused on reducing
+    turnaround times and diagnostic error rates in radiology
+  - Enabling AI development lifecycle with high-quality medical data for teleradiology
+    practice spanning 35+ states
+  - Supporting the development of next-generation diagnostic tools through robust
+    medical imaging data infrastructure
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [S3, GCS]
+    data: [Airflow, Prefect, Dagster, Spark, Dask]
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, CloudFormation, Docker, Kubernetes, DataOps, MLOps]
+    languages: [Python, SQL]
+    domains: [DICOM]
+    other: [HIPAA]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7407825'
+  extracted_at: '2026-02-05T10:47:16.948083'

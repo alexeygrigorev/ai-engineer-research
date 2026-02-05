@@ -1,0 +1,56 @@
+company:
+  name: LexisNexis
+  stage: Public
+  focus: Patent intelligence and IP analysis using AI
+  use_cases:
+  - Automated patent classification using AI to categorize millions of patents globally
+  - Extracting relevant patents into custom categories based on user-defined technology
+    areas
+  - Disrupting traditional patent data analysis with machine learning and expert analysis
+  - Enabling innovators to make informed decisions with faster and more accurate patent
+    insights
+  - Providing actionable intelligence from patent data with efficiency and accuracy
+    beyond traditional methods
+position:
+  title: Senior Software Engineer I (Python & AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves delivering AI-powered features and
+      implementing research from the data science team at scale
+      for an AI product that uses AI to classify patents. The
+      engineer will work with Applied AI/ML libraries and
+      frameworks, directly contributing to the AI functionality
+      rather than just supporting it with infrastructure.
+  responsibilities:
+  - Delivering AI-powered features for patent classification product
+  - Creating performance- and cost-optimised services using cloud infrastructure
+  - Implementing research from data science team at scale in production
+  - Taking ownership of moderate complexity components and writing detailed specifications
+  - Participating in code reviews, coding best practices, and mentoring junior developers
+  - Collaborating with distributed teams across multiple countries in agile environments
+  use_cases:
+  - Automated patent classification using AI to categorize millions of patents globally
+  - Extracting relevant patents into custom categories based on user-defined technology
+    areas
+  - Disrupting traditional patent data analysis with machine learning and expert analysis
+  - Enabling innovators to make informed decisions with faster and more accurate patent
+    insights
+  - Providing actionable intelligence from patent data with efficiency and accuracy
+    beyond traditional methods
+  skills:
+    genai: []
+    ml: [PyTorch, Scikit-learn]
+    web: [Angular]
+    databases: [SQL]
+    data: [Databricks]
+    cloud: [AWS, S3, Lambda, CDK, serverless architecture]
+    ops: [EKS, Azure Pipelines]
+    languages: [Python, C#, Go, JavaScript]
+    domains: []
+    other: [TDD, Agile, Kanban]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7609962'
+  extracted_at: '2026-02-05T11:13:10.343551'

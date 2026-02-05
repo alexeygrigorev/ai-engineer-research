@@ -1,0 +1,52 @@
+company:
+  name: Xaira Therapeutics
+  stage: Startup
+  focus: |-
+    AI for drug discovery and protein/antibody therapeutic
+    design
+  use_cases:
+  - Design protein and antibody therapeutics using generative AI
+  - Develop foundation models for biology and disease
+  - Enable better target elucidation for drug discovery
+  - Support patient stratification using AI models
+  - Create medicines against historically hard-to-drug molecular targets
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, training, and optimizing large-
+      scale AI models including generative AI models and
+      foundation models. Responsibilities include neural network
+      training, distributed training/inference, and model
+      profiling/optimization, which are hands-on ML/AI development
+      tasks.
+  responsibilities:
+  - Build and train neural networks for AI applications
+  - Work on distributed training and inference systems
+  - Profile and optimize large-scale AI models
+  - Collaborate in a team environment on challenging AI problems
+  - Apply AI to advance drug discovery and improve human health
+  - Contribute to generative AI model development
+  use_cases:
+  - Design protein and antibody therapeutics using generative AI
+  - Develop foundation models for biology and disease
+  - Enable better target elucidation for drug discovery
+  - Support patient stratification using AI models
+  - Create medicines against historically hard-to-drug molecular targets
+  skills:
+    genai: [generative AI]
+    ml: [neural networks, distributed training]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [model optimization, model profiling]
+    languages: []
+    domains: [BioAI]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6596263'
+  extracted_at: '2026-02-05T09:46:15.391656'

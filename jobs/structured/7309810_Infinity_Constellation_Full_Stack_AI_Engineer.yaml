@@ -1,0 +1,54 @@
+company:
+  name: Infinity Constellation
+  stage: Seed
+  focus: Holding company building AI-native businesses
+  use_cases:
+  - Agentic AI applications that can autonomously execute tasks
+  - LLLM-powered workflows for various business use cases
+  - Retrieval-augmented generation systems for knowledge management
+  - Full-stack AI products validated through rapid prototyping
+  - Reusable AI frameworks and prompt libraries across portfolio companies
+  - AI-native tools that scale within early-stage companies
+position:
+  title: Full Stack AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building agentic AI applications, LLM
+      workflows, and working directly with frameworks like
+      LangChain, CrewAI, and AutoGen. The engineer is responsible
+      for hands-on development and deployment of AI systems
+      including RAG and vector databases, not just supporting
+      infrastructure.
+  responsibilities:
+  - Build working prototypes of agentic AI applications, LLM workflows, and full-stack
+    products
+  - Experiment quickly across frameworks including LangChain, CrewAI, and AutoGen
+  - Interface directly with product thinkers and founders to distill ambiguous ideas
+    into testable code
+  - Contribute to shared internal libraries and the Infinity Commons framework
+  - Embed with portfolio companies to support launches or unblock execution
+  - Rapidly prototype new product ideas to validate markets
+  use_cases:
+  - Agentic AI applications that can autonomously execute tasks
+  - LLLM-powered workflows for various business use cases
+  - Retrieval-augmented generation systems for knowledge management
+  - Full-stack AI products validated through rapid prototyping
+  - Reusable AI frameworks and prompt libraries across portfolio companies
+  - AI-native tools that scale within early-stage companies
+  skills:
+    genai: [LangChain, CrewAI, AutoGen, OpenAI APIs, Anthropic APIs, RAG, AI agents]
+    ml: []
+    web: [React, Next.js, REST]
+    databases: [vector databases, Pinecone, Weaviate, Chroma, Qdrant, pgvector]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7309810'
+  extracted_at: '2026-02-05T10:36:54.869196'

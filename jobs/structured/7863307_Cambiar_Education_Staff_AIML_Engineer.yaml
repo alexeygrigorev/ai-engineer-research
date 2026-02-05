@@ -1,0 +1,57 @@
+company:
+  name: Cambiar Education
+  stage: Series B
+  focus: K-12 education nonprofit venture studio
+  use_cases:
+  - User-facing education products and tools powered by AI capabilities
+  - Internal operational tools and efficiencies through AI automation
+  - AI-powered product features leveraging LLMs and RAG for enhanced functionality
+  - Rapid iteration and development of AI applications in education technology
+  - Secure AI applications handling sensitive educational data with FERPA/COPPA compliance
+position:
+  title: Staff AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on implementation of AI
+      applications/models including RAG and tuning, with direct
+      experience building LLM-powered products using tools like
+      LangChain. The engineer will lead design, development, and
+      deployment of AI products and features, making this a hands-
+      on AI development role rather than a supporting
+      infrastructure role.
+  responsibilities:
+  - Lead the design, prototyping, development, and deployment of new user-facing products
+    and internal tooling with heavy emphasis on AI capabilities
+  - Implement AI applications and models including tuning and RAG where needed, building
+    MVPs and iterating based on user feedback
+  - Build and ensure systems are reliable, secure, and performant, establishing reusable
+    patterns and scalable architecture
+  - Champion security and privacy best practices including FERPA/COPPA compliance
+    for sensitive data in AI applications
+  - Collaborate with Product Management and Software Development Vendors to scope
+    and execute product features
+  - Support codebase health and sustainability, advocating for flexible and scalable
+    patterns that enable future growth
+  use_cases:
+  - User-facing education products and tools powered by AI capabilities
+  - Internal operational tools and efficiencies through AI automation
+  - AI-powered product features leveraging LLMs and RAG for enhanced functionality
+  - Rapid iteration and development of AI applications in education technology
+  - Secure AI applications handling sensitive educational data with FERPA/COPPA compliance
+  skills:
+    genai: [LangChain, RAG, prompt engineering, LLM applications]
+    ml: []
+    web: [Rails, React, microservices architecture, REST APIs]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [agile development, security best practices]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7863307'
+  extracted_at: '2026-02-05T11:36:46.369587'

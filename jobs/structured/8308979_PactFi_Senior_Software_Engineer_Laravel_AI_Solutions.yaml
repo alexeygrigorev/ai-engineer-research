@@ -1,0 +1,61 @@
+company:
+  name: PactFi
+  stage: Series B
+  focus: Secure infrastructure for private credit transactions
+  use_cases:
+  - Automated document ingestion and extraction for financial documents like contracts
+    and statements
+  - LLM-driven features and intelligent decision-support systems for private credit
+    transactions
+  - Automated workflows for document parsing and data extraction from PDFs and financial
+    records
+  - AI-powered assistance in capital allocation, KYC processing, and funds flow management
+  - Secure, bank-grade AI solutions integrated into financial services operations
+position:
+  title: Senior Software Engineer (Laravel), AI Solutions
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is hands-on building AI-powered features directly:
+      LLM-driven automations, intelligent agents, document
+      extraction pipelines, RAG pipelines, model orchestration.
+      This is working ON AI systems, not just supporting them.
+  responsibilities:
+  - Design, build, and maintain robust backend systems using Laravel with focus on
+    reliability and scalability
+  - Identify high-value AI use cases and design AI-powered backend workflows including
+    LLM-driven features and intelligent agents
+  - Lead integration of AI models and platforms including OpenAI, AWS Bedrock, Azure
+    AI, and Google Gemini
+  - Implement automated document ingestion and extraction pipelines for unstructured
+    and semi-structured documents
+  - Design AI workflows for inference, orchestration, evaluation, and production readiness
+    with attention to reliability and security
+  - Collaborate cross-functionally to align AI solutions with existing systems, APIs,
+    and data pipelines
+  use_cases:
+  - Automated document ingestion and extraction for financial documents like contracts
+    and statements
+  - LLM-driven features and intelligent decision-support systems for private credit
+    transactions
+  - Automated workflows for document parsing and data extraction from PDFs and financial
+    records
+  - AI-powered assistance in capital allocation, KYC processing, and funds flow management
+  - Secure, bank-grade AI solutions integrated into financial services operations
+  skills:
+    genai: [LLM APIs, agent frameworks, embeddings, RAG pipelines, model orchestration,
+      document parsing, OpenAI]
+    ml: []
+    web: [Laravel, Vue.js]
+    databases: [vector databases]
+    data: [data modeling]
+    cloud: [AWS Bedrock, Azure AI, Google Gemini, AWS]
+    ops: []
+    languages: []
+    domains: []
+    other: [PEST, Playwright, backend architecture, scalable system design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8308979'
+  extracted_at: '2026-02-05T12:44:45.770939'

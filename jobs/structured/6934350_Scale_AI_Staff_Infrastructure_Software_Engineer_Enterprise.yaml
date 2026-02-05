@@ -1,0 +1,66 @@
+company:
+  name: Scale AI
+  stage: Series C+ (Scale AI is a well-funded late-stage startup with significant
+    enterprise customers and government contracts)
+  focus: |-
+    Enterprise Generative AI platform with APIs for knowledge
+    retrieval, inference, and evaluation
+  use_cases:
+  - Knowledge retrieval APIs enabling enterprise customers to build powerful Agentic
+    workflows
+  - Inference APIs for deploying AI agents in regulated industries like healthcare,
+    telecom, finance, and retail
+  - Evaluation APIs for overseeing and monitoring AI application performance and reliability
+  - Multi-tenant AI platform supporting highly regulated enterprise customers with
+    strict compliance requirements
+  - Enterprise-grade agentic workflows requiring data isolation, security, and VPC-specific
+    deployments
+position:
+  title: Staff Infrastructure Software Engineer, Enterprise AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an infrastructure engineering role focused on
+      building the platform, tooling, and observability systems
+      that enable the deployment of Agentic workflows. The role
+      involves multi-cloud architecture, compliance, IaC, and
+      developer efficiency - supporting AI work rather than
+      building, training, or fine-tuning models directly.
+  responsibilities:
+  - Define architectural patterns for multi-cloud infrastructure to support secure,
+    reliable, and scalable Agentic workflows for enterprise customers
+  - Lead the infrastructure roadmap with focus on compliance, privacy, security standards,
+    and data isolation strategies
+  - Own development and maintenance of Agentic observability platform including logging,
+    metrics, tracing, and analytics
+  - Drive developer efficiency by building automated tooling and championing Infrastructure-as-Code
+    paradigms
+  - Solve engineering problems related to multi-tenancy, data isolation, and high-performance
+    inference at massive scale
+  use_cases:
+  - Knowledge retrieval APIs enabling enterprise customers to build powerful Agentic
+    workflows
+  - Inference APIs for deploying AI agents in regulated industries like healthcare,
+    telecom, finance, and retail
+  - Evaluation APIs for overseeing and monitoring AI application performance and reliability
+  - Multi-tenant AI platform supporting highly regulated enterprise customers with
+    strict compliance requirements
+  - Enterprise-grade agentic workflows requiring data isolation, security, and VPC-specific
+    deployments
+  skills:
+    genai: [Agents, LLMs]
+    ml: []
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [Terraform, Helm Charts, Kubernetes, CI/CD, Datadog, Prometheus, Grafana,
+      Infrastructure-as-Code]
+    languages: [Python, JavaScript, TypeScript, SQL]
+    domains: []
+    other: [Multi-tenancy, Data isolation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6934350'
+  extracted_at: '2026-02-05T10:03:00.051299'

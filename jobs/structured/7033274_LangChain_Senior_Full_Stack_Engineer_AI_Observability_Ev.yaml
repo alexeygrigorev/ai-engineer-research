@@ -1,0 +1,49 @@
+company:
+  name: LangChain
+  stage: Series B
+  focus: Agent engineering platform and open source frameworks
+  use_cases:
+  - Observability and monitoring for LLM-powered agents and applications
+  - Evaluation and testing framework for AI/ML systems
+  - Deployment and iteration tools for production LLM applications
+  - Developer tooling for building reliable intelligent agents
+position:
+  title: Senior Full Stack Engineer,  AI Observability & Evals Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Full Stack Engineer role building LangSmith, an
+      observability and evaluation platform for AI/LLM systems.
+      The role involves building infrastructure and tooling to
+      support AI development rather than directly working with
+      models - it's a platform engineering role that enables other
+      developers to build and monitor their AI agents.
+  responsibilities:
+  - Lead the technical architecture and implementation of key product features for
+    LangSmith, working across Go, Python, and Typescript stack
+  - Collaborate closely with product and design teams to iterate on new features
+  - Mentor and guide more junior members of the team while driving aggressive project
+    timelines and high engineering standards
+  - Lead by example in writing clean, maintainable, and well-tested code for the observability
+    and evals platform
+  use_cases:
+  - Observability and monitoring for LLM-powered agents and applications
+  - Evaluation and testing framework for AI/ML systems
+  - Deployment and iteration tools for production LLM applications
+  - Developer tooling for building reliable intelligent agents
+  skills:
+    genai: []
+    ml: []
+    web: [React, API design]
+    databases: [Postgres, Redis]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Go, Python, TypeScript]
+    domains: []
+    other: [system architecture]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7033274'
+  extracted_at: '2026-02-05T10:06:55.537504'

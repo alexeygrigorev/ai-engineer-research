@@ -1,0 +1,58 @@
+company:
+  name: Hatch
+  stage: Series B
+  focus: AI-driven customer service platform
+  use_cases:
+  - AI-powered customer service automation
+  - Conversational AI agents for customer engagement
+  - LLM-driven customer support systems
+  - Real-time customer service transformation
+  - Intelligent customer interaction management
+position:
+  title: Staff Software Engineer-AI Agents
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct work with LLMs including prompt
+      design, context management, structured outputs/chaining, and
+      guardrails to build conversational AI applications. The
+      engineer will be building AI agents and implementing LLM
+      best practices in production, which is hands-on AI
+      development rather than support infrastructure.
+  responsibilities:
+  - Architect and build large-scale, high-performance backend systems that power our
+    AI platform
+  - Partner with product and front-end engineers to design flexible backend systems
+    that support evolving user and business needs
+  - Design scalable, intuitive database schemas and data models that underpin the
+    platform
+  - Apply LLM best practices including prompt design, context management, structured
+    outputs/chaining, and guardrails to build reliable conversational AI applications
+  - Drive technical strategy and make long-term architectural decisions for the platform
+  - Proactively identify opportunities to improve system reliability, observability,
+    and performance
+  - Mentor and coach engineers, fostering technical excellence, ownership, and innovation
+  - Lead cross-team projects and set standards for engineering best practices
+  use_cases:
+  - AI-powered customer service automation
+  - Conversational AI agents for customer engagement
+  - LLM-driven customer support systems
+  - Real-time customer service transformation
+  - Intelligent customer interaction management
+  skills:
+    genai: [prompt design, context management, structured outputs, chaining, guardrails,
+      LLM-powered applications]
+    ml: []
+    web: []
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes, monitoring, CI/CD, observability]
+    languages: []
+    domains: []
+    other: [distributed systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7278640'
+  extracted_at: '2026-02-05T10:33:04.754627'

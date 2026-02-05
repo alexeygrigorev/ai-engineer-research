@@ -1,0 +1,49 @@
+company:
+  name: G2i
+  stage: Early-stage startup
+  focus: Enterprise AI workforce automation platform
+  use_cases:
+  - Enterprise software efficiency through AI workforce automation
+  - Cross-functional task execution by AI Agents and AI Teams
+  - Reducing tech and operational waste by 30-40% within 4-12 weeks
+  - Unified AI ecosystem replacing fragmented enterprise systems
+  - Autonomous and scalable AI workforce for business operations
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role building AI agents,
+      multi-agent systems, and LLM-powered workflows. The engineer
+      will directly architect, develop, and deploy these AI
+      systems, not just support infrastructure for them.
+  responsibilities:
+  - Architect and build AI Agent and multi-agent systems using LLMs and Python-based
+    frameworks
+  - Develop full-stack features from model orchestration to production deployment
+  - Own and shape technical direction alongside leadership with significant autonomy
+  - Ensure platform delivers instant ROI and transformative efficiency to enterprises
+  - Build next-gen AI applications at the crossroads of engineering, product, and
+    vision
+  use_cases:
+  - Enterprise software efficiency through AI workforce automation
+  - Cross-functional task execution by AI Agents and AI Teams
+  - Reducing tech and operational waste by 30-40% within 4-12 weeks
+  - Unified AI ecosystem replacing fragmented enterprise systems
+  - Autonomous and scalable AI workforce for business operations
+  skills:
+    genai: [AI agents, multi-agent systems, LLMs, RAG, prompt engineering]
+    ml: []
+    web: [full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [model orchestration, model integration, deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6952071'
+  extracted_at: '2026-02-05T10:03:37.084142'

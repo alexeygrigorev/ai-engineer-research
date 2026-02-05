@@ -1,0 +1,56 @@
+company:
+  name: Scale AI
+  stage: Series F
+  focus: AI data platform building enterprise GenAI agents
+  use_cases:
+  - AI cybersecurity firewalls for enterprise security
+  - Transformative AI experiences in journalism and media
+  - Foundation genomic models for drug protein discovery predictions
+  - Enterprise-scale AI agents with tool-calling capabilities
+  - Multimodal AI solutions across various industry domains
+position:
+  title: Applied AI Engineer, Enterprise GenAI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on building and deploying AI agents and
+      ML solutions directly for enterprise customers. The engineer
+      owns the AI behind customer problems, builds advanced AI
+      agents with multimodal functionality and tool-calling, and
+      performs data-driven experiments to improve model
+      performance. This is clearly working ON AI systems rather
+      than just supporting them.
+  responsibilities:
+  - Own, plan, and optimize AI solutions for enterprise customers' deepest technical
+    problems
+  - Build advanced AI agents with multimodal functionality and tool-calling capabilities
+    using Scale's Generative Platform
+  - Gather business requirements and translate them into technical AI/ML solutions
+  - Collaborate directly with customer teams onsite and virtually across data and
+    ML functions
+  - Write and debug production code in both customer and Scale codebases across multiple
+    environments
+  - Conduct daily data-driven experiments to analyze model strengths and improve product
+    performance
+  use_cases:
+  - AI cybersecurity firewalls for enterprise security
+  - Transformative AI experiences in journalism and media
+  - Foundation genomic models for drug protein discovery predictions
+  - Enterprise-scale AI agents with tool-calling capabilities
+  - Multimodal AI solutions across various industry domains
+  skills:
+    genai: [LLMs, Generative AI, AI agents, tool-calling, multimodal AI]
+    ml: [machine learning models]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: []
+    languages: [Python, numpy, pandas]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7125643'
+  extracted_at: '2026-02-05T10:21:31.728313'

@@ -1,0 +1,59 @@
+company:
+  name: Cornspring
+  stage: Startup
+  focus: AI-driven family office fintech platform
+  use_cases:
+  - Real-time AI-driven data intelligence for family offices and asset managers
+  - Portfolio insights and investment analysis using generative AI and LLMs
+  - Natural language interaction with complex financial and accounting data
+  - Automated analysis of structured and unstructured financial data
+  - Replacing legacy fragmented systems with AI-powered solutions
+  - Delivering faster insights and greater transparency for financial clients
+position:
+  title: Senior Software Engineer - Python, ML & AI Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on role building and deploying LLM systems
+      end-to-end. The engineer will design and implement LLM-
+      powered features, build RAG pipelines, work with
+      HuggingFace/vLLM, and optimize model inference - all core
+      AI/ML development tasks.
+  responsibilities:
+  - Design, build, and optimize scalable backend systems in Azure using Python, containers,
+    and FastAPI
+  - Take complete ownership of services from concept through deployment, monitoring,
+    and iteration
+  - Design and implement LLM-powered features using both SaaS and locally hosted models
+  - Build and evolve Retrieval-Augmented Generation (RAG) pipelines for financial
+    and accounting data
+  - Implement evaluation, testing, and monitoring processes for LLM outputs prioritizing
+    correctness, latency, and cost efficiency
+  - Optimize model selection, inference strategies, and prompting techniques for production
+    performance
+  - Contribute to engineering best practices and shape technical standards and architectural
+    decisions
+  - Mentor fellow engineers through code reviews and technical discussions
+  use_cases:
+  - Real-time AI-driven data intelligence for family offices and asset managers
+  - Portfolio insights and investment analysis using generative AI and LLMs
+  - Natural language interaction with complex financial and accounting data
+  - Automated analysis of structured and unstructured financial data
+  - Replacing legacy fragmented systems with AI-powered solutions
+  - Delivering faster insights and greater transparency for financial clients
+  skills:
+    genai: [RAG, HuggingFace, prompt engineering, LLM evaluation, model orchestration]
+    ml: []
+    web: [FastAPI]
+    databases: []
+    data: []
+    cloud: [Azure]
+    ops: [vLLM, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8001383'
+  extracted_at: '2026-02-05T11:47:06.614943'

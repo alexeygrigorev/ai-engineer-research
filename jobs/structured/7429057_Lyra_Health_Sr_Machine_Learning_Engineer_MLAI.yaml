@@ -1,0 +1,52 @@
+company:
+  name: Lyra Health
+  stage: Series C or later
+  focus: Mental health solutions platform with AI-powered care
+  use_cases:
+  - AI-powered mental health platform connecting patients with care providers
+  - RAG-based solutions for clinical decision support and care recommendations
+  - Model evaluation and testing for clinical AI applications
+  - Generative AI solutions for mental health care delivery
+  - Production ML infrastructure supporting clinical effectiveness measurement
+position:
+  title: Sr. Machine Learning Engineer (ML/AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building tooling, services, and
+      infrastructure to support ML and generative AI solutions
+      rather than directly training, fine-tuning, or deploying
+      models. The emphasis is on platforms, evaluation frameworks,
+      APIs, and deployment infrastructure that enable AI work for
+      others.
+  responsibilities:
+  - Build tooling and services that power machine learning and generative AI solutions
+    in production
+  - Develop and maintain training and inference platform services
+  - Create model evaluation metrics and testing frameworks
+  - Build services that expose machine learning and AI based products through APIs
+  - Deploy and manage applications that power various components of the AI/ML SDLC
+    process
+  - Write high-quality code daily while providing technical guidance and mentorship
+  use_cases:
+  - AI-powered mental health platform connecting patients with care providers
+  - RAG-based solutions for clinical decision support and care recommendations
+  - Model evaluation and testing for clinical AI applications
+  - Generative AI solutions for mental health care delivery
+  - Production ML infrastructure supporting clinical effectiveness measurement
+  skills:
+    genai: [RAG]
+    ml: []
+    web: [RESTful APIs, Protobuf]
+    databases: [relational databases, low-latency databases, vector databases]
+    data: [Celery]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, Java/Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7429057'
+  extracted_at: '2026-02-05T10:51:55.927042'

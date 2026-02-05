@@ -1,0 +1,77 @@
+company:
+  name: Onebrief
+  stage: Series B+
+  focus: |-
+    AI-powered collaboration software for military staffs and
+    mission planning
+  use_cases:
+  - Transform complex military requirements for planning critical operations into
+    robust production-ready systems
+  - Enable distributed human-AI collaboration at scale using multi-modal foundation
+    models
+  - Coordinate AI agents to accomplish complex operational tasks in mission-critical
+    environments
+  - Support thousands of users in regulated, offline-capable environments for military
+    operations
+  - Combine text, structured data, and domain-specific signals for orchestrated AI
+    systems
+  - Deliver grounded and reliable AI outputs for military mission planning workflows
+position:
+  title: Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building AI systems
+      including multi-agent orchestration, RAG implementation,
+      knowledge graph integration, and deploying LLMs in
+      production. The Principal AI/ML Engineer will architect and
+      implement these AI solutions directly, not just support
+      infrastructure for them.
+  responsibilities:
+  - Partner with product and domain experts to translate operational needs into technical
+    roadmaps
+  - Define system-level standards for model development, evaluation, and deployment
+    while mentoring engineers
+  - Drive long-term AI/ML architecture including agent orchestration systems coordinating
+    multiple AI agents, tools, and workflows
+  - Design and implement enterprise-scale AI infrastructure supporting retrieval,
+    generation, and multi-modal reasoning
+  - Build and scale graph-based systems for structured representation and reasoning
+    integrated with generative models
+  - Apply LLM practices like RAG and prompt engineering to deliver grounded outputs
+    for mission planning
+  - Establish evaluation frameworks and SLOs for RAG quality, agent reliability, and
+    system performance in production
+  - Collaborate with infrastructure teams to ensure high-quality data pipelines powering
+    AI applications
+  use_cases:
+  - Transform complex military requirements for planning critical operations into
+    robust production-ready systems
+  - Enable distributed human-AI collaboration at scale using multi-modal foundation
+    models
+  - Coordinate AI agents to accomplish complex operational tasks in mission-critical
+    environments
+  - Support thousands of users in regulated, offline-capable environments for military
+    operations
+  - Combine text, structured data, and domain-specific signals for orchestrated AI
+    systems
+  - Deliver grounded and reliable AI outputs for military mission planning workflows
+  skills:
+    genai: [LLMs, RAG, prompt engineering, multi-agent orchestration, multi-modal
+        foundation models, knowledge graphs]
+    ml: [model training, fine-tuning, model evaluation, NER, information retrieval,
+      relevance and ranking, NLP, model safety evaluations, red-teaming, secure ML
+        practices]
+    web: []
+    databases: []
+    data: [data governance, data pipelines]
+    cloud: [distributed systems]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7730986'
+  extracted_at: '2026-02-05T11:23:36.052121'

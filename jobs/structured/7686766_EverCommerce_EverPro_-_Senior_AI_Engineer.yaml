@@ -1,0 +1,67 @@
+company:
+  name: EverCommerce
+  stage: Public
+  focus: Service commerce SaaS platform for service economy
+  use_cases:
+  - Agentic AI platform enabling multi-agent orchestration and tool-use capabilities
+    across multiple SaaS products
+  - Model Context Protocol (MCP) server for contextual orchestration and deployment
+    into portfolio products
+  - Enterprise AI platform supporting service commerce operations in Home & Field
+    Services, Health Services, and Fitness & Wellness industries
+  - Centralized AI/ML infrastructure for model fine-tuning, evaluation, and lifecycle
+    management across company products
+position:
+  title: EverPro - Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires building, deploying, and architecting
+      agentic AI platforms with LLM-based systems, multi-agent
+      orchestration, and tool-use capabilities. The role involves
+      direct hands-on work with AI models including fine-tuning,
+      evaluation, and MLOps pipelines for production systems.
+  responsibilities:
+  - Lead the design and implementation of a scalable, secure, multi-tenant agentic
+    AI platform and MCP server infrastructure
+  - Define technical strategy, architectural blueprints, and component-level specifications
+    for shared AI services
+  - Build and maintain AI/ML Ops pipelines for model training, fine-tuning, deployment,
+    monitoring, and lifecycle management at scale
+  - Drive comparative testing and benchmarking of LLMs, agents, tools, and supporting
+    components to ensure optimal selections
+  - Lead and mentor a team of AI/ML engineers, fostering technical excellence and
+    a culture of innovation
+  - Partner with product engineering teams across the portfolio to integrate shared
+    AI platform capabilities into their products
+  - Implement enterprise-grade security, compliance, and observability for all AI
+    platform components
+  - Establish coding, testing, and documentation best practices for reusable AI tooling
+    and services
+  use_cases:
+  - Agentic AI platform enabling multi-agent orchestration and tool-use capabilities
+    across multiple SaaS products
+  - Model Context Protocol (MCP) server for contextual orchestration and deployment
+    into portfolio products
+  - Enterprise AI platform supporting service commerce operations in Home & Field
+    Services, Health Services, and Fitness & Wellness industries
+  - Centralized AI/ML infrastructure for model fine-tuning, evaluation, and lifecycle
+    management across company products
+  skills:
+    genai: [multi-agent orchestration, LLM-based systems, tool-use, safety guardrails,
+      Model Context Protocol (MCP)]
+    ml: [fine-tuning, model training, reinforcement learning, experiment management,
+      model evaluation, PyTorch, TensorFlow, Hugging Face]
+    web: [full-stack development, tRPC]
+    databases: []
+    data: []
+    cloud: [distributed systems, multi-tenant architecture]
+    ops: [CI/CD for models, model registries, monitoring, observability, model versioning]
+    languages: [Python, Node.js, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7686766'
+  extracted_at: '2026-02-05T11:20:19.284388'

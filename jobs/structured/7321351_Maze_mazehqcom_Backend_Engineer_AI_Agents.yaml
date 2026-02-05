@@ -1,0 +1,60 @@
+company:
+  name: Maze (mazehq.com)
+  stage: null
+  focus: AI-powered cybersecurity solutions using LLMs and Agents
+  use_cases:
+  - Using AI Agents to tackle major cybersecurity challenges and threats
+  - Deploying Generative AI (LLMs and Agents) to solve pressing cybersecurity issues
+  - Helping security teams leverage AI to mitigate risks and improve outcomes
+  - Building AI-powered cybersecurity solutions that integrate across the stack
+  - Creating systems that deliver breakthrough capabilities for security operations
+position:
+  title: Backend Engineer (AI Agents)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      While the role involves working with AI agents and LLMs, the
+      focus is on building backend infrastructure and systems that
+      support agentic workloads, not building or fine-tuning the
+      models themselves. The engineer designs scalable backend
+      architectures, integrates AI services into production, and
+      manages the overall system - enabling AI capabilities rather
+      than directly implementing the models/agents.
+  responsibilities:
+  - Play a pivotal role in the development and scaling of complex AI Agents for cybersecurity
+    challenges
+  - Design and implement backend systems that support agentic workloads, ensuring
+    scalability, maintainability, and security
+  - Take ownership of the entire development lifecycle from concept and design to
+    deployment and maintenance
+  - Work closely with cross-functional team members to ensure seamless integration
+    of new features and services
+  - Continuously monitor and improve application performance, security, and scalability
+  - Define and enforce coding standards, best practices, and documentation to maintain
+    high code quality
+  - Rapidly prototype and iterate on new features based on user feedback and changing
+    requirements
+  - Mentor junior engineers and lead technical discussions and code reviews as the
+    team grows
+  use_cases:
+  - Using AI Agents to tackle major cybersecurity challenges and threats
+  - Deploying Generative AI (LLMs and Agents) to solve pressing cybersecurity issues
+  - Helping security teams leverage AI to mitigate risks and improve outcomes
+  - Building AI-powered cybersecurity solutions that integrate across the stack
+  - Creating systems that deliver breakthrough capabilities for security operations
+  skills:
+    genai: [LangChain, LlamaIndex, LLM integration, AI Agents]
+    ml: [machine learning principles]
+    web: [RESTful API design, server-side frameworks]
+    databases: [database management]
+    data: []
+    cloud: [AWS, ML services]
+    ops: [DevOps, CI/CD, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: [AI systems architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7321351'
+  extracted_at: '2026-02-05T10:37:42.617327'

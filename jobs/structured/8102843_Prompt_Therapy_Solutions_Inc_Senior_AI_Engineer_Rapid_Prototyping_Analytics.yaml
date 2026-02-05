@@ -1,0 +1,65 @@
+company:
+  name: Prompt Therapy Solutions Inc
+  stage: Series A
+  focus: B2B enterprise software for rehab therapy
+  use_cases:
+  - Speech and language processing applications in healthcare
+  - Internal AI tools to improve efficiency and decision-making across Engineering,
+    Design, Sales, Marketing, Support, Finance, and Operations
+  - Product-facing AI solutions for rehab therapy businesses, their teams, and patients
+  - Automated workflows and business process automation using AI
+  - Healthcare software enhancements for physical therapy, occupational therapy, and
+    speech therapy
+  - Analytics and dashboards to track AI usage, outcomes, and ROI
+position:
+  title: Senior AI Engineer (Rapid Prototyping & Analytics )
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building end-to-end AI systems including
+      LLM-based workflows, RAG, and multi-step prompting. The
+      engineer will design, deploy, and iterate on AI solutions
+      directly, not just support infrastructure or data pipelines
+      for others.
+  responsibilities:
+  - Design, build, and deploy end-to-end AI systems across both traditional ML and
+    LLM-based workflows
+  - Lead AI projects from ideation through architecture to production and iteration
+  - Design and implement evaluation, monitoring, and observability metrics for accuracy,
+    cost, latency, and business impact
+  - Build guardrails around LLM pipelines including validation and human-in-the-loop
+    workflows
+  - Partner with stakeholders across Engineering, Design, Sales, Marketing, Support,
+    Finance, and Operations to understand workflows and deliver practical solutions
+  - Develop rapid proofs-of-concept and prototypes, then harden them into reliable
+    production systems
+  - Support both internal AI tools and product-facing AI initiatives as needed
+  - Help grow and lead the AI team, including training and development of junior team
+    members
+  use_cases:
+  - Speech and language processing applications in healthcare
+  - Internal AI tools to improve efficiency and decision-making across Engineering,
+    Design, Sales, Marketing, Support, Finance, and Operations
+  - Product-facing AI solutions for rehab therapy businesses, their teams, and patients
+  - Automated workflows and business process automation using AI
+  - Healthcare software enhancements for physical therapy, occupational therapy, and
+    speech therapy
+  - Analytics and dashboards to track AI usage, outcomes, and ROI
+  skills:
+    genai: [LLM-based systems, prompt optimization, RAG, multi-step workflows, structured
+        outputs, retrieval systems, grounding and citation strategies]
+    ml: []
+    web: [FastAPI, Streamlit, SQLAlchemy]
+    databases: [vector search, hybrid search, PostgreSQL]
+    data: [data pipelines]
+    cloud: [AWS]
+    ops: [Docker, evaluation and monitoring, offline metrics, online monitoring, regression
+        testing, cost tracking]
+    languages: [Python]
+    domains: [speech processing, NLP]
+    other: [Pydantic]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8102843'
+  extracted_at: '2026-02-05T12:01:35.681734'

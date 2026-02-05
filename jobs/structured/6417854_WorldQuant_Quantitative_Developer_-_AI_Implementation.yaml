@@ -1,0 +1,59 @@
+company:
+  name: WorldQuant
+  stage: Public
+  focus: Systematic quantitative trading and financial strategies
+  use_cases:
+  - AI-assisted insights for Portfolio Managers to analyze trading strategies more
+    efficiently
+  - Natural language interfaces to query and maintain financial strategies using LLMs
+  - Automated routine analytical tasks for strategy management and performance analysis
+  - Secure access to proprietary strategy data, PnL attribution, and risk factor analysis
+    through AI-driven tools
+position:
+  title: Quantitative Developer -  AI Implementation
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on implementation of LLM
+      systems, including prompt engineering, secure LLM
+      interactions, and developing Model Context Protocol (MCP)
+      servers that form the backbone of an AI-driven platform. The
+      engineer is building infrastructure and tools to enable LLM-
+      based applications for trading strategy analysis, not just
+      supporting existing AI work.
+  responsibilities:
+  - Design, develop, test, and deploy robust and scalable MCP servers and related
+    tools in Python
+  - Enhance existing MCPs to ensure reliable access to strategy metadata, historical
+    PnL data, and PnL attribution by risk factors
+  - Develop new MCPs for direct data system integration, strategy analytics, and performance
+    reporting
+  - Design and implement secure prompt engineering techniques to interact with LLMs
+    while protecting intellectual property
+  - Work on API development and integration ensuring seamless data flow between internal
+    systems and data warehouses
+  - Implement data parsing and manipulation logic for various formats and contribute
+    to data pipelines for strategy metrics
+  use_cases:
+  - AI-assisted insights for Portfolio Managers to analyze trading strategies more
+    efficiently
+  - Natural language interfaces to query and maintain financial strategies using LLMs
+  - Automated routine analytical tasks for strategy management and performance analysis
+  - Secure access to proprietary strategy data, PnL attribution, and risk factor analysis
+    through AI-driven tools
+  skills:
+    genai: [prompt engineering, LLMs, Model Context Protocol (MCP)]
+    ml: []
+    web: [API development, API integration]
+    databases: [database interaction]
+    data: [data modeling, pandas, JSON, CSV]
+    cloud: []
+    ops: [Linux, CLI tools, Git]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6417854'
+  extracted_at: '2026-02-05T09:44:37.351850'

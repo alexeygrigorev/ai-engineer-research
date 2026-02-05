@@ -1,0 +1,59 @@
+company:
+  name: TLDR
+  stage: Bootstrapped and profitable startup
+  focus: Tech newsletter network with 7M subscribers
+  use_cases:
+  - CRM analysis and proposal generation for sales workflows
+  - Knowledge base search and competitive research automation
+  - Lead enrichment and content research through autonomous agents
+  - Data hygiene and reporting without human intervention
+  - Internal tooling for non-technical teammates to create AI workflows
+  - Marketing and operations task automation using autonomous agents
+position:
+  title: Senior Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building production AI agents, designing
+      Claude Skills, and implementing autonomous systems that
+      handle real business workflows. The engineer will directly
+      work on AI components including prompt engineering, context
+      management, and LLM APIs, rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Build and implement modular Claude Skills that connect to core systems like HubSpot,
+    Google Drive, Slack, and Sponsy
+  - Design clean abstractions enabling non-technical users to compose AI primitives
+    into workflows without writing code
+  - Ship autonomous AI agents using workflow automation platforms like n8n to handle
+    sales, marketing, and operations tasks
+  - Establish and maintain AI development infrastructure including tooling, templates,
+    patterns, and documentation
+  - Design composable interfaces between AI components where outputs from one tool
+    become inputs to another
+  - Create a production-ready Skills Library covering CRM analysis, proposal generation,
+    knowledge base search, and competitive research
+  use_cases:
+  - CRM analysis and proposal generation for sales workflows
+  - Knowledge base search and competitive research automation
+  - Lead enrichment and content research through autonomous agents
+  - Data hygiene and reporting without human intervention
+  - Internal tooling for non-technical teammates to create AI workflows
+  - Marketing and operations task automation using autonomous agents
+  skills:
+    genai: [Claude Skills, Claude Code, prompt engineering, context management, LLM
+        APIs, AI-assisted coding tools, structured outputs, autonomous agents]
+    ml: []
+    web: [HubSpot, Google Drive, Slack]
+    databases: []
+    data: [n8n, workflow automation]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8004295'
+  extracted_at: '2026-02-05T11:47:13.778649'

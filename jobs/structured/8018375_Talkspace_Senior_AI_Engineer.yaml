@@ -1,0 +1,64 @@
+company:
+  name: Talkspace
+  stage: Public
+  focus: Online therapy and mental healthcare platform
+  use_cases:
+  - Autonomous AI agents providing behavioral health interventions and therapy support
+  - Multi-agent systems using LLMs for reasoning, planning, and goal-setting in mental
+    health contexts
+  - Adaptive intervention strategies that optimize interaction sequencing, timing,
+    and content to maximize positive user outcomes
+  - Simulated environments for testing and pre-training agent policies across psychological
+    scenarios
+  - Real-time monitoring and evaluation of agent behavior for safety compliance and
+    therapeutic alignment
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on role building autonomous AI agents and
+      multi-agent systems directly using LLMs for reasoning,
+      planning, and RAG. The role involves fine-tuning models,
+      implementing agent architectures, and deploying AI systems
+      in production.
+  responsibilities:
+  - Design and implement technical architecture for autonomous AI agents including
+    planning modules, memory/retrieval systems, and tool-use orchestration
+  - Apply reinforcement learning and inverse RL methods to develop adaptive, long-term
+    intervention strategies that maximize positive user outcomes while minimizing
+    risk
+  - Select, fine-tune, and deploy foundation models (LLMs) to power agent reasoning,
+    natural language understanding, and empathetic communication
+  - Develop models for human-agent interaction incorporating principles from cognitive
+    science and behavioral economics
+  - Construct robust simulation environments for pre-training and testing agent policies
+    across psychological and behavioral scenarios
+  - Design and implement comprehensive evaluation pipelines including trace-level
+    analysis, offline evaluation, real-time monitoring for behavioral drift, and guardrails
+  use_cases:
+  - Autonomous AI agents providing behavioral health interventions and therapy support
+  - Multi-agent systems using LLMs for reasoning, planning, and goal-setting in mental
+    health contexts
+  - Adaptive intervention strategies that optimize interaction sequencing, timing,
+    and content to maximize positive user outcomes
+  - Simulated environments for testing and pre-training agent policies across psychological
+    scenarios
+  - Real-time monitoring and evaluation of agent behavior for safety compliance and
+    therapeutic alignment
+  skills:
+    genai: [LLMs, prompt engineering, RAG, agents, multi-agent systems]
+    ml: [Reinforcement Learning, Inverse RL, fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, Kubernetes, CI/CD, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8018375'
+  extracted_at: '2026-02-05T11:48:48.588484'

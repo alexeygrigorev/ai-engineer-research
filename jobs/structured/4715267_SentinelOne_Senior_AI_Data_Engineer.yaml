@@ -1,0 +1,56 @@
+company:
+  name: SentinelOne
+  stage: Public
+  focus: AI-powered cybersecurity platform and threat detection
+  use_cases:
+  - AI-powered cybersecurity threat detection and analysis
+  - Alert summarization to help security defenders quickly understand incidents
+  - Classification of security events, malware, and threat types
+  - Automated reasoning over security context for threat intelligence
+  - Fine-tuning AI models with curated cybersecurity datasets for improved accuracy
+position:
+  title: Senior AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building and maintaining datasets
+      that power AI models rather than directly building,
+      training, or deploying models. The responsibilities
+      emphasize data collection, cleaning, labeling, and pipeline
+      development to support AI/ML teams, which is characteristic
+      of an ai-support role.
+  responsibilities:
+  - Build and maintain datasets that power training, fine-tuning, and prompting of
+    AI models for cybersecurity applications
+  - Explore and curate structured and unstructured security data (logs, malware, alerts,
+    incidents) to improve model relevance and effectiveness
+  - Develop pipelines for data collection, cleaning, labeling, and versioning
+  - Collaborate with researchers and engineers to define data requirements and ensure
+    relevance to cybersecurity problems
+  - Contribute to evaluation design and automation to ensure continuous improvement
+    of AI systems
+  - Drive data quality and coverage for use cases like summarization, classification,
+    detection, and reasoning over security context
+  use_cases:
+  - AI-powered cybersecurity threat detection and analysis
+  - Alert summarization to help security defenders quickly understand incidents
+  - Classification of security events, malware, and threat types
+  - Automated reasoning over security context for threat intelligence
+  - Fine-tuning AI models with curated cybersecurity datasets for improved accuracy
+  skills:
+    genai: [LLMs, generative AI models]
+    ml: []
+    web: []
+    databases: []
+    data: [pandas, numpy, PySpark, data labeling strategies, data versioning, pipeline
+        automation, Airflow, data pipelines]
+    cloud: [cloud platforms]
+    ops: [MLflow, Weights & Biases, Kubernetes, IaC]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '4715267'
+  extracted_at: '2026-02-05T09:40:42.600846'

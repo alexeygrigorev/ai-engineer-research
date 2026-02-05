@@ -1,0 +1,60 @@
+company:
+  name: Fusemachines
+  stage: Series B+
+  focus: Enterprise AI products and services
+  use_cases:
+  - Customer service automation bots and phone routing systems
+  - Voice agents for customer interaction automation
+  - Multi-step AI agent workflows that autonomously call tools and APIs
+  - Customer support queue automation with intelligent triage
+  - Enterprise workflow automation using LLM-driven decision making
+  - Agent-driven workflows for operational efficiency and cost reduction
+position:
+  title: Applied AI Engineer (AI Automation)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI
+      agents, LLM workflows, RAG pipelines, and automation
+      solutions. The engineer designs end-to-end AI systems using
+      OpenAI APIs, vector databases, LangGraph, and agent
+      frameworks - directly implementing model-driven solutions
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Design, develop, and deploy tailored AI and automation solutions based on client-specific
+    needs and objectives
+  - Translate ambiguous business problems into scalable, end-to-end AI workflows using
+    Python, n8n, OpenAI APIs, and vector databases
+  - Build full end-to-end AI automations, including triggers, LLM logic, API calls,
+    data storage, error handling, monitoring, and iteration
+  - Design and deploy AI agent systems, including multi-step workflows that call tools,
+    interact with APIs, and operate autonomously
+  - Integrate with third-party AI tools and platforms to solve real-world problems
+    such as customer service queues, phone routing systems, voice agents, and agent-driven
+    workflows
+  - Act as a technical partner for retainer clients, owning solution delivery, refinement,
+    and ongoing maintenance
+  use_cases:
+  - Customer service automation bots and phone routing systems
+  - Voice agents for customer interaction automation
+  - Multi-step AI agent workflows that autonomously call tools and APIs
+  - Customer support queue automation with intelligent triage
+  - Enterprise workflow automation using LLM-driven decision making
+  - Agent-driven workflows for operational efficiency and cost reduction
+  skills:
+    genai: [OpenAI APIs, Anthropic APIs, prompt engineering, RAG, agents, LangGraph,
+      LlamaIndex, MCP, OpenAI Assistants API]
+    ml: [embeddings]
+    web: []
+    databases: [vector databases]
+    data: [n8n, Make, Zapier]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8165487'
+  extracted_at: '2026-02-05T12:07:24.155979'

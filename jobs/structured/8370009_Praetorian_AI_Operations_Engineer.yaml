@@ -1,0 +1,62 @@
+company:
+  name: Praetorian
+  stage: null
+  focus: Offensive security and breach prevention
+  use_cases:
+  - Self-service automation replacing manual support tickets with agentic resolution
+  - AI-driven CLI and IDE integration (Claude Code, Cursor, Codex) into engineering
+    workflows
+  - Automated SaaS integrations across business tools through API orchestration
+  - Invisible IT operations with automated access provisioning and hardware management
+  - Offensive security tooling support for penetration testing and adversarial simulations
+  - Internal knowledge base powered by RAG for streamlined operations
+position:
+  title: AI Operations Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying AI
+      systems, including RAG pipelines, agentic workflows, and
+      model orchestration with frontier models. The engineer will
+      directly implement AI-native infrastructure and develop AI-
+      driven solutions, not just support them.
+  responsibilities:
+  - Lead the deployment of Generative AI infrastructure for self-service automation
+    and agentic resolution
+  - Build RAG systems and agentic workflows integrated with internal knowledge bases
+  - Orchestrate frontier and open-source models using LiteLLM, AWS Bedrock, and n8n
+  - Design and maintain Infrastructure as Code using Terraform, Pulumi, or similar
+    tools
+  - Implement Zero-Trust networking and secure build pipelines in partnership with
+    Red Teams
+  - Architect and automate Identity Access Management (IAM) stacks including Okta
+    and SSO
+  - Integrate core SaaS stack tools (Salesforce, HubSpot, Linear, Notion) through
+    API automation
+  - Support HPC and specialized networking environments for penetration testing
+  use_cases:
+  - Self-service automation replacing manual support tickets with agentic resolution
+  - AI-driven CLI and IDE integration (Claude Code, Cursor, Codex) into engineering
+    workflows
+  - Automated SaaS integrations across business tools through API orchestration
+  - Invisible IT operations with automated access provisioning and hardware management
+  - Offensive security tooling support for penetration testing and adversarial simulations
+  - Internal knowledge base powered by RAG for streamlined operations
+  skills:
+    genai: [RAG, agents, LangChain, CrewAI, AutoGen, OpenAI SDK, LiteLLM, Claude,
+      Claude Code, Gemini, OpenAI, DeepSeek, Qwen, Cursor, Codex, n8n]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, AWS Bedrock, GCP, Azure, serverless]
+    ops: [Terraform, Pulumi, Kubernetes, CI/CD, Okta, SSO, Zero-Trust networking,
+      IaC]
+    languages: [Python, Go]
+    domains: []
+    other: [Salesforce, HubSpot, Linear, Notion, Google Workspace, Pave, MDM, Munki]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8370009'
+  extracted_at: '2026-02-05T13:00:20.166783'

@@ -1,0 +1,67 @@
+company:
+  name: Amplitude
+  stage: Public
+  focus: |-
+    AI-powered digital analytics platform for product
+    development
+  use_cases:
+  - AI model performance testing and measurement for product teams
+  - Feature experimentation and A/B testing for AI-powered products
+  - LLM analytics to track and evaluate large language model outputs in production
+  - Feature flags and gradual rollouts for AI features to test models on small cohorts
+  - Data-driven product development enabling PMs to validate hypotheses without engineering
+    dependencies
+  - Real-time user behavior and business outcome measurement for AI product optimization
+position:
+  title: Senior Product Marketing Manager; AI & Product Developer Marketing
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Product Marketing Manager role focused on go-to-
+      market strategy, positioning, and marketing content for
+      Amplitude's AI analytics platform. While the role requires
+      technical fluency with AI product development workflows and
+      LLM analytics, it does not involve building, training, fine-
+      tuning, or deploying AI models directly. The role exists to
+      market and position AI/analytics products that other teams
+      build.
+  responsibilities:
+  - Shape the narrative for product development in the AI era by articulating why
+    analytics becomes critical as AI accelerates building speed
+  - Develop messaging that resonates with Product Managers while demonstrating technical
+    depth to earn credibility with Engineering partners
+  - Drive adoption by leading launches for experimentation, feature management, and
+    LLM analytics capabilities focused on PM workflows
+  - Build enablement programs for sales and customer success teams on experimentation
+    culture and AI-readiness
+  - Create compelling product stories and case studies with customer evidence showcasing
+    how experimentation enables product velocity
+  - Position Amplitude's unique value for product teams by differentiating from developer-first
+    tools
+  - Partner with product teams to shape roadmap based on how modern product teams
+    want to work with AI tools
+  use_cases:
+  - AI model performance testing and measurement for product teams
+  - Feature experimentation and A/B testing for AI-powered products
+  - LLM analytics to track and evaluate large language model outputs in production
+  - Feature flags and gradual rollouts for AI features to test models on small cohorts
+  - Data-driven product development enabling PMs to validate hypotheses without engineering
+    dependencies
+  - Real-time user behavior and business outcome measurement for AI product optimization
+  skills:
+    genai: [LLM Analytics, AI Tools]
+    ml: [A/B Testing, Hypothesis Testing]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [Product Marketing, Go-to-market Strategy, Feature Flags, Product Analytics,
+      Cross-functional Leadership, Storytelling, B2B SaaS Marketing]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7729729'
+  extracted_at: '2026-02-05T11:22:50.517202'

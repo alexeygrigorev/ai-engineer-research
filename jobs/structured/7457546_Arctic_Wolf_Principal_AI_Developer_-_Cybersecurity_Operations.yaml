@@ -1,0 +1,68 @@
+company:
+  name: Arctic Wolf
+  stage: Public
+  focus: Cybersecurity operations and managed detection and response
+  use_cases:
+  - Automate threat detection, investigation, and response processes using AI-powered
+    workflows
+  - Collate and analyze security operations process data from diverse telemetry sources
+  - Integrate knowledge graphs with agentic workflows for structured reasoning in
+    security operations
+  - Measure and guarantee quality of AI outputs across global security operations
+    teams
+  - Enable automated security operations through fine-tuned generative AI and ML models
+  - Support adversarial behavior modeling and threat detection using intelligent systems
+position:
+  title: Principal AI Developer - Cybersecurity Operations
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, fine-tuning, and deploying
+      Generative AI models and agentic workflows. The developer
+      will directly work with LLMs, agents, model training, and
+      inference systems - not just supporting infrastructure for
+      AI work.
+  responsibilities:
+  - Architect and lead the development of agentic workflows and fine-tuned models
+    for the automation of security operations processes
+  - Establish ML and data pipelines for the training and deployment of fine-tuned
+    generative AI and machine learning models
+  - Design scalable systems to unify and correlate data across heterogeneous sources
+    using rule-based, probabilistic, and ML-based approaches
+  - Work with security operations teams to measure, monitor, and evaluate AI quality
+    and iteratively improve
+  - Define best practices for building secure, observable, and scalable AI systems
+    in cloud-native environments
+  - Guide the evolution of AI strategy, influencing product roadmaps and technical
+    direction
+  - Mentor senior engineers and foster a culture of innovation and excellence across
+    teams
+  - Stay ahead of emerging trends in entity resolution, knowledge graphs, and agentic
+    AI
+  use_cases:
+  - Automate threat detection, investigation, and response processes using AI-powered
+    workflows
+  - Collate and analyze security operations process data from diverse telemetry sources
+  - Integrate knowledge graphs with agentic workflows for structured reasoning in
+    security operations
+  - Measure and guarantee quality of AI outputs across global security operations
+    teams
+  - Enable automated security operations through fine-tuned generative AI and ML models
+  - Support adversarial behavior modeling and threat detection using intelligent systems
+  skills:
+    genai: [LangChain, AgentCore, agentic frameworks, LLM integration, fine-tuning,
+      prompt engineering, agents, LLM-as-judge, knowledge graphs]
+    ml: []
+    web: [GraphQL]
+    databases: [Neo4j, Neptune, RDF/SPARQL]
+    data: [Spark, Flink, Kafka, Databricks, data pipelines]
+    cloud: [Amazon Bedrock, AWS]
+    ops: [infrastructure-as-code, CI/CD, DevSecOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7457546'
+  extracted_at: '2026-02-05T10:55:03.617205'

@@ -1,0 +1,56 @@
+company:
+  name: Vatic Labs
+  stage: null
+  focus: AI-driven trading and research platforms
+  use_cases:
+  - AI-powered trading systems and platforms
+  - Research-driven analysis and evaluation of foundational models
+  - Multimodal AI applications combining language, vision, and structured data for
+    trading insights
+  - Large-scale ML model training and evaluation for financial markets
+  - High-performance frameworks for ML research and deployment
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves direct work with foundational models
+      including training, evaluation, and innovation of large
+      language/vision models. The role requires hands-on
+      experience with multi-GPU model training and developing
+      frameworks for ML platforms, which is building ON AI systems
+      rather than supporting them.
+  responsibilities:
+  - Design and develop cutting-edge frameworks that serve as future tools for innovative
+    platforms and systems driving trading and research efforts using foundational
+    models
+  - Collaborate closely with researchers and engineers to ensure framework compatibility
+    with recent cloud platforms, popular ML frameworks, libraries, and modern model
+    architectures
+  - Define and run large-scale experiments contributing to rigorous evaluation and
+    in-depth model analysis
+  - Train, evaluate, and innovate on foundational models across various data modalities
+    including language, vision, multimodal, and structured data
+  use_cases:
+  - AI-powered trading systems and platforms
+  - Research-driven analysis and evaluation of foundational models
+  - Multimodal AI applications combining language, vision, and structured data for
+    trading insights
+  - Large-scale ML model training and evaluation for financial markets
+  - High-performance frameworks for ML research and deployment
+  skills:
+    genai: [generative AI]
+    ml: [machine learning, deep learning, multi-GPU training, CUDA, ML frameworks]
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud platforms]
+    ops: [Linux, parallel computing, performance tuning, high performance software]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3995843'
+  extracted_at: '2026-02-05T09:37:29.329635'

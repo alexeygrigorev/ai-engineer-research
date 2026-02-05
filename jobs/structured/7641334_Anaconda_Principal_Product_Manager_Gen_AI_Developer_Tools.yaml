@@ -1,0 +1,70 @@
+company:
+  name: Anaconda
+  stage: Series B
+  focus: Enterprise Python data science and AI platform
+  use_cases:
+  - AI-assisted Python coding and development workflows using tools like Cursor, GitHub
+    Copilot, and Claude
+  - Agentic environment management and package management for AI development
+  - Enterprise-grade AI infrastructure with security and compliance for regulated
+    industries (finance, healthcare, government)
+  - Integration between AI coding tools and package management platforms via MCP (Model
+    Context Protocol)
+  - Seamless AI-to-Anaconda workflows enabling developers to build and deploy AI applications
+position:
+  title: Principal Product Manager, Gen AI Developer Tools
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Product Manager role focused on building developer
+      tools, infrastructure, and platforms that support AI
+      workflows (MCP servers, APIs, SDKs, integration with AI
+      IDEs). The role does not involve hands-on work building,
+      training, fine-tuning, or deploying AI models - rather, it
+      enables developers who build with AI by creating the tooling
+      and integration layers around Anaconda's package management
+      platform.
+  responsibilities:
+  - Lead product strategy and roadmap for Agentic Environment & Package Management
+    initiatives, including MCP server development and AI tool integrations
+  - Conduct strategic research with enterprise customers, AI tool vendors, and the
+    open-source community to identify critical integration points and partnership
+    opportunities
+  - Drive the development and launch of tools and agents that improve the quality
+    of Python vibe-coding
+  - Support strategic partnerships with top AI-enabled IDEs (Cursor, VS Code, Windsurf,
+    etc.) to ensure Anaconda integration becomes the default choice
+  - Collaborate with engineering teams to build robust APIs, SDKs, and developer tools
+    that enable seamless AI-to-Anaconda workflows
+  - Work closely with enterprise customers in regulated industries to ensure AI infrastructure
+    meets security and compliance requirements
+  - Partner with marketing and developer relations to drive adoption among Python
+    developers globally
+  - Measure and optimize key metrics including developer adoption, enterprise package
+    downloads, and AI tool integration usage
+  use_cases:
+  - AI-assisted Python coding and development workflows using tools like Cursor, GitHub
+    Copilot, and Claude
+  - Agentic environment management and package management for AI development
+  - Enterprise-grade AI infrastructure with security and compliance for regulated
+    industries (finance, healthcare, government)
+  - Integration between AI coding tools and package management platforms via MCP (Model
+    Context Protocol)
+  - Seamless AI-to-Anaconda workflows enabling developers to build and deploy AI applications
+  skills:
+    genai: [MCP (Model Context Protocol), A2A protocol, agentic systems, AI-to-application
+        integration, Cursor, GitHub Copilot, Claude, Windsurf]
+    ml: []
+    web: [API design, SDK development]
+    databases: []
+    data: []
+    cloud: [enterprise security and compliance]
+    ops: [package management, system architecture]
+    languages: [Python]
+    domains: []
+    other: [VS Code, developer tools, open-source community, strategic partnerships]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7641334'
+  extracted_at: '2026-02-05T11:16:52.387569'

@@ -1,0 +1,54 @@
+company:
+  name: Blooming Health
+  stage: venture-backed
+  focus: Health tech platform for social care navigation
+  use_cases:
+  - LLM-driven conversational workflows for healthcare resource navigation
+  - AI agent systems that help people access social care resources
+  - Intelligent platform enabling CBOs, health systems, and health plans to deliver
+    equitable care
+  - Patient/member engagement through conversational AI interfaces
+  - Social care resource discovery and navigation using AI
+position:
+  title: Senior AI Engineer, Conversational AI & Agentic Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is directly building AI/LLM systems including
+      agents, orchestration layers, prompt engineering, and
+      conversational AI workflows. The engineer will design and
+      implement multi-agent systems, handle function calling, and
+      build the core AI platform that powers the company's LLM-
+      driven experiences.
+  responsibilities:
+  - Design AI orchestration patterns including agent handoffs, state flows, and uncertainty
+    handling
+  - Build and maintain AI orchestration layer with engines and agent workflows
+  - Evaluate tradeoffs in prompt design, tool architecture, and conversation flow
+  - Design data pipelines to capture and transform patient/member interaction insights
+  - Write production-ready Python code including APIs and orchestration services
+  - Collaborate on technical direction for novel AI system development
+  use_cases:
+  - LLM-driven conversational workflows for healthcare resource navigation
+  - AI agent systems that help people access social care resources
+  - Intelligent platform enabling CBOs, health systems, and health plans to deliver
+    equitable care
+  - Patient/member engagement through conversational AI interfaces
+  - Social care resource discovery and navigation using AI
+  skills:
+    genai: [OpenAI API, Anthropic API, prompt engineering, conversational AI, agents,
+      multi-agent systems, RAG, embeddings, function calling, voice AI]
+    ml: []
+    web: [httpx]
+    databases: [PostgreSQL]
+    data: [ETL, Kafka, Airflow, Prefect, Dagster, dbt]
+    cloud: [GCP, AWS]
+    ops: [Docker, Kubernetes]
+    languages: [Python, asyncio, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7937097'
+  extracted_at: '2026-02-05T11:43:01.771586'

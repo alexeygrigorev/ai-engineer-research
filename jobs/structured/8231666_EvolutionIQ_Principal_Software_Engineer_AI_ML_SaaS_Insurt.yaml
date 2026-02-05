@@ -1,0 +1,67 @@
+company:
+  name: EvolutionIQ
+  stage: Growth stage
+  focus: AI-powered insurance claims management platform
+  use_cases:
+  - Process tens of millions of medical documents and unstructured data streams including
+    OCR and phone call transcriptions
+  - Transform raw insurance claims data into actionable insights using EvolutionGPT
+    platform and LLMs
+  - Enable insurance claims teams to make claims handling more accurate, fair, and
+    efficient
+  - Support Disability and Workers Compensation insurance lines with data science-driven
+    claims guidance
+  - Analyze large unstructured datasets that have never been used for data science
+    in the insurance industry
+position:
+  title: Principal Software Engineer (AI + ML SaaS / Insurtech)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Principal Software Engineer role focused on
+      building platform infrastructure (data pipelines, API
+      platforms, user-facing applications) that supports AI/ML
+      systems rather than directly building, training, or fine-
+      tuning models. While the role integrates LLMs and processes
+      unstructured data for the platform, the work is
+      architectural and systems-focused on enabling data science
+      and ML teams rather than hands-on model development.
+  responsibilities:
+  - 'Architect and deliver version 2 of AI claims management platform with three foundational
+    systems: Data Ingestion/Pipeline, API Platform, and User facing application'
+  - Design and implement scalable systems that handle tens of millions of documents
+    daily including unstructured data streams like OCR and phone call transcriptions
+  - Provide strategic technical guidance across the engineering organization and transform
+    the 100+ person engineering team
+  - Mentor junior engineers and foster a culture of technical excellence and innovation
+  - Collaborate with leadership including CTO and VPs to align technical strategy
+    and deliver impactful solutions
+  - Enable rapid product deployment through modular, configuration-based designs that
+    allow two-week product launch cycles
+  use_cases:
+  - Process tens of millions of medical documents and unstructured data streams including
+    OCR and phone call transcriptions
+  - Transform raw insurance claims data into actionable insights using EvolutionGPT
+    platform and LLMs
+  - Enable insurance claims teams to make claims handling more accurate, fair, and
+    efficient
+  - Support Disability and Workers Compensation insurance lines with data science-driven
+    claims guidance
+  - Analyze large unstructured datasets that have never been used for data science
+    in the insurance industry
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [API design, Multi-tenant architecture]
+    databases: [Postgres, Relational database design]
+    data: [Data pipelines, ETL, Unstructured data processing]
+    cloud: [AWS, GCP, Azure, Large-scale system architecture, Cloud architecture]
+    ops: [Docker, Kubernetes, CI/CD]
+    languages: [Python]
+    domains: [OCR]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8231666'
+  extracted_at: '2026-02-05T12:16:55.021441'

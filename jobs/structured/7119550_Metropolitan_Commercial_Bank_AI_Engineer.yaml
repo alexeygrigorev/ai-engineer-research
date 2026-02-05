@@ -1,0 +1,65 @@
+company:
+  name: Metropolitan Commercial Bank
+  stage: Public
+  focus: Full-service commercial banking
+  use_cases:
+  - Generative AI systems for banking operations and customer services
+  - Personalization engines for tailored banking experiences and recommendations
+  - Automation tools for streamlining banking processes and workflows
+  - Fraud detection and risk assessment using AI/ML models
+  - AML (Anti-Money Laundering) compliance and monitoring systems
+  - Commercial/treasury analytics for business banking decisions
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on work building and deploying LLM-
+      based applications using RAG, prompt engineering, vector
+      databases, and fine-tuning models. The engineer directly
+      constructs production AI systems including generative AI
+      systems, agent-based architectures, and model serving
+      infrastructure, not just supporting infrastructure for
+      others.
+  responsibilities:
+  - Establish and enforce architecture standards for production AI systems, including
+    data pipelines, model serving infrastructure, and real-time inference services
+  - Implement AIOps/MLOps pipelines for CI/CD of ML models, model governance, monitoring,
+    and lifecycle management
+  - Build and deploy LLM-based applications using RAG, prompt engineering, vector
+    databases, and agent-based architectures
+  - Design and maintain scalable software applications with integrated AI/ML capabilities
+    using Snowflake as the primary ML platform
+  - Partner with cross-functional teams to operationalize AI algorithms and coordinate
+    between research and engineering teams
+  - Optimize model serving for performance and scale using techniques like model compression,
+    caching, and hardware acceleration
+  - Build end-to-end AI solutions from front-end (React) to back-end APIs (Flask,
+    FastAPI, Node.js)
+  - Implement monitoring, alerting, and SRE principles to ensure AI system reliability
+    and detect model degradation
+  use_cases:
+  - Generative AI systems for banking operations and customer services
+  - Personalization engines for tailored banking experiences and recommendations
+  - Automation tools for streamlining banking processes and workflows
+  - Fraud detection and risk assessment using AI/ML models
+  - AML (Anti-Money Laundering) compliance and monitoring systems
+  - Commercial/treasury analytics for business banking decisions
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, prompt engineering, agent-based architectures,
+      embeddings, vector search]
+    ml: [fine-tuning, PyTorch, TensorFlow, Keras, scikit-learn]
+    web: [React, Flask, FastAPI, Node.js]
+    databases: [vector databases, Snowflake]
+    data: [Snowpark Python, Spark, PySpark, ETL]
+    cloud: [CloudFormation, AWS, GCP, Azure]
+    ops: [LLMOps, Docker, Kubernetes, Terraform, CI/CD, Prometheus, Grafana, MLflow,
+      SRE, model monitoring]
+    languages: [Python, Java, C, C++, Go, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7119550'
+  extracted_at: '2026-02-05T10:19:19.838897'

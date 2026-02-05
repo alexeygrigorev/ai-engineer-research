@@ -1,0 +1,65 @@
+company:
+  name: Elixirr
+  stage: null
+  focus: AI consulting and platforms for enterprise transformation
+  use_cases:
+  - Underwriting agents that empower financial professionals and streamline insurance
+    processes
+  - Knowledge agents that optimize customer workflows across banking, insurance, and
+    consumer goods
+  - Airport assistants and field support tools for telecommunications workers
+  - Pharmacy workflow optimizers to enhance healthcare operations
+  - Customer due diligence systems for banking and financial services
+  - Various enterprise NLP applications from knowledge management to automated decision
+    support
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building, deploying, and
+      optimizing LLM-based agentic solutions using frameworks like
+      LangChain, AutoGen, Crew.ai, and Swarm. The engineer
+      directly works on model systems from research and
+      prototyping through deployment and monitoring, not just
+      supporting infrastructure.
+  responsibilities:
+  - Architect, design, and develop advanced AI systems with a focus on LLMs and agentic
+    solutions that transform enterprise workflows
+  - Work cross-functionally with experts to deliver AI-driven innovations and mentor
+    Junior Engineers
+  - Drive innovation through internal R&D projects and enterprise-level solutions,
+    building and optimizing tools for internal and client use
+  - Develop and maintain production-ready AI solutions, ensuring scalability, performance,
+    and reliability
+  - Own and contribute to the entire AI development life cycle from research and prototyping
+    to deployment and monitoring
+  - Deliver tangible outcomes for global enterprises through solutions like underwriting
+    agents, airport assistants, pharmacy workflow optimizers, and customer due diligence
+    systems
+  use_cases:
+  - Underwriting agents that empower financial professionals and streamline insurance
+    processes
+  - Knowledge agents that optimize customer workflows across banking, insurance, and
+    consumer goods
+  - Airport assistants and field support tools for telecommunications workers
+  - Pharmacy workflow optimizers to enhance healthcare operations
+  - Customer due diligence systems for banking and financial services
+  - Various enterprise NLP applications from knowledge management to automated decision
+    support
+  skills:
+    genai: [LangChain, AutoGen, CrewAI, Swarm, LLMs, agents]
+    ml: [fine-tuning, deep learning, reinforcement learning, model development]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8199865'
+  extracted_at: '2026-02-05T12:12:52.025240'

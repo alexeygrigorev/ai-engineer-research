@@ -1,0 +1,63 @@
+company:
+  name: Mogul & Co
+  stage: Series B
+  focus: Media intelligence and predictive analytics platform
+  use_cases:
+  - Media intelligence and analytics for predicting advertising ROI and revenue growth
+  - Predictive forecasting and forward-looking analysis to see weeks or months into
+    the future
+  - Multi-source data integration and real-time processing for media acquisition decisions
+  - Causal modeling and statistical analysis to understand media spend impact on business
+    outcomes
+  - Automated workflows and data-driven decision support for media investment optimization
+position:
+  title: AI/ML Full Stack Engineer (Mid Level)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on implementation, deployment, and
+      maintenance of ML models including forecasting, regression,
+      classification, and ensemble methods. Additionally, the role
+      requires working with modern AI approaches including LLMs,
+      embeddings, and vector databases, indicating direct work on
+      AI systems rather than just supporting infrastructure.
+  responsibilities:
+  - Design, build, and maintain full-stack applications that deliver predictive insights
+    through scalable, user-facing interfaces
+  - Develop and maintain automated data pipelines for ingesting, processing, and transforming
+    large-scale structured and unstructured data
+  - Implement, deploy, and maintain machine learning models including forecasting,
+    regression, classification, and ensemble methods
+  - Build and maintain backend services, APIs, and integrations that support analytics
+    and modeling workflows
+  - Work with modern AI approaches, including large language models, to support automation
+    and data-driven workflows
+  - Optimize system performance, reliability, and scalability across data pipelines
+    and ML services
+  - Support experimentation, testing, and validation of models and analytical outputs
+  - Contribute to best practices for code quality, monitoring, and operational stability
+    of production ML systems
+  use_cases:
+  - Media intelligence and analytics for predicting advertising ROI and revenue growth
+  - Predictive forecasting and forward-looking analysis to see weeks or months into
+    the future
+  - Multi-source data integration and real-time processing for media acquisition decisions
+  - Causal modeling and statistical analysis to understand media spend impact on business
+    outcomes
+  - Automated workflows and data-driven decision support for media investment optimization
+  skills:
+    genai: [Large Language Models, Embeddings, RAG (Retrieval-Augmented Generation)]
+    ml: [PyTorch, TensorFlow, JAX]
+    web: [React, REST APIs, GraphQL]
+    databases: [Vector Databases]
+    data: [Airflow, Dagster, dbt]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, CI/CD, Monitoring]
+    languages: [Python, TypeScript, JavaScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8088317'
+  extracted_at: '2026-02-05T12:00:01.698627'

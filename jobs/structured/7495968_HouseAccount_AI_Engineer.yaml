@@ -1,0 +1,66 @@
+company:
+  name: HouseAccount
+  stage: Seed
+  focus: Modern home services platform with AI-powered automation
+  use_cases:
+  - Match homeowners to trusted local service providers using AI-powered matching
+    systems
+  - Automate repetitive workflows and convert them into smart agents that scale daily
+    operations
+  - Enable agents to reason across internal data sources including CRM, outreach logs,
+    and provider data
+  - Create intelligent messaging and management systems for home service bookings
+  - Transform messy real-world home service processes into structured logic for AI
+    automation
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, fine-tuning, and deploying AI
+      systems including agents, RAG implementations, and automated
+      workflows using LLMs. The engineer will work directly with
+      OpenAI/Anthropic APIs, LangChain, and vector databases to
+      create intelligent systems for the home services platform.
+  responsibilities:
+  - Design, prototype, and deploy intelligent systems that power matching, messaging,
+    and management of home services
+  - Build and fine-tune workflows with OpenAI APIs, Anthropic Claude, or Mistral models
+  - Use frameworks like LangChain, LlamaIndex, or Vercel AI SDK to connect multiple
+    models and data sources
+  - Design retrieval and memory systems that help agents reason across internal data
+    including CRM, outreach logs, and provider data
+  - Prototype automations using Zapier, n8n, or custom Python/Ruby scripts before
+    productizing them
+  - Collaborate with engineering to connect model outputs to the Rails app via clean
+    APIs
+  - Experiment with prompt architectures, tool use, and context management to improve
+    performance and accuracy
+  - Build and scale agentic systems that make operations and product smarter
+  use_cases:
+  - Match homeowners to trusted local service providers using AI-powered matching
+    systems
+  - Automate repetitive workflows and convert them into smart agents that scale daily
+    operations
+  - Enable agents to reason across internal data sources including CRM, outreach logs,
+    and provider data
+  - Create intelligent messaging and management systems for home service bookings
+  - Transform messy real-world home service processes into structured logic for AI
+    automation
+  skills:
+    genai: [OpenAI APIs, Anthropic Claude, Mistral, LangChain, LlamaIndex, Vercel
+        AI SDK, RAG, agents, prompt engineering, function calling]
+    ml: []
+    web: [FastAPI, Flask, Django, REST]
+    databases: [pgvector, Pinecone, Weaviate]
+    data: [Zapier, n8n]
+    cloud: []
+    ops: []
+    languages: [Python, JavaScript, TypeScript, Ruby]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7495968'
+  extracted_at: '2026-02-05T11:01:27.335881'

@@ -1,0 +1,54 @@
+company:
+  name: Cambiar Education
+  stage: null
+  focus: K-12 education nonprofit venture studio
+  use_cases:
+  - AI-powered user-facing products for education innovation
+  - Internal tools and automation leveraging AI for operational efficiencies
+  - LLM-based applications using frameworks like LangChain for product experience
+  - RAG implementations for enhanced AI capabilities
+  - Education technology solutions driving positive social impact and student success
+position:
+  title: Staff Software Engineer, AI/ML Focus
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on implementation of AI applications
+      and models, specifically mentioning tuning/RAG, developing
+      new AI applications with LLM tools like LangChain, and
+      shipping AI features. This is direct work ON AI systems
+      rather than supporting infrastructure.
+  responsibilities:
+  - Lead the design, prototyping, development, and deployment of new user-facing AI
+    products and internal tooling
+  - Implement AI applications and models including tuning and RAG where needed
+  - Build and ensure systems are reliable, secure, performant, and aligned with business
+    objectives
+  - Communicate and collaborate with Product Management and development vendors to
+    design and build products
+  - Champion security and privacy including FERPA/COPPA compliance for sensitive data
+    in AI applications
+  - Support codebase health by advocating for flexible, scalable patterns that enable
+    future development
+  use_cases:
+  - AI-powered user-facing products for education innovation
+  - Internal tools and automation leveraging AI for operational efficiencies
+  - LLM-based applications using frameworks like LangChain for product experience
+  - RAG implementations for enhanced AI capabilities
+  - Education technology solutions driving positive social impact and student success
+  skills:
+    genai: [LangChain, RAG]
+    ml: []
+    web: [Rails, React, microservices]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [AWS, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7902495'
+  extracted_at: '2026-02-05T11:39:56.584918'

@@ -1,0 +1,57 @@
+company:
+  name: Oscar Health
+  stage: Public
+  focus: Health insurance technology platform
+  use_cases:
+  - Automate complex healthcare workflows to streamline operations
+  - Improve patient and member experiences through AI-powered interactions
+  - Solve real-world problems across the healthcare ecosystem using generative AI
+  - Transform the healthcare experience for millions of members
+  - Deliver intelligent agents that enhance healthcare service delivery
+  - Drive measurable business and user outcomes in health insurance
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning generative AI solutions including LLMs, RAG
+      systems, and agentic workflows. The engineer takes end-to-
+      end ownership from prototyping to production deployment of
+      AI-powered products and intelligent agents.
+  responsibilities:
+  - Lead the design, development, and deployment of AI-driven products and features,
+    from zero-to-one prototypes to robust production systems
+  - Collaborate cross-functionally with product, design, and business teams to deeply
+    understand user needs and deliver solutions that move key metrics
+  - Rapidly experiment with new models, techniques, and tools including LLMs, RAG,
+    and agentic workflows, iterating based on data and user feedback
+  - Build and scale full-stack applications and intelligent agents that automate complex
+    healthcare workflows and deliver seamless user experiences
+  - Stay on the cutting edge of the AI ecosystem, evaluating and integrating emerging
+    technologies to keep Oscar at the forefront of healthcare innovation
+  - Contribute to Oscar's AI strategy and technical vision, helping shape the future
+    of healthcare through technology
+  use_cases:
+  - Automate complex healthcare workflows to streamline operations
+  - Improve patient and member experiences through AI-powered interactions
+  - Solve real-world problems across the healthcare ecosystem using generative AI
+  - Transform the healthcare experience for millions of members
+  - Deliver intelligent agents that enhance healthcare service delivery
+  - Drive measurable business and user outcomes in health insurance
+  skills:
+    genai: [LLMs, RAG, agentic workflows]
+    ml: [neural networks, transformers]
+    web: [React]
+    databases: []
+    data: []
+    cloud: []
+    ops: [Docker, Kubernetes]
+    languages: [Python, Golang]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8294039'
+  extracted_at: '2026-02-05T12:39:27.444381'

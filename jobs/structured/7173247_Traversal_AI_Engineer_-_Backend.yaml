@@ -1,0 +1,60 @@
+company:
+  name: Traversal
+  stage: Series A
+  focus: |-
+    AI Site Reliability Engineer for enterprise incident
+    remediation
+  use_cases:
+  - Real-time incident detection in complex production environments
+  - Root cause analysis for production incidents using AI agents
+  - Automated remediation of production incidents
+  - Ingesting and reasoning over logs, metrics, and traces at scale
+  - Providing observability and monitoring for enterprise applications
+  - Enabling SRE teams to reduce firefighting and focus on high-impact work
+position:
+  title: AI Engineer - Backend
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Backend AI Engineer role focused on building the
+      infrastructure and APIs that support AI agents rather than
+      directly building, training, or fine-tuning models. The work
+      involves backend systems, API development, data management,
+      and productionizing AI architectures developed by others,
+      which aligns with ai-support.
+  responsibilities:
+  - Lead the design and implementation of scalable, robust backend systems to support
+    AI agents and observability tools
+  - Design and implement high-performance APIs to enable seamless communication between
+    backend systems and frontend interfaces
+  - Ensure efficient data storage, retrieval, and processing, leveraging technologies
+    like PostgreSQL, Redis, or others
+  - Collaborate with AI engineers to integrate AI-driven insights and solutions into
+    backend systems
+  - Monitor, optimize, and scale backend services to handle high volumes of data while
+    ensuring low-latency performance
+  - Provide technical leadership and mentorship to junior engineers, helping to grow
+    a strong backend engineering team
+  use_cases:
+  - Real-time incident detection in complex production environments
+  - Root cause analysis for production incidents using AI agents
+  - Automated remediation of production incidents
+  - Ingesting and reasoning over logs, metrics, and traces at scale
+  - Providing observability and monitoring for enterprise applications
+  - Enabling SRE teams to reduce firefighting and focus on high-impact work
+  skills:
+    genai: [Agentic AI]
+    ml: []
+    web: [FastAPI, API Development]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS, ECS, S3]
+    ops: [Kubernetes, Datadog]
+    languages: [Python]
+    domains: []
+    other: [Backend Systems]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7173247'
+  extracted_at: '2026-02-05T10:27:37.025007'

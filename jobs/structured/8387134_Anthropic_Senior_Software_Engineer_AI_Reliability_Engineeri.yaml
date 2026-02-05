@@ -1,0 +1,58 @@
+company:
+  name: Anthropic
+  stage: Series B
+  focus: Safe and beneficial AI systems
+  use_cases:
+  - Large-scale language model serving infrastructure for millions of external customers
+  - High-traffic internal AI workloads and training pipelines
+  - Distributed model serving across multiple regions and cloud providers
+  - Real-time inference with strict latency and availability requirements
+  - GPU/TPU accelerator infrastructure for model training and serving
+position:
+  title: Senior Software Engineer, AI Reliability Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is AI Reliability Engineering focused on
+      infrastructure, monitoring, and operational aspects of model
+      serving systems. The engineer is NOT building, training,
+      fine-tuning, or deploying models, but rather building the
+      platform and systems that SUPPORT model serving (SLOs,
+      monitoring, failover, cost optimization for GPU
+      infrastructure).
+  responsibilities:
+  - Develop Service Level Objectives for large language model serving and training
+    systems, balancing availability and latency with development velocity
+  - Design and implement monitoring systems including availability, latency and other
+    salient metrics for AI infrastructure
+  - Design and implement high-availability language model serving infrastructure capable
+    of handling millions of external customers and high-traffic internal workloads
+  - Develop and manage automated failover and recovery systems for model serving deployments
+    across multiple regions and cloud providers
+  - Lead incident response for critical AI services, ensuring rapid recovery and systematic
+    improvements from each incident
+  - Build and maintain cost optimization systems for large-scale AI infrastructure,
+    focusing on accelerator (GPU/TPU/Trainium) utilization and efficiency
+  use_cases:
+  - Large-scale language model serving infrastructure for millions of external customers
+  - High-traffic internal AI workloads and training pipelines
+  - Distributed model serving across multiple regions and cloud providers
+  - Real-time inference with strict latency and availability requirements
+  - GPU/TPU accelerator infrastructure for model training and serving
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [Distributed systems, GPU, TPU, Trainium, Cloud providers]
+    ops: [Monitoring, Observability, SLO/SLA frameworks, High availability, Chaos
+        engineering, Incident response, Failover systems, RDMA, InfiniBand, Cost optimization]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8387134'
+  extracted_at: '2026-02-05T13:03:10.677386'

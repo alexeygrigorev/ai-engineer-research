@@ -1,0 +1,57 @@
+company:
+  name: WEX Inc.
+  stage: Public
+  focus: Global commerce platform and payments technology
+  use_cases:
+  - AI-powered commerce and payments platform enhancing business decision-making
+  - Large Language Models for generative AI projects in financial services
+  - Machine learning platforms for risk assessment and fraud detection
+  - Big data analytics infrastructure for business intelligence and customer insights
+  - AI-driven products to help customers grow their business effectively
+position:
+  title: AI Engineer 2
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Infrastructure role focused on building cloud
+      platforms, IaC, CI/CD pipelines, and orchestration systems
+      that support AI/ML workloads rather than directly building
+      or deploying models. While the role mentions some exposure
+      to LLMs and ML algorithms, the primary responsibilities are
+      infrastructure engineering - creating the platforms and
+      environments that enable other teams to work with AI models.
+  responsibilities:
+  - Design, build, and maintain cloud infrastructure on AWS and Azure to support AI/ML
+    workloads
+  - Implement Infrastructure as Code using Terraform and manage containerization with
+    Docker and Kubernetes
+  - Design, test, code, and instrument AI/ML platforms and tools for model development
+  - Develop and maintain CI/CD pipelines for automating AI infrastructure and ML model
+    deployment
+  - Implement monitoring and alerting systems to ensure health and performance of
+    production AI infrastructure
+  - Collaborate with stakeholders to understand AI development team requirements and
+    key challenges
+  use_cases:
+  - AI-powered commerce and payments platform enhancing business decision-making
+  - Large Language Models for generative AI projects in financial services
+  - Machine learning platforms for risk assessment and fraud detection
+  - Big data analytics infrastructure for business intelligence and customer insights
+  - AI-driven products to help customers grow their business effectively
+  skills:
+    genai: [LLMs, generative AI]
+    ml: [ML algorithms, deep learning]
+    web: []
+    databases: []
+    data: [data processing]
+    cloud: [AWS, Azure, Azure ML]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Prometheus, Grafana, CloudWatch, Azure
+        Monitor]
+    languages: [Python, Bash, Java, C++, C#, Golang]
+    domains: []
+    other: [networking concepts, probability and statistics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7861932'
+  extracted_at: '2026-02-05T11:36:16.715451'

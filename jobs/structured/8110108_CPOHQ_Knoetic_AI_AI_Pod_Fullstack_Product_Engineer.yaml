@@ -1,0 +1,54 @@
+company:
+  name: CPOHQ + Knoetic AI
+  stage: Series B
+  focus: |-
+    Second Brain AI platform for Chief People Officers & HR
+    teams
+  use_cases:
+  - Second Brain for Chief People Officers and HR teams
+  - People analytics and querying engines on Snowflake data
+  - Enterprise HR platform serving C-level executives
+  - Consumer+enterprise blend product for HR teams
+position:
+  title: 'AI Pod: Fullstack Product Engineer'
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Fullstack Product Engineer working on AI
+      products but the actual work involves building web
+      applications (React/TypeScript/NestJS), talking to
+      customers, and shipping features end-to-end. While they use
+      AI tools like Cursor and Claude Code for development, they
+      are not building, training, fine-tuning, or deploying AI
+      models themselves. This is a software engineering role at an
+      AI company, not an AI engineering role.
+  responsibilities:
+  - Ship features end-to-end from problem understanding to production across frontend
+    and backend
+  - Talk to customers regularly to gather feedback and translate problems into solutions
+  - Write production-ready code with tests, edge case handling, and clear documentation
+  - Review code thoughtfully and maintain quality standards for the team
+  - Debug production issues and implement preventative measures
+  - Help cultivate engineering culture as one of the founding engineers of the AI
+    & Analytics pod
+  use_cases:
+  - Second Brain for Chief People Officers and HR teams
+  - People analytics and querying engines on Snowflake data
+  - Enterprise HR platform serving C-level executives
+  - Consumer+enterprise blend product for HR teams
+  skills:
+    genai: [Cursor, Claude Code]
+    ml: []
+    web: [React, Vite, NestJS]
+    databases: [PostgreSQL, Redis]
+    data: [Snowflake]
+    cloud: [AWS]
+    ops: [GitHub Actions, Sentry, New Relic]
+    languages: [TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8110108'
+  extracted_at: '2026-02-05T18:55:17.035667'

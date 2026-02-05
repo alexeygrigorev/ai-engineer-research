@@ -1,0 +1,57 @@
+company:
+  name: Horizon Media
+  stage: null
+  focus: Enterprise advertising and media technology platform
+  use_cases:
+  - Enterprise-grade AI agents for solving business challenges across the media landscape
+  - Chatbots and virtual assistants powered by large language models
+  - Multi-agent systems that leverage unique data and technology assets
+  - AI-powered advertising solutions using natural language processing
+  - RAG-based applications grounded in enterprise data sources
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building, deploying, and fine-tuning AI
+      agents and multi-agent systems using Vertex AI Agent
+      Builder, LangChain, and CrewAI. The engineer works directly
+      on RAG techniques, NLP applications, and LLM-powered
+      solutions, not just supporting infrastructure.
+  responsibilities:
+  - Design, build, and deploy enterprise-grade AI agents and multi-agent systems using
+    Google Cloud's Vertex AI Agent Builder and the Agent Development Kit (ADK)
+  - Collaborate with internal teams and customers to understand business needs and
+    translate them into scalable, efficient, and secure AI-powered solutions
+  - Actively identify opportunities to leverage Google Cloud services such as BigQuery,
+    Spanner, and Looker to enhance agent capabilities
+  - Connect agents with enterprise data sources and tools using APIs, built-in connectors,
+    and retrieval-augmented generation (RAG) techniques
+  - Develop proof-of-concept models and compelling demonstrations to showcase the
+    potential of agent-based solutions to stakeholders
+  - Write clean, maintainable Python code for agent development and implement CI/CD
+    pipelines for automated deployment and testing
+  use_cases:
+  - Enterprise-grade AI agents for solving business challenges across the media landscape
+  - Chatbots and virtual assistants powered by large language models
+  - Multi-agent systems that leverage unique data and technology assets
+  - AI-powered advertising solutions using natural language processing
+  - RAG-based applications grounded in enterprise data sources
+  skills:
+    genai: [Vertex AI Agent Builder, Agent Development Kit (ADK), LangChain, CrewAI,
+      RAG, NLP, LLMs]
+    ml: []
+    web: [APIs]
+    databases: [Spanner]
+    data: [Looker]
+    cloud: [Google Cloud Platform, Vertex AI, Dialogflow CX, BigQuery, Google Cloud
+        Storage]
+    ops: [CI/CD]
+    languages: [Python, Java, Go]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6214169'
+  extracted_at: '2026-02-05T09:42:03.049556'

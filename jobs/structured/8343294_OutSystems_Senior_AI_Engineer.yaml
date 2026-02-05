@@ -1,0 +1,56 @@
+company:
+  name: OutSystems
+  stage: Series E+
+  focus: Low-code AI-powered application development platform
+  use_cases:
+  - Enterprise Vibe Coding for serious software development
+  - AI-native developer tools and agentic application development
+  - Low-code platform for building AI-powered applications and agents
+  - Enterprise application development with AI-assisted coding
+  - Reducing manual work and streamlining internal operations through AI
+  - Secure, governed human-AI collaboration in enterprise environments
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work building LLM agents,
+      implementing RAG, prompt engineering, and tool calling.
+      Directly responsible for bringing AI products to life from
+      ideation through production deployment.
+  responsibilities:
+  - Stay up to date with state-of-the-art AI/ML and apply it to Enterprise Vibe Coding
+  - Use In-Context Learning (Prompt Engineering & Retrieval Augmented Generation)
+    and Tool Calling to guide Agents
+  - Work in eval-driven development methodology using model-based critiques, semantic
+    accuracy benchmarks, and tool-use success rates
+  - Own the end-to-end development of AI features across the full product lifecycle
+  - Collaborate with cross-functional teams to ship and iterate on production-grade
+    AI products
+  - Ensure software quality, observability, and scalability of customer-facing AI
+    features
+  - Advance the field by putting forward ideas into practice in large-scale projects
+  use_cases:
+  - Enterprise Vibe Coding for serious software development
+  - AI-native developer tools and agentic application development
+  - Low-code platform for building AI-powered applications and agents
+  - Enterprise application development with AI-assisted coding
+  - Reducing manual work and streamlining internal operations through AI
+  - Secure, governed human-AI collaboration in enterprise environments
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, Prompt Engineering, RAG, Agents, Tool
+        Calling, In-Context Learning, LLMs, Agentic Systems]
+    ml: [Model Evaluation]
+    web: []
+    databases: []
+    data: [Databricks]
+    cloud: []
+    ops: [LangSmith, MLflow, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8343294'
+  extracted_at: '2026-02-05T12:54:52.083331'

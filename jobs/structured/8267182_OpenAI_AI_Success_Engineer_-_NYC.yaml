@@ -1,0 +1,64 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company
+  use_cases:
+  - Enterprise workflow transformation using OpenAI's AI platform
+  - Technical integration and deployment of ChatGPT Enterprise for large organizations
+  - Codex-powered automation and code generation workflows
+  - Agentic platform implementation for autonomous AI workflows
+  - API-driven AI adoption across business lines and processes
+  - Customer use case design from initial deployment to scaled enterprise adoption
+position:
+  title: AI Success Engineer - NYC
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a post-sales customer success role focused on
+      helping customers adopt and deploy OpenAI's existing AI
+      products rather than building or training models. The role
+      involves technical advisory, account management, workflow
+      mapping, and configuration guidance - supporting customers
+      who use AI platforms rather than working directly ON AI
+      systems.
+  responsibilities:
+  - Lead technical relationship for post-sale customers as trusted advisor on deployment,
+    adoption, and value realization
+  - Own account health, adoption velocity, and ongoing technical deployment across
+    customer portfolio
+  - Conduct technical enablement and configuration sessions across OpenAI products
+    including API, agentic platform, ChatGPT Enterprise, and Codex
+  - Identify and validate use cases by embedding with customer teams to understand
+    workflows and pain points
+  - Lead account level coordination across workstreams including product activation,
+    change management, and deployment planning
+  - Translate customer objectives into actionable adoption roadmaps with clear sequencing,
+    milestones, and KPIs
+  - Partner cross-functionally with Solutions Architecture, Product, Engineering and
+    Research to surface customer feedback and field patterns
+  - Guide value realization and measure impact through baselines, KPI definition,
+    and post-deployment reporting
+  use_cases:
+  - Enterprise workflow transformation using OpenAI's AI platform
+  - Technical integration and deployment of ChatGPT Enterprise for large organizations
+  - Codex-powered automation and code generation workflows
+  - Agentic platform implementation for autonomous AI workflows
+  - API-driven AI adoption across business lines and processes
+  - Customer use case design from initial deployment to scaled enterprise adoption
+  skills:
+    genai: [OpenAI API, OpenAI SDKs, embeddings, retrieval augmentation, ChatGPT Enterprise,
+      agentic platform, Codex]
+    ml: [fine-tuning, custom model usage]
+    web: [REST APIs]
+    databases: []
+    data: []
+    cloud: [SSO, enterprise security, cloud platforms]
+    ops: [CI/CD, containers]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [GDPR, HIPAA, enterprise compliance]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8267182'
+  extracted_at: '2026-02-05T12:26:49.070923'

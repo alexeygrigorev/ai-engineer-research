@@ -1,0 +1,53 @@
+company:
+  name: Calix
+  stage: Public
+  focus: |-
+    Broadband cloud software and AI solutions for service
+    providers
+  use_cases:
+  - AI-driven solutions for communications service providers to simplify operations
+  - Broadband experience transformation through cloud technologies and AI
+  - Machine learning applications for subscriber experience enhancement
+  - Generative AI applications for broadband service providers
+position:
+  title: Staff AI Ops Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Ops Engineer role focused on building and
+      maintaining infrastructure for ML/GenAI applications. The
+      role involves deploying, operating, and scaling ML systems
+      but does not include building, training, fine-tuning, or
+      deploying models directly. Instead, the engineer creates the
+      platforms, pipelines, and cloud resources that enable data
+      scientists and ML engineers to work with AI systems.
+  responsibilities:
+  - Design, implement, and maintain scalable infrastructure for ML and GenAI applications
+  - Deploy, operate, and troubleshoot production ML/GenAI pipelines and services
+  - Build and optimize CI/CD pipelines for ML model deployment and serving
+  - Scale compute resources across CPU/GPU architectures to meet performance requirements
+  - Architect and optimize cloud resources on GCP for ML training and inference
+  - Establish monitoring, logging, and alerting for systems observability
+  - Develop and enforce AIOps best practices across the organization
+  use_cases:
+  - AI-driven solutions for communications service providers to simplify operations
+  - Broadband experience transformation through cloud technologies and AI
+  - Machine learning applications for subscriber experience enhancement
+  - Generative AI applications for broadband service providers
+  skills:
+    genai: []
+    ml: [PyTorch]
+    web: []
+    databases: []
+    data: [Airflow]
+    cloud: [GCP, Vertex AI]
+    ops: [Terraform, Docker, Kubernetes, Kubeflow, MLflow, CI/CD, Prometheus, Grafana,
+      ELK stack]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7778549'
+  extracted_at: '2026-02-05T11:29:11.341182'

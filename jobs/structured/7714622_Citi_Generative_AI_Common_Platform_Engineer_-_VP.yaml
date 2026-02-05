@@ -1,0 +1,48 @@
+company:
+  name: Citi
+  stage: Public
+  focus: Global banking and financial services
+  use_cases:
+  - Support LLM-based applications across the bank
+  - Enable RAG (Retrieval-Augmented Generation) implementations
+  - Provide Generative AI toolchains for various business units
+  - Address use-cases of users across financial services domains
+position:
+  title: Generative AI Common Platform Engineer - VP
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on building the platform infrastructure
+      and toolchains that support Generative AI work across the
+      bank, rather than directly building, training, or deploying
+      models. The role involves platform engineering, MLOps,
+      CI/CD, and distributed systems work that enables other teams
+      to use LLMs and RAG.
+  responsibilities:
+  - Design and build high-quality, highly reliable software for the Generative AI
+    platform
+  - Partner closely with development teams, quants, and subject-matter experts across
+    the bank
+  - Ensure software platforms are compliant with security and SDLC processes
+  - Run the Generative AI platform at scale while continuing to innovate and evolve
+  use_cases:
+  - Support LLM-based applications across the bank
+  - Enable RAG (Retrieval-Augmented Generation) implementations
+  - Provide Generative AI toolchains for various business units
+  - Address use-cases of users across financial services domains
+  skills:
+    genai: [LLMs, RAG]
+    ml: []
+    web: [REST]
+    databases: []
+    data: []
+    cloud: []
+    ops: [CI/CD, MLflow, W&B, MLOps, distributed systems, system architecture, Kubernetes]
+    languages: [Python, Scala, Clojure, Rust, Elixir]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7714622'
+  extracted_at: '2026-02-05T11:22:04.238291'

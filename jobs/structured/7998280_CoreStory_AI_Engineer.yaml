@@ -1,0 +1,71 @@
+company:
+  name: CoreStory
+  stage: early-stage startup
+  focus: |-
+    AI-powered legacy code intelligence and modernization
+    platform
+  use_cases:
+  - Surfacing business logic and technical insights from legacy code using AI
+  - Generating automated summaries and narrative analytics for enterprise applications
+  - Enabling enterprises to modernize applications faster by understanding code structure
+    and dependencies
+  - Providing conversational agents to query and analyze codebases and documentation
+  - Extracting and indexing knowledge from legacy systems for intelligent search and
+    retrieval
+  - Reducing risk of costly failures by identifying potential issues in legacy code
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on building
+      LLM-powered systems including RAG pipelines, chat agents,
+      and vector search architectures. The role requires direct
+      implementation of LLM integration, prompt orchestration, and
+      agentic systems using frameworks like LangChain and
+      LlamaIndex, which qualifies as working directly ON AI
+      systems rather than supporting them.
+  responsibilities:
+  - Design, implement, and optimize LLM-powered systems including RAG, chat agents,
+    summarizers, and knowledge graph integration
+  - Build and manage data indexing and retrieval pipelines using LlamaIndex, LangChain,
+    or similar frameworks
+  - Implement and maintain vector databases such as Pinecone, Neo4j, Weaviate, Chroma,
+    or Azure Cognitive Search
+  - Integrate open-source and proprietary LLMs including GPT, Claude, and Llama into
+    the CoreStory Platform
+  - Develop and refine AI-driven features including generative insights, automated
+    summarization, and narrative analytics
+  - Collaborate with DevOps and backend teams to deploy scalable AI services within
+    cloud infrastructure
+  - Continuously benchmark model performance, latency, and cost while identifying
+    optimization opportunities
+  - Contribute to internal documentation, experimentation frameworks, and evaluation
+    methodologies
+  use_cases:
+  - Surfacing business logic and technical insights from legacy code using AI
+  - Generating automated summaries and narrative analytics for enterprise applications
+  - Enabling enterprises to modernize applications faster by understanding code structure
+    and dependencies
+  - Providing conversational agents to query and analyze codebases and documentation
+  - Extracting and indexing knowledge from legacy systems for intelligent search and
+    retrieval
+  - Reducing risk of costly failures by identifying potential issues in legacy code
+  skills:
+    genai: [LangChain, LlamaIndex, RAG, OpenAI API, Anthropic API, Hugging Face, LangGraph,
+      prompt engineering, agentic systems, tool calling, chat agent architectures]
+    ml: []
+    web: [FastAPI]
+    databases: [Pinecone, Neo4j, Weaviate, Chroma, FAISS, Milvus, Azure Cognitive
+        Search]
+    data: [Pandas, NumPy]
+    cloud: [AWS, Azure]
+    ops: [Docker]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7998280'
+  extracted_at: '2026-02-05T11:46:53.273493'

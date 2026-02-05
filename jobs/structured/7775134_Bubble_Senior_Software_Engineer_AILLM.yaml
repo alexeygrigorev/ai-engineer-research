@@ -1,0 +1,57 @@
+company:
+  name: Bubble
+  stage: Series A
+  focus: AI-powered no-code visual development platform
+  use_cases:
+  - AI-assisted full-stack development enabling users to describe applications in
+    natural language
+  - AI-powered generation, modification, and enhancement of web, iOS, and Android
+    applications
+  - Visual development platform where AI transforms prompts into fully-functional,
+    scalable applications
+  - No-code platform using AI to interpret and modify application structures
+  - Agentic workflows enabling multi-step automated app generation and enhancement
+position:
+  title: Senior Software Engineer, AI/LLM
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI/ML role focused on building LLM-driven
+      features, agentic workflows, and fine-tuning models. The
+      engineer will directly work on improving LLM reasoning,
+      implementing RAG, optimizing model performance, and
+      developing proprietary AI models - all core AI development
+      tasks.
+  responsibilities:
+  - Improve LLM reasoning and retrieval techniques to enhance AI-powered development
+    tools
+  - Design and build agentic workflows for multi-step AI-driven app generation
+  - Fine-tune and optimize LLMs for AI-assisted app-building workflows
+  - Build and optimize proprietary AI models trained on domain-specific Bubble datasets
+  - Collaborate with AI team to scale AI research into production
+  - Optimize LLM performance and accuracy when interpreting and modifying applications
+  use_cases:
+  - AI-assisted full-stack development enabling users to describe applications in
+    natural language
+  - AI-powered generation, modification, and enhancement of web, iOS, and Android
+    applications
+  - Visual development platform where AI transforms prompts into fully-functional,
+    scalable applications
+  - No-code platform using AI to interpret and modify application structures
+  - Agentic workflows enabling multi-step automated app generation and enhancement
+  skills:
+    genai: [RAG, LangChain, OpenAI API, Anthropic API, agentic workflows, prompt engineering]
+    ml: [Hugging Face, fine-tuning, transformer models, embeddings]
+    web: []
+    databases: [vector search, Redis, Postgres]
+    data: []
+    cloud: [AWS]
+    ops: [Terraform, ECS]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7775134'
+  extracted_at: '2026-02-05T11:27:08.602777'

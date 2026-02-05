@@ -1,0 +1,61 @@
+company:
+  name: Wasabi Technologies
+  stage: Series B+
+  focus: Hot cloud storage with disruptive pricing
+  use_cases:
+  - AI assistants and agents for internal business operations across Sales, Marketing,
+    Finance, HR, Legal, Customer Support, and IT
+  - Retrieval-augmented generation (RAG) systems for enterprise knowledge access and
+    decision support
+  - Agentic workflows for automating business processes and increasing productivity
+  - AI-powered applications for customer support and enterprise productivity enhancement
+position:
+  title: Senior Enterprise AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building and deploying AI assistants,
+      agents, and AI-powered applications directly, implementing
+      RAG systems, agent orchestration, and production inference
+      services. The engineer will work on fine-tuning models,
+      evaluation frameworks, and MLOps pipelines for the model
+      lifecycle, which is hands-on work with AI/ML systems rather
+      than just supporting infrastructure.
+  responsibilities:
+  - Design and implement AI-powered solutions including assistants, agents, and applications
+    that solve business problems across enterprise functions
+  - Build platform capabilities for modern AI workloads including retrieval-augmented
+    generation (RAG), agent orchestration, evaluation, and production inference services
+  - Implement scalable services that support low-latency, high-throughput AI applications
+    while meeting reliability, security, and cost objectives
+  - Develop reusable patterns, libraries, and best practices that enable teams to
+    safely and efficiently build on the Enterprise AI Platform
+  - Support rapid experimentation (POCs), evaluate emerging AI tools/frameworks, and
+    help evolve platform architecture to incorporate successful innovations into production
+  - Contribute to MLOps pipelines including training, fine-tuning, versioning, deployment,
+    monitoring, and drift detection to streamline the model lifecycle
+  - Help define and implement automated testing strategies for AI solutions including
+    quality, safety, regression, hallucination checks, latency, and robustness
+  use_cases:
+  - AI assistants and agents for internal business operations across Sales, Marketing,
+    Finance, HR, Legal, Customer Support, and IT
+  - Retrieval-augmented generation (RAG) systems for enterprise knowledge access and
+    decision support
+  - Agentic workflows for automating business processes and increasing productivity
+  - AI-powered applications for customer support and enterprise productivity enhancement
+  skills:
+    genai: [RAG, agents, prompt engineering, agentic workflows]
+    ml: [PyTorch, TensorFlow, JAX, fine-tuning]
+    web: [REST, APIs]
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [MLflow, Docker, Kubernetes, monitoring, drift detection]
+    languages: [Python, Go, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8348181'
+  extracted_at: '2026-02-05T12:57:48.381599'

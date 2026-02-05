@@ -1,0 +1,53 @@
+company:
+  name: Jellyfish
+  stage: growth-stage startup
+  focus: Engineering analytics and AI team intelligence platform
+  use_cases:
+  - Classify engineering work into meaningful categories using LLMs
+  - Aggregate and analyze work patterns across multiple issue tracking systems
+  - Process millions of issues for hundreds of customers at scale
+  - Enable engineering leaders to see patterns and help teams focus on priorities
+  - Build AI-integrated engineering team insights and analytics
+position:
+  title: Senior Backend Engineer, AI Systems
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior Backend Engineer role focused on building
+      data pipelines and systems that USE LLMs as a tool for
+      classification, not building or fine-tuning models. The
+      engineer is applying pre-existing AI infrastructure
+      (Bedrock, SageMaker) to solve business problems around work
+      categorization, which makes this ai-support rather than ai-
+      first.
+  responsibilities:
+  - Design, plan, and implement key features as part of a highly effective development
+    team
+  - Rapidly deliver value for customers by pushing features to AWS-hosted SaaS environment
+    daily with automated CI/CD pipelines
+  - Provide technical and product expertise within your team and across the organization
+  - Think big about representing the scope of engineering work and how it's changing
+  - Provide support for production operations of the Jellyfish product
+  - Participate in team's agile process and work to continually improve team capabilities
+  use_cases:
+  - Classify engineering work into meaningful categories using LLMs
+  - Aggregate and analyze work patterns across multiple issue tracking systems
+  - Process millions of issues for hundreds of customers at scale
+  - Enable engineering leaders to see patterns and help teams focus on priorities
+  - Build AI-integrated engineering team insights and analytics
+  skills:
+    genai: [Large Language Models, Copilot, Cursor, Claude Code]
+    ml: []
+    web: [React]
+    databases: [relational databases, columnar databases]
+    data: [data modeling, data pipelines]
+    cloud: [AWS, Amazon Bedrock, Amazon SageMaker]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8061693'
+  extracted_at: '2026-02-05T11:56:38.980233'

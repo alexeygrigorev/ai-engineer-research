@@ -1,0 +1,61 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: Banking and financial services
+  use_cases:
+  - Informing customers about unusual charges through AI-powered fraud detection
+  - Answering customer questions in real time through conversational AI interfaces
+  - Creating real-time, personalized customer experiences in banking
+  - Empowering internal teams to enhance products with responsible and scalable AI
+    capabilities
+  - Delivering AI-powered solutions that change how associates work and how customers
+    interact with Capital One
+position:
+  title: Senior Lead AI Engineer (AI Foundations, LLM Core)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role is hands-on with LLMs and AI systems - responsible
+      for foundation model training, LLM inference, optimization
+      techniques, similarity search, guardrails, and model
+      evaluation. The engineer will invent state-of-the-art LLM
+      optimization techniques to improve production AI system
+      performance, which is core AI/ML engineering work.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products for associates
+    and customers
+  - Design, develop, and deploy AI software components including foundation model
+    training, LLM inference, similarity search, guardrails, model evaluation, and
+    governance
+  - Leverage Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface,
+    VectorDBs, Nemo Guardrails, and PyTorch
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve scalability,
+    cost, latency, and throughput of production AI systems
+  - Contribute to the technical vision and long-term roadmap of foundational AI systems
+    at Capital One
+  - Develop and apply techniques for optimizing training and inference software to
+    improve hardware utilization and performance
+  use_cases:
+  - Informing customers about unusual charges through AI-powered fraud detection
+  - Answering customer questions in real time through conversational AI interfaces
+  - Creating real-time, personalized customer experiences in banking
+  - Empowering internal teams to enhance products with responsible and scalable AI
+    capabilities
+  - Delivering AI-powered solutions that change how associates work and how customers
+    interact with Capital One
+  skills:
+    genai: [Large Language Models (LLM), RAG, Similarity Search, Nemo Guardrails]
+    ml: [PyTorch, Hugging Face, Foundation Model Training, Model Evaluation, Experimentation]
+    web: []
+    databases: [Vector DBs]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [LLM Inference, Model Governance, Observability]
+    languages: [Python, Go, Java, Scala, C++, C#, Golang]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7300084'
+  extracted_at: '2026-02-05T10:34:34.747431'

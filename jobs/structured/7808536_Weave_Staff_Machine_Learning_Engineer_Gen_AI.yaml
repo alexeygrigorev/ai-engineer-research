@@ -1,0 +1,67 @@
+company:
+  name: Weave
+  stage: null
+  focus: AI-powered features for customer experience platforms
+  use_cases:
+  - Building AI-powered applications that require access to large sets of data for
+    product innovation
+  - Developing natural language models and pipelines for B2B multi-tenant applications
+  - Implementing real-time audio models for voice use cases including transcription,
+    ASR pipelines, interruption detection, and speech synthesis
+  - Handling data for hundreds of millions of people daily with TBs of data and 100M+
+    to 10B+ records
+  - Creating low latency natural language models and pipelines at scale for customer-facing
+    products
+position:
+  title: Staff Machine Learning Engineer, Gen AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building models, deploying
+      LLMs, implementing RAG and prompt engineering at scale. The
+      ML Engineer directly creates AI-powered features and models
+      rather than just supporting infrastructure for other ML
+      engineers.
+  responsibilities:
+  - Design and develop machine learning infrastructure, tooling, and models to help
+    teams deliver world class experiences
+  - Build internal products and platforms to enable teams to incorporate AI into their
+    features and customer facing products
+  - Build scalable, resilient services to support data integration, event processing,
+    and platform extensions
+  - Consult with teams to help them understand common patterns, anti-patterns, and
+    tradeoffs of machine learning
+  - Work with stakeholders to translate product goals into actionable engineering
+    plans
+  - Contribute to the continued evolution of product functionality that services large
+    amounts of data and traffic
+  - Coach and collaborate inside and outside the team, sharing expertise and encouraging
+    best practices
+  use_cases:
+  - Building AI-powered applications that require access to large sets of data for
+    product innovation
+  - Developing natural language models and pipelines for B2B multi-tenant applications
+  - Implementing real-time audio models for voice use cases including transcription,
+    ASR pipelines, interruption detection, and speech synthesis
+  - Handling data for hundreds of millions of people daily with TBs of data and 100M+
+    to 10B+ records
+  - Creating low latency natural language models and pipelines at scale for customer-facing
+    products
+  skills:
+    genai: [LLMs, RAG, Prompt Engineering, Fine Tuning, LLM evaluations, Multi-modal
+        models, Model Context Protocol (MCP)]
+    ml: [Jupyter]
+    web: []
+    databases: [Postgres]
+    data: [Dagster, DVC]
+    cloud: [AWS, GCP, GKE]
+    ops: [MLflow, Kubeflow, Triton Server, Kubernetes, Docker, GitOps, Infrastructure
+        as Code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7808536'
+  extracted_at: '2026-02-05T11:32:49.557622'

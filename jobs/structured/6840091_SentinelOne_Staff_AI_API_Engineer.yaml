@@ -1,0 +1,59 @@
+company:
+  name: SentinelOne
+  stage: Public
+  focus: AI-powered cybersecurity and threat detection
+  use_cases:
+  - Generative AI products for cybersecurity threat detection and response
+  - Agentic AI systems that automate security operations
+  - API-driven access to AI-powered security analysis and threat intelligence
+  - Real-time security data processing and analysis through streaming APIs
+  - Secure integration of third-party AI models (OpenAI, Anthropic, Google Gemini,
+    Meta LLaMA) into cybersecurity workflows
+position:
+  title: Staff AI API Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend API engineer role that builds and
+      maintains APIs which integrate AI functionality, but does
+      not involve building, training, fine-tuning, or deploying
+      AI/ML models directly. The role focuses on Python-based API
+      development, database architecture, distributed systems, and
+      backend infrastructure that supports AI products, making it
+      ai-support (working near AI, not on AI).
+  responsibilities:
+  - Develop and maintain high-performance Python-based backend APIs supporting generative
+    and agentic AI products
+  - Design and implement scalable, secure, and reliable backend architectures using
+    asyncio, FastAPI, gRPC, Kafka, and GraphQL
+  - Ensure robust data management with relational and NoSQL databases, Redis caching,
+    streaming, and efficient data handling
+  - Implement and manage secure zero-trust authentication and authorization schemes
+    for public and internal APIs
+  - Collaborate with frontend engineers, AI researchers, product managers, and DevOps
+    teams to deliver cohesive product experiences
+  - Optimize backend services for scalability, reliability, and performance in high-availability
+    environments
+  use_cases:
+  - Generative AI products for cybersecurity threat detection and response
+  - Agentic AI systems that automate security operations
+  - API-driven access to AI-powered security analysis and threat intelligence
+  - Real-time security data processing and analysis through streaming APIs
+  - Secure integration of third-party AI models (OpenAI, Anthropic, Google Gemini,
+    Meta LLaMA) into cybersecurity workflows
+  skills:
+    genai: [OpenAI API, Anthropic API, Google Gemini, Meta LLaMA]
+    ml: []
+    web: [asyncio, FastAPI, gRPC, GraphQL]
+    databases: [Redis]
+    data: [Kafka, Airflow]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLFlow, Weights & Biases, Docker, Kubernetes, Terraform, ArgoCD]
+    languages: [Python, Go, Java, Kotlin, Rust, C++]
+    domains: []
+    other: [OAuth, JWT, OpenID Connect]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6840091'
+  extracted_at: '2026-02-05T09:55:34.547322'

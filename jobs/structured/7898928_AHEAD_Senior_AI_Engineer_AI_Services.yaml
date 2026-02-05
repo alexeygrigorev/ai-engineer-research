@@ -1,0 +1,66 @@
+company:
+  name: AHEAD
+  stage: null
+  focus: |-
+    Digital transformation platforms and cloud infrastructure
+    services
+  use_cases:
+  - Document intelligence for processing and analyzing enterprise documents
+  - Service desk automation using agents to handle support workflows
+  - Coding automation and SDLC acceleration through AI-assisted development tools
+  - Operations automation and business process orchestration across enterprise systems
+  - Decision support systems using RAG and tool-calling for data-driven insights
+  - Real-time and batch workflow automation connecting agents to enterprise data sources
+position:
+  title: Senior AI Engineer, AI Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on builder role responsible for designing,
+      developing, and deploying agentic AI solutions directly. The
+      role involves building multi-agent systems using LangChain,
+      LangGraph, Autogen, and CrewAI, implementing RAG pipelines,
+      and integrating LLMs/SLMs - all core AI engineering work
+      focused on building and deploying AI models and agents.
+  responsibilities:
+  - Build and deploy multi-agent systems using frameworks like LangChain, LangGraph,
+    Autogen, CrewAI, and LlamaIndex
+  - Develop custom agents for document processing, workflow automation, SDLC acceleration,
+    data analysis, and business process orchestration
+  - Integrate LLMs, SLMs, embeddings, and retrieval pipelines with enterprise systems
+    like SharePoint, Salesforce, ServiceNow, and databases
+  - Create and operate LLM/ML endpoints, agent memory/state stores, and event-driven
+    triggers using Python, Kafka, EventBridge, Airflow, and AWS services
+  - Implement monitoring, metrics, guardrails, and automated testing for multi-agent
+    systems to ensure production reliability
+  - Work directly with clients to translate business needs into technical agent designs
+    and execution roadmaps
+  - Apply enterprise standards for data security, access control, auditing, model
+    governance, and safe AI usage
+  - Coach junior engineers on agent design patterns, RAG, orchestration, and clean
+    engineering practices
+  use_cases:
+  - Document intelligence for processing and analyzing enterprise documents
+  - Service desk automation using agents to handle support workflows
+  - Coding automation and SDLC acceleration through AI-assisted development tools
+  - Operations automation and business process orchestration across enterprise systems
+  - Decision support systems using RAG and tool-calling for data-driven insights
+  - Real-time and batch workflow automation connecting agents to enterprise data sources
+  skills:
+    genai: [LangChain, LangGraph, Autogen, CrewAI, LlamaIndex, RAG, function calling,
+      tool-calling, prompt engineering, agents]
+    ml: [model deployment]
+    web: []
+    databases: [Pinecone, pgvector, Elasticsearch, Snowflake]
+    data: [Kafka, Airflow, n8n, ETL]
+    cloud: [S3, AWS Batch, AWS, EventBridge, Snowflake Cortex, Databricks Mosaic,
+      NVIDIA NIMs]
+    ops: [Docker, CI/CD, MLOps, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7898928'
+  extracted_at: '2026-02-05T11:39:06.703103'

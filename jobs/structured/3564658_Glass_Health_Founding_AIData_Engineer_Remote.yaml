@@ -1,0 +1,57 @@
+company:
+  name: Glass Health
+  stage: Seed (raised $6.5M including $5M seed, planning Series A)
+  focus: AI-powered clinical decision support for healthcare
+  use_cases:
+  - AI-powered clinical decision support providing real-time suggestions and insights
+    to physicians
+  - Differential diagnosis (DDx) generation to increase diagnostic accuracy
+  - Evidence-based clinical plan generation and recommendations
+  - Medical literature search and retrieval using RAG over millions of processed articles
+  - AI clinical note generation and documentation assistance
+position:
+  title: Founding AI/Data Engineer (Remote)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves owning the development of user-facing
+      generative AI features end-to-end and working with LLMs
+      (OpenAI & similar) and RAG systems. The engineer will
+      directly build and deploy AI capabilities for clinical
+      decision support, not just support infrastructure for AI
+      work.
+  responsibilities:
+  - Design and build development and production platforms powering new AI products
+    with reliability and security
+  - Own end-to-end development of user-facing generative AI features and product experiences
+  - Partner with researchers, engineers, product managers, and designers to bring
+    new AI features to market
+  - Accelerate engineering productivity by building excellent tooling and systems
+    for the team
+  - Build and maintain ELT and RAG systems to answer specialist medical queries using
+    millions of processed articles
+  - Participate in on-call rotation to ensure system reliability and respond to critical
+    incidents
+  use_cases:
+  - AI-powered clinical decision support providing real-time suggestions and insights
+    to physicians
+  - Differential diagnosis (DDx) generation to increase diagnostic accuracy
+  - Evidence-based clinical plan generation and recommendations
+  - Medical literature search and retrieval using RAG over millions of processed articles
+  - AI clinical note generation and documentation assistance
+  skills:
+    genai: [OpenAI, RAG]
+    ml: []
+    web: [Django, React]
+    databases: [Postgres]
+    data: [ELT]
+    cloud: [GCP]
+    ops: [Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '3564658'
+  extracted_at: '2026-02-05T09:34:33.397428'

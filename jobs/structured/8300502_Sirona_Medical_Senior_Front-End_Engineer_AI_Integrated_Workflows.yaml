@@ -1,0 +1,57 @@
+company:
+  name: Sirona Medical
+  stage: Series B
+  focus: AI-powered operating system for radiology workflows
+  use_cases:
+  - AI-powered radiology workflow optimization and efficiency
+  - Clinical decision support with AI assistance for radiologists
+  - Visualization of AI reasoning and outputs in diagnostic workflows
+  - Agentic workflows and multimodal AI systems for medical imaging
+  - Cloud-native unified workspace for radiologists with AI integration
+position:
+  title: Senior Front-End Engineer (AI Integrated Workflows and SDKs)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Senior Front-End Engineer role building UIs and
+      SDKs that integrate with AI systems built by others. The
+      engineer creates interfaces for AI-powered workflows but
+      does not build, train, or deploy models themselves - they
+      work on the front-end layer that surfaces AI capabilities to
+      users.
+  responsibilities:
+  - Design and implement modern, scalable front-end systems in React, TypeScript,
+    and GraphQL
+  - Build SDKs and reusable component libraries that bridge AI systems and product
+    surfaces
+  - Prototype intelligent, data-rich workflows that blend human interaction with AI
+    assistance
+  - Work across the stack to connect frontend features to Python/FastAPI backends
+    and APIs
+  - Collaborate with AI and backend teams to design clean interfaces between systems
+  - Create UI patterns that visualize AI reasoning, feedback, and real-time collaboration
+  - Shape engineering best practices for modularity, observability, and performance
+  - Mentor other engineers and influence technical direction across Sirona's product
+    stack
+  use_cases:
+  - AI-powered radiology workflow optimization and efficiency
+  - Clinical decision support with AI assistance for radiologists
+  - Visualization of AI reasoning and outputs in diagnostic workflows
+  - Agentic workflows and multimodal AI systems for medical imaging
+  - Cloud-native unified workspace for radiologists with AI integration
+  skills:
+    genai: [LLMs, agentic workflows]
+    ml: []
+    web: [React, GraphQL, REST, FastAPI]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: [DICOM, HL7, EMR/EHR]
+    other: [SDKs]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8300502'
+  extracted_at: '2026-02-05T12:42:50.377921'

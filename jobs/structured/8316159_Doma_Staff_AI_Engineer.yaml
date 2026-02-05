@@ -1,0 +1,54 @@
+company:
+  name: Doma
+  stage: null
+  focus: Real estate closing and insurance technology solutions
+  use_cases:
+  - Transform insurance and real estate decision-making processes using generative
+    AI
+  - Enhance operational efficiency in property and title workflows through LLM-powered
+    automation
+  - Improve risk assessment and underwriting accuracy for insurance decisions
+  - Provide operations intelligence across property, title, and real estate sectors
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is clearly an AI-first role focused on building,
+      deploying, and fine-tuning LLM-based systems for production
+      use. The engineer will directly work on developing LLM-
+      driven products, fine-tuning models like GPT/Claude/LLaMA,
+      and implementing generative AI solutions that integrate with
+      knowledge bases and APIs.
+  responsibilities:
+  - Design, build and deploy scalable LLM-based solutions targeting improved operational
+    efficiency that integrate external knowledge bases and APIs
+  - Own the reliability and ongoing performance of LLM-powered applications, ensuring
+    traceability, observability, and regulatory compliance
+  - Fine-tune and adapt large language models (e.g., GPT, Claude, LLaMA) to domain-specific
+    tasks in real estate and insurance
+  - Collaborate with domain experts, data teams, and product managers to research
+    and align on AI solutions that satisfy business needs and regulatory constraints
+  use_cases:
+  - Transform insurance and real estate decision-making processes using generative
+    AI
+  - Enhance operational efficiency in property and title workflows through LLM-powered
+    automation
+  - Improve risk assessment and underwriting accuracy for insurance decisions
+  - Provide operations intelligence across property, title, and real estate sectors
+  skills:
+    genai: [GPT, Claude, LLaMA, LLM fine-tuning, RAG]
+    ml: [transformer models]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [MLOps, Docker, Git]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8316159'
+  extracted_at: '2026-02-05T12:48:42.841060'

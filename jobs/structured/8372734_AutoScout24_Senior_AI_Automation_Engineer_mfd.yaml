@@ -1,0 +1,51 @@
+company:
+  name: AutoScout24
+  stage: Public
+  focus: Online automotive marketplace platform
+  use_cases:
+  - Internal business workflow automation using GenAI agents
+  - Enterprise system integration with CRM, ERP, HCM, and collaboration tools
+  - AI-powered operations and process optimization within the organization
+  - Automated data processing and information retrieval across business systems
+position:
+  title: Senior AI Automation Engineer (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying
+      GenAI-powered automations and agents, including LLM APIs,
+      tool/function calling, and retrieval patterns. The engineer
+      is directly working on AI systems - not just supporting
+      infrastructure - by designing, implementing, and operating
+      AI solutions for internal business workflows.
+  responsibilities:
+  - Design, build, and ship GenAI automations and agents into internal business workflows
+  - Write and maintain application code, orchestration logic, and integration components
+  - Integrate with business systems and tools via APIs, events, and workflows
+  - Define and apply quality checks for agent behavior and iterate based on usage
+    and feedback
+  - Engineer for production reliability, security, observability, and cost awareness
+  - Partner with stakeholders to clarify requirements and support rollout into operations
+  - Capture reusable patterns and templates to speed up future delivery
+  use_cases:
+  - Internal business workflow automation using GenAI agents
+  - Enterprise system integration with CRM, ERP, HCM, and collaboration tools
+  - AI-powered operations and process optimization within the organization
+  - Automated data processing and information retrieval across business systems
+  skills:
+    genai: [LLM APIs, tool/function calling, retrieval patterns, agent frameworks,
+      prompt engineering]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: [workflow tooling]
+    cloud: []
+    ops: [testing, debugging, code quality, observability]
+    languages: []
+    domains: []
+    other: [CRM integration, ERP integration]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8372734'
+  extracted_at: '2026-02-05T13:00:33.391959'

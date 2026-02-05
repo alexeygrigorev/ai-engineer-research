@@ -1,0 +1,55 @@
+company:
+  name: Jellyfish
+  stage: growth-stage startup
+  focus: AI-integrated engineering team management platform
+  use_cases:
+  - Agentic chat interface that provides expert insights to engineering leaders
+  - AI-powered analytics across the entire Jellyfish platform
+  - Large-scale data processing for generative AI applications
+  - Context-aware LLM integration for engineering decision support
+  - AI tools that help align engineering decisions with business initiatives
+position:
+  title: Senior Backend Engineer - Native AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building backend systems specifically for
+      AI agents, including designing APIs for LLMs, optimizing for
+      AI inference patterns, and managing LLM context. While it's
+      backend-focused, the work is directly ON AI systems -
+      building infrastructure that powers agentic chat and enables
+      generative AI workloads rather than just supporting an AI
+      team.
+  responsibilities:
+  - Design and implement backend features for the Native AI Platform in an agile team
+  - Build infrastructure and APIs that enable AI agents to access and process platform
+    data at scale
+  - Develop data pipelines and integration layers optimized for generative AI workloads
+    and inference patterns
+  - Deploy and maintain AWS-hosted SaaS systems with automated CI/CD pipelines
+  - Support production operations and ensure reliability of AI-powered systems
+  - Collaborate across teams to provide technical expertise and drive AI platform
+    adoption
+  use_cases:
+  - Agentic chat interface that provides expert insights to engineering leaders
+  - AI-powered analytics across the entire Jellyfish platform
+  - Large-scale data processing for generative AI applications
+  - Context-aware LLM integration for engineering decision support
+  - AI tools that help align engineering decisions with business initiatives
+  skills:
+    genai: [Large Language Models, LLM API design, Context management, Copilot, Cursor,
+      Claude Code]
+    ml: []
+    web: [Django, API design]
+    databases: [Column stores]
+    data: [Data pipelines]
+    cloud: [AWS]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: []
+    other: [Kiro]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8061699'
+  extracted_at: '2026-02-05T11:56:52.542078'

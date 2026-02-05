@@ -1,0 +1,64 @@
+company:
+  name: Cambium Learning Group
+  stage: Public
+  focus: Educational technology and online assessment systems
+  use_cases:
+  - AI-powered educational software systems for student learning and assessment
+  - Autonomous AI agents for educational applications with multi-step reasoning
+  - Computer-based essay grading using AI with accuracy exceeding human graders
+  - Adaptive testing systems that customize exam experiences in real-time based on
+    student responses
+  - Large-scale online assessment platform serving millions of students and delivering
+    actionable insights to educators
+position:
+  title: Senior Software Engineer (AI Applications)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on technical role focused on building and
+      deploying AI systems. The responsibilities explicitly
+      include designing autonomous AI agents, implementing agentic
+      systems with tool calling and prompt optimization, building
+      RAG pipelines, and integrating LLMs into products. This is
+      not support work - the engineer is directly implementing the
+      AI agents and generative capabilities.
+  responsibilities:
+  - Design, build, and deploy robust Generative AI agents with persistent memory,
+    shared state management, and complex multi-step reasoning workflows
+  - Drive the development of cutting-edge AI-enabled web-based educational software
+    systems
+  - Incorporate Generative AI features into existing platforms with focus on performance
+    optimization, UX, and safety compliance
+  - Leverage Large Language Models and multimodal models to deliver context-aware
+    user experiences
+  - Establish and maintain frameworks for comprehensive agent evaluation, testing,
+    safety assessments, and performance monitoring
+  - Partner with cross-functional teams to translate user needs into scalable, production-ready
+    agentic capabilities
+  - Act as a technical mentor and subject matter expert on agent design patterns and
+    LLM integration strategies
+  use_cases:
+  - AI-powered educational software systems for student learning and assessment
+  - Autonomous AI agents for educational applications with multi-step reasoning
+  - Computer-based essay grading using AI with accuracy exceeding human graders
+  - Adaptive testing systems that customize exam experiences in real-time based on
+    student responses
+  - Large-scale online assessment platform serving millions of students and delivering
+    actionable insights to educators
+  skills:
+    genai: [agentic systems, tool calling, prompt engineering, RAG, LLMs, multimodal
+        models, MCP]
+    ml: [embedding models]
+    web: [API development, REST APIs]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, GCP, Azure, AWS Bedrock]
+    ops: [Docker, Kubernetes]
+    languages: [Python, JavaScript, TypeScript, C#]
+    domains: []
+    other: [browser automation]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8036989'
+  extracted_at: '2026-02-05T11:52:07.074880'

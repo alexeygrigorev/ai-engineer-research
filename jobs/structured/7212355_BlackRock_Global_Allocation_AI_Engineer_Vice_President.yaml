@@ -1,0 +1,56 @@
+company:
+  name: BlackRock
+  stage: Public
+  focus: Global asset management and investment management
+  use_cases:
+  - Systematic trading and alpha generation across asset classes including equities,
+    fixed income, and cryptocurrencies
+  - Unstructured data analysis for investment research and recommendation generation
+  - Portfolio allocation optimization using AI/ML models
+  - Top-down and bottom-up investment strategy development combining fundamental and
+    systematic approaches
+position:
+  title: Global Allocation AI Engineer, Vice President
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building LLM
+      frameworks, training/fine-tuning ML models, and implementing
+      AI/ML solutions from start to finish. The responsibilities
+      focus directly on developing AI ecosystems and systematic
+      alpha strategies rather than supporting infrastructure for
+      other teams.
+  responsibilities:
+  - Collaborate with portfolio managers and analysts to research and implement comprehensive
+    AI/ML-based solutions from start to finish
+  - Design and develop methods, processes, and systems to consolidate and analyze
+    unstructured and diverse data sources to generate actionable insights and investment
+    recommendations
+  - Develop systematic alpha strategies for single name equity selection, asset allocation,
+    fixed income, and cryptocurrencies
+  - Integrate new AI services across the platform
+  - Work with different datasets and run algorithms on large size data effectively
+    and efficiently, staying up to date with all the latest cutting-edge technologies
+  use_cases:
+  - Systematic trading and alpha generation across asset classes including equities,
+    fixed income, and cryptocurrencies
+  - Unstructured data analysis for investment research and recommendation generation
+  - Portfolio allocation optimization using AI/ML models
+  - Top-down and bottom-up investment strategy development combining fundamental and
+    systematic approaches
+  skills:
+    genai: [LLM frameworks]
+    ml: [ML model training, fine-tuning]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [distributed computing, GPUs]
+    languages: [Python, Java, C/C++]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7212355'
+  extracted_at: '2026-02-05T10:30:08.960971'

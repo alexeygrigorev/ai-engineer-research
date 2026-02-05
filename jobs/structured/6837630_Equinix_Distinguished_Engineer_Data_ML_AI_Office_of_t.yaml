@@ -1,0 +1,55 @@
+company:
+  name: Equinix
+  stage: Public
+  focus: Global digital infrastructure and connectivity platform
+  use_cases:
+  - Data lifecycle management and data-as-a-service architectures
+  - Data infrastructure including data lakes, data stores, and data processing engines
+  - ML and analytics platforms with MLOps, model building, and feature engineering
+  - Data governance as a service including data catalogs, discovery, lineage, and
+    master data management
+position:
+  title: Distinguished Engineer, Data, ML & AI, Office of the CTO
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Distinguished Engineer role focused on technology
+      architecture and strategy for data lifecycle management, ML
+      infrastructure, and AI platforms. The responsibilities
+      emphasize data infrastructure, MLOps, data governance, and
+      architecture rather than hands-on model building, training,
+      fine-tuning, or deploying AI models directly, which aligns
+      with ai-support classification.
+  responsibilities:
+  - Provide technical expertise to manage end-to-end data lifecycle and deliver reliable
+    and timely data through next-generation technologies and architecture
+  - Deliver architecture expertise across data engineering, analytics and ML, and
+    data governance including MLOps and feature engineering
+  - Drive proof-of-concept technology development initiatives to guide new technology
+    investments and design decisions for data lifecycle management
+  - Serve as a visible technology thought leader articulating Equinix's technology
+    vision, strategy and architecture
+  use_cases:
+  - Data lifecycle management and data-as-a-service architectures
+  - Data infrastructure including data lakes, data stores, and data processing engines
+  - ML and analytics platforms with MLOps, model building, and feature engineering
+  - Data governance as a service including data catalogs, discovery, lineage, and
+    master data management
+  skills:
+    genai: [artificial intelligence]
+    ml: [model building, feature engineering, machine learning]
+    web: []
+    databases: [data stores]
+    data: [data engineering, data lakes, data processing engines, search, data governance,
+      data catalogs, data lineage, master data management, distributed systems, data
+        infrastructure architecture, data-as-a-service]
+    cloud: [cloud-native computing]
+    ops: [MLOps, DevOps]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6837630'
+  extracted_at: '2026-02-05T09:54:47.470499'

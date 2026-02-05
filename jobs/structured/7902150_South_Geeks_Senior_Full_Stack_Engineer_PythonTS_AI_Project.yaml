@@ -1,0 +1,58 @@
+company:
+  name: South Geeks
+  stage: null
+  focus: |-
+    Commercial real estate technology platform for brokers with
+    automated document workflows and AI-driven analysis
+  use_cases:
+  - Automates complex document workflows for commercial real estate brokers
+  - AI-driven analysis integration for real estate document processing
+  - Document formatting workflows including DocX manipulation
+  - Multi-LLM orchestration for handling hundreds of model calls per operation
+  - Rich text editing capabilities through CKEditor integration
+position:
+  title: Senior Full Stack Engineer (Python+TS, AI Project)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI systems,
+      specifically building and optimizing a multi-LLM
+      orchestration layer that triggers hundreds of model calls
+      per operation. The engineer will integrate LLM APIs (OpenAI,
+      Anthropic) and work with sophisticated AI orchestrations
+      beyond simple chat wrappers.
+  responsibilities:
+  - Lead architectural planning, create technical proposals, and secure alignment
+    with other senior engineers before implementation
+  - Architect, design, and implement full-stack features across React/TypeScript,
+    FastAPI, and PostgreSQL
+  - Develop and maintain complex UI components, including CKEditor integrations and
+    DocX formatting workflows
+  - Build and optimize a multi-LLM orchestration layer that triggers hundreds of model
+    calls per operation
+  - Work with a sophisticated AI layer using multiple LLM orchestrations, not just
+    single-call ChatGPT wrappers
+  - Break down work into GitHub issues, maintain transparent progress, and ship verifiable
+    features weekly
+  use_cases:
+  - Automates complex document workflows for commercial real estate brokers
+  - AI-driven analysis integration for real estate document processing
+  - Document formatting workflows including DocX manipulation
+  - Multi-LLM orchestration for handling hundreds of model calls per operation
+  - Rich text editing capabilities through CKEditor integration
+  skills:
+    genai: [OpenAI API, Anthropic API, LLM orchestration]
+    ml: []
+    web: [React, FastAPI, CKEditor]
+    databases: [PostgreSQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, Python]
+    domains: []
+    other: [DocX formatting]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7902150'
+  extracted_at: '2026-02-05T11:39:49.789632'

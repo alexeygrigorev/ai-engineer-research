@@ -1,0 +1,55 @@
+company:
+  name: WEX Inc.
+  stage: Public
+  focus: Financial technology and payment solutions
+  use_cases:
+  - Deploying AI functionality into product applications in a scalable manner
+  - Building Agentic AI Applications for business solutions
+  - Integrating Large Language Models and ChatGPT into payment and healthcare systems
+  - Automating infrastructure, testing, and deployment for ML systems
+  - Creating ML system pipelines for data processing and model serving
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work designing, implementing,
+      training, and maintaining machine learning algorithms and ML
+      system pipelines. It explicitly mentions working with Large
+      Language Models, building Agentic AI Applications, and
+      deploying machine learning models, which are core AI-first
+      activities rather than support or infrastructure roles.
+  responsibilities:
+  - Design, implement, train and maintain machine learning algorithms and ML system
+    pipelines
+  - Work closely with AI platform team and line of business engineering teams to integrate
+    AI components and models into WEX systems
+  - Collaborate with the team to manage version control using GitHub and implement
+    robust CI/CD pipelines for continuous integration and delivery
+  - Design and implement RESTful APIs to facilitate communication between various
+    components and ensure smooth operation of applications
+  - Build Agentic AI Applications using Large Language Models and ChatGPT
+  - Collaborate effectively with cross-functional teams, participate in code reviews,
+    and communicate solutions to both technical and non-technical stakeholders
+  use_cases:
+  - Deploying AI functionality into product applications in a scalable manner
+  - Building Agentic AI Applications for business solutions
+  - Integrating Large Language Models and ChatGPT into payment and healthcare systems
+  - Automating infrastructure, testing, and deployment for ML systems
+  - Creating ML system pipelines for data processing and model serving
+  skills:
+    genai: [Large Language Models, ChatGPT, Agentic AI Applications]
+    ml: [PyTorch, TensorFlow]
+    web: [RESTful APIs]
+    databases: []
+    data: [Pandas, Numpy]
+    cloud: [AWS, Azure, GCP]
+    ops: [MLOps, Terraform, GitHub, CI/CD, DevOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7064866'
+  extracted_at: '2026-02-05T10:10:45.315206'

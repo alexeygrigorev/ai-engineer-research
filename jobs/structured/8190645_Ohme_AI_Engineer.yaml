@@ -1,0 +1,62 @@
+company:
+  name: Ohme
+  stage: Scale-up
+  focus: |-
+    Integrated hardware/software smart-grid platform for
+    residential EV charging
+  use_cases:
+  - Agentic AI framework for smart-grid platform integration
+  - RAG pipelines for structured and unstructured energy/charging data retrieval
+  - Intelligent agents that interact with APIs, data services, and users
+  - Tool-using agents for real-world EV charging and energy workflows
+  - Agent memory and state management for multi-step energy optimization tasks
+  - AI services for connecting cars, chargers, energy providers, and consumers
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI Engineer role with hands-on responsibility for
+      building, deploying, and operating agentic AI frameworks,
+      RAG pipelines, and intelligent agents. The role directly
+      works with LLM integration, agent orchestration, and
+      productionizing AI systems, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Design, build and maintain agentic AI framework that interact with Ohme's data
+    platform, APIs, and internal tools
+  - Implement and operate retrieval-augmented generation (RAG) pipelines using structured
+    and unstructured data sources
+  - Build and integrate agent memory, orchestration, and tool-use patterns for real-world
+    workflows
+  - Develop and deploy AI services using Python or other languages using software
+    engineering best practices
+  - Define and manage cloud infrastructure using AWS CDK (Python) and infrastructure-as-code
+    best practices
+  - Collaborate closely with data scientists, data engineers, applied AI analysts
+    and product teams to deliver end-to-end solutions
+  use_cases:
+  - Agentic AI framework for smart-grid platform integration
+  - RAG pipelines for structured and unstructured energy/charging data retrieval
+  - Intelligent agents that interact with APIs, data services, and users
+  - Tool-using agents for real-world EV charging and energy workflows
+  - Agent memory and state management for multi-step energy optimization tasks
+  - AI services for connecting cars, chargers, energy providers, and consumers
+  skills:
+    genai: [RAG, agents, MCP servers, OpenAI/Anthropic APIs, agent memory and state
+        management, embeddings]
+    ml: [semantic search]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, AWS Lambda, AWS Bedrock, AWS API Gateway]
+    ops: [AWS CDK, Docker, Kubernetes, CI/CD, monitoring (observability), Infrastructure
+        as Code]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8190645'
+  extracted_at: '2026-02-05T12:11:07.997028'

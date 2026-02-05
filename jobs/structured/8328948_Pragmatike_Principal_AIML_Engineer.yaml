@@ -1,0 +1,69 @@
+company:
+  name: Pragmatike
+  stage: Seed
+  focus: GenAI startup building production AI systems
+  use_cases:
+  - Deploying large-scale generative AI models and LLMs in production environments
+  - Optimizing training and inference pipelines for AI systems serving Fortune 500
+    clients
+  - Managing distributed GPU clusters for model training and serving at enterprise
+    scale
+  - Implementing observability and monitoring for production ML systems to ensure
+    reliability and performance
+  - Building automated ML workflows for model lifecycle management including fine-tuning
+    and evaluation
+position:
+  title: Principal AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Principal AI/ML Engineer role that involves hands-
+      on work across the entire model lifecycle including
+      training, fine-tuning, deployment, and optimization of LLMs
+      and generative models. The role requires expertise in ML
+      frameworks (PyTorch, Transformers, vLLM, Llama-factory,
+      Megatron-LM), GPU acceleration, and direct productionization
+      of models, which clearly places this in the ai-first
+      category.
+  responsibilities:
+  - Architect, build, and scale the end-to-end ML Ops pipeline including training,
+    fine-tuning, evaluation, rollout, and monitoring
+  - Design reliable infrastructure for model deployment, versioning, reproducibility,
+    and orchestration across cloud and on-prem GPU clusters
+  - Optimize compute usage across distributed systems including Kubernetes, autoscaling,
+    caching, GPU allocation, and checkpointing workflows
+  - Lead the implementation of observability for ML systems to monitor drift, performance,
+    throughput, reliability, and cost
+  - Build automated workflows for dataset curation, labeling, feature pipelines, evaluation,
+    and CI/CD for ML models
+  - Collaborate with researchers to productionize models and accelerate training and
+    inference pipelines
+  - Establish ML Ops best practices, internal standards, and cross-team tooling
+  - Mentor engineers and influence architectural direction across the entire AI platform
+  use_cases:
+  - Deploying large-scale generative AI models and LLMs in production environments
+  - Optimizing training and inference pipelines for AI systems serving Fortune 500
+    clients
+  - Managing distributed GPU clusters for model training and serving at enterprise
+    scale
+  - Implementing observability and monitoring for production ML systems to ensure
+    reliability and performance
+  - Building automated ML workflows for model lifecycle management including fine-tuning
+    and evaluation
+  skills:
+    genai: [Transformers, Llama-factory, LLMs]
+    ml: [PyTorch, Megatron-LM, CUDA, GPU acceleration, fine-tuning, model training]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [vLLM, Docker, Kubernetes, Helm, ML Ops, distributed systems, CI/CD, inference,
+      model registries]
+    languages: [Python, TypeScript, Go]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8328948'
+  extracted_at: '2026-02-05T12:52:50.304151'

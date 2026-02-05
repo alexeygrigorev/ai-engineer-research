@@ -1,0 +1,63 @@
+company:
+  name: IPG DXTRA
+  stage: null
+  focus: |-
+    Global PR and communications agency becoming fully AI-
+    integrated
+  use_cases:
+  - AI-enhanced marketing and PR processes for client success
+  - Operational efficiency solutions for local agency teams
+  - Custom AI assistants that follow codified agency best practices
+  - Enterprise web applications integrated with AI capabilities
+  - AI-powered products and services for communications and marketing
+  - Scalable AI solutions that integrate with existing agency systems
+position:
+  title: Senior AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deployment of AI
+      systems including custom AI assistants, MCP servers, AI
+      agents, and enterprise AI solutions using Claude API,
+      LangChain, and LangGraph. The engineer directly implements,
+      optimizes, and deploys AI models and agents rather than just
+      supporting infrastructure for AI work.
+  responsibilities:
+  - Partner with local teams to identify operational pain points and business challenges
+    that can be addressed with AI solutions
+  - Design and implement AI-assisted solutions using Claude and other cutting-edge
+    AI platforms, including custom-built assistants
+  - Develop Model Context Protocol (MCP) servers and AI agents for agency operations
+  - Build and deploy enterprise-grade AI solutions in cloud environments (AWS, Azure,
+    GCP) with CI/CD pipelines
+  - Build enterprise web applications using state of the art web frameworks (React,
+    Next.js) and develop APIs
+  - Write comprehensive Claude Project instruction sets from codified and optimized
+    agency processes
+  - Contribute to multi-year AI technology strategy and implementation roadmap
+  - Provide technical expertise, training, and mentorship to local agency teams on
+    AI implementation and best practices
+  use_cases:
+  - AI-enhanced marketing and PR processes for client success
+  - Operational efficiency solutions for local agency teams
+  - Custom AI assistants that follow codified agency best practices
+  - Enterprise web applications integrated with AI capabilities
+  - AI-powered products and services for communications and marketing
+  - Scalable AI solutions that integrate with existing agency systems
+  skills:
+    genai: [LangChain, LangGraph, Anthropic Claude API, Anthropic Claude desktop,
+      Model Context Protocol (MCP), custom AI assistants, AI agents]
+    ml: []
+    web: [React, Next.js, API development]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [CI/CD, GitHub]
+    languages: [Python, JavaScript]
+    domains: []
+    other: [AI governance, AI ethics, regulatory compliance]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6732235'
+  extracted_at: '2026-02-05T09:48:53.290233'

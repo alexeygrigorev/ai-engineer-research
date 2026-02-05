@@ -1,0 +1,55 @@
+company:
+  name: Wolters Kluwer
+  stage: Series B
+  focus: Legal AI platform for automating knowledge work
+  use_cases:
+  - Transforming how lawyers research, draft, and deliver legal work using generative
+    AI
+  - Automating knowledge work for legal professionals to enhance productivity
+  - Combining deep legal reasoning with cutting-edge generative technology
+  - Building intelligent, scalable solutions that empower legal professionals and
+    transform workflows
+position:
+  title: Full Stack Engineer (Libra - Legal AI Assistant) (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves integrating AI tools and agents to enhance
+      product capabilities and has a bonus requirement for
+      building LLM-powered products. The job description clearly
+      states they are building an AI platform that combines
+      generative technology with legal reasoning, and the engineer
+      will work end-to-end on these intelligent solutions.
+  responsibilities:
+  - Design, implement, and maintain product features across the stack from backend
+    APIs to frontend interfaces
+  - Collaborate closely with product and design teams to deliver intuitive, high-performing
+    user experiences
+  - Ensure code quality, security, and scalability through best practices and thoughtful
+    architecture
+  - Contribute to technical decision-making and help shape the engineering culture
+  - Explore and integrate AI tools and agents to enhance developer productivity and
+    product capabilities
+  use_cases:
+  - Transforming how lawyers research, draft, and deliver legal work using generative
+    AI
+  - Automating knowledge work for legal professionals to enhance productivity
+  - Combining deep legal reasoning with cutting-edge generative technology
+  - Building intelligent, scalable solutions that empower legal professionals and
+    transform workflows
+  skills:
+    genai: [LLM-powered products, AI coding agents, AI tools and agents]
+    ml: []
+    web: [FastAPI, Svelte]
+    databases: []
+    data: []
+    cloud: []
+    ops: [security principles]
+    languages: [Python, asynchronous programming, TypeScript]
+    domains: []
+    other: [software engineering best practices]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7798691'
+  extracted_at: '2026-02-05T11:31:47.094951'

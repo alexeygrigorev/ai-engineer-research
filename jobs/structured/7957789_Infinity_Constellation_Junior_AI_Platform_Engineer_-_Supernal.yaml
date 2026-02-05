@@ -1,0 +1,51 @@
+company:
+  name: Infinity Constellation
+  stage: Seed
+  focus: AI employees for SMBs with agentic workflows
+  use_cases:
+  - AI employees for SMBs to automate business operations
+  - Agentic workflows powered by LLM orchestration
+  - RAG-based systems for knowledge retrieval and task completion
+  - Function-calling and API orchestration for business process automation
+  - Scalable agent systems for real business outcomes
+position:
+  title: Junior AI Platform Engineer - Supernal
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building advanced AI agent workflows using
+      N8n and designing agentic systems with RAG, function-
+      calling, and LLM orchestration. This is hands-on work
+      directly implementing AI systems, not supporting
+      infrastructure for others.
+  responsibilities:
+  - Build advanced AI agent workflows on N8n and Supernal's proprietary platform
+  - Lead engineering delivery for highest-priority customers
+  - Own technical architecture decisions for agentic systems including tool usage,
+    RAG design, API orchestration, and task decomposition
+  - Define, document, and evolve engineering best practices
+  - Review technical work for quality, scalability, and maintainability
+  - Contribute to internal tooling and system improvements that accelerate agent deployment
+  use_cases:
+  - AI employees for SMBs to automate business operations
+  - Agentic workflows powered by LLM orchestration
+  - RAG-based systems for knowledge retrieval and task completion
+  - Function-calling and API orchestration for business process automation
+  - Scalable agent systems for real business outcomes
+  skills:
+    genai: [agentic architectures, prompt engineering, function-calling, RAG, LLM
+        orchestration]
+    ml: []
+    web: [APIs, REST]
+    databases: []
+    data: [N8n]
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [workflow automation]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7957789'
+  extracted_at: '2026-02-05T11:44:17.461547'

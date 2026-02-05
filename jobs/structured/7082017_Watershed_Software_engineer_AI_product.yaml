@@ -1,0 +1,54 @@
+company:
+  name: Watershed
+  stage: Series B
+  focus: Enterprise sustainability and ESG data platform
+  use_cases:
+  - AI-powered information extraction from sustainability data
+  - Automated sustainability and ESG report generation
+  - Climate data management with AI assistance
+  - Audit-ready metrics generation for regulatory reporting
+  - Decarbonization progress tracking and reporting
+position:
+  title: Software engineer, AI product
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly building and deploying LLM-based
+      products for customers, including information extraction,
+      report generation, and AI features. The engineer will work
+      hands-on with LLMs, embeddings, and other ML technologies,
+      prototype new product areas, and productionize core AI
+      technologies - all hallmarks of working directly ON AI
+      systems rather than just supporting them.
+  responsibilities:
+  - Prototype, develop and iterate on AI products for information extraction and report
+    generation
+  - Productionize and launch core technologies to power AI features on operational
+    sustainability data
+  - Collaborate with product and AI engineering teams to set product and technical
+    strategy
+  - Keep up with state-of-the-art AI developments to determine relevance to Watershed
+  - Write performant, tested, and maintainable code across the technical stack
+  - Lay the technical foundations for AI at Watershed
+  use_cases:
+  - AI-powered information extraction from sustainability data
+  - Automated sustainability and ESG report generation
+  - Climate data management with AI assistance
+  - Audit-ready metrics generation for regulatory reporting
+  - Decarbonization progress tracking and reporting
+  skills:
+    genai: [LLMs, embeddings, prompt engineering, RAG]
+    ml: [model evaluation, model performance]
+    web: [full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: [monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7082017'
+  extracted_at: '2026-02-05T10:13:09.563530'

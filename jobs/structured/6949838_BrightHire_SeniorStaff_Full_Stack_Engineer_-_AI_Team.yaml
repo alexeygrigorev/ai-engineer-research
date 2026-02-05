@@ -1,0 +1,63 @@
+company:
+  name: BrightHire
+  stage: Series B
+  focus: Interview intelligence and hiring experience platform
+  use_cases:
+  - Automatic interview coaching providing tailored feedback based on interviewer's
+    recent interviews
+  - AI candidate skills matrix that structures and summarizes candidate information
+    aligned to job descriptions
+  - Natural language AI assistant for querying any detail about candidates or interviews
+  - Customizable AI-generated interview summaries with personalized structure and
+    criteria
+  - Structured data transformation combining SQL and unstructured text data for AI
+    processing
+position:
+  title: Senior/Staff Full Stack Engineer - AI Team
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires direct hands-on work with LLMs including
+      prompt engineering, prompt chains, vector search, and
+      building eval harnesses. The engineer will own end-to-end
+      delivery of generative AI features, focusing on AI output
+      quality and accuracy.
+  responsibilities:
+  - Own end-to-end delivery of major AI features from prompt engineering through backend
+    to frontend interactions
+  - Design, build, and refine AI features focusing on output quality, accuracy, and
+    speed
+  - Build generative AI applications with prompt chains, eval harnesses, and vector
+    search
+  - Develop automatic interview coaching with tailored feedback and guidance
+  - Create AI candidate skills matrix displaying structured summaries mapped to job
+    requirements
+  - Build AI assistant for natural language queries about candidates and interviews
+  - Implement customizable AI-generated interview summaries with user-defined structure
+    and criteria
+  use_cases:
+  - Automatic interview coaching providing tailored feedback based on interviewer's
+    recent interviews
+  - AI candidate skills matrix that structures and summarizes candidate information
+    aligned to job descriptions
+  - Natural language AI assistant for querying any detail about candidates or interviews
+  - Customizable AI-generated interview summaries with personalized structure and
+    criteria
+  - Structured data transformation combining SQL and unstructured text data for AI
+    processing
+  skills:
+    genai: [prompt engineering, prompt chains, LLMs, generative AI applications]
+    ml: []
+    web: [REST]
+    databases: [vector search, SQL]
+    data: []
+    cloud: []
+    ops: [eval harnesses]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6949838'
+  extracted_at: '2026-02-05T10:03:29.550070'

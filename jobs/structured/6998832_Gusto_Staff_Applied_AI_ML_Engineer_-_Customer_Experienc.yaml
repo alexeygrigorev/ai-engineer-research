@@ -1,0 +1,59 @@
+company:
+  name: Gusto
+  stage: Public
+  focus: Payroll, benefits, and HR platform for small businesses
+  use_cases:
+  - Personalizing world-class content for customers across the customer journey
+  - Building AI and ML enabled experiences to optimize customer experience and customer
+    journey
+  - Leveraging rich datasets to guide product direction and decision-making
+  - Creating unified service platform stack using machine learning and AI for customer
+    experience enhancement
+position:
+  title: Staff Applied AI/ ML Engineer - Customer Experience Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role requires hands-on building and deployment of AI/ML
+      models, including LLMs, RAG, and deep learning. The engineer
+      will design, develop, and optimize production-grade AI
+      solutions for customer experience, working directly on model
+      development, deployment, and lifecycle management.
+  responsibilities:
+  - Design and develop scalable, production-grade AI and machine learning models for
+    solving complex business problems
+  - Lead and mentor teams of ML engineers, fostering a culture of technical excellence
+    and innovation
+  - Collaborate cross-functionally with product, engineering, and business stakeholders
+    to identify AI opportunities and translate them into actionable solutions
+  - Stay current with latest AI research; prototype and implement new algorithms and
+    advancements from academia and industry
+  - Oversee model validation, deployment, evaluation, and lifecycle management, ensuring
+    robust monitoring, explainability, and performance
+  - Guide technical strategy, roadmap, and architectural decisions for the ML/AI function
+  - Communicate findings, roadmaps, and performance results clearly to executives
+    and non-technical partners
+  use_cases:
+  - Personalizing world-class content for customers across the customer journey
+  - Building AI and ML enabled experiences to optimize customer experience and customer
+    journey
+  - Leveraging rich datasets to guide product direction and decision-making
+  - Creating unified service platform stack using machine learning and AI for customer
+    experience enhancement
+  skills:
+    genai: [LLMs, RAG]
+    ml: [PyTorch, TensorFlow, HuggingFace, deep learning, reinforcement learning,
+      supervised learning, unsupervised learning]
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [CI/CD]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6998832'
+  extracted_at: '2026-02-05T10:05:06.622310'

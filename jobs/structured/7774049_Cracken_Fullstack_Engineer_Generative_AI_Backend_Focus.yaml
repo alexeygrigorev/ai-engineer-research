@@ -1,0 +1,46 @@
+company:
+  name: Cracken
+  stage: Seed
+  focus: Agentic AI copilot for cybersecurity assessments
+  use_cases:
+  - AI Agent copilot for cybersecurity assessments
+  - Agentic AI system for enterprise and government cyber assessments
+  - Human-in-the-loop AI cybersecurity operations
+  - Autonomous cyber assessment scaling
+position:
+  title: Fullstack Engineer, Generative AI (Backend Focus)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is building, testing, and implementing AI Agents
+      and an internal agent framework similar to
+      LangChain/Haystack. This is hands-on work directly on AI
+      systems - implementing RAG, evaluating agent performance,
+      and integrating agents into existing systems, which
+      qualifies as ai-first.
+  responsibilities:
+  - Hands-on engineering and testing of the product, focusing on AI Agent features
+  - Engineering and testing of the internal agent's framework (similar to LangChain/Haystack)
+  - Research and development to stay updated with AI and AI Agents innovations
+  - Integrate new AI technologies and insights into the product
+  use_cases:
+  - AI Agent copilot for cybersecurity assessments
+  - Agentic AI system for enterprise and government cyber assessments
+  - Human-in-the-loop AI cybersecurity operations
+  - Autonomous cyber assessment scaling
+  skills:
+    genai: [LangChain, Haystack, LlamaIndex, RAG, AI Agents, AI Agent evaluation]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: [cybersecurity]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7774049'
+  extracted_at: '2026-02-05T11:26:43.908600'

@@ -1,0 +1,59 @@
+company:
+  name: Helsing
+  stage: Series B+
+  focus: |-
+    Defence AI company protecting democracies with AI-based
+    capabilities for semi-autonomous platforms
+  use_cases:
+  - Real-time localization and navigation for semi-autonomous platforms
+  - Perception systems for defense platforms to detect and understand environments
+  - Adversarial attack detection and defense mechanisms for deployed AI systems
+  - AI capabilities deployment on edge devices with limited compute resources
+  - Reinforcement learning applications for autonomous defense operations
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct work on ML/AI systems, developing
+      and extending state-of-the-art methods and architectures,
+      integrating cutting-edge ML/AI into production systems for
+      semi-autonomous platforms. This is hands-on work building,
+      deploying, and evaluating AI models, clearly aligning with
+      ai-first classification.
+  responsibilities:
+  - Develop ML/AI systems leveraging state-of-the-art methods and architectures for
+    real-time perception and navigation
+  - Design experiments and conduct benchmarks to evaluate and improve performance
+    in real-world defense scenarios
+  - Collaborate across teams to integrate cutting-edge ML/AI into production systems
+    with high robustness requirements
+  - Deploy AI software to production including testing, QA, and monitoring for semi-autonomous
+    platforms
+  - Reimplement and extend research papers on state-of-the-art Deep Learning approaches
+    for defense applications
+  - Ensure AI systems achieve high generalization and strong robustness against adversarial
+    attacks
+  use_cases:
+  - Real-time localization and navigation for semi-autonomous platforms
+  - Perception systems for defense platforms to detect and understand environments
+  - Adversarial attack detection and defense mechanisms for deployed AI systems
+  - AI capabilities deployment on edge devices with limited compute resources
+  - Reinforcement learning applications for autonomous defense operations
+  skills:
+    genai: [Generative AI]
+    ml: [Deep Learning, Reinforcement Learning, Model Training, Robustness/Adversarial
+        Defense]
+    web: []
+    databases: []
+    data: [ML Pipelines, Synthetic Data Generation]
+    cloud: []
+    ops: [Distributed Systems, Deployment Infrastructure, Testing/QA, Monitoring]
+    languages: [Python, Rust, Java, C++]
+    domains: [Computer Vision]
+    other: [Simulators/Emulators, Edge Computing/Edge AI]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8229126'
+  extracted_at: '2026-02-05T12:16:15.506718'

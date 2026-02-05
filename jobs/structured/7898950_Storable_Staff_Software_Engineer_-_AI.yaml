@@ -1,0 +1,61 @@
+company:
+  name: Storable
+  stage: null
+  focus: |-
+    Property management software for self-storage, marine, and
+    RV industries
+  use_cases:
+  - AI-enabled products and platform capabilities for property management
+  - Integration of LLM-powered features across product ecosystem
+  - Production workflows leveraging foundation models for enhanced functionality
+  - RAG (Retrieval-Augmented Generation) implementations for intelligent information
+    retrieval
+  - Agentic workflows for autonomous task execution within property management systems
+position:
+  title: Staff Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on implementation of LLM
+      integration including fine-tuning, RAG, orchestration, agent
+      frameworks, and embeddings. The engineer will directly
+      build, deploy, and optimize AI systems using OpenAI,
+      Anthropic, and Bedrock foundation models rather than just
+      supporting AI infrastructure.
+  responsibilities:
+  - Define and drive the technical vision for AI-powered features and platform components
+  - Architect scalable, secure, and resilient backend systems and pipelines
+  - Evaluate, design, and implement solutions using OpenAI, Anthropic, and Bedrock
+    foundation models
+  - Establish best practices for prompt engineering, model evaluation, data flows,
+    and AI system reliability
+  - Build robust backend services and APIs using Python (FastAPI, Flask, etc)
+  - Integrate LLMs into production workflows including fine-tuning, RAG, orchestration,
+    agent frameworks, and embeddings
+  - Develop cloud-native systems using AWS services such as EKS, Kubernetes, Lambda,
+    S3, DynamoDB, API Gateway, Step Functions, and SageMaker
+  - Partner with product managers to translate AI concepts into scalable engineering
+    solutions and mentor engineers across teams
+  use_cases:
+  - AI-enabled products and platform capabilities for property management
+  - Integration of LLM-powered features across product ecosystem
+  - Production workflows leveraging foundation models for enhanced functionality
+  - RAG (Retrieval-Augmented Generation) implementations for intelligent information
+    retrieval
+  - Agentic workflows for autonomous task execution within property management systems
+  skills:
+    genai: [OpenAI, Anthropic Claude, RAG, agent frameworks, embeddings, prompt engineering]
+    ml: [fine-tuning]
+    web: [FastAPI, Flask, ReactJS, NextJS]
+    databases: [Postgres, DynamoDB, vector databases, ChromaDB, Pinecone]
+    data: []
+    cloud: [Amazon Bedrock, AWS, Lambda, S3, API Gateway, Step Functions, SageMaker]
+    ops: [EKS, Kubernetes, CI/CD, Terraform, Docker]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7898950'
+  extracted_at: '2026-02-05T11:39:13.888626'

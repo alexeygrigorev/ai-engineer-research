@@ -1,0 +1,56 @@
+company:
+  name: Automattic
+  stage: Public
+  focus: Web publishing, e-commerce, and messaging platforms
+  use_cases:
+  - Content creation tools for creators to tell better stories
+  - E-commerce recommendations to help merchants compete effectively
+  - AI-powered messaging experiences for communications
+  - User-facing AI features that enhance WordPress.com, WooCommerce, Tumblr, and other
+    platforms
+  - Scalable AI-powered user interfaces that perform well at production scale
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role involving direct work with LLMs and
+      AI features, building AI-powered user interfaces, and
+      shipping AI products that impact millions of users. The role
+      requires production experience with LLMs (APIs or custom
+      implementations) and focuses on building AI features rather
+      than just supporting AI infrastructure.
+  responsibilities:
+  - Ship user-facing AI features across Automattic's product ecosystem; from content
+    creation tools to e-commerce recommendations to messaging experiences
+  - Build and iterate rapidly on AI-powered products that directly impact millions
+    of users
+  - Collaborate intensively with PMs, designers, and engineers in a fast-paced environment
+    optimized for innovation
+  - Experiment and scale successful AI innovations from prototype to production across
+    multiple products
+  - Push the boundaries of what's possible when exceptional AI talent works together
+  - Stay current with AI developments that unlock new user experiences
+  use_cases:
+  - Content creation tools for creators to tell better stories
+  - E-commerce recommendations to help merchants compete effectively
+  - AI-powered messaging experiences for communications
+  - User-facing AI features that enhance WordPress.com, WooCommerce, Tumblr, and other
+    platforms
+  - Scalable AI-powered user interfaces that perform well at production scale
+  skills:
+    genai: [LLMs, OpenAI/Anthropic APIs]
+    ml: [machine learning fundamentals]
+    web: [full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [PHP, Python, JavaScript]
+    domains: [e-commerce]
+    other: [WordPress, technical leadership]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7047212'
+  extracted_at: '2026-02-05T10:09:27.334484'

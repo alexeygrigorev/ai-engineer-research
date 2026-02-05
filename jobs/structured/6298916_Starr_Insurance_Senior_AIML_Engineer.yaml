@@ -1,0 +1,57 @@
+company:
+  name: Starr Insurance
+  stage: Public
+  focus: Global commercial property and casualty insurance
+  use_cases:
+  - Classification models for insurance business decisions
+  - Forecasting and propensity modeling
+  - Uplift modeling for customer targeting
+  - Foundational model fine-tuning, evaluation, and implementation
+  - AI/ML augmentation for underwriting and risk assessment
+  - AI/ML augmentation for claims processing
+position:
+  title: Senior AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with both traditional ML
+      models (classification, forecasting, uplift modeling) and
+      foundational models (LLM fine-tuning, evaluation,
+      implementation). The engineer is responsible for designing,
+      developing, and deploying AI/ML solutions directly, not just
+      supporting infrastructure or data pipelines.
+  responsibilities:
+  - Design, develop, and deploy AI/ML solutions using statistics, machine learning,
+    deep learning, and foundational models to improve profitability
+  - Identify growth opportunities in underwriting, claims processing, risk assessment,
+    and customer service through AI/ML augmentation
+  - Collaborate cross-functionally with business, IT, and Transformation to drive
+    scalability and impact of AI/ML solutions
+  - Communicate complex AI/ML concepts and findings to business leaders in a clear
+    and concise manner
+  - Conduct research and stay up-to-date with the latest advancements in AI/ML to
+    continuously improve capabilities
+  use_cases:
+  - Classification models for insurance business decisions
+  - Forecasting and propensity modeling
+  - Uplift modeling for customer targeting
+  - Foundational model fine-tuning, evaluation, and implementation
+  - AI/ML augmentation for underwriting and risk assessment
+  - AI/ML augmentation for claims processing
+  skills:
+    genai: [LLM, foundational models, fine-tuning, prompt engineering]
+    ml: [logistic regression, hierarchical regression, decision tree, random forest,
+      neural networks, predictive modeling]
+    web: []
+    databases: []
+    data: [data mining, data modeling workflow]
+    cloud: [Azure, AWS]
+    ops: []
+    languages: [Python, SQL]
+    domains: [NLP, NLU]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6298916'
+  extracted_at: '2026-02-05T09:43:02.962236'

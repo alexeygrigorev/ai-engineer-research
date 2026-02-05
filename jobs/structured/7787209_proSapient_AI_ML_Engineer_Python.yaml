@@ -1,0 +1,55 @@
+company:
+  name: proSapient
+  stage: null
+  focus: |-
+    Expert network platform for consulting and private equity
+    firms
+  use_cases:
+  - Expert recommendations for consulting and private equity firms
+  - LLM-based data extraction from expert interviews and surveys
+  - Content extraction and knowledge management from expert knowledge
+  - Workflow automation for knowledge discovery processes
+  - Real-time search and retrieval of expert information
+position:
+  title: AI/ ML Engineer (Python)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI/ML engineering role that directly
+      works ON AI systems including LLM-based data extraction, RAG
+      implementation, prompt engineering, fine-tuning, and
+      building production-grade AI solutions. The role involves
+      translating business problems into AI-powered solutions and
+      building recommendation engines, which goes beyond just
+      supporting AI teams.
+  responsibilities:
+  - Translate business problems into structured data science solutions with measurable
+    outcomes
+  - Design and build production-grade solutions using LLM providers, Python, and databases
+  - Conduct and analyse experiments to evaluate the quality of data processing pipelines
+  - Work with real-time data streams and search infrastructure using tools like Kafka
+    and Elasticsearch
+  - Present findings and recommendations to both technical and non-technical stakeholders
+  - Build AI-powered recommendation engines and workflow automation systems
+  use_cases:
+  - Expert recommendations for consulting and private equity firms
+  - LLM-based data extraction from expert interviews and surveys
+  - Content extraction and knowledge management from expert knowledge
+  - Workflow automation for knowledge discovery processes
+  - Real-time search and retrieval of expert information
+  skills:
+    genai: [LLMs, prompt engineering, fine-tuning, RAG, LangSmith, PromptLayer]
+    ml: []
+    web: [FastAPI, Django, RESTful APIs]
+    databases: [PostgreSQL, Elasticsearch]
+    data: [pandas, spaCy, Kafka, RabbitMQ]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Prometheus, Datadog]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7787209'
+  extracted_at: '2026-02-05T11:31:08.584417'

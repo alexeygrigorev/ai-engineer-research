@@ -1,0 +1,59 @@
+company:
+  name: Dojo
+  stage: Public
+  focus: Payments infrastructure for in-person commerce
+  use_cases:
+  - Enabling product teams to consume LLM capabilities at scale through APIs and SDKs
+  - Orchestrating multi-model and multi-service AI workflows using agentic frameworks
+  - Supporting RAG implementations with vector search and retrieval systems
+  - Monitoring and ensuring safety of AI systems in production environments
+  - Deploying and managing AI models through automated infrastructure pipelines
+position:
+  title: Senior Software Engineer - AI Platform Engineering
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Platform Engineering role focused on building
+      infrastructure, APIs, orchestration, and tooling to enable
+      other teams to consume AI capabilities. The engineer builds
+      platforms and foundations for AI adoption rather than
+      directly building, training, or fine-tuning models
+      themselves.
+  responsibilities:
+  - Design and build the AI platform that powers LLMs, agents, and other AI solutions
+    across Dojo
+  - Develop APIs, SDKs, and tooling that allow product teams to consume AI capabilities
+    at scale
+  - Implement orchestration for multi-model and multi-service workflows using frameworks
+    like LangGraph, Crew AI, and agentic frameworks
+  - Build and manage vector search and retrieval systems to support RAG and knowledge
+    integration
+  - Build robust monitoring, logging, and guardrails to ensure AI systems are safe,
+    observable, and compliant
+  - Automate infrastructure and model deployment with Kubernetes, Terraform, and CI/CD
+    pipelines
+  - Partner with security, compliance, and product teams to ensure safe use of AI
+    in production
+  use_cases:
+  - Enabling product teams to consume LLM capabilities at scale through APIs and SDKs
+  - Orchestrating multi-model and multi-service AI workflows using agentic frameworks
+  - Supporting RAG implementations with vector search and retrieval systems
+  - Monitoring and ensuring safety of AI systems in production environments
+  - Deploying and managing AI models through automated infrastructure pipelines
+  skills:
+    genai: [LangChain, LangGraph, CrewAI, Google Agent Development Kit, RAG]
+    ml: []
+    web: []
+    databases: [FAISS, Pinecone, Weaviate, Vertex Vector Search]
+    data: []
+    cloud: [VertexAI, GCP]
+    ops: [Langsmith, Prometheus, Grafana, MLflow, Ollama, OpenRouter, Kubernetes,
+      Terraform, Helm, CI/CD, service mesh]
+    languages: [Python, Go, Java, .NET]
+    domains: []
+    other: [distributed systems, microservices, event-driven systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7105692'
+  extracted_at: '2026-02-05T10:16:54.757670'

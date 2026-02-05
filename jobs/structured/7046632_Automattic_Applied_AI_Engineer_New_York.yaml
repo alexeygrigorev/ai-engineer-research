@@ -1,0 +1,58 @@
+company:
+  name: Automattic
+  stage: Public
+  focus: |-
+    Open source web publishing, ecommerce, and messaging
+    platforms
+  use_cases:
+  - AI-powered content creation tools for creators and publishers
+  - E-commerce recommendation systems for merchants on WooCommerce
+  - AI-enhanced messaging experiences across platforms like Tumblr and Beeper
+  - User-facing AI features that improve storytelling and content creation
+  - Scalable AI products that help merchants compete effectively
+  - AI tools integrated into WordPress.com ecosystem for millions of users
+position:
+  title: Applied AI Engineer (New York)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on work building and shipping AI
+      features that directly impact users, with production
+      experience working with LLMs at scale. The engineer will
+      build AI-powered products from model APIs to user
+      interfaces, not supporting infrastructure or platforms for
+      others.
+  responsibilities:
+  - Ship user-facing AI features across Automattic's product ecosystem, including
+    content creation tools, e-commerce recommendations, and messaging experiences
+  - Build and iterate rapidly on AI-powered products that directly impact millions
+    of users
+  - Collaborate intensively with PMs, designers, and engineers in a fast-paced environment
+    optimized for innovation
+  - Experiment and scale successful AI innovations from prototype to production across
+    multiple products
+  - Push the boundaries of what's possible when exceptional AI talent works together
+  - Stay current with AI developments that unlock new user experiences
+  use_cases:
+  - AI-powered content creation tools for creators and publishers
+  - E-commerce recommendation systems for merchants on WooCommerce
+  - AI-enhanced messaging experiences across platforms like Tumblr and Beeper
+  - User-facing AI features that improve storytelling and content creation
+  - Scalable AI products that help merchants compete effectively
+  - AI tools integrated into WordPress.com ecosystem for millions of users
+  skills:
+    genai: [LLMs, OpenAI APIs]
+    ml: []
+    web: [full-stack development]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, PHP, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7046632'
+  extracted_at: '2026-02-05T10:08:23.242309'

@@ -1,0 +1,61 @@
+company:
+  name: The College Board
+  stage: null
+  focus: |-
+    Educational nonprofit - college and career planning platform
+    for students
+  use_cases:
+  - Personalized college, scholarship, and career exploration for over 7 million students
+  - LLM-powered tools to automate and enhance student journey through BigFuture platform
+  - AI-driven personalization for college search, scholarship search, and career planning
+    features
+  - GenAI applications for mobile app (BigFuture School) and web platform (bigfuture.org)
+  - Intelligent dashboards and checklists to help students discover and pursue educational
+    paths
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires hands-on experience building with LLMs
+      including fine-tuning, prompting, RAG architectures, and
+      vector databases. The engineer will directly implement LLM-
+      driven tools and serve as a Subject Matter Expert on
+      Generative AI applications, not just support infrastructure.
+  responsibilities:
+  - Design and build next-generation user experiences powered by Generative AI and
+    LLM-driven tools
+  - Implement RAG architectures, embeddings, and vector database solutions to personalize
+    user journeys
+  - Collaborate with product owners and architects to translate AI concepts into scalable,
+    secure student-facing solutions
+  - Serve as Subject Matter Expert on Generative AI implementation and establish patterns
+    across teams
+  - Create infrastructure and tools to enable safe deployment of Generative AI applications
+  - Mentor teammates, provide code reviews, and elevate team performance through technical
+    leadership
+  use_cases:
+  - Personalized college, scholarship, and career exploration for over 7 million students
+  - LLM-powered tools to automate and enhance student journey through BigFuture platform
+  - AI-driven personalization for college search, scholarship search, and career planning
+    features
+  - GenAI applications for mobile app (BigFuture School) and web platform (bigfuture.org)
+  - Intelligent dashboards and checklists to help students discover and pursue educational
+    paths
+  skills:
+    genai: [OpenAI, Anthropic, LLM fine-tuning, prompt engineering, few-shot learning,
+      RAG, embeddings]
+    ml: []
+    web: [FastAPI, Flask, Django, React, Next.js]
+    databases: [Pinecone, AWS OpenSearch, DynamoDB, PostgreSQL, MySQL, Redshift]
+    data: [event-driven messaging, asynchronous programming]
+    cloud: [AWS Lambda, SNS, SQS, S3, Step Functions, IAM, KMS, API Gateway, CloudWatch]
+    ops: [CI/CD]
+    languages: [TypeScript, JavaScript, Python, Node.js]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7602446'
+  extracted_at: '2026-02-05T11:12:35.436374'

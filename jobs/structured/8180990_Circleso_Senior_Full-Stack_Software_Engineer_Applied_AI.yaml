@@ -1,0 +1,57 @@
+company:
+  name: Circle.so
+  stage: null
+  focus: All-in-one platform for online communities
+  use_cases:
+  - AI agents for community automation and engagement
+  - Retrieval-Augmented Generation (RAG) systems for intelligent content retrieval
+    and generation
+  - LLM-powered tools for enhancing community interactions and content creation
+  - AI evaluations and observability for monitoring AI feature performance
+  - Production-level LLM inference infrastructure for scalable AI deployment
+position:
+  title: Senior Full-Stack Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role building AI features
+      directly - AI agents, RAG systems, and LLM-powered tools.
+      The engineer will build infrastructure for LLM inference and
+      run A/B experiments on production AI use cases, working
+      directly on implementing and deploying AI solutions rather
+      than just supporting them.
+  responsibilities:
+  - Ship full-stack AI projects end-to-end on a product built in Ruby on Rails backend
+    and React frontend
+  - Design and run experiments including A/B tests and AI evaluations to validate
+    AI features and guide iteration
+  - Build and integrate components for AI infrastructure and optimize them for performance
+    and reliability to support production-level inferencing
+  - Improve processes, tools, and systems to scale AI features into production-ready
+    solutions
+  - Stay up-to-date with cutting-edge AI research, techniques, and tools
+  - Work closely with Circle's leaders and designers throughout the feature design
+    process
+  use_cases:
+  - AI agents for community automation and engagement
+  - Retrieval-Augmented Generation (RAG) systems for intelligent content retrieval
+    and generation
+  - LLM-powered tools for enhancing community interactions and content creation
+  - AI evaluations and observability for monitoring AI feature performance
+  - Production-level LLM inference infrastructure for scalable AI deployment
+  skills:
+    genai: [LLMs, RAG, AI agents]
+    ml: []
+    web: [Ruby on Rails, ReactJS]
+    databases: [PostgreSQL, MySQL]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: [A/B testing]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8180990'
+  extracted_at: '2026-02-05T12:09:37.245723'

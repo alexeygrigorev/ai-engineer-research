@@ -1,0 +1,72 @@
+company:
+  name: Traversal
+  stage: Series B
+  focus: |-
+    AI Site Reliability Engineer for enterprise incident
+    troubleshooting and remediation
+  use_cases:
+  - AI-powered site reliability engineering and production incident troubleshooting
+    for enterprises
+  - High-concurrency AI inference serving for Fortune 50 companies with multi-tenancy
+  - Agentic tooling and workflows via MCP for automated incident remediation and prevention
+  - Real-time data pipeline processing using Kafka for AI agent operations and event
+    streaming
+  - Enterprise-grade AI infrastructure with SOC 2 Type II compliance for secure, reliable
+    AI operations
+  - Autonomous production issue resolution to free engineers from manual firefighting
+position:
+  title: AI Engineer - Infrastructure
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is an AI Infrastructure Engineer role focused on
+      building the platform and reliability systems that power
+      Traversal's AI products. The role involves designing and
+      operating infrastructure for inference, data pipelines, and
+      agentic workflows, but does not directly build, train, or
+      fine-tune models - rather it creates the systems that enable
+      AI systems to run reliably at scale.
+  responsibilities:
+  - Design scalable, reliable infrastructure for AI inference, data pipelines, and
+    agentic workflows
+  - Migrate from Python multiprocessing + Postgres-as-queue to Kubernetes-native queuing
+    and orchestration using KEDA/HPA, Jobs/CronJobs, and Kueue/Argo
+  - Operate and tune managed Kafka systems including partitioning, throughput optimization,
+    DLQ design, and idempotent sink implementation
+  - Implement autoscaling based on real signals like queue lag, in-flight requests,
+    and latency with burst capacity and safe drains
+  - Productionize MCP toolchains with reliability patterns including circuit breaking,
+    timeouts, sandboxing, and audit logging
+  - Build observability systems with RED/USE dashboards and OpenTelemetry traces across
+    gateway, agent, tool, Kafka, and sink layers
+  - Manage infrastructure as code using Terraform, Helm, and Kustomize for multi-environment
+    deployments with policy-as-code and workload identity
+  use_cases:
+  - AI-powered site reliability engineering and production incident troubleshooting
+    for enterprises
+  - High-concurrency AI inference serving for Fortune 50 companies with multi-tenancy
+  - Agentic tooling and workflows via MCP for automated incident remediation and prevention
+  - Real-time data pipeline processing using Kafka for AI agent operations and event
+    streaming
+  - Enterprise-grade AI infrastructure with SOC 2 Type II compliance for secure, reliable
+    AI operations
+  - Autonomous production issue resolution to free engineers from manual firefighting
+  skills:
+    genai: [MCP]
+    ml: []
+    web: []
+    databases: [Postgres, ClickHouse]
+    data: [Kafka]
+    cloud: [AWS, EKS]
+    ops: [Kubernetes, KEDA, HPA, Argo, Kueue, Terraform, Helm, Kustomize, OpenTelemetry,
+      OPA, Rego, GPU workload operations, MIG, Envoy, Istio, Cilium, eBPF, Circuit
+        breaking, Autoscaling, Queuing systems, Incident response, Chaos testing,
+      Capacity planning, Security, Canary deployments, Blue/green deployments]
+    languages: [Python, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8198846'
+  extracted_at: '2026-02-05T12:12:35.353109'

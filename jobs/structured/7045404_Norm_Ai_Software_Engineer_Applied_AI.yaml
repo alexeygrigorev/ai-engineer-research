@@ -1,0 +1,53 @@
+company:
+  name: Norm Ai
+  stage: Series B+
+  focus: Legal and compliance AI platform
+  use_cases:
+  - High-stakes legal and compliance workflow automation
+  - Enterprise-grade AI agents for end-to-end task completion
+  - Large Language Model powered legal workflows
+  - Legal reasoning and regulatory compliance processing
+  - PDF and unstructured document analysis for legal insights
+  - Domain-specific AI agents supervised by legal professionals
+position:
+  title: Software Engineer, Applied AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building and iterating on enterprise-
+      grade AI agents for legal and compliance workflows. The
+      engineer will architect prompt systems, develop AI
+      workflows, and work directly on agent optimization and
+      memory systems.
+  responsibilities:
+  - Regularly contribute performant, high-quality code to production codebase
+  - Oversee data collection, experimentation, and analysis to improve the platform
+  - Build comprehensive benchmarks and evaluation suites for agent performance
+  - Develop new AI workflows and systems for cutting-edge AI integration
+  - Architect prompt systems powering agents with effective context structures
+  - Enable continuous learning through memory, feedback, and client-specific preferences
+  - Develop legal and compliance domain expertise to support AI development
+  use_cases:
+  - High-stakes legal and compliance workflow automation
+  - Enterprise-grade AI agents for end-to-end task completion
+  - Large Language Model powered legal workflows
+  - Legal reasoning and regulatory compliance processing
+  - PDF and unstructured document analysis for legal insights
+  - Domain-specific AI agents supervised by legal professionals
+  skills:
+    genai: [context engineering, AI agents, memory systems, prompt optimization, Large
+        Language Models]
+    ml: []
+    web: [React]
+    databases: [Postgres, Redis]
+    data: []
+    cloud: []
+    ops: [Docker, AI/ML infrastructure]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7045404'
+  extracted_at: '2026-02-05T10:07:42.220984'

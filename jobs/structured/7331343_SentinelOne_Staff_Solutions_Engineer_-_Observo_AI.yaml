@@ -1,0 +1,62 @@
+company:
+  name: SentinelOne
+  stage: Public
+  focus: AI-powered cybersecurity and threat detection
+  use_cases:
+  - Security threat detection and monitoring using AI-powered observability
+  - Application Performance Management (APM) for cybersecurity environments
+  - SIEM (Security Information and Event Management) integration and optimization
+  - Log management and analysis for security operations centers
+  - Observability across security infrastructure and cloud platforms
+position:
+  title: Staff Solutions Engineer - Observo AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Sales Engineer role focused on demonstrating and
+      selling Observo AI's existing security and observability
+      products. The role involves acting as a technical advisor,
+      conducting POCs and demos, and designing solution
+      architectures for customers, but does not include building,
+      training, or deploying AI models - it supports AI products
+      by selling them.
+  responsibilities:
+  - Collaborate with the sales team to identify and qualify sales opportunities by
+    understanding customer requirements and pain points
+  - Lead technical discussions, product demonstrations, and proof-of-concept (POC)
+    initiatives to showcase Observo AI's capabilities
+  - Serve as a subject matter expert on Security, Observability, SIEM, and Application
+    Performance Management tools, translating complex technical concepts into accessible,
+    value-driven insights for clients
+  - Act as a trusted advisor to prospective customers, helping them design and implement
+    solutions that meet their unique needs
+  - Develop and deliver compelling technical presentations and solution architectures
+    tailored to specific customer use cases
+  - Assist with RFP/RFI responses, ensuring alignment with customer requirements and
+    demonstrating a clear understanding of their technical needs
+  - Provide ongoing feedback to the product and engineering teams to enhance our offerings
+    based on customer and market demands
+  - Mentor and guide junior team members, sharing best practices and promoting a culture
+    of technical excellence
+  use_cases:
+  - Security threat detection and monitoring using AI-powered observability
+  - Application Performance Management (APM) for cybersecurity environments
+  - SIEM (Security Information and Event Management) integration and optimization
+  - Log management and analysis for security operations centers
+  - Observability across security infrastructure and cloud platforms
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: [Splunk, Cribl]
+    cloud: [AWS, Azure, Google Cloud]
+    ops: [Datadog, New Relic, Observability]
+    languages: []
+    domains: [SIEM, Application Performance Management, Security]
+    other: [Technical presentations, Solution architecture, RFP/RFI responses]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7331343'
+  extracted_at: '2026-02-05T10:40:19.122677'

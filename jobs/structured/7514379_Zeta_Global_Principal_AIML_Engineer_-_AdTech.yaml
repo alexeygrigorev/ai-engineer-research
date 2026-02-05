@@ -1,0 +1,75 @@
+company:
+  name: Zeta Global
+  stage: Public
+  focus: AI-Powered Marketing Cloud for advertising
+  use_cases:
+  - Campaign optimization through machine learning models that improve advertising
+    performance
+  - User personalization enabling individual-level consumer experiences across all
+    marketing channels
+  - Creative content generation using generative AI to produce ad copy and optimize
+    creative assets
+  - Real-time bidding and targeting algorithms for programmatic advertising with low-latency
+    inference
+  - Autonomous campaign management through AI agents that handle audience segmentation
+    and dynamic bid adjustments
+  - Large-scale ad event processing handling billions of events per day with high-throughput
+    ML systems
+position:
+  title: Principal AI/ML Engineer - AdTech
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role as the Principal AI/ML Engineer
+      will directly design, build, and deploy ML models and AI-
+      driven features for campaign optimization, personalization,
+      and creative generation. The role requires hands-on
+      experience with LLMs, agentic workflows, and real-time
+      inference systems - all core AI development work.
+  responsibilities:
+  - Lead the design and implementation of scalable, high-performance ML solutions
+    for AdTech use cases and set technical direction for integrating AI/ML into the
+    Demand-Side Platform
+  - Architect and evolve end-to-end ML pipelines from data ingestion and training
+    to real-time inference for bidding, targeting, and optimization algorithms
+  - Define the technical roadmap and vision for AI/ML in the platform, evaluating
+    new tools and techniques including deep learning and LLMs
+  - Develop intelligent systems using AI agents and agentic workflows to automate
+    and optimize end-to-end campaign processes including audience segmentation and
+    dynamic bid adjustments
+  - Partner with engineering, product, and data science teams to translate marketing
+    objectives into ML-driven solutions and deliver innovative features powered by
+    LLMs
+  - Ensure system robustness and stability for ML services in high-concurrency, low-latency
+    environments by optimizing algorithms and infrastructure
+  - Provide technical guidance and mentorship to other engineers and data scientists,
+    fostering a culture of excellence in engineering and ML best practices
+  use_cases:
+  - Campaign optimization through machine learning models that improve advertising
+    performance
+  - User personalization enabling individual-level consumer experiences across all
+    marketing channels
+  - Creative content generation using generative AI to produce ad copy and optimize
+    creative assets
+  - Real-time bidding and targeting algorithms for programmatic advertising with low-latency
+    inference
+  - Autonomous campaign management through AI agents that handle audience segmentation
+    and dynamic bid adjustments
+  - Large-scale ad event processing handling billions of events per day with high-throughput
+    ML systems
+  skills:
+    genai: [LLMs, Generative AI, AI Agents, Agentic Workflows]
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: [MySQL, PostgreSQL, Cassandra, DynamoDB, Redis]
+    data: [Apache Spark, Kafka, Hadoop]
+    cloud: [AWS]
+    ops: [Docker, Kubernetes, Model Serving, Real-time Inference]
+    languages: [Python, Java, Go]
+    domains: [Real-time Bidding, Demand-Side Platforms, Programmatic Advertising]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7514379'
+  extracted_at: '2026-02-05T11:03:39.690406'

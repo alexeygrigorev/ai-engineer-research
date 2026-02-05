@@ -1,0 +1,58 @@
+company:
+  name: PDQ
+  stage: Growth (Private equity backed)
+  focus: Device management software and IT automation SaaS
+  use_cases:
+  - Agentic AI systems for device management that perform multi-step reasoning and
+    planning
+  - AI-powered tool execution for IT automation and device operations
+  - LLM-integrated workflows for deploying software and managing inventory
+  - Autonomous or semi-autonomous agents for vulnerability remediation
+  - IT operations automation through AI agents with stateful memory and feedback loops
+position:
+  title: Senior Software Engineer, Elixir (AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and operating agentic AI systems
+      with multi-step reasoning, planning, and tool execution. The
+      engineer will work directly with LLM orchestration
+      frameworks, integrate LLMs via APIs, and handle agent-
+      related concerns like memory, guardrails, and observability.
+      This is hands-on AI/ML implementation work, not support
+      infrastructure.
+  responsibilities:
+  - Build new features in Elixir and React with TypeScript while designing and operating
+    agentic AI systems that perform multi-step reasoning, planning, and tool execution
+  - Work in a CI/CD environment, shipping code to production frequently following
+    agile principles
+  - Collaborate with engineering teammates across multiple locations on shared priorities
+  - Troubleshoot technical issues ranging from bugs to outages and customer support
+    cases
+  - Research, prototype, and contribute to technical decisions for the cloud-native
+    SaaS product
+  - Participate in constructive code reviews and continuous learning initiatives
+  use_cases:
+  - Agentic AI systems for device management that perform multi-step reasoning and
+    planning
+  - AI-powered tool execution for IT automation and device operations
+  - LLM-integrated workflows for deploying software and managing inventory
+  - Autonomous or semi-autonomous agents for vulnerability remediation
+  - IT operations automation through AI agents with stateful memory and feedback loops
+  skills:
+    genai: [LangChain, Semantic Kernel, OpenAI API, Anthropic API, agentic workflows,
+      LLM orchestration, prompt engineering, RAG, agents]
+    ml: []
+    web: [React, GraphQL]
+    databases: [PostgreSQL]
+    data: []
+    cloud: [Google Cloud Platform]
+    ops: [Docker, CI/CD, Prometheus, Grafana, Git]
+    languages: [Elixir, Erlang, TypeScript, Rust]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8305457'
+  extracted_at: '2026-02-05T12:43:50.617549'

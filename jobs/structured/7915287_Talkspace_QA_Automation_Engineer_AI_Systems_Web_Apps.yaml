@@ -1,0 +1,53 @@
+company:
+  name: Talkspace
+  stage: unknown
+  focus: Online therapy and telehealth platform
+  use_cases:
+  - Agentic workflow validation for mental health support systems
+  - Structured output validation for LLM-powered therapy features
+  - Safety layer and fallback mechanism testing for AI interactions
+  - Regression testing for model behavior changes in clinical systems
+  - Multi-step workflow testing for conversational AI interfaces
+position:
+  title: QA Automation Engineer (AI Systems & Web Apps)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a QA Automation Engineer role focused on testing and
+      validating AI/LLM-powered systems rather than building,
+      training, or deploying models. The role develops test
+      harnesses, validation frameworks, and regression testing for
+      agentic workflows, which supports the AI development team's
+      work but does not involve hands-on model engineering.
+  responsibilities:
+  - Develop and maintain automated test scripts for web apps, mobile apps, APIs, and
+    LLM-driven features
+  - Build automation frameworks for testing agentic and multi-step workflows
+  - Create evaluation harnesses for LLM outputs including structured output validation
+    and model regression testing
+  - Execute manual and exploratory testing to validate new features and identify defects
+  - Collaborate with engineering and data science to validate safety layers and fallback
+    mechanisms
+  - Design and maintain comprehensive test plans and test cases for AI-specific workflows
+  use_cases:
+  - Agentic workflow validation for mental health support systems
+  - Structured output validation for LLM-powered therapy features
+  - Safety layer and fallback mechanism testing for AI interactions
+  - Regression testing for model behavior changes in clinical systems
+  - Multi-step workflow testing for conversational AI interfaces
+  skills:
+    genai: [LLM testing, agentic workflows, structured output validation, prompt engineering]
+    ml: [model regression testing]
+    web: [Cypress, Playwright, Selenium, API testing, JSON]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [CI/CD]
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7915287'
+  extracted_at: '2026-02-05T11:40:34.572036'

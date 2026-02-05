@@ -1,0 +1,59 @@
+company:
+  name: PAR Technology
+  stage: Public
+  focus: Restaurant technology and software solutions
+  use_cases:
+  - User-facing AI capabilities for decision support and insights in restaurant operations
+  - Conversational agents and data-powered assistants for automating operational tasks
+  - RAG-powered systems that combine restaurant data with LLMs for context-aware recommendations
+  - AI workflows that surface actionable insights from operational data for faster
+    decision-making
+  - Automated process improvements through intelligent multi-step AI pipelines
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      systems including LLM integration, RAG implementation, and
+      multi-step AI workflow chains. The engineer will directly
+      work with models, prompts, embeddings, and vector databases
+      to create user-facing AI features, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design and build user-facing AI capabilities that simplify decision-making and
+    surface insights for operational teams
+  - Create and maintain multi-step LLM workflows combining prompts, tools, and data
+    to execute complex tasks
+  - Implement retrieval-augmented generation (RAG) to combine internal data with LLMs
+    for context-aware results
+  - Take AI features from prototype to production with focus on scalability, cost-efficiency,
+    and observability
+  - Set standards and best practices for trustworthy, scalable AI implementation across
+    the organization
+  - Work cross-functionally with product, engineering, and data teams to deliver AI-driven
+    product experiences
+  use_cases:
+  - User-facing AI capabilities for decision support and insights in restaurant operations
+  - Conversational agents and data-powered assistants for automating operational tasks
+  - RAG-powered systems that combine restaurant data with LLMs for context-aware recommendations
+  - AI workflows that surface actionable insights from operational data for faster
+    decision-making
+  - Automated process improvements through intelligent multi-step AI pipelines
+  skills:
+    genai: [OpenAI API, Azure OpenAI, prompt engineering, embedding models, LangChain,
+      Semantic Kernel, RAG, conversational agents]
+    ml: [scikit-learn, TensorFlow, PyTorch]
+    web: []
+    databases: [vector databases]
+    data: [Azure Data Factory]
+    cloud: []
+    ops: []
+    languages: [SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7937664'
+  extracted_at: '2026-02-05T11:43:10.890636'

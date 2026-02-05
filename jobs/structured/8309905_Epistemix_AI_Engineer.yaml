@@ -1,0 +1,60 @@
+company:
+  name: Epistemix
+  stage: Series B
+  focus: |-
+    Simulation and modeling platform for forecasting outcomes
+    and risk
+  use_cases:
+  - Making modeling and simulation accessible to non-data scientists through AI-driven
+    applications
+  - Enabling decision makers to generate agent-based models that address critical
+    business questions
+  - Helping data scientists build agent-based models more quickly using AI generation
+  - Forecasting outcomes and managing risk through behavior modeling
+  - Scenario planning through advanced data science and simulation for healthcare,
+    insurance, and government sectors
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct hands-on work with LLMs, prompt
+      optimization, LLM evaluation, and fine-tuning AI behavior.
+      The engineer is responsible for building and deploying AI-
+      driven applications and AI-generated agent-based models,
+      which is core AI/ML development work rather than supporting
+      infrastructure.
+  responsibilities:
+  - Craft clean, testable, and maintainable code to enable AI-generated agent-based
+    models
+  - Own the software from requirements development through deployment and maintenance
+    for AI systems
+  - Design, build, test, and deploy scalable system architecture for AI-generated
+    models
+  - Own the engineering solution and collaborate with internal teams to ensure alignment
+    with company strategy
+  use_cases:
+  - Making modeling and simulation accessible to non-data scientists through AI-driven
+    applications
+  - Enabling decision makers to generate agent-based models that address critical
+    business questions
+  - Helping data scientists build agent-based models more quickly using AI generation
+  - Forecasting outcomes and managing risk through behavior modeling
+  - Scenario planning through advanced data science and simulation for healthcare,
+    insurance, and government sectors
+  skills:
+    genai: [LLM Evaluation, Prompt Optimization, RAG]
+    ml: []
+    web: [FastAPI]
+    databases: [SQLAlchemy, Vector Databases]
+    data: [Pydantic]
+    cloud: [AWS, GCP, Azure]
+    ops: [Docker, Kubernetes, MLOps]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8309905'
+  extracted_at: '2026-02-05T12:44:53.720888'

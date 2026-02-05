@@ -1,0 +1,77 @@
+company:
+  name: WISEcode
+  stage: well-funded startup
+  focus: AI-powered personalized nutrition platform
+  use_cases:
+  - Translate product ideas, domain concepts, and company vision into intelligent
+    systems that reason over food, ingredients, nutrition, and user preferences
+  - Combine LLMs, traditional ML, rules, and deterministic logic into coherent, testable
+    workflows for food and nutrition intelligence
+  - Apply AI techniques to improve personalization, understanding, and automation
+    in nutrition recommendations
+  - Deliver responsible, transparent, and explainable AI that aligns with consumer
+    trust and empowerment
+  - Build hybrid intelligence systems that balance probabilistic reasoning with deterministic
+    computation for accurate nutrition guidance
+  - Enable personalized nutrition recommendations based on comprehensive food and
+    nutrition data analysis
+position:
+  title: Principal Engineer - AI and Intelligence Systems
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This Principal Engineer role involves hands-on design and
+      implementation of AI systems including model selection,
+      LLM/ML integration, inference pipelines, and orchestration.
+      The role requires building, deploying, and optimizing
+      intelligent systems end-to-end, not just supporting
+      infrastructure or platforms for others.
+  responsibilities:
+  - Own architecture for AI and intelligence systems across model integration, inference
+    pipelines, evaluation frameworks, and product interfaces
+  - Lead solution design for high-complexity, AI-driven initiatives and deliver production-ready
+    implementations when needed
+  - Design and implement AI-powered features end-to-end, including model selection,
+    orchestration, inference pipelines, confidence handling, and integration with
+    product workflows
+  - Define patterns and standards for safe, observable, and explainable AI usage across
+    teams
+  - Guide decisions on model selection, orchestration, cost-performance tradeoffs,
+    and system scalability
+  - Diagnose and resolve issues across data inputs, model behavior, system integration,
+    and user-facing outcomes
+  - Mentor senior engineers and elevate engineering culture around intelligent system
+    design
+  - Partner closely with product, data, CTO, and platform teams to shape roadmap feasibility
+    and long-term intelligence strategy
+  use_cases:
+  - Translate product ideas, domain concepts, and company vision into intelligent
+    systems that reason over food, ingredients, nutrition, and user preferences
+  - Combine LLMs, traditional ML, rules, and deterministic logic into coherent, testable
+    workflows for food and nutrition intelligence
+  - Apply AI techniques to improve personalization, understanding, and automation
+    in nutrition recommendations
+  - Deliver responsible, transparent, and explainable AI that aligns with consumer
+    trust and empowerment
+  - Build hybrid intelligence systems that balance probabilistic reasoning with deterministic
+    computation for accurate nutrition guidance
+  - Enable personalized nutrition recommendations based on comprehensive food and
+    nutrition data analysis
+  skills:
+    genai: [LLMs, prompt design, retrieval strategies, RAG]
+    ml: [model selection, confidence handling, ML models, hybrid intelligence approaches,
+      probabilistic systems, deterministic logic]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [model orchestration, inference pipelines, evaluation frameworks, observability,
+      explainability, system architecture, software engineering]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8031872'
+  extracted_at: '2026-02-05T11:51:48.483882'

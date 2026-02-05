@@ -1,0 +1,56 @@
+company:
+  name: StubHub
+  stage: Public
+  focus: Global ticket marketplace for live events
+  use_cases:
+  - Customer support automation through AI-powered solutions
+  - Pricing insights and analytics using AI models
+  - Developer productivity enhancement through AI tools and agents
+  - Workflow automation across business domains
+  - Internal process optimization through AI enablement
+position:
+  title: Senior Software Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying AI
+      agents, LLM-powered solutions, and RAG pipelines. The
+      engineer will directly work with generative and agentic AI
+      frameworks, build custom models, and implement prompt
+      orchestration and evaluation systems, going beyond just
+      support infrastructure.
+  responsibilities:
+  - Design and implement internal AI platforms and tools that make it easy for teams
+    to build with generative and agentic AI
+  - Develop reusable components for prompt orchestration, model evaluation, and workflow
+    automation
+  - Build and optimize AI agents that enhance workflows, automate tasks, and provide
+    insights
+  - Prototype and refine LLM-powered solutions using modern frameworks and APIs
+  - Create playbooks, workshops, and documentation to help teams become confident
+    AI practitioners
+  - Define patterns and frameworks for safe, scalable, and effective AI usage across
+    the organization
+  use_cases:
+  - Customer support automation through AI-powered solutions
+  - Pricing insights and analytics using AI models
+  - Developer productivity enhancement through AI tools and agents
+  - Workflow automation across business domains
+  - Internal process optimization through AI enablement
+  skills:
+    genai: [LangChain, OpenAI, Anthropic, HuggingFace, RAG, agents, prompt engineering,
+      prompt orchestration, LLMs, generative AI, agentic AI]
+    ml: []
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: [cloud platforms]
+    ops: [MLOps, model evaluation, CI/CD]
+    languages: []
+    domains: []
+    other: [data privacy, GDPR, CCPA, ethics]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6786581'
+  extracted_at: '2026-02-05T09:53:33.621668'

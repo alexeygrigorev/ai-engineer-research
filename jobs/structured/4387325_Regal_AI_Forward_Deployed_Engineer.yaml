@@ -1,0 +1,62 @@
+company:
+  name: Regal
+  stage: Series B
+  focus: AI Agent Platform for customer communications
+  use_cases:
+  - Transform customer communications with AI Agents that are always-available and
+    ready to take action
+  - Delightful AI voice agents connected to customer data for seamless interactions
+  - Support better customer service, sales, and operations through voice AI automation
+  - Customizable and monitorable AI agents for each customer's specific operational
+    context
+  - Voice interfaces for customer support, sales, and business operations workflows
+position:
+  title: AI Forward Deployed Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly deploying Voice AI Agents to
+      production, configuring voice prompts and AI agent settings,
+      and optimizing conversational AI performance. This is hands-
+      on work with AI systems - bringing AI agents to life in
+      customer environments, not just supporting infrastructure or
+      data pipelines for an AI team.
+  responsibilities:
+  - Execute end-to-end customer deployments by integrating Voice AI Agents into customer
+    systems and workflows
+  - Translate customer goals and business objectives into measurable deployment plans
+    and product vision
+  - Architect technical integrations using APIs, webhooks, and databases to connect
+    Regal with customer systems
+  - Collaborate with AI Product Specialists to shape conversational experiences through
+    voice prompts and AI agent settings
+  - Build reporting to measure AI Agent performance and create roadmaps for A/B tests
+    to improve accuracy and outcomes
+  - Manage stakeholders with weekly status updates, timeline management, and proactive
+    communication
+  - Identify and surface new use cases and features to drive ongoing customer value
+    and expansion opportunities
+  use_cases:
+  - Transform customer communications with AI Agents that are always-available and
+    ready to take action
+  - Delightful AI voice agents connected to customer data for seamless interactions
+  - Support better customer service, sales, and operations through voice AI automation
+  - Customizable and monitorable AI agents for each customer's specific operational
+    context
+  - Voice interfaces for customer support, sales, and business operations workflows
+  skills:
+    genai: [prompt engineering, LLMs, agents]
+    ml: []
+    web: [APIs, webhooks]
+    databases: [Postgres]
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python]
+    domains: [conversational AI, voice AI]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4387325'
+  extracted_at: '2026-02-05T09:38:05.626583'

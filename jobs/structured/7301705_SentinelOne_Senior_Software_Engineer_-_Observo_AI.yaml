@@ -1,0 +1,68 @@
+company:
+  name: SentinelOne
+  stage: Public
+  focus: AI-powered cybersecurity and data pipeline optimization
+  use_cases:
+  - Telemetry data pipeline optimization for logs, metrics, and traces at petabyte
+    scale
+  - ML-driven data reduction that decreases customer data volumes by 80%+ while preserving
+    critical insights
+  - Real-time anomaly detection and analytics using machine learning and large language
+    models
+  - Integration with enterprise observability platforms like Splunk, Elastic, Datadog,
+    and New Relic
+  - Cost and performance optimization of enterprise data infrastructure through intelligent
+    data processing
+position:
+  title: Senior Software Engineer - Observo AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data pipelines and
+      infrastructure that process telemetry data using ML models,
+      rather than building or fine-tuning the ML models
+      themselves. The engineer is responsible for integrating ML-
+      driven systems and deploying production ML infrastructure,
+      which supports the AI work rather than directly creating the
+      AI/LLM models.
+  responsibilities:
+  - Design and implement scalable, high-performance data processing pipelines capable
+    of handling petabyte-scale telemetry data
+  - Build and optimize ML-driven data routing, filtering, and transformation engines
+    to reduce customer data volumes by 80%+
+  - Develop real-time analytics and anomaly detection systems using advanced machine
+    learning techniques and large language models
+  - Architect cloud-native microservices and APIs that integrate seamlessly with major
+    observability platforms
+  - Implement robust monitoring, alerting, and observability solutions for distributed
+    systems operating at enterprise scale
+  - Optimize system performance, cost efficiency, and reliability through continuous
+    profiling, testing, and infrastructure improvements
+  use_cases:
+  - Telemetry data pipeline optimization for logs, metrics, and traces at petabyte
+    scale
+  - ML-driven data reduction that decreases customer data volumes by 80%+ while preserving
+    critical insights
+  - Real-time anomaly detection and analytics using machine learning and large language
+    models
+  - Integration with enterprise observability platforms like Splunk, Elastic, Datadog,
+    and New Relic
+  - Cost and performance optimization of enterprise data infrastructure through intelligent
+    data processing
+  skills:
+    genai: []
+    ml: [TensorFlow, PyTorch, scikit-learn]
+    web: []
+    databases: [PostgreSQL, MySQL, MongoDB, Cassandra, Redis]
+    data: [Apache Kafka, Apache Spark, Apache Flink]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, MLOps, Prometheus, Grafana, ELK stack, OpenTelemetry,
+      Terraform, CI/CD]
+    languages: [Go, Rust, Java]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7301705'
+  extracted_at: '2026-02-05T10:35:38.659027'

@@ -1,0 +1,59 @@
+company:
+  name: Zocdoc
+  stage: Series E+
+  focus: Digital health marketplace for finding and booking care
+  use_cases:
+  - Intelligent voice agent that answers inbound calls for hospitals and doctor's
+    offices
+  - AI-powered conversational interface handling patient-provider communication
+  - Automated phone assistance for healthcare appointment scheduling and inquiries
+  - Real-time voice AI to reduce wait times and improve patient experience
+  - Conversational AI system for healthcare customer service automation
+position:
+  title: Staff Software Engineer, AI Phone Assistant
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building AI Phone Assistant
+      systems with hands-on LLM integration, prompt engineering,
+      and conversational AI implementation. The engineer will
+      design AI-driven workflows and optimize model performance in
+      production, not just support infrastructure for AI teams.
+  responsibilities:
+  - Architect, build, and maintain high-quality, scalable software systems that power
+    Zocdoc's AI Phone Assistant
+  - Design and implement AI-driven workflows, integrating large language models (LLMs)
+    and conversational AI into production systems
+  - Lead prompt engineering, model integration, and system optimization to improve
+    accuracy, responsiveness, and reliability
+  - Collaborate cross-functionally with product, design, and data science teams to
+    deliver production-grade AI capabilities
+  - Drive the evolution of the AI platform from experimentation and rapid prototyping
+    to scalable, reliable systems in production
+  - Ensure system scalability, observability, and performance as the product grows
+    rapidly
+  - Stay ahead of the curve on emerging GenAI tools and technologies, and apply them
+    to solve real-world user problems
+  use_cases:
+  - Intelligent voice agent that answers inbound calls for hospitals and doctor's
+    offices
+  - AI-powered conversational interface handling patient-provider communication
+  - Automated phone assistance for healthcare appointment scheduling and inquiries
+  - Real-time voice AI to reduce wait times and improve patient experience
+  - Conversational AI system for healthcare customer service automation
+  skills:
+    genai: [LLMs, prompt engineering, conversational AI]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [distributed systems, microservices]
+    ops: []
+    languages: [C#]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8166611'
+  extracted_at: '2026-02-05T12:07:30.060664'

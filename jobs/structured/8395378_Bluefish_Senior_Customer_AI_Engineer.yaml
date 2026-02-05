@@ -1,0 +1,60 @@
+company:
+  name: Bluefish
+  stage: Series A
+  focus: AI marketing platform for enterprise brands
+  use_cases:
+  - AI-powered marketing platform for enterprise brands
+  - AI brand safety management and monitoring
+  - Personalized AI marketing experiences for consumers
+  - Integration of AI marketing with existing data feeds and product catalogs
+  - Marketing automation and performance optimization using AI
+  - Consumer engagement on AI-based information channels
+position:
+  title: Senior Customer AI Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a customer-facing technical role focused on
+      supporting integrations, API implementations, and data
+      pipelines for Bluefish's AI marketing platform. While the
+      role requires AI/ML proficiency, the actual work involves
+      enabling customers to USE the AI platform rather than
+      building, training, or deploying models directly.
+  responsibilities:
+  - Support the technical relationship for assigned customer accounts as the primary
+    point of contact for integrations, configurations, and advanced technical questions
+  - Support RFP and RFI responses while streamlining internal processes for scale
+    and consistency
+  - Guide and support customer integrations including APIs, data feeds, product catalogs,
+    and other platform dependencies
+  - Design and support custom technical solutions such as dashboards, data exports,
+    and bespoke workflows tailored to customer needs
+  - Partner with customers on complex optimization measurement, automation, and performance
+    validation to ensure measurable business impact
+  - Collaborate closely with product, engineering, sales, and customer success to
+    surface customer feedback and inform roadmap priorities
+  - Identify opportunities for account expansion and deeper platform adoption through
+    technical use cases and optimization strategies
+  use_cases:
+  - AI-powered marketing platform for enterprise brands
+  - AI brand safety management and monitoring
+  - Personalized AI marketing experiences for consumers
+  - Integration of AI marketing with existing data feeds and product catalogs
+  - Marketing automation and performance optimization using AI
+  - Consumer engagement on AI-based information channels
+  skills:
+    genai: [AI/ML concepts]
+    ml: []
+    web: [APIs]
+    databases: [databases]
+    data: [data pipelines, data management, analytics]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [system integrations]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8395378'
+  extracted_at: '2026-02-05T13:06:13.725565'

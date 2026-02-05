@@ -1,0 +1,51 @@
+company:
+  name: EvolutionaryScale
+  stage: Nonprofit
+  focus: AI-powered biology for disease research and cure
+  use_cases:
+  - Understanding and programming life at scale using AI
+  - Studying cellular operations and systems to understand disease mechanisms
+  - Building next-generation biology models using large-scale compute infrastructure
+  - Applying AI models to solve applied problems in biological research
+  - Accelerating scientific discoveries to help cure or prevent disease
+  - Developing open science tools and data for the broader research community
+position:
+  title: Research Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on research engineering role building large-
+      scale foundation models for biology. The role involves
+      pretraining, fine-tuning, and implementing models using
+      PyTorch, which directly contributes to AI system development
+      rather than supporting it.
+  responsibilities:
+  - Execute the research roadmap including large-scale pretraining of foundation models
+  - Fine-tune foundation models for impactful applications in biology
+  - Drive research for cutting-edge foundation model efforts and lead projects
+  - Implement software for research initiatives and applied AI workflows
+  - Collaborate with researchers and engineers on interdisciplinary projects
+  - Engage the scientific community through publications and open-source releases
+  use_cases:
+  - Understanding and programming life at scale using AI
+  - Studying cellular operations and systems to understand disease mechanisms
+  - Building next-generation biology models using large-scale compute infrastructure
+  - Applying AI models to solve applied problems in biological research
+  - Accelerating scientific discoveries to help cure or prevent disease
+  - Developing open science tools and data for the broader research community
+  skills:
+    genai: [fine-tuning, foundation models]
+    ml: [PyTorch, model training, pretraining]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7686990'
+  extracted_at: '2026-02-05T11:20:31.887438'

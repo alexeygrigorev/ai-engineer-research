@@ -1,0 +1,61 @@
+company:
+  name: Traversal
+  stage: Seed
+  focus: AI-powered site reliability and incident management
+  use_cases:
+  - AI-powered root cause analysis for production incidents
+  - Automated alert triage and incident remediation
+  - Chat interface for infrastructure and telemetry data interaction
+  - Prevention of complex production incidents through proactive AI analysis
+  - Evaluation and benchmarking of AI agent performance in incident management
+  - Real-time analysis of petabytes of telemetry data for operational insights
+position:
+  title: AI Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building agent infrastructure,
+      orchestration layers, and evaluation systems for AI agents,
+      including multi-agent orchestration and toolkits. The work
+      directly impacts AI system performance through building,
+      evaluating, and deploying agentic architectures, not just
+      supporting others who work on AI.
+  responsibilities:
+  - Design and build agent frameworks, orchestration layers, and developer tooling
+    for Traversal's AI agents
+  - Architect scalable distributed systems to support real-time workloads over petabytes
+    of heterogeneous telemetry data
+  - Build live evaluation pipelines, automated scoring systems, and benchmarks to
+    measure and drive AI performance
+  - Integrate evaluation systems into the developer lifecycle to create a fast research-to-production
+    loop
+  - Surface evaluation signals and benchmarks to customers as a core product capability
+  - Partner with research scientists to prototype and productionize agentic architectures
+  - Own observability, latency, and reliability for agents in production
+  - Evolve and scale the agent and evaluation platform as the backbone of Traversal's
+    AI systems
+  use_cases:
+  - AI-powered root cause analysis for production incidents
+  - Automated alert triage and incident remediation
+  - Chat interface for infrastructure and telemetry data interaction
+  - Prevention of complex production incidents through proactive AI analysis
+  - Evaluation and benchmarking of AI agent performance in incident management
+  - Real-time analysis of petabytes of telemetry data for operational insights
+  skills:
+    genai: [LangChain, LangGraph, multi-agent systems, agent orchestration, RAG, function
+        calling, prompt engineering]
+    ml: [fine-tuning, LLM-based applications, model evaluation]
+    web: [APIs, REST]
+    databases: []
+    data: [data modeling, data pipelines]
+    cloud: []
+    ops: [Docker, Kubernetes, distributed systems, CI/CD, observability, telemetry
+        systems]
+    languages: [Python]
+    domains: []
+    other: [benchmarking, system design, site reliability engineering]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7298636'
+  extracted_at: '2026-02-05T10:34:08.842514'

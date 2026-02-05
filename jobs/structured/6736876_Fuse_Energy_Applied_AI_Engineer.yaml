@@ -1,0 +1,62 @@
+company:
+  name: Fuse Energy
+  stage: Series B
+  focus: |-
+    Renewable energy platform with smart device network and
+    real-time power trading
+  use_cases:
+  - Energy Co-Pilot for personalized customer recommendations and guidance
+  - Speedy onboarding process using VLM/LLM to process energy bills for quick setup
+  - Real-time power trading optimization based on market conditions, weather forecasts,
+    and demand patterns
+  - Internal productivity tools and workflow automation using AI
+  - Energy demand and supply forecasting for grid stability
+position:
+  title: Applied AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing, developing, and deploying AI-
+      powered features using LLMs/VLMs, integrating ML models for
+      trading optimization, and building production AI
+      applications. This is hands-on work building and deploying
+      AI systems rather than just supporting infrastructure for AI
+      teams.
+  responsibilities:
+  - Design, develop and deploy AI-powered features that directly impact consumer experiences,
+    including personalised energy recommendations and seamless onboarding via AI models
+  - Build and optimise internal AI tools that will make the whole company more productive
+    with a focus on automation and enhancing workflows
+  - Collaborate with backend engineers and data scientists to integrate AI-driven
+    features into our platforms
+  - Collaborate with the trading and operations teams to ensure AI models are aligned
+    with real-time market conditions and energy pricing
+  - Improve AI models to optimise trading strategies by anticipating market shifts
+    based on weather and demand forecasts
+  - Stay up to date with the latest advancements in applied AI and machine learning
+    and apply them to solve real-world problems within the energy space
+  - Monitor the performance of AI tools and models, ensuring they are functioning
+    efficiently and effectively
+  use_cases:
+  - Energy Co-Pilot for personalized customer recommendations and guidance
+  - Speedy onboarding process using VLM/LLM to process energy bills for quick setup
+  - Real-time power trading optimization based on market conditions, weather forecasts,
+    and demand patterns
+  - Internal productivity tools and workflow automation using AI
+  - Energy demand and supply forecasting for grid stability
+  skills:
+    genai: [LLMs, VLMs]
+    ml: [TensorFlow, PyTorch, forecasting]
+    web: []
+    databases: []
+    data: []
+    cloud: [cloud technologies]
+    ops: [containerization, large-scale model deployment]
+    languages: [Python]
+    domains: [NLP]
+    other: [backend engineering]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '6736876'
+  extracted_at: '2026-02-05T09:50:11.240089'

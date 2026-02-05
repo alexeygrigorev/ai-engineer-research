@@ -1,0 +1,69 @@
+company:
+  name: Speechmatics
+  stage: null
+  focus: |-
+    Speech Intelligence using AI/ML to unlock business value in
+    human speech worldwide
+  use_cases:
+  - Powering state-of-the-art speech recognition models through large-scale, high-quality
+    datasets
+  - Enabling voice AI technology to unlock business value in human speech across global
+    industries
+  - Supporting cutting-edge speech intelligence projects that integrate into customer
+    stacks irrespective of industry
+  - Delivering data that shifts the cost/throughput/quality frontier for next-generation
+    speech models
+  - Extracting useful information from speech for business applications worldwide
+position:
+  title: Software Engineer - Data & AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building data pipelines, web scraping
+      infrastructure, and data management systems that power
+      speech models - it's clearly working NEAR AI but not ON the
+      AI models themselves. The engineer creates the datasets that
+      ML Engineers use, handles data infrastructure, and optimizes
+      data workflows, which is classic AI-support work enabling ML
+      teams rather than direct model development.
+  responsibilities:
+  - Develop and maintain scalable web scraping solutions to extract data from multiple
+    sources
+  - Design, implement and maintain scalable data pipelines for ingestion, transformation,
+    and storage of large datasets for high-performance AI models
+  - Ensure data quality and integrity through validation, cleaning, and normalisation
+    processes
+  - Manage data infrastructure, including databases, and cloud storage solutions
+  - Optimise performance of scraping scripts and pipelines for speed, reliability,
+    and scalability
+  - Monitor and troubleshoot data workflows reliability and efficiency
+  - Identify new opportunities to source or generate relevant datasets
+  - Collaborate closely with ML Engineers to deliver richer data at bigger scale and
+    lower cost to power next-generation models
+  use_cases:
+  - Powering state-of-the-art speech recognition models through large-scale, high-quality
+    datasets
+  - Enabling voice AI technology to unlock business value in human speech across global
+    industries
+  - Supporting cutting-edge speech intelligence projects that integrate into customer
+    stacks irrespective of industry
+  - Delivering data that shifts the cost/throughput/quality frontier for next-generation
+    speech models
+  - Extracting useful information from speech for business applications worldwide
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [databases]
+    data: [ETL, data pipelines, web scraping, crawlers, data quality and validation,
+      data compliance]
+    cloud: [AWS, Azure, GCP, cloud storage]
+    ops: [on-prem infrastructure]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7733907'
+  extracted_at: '2026-02-05T11:23:44.524298'

@@ -1,0 +1,62 @@
+company:
+  name: ghSMART
+  stage: null
+  focus: Leadership advisory and talent consulting
+  use_cases:
+  - Extract high-accuracy insights from structured leadership datasets using LLMs
+    and traditional ML models
+  - Build RAG-based AI agents to unlock novel leadership insights from research databases
+  - Deliver leadership intelligence and talent insights at scale to CEOs, boards,
+    and investors
+  - Support data-driven decision making for building winning leadership teams
+  - Power leadership insights through AI agents integrated into the Leadership Intelligence
+    Platform
+position:
+  title: Machine Learning Engineer (LLMs / AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, deploying, and
+      fine-tuning LLMs and RAG-based agents. Responsibilities
+      include end-to-end ML model development, RAG implementation,
+      and AI agent integration with direct ownership of training,
+      tuning, inference, and deployment.
+  responsibilities:
+  - Design, build, and extend ML models (LLMs and traditional ML) that deliver high-accuracy
+    insights from ghSMART's structured leadership dataset; own end-to-end experimentation,
+    evaluation, and deployment
+  - Develop RAG-based agents and algorithms to unlock novel leadership insights from
+    our research database
+  - Integrate advanced solutions and AI Agents into the Leadership Intelligence Platform
+    and partner cross-functionally to align features with strategic objectives and
+    user needs
+  - Optimize data pipelines and workflows to ensure robust, efficient data ingestion,
+    transformation, and model serving across engineering teams
+  - Collaborate on research with academic partners and contribute to publications
+    and thought leadership by validating findings with rigorous methods
+  use_cases:
+  - Extract high-accuracy insights from structured leadership datasets using LLMs
+    and traditional ML models
+  - Build RAG-based AI agents to unlock novel leadership insights from research databases
+  - Deliver leadership intelligence and talent insights at scale to CEOs, boards,
+    and investors
+  - Support data-driven decision making for building winning leadership teams
+  - Power leadership insights through AI agents integrated into the Leadership Intelligence
+    Platform
+  skills:
+    genai: [RAG, LLMs, prompt orchestration, AI agents, LangChain, LangGraph, retrieval
+        strategies]
+    ml: [model training, model tuning, inference]
+    web: []
+    databases: []
+    data: [data pipelines, Databricks, feature engineering, data quality]
+    cloud: [Azure]
+    ops: [MLOps, monitoring]
+    languages: [Python]
+    domains: []
+    other: [Salesforce, Jira, Confluence, Git]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8233255'
+  extracted_at: '2026-02-05T12:18:19.646192'

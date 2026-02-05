@@ -1,0 +1,49 @@
+company:
+  name: Manychat
+  stage: Series B+
+  focus: Chat Marketing platform for creators
+  use_cases:
+  - Instagram-focused automations and chat marketing for creators
+  - Support multi-channel conversations across Messenger, WhatsApp, and TikTok
+  - AI-powered workflows used in millions of daily conversations
+  - Customer engagement and sales automation through conversational AI
+position:
+  title: Machine Learning Engineer (AI Core Team)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building and deploying LLM
+      solutions, RAG pipelines, and AI agents from prototype to
+      production. The engineer directly works on models, agent
+      workflows, and implementing AI features, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Design and deliver ML/LLM solutions end-to-end from prototyping to production
+    rollout
+  - Build and iterate on AI agents using RAG, vector search, memory, and tools with
+    clear benchmarks
+  - Choose and implement the right approach for each problem including classical ML,
+    LLMs, RAG pipelines, or agent architectures
+  - Work closely with Python Platform team to productionize solutions with clean service
+    boundaries, monitoring, and scalability
+  use_cases:
+  - Instagram-focused automations and chat marketing for creators
+  - Support multi-channel conversations across Messenger, WhatsApp, and TikTok
+  - AI-powered workflows used in millions of daily conversations
+  - Customer engagement and sales automation through conversational AI
+  skills:
+    genai: [RAG, agents, LlamaIndex, LangChain, LLM evaluation and benchmarking]
+    ml: [PyTorch, TensorFlow]
+    web: [FastAPI, Pydantic]
+    databases: [vector search, PostgreSQL]
+    data: []
+    cloud: [cloud environments]
+    ops: [Docker, monitoring]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7751383'
+  extracted_at: '2026-02-05T11:25:09.842535'

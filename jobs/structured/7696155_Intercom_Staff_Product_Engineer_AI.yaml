@@ -1,0 +1,59 @@
+company:
+  name: Intercom
+  stage: Series F
+  focus: AI-powered customer service platform
+  use_cases:
+  - AI-powered customer service agent (Fin) that provides always-on, impeccable customer
+    service
+  - AI-enhanced helpdesk solution that combines automated agent support with human
+    agents for complex queries
+  - Transformer neural network applications for customer service automation
+  - Supervised and unsupervised ML models for customer experience optimization
+position:
+  title: Staff Product Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Staff Product Engineer who works alongside ML
+      Scientists to bring their models to production. They build
+      the systems and infrastructure that power AI products but
+      are not directly building, training, fine-tuning, or
+      deploying models themselves. The description states "No ML
+      experience required" and emphasizes software engineering
+      skills to productionize ML scientists' work, making it an
+      enabling/support role rather than hands-on AI development.
+  responsibilities:
+  - Build the systems that power Intercom's flagship AI products working in ML Python
+    tech stack and Rails app
+  - Collaborate with ML Scientists to bring proof-of-concept code to production ensuring
+    robustness and scalability
+  - Partner with product teams outside the AI group to shape AI-powered product experiences
+    for customers
+  - Contribute to all phases of software development including ideation, prototyping,
+    implementation, and testing
+  - Play active role in hiring, mentoring, and career development of other engineers
+  - Raise the bar for technical standards, performance, reliability, and operational
+    excellence within the group
+  use_cases:
+  - AI-powered customer service agent (Fin) that provides always-on, impeccable customer
+    service
+  - AI-enhanced helpdesk solution that combines automated agent support with human
+    agents for complex queries
+  - Transformer neural network applications for customer service automation
+  - Supervised and unsupervised ML models for customer experience optimization
+  skills:
+    genai: []
+    ml: [machine learning systems]
+    web: [Ruby on Rails]
+    databases: []
+    data: [data analytics]
+    cloud: []
+    ops: []
+    languages: [Python, Ruby]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7696155'
+  extracted_at: '2026-02-05T11:20:56.758752'

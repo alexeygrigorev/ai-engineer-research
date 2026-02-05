@@ -1,0 +1,56 @@
+company:
+  name: JetBrains
+  stage: Public
+  focus: Developer tools and IDEs
+  use_cases:
+  - AI-powered code completion and next edit suggestions
+  - Agentic AI experience integrated into IDE workflows
+  - Enhanced VCS operations using AI capabilities
+  - Context-aware LLM-based functionality for code understanding
+  - Real-time AI assistance and code suggestions in the editor
+position:
+  title: Senior Software Developer (IntelliJ AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role because the engineer works directly
+      on building and integrating AI agents into IDEs, developing
+      ML-powered code completion, and enhancing LLM-based
+      functionality. The responsibilities include hands-on work
+      with AI features, context awareness, and experimentation -
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Integrate state-of-the-art AI agents into JetBrains IDEs, continuously improving
+    developer experience
+  - Enhance agent capabilities by equipping them with intelligent tools available
+    in the IDEs
+  - Build and evolve ML-powered code completion and other AI features in the editor
+  - Create novel AI features with no direct market analogs by experimenting with modern
+    AI technologies
+  - Measure and evaluate the performance of agents and AI features to achieve reliability
+    and reproducibility
+  - Design, evolve, and improve complex systems architecture for AI-powered developer
+    tools
+  use_cases:
+  - AI-powered code completion and next edit suggestions
+  - Agentic AI experience integrated into IDE workflows
+  - Enhanced VCS operations using AI capabilities
+  - Context-aware LLM-based functionality for code understanding
+  - Real-time AI assistance and code suggestions in the editor
+  skills:
+    genai: [LLMs, agents, context awareness]
+    ml: [ML-powered features, online evaluation, offline experimentation]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [multithreading, system architecture, experimentation frameworks, large-scale
+        systems]
+    languages: [Java, Kotlin, concurrent programming]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8190871'
+  extracted_at: '2026-02-05T12:11:16.392893'

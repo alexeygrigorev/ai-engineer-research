@@ -1,0 +1,63 @@
+company:
+  name: Natera
+  stage: Public
+  focus: Cell-free DNA testing and genetic diagnostics
+  use_cases:
+  - Automate internal workflows across R&D, Lab Ops, Clinical Trials, Billing, and
+    Patient/Provider engagement
+  - Build AI solutions for document processing and unstructured data retrieval
+  - Develop agentic AI systems with multi-step reasoning and tool calling capabilities
+  - Create domain-specific LLM applications adapted for healthcare and clinical contexts
+  - Implement RAG-based systems for accurate information retrieval
+  - Enable compliance-first AI pipelines for regulated healthcare environments
+position:
+  title: Senior Generative AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building, deploying, and
+      fine-tuning LLMs and agentic AI systems. The
+      responsibilities directly include designing and operating
+      LLM-powered systems, implementing RAG patterns, fine-tuning
+      models, and deploying AI solutions - all core ai-first
+      activities.
+  responsibilities:
+  - Design, build, and operate LLM-powered systems used in production from initial
+    design through deployment and iterations
+  - Build scalable agentic AI automation solutions selecting appropriate patterns
+    including reasoning, memory, agent frameworks, and fine-tuning
+  - Implement GenAI patterns such as RAG, tool/function calling, and multi-step workflows
+    based on accuracy, reliability and cost
+  - Develop and maintain data ingestion and retrieval pipelines for unstructured or
+    semi-structured documents
+  - Fine-tune and adapt open-source or commercial LLMs for domain-specific tasks
+  - Set quality, evaluation, and reliability standards for GenAI systems including
+    testing, monitoring, observability, and failure handling
+  - Deploy and monitor GenAI services on AWS optimizing for latency, cost, and system
+    stability
+  - Provide technical guidance and mentorship to mid-level engineers
+  use_cases:
+  - Automate internal workflows across R&D, Lab Ops, Clinical Trials, Billing, and
+    Patient/Provider engagement
+  - Build AI solutions for document processing and unstructured data retrieval
+  - Develop agentic AI systems with multi-step reasoning and tool calling capabilities
+  - Create domain-specific LLM applications adapted for healthcare and clinical contexts
+  - Implement RAG-based systems for accurate information retrieval
+  - Enable compliance-first AI pipelines for regulated healthcare environments
+  skills:
+    genai: [LangChain, CrewAI, RAG, agentic AI, function calling, prompt engineering,
+      LLM fine-tuning, MCP (Model Context Protocol)]
+    ml: [PyTorch, Hugging Face, embeddings]
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, AWS SageMaker, AWS Bedrock, Lambda, S3]
+    ops: [EKS/ECS, LLMOps, monitoring, observability]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8285932'
+  extracted_at: '2026-02-05T12:34:20.938042'

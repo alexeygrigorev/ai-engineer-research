@@ -1,0 +1,69 @@
+company:
+  name: PA Consulting
+  stage: null
+  focus: |-
+    Global consulting firm delivering digital and data solutions
+    across consumer, defense, energy, financial services,
+    government, health, and transport sectors
+  use_cases:
+  - Building RAG-based knowledge retrieval systems using vector databases and knowledge
+    graphs
+  - Developing AI agents that can reason, retrieve information, and take actions across
+    multiple systems
+  - Creating prototype Generative AI solutions for client projects across multiple
+    sectors
+  - Implementing LLM-powered applications using APIs from OpenAI and Anthropic
+  - Deploying cloud-native AI solutions on AWS, Azure, or GCP infrastructure
+  - Evaluating and monitoring GenAI systems using LLMOps tools and observability platforms
+position:
+  title: Senior Gen AI Developer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work building, prototyping, and
+      deploying Generative AI systems including RAG architectures,
+      agentic systems, and LLM-powered solutions. The developer
+      directly implements AI technologies using frameworks like
+      LangChain, LlamaIndex, and works with OpenAI/Anthropic APIs,
+      not just supporting infrastructure for others.
+  responsibilities:
+  - Experiment with Generative AI frameworks and tools including LangChain, LlamaIndex,
+    Hugging Face, and OpenAI/Anthropic APIs
+  - Build retrieval-augmented generation (RAG) prototypes using vector stores and
+    knowledge graphs
+  - Develop and test agentic architectures through the Genie Platform enabling AI
+    agents that reason, retrieve and act across systems
+  - Explore LLMOps, evaluation tools, and model observability platforms like TruLens
+    and LangSmith
+  - Deploy solutions on modern cloud and DevOps environments including AWS, Azure,
+    and GCP
+  - Integrate models with APIs, data sources, and production systems
+  - Apply prompt and context engineering techniques for model optimization
+  - Collaborate cross-functionally with teams and stakeholders using agile best practices
+  use_cases:
+  - Building RAG-based knowledge retrieval systems using vector databases and knowledge
+    graphs
+  - Developing AI agents that can reason, retrieve information, and take actions across
+    multiple systems
+  - Creating prototype Generative AI solutions for client projects across multiple
+    sectors
+  - Implementing LLM-powered applications using APIs from OpenAI and Anthropic
+  - Deploying cloud-native AI solutions on AWS, Azure, or GCP infrastructure
+  - Evaluating and monitoring GenAI systems using LLMOps tools and observability platforms
+  skills:
+    genai: [LangChain, LlamaIndex, OpenAI APIs, Anthropic APIs, RAG, prompt engineering,
+      context engineering, agentic architectures]
+    ml: [Hugging Face, model evaluation]
+    web: [RESTful APIs, microservices]
+    databases: [vector stores, knowledge graphs]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: [LLMOps, TruLens, LangSmith, DevOps, DevSecOps, distributed systems]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8275583'
+  extracted_at: '2026-02-05T12:29:27.770515'

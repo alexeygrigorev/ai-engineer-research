@@ -1,0 +1,51 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware acceleration
+  use_cases:
+  - GPU acceleration of deep learning and machine learning workloads
+  - Performance optimization of AI algorithms on modern CPU and GPU architectures
+  - Parallelization of Deep Learning models for NLP, Computer Vision, and Recommender
+    Systems
+  - HPC algorithm optimization for AI solutions
+position:
+  title: AI Developer Technology Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves GPU acceleration and performance
+      optimization of deep learning, machine learning, and AI
+      workloads. The engineer works directly on optimizing AI
+      algorithms and models for modern GPU architectures, making
+      it hands-on AI system work.
+  responsibilities:
+  - Research and develop techniques to GPU accelerate workloads in deep learning,
+    machine learning or other AI domains
+  - Work directly with technical experts from industry and academia to perform in-depth
+    analysis and optimization of complex AI and HPC algorithms
+  - Publish and present discovered optimization techniques in developer blogs or relevant
+    conferences to engage the developer community
+  - Influence the design of next-generation hardware architectures, software, and
+    programming models in collaboration with NVIDIA teams
+  use_cases:
+  - GPU acceleration of deep learning and machine learning workloads
+  - Performance optimization of AI algorithms on modern CPU and GPU architectures
+  - Parallelization of Deep Learning models for NLP, Computer Vision, and Recommender
+    Systems
+  - HPC algorithm optimization for AI solutions
+  skills:
+    genai: []
+    ml: [CUDA, Deep Learning, GPU architecture]
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: [OpenACC, OpenMP, MPI, pthreads, Performance optimization, Parallel programming]
+    languages: [C/C++]
+    domains: [Natural Language Processing, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8314056'
+  extracted_at: '2026-02-05T12:46:09.512778'

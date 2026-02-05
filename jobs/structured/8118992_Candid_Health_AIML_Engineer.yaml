@@ -1,0 +1,56 @@
+company:
+  name: Candid Health
+  stage: Series B
+  focus: Healthcare revenue cycle automation and billing
+  use_cases:
+  - Healthcare billing and revenue cycle management (RCM) automation
+  - Medical claims processing, submission, and resubmission optimization
+  - Workflow automation for healthcare providers to reduce administrative waste
+  - NLP applications for medical billing and documentation
+  - Intelligent data-driven systems to simplify healthcare billing operations
+position:
+  title: AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on building of AI features,
+      translating prototypes into ML/AI use cases, and directly
+      applying both deterministic ML and non-deterministic LLM
+      approaches to solve problems. The engineer is responsible
+      for model training, testing, monitoring and building AI
+      infrastructure - all core AI/ML system work.
+  responsibilities:
+  - Identify and drive opportunities for AI/ML techniques to deliver impactful business
+    outcomes, applying industry best practices and state-of-the-art technologies
+  - Collaborate with customers and cross-functional teams to automate and scale complex
+    products and workflows like claim submission and resubmission
+  - Build AI features into Candid's platform that deliver outcomes for both internal
+    teams and external customers
+  - Partner with engineering teams to build and enhance infrastructure to support
+    AI development at scale
+  - Establish rigorous processes for model training, testing, and monitoring that
+    are scalable, extensible, and secure
+  - Make informed decisions on when to use deterministic ML versus non-deterministic
+    LLM approaches to maximize ROI, efficiency, and cost savings
+  use_cases:
+  - Healthcare billing and revenue cycle management (RCM) automation
+  - Medical claims processing, submission, and resubmission optimization
+  - Workflow automation for healthcare providers to reduce administrative waste
+  - NLP applications for medical billing and documentation
+  - Intelligent data-driven systems to simplify healthcare billing operations
+  skills:
+    genai: [LLM]
+    ml: [model training]
+    web: []
+    databases: [BigQuery, PostgreSQL]
+    data: []
+    cloud: [Google Cloud Platform]
+    ops: [model monitoring, Terraform]
+    languages: [Python]
+    domains: [NLP]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8118992'
+  extracted_at: '2026-02-05T12:03:24.786435'

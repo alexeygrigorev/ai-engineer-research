@@ -1,0 +1,66 @@
+company:
+  name: iManage
+  stage: Public
+  focus: |-
+    Intelligent document management platform for legal
+    professionals
+  use_cases:
+  - AI-powered document management and retrieval for legal documents
+  - Semantic search that bridges traditional keyword search with vector embeddings
+    for enhanced document discovery
+  - Making legal documents accessible to AI agents at scale for automated workflows
+  - Production systems serving millions of user queries with sub-second latency
+  - Evaluation and continuous improvement of retrieval quality for legal document
+    search
+position:
+  title: Principal AI Software Engineer (Java, Scala)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on AI engineering work including
+      designing retrieval systems that bridge traditional search
+      with semantic understanding for AI agents, prompt
+      engineering, context engineering, and implementing hybrid
+      search with vector embeddings. The engineer works directly
+      with LLMs in production and takes ideas from research to
+      deployment, which aligns with ai-first work on AI systems
+      rather than just supporting infrastructure.
+  responsibilities:
+  - Designing and implementing retrieval systems that bridge traditional search with
+    modern semantic understanding, making legal documents accessible to AI agents
+    at scale
+  - Working directly with early adopter customers to understand their workflows, gather
+    feedback, and rapidly iterate on solutions that solve their problems
+  - Building and optimising production systems that handle thousands of concurrent
+    queries while maintaining sub-second latency
+  - Developing evaluation frameworks and metrics to continuously improve retrieval
+    quality
+  - Taking ownership of complex challenges end-to-end, from initial research through
+    production deployment
+  - Balancing research goals with practical engineering constraints, knowing when
+    to leverage AI and when to build traditional solutions
+  use_cases:
+  - AI-powered document management and retrieval for legal documents
+  - Semantic search that bridges traditional keyword search with vector embeddings
+    for enhanced document discovery
+  - Making legal documents accessible to AI agents at scale for automated workflows
+  - Production systems serving millions of user queries with sub-second latency
+  - Evaluation and continuous improvement of retrieval quality for legal document
+    search
+  skills:
+    genai: [vector embeddings, prompt engineering, context engineering, LLMs]
+    ml: []
+    web: []
+    databases: [BM25]
+    data: []
+    cloud: [Azure]
+    ops: [Kubernetes, DevOps, evaluation frameworks]
+    languages: [Java, Scala]
+    domains: []
+    other: [A/B testing, functional programming, distributed systems, algorithms,
+      data structures]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8308677'
+  extracted_at: '2026-02-05T12:44:14.222861'

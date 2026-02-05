@@ -1,0 +1,52 @@
+company:
+  name: Newton Research
+  stage: Seed
+  focus: AI agents for marketing analytics
+  use_cases:
+  - Complex marketing analytics workflows using AI agents
+  - Advertising analytics and attribution analysis
+  - Publisher and advertiser profitability analysis
+  - Customer adoption and utilization of AI-powered marketing solutions
+position:
+  title: Solutions Engineer (AI)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is a Solutions Engineer focused on customer
+      success, adoption, and feedback collection. The
+      responsibilities involve guiding customers, monitoring
+      engagement, and acting as a bridge between customers and the
+      internal AI team - not building, deploying, or fine-tuning
+      models directly. While the company works with LLMs and AI
+      agents, this role supports AI solutions rather than working
+      on them hands-on.
+  responsibilities:
+  - Identify opportunities to integrate platform usage into user workflow habits by
+    guiding customers toward high-value use cases
+  - Conduct regular check-ins with customers to understand their evolving needs and
+    provide guidance on leveraging Newton's solutions effectively
+  - Act as the communication bridge between customers and internal AI team
+  - Monitor customer engagement through various platform utilization metrics
+  - Serve as voice of the customer, gathering insights from customer interactions
+    and translating them into actionable feedback for the product and AI teams
+  use_cases:
+  - Complex marketing analytics workflows using AI agents
+  - Advertising analytics and attribution analysis
+  - Publisher and advertiser profitability analysis
+  - Customer adoption and utilization of AI-powered marketing solutions
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, SQL]
+    domains: [advertising technology, analytics, attribution analysis]
+    other: [customer success, cross-functional collaboration]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7912488'
+  extracted_at: '2026-02-05T11:40:27.851052'

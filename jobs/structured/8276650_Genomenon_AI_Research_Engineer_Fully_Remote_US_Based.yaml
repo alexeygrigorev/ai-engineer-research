@@ -1,0 +1,64 @@
+company:
+  name: Genomenon
+  stage: null
+  focus: |-
+    AI-driven biomedical intelligence for precision medicine,
+    rare disease diagnosis, and oncology
+  use_cases:
+  - Transforming scientific literature into real world evidence for precision medicine
+  - Supporting clinical diagnostics and variant interpretation for rare diseases and
+    cancer
+  - Enabling literature-derived evidence across clinical trial development, regulatory,
+    and commercial workflows
+  - Helping clinicians make better diagnostic and therapeutic decisions
+  - Supporting life sciences organizations in bringing better therapies to market
+    faster
+position:
+  title: AI Research Engineer (Fully Remote; US Based)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on development of AI models
+      including multimodal deep learning, graph neural networks,
+      transformers, and causal inference. The position requires
+      building, training, and deploying production-grade AI
+      systems from research to implementation.
+  responsibilities:
+  - Develop multimodal AI models integrating text, graph, and structured data
+  - Prototype and productionize graph neural networks (e.g., HGT, GraphSAGE, transformer-based
+    GNNs)
+  - Build, train, and evaluate large-scale transformer models for scientific and biomedical
+    NLP
+  - Design and implement causal inference components, including ATE and CATE estimation
+  - Collaborate closely with domain experts and product teams to translate research
+    into deployed capabilities
+  - Ensure model safety, calibration, provenance, and regulatory compliance
+  - Contribute to production ML workflows, including model training, evaluation, and
+    deployment pipelines
+  use_cases:
+  - Transforming scientific literature into real world evidence for precision medicine
+  - Supporting clinical diagnostics and variant interpretation for rare diseases and
+    cancer
+  - Enabling literature-derived evidence across clinical trial development, regulatory,
+    and commercial workflows
+  - Helping clinicians make better diagnostic and therapeutic decisions
+  - Supporting life sciences organizations in bringing better therapies to market
+    faster
+  skills:
+    genai: [hallucination suppression]
+    ml: [PyTorch, JAX, transformers, graph neural networks, HGT, GraphSAGE, causal
+        inference, ATE estimation, CATE estimation, multimodal deep learning, distributed
+        training, model interpretability]
+    web: [CLI development]
+    databases: []
+    data: [knowledge graphs, ontologies]
+    cloud: []
+    ops: [Linux]
+    languages: [Python]
+    domains: [biomedical NLP, computational biology]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8276650'
+  extracted_at: '2026-02-05T12:29:52.138731'

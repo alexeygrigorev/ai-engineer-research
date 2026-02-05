@@ -1,0 +1,55 @@
+company:
+  name: Castor
+  stage: Series B
+  focus: Clinical trial platform accelerating medical research
+  use_cases:
+  - Accelerate clinical trial journey by reducing human effort with technology
+  - Enable capture and re-use of research data from anywhere and anytime
+  - Optimize clinical trial activities from recruitment to monitoring
+  - Make it easier to design and deploy trials and enroll patients
+  - Collect data and analyze clinical trial results
+  - Improve clinical trial experience for patients, sites, and sponsors
+position:
+  title: Staff Software Engineer (AI/Python)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is titled "Staff Software Engineer (AI)" and
+      mentions building AI-powered applications, but the
+      description focuses on using AI tooling/workflows and AI
+      assistants rather than directly building, training, or fine-
+      tuning models. The emphasis is on software architecture,
+      event-driven systems, Python ecosystem, and cloud
+      infrastructure, indicating this is a software engineering
+      role that leverages AI tools rather than working directly on
+      AI systems.
+  responsibilities:
+  - Build and scale AI-powered applications for the Catalyst team
+  - Work closely with other engineers to develop and implement innovative solutions
+  - Design and implement solutions for challenging software architecture problems
+  - Integrate with external systems using messaging patterns and event-driven architectures
+  - Participate in on-call rotation to ensure operational robustness
+  - Mentor other engineers and share expertise through design discussions and documentation
+  use_cases:
+  - Accelerate clinical trial journey by reducing human effort with technology
+  - Enable capture and re-use of research data from anywhere and anytime
+  - Optimize clinical trial activities from recruitment to monitoring
+  - Make it easier to design and deploy trials and enroll patients
+  - Collect data and analyze clinical trial results
+  - Improve clinical trial experience for patients, sites, and sponsors
+  skills:
+    genai: [AI tooling, AI assistants]
+    ml: []
+    web: []
+    databases: []
+    data: [event-driven architectures, messaging patterns, ETL, data pipelines]
+    cloud: [GCP, cloud applications]
+    ops: [Kubernetes]
+    languages: [Python, asynchronous programming]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8362002'
+  extracted_at: '2026-02-05T12:58:53.099365'

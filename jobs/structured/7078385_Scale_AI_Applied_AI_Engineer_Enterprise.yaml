@@ -1,0 +1,53 @@
+company:
+  name: Scale AI
+  stage: Series F
+  focus: AI data foundry and generative AI platform for enterprises
+  use_cases:
+  - AI cybersecurity firewalls for enterprise security
+  - Transformative AI experiences in journalism and media
+  - Foundation genomic models for drug protein predictions in life sciences
+  - Complex AI agents with multimodal functionality for enterprises
+  - Tool-calling and advanced agent capabilities across industry applications
+position:
+  title: Applied AI Engineer, Enterprise
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and deploying AI
+      agents, LLM solutions, and ML models for enterprise
+      customers. The engineer works hands-on with foundation
+      models, runs data-driven experiments, and implements AI
+      applications in production - not just supporting AI
+      infrastructure or pipelines.
+  responsibilities:
+  - Own, plan, and optimize the AI behind Enterprise customer's deepest technical
+    problems
+  - Leverage SGP to build advanced AI agents with multimodal functionality and tool-calling
+  - Gather business requirements and translate them into technical AI solutions
+  - Collaborate cross-functionally with customer teams on data and ML needs
+  - Push production code in multiple development environments, writing and debugging
+    in customer and Scale codebases
+  - Conduct daily data-driven experiments to provide insights on model strengths and
+    inefficiencies
+  use_cases:
+  - AI cybersecurity firewalls for enterprise security
+  - Transformative AI experiences in journalism and media
+  - Foundation genomic models for drug protein predictions in life sciences
+  - Complex AI agents with multimodal functionality for enterprises
+  - Tool-calling and advanced agent capabilities across industry applications
+  skills:
+    genai: [LLMs, Generative AI, AI agents, multimodal AI, tool-calling]
+    ml: [machine learning models, model iteration, data-driven experimentation]
+    web: []
+    databases: []
+    data: [numpy, pandas]
+    cloud: [AWS, GCP]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7078385'
+  extracted_at: '2026-02-05T10:12:35.872485'

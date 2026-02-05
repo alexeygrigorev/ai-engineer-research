@@ -1,0 +1,59 @@
+company:
+  name: DeepL
+  stage: Growth-stage (doubled in size nearly every year, 100K+ customers)
+  focus: Language AI platform for translation and communication
+  use_cases:
+  - General-purpose AI agent for autonomous business task handling through natural
+    language instructions
+  - Building and researching sales account lists using agentic workflows
+  - Translating and publishing website content automatically
+  - Streamlining repetitive and time-consuming business tasks
+  - Enterprise communication enhancement through AI-powered automation
+  - Cross-functional workflow automation for business operations
+position:
+  title: Forward Deployed Engineer | Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on building
+      and deploying DeepL's agentic AI solution. The role involves
+      hands-on work building full-stack AI systems, implementing
+      agentic workflows, and directly deploying AI solutions to
+      customers, which qualifies as ai-first work with models and
+      agents.
+  responsibilities:
+  - Build full-stack AI systems and integrations to deliver customer value
+  - Partner with customer teams to understand needs and guide adoption of solutions
+  - Gather requirements, translate into workflows and deliver complex systems in fast-paced
+    environments
+  - Codify effective working patterns into reusable tools, playbooks, or building
+    blocks
+  - Share field feedback with Research and Product on product performance
+  - Refine the vision/direction for the agentic offering in collaboration with the
+    product team
+  - Contribute code directly when progress or clarity requires it
+  - Work at the cutting edge of AI engineering
+  use_cases:
+  - General-purpose AI agent for autonomous business task handling through natural
+    language instructions
+  - Building and researching sales account lists using agentic workflows
+  - Translating and publishing website content automatically
+  - Streamlining repetitive and time-consuming business tasks
+  - Enterprise communication enhancement through AI-powered automation
+  - Cross-functional workflow automation for business operations
+  skills:
+    genai: [RAG, agents, LangChain]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes]
+    languages: [Python, TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7894848'
+  extracted_at: '2026-02-05T11:38:20.837150'

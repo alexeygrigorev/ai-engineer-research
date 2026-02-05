@@ -1,0 +1,56 @@
+company:
+  name: Cribl
+  stage: null
+  focus: Data engine for IT and Security observability
+  use_cases:
+  - Search and analytics of observability data using Generative AI technologies
+  - AI agent-driven conversational user interfaces for data interaction
+  - RAG (Retrieval Augmented Generation) applications for querying observability data
+  - AI-powered integrations to solve IT and Security data needs
+  - Customer-facing AI features that enhance data exploration and analysis
+position:
+  title: Staff Software Engineer, Cribl AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly building and productionizing AI-
+      based technology integrations, specifically working with
+      Generative AI technologies, LLM application patterns (RAG,
+      agents, prompt engineering), and AI agent-driven
+      conversational interfaces. The engineer will actively
+      prototype, experiment with, and deploy AI features, which
+      constitutes hands-on work with AI models and systems rather
+      than just supporting infrastructure.
+  responsibilities:
+  - Productionize, launch, and operate AI-based technology integrations into Cribl's
+    core products to solve real customer problems
+  - Partner with product and design leaders to prototype and experiment with new AI
+    features
+  - Stay up-to-date with the latest AI technologies and trends
+  - Design and scale complex React-based web applications with AI-driven interfaces
+  - Work closely with development partners and stakeholders to iteratively design,
+    develop, and deliver AI-enabled products
+  - Participate in on-call duties for production systems
+  use_cases:
+  - Search and analytics of observability data using Generative AI technologies
+  - AI agent-driven conversational user interfaces for data interaction
+  - RAG (Retrieval Augmented Generation) applications for querying observability data
+  - AI-powered integrations to solve IT and Security data needs
+  - Customer-facing AI features that enhance data exploration and analysis
+  skills:
+    genai: [RAG, agents, prompt engineering, LLM application patterns, AI agent-driven
+        interfaces]
+    ml: []
+    web: [React, HTML, CSS]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [TypeScript, JavaScript]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8370650'
+  extracted_at: '2026-02-05T13:00:27.011243'

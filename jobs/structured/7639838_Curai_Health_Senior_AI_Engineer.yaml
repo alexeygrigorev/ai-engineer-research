@@ -1,0 +1,51 @@
+company:
+  name: Curai Health
+  stage: Startup
+  focus: AI-powered virtual healthcare delivery
+  use_cases:
+  - Conversational AI systems for patient interactions and follow-up care
+  - Personalization and user understanding for healthcare applications
+  - Clinical decision support tools for physicians
+  - AI-powered virtual clinic with advanced AI systems at every step of patient care
+position:
+  title: Senior AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on building and deploying of large
+      language models and generative AI solutions for
+      conversational AI, personalization, and clinical decision
+      support. The engineer leads end-to-end AI initiatives from
+      model development through deployment and monitoring, working
+      directly on AI systems rather than just supporting
+      infrastructure.
+  responsibilities:
+  - Design, build, deploy and improve advanced ML and generative AI solutions including
+    large language models for patient and provider-facing products
+  - Lead end-to-end AI initiatives from data exploration, modeling, evaluation, A/B
+    testing, deployment, and continuous monitoring
+  - Collaborate cross-functionally with clinicians, researchers, engineers, product
+    managers, data scientists, and designers to drive product improvements
+  - Mentor and provide technical guidance to interns and junior team members, fostering
+    a culture of learning and innovation
+  use_cases:
+  - Conversational AI systems for patient interactions and follow-up care
+  - Personalization and user understanding for healthcare applications
+  - Clinical decision support tools for physicians
+  - AI-powered virtual clinic with advanced AI systems at every step of patient care
+  skills:
+    genai: [large language models, generative AI, conversational AI]
+    ml: [ML lifecycle]
+    web: []
+    databases: []
+    data: [data analysis]
+    cloud: []
+    ops: [model deployment, A/B testing]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7639838'
+  extracted_at: '2026-02-05T11:16:31.049261'

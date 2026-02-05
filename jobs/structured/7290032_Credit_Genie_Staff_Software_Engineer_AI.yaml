@@ -1,0 +1,57 @@
+company:
+  name: Credit Genie
+  stage: Series B
+  focus: |-
+    Mobile-first financial wellness and AI-powered financial
+    insights
+  use_cases:
+  - Personalized financial insights powered by AI
+  - Instant access to cash and credit-building tools
+  - Real-time AI inferencing and retrieval for financial decision making
+  - Financial ecosystem with AI-driven recommendations
+  - Financial wellness platform using cutting-edge AI technology
+position:
+  title: Staff Software Engineer, AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Staff Backend Software Engineer role focused on
+      building infrastructure, services, and APIs to support AI
+      deployments rather than building models themselves. The role
+      emphasizes backend systems, data pipelines, and MLOps
+      workflows to enable AI/ML Engineers to deploy and monitor
+      models, with no mention of model training, fine-tuning, or
+      developing AI algorithms.
+  responsibilities:
+  - Lead design and implementation of highly available, scalable backend services
+    and APIs that integrate AI models and applications into production
+  - Architect and optimize services and data pipelines essential for deploying, monitoring,
+    and maintaining real-time AI inferencing and retrieval at scale
+  - Collaborate with AI and ML Engineers to improve model deployment, monitoring,
+    and experimentation workflows (MLOps/AIOps)
+  - Drive technical excellence by setting high standards for code quality, system
+    reliability, and performance
+  - Mentor and guide other engineers on best practices for building robust backend
+    systems in an AI-focused environment
+  use_cases:
+  - Personalized financial insights powered by AI
+  - Instant access to cash and credit-building tools
+  - Real-time AI inferencing and retrieval for financial decision making
+  - Financial ecosystem with AI-driven recommendations
+  - Financial wellness platform using cutting-edge AI technology
+  skills:
+    genai: [LLMs]
+    ml: []
+    web: [APIs]
+    databases: [Vector Databases]
+    data: [Data Pipelines, Jupyter Notebooks]
+    cloud: [AWS, GCP, Azure]
+    ops: [Terraform, AWS CDK, Distributed Systems, Model Serving, MLOps, AIOps]
+    languages: [Python, Java, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7290032'
+  extracted_at: '2026-02-05T10:33:31.135040'

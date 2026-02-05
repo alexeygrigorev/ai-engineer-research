@@ -1,0 +1,61 @@
+company:
+  name: Aledade
+  stage: null
+  focus: null
+  use_cases:
+  - Text generation for healthcare documentation and communication
+  - Image synthesis for medical imaging applications
+  - Multimodal AI models combining text and image data for healthcare insights
+  - Personalized content creation for patient engagement and care coordination
+  - Making complex healthcare datasets more accessible through AI-powered interfaces
+  - Applied AI solutions to improve healthcare operations and patient outcomes
+position:
+  title: Senior Software Engineer II - AI/ML
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves direct work on AI models including improving
+      infrastructure for model development, training, and
+      deployment of large language models and generative AI
+      architectures. Requires hands-on implementation of prompt
+      engineering strategies and systems to enhance AI model
+      capabilities.
+  responsibilities:
+  - Improve AI/ML infrastructure for model development, training, and deployment of
+    LLMs and generative AI architectures
+  - Design multi-year technical vision and direction for generative AI areas including
+    text generation, image synthesis, and multimodal models
+  - Architect systems to enhance AI model capabilities and make complex healthcare
+    datasets more accessible and actionable
+  - Design and implement prompt engineering strategies to guide generative AI models
+  - Develop APIs and interfaces for integrating generative AI capabilities into existing
+    healthcare systems
+  - Maintain security of protected patient health information and ensure regulatory
+    compliance for AI applications
+  - Partner with cross-functional stakeholders to identify and prioritize applied
+    AI use cases
+  - Mentor and coach junior engineers through code reviews and technical guidance
+  use_cases:
+  - Text generation for healthcare documentation and communication
+  - Image synthesis for medical imaging applications
+  - Multimodal AI models combining text and image data for healthcare insights
+  - Personalized content creation for patient engagement and care coordination
+  - Making complex healthcare datasets more accessible through AI-powered interfaces
+  - Applied AI solutions to improve healthcare operations and patient outcomes
+  skills:
+    genai: [LLMs, generative AI, prompt engineering, text generation, image synthesis,
+      multimodal models]
+    ml: [model training]
+    web: [APIs]
+    databases: [SQL]
+    data: []
+    cloud: []
+    ops: [model deployment, CI/CD, monitoring]
+    languages: [Python]
+    domains: []
+    other: [Agile]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7924450'
+  extracted_at: '2026-02-05T11:40:52.302172'

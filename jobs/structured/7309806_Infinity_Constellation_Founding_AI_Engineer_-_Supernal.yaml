@@ -1,0 +1,51 @@
+company:
+  name: Infinity Constellation
+  stage: Seed/Series A
+  focus: AI-powered employee workflow automation platform
+  use_cases:
+  - AI employees that automate tedious manual business processes
+  - AI-powered workflows that help businesses scale with smaller human teams
+  - Structured data extraction and automation using fine-tuned LLMs
+  - Web automation interfaces accessible from web to mobile devices
+  - Agent-based systems that manage and execute business workflows
+position:
+  title: Founding AI Engineer - Supernal
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Founding AI Engineer role with direct hands-on
+      work on AI systems: architecting RAG pipelines, building
+      agent-based systems, fine-tuning LLMs, and implementing LLM-
+      powered workflows. The role explicitly involves model fine-
+      tuning and working with orchestration tools, which is core
+      AI development rather than support infrastructure.
+  responsibilities:
+  - Architect and scale RAG pipelines, agent-based systems, and LLM-powered workflows
+  - Fine-tune large language models for structured data extraction and automation
+  - Build developer-friendly APIs and interfaces for web automation
+  - Ship product features rapidly with real usage and feedback from customers
+  - Work closely with product, design, and customers to build high-impact features
+  - Stay ahead of the curve on LLM tools, embeddings, orchestration, and training
+    techniques
+  use_cases:
+  - AI employees that automate tedious manual business processes
+  - AI-powered workflows that help businesses scale with smaller human teams
+  - Structured data extraction and automation using fine-tuned LLMs
+  - Web automation interfaces accessible from web to mobile devices
+  - Agent-based systems that manage and execute business workflows
+  skills:
+    genai: [RAG, agents, LLM fine-tuning, LLM orchestration, embeddings, prompt engineering]
+    ml: []
+    web: [Django, React, API development]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [web automation, structured data extraction]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7309806'
+  extracted_at: '2026-02-05T10:36:42.342019'

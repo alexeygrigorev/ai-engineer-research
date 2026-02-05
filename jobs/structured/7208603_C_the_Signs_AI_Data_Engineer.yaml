@@ -1,0 +1,56 @@
+company:
+  name: C the Signs
+  stage: null
+  focus: Healthcare AI for patient outcomes
+  use_cases:
+  - Healthcare data processing for LLM training and fine-tuning
+  - Healthcare AI applications impacting patient outcomes
+  - Large-scale healthcare data ingestion and transformation
+  - Data pipeline infrastructure for machine learning workflows
+  - Compliant healthcare data management and storage
+position:
+  title: AI Data Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on building data pipelines, cleaning and
+      structuring data for LLMs and ML models, but does not
+      involve actually building, training, fine-tuning, or
+      deploying models. The engineer provides the foundational
+      data infrastructure and high-quality datasets that enable ML
+      engineers to work on models.
+  responsibilities:
+  - Collaborate with data scientists and ML engineers to understand data requirements
+    for LLM and machine learning model fine-tuning
+  - Design, build, and maintain scalable data pipelines to ingest, process, and store
+    massive and diverse healthcare datasets
+  - Implement robust data validation, cleaning, and transformation processes to ensure
+    data quality and integrity for training datasets
+  - Develop and optimize data structures and schemas for efficient access and utilization
+    by LLMs and machine learning models
+  - Work with the team to identify and acquire new data sources, ensuring compliance
+    with healthcare regulations like HIPAA
+  - Monitor data pipeline performance, troubleshoot issues, and implement optimizations
+    to improve efficiency and reliability
+  use_cases:
+  - Healthcare data processing for LLM training and fine-tuning
+  - Healthcare AI applications impacting patient outcomes
+  - Large-scale healthcare data ingestion and transformation
+  - Data pipeline infrastructure for machine learning workflows
+  - Compliant healthcare data management and storage
+  skills:
+    genai: [LLM fine-tuning concepts]
+    ml: []
+    web: []
+    databases: [data warehousing]
+    data: [Apache Spark, ETL, data modeling, Apache Airflow]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python, Scala, Java]
+    domains: [HIPAA compliance]
+    other: [FHIR, HL7]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7208603'
+  extracted_at: '2026-02-05T10:29:52.197006'

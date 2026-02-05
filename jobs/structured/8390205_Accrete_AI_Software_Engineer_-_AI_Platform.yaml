@@ -1,0 +1,51 @@
+company:
+  name: Accrete AI
+  stage: null
+  focus: AI solutions for business and government
+  use_cases:
+  - Autonomous AI agents that analyze data and generate intelligent recommendations
+  - Streamlining business operations and improving decision-making
+  - Enhancing security, intelligence, and operational efficiency for government entities
+  - Converting complex data into actionable insights for businesses and government
+position:
+  title: Software Engineer - AI Platform
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is building backend services, infrastructure, and
+      platform components that enable other teams (product and
+      research) to build and deploy AI solutions. The engineer is
+      not building, training, or deploying models directly but
+      creating the foundational systems and tooling that support
+      AI-driven products.
+  responsibilities:
+  - Design, build, and maintain scalable backend services and platform components
+    in Python
+  - Develop APIs and internal services that support core product functionality
+  - Build and improve data pipelines, workflows, and infrastructure used across the
+    platform
+  - Collaborate with product, research, and engineering teams to translate requirements
+    into robust technical solutions
+  - Improve system reliability, performance, and observability in production environments
+  - Contribute to architectural decisions and help evolve platform best practices
+  use_cases:
+  - Autonomous AI agents that analyze data and generate intelligent recommendations
+  - Streamlining business operations and improving decision-making
+  - Enhancing security, intelligence, and operational efficiency for government entities
+  - Converting complex data into actionable insights for businesses and government
+  skills:
+    genai: []
+    ml: []
+    web: [React, APIs, service-oriented architectures]
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, GCP, Azure]
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8390205'
+  extracted_at: '2026-02-05T13:04:26.726250'

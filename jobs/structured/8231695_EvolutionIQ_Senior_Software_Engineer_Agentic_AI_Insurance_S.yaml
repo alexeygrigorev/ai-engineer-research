@@ -1,0 +1,53 @@
+company:
+  name: EvolutionIQ
+  stage: Series B+
+  focus: AI-powered insurance claims management SaaS
+  use_cases:
+  - AI-powered insurance claims management platform for injured and disabled workers
+  - Enterprise SaaS application handling large-scale structured and unstructured datasets
+  - Multi-tenant, multi-user backend architecture supporting insurance workflows
+  - Business intelligence and ML data delivery to customer-facing web applications
+  - Helping workers return to workforce and reducing avoidable costs
+position:
+  title: Senior Software Engineer (Agentic / AI Insurance SaaS)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a Senior Software Engineer who USES agentic AI
+      coding tools (Cursor AI) to build applications more
+      efficiently, but the primary responsibility is building
+      backend REST servers, web applications, and customer-facing
+      platforms. The engineer works WITH data science teams who
+      build the actual ML models, positioning this as a supporting
+      role near AI rather than hands-on model development.
+  responsibilities:
+  - Build using spec-first multi-agent workflows in Cursor AI with planning, code
+    generation, testing, and review
+  - Contribute to unified claims platform working with data science and data engineering
+    teams
+  - Build and maintain backend REST server feeding ML and BI data to React frontend
+  - Own full lifecycle of designing, building and launching enterprise applications
+  - Work on greenfield projects with high ownership and influence technology choices
+  - Collaborate with head of product, data science team, UX designers, and end users
+  use_cases:
+  - AI-powered insurance claims management platform for injured and disabled workers
+  - Enterprise SaaS application handling large-scale structured and unstructured datasets
+  - Multi-tenant, multi-user backend architecture supporting insurance workflows
+  - Business intelligence and ML data delivery to customer-facing web applications
+  - Helping workers return to workforce and reducing avoidable costs
+  skills:
+    genai: [Cursor AI]
+    ml: []
+    web: [REST APIs, React, multi-tenant architecture]
+    databases: [database schema design]
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8231695'
+  extracted_at: '2026-02-05T12:17:29.501364'

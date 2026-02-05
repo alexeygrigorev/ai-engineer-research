@@ -1,0 +1,60 @@
+company:
+  name: Medal
+  stage: null
+  focus: |-
+    Building agentic AI systems for gaming moments using world
+    models and video understanding
+  use_cases:
+  - Understanding and analyzing billions of gameplay clips from gaming moments
+  - Building agentic systems that can perceive, anticipate, and improvise in game
+    environments
+  - Creating world models for training AI agents across diverse gaming environments
+  - Performing spatial and temporal reasoning on video content from gameplay
+  - Transferring video understanding capabilities from games to other domains
+  - Extracting features and insights from high-throughput video data
+position:
+  title: Generative AI / Machine Learning Engineer
+  ai_type:
+    type: ml-first
+    reasoning: |-
+      The role focuses on video machine learning, image embedding,
+      and computer vision with PyTorch as the core ML framework.
+      While there's a mention of "bonus" generative AI experience
+      and agentic systems, the primary technical requirements are
+      traditional ML skills - 4+ years of video ML, CV, and
+      feature extraction rather than building or deploying
+      LLMs/agents.
+  responsibilities:
+  - Develop and implement video machine learning models with focus on image embedding
+    and computer vision
+  - Build agents capable of deep spatial and temporal reasoning for gaming environments
+  - Design and deploy world models that provide training environments for agents
+  - Implement video understanding systems with transfer learning capabilities beyond
+    games
+  - Optimize code performance for high-throughput video inference and feature extraction
+  - Drive feature development through A/B testing and usage metrics analysis
+  - Own end-to-end quality of complex features from development to production
+  use_cases:
+  - Understanding and analyzing billions of gameplay clips from gaming moments
+  - Building agentic systems that can perceive, anticipate, and improvise in game
+    environments
+  - Creating world models for training AI agents across diverse gaming environments
+  - Performing spatial and temporal reasoning on video content from gameplay
+  - Transferring video understanding capabilities from games to other domains
+  - Extracting features and insights from high-throughput video data
+  skills:
+    genai: [Generative AI]
+    ml: [PyTorch, Video Machine Learning, Image Embedding, Feature Extraction]
+    web: []
+    databases: [BigQuery]
+    data: [Airflow]
+    cloud: [GCP]
+    ops: [KubeFlow Pipelines]
+    languages: [Python]
+    domains: [OpenCV, Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7141363'
+  extracted_at: '2026-02-05T10:25:09.417675'

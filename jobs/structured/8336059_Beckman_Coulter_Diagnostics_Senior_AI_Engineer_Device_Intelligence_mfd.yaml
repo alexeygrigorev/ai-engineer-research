@@ -1,0 +1,63 @@
+company:
+  name: Beckman Coulter Diagnostics
+  stage: Public
+  focus: Life sciences, diagnostics, and biotechnology instruments
+  use_cases:
+  - Extract meaningful insights from data created by Danaher diagnostic and life science
+    devices
+  - Enhance imaging device automation and user capabilities through AI-driven analysis
+  - Improve user experience for diagnostic and biotechnology instruments using AI
+  - Leverage multimodal AI combining computer vision with LLMs for instrument intelligence
+  - Enable automated instrument control and enhanced automation for scientific equipment
+position:
+  title: Senior AI Engineer, Device Intelligence (m/f/d)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves designing and implementing advanced AI
+      systems including LLMs, agentic workflows, and computer
+      vision technologies. The engineer will work hands-on with
+      models, RAG approaches, and vector databases to extract
+      insights from device data, directly building and deploying
+      AI systems rather than just supporting infrastructure.
+  responsibilities:
+  - Collaborate with the Senior Director and broader team to develop AI-driven product
+    improvements and create new products for Danaher devices, with initial focus on
+    imaging devices
+  - Design and implement advanced AI systems including next-generation agentic workflows,
+    LLMs and computer vision technologies to enhance instrument automation
+  - Work closely with cross-functional and cross company teams to translate product
+    concepts into concrete AI architectures, ensuring alignment with product success
+    criteria and measurable KPIs
+  - Lead the technical implementation of AI projects of notable complexity, involving
+    multiple functions and typically spanning multi-quarter timelines
+  - Drive innovation in the AI software stack, focusing on maximizing value extraction
+    from instruments for customers through AI systems
+  - Collaborate with business stakeholders, technical experts, and subject matter
+    experts to build comprehensive AI roadmaps for imaging products across various
+    verticals
+  use_cases:
+  - Extract meaningful insights from data created by Danaher diagnostic and life science
+    devices
+  - Enhance imaging device automation and user capabilities through AI-driven analysis
+  - Improve user experience for diagnostic and biotechnology instruments using AI
+  - Leverage multimodal AI combining computer vision with LLMs for instrument intelligence
+  - Enable automated instrument control and enhanced automation for scientific equipment
+  skills:
+    genai: [Agentic Workflows, LLMs, Multimodal AI, RAG approaches, Agentic frameworks,
+      Foundation Models]
+    ml: [Convolutional Neural Networks, TensorFlow, PyTorch, OpenCV, AI evaluation
+        methods]
+    web: []
+    databases: [Vector databases]
+    data: []
+    cloud: [AWS, Google Cloud, Azure]
+    ops: [Docker, Kubernetes, GPU, TPU]
+    languages: [Python, C++]
+    domains: [Computer Vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8336059'
+  extracted_at: '2026-02-05T12:54:03.849722'

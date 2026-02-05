@@ -1,0 +1,59 @@
+company:
+  name: New York Life Insurance Company
+  stage: Public
+  focus: |-
+    Insurance company with AI and data transformation
+    initiatives
+  use_cases:
+  - Risk classification and predictive modeling for insurance applications
+  - Generative AI Q&A tools for agents and financial advisors to streamline workflows
+  - Model deployment patterns and infrastructure for production AI systems
+  - Monitoring and reliability frameworks for deployed machine learning models
+  - Evaluation frameworks for assessing Generative AI tool performance
+position:
+  title: 2026 Technology, Data, AI & Ventures Summer Internship Program - AI Engineer/Data
+    Scientist Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role includes two tracks: Data Scientist working
+      directly on predictive models and GenAI solutions, and AI
+      Engineer building and deploying ML/GenAI systems in
+      production. Both tracks involve hands-on work with models -
+      building, optimizing, and deploying them - rather than
+      supporting infrastructure or data pipelines for AI teams.
+  responsibilities:
+  - Build and enhance predictive modeling frameworks by integrating new data into
+    risk classification systems
+  - Develop robust frameworks to evaluate the performance and value of various Generative
+    AI tools
+  - Create question-and-answer tools tailored for agents and financial advisors to
+    boost efficiency
+  - Design, implement, and optimize machine learning and Generative AI models in production
+    environments
+  - Build MLOps and DevOps platforms through dashboards and monitoring tools like
+    New Relic
+  - Develop automation frameworks that ensure model reliability and performance at
+    scale
+  use_cases:
+  - Risk classification and predictive modeling for insurance applications
+  - Generative AI Q&A tools for agents and financial advisors to streamline workflows
+  - Model deployment patterns and infrastructure for production AI systems
+  - Monitoring and reliability frameworks for deployed machine learning models
+  - Evaluation frameworks for assessing Generative AI tool performance
+  skills:
+    genai: [Generative AI]
+    ml: [Machine Learning]
+    web: [APIs]
+    databases: []
+    data: []
+    cloud: []
+    ops: [EKS, CI/CD, New Relic, automated testing]
+    languages: [Python, R, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7332289'
+  extracted_at: '2026-02-05T10:41:06.966278'

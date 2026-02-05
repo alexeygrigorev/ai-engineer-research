@@ -1,0 +1,55 @@
+company:
+  name: BJAK
+  stage: null
+  focus: Building proactive AI systems for daily use
+  use_cases:
+  - Proactive AI system integrated across daily conversations, tools, and workflows
+  - AI-powered chat interfaces with streaming response capabilities
+  - Vision and speech AI features for mobile applications
+  - Recommendation systems integrated into mobile user experiences
+  - On-device AI inference using TensorFlow Lite for mobile performance
+position:
+  title: Android Developer, AI Apps
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building Android applications that
+      consume AI features via backend APIs rather than building,
+      training, or deploying models. While it involves TensorFlow
+      Lite for on-device inference, the primary work is mobile app
+      development for AI-powered applications, making it AI-
+      support rather than ai-first.
+  responsibilities:
+  - Build and maintain production Android apps using Kotlin
+  - Integrate AI-powered features including chat, vision, voice, and recommendations
+    via backend APIs
+  - Design UX patterns for AI interactions including streaming responses, retries,
+    and partial results
+  - Optimize performance, memory usage, and responsiveness for AI-heavy application
+    flows
+  - Implement analytics, logging, and feedback capture to support AI evaluation and
+    iteration
+  - Collaborate with backend and ML engineers on API contracts and system behavior
+  - Ensure app stability, security, and scalability in production environments
+  use_cases:
+  - Proactive AI system integrated across daily conversations, tools, and workflows
+  - AI-powered chat interfaces with streaming response capabilities
+  - Vision and speech AI features for mobile applications
+  - Recommendation systems integrated into mobile user experiences
+  - On-device AI inference using TensorFlow Lite for mobile performance
+  skills:
+    genai: [LLM APIs, vision APIs, speech APIs]
+    ml: [TensorFlow Lite, MLKit]
+    web: [REST, gRPC]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Kotlin, Java, SQL]
+    domains: []
+    other: [Coroutines, Flow]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8286147'
+  extracted_at: '2026-02-05T12:36:18.464030'

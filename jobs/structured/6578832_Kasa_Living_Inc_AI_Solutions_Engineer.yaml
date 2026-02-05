@@ -1,0 +1,75 @@
+company:
+  name: Kasa Living, Inc.
+  stage: Series B
+  focus: Tech-enabled hospitality operating system
+  use_cases:
+  - Operational efficiency automation across Operations, Guest Services, Finance,
+    and Human Resources departments
+  - AI-driven pricing optimization for hospitality assets using intelligent automation
+    and data-driven decision making
+  - Process automation for reducing manual workload and eliminating repetitive tasks
+    across business functions
+  - Workflow automation connecting disparate business systems through API integrations
+    and orchestration platforms
+  - Real-time process monitoring and alerting to identify areas for continuous improvement
+    and error reduction
+  - Guest experience enhancement through digitally forward, automated hospitality
+    operations
+position:
+  title: AI Solutions Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role focuses on implementing automation solutions and
+      integrating AI tools for business process optimization, not
+      building or training AI/ML models. The work involves using
+      AI APIs, orchestration platforms like Zapier/n8n, and
+      workflow automation to improve operational efficiency, which
+      is supporting infrastructure and automation rather than
+      hands-on model development.
+  responsibilities:
+  - Partner with department leaders across the organization to identify manual processes,
+    workflow bottlenecks, and opportunities for automation
+  - Build and implement automated solutions using modern tools, scripts, and AI-enhanced
+    processes to streamline operations across multiple business functions
+  - Develop dashboards, monitoring systems, and alerting tools that provide real-time
+    visibility into process performance
+  - Design and deploy AI-powered automation solutions that handle complex decision-making,
+    data processing, and workflow management tasks
+  - Build and maintain API integrations that connect disparate tools and systems,
+    creating seamless data flows and automated workflows
+  - Implement modern orchestration platforms to create sophisticated multi-step automations
+    spanning multiple systems and departments
+  - Measure and report on the impact of automation initiatives, tracking metrics like
+    time saved, error reduction, and team productivity improvements
+  - Train teams and evangelize how to use automation systems to self-serve frequent
+    issues
+  use_cases:
+  - Operational efficiency automation across Operations, Guest Services, Finance,
+    and Human Resources departments
+  - AI-driven pricing optimization for hospitality assets using intelligent automation
+    and data-driven decision making
+  - Process automation for reducing manual workload and eliminating repetitive tasks
+    across business functions
+  - Workflow automation connecting disparate business systems through API integrations
+    and orchestration platforms
+  - Real-time process monitoring and alerting to identify areas for continuous improvement
+    and error reduction
+  - Guest experience enhancement through digitally forward, automated hospitality
+    operations
+  skills:
+    genai: []
+    ml: []
+    web: [REST, GraphQL, APIs, webhooks]
+    databases: []
+    data: [Prefect, RPA, data pipelines]
+    cloud: [cloud services]
+    ops: [Zapier, n8n, Make, workflow automation]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6578832'
+  extracted_at: '2026-02-05T09:46:01.007217'

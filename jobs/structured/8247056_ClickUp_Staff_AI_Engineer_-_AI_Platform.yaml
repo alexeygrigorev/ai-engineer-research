@@ -1,0 +1,64 @@
+company:
+  name: ClickUp
+  stage: Series B
+  focus: AI-powered productivity and project management workspace
+  use_cases:
+  - Context-driven AI features for workspace productivity enhancement
+  - Intelligent search across tasks, documents, and unified workspace data
+  - AI-powered task management and automation features
+  - Enterprise search with natural language processing capabilities
+  - Real-time AI assistance for document creation and editing
+  - Intelligent calendar and scheduling optimization
+position:
+  title: Staff AI Engineer - AI Platform
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves directly applying LLMs to build
+      intelligent features, integrating with multiple LLM
+      providers, and managing model selection and routing. While
+      it includes platform infrastructure work, the engineer works
+      hands-on with LLMs to solve real user problems and directly
+      implements AI-powered capabilities, not just supporting
+      others who do AI work.
+  responsibilities:
+  - Architect, design, and implement scalable AI platform services that support the
+    deployment, orchestration, and lifecycle management of LLMs and other AI models
+  - Apply LLMs and other AI technologies directly to build and enhance ClickUp's intelligent
+    features, working closely with product and engineering teams
+  - Build and maintain robust APIs and backend systems that enable seamless integration
+    of AI-powered features into ClickUp's core platform
+  - Develop infrastructure for model serving, monitoring, logging, and automated evaluation
+    to ensure high reliability and performance of AI services in production
+  - Integrate with multiple LLM providers (e.g., OpenAI, Anthropic, Google) and manage
+    model selection, routing, and fallback strategies for optimal performance and
+    cost
+  - Drive the adoption of best practices in AI privacy, security, and compliance,
+    including data anonymization, secure data handling, and regulatory adherence
+  - Optimize platform performance, scalability, and cost-efficiency, leveraging cloud-native
+    technologies and distributed systems
+  - Stay current with advancements in AI infrastructure, MLOps, and LLM applications,
+    and proactively incorporate relevant innovations into ClickUp's AI platform
+  use_cases:
+  - Context-driven AI features for workspace productivity enhancement
+  - Intelligent search across tasks, documents, and unified workspace data
+  - AI-powered task management and automation features
+  - Enterprise search with natural language processing capabilities
+  - Real-time AI assistance for document creation and editing
+  - Intelligent calendar and scheduling optimization
+  skills:
+    genai: [LangGraph, LLMs, OpenAI API, Anthropic API]
+    ml: []
+    web: [FastAPI, REST APIs]
+    databases: []
+    data: [Airflow]
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, Kubeflow, Ray]
+    languages: [Python, Go, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8247056'
+  extracted_at: '2026-02-05T12:20:28.981589'

@@ -1,0 +1,59 @@
+company:
+  name: ClickHouse
+  stage: Series D
+  focus: |-
+    Real-time analytics, data warehousing, and cloud database
+    platform
+  use_cases:
+  - AI-powered features for real-time analytics and data warehousing platform
+  - Inference API layer connecting database capabilities with external AI/ML services
+  - User interfaces that enable users to interact with AI functionalities and extract
+    value from their data
+  - Integration with popular AI/ML frameworks, tools, and vector databases
+  - Model deployment and monitoring in production systems for data-oriented use cases
+position:
+  title: Senior Software Engineer (TypeScript) - AI/ML
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      The role is a full-stack software engineer building UI,
+      APIs, and integrations that connect ClickHouse database
+      capabilities with external AI/ML inference systems. The
+      engineer is not building, training, or fine-tuning models -
+      they are implementing integrations, creating inference API
+      layers, and building user interfaces that make AI features
+      accessible to users.
+  responsibilities:
+  - Design and implement AI-powered features across the full stack, from backend inference
+    services to frontend interfaces within the ClickHouse Cloud platform
+  - Create robust, scalable APIs that connect ClickHouse database capabilities with
+    modern AI/ML inference systems and external/internal AI services
+  - Build responsive, intuitive user interfaces that make complex AI functionalities
+    accessible to users of all technical backgrounds
+  - Implement and maintain integrations with the broader AI/ML ecosystem and standards
+    to ensure ClickHouse works seamlessly with popular frameworks and tools
+  - Integrate models into production systems with proper monitoring, versioning, observability,
+    and evaluation
+  use_cases:
+  - AI-powered features for real-time analytics and data warehousing platform
+  - Inference API layer connecting database capabilities with external AI/ML services
+  - User interfaces that enable users to interact with AI functionalities and extract
+    value from their data
+  - Integration with popular AI/ML frameworks, tools, and vector databases
+  - Model deployment and monitoring in production systems for data-oriented use cases
+  skills:
+    genai: [inference APIs]
+    ml: []
+    web: [React, API design]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, Azure, GCP]
+    ops: []
+    languages: [TypeScript, JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7598993'
+  extracted_at: '2026-02-05T11:11:22.914281'

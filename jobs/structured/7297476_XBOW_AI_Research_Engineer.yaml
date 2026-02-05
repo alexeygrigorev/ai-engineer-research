@@ -1,0 +1,57 @@
+company:
+  name: XBOW
+  stage: Series B
+  focus: |-
+    AI-powered offensive security platform for automated
+    vulnerability discovery and exploitation
+  use_cases:
+  - Autonomous discovery and validation of software vulnerabilities
+  - AI-powered exploitation of identified vulnerabilities
+  - Proof-backed security results delivered in hours instead of weeks
+  - Real-world zero-day vulnerability detection across software systems
+  - Security testing at scale using LLM orchestration
+position:
+  title: AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with LLMs including
+      prompting strategies, agentic orchestration, and building
+      systems that coordinate language models with real-world
+      security tasks. The engineer will design prompt flows,
+      implement orchestration layers, and directly advance the
+      intelligence of the AI platform.
+  responsibilities:
+  - Build LLM-powered software with prompt flows and orchestrations that ensure great
+    performance with no false positives
+  - Architect and build production-grade, testable, and maintainable AI-powered software
+    stack
+  - Design and build experiments and evaluation frameworks for performance testing
+    at scale, conducting data analysis
+  - Collaborate with AI team, security experts, and developers to create end-to-end
+    systems
+  - Own projects end-to-end from ideation and experimentation to deployment and production
+    monitoring
+  - Conduct continuous research on harnessing LLM advancements to improve system performance
+  use_cases:
+  - Autonomous discovery and validation of software vulnerabilities
+  - AI-powered exploitation of identified vulnerabilities
+  - Proof-backed security results delivered in hours instead of weeks
+  - Real-world zero-day vulnerability detection across software systems
+  - Security testing at scale using LLM orchestration
+  skills:
+    genai: [prompt engineering, agentic orchestration, LLM integration]
+    ml: []
+    web: []
+    databases: []
+    data: [evaluation frameworks, data analysis]
+    cloud: []
+    ops: [fault-tolerance, production monitoring, CI/CD]
+    languages: [TypeScript]
+    domains: []
+    other: [software architecture]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7297476'
+  extracted_at: '2026-02-05T10:33:39.904464'

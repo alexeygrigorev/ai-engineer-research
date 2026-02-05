@@ -1,0 +1,64 @@
+company:
+  name: Invisible Technologies
+  stage: Series B equivalent (raised $100M growth capital in September 2025, profitable
+    for over half a decade with $134M revenue)
+  focus: |-
+    End-to-end AI platform for enterprise workflow automation,
+    data structuring, and agentic AI solutions
+  use_cases:
+  - Supply chain automation for enterprise clients
+  - AI-enabled naval simulations for defense contractors
+  - Validation and analysis for sports draft picks
+  - Data structuring and cleaning to prepare company data for AI applications
+  - Agentic AI solutions deployed to solve complex client problems across industries
+  - Digital workflow automation combining AI with human expertise
+position:
+  title: Software Engineer, Agentic AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role that involves
+      building and deploying AI/ML systems directly for clients.
+      The role requires hands-on experience with LLMs, AI agents,
+      RAG pipelines, and production-grade AI applications, which
+      are all direct AI development tasks. The combination of
+      model development, deployment, and client-facing
+      implementation places this squarely in ai-first.
+  responsibilities:
+  - Build robust, scalable backend systems that support machine learning operations
+    and data processing pipelines
+  - Oversee and optimize cloud infrastructure to ensure efficient deployment and operation
+    of ML models
+  - Work embedded with client teams to conduct use case discovery and develop AI deployment
+    solutions
+  - Design and deploy scalable ML systems including retrieval-augmented generation
+    (RAG) pipelines and production-grade AI applications
+  - Integrate advanced ML technologies across platforms, collaborating closely with
+    ML engineers and data scientists
+  - Participate in research and development of new tools to enhance AI capabilities
+    and workflows
+  - Support rapid iteration and deployment of machine learning solutions in production-ready
+    environments
+  use_cases:
+  - Supply chain automation for enterprise clients
+  - AI-enabled naval simulations for defense contractors
+  - Validation and analysis for sports draft picks
+  - Data structuring and cleaning to prepare company data for AI applications
+  - Agentic AI solutions deployed to solve complex client problems across industries
+  - Digital workflow automation combining AI with human expertise
+  skills:
+    genai: [LLMs, AI Agents, RAG]
+    ml: []
+    web: []
+    databases: [SQL, NoSQL]
+    data: []
+    cloud: [AWS, GCP, Azure]
+    ops: [Kubernetes, Docker, MLOps, MLflow, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8192196'
+  extracted_at: '2026-02-05T12:11:58.939532'

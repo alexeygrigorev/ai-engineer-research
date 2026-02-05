@@ -1,0 +1,66 @@
+company:
+  name: Capital Group
+  stage: Public
+  focus: Investment management and financial services
+  use_cases:
+  - Securing enterprise AI platforms and solutions being built and deployed across
+    the organization
+  - Protecting diverse set of AI systems including Agentic systems and Large Language
+    Models from security threats
+  - Embedding automated security controls into AI development workflows and CI/CD
+    pipelines
+  - Managing and responding to AI-related security incidents and vulnerabilities
+  - Ensuring compliance with AI regulatory frameworks including NIST AI RMF, MITRE
+    ATLAS, GDPR, and EU AI Act
+position:
+  title: Lead AI AppSec Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is an AI security position that focuses on
+      securing AI systems through threat modeling, security
+      reviews, and building security controls into the AI
+      development lifecycle. The engineer does not build, train,
+      or deploy AI models themselves but rather protects and
+      secures AI platforms and solutions built by others, making
+      this an ai-support role.
+  responsibilities:
+  - Secure AI Development Lifecycle by procuring and building technical solutions
+    to embed automated security checks into AI SDLC and ML-Ops
+  - Threat model complex Agentic and AI systems and design security requirements collaboratively
+    with developers, architects and business stakeholders
+  - Review code for security vulnerabilities in the context of AI-driven systems
+  - Provide thought leadership for Information Security policies and standards for
+    AI in collaboration with technology risk
+  - Provide AI/Agent subject matter expertise for AI Incidents and Security Reviews
+    and develop incident response playbooks for AI-related security incidents
+  - Collaborate with platform engineering, security engineering, and risk teams to
+    ensure solutions support scalable, secure adoption of AI
+  - Mentor and advise diverse teams across the organization while promoting AI Security
+    principles
+  use_cases:
+  - Securing enterprise AI platforms and solutions being built and deployed across
+    the organization
+  - Protecting diverse set of AI systems including Agentic systems and Large Language
+    Models from security threats
+  - Embedding automated security controls into AI development workflows and CI/CD
+    pipelines
+  - Managing and responding to AI-related security incidents and vulnerabilities
+  - Ensuring compliance with AI regulatory frameworks including NIST AI RMF, MITRE
+    ATLAS, GDPR, and EU AI Act
+  skills:
+    genai: [OWASP for LLM Top 10, LangChain, LlamaIndex]
+    ml: []
+    web: [Kong]
+    databases: []
+    data: []
+    cloud: [Databricks Mosaic AI Gateway, Cloud Service Providers]
+    ops: [SAST, SCA, DAST, CI/CD, Kubernetes, Docker]
+    languages: [Python, Java, .NET]
+    domains: []
+    other: [STRIDE, NIST AI RMF, MITRE ATLAS, GDPR, EU AI Act]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7660445'
+  extracted_at: '2026-02-05T11:19:08.550145'

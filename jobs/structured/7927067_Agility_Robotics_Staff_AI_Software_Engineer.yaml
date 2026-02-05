@@ -1,0 +1,57 @@
+company:
+  name: Agility Robotics
+  stage: null
+  focus: Bipedal robots for workplace automation
+  use_cases:
+  - Autonomous robot navigation and mobility in human-occupied spaces
+  - Perception systems for environment understanding and object detection
+  - Robotic manipulation for picking, carrying, and handling objects
+  - Real-time model execution for safe human-robot interaction
+  - Learning-based capabilities for dexterous robot operations
+position:
+  title: Staff AI Software Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role focuses on building AI infrastructure, data
+      pipelines, and MLOps tools rather than directly developing
+      or fine-tuning models. The engineer creates foundational
+      systems and frameworks that enable other AI teams to deploy
+      models, working primarily on supporting infrastructure and
+      tooling.
+  responsibilities:
+  - Develop data pipelines and curation workflows for perception, locomotion, and
+    manipulation tasks
+  - Design and maintain scalable AI infrastructure including shared libraries, model
+    training pipelines, and evaluation frameworks
+  - Build dashboards, visualization tools, and metrics to monitor model performance
+    and operational readiness
+  - Implement testing, validation, and reproducibility tools for reliable model deployment
+    on Digit
+  - Collaborate with skills and control teams to integrate models into real-time production
+    systems
+  - Promote best practices for data management, experiment tracking, and ML operations
+    across the organization
+  use_cases:
+  - Autonomous robot navigation and mobility in human-occupied spaces
+  - Perception systems for environment understanding and object detection
+  - Robotic manipulation for picking, carrying, and handling objects
+  - Real-time model execution for safe human-robot interaction
+  - Learning-based capabilities for dexterous robot operations
+  skills:
+    genai: []
+    ml: [PyTorch, TensorFlow]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [Kubernetes, GPU clusters]
+    ops: [MLflow, Kubernetes, ML pipelines, experiment tracking, distributed training,
+      real-time systems, embedded systems, Weights & Biases, model deployment]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7927067'
+  extracted_at: '2026-02-05T11:41:35.006582'

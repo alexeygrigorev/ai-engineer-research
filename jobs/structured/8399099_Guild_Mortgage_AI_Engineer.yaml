@@ -1,0 +1,69 @@
+company:
+  name: Guild Mortgage
+  stage: Public
+  focus: Mortgage banking and home financing
+  use_cases:
+  - Enhancing user interface and user experience of applications to make them more
+    intuitive and responsive
+  - Solving specific business problems in mortgage banking and home financing through
+    AI-driven solutions
+  - Improving application capabilities by integrating machine learning models trained
+    on relevant datasets
+  - Automating data processing and analysis to support lending operations and decision-making
+  - Providing insights and reports to management through AI system performance analysis
+  - Integrating AI into various business processes to align with organizational objectives
+position:
+  title: AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building, training, and deploying machine
+      learning models with hands-on work using TensorFlow, Keras,
+      PyTorch, and neural networks. The engineer is directly
+      creating and integrating AI systems into applications, not
+      just supporting infrastructure or data pipelines for other
+      teams.
+  responsibilities:
+  - Source relevant data from various channels including databases, online sources,
+    and internal systems for training AI models
+  - Process raw data through cleaning, normalizing, and segmenting to prepare it for
+    machine learning use
+  - Create machine learning models using appropriate algorithms to solve business
+    problems and enhance application capabilities
+  - Rigorously test AI models to ensure accuracy, reliability, and robustness against
+    predefined metrics
+  - Integrate AI models into existing software applications using API calls or embedded
+    code
+  - Continuously optimize AI systems for better speed, efficiency, and accuracy to
+    meet performance standards
+  - Utilize cloud computing platforms for efficient AI model development, testing,
+    and deployment
+  - Collaborate with cross-functional teams to integrate AI solutions into business
+    processes
+  use_cases:
+  - Enhancing user interface and user experience of applications to make them more
+    intuitive and responsive
+  - Solving specific business problems in mortgage banking and home financing through
+    AI-driven solutions
+  - Improving application capabilities by integrating machine learning models trained
+    on relevant datasets
+  - Automating data processing and analysis to support lending operations and decision-making
+  - Providing insights and reports to management through AI system performance analysis
+  - Integrating AI into various business processes to align with organizational objectives
+  skills:
+    genai: []
+    ml: [TensorFlow, Keras, PyTorch, machine learning, neural networks, algorithms
+        and data structures]
+    web: [API integration]
+    databases: []
+    data: []
+    cloud: [AWS, Azure, Google Cloud]
+    ops: []
+    languages: [Python, Java, R, Scala]
+    domains: [NLP, computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8399099'
+  extracted_at: '2026-02-05T13:06:51.822802'

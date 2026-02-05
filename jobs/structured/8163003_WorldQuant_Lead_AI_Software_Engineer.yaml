@@ -1,0 +1,62 @@
+company:
+  name: WorldQuant
+  stage: null
+  focus: |-
+    Systematic financial strategies and predictive signals for
+    global markets
+  use_cases:
+  - Developing AI-driven systematic financial strategies across various asset classes
+    and global markets
+  - Producing high-quality predictive signals (alphas) through AI-enhanced research
+    platforms
+  - Employing financial strategies focused on market inefficiencies using AI solutions
+  - Building scalable AI products to solve real-world financial challenges across
+    the organization
+position:
+  title: Lead AI Software Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role is explicitly building AI-driven solutions,
+      specifically mentioning LLMs, vector databases, and emerging
+      AI technologies. The Lead AI Engineer will architect and
+      deliver scalable AI products and drive AI integration across
+      the organization, indicating hands-on work with AI systems.
+  responsibilities:
+  - Act as a thought leader and advocate for AI technologies, inspiring teams and
+    stakeholders to embrace AI-driven solutions
+  - Architect and deliver scalable AI products that address complex, real-world challenges
+  - Partner with cross-functional distributed teams to identify opportunities for
+    AI integration and drive impactful solutions
+  - Work closely with stakeholders to gather, analyze, and define requirements, ensuring
+    alignment with business goals
+  - Stay at the forefront of AI advancements, particularly in large language models,
+    vector databases, and emerging technologies
+  - Guide and mentor junior engineers, fostering a culture of innovation, collaboration,
+    and technical excellence
+  - Drive projects to completion with a strong delivery mindset that meet organizational
+    needs
+  use_cases:
+  - Developing AI-driven systematic financial strategies across various asset classes
+    and global markets
+  - Producing high-quality predictive signals (alphas) through AI-enhanced research
+    platforms
+  - Employing financial strategies focused on market inefficiencies using AI solutions
+  - Building scalable AI products to solve real-world financial challenges across
+    the organization
+  skills:
+    genai: [LLMs, AI technologies, AI integration]
+    ml: []
+    web: []
+    databases: [vector databases]
+    data: []
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: [software architecture]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '8163003'
+  extracted_at: '2026-02-05T12:07:16.642221'

@@ -1,0 +1,44 @@
+company:
+  name: Deeter Analytics
+  stage: null
+  focus: Training foundational models for financial applications
+  use_cases:
+  - Training foundational models for financial applications
+  - Processing and analyzing unique multimodal datasets
+  - Deploying frontier-scale models from research to production
+position:
+  title: Entrepreneurial AI Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves directly training frontier-scale
+      foundational models and owning the entire loop from idea to
+      prototype to production. The engineer will work hands-on
+      with model training and evaluation using PyTorch/JAX on
+      multimodal datasets.
+  responsibilities:
+  - Design, build, and maintain data pipelines for unique and multimodal datasets
+  - Train and evaluate frontier-scale models, owning the loop from idea to prototype
+    to production
+  - Work shoulder-to-shoulder with researchers to discover new methods
+  - Contribute to foundational model development for financial applications
+  use_cases:
+  - Training foundational models for financial applications
+  - Processing and analyzing unique multimodal datasets
+  - Deploying frontier-scale models from research to production
+  skills:
+    genai: []
+    ml: [PyTorch, JAX, model training]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: []
+    languages: []
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7571620'
+  extracted_at: '2026-02-05T11:08:13.432719'

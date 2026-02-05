@@ -1,0 +1,54 @@
+company:
+  name: Brellium
+  stage: Series A
+  focus: AI-powered real-time medical review platform for healthcare
+  use_cases:
+  - Real-time medical review platform that identifies clinical and compliance risks
+    before they impact patients
+  - AI-powered system that helps healthcare providers deliver safer, higher-quality
+    care
+  - Automated detection of medical diagnostic and compliance-related mistakes
+  - Alignment of patient visits with clinical best practices using AI
+  - Data-driven care delivery at scale for healthcare providers across the US
+position:
+  title: Software Engineer - AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves hands-on work with LLMs and AI frameworks,
+      requiring integration of models into real-world
+      applications. The engineer will build AI-centric systems,
+      evaluation pipelines, and work with LangChain and LlamaIndex
+      to directly implement AI solutions, not just support
+      infrastructure.
+  responsibilities:
+  - Integrate modern LLMs into real-world healthcare applications
+  - Design and build AI-centric systems end-to-end from data pipelines to user interfaces
+  - Build evaluation pipelines and define metrics to measure AI agents and workflows
+  - Design and optimize AI systems for performance and reliability
+  - Own end-to-end data workflows and SQL database operations
+  - Deploy AI applications to AWS cloud infrastructure
+  use_cases:
+  - Real-time medical review platform that identifies clinical and compliance risks
+    before they impact patients
+  - AI-powered system that helps healthcare providers deliver safer, higher-quality
+    care
+  - Automated detection of medical diagnostic and compliance-related mistakes
+  - Alignment of patient visits with clinical best practices using AI
+  - Data-driven care delivery at scale for healthcare providers across the US
+  skills:
+    genai: [LangChain, LlamaIndex]
+    ml: []
+    web: [React, Next.js]
+    databases: []
+    data: []
+    cloud: [AWS]
+    ops: []
+    languages: [Python, TypeScript, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7234538'
+  extracted_at: '2026-02-05T10:30:24.686385'

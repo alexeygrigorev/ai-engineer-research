@@ -1,0 +1,52 @@
+company:
+  name: Freed
+  stage: Series B
+  focus: AI-powered medical documentation scribe for clinicians
+  use_cases:
+  - AI medical scribe that automates clinical documentation by transcribing patient
+    encounters
+  - Generating over 100,000 patient notes daily across 26,000 clinicians
+  - Patient-facing assistants and patient insights through AI-powered analysis
+  - EHR integrations to seamlessly incorporate AI-generated documentation into clinical
+    workflows
+position:
+  title: ML Engineer, Voice & AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role involves hands-on work fine-tuning speech recognition
+      models and optimizing inference infrastructure for WhisperX,
+      indicating direct work ON AI models and deployment. The role
+      also mentions opportunities to work with open source LLMs,
+      further confirming ai-first classification.
+  responsibilities:
+  - Evaluate and fine-tune open source speech recognition models to provide new capabilities
+    and improve transcription quality
+  - Optimize inference infrastructure including WhisperX, Kubernetes, and NATS for
+    stability and performance
+  - Work with open source large language models to expand AI capabilities
+  - Contribute to speech recognition model adaptation based on user feedback and product
+    requirements
+  use_cases:
+  - AI medical scribe that automates clinical documentation by transcribing patient
+    encounters
+  - Generating over 100,000 patient notes daily across 26,000 clinicians
+  - Patient-facing assistants and patient insights through AI-powered analysis
+  - EHR integrations to seamlessly incorporate AI-generated documentation into clinical
+    workflows
+  skills:
+    genai: [open source LLMs]
+    ml: [WhisperX, speech recognition models, fine-tuning]
+    web: []
+    databases: []
+    data: [data preparation, synthetic data generation]
+    cloud: []
+    ops: [Kubernetes, NATS, inference optimization]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7416503'
+  extracted_at: '2026-02-05T10:50:20.694344'

@@ -1,0 +1,61 @@
+company:
+  name: Resilinc
+  stage: Series B
+  focus: AI-powered supply chain risk management
+  use_cases:
+  - Supply chain risk prediction and disruption assessment for global enterprises
+  - Real-time automated response to supply chain disruptions using autonomous agents
+  - Risk and compliance analysis for life sciences, pharmaceuticals, aerospace, defense,
+    and automotive industries
+  - Data-intensive AI platforms that transform diverse supply chain datasets into
+    actionable insights
+  - Customer-specific agentic AI solutions that protect critical operations and supply
+    chain resilience
+position:
+  title: Senior Software Engineer - Agentic AI Deployment Services
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building Agentic solutions leveraging the
+      Resilinc Agent Factory, which is hands-on work with AI
+      agents and autonomous systems. As a Senior Software Engineer
+      in Implementation Deployment Services, the role deploys AI-
+      powered solutions directly to address customer challenges,
+      making it ai-first rather than support.
+  responsibilities:
+  - Build and deploy Agentic solutions using the Resilinc Agent Factory to address
+    customer risk and compliance challenges
+  - Participate in customer discussions to understand challenges and create novel,
+    iterative solutions
+  - Integrate and transform diverse datasets to power AI-driven insights and applications
+  - Design and implement distributed systems, cloud-based API services, and enterprise
+    cloud data platforms
+  - Ensure fault tolerance, high availability, and rock-solid performance for mission-critical
+    AI applications
+  - Collaborate with core product and engineering teams to align on emerging customer
+    needs and drive engineering best practices
+  use_cases:
+  - Supply chain risk prediction and disruption assessment for global enterprises
+  - Real-time automated response to supply chain disruptions using autonomous agents
+  - Risk and compliance analysis for life sciences, pharmaceuticals, aerospace, defense,
+    and automotive industries
+  - Data-intensive AI platforms that transform diverse supply chain datasets into
+    actionable insights
+  - Customer-specific agentic AI solutions that protect critical operations and supply
+    chain resilience
+  skills:
+    genai: [Agentic AI]
+    ml: [Machine learning]
+    web: [API services]
+    databases: [PostgreSQL]
+    data: [Ray, Databricks, Data warehouse architecture, Data lake architecture]
+    cloud: [Enterprise cloud data platforms]
+    ops: []
+    languages: [Python, SQL]
+    domains: []
+    other: [Distributed systems]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7120343'
+  extracted_at: '2026-02-05T10:20:24.522325'

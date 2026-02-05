@@ -1,0 +1,64 @@
+company:
+  name: Octane
+  stage: Series B+
+  focus: Financial technology platform for merchants and consumers
+  use_cases:
+  - Power smarter, faster, and more efficient decision-making through AI/ML solutions
+  - Support merchants throughout the sales cycle by connecting dealerships with high-intent
+    buyers
+  - Enable transparent, fast, and easy closings with award-winning AI-powered technology
+  - Provide superior loan servicing and ongoing customer care through intelligent
+    automation
+  - Drive customer loyalty and deliver seamless digital experiences using advanced
+    financial technology
+position:
+  title: Staff Software Engineer, AI - Hybrid
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an ai-first role as it involves hands-on building,
+      training, deploying, and optimizing ML models and AI systems
+      at scale. The role requires expertise with ML/DL frameworks
+      (PyTorch, TensorFlow, JAX), practical experience with
+      generative AI and LLMs, and responsibility for end-to-end
+      model lifecycle including training, fine-tuning, and
+      production deployment.
+  responsibilities:
+  - Lead the end-to-end design, development, and deployment of advanced AI/ML systems,
+    ensuring production environments are scalable, efficient, and highly performant
+  - Collaborate with cross-functional teams to define AI strategy, evaluate use cases,
+    and translate business objectives into actionable technical solutions
+  - Build, optimize, and maintain machine learning pipelines, covering data ingestion,
+    preprocessing, model training, evaluation, deployment, and ongoing monitoring
+  - Establish and champion MLOps best practices, including CI/CD for ML workflows,
+    automated testing frameworks, and continuous model performance monitoring to prevent
+    drift
+  - Serve as a technical mentor and leader, guiding engineers and data scientists
+    on system architecture, coding standards, and efficient development practices
+  - Research and evaluate emerging AI methodologies, frameworks, and tools, integrating
+    innovative approaches into the organization's technology stack where applicable
+  use_cases:
+  - Power smarter, faster, and more efficient decision-making through AI/ML solutions
+  - Support merchants throughout the sales cycle by connecting dealerships with high-intent
+    buyers
+  - Enable transparent, fast, and easy closings with award-winning AI-powered technology
+  - Provide superior loan servicing and ongoing customer care through intelligent
+    automation
+  - Drive customer loyalty and deliver seamless digital experiences using advanced
+    financial technology
+  skills:
+    genai: [fine-tuning, generative AI, large language models, prompt engineering]
+    ml: [PyTorch, TensorFlow, JAX, model training]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [SageMaker, Vertex AI, AWS, Azure, GCP]
+    ops: [MLflow, Kubeflow, MLOps, Docker, Kubernetes, Terraform, CI/CD]
+    languages: [Python, C++, Java]
+    domains: [NLP, computer vision]
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7176558'
+  extracted_at: '2026-02-05T10:28:04.281880'

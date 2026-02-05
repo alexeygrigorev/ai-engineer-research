@@ -1,0 +1,57 @@
+company:
+  name: Consumer Edge
+  stage: null
+  focus: |-
+    Data innovation and AI company creating actionable consumer
+    and business intelligence products
+  use_cases:
+  - Building a proactive intelligence layer that integrates with user workflows as
+    a copilot for exploration
+  - Surfacing insights from real-time transaction-based consumer and business data
+  - Suggesting next steps and providing unified, embedded, and proactive intelligence
+  - Non-deterministic user request processing with AI interpretation within guardrails
+  - Answering real-world business questions using enriched transaction data
+position:
+  title: Senior Software Engineer - AI Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct interaction with state of the art
+      AI models and building agentic workflows, including
+      developing a copilot for exploration with non-deterministic
+      flows dictated by AI interpretation. The engineer will work
+      with AI APIs, design guardrails, and build AI-powered
+      products rather than just infrastructure to support AI
+      teams.
+  responsibilities:
+  - Develop new user-facing features
+  - Work on backend services, data pipelines, and cloud infrastructure
+  - Keep up to date with the latest developments in AI models and architectures
+  - Contribute to the vision and ensure the technical feasibility of product requirements
+  - Optimize the system for accuracy, speed and user experience
+  - Collaborate with other team members and stakeholders
+  - Collaborate with other teams both at the input side and the output side of our
+    systems
+  use_cases:
+  - Building a proactive intelligence layer that integrates with user workflows as
+    a copilot for exploration
+  - Surfacing insights from real-time transaction-based consumer and business data
+  - Suggesting next steps and providing unified, embedded, and proactive intelligence
+  - Non-deterministic user request processing with AI interpretation within guardrails
+  - Answering real-world business questions using enriched transaction data
+  skills:
+    genai: [AI APIs, agentic workflows]
+    ml: []
+    web: [FastAPI, GraphQL, REST]
+    databases: []
+    data: [Dagster, dbt]
+    cloud: [Google Cloud]
+    ops: [Terraform]
+    languages: [Python, SQL]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8388249'
+  extracted_at: '2026-02-05T13:03:58.997652'

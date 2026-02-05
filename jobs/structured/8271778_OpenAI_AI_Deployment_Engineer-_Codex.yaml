@@ -1,0 +1,72 @@
+company:
+  name: OpenAI
+  stage: Public
+  focus: AI research and deployment company
+  use_cases:
+  - AI-powered coding assistance and code generation integrated into software development
+    lifecycle
+  - Automated code completion, refactoring, and workflow optimization for development
+    teams
+  - Enterprise-scale deployment of intelligent coding systems across global engineering
+    organizations
+  - AI-enhanced developer productivity tools accelerating software planning, building,
+    and delivery
+  - Custom AI workflows and automations using Codex for customer-specific development
+    processes
+position:
+  title: AI Deployment Engineer- Codex
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a Forward Deployed Engineer role focused on
+      deploying OpenAI's Codex AI coding tools to customers. The
+      engineer directly designs, validates, and scales AI
+      workflows, builds demos using Codex itself, and integrates
+      AI-enhanced development workflows into customer environments
+      - all hands-on work with AI systems deployment and
+      optimization.
+  responsibilities:
+  - Serve as the primary technical subject matter expert on OpenAI Codex for customer
+    portfolio, embedding with engineering teams to build coding workflows
+  - Partner directly with customers to design and implement AI-enhanced development
+    workflows from rapid prototyping through production rollout
+  - Build high-quality demos, reference implementations, and workflow automations
+    using Codex as part of the development process
+  - Lead large-format workshops, technical deep dives, and hands-on enablement sessions
+    for engineering organizations adopting AI coding tools
+  - Contribute technical content including examples, guides, patterns, and best practices
+    to the OpenAI Cookbook
+  - Gather high-fidelity product insights from customer deployments and translate
+    into product proposals and model feedback for internal teams
+  - Influence customer strategy and decision-making on AI coding tools integration
+    into SDLC and technical roadmaps
+  - Provide trusted advisory on solution architecture, operational readiness, model
+    configuration, security, and best-practice adoption
+  use_cases:
+  - AI-powered coding assistance and code generation integrated into software development
+    lifecycle
+  - Automated code completion, refactoring, and workflow optimization for development
+    teams
+  - Enterprise-scale deployment of intelligent coding systems across global engineering
+    organizations
+  - AI-enhanced developer productivity tools accelerating software planning, building,
+    and delivery
+  - Custom AI workflows and automations using Codex for customer-specific development
+    processes
+  skills:
+    genai: [OpenAI APIs, prompt engineering, AI coding tools]
+    ml: []
+    web: [REST]
+    databases: []
+    data: []
+    cloud: []
+    ops: [operational excellence]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [solutions architecture, workshops and training, technical consulting,
+      system design, software development lifecycle]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8271778'
+  extracted_at: '2026-02-05T12:27:49.176185'

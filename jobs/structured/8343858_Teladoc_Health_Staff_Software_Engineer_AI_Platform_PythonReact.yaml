@@ -1,0 +1,64 @@
+company:
+  name: Teladoc Health
+  stage: Public
+  focus: Virtual telehealth and digital care platform
+  use_cases:
+  - Building platform infrastructure and APIs to support virtual healthcare applications
+  - Creating developer platform capabilities that serve multiple product teams at
+    Teladoc Health
+  - Enabling integration with AI/ML systems and data-intensive applications through
+    platform services
+  - Supporting secure, scalable web services for virtual care delivery systems
+  - Providing observability and operational support for healthcare platform services
+position:
+  title: Staff Software Engineer, AI Platform (Python/React)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a platform engineering role focused on building
+      APIs, services, and infrastructure using Python/FastAPI and
+      React. While the bonus qualifications mention exposure to
+      AI/ML APIs and data pipelines, the core responsibilities
+      involve building platform infrastructure and general
+      software engineering - not directly building, training, or
+      deploying models. The role supports AI/ML applications
+      rather than working on the AI systems themselves.
+  responsibilities:
+  - Lead technical design for platform features and services, breaking ambiguous requirements
+    into clear, incremental designs and stories for your team and adjacent partners
+  - Implement backend services in Python/FastAPI and React frontends end-to-end, owning
+    a continuous stream of stories from idea to production
+  - Define and use clear API contracts and data flows between services and UIs, creating
+    patterns and templates others can follow
+  - Champion high-quality engineering practices, including code reviews, documentation,
+    and maintainable, testable designs
+  - Develop and improve automated testing (unit, integration, end-to-end) and integrate
+    these into everyday development and CI
+  - Own the operational lifecycle of the features and services you build, including
+    monitoring, observability, on-call participation, and incident follow-up
+  use_cases:
+  - Building platform infrastructure and APIs to support virtual healthcare applications
+  - Creating developer platform capabilities that serve multiple product teams at
+    Teladoc Health
+  - Enabling integration with AI/ML systems and data-intensive applications through
+    platform services
+  - Supporting secure, scalable web services for virtual care delivery systems
+  - Providing observability and operational support for healthcare platform services
+  skills:
+    genai: [Model inference APIs]
+    ml: []
+    web: [FastAPI, Flask, Django, React, REST APIs, HTTP, API design]
+    databases: []
+    data: [Data pipelines]
+    cloud: [Azure]
+    ops: [CI/CD, Docker, Kubernetes, Monitoring, Observability, Logging, Containerized
+        deployments]
+    languages: [Python]
+    domains: []
+    other: [Distributed systems, Security, Authentication, Authorization, Developer
+        platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8343858'
+  extracted_at: '2026-02-05T12:55:56.508471'

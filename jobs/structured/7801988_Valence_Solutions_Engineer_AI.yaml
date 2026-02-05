@@ -1,0 +1,59 @@
+company:
+  name: Valence
+  stage: Series B
+  focus: AI-native coaching platform for enterprise
+  use_cases:
+  - Personalized AI coaching for enterprise leaders and employees
+  - Enterprise workflow implementation with tailored prompting and knowledge retrieval
+  - Learning and development transformation through AI-powered personalization
+  - Complex enterprise AI deployments across healthcare, financial services, manufacturing,
+    and technology
+  - Organizational culture adaptation through individual goal-based AI guidance
+position:
+  title: Solutions Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with AI systems including
+      prompt design, memory/knowledge patterns, LLM-powered
+      workflows, and evaluation frameworks. The role designs and
+      implements high-impact AI workflows and deploys LLM-powered
+      systems for enterprise customers, which is direct work on AI
+      rather than supporting infrastructure.
+  responsibilities:
+  - Lead end-to-end AI solutions from discovery and design through implementation,
+    evaluation, and iteration
+  - Architect reusable AI workflows by identifying repeatable patterns and modularizing
+    components
+  - Define prompting standards, guardrails, and success metrics including accuracy,
+    tone, and safety
+  - Build lightweight evaluation frameworks that scale across enterprise clients
+  - Partner with Product, AI Engineering, and Coaching SMEs to deliver solutions with
+    measurable impact
+  - Mentor associates and engineering managers on prompting and integration skills
+  - Track deployment metrics including speed, adoption, satisfaction, and quality
+    to identify efficiency gains
+  use_cases:
+  - Personalized AI coaching for enterprise leaders and employees
+  - Enterprise workflow implementation with tailored prompting and knowledge retrieval
+  - Learning and development transformation through AI-powered personalization
+  - Complex enterprise AI deployments across healthcare, financial services, manufacturing,
+    and technology
+  - Organizational culture adaptation through individual goal-based AI guidance
+  skills:
+    genai: [prompt engineering, RAG, LLM deployment, guardrails, memory/knowledge
+        retrieval]
+    ml: []
+    web: [enterprise architecture]
+    databases: []
+    data: []
+    cloud: []
+    ops: [evaluation frameworks]
+    languages: [Python]
+    domains: []
+    other: [stakeholder management]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7801988'
+  extracted_at: '2026-02-05T11:32:12.806771'

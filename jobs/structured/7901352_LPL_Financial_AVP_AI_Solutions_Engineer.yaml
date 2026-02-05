@@ -1,0 +1,63 @@
+company:
+  name: LPL Financial
+  stage: Public
+  focus: Wealth management and financial services
+  use_cases:
+  - Automated data governance tracking and compliance monitoring
+  - Exception detection and resolution across multiple data domains
+  - Reconciliation frameworks using rule-based and AI-driven logic
+  - Lifecycle management workflows for investor and operational domains
+  - Intelligent agents for automated exception handling
+  - User-configurable AI workflows with intuitive UI components
+position:
+  title: AVP – AI Solutions Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role building agentic AI
+      solutions with LLMs. The engineer will design, code, deploy,
+      and optimize multi-agent workflows, RAG pipelines, and LLM-
+      based systems directly.
+  responsibilities:
+  - Embed AI-first and ML engineering principles into SDLC, ensuring intelligent automation
+    and predictive capabilities are considered from design through deployment
+  - Design and develop agentic AI solutions for data governance tracking, exception
+    detection, reconciliation frameworks, and lifecycle management workflows across
+    multiple domains
+  - Build intelligent agents that apply rules or adaptive intelligence to automate
+    exception handling and reconciliation processes
+  - Develop APIs and microservices using Python (FastAPI) and .NET Core for agentic
+    workflows
+  - Integrate AI workflows with LDX UI components built in Angular for user review
+    and configuration
+  - Deploy and manage LLMs (Claude, GPT, Amazon Titan) via AWS Bedrock and integrate
+    RAG pipelines using LangChain or Haystack
+  - Build knowledge bases and embedding models for contextual reasoning using vector
+    databases (Pinecone, OpenSearch)
+  - Implement event-driven architectures using AWS EventBridge, Lambda, and Step Functions
+    for real-time orchestration
+  use_cases:
+  - Automated data governance tracking and compliance monitoring
+  - Exception detection and resolution across multiple data domains
+  - Reconciliation frameworks using rule-based and AI-driven logic
+  - Lifecycle management workflows for investor and operational domains
+  - Intelligent agents for automated exception handling
+  - User-configurable AI workflows with intuitive UI components
+  skills:
+    genai: [LangChain, Haystack, RAG, agents, multi-agent orchestration, prompt engineering,
+      Claude, GPT, Amazon Titan]
+    ml: []
+    web: [FastAPI, Angular, .NET Core]
+    databases: [Pinecone, OpenSearch]
+    data: [Glue]
+    cloud: [AWS Bedrock, SageMaker, AWS Agent core, Lambda, Step Functions, EventBridge,
+      S3]
+    ops: [CloudWatch, X-Ray, Dynatrace, Terraform, CI/CD]
+    languages: [Python]
+    domains: []
+    other: [UiPath, RPA]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7901352'
+  extracted_at: '2026-02-05T11:39:27.450848'

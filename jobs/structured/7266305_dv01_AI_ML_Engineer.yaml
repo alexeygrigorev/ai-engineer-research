@@ -1,0 +1,55 @@
+company:
+  name: dv01
+  stage: null
+  focus: Structured finance data analytics platform for transparency
+  use_cases:
+  - Document parsing for analyzing complex banking documents to inform customers of
+    market conditions
+  - Document classification to improve reliability and speed of data ingestion processes
+  - Extracting insights from unstructured financial documents for enhanced intelligence
+    in structured finance
+  - Supporting responsible lending decisions through AI-powered document analysis
+    and classification
+position:
+  title: AI ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      Role requires hands-on experience with RAG, Agentic AI, and
+      Prompt Engineering for building document parsers and
+      classifiers. Responsibilities include end-to-end
+      development, deployment, and optimization of AI/ML
+      solutions, not just supporting infrastructure.
+  responsibilities:
+  - Design and architect AI/ML solutions to extract insights from unstructured banking
+    documents including document parsers and classifiers
+  - Build, deploy, and maintain end-to-end AI/ML solutions with clean, testable code
+    and algorithm performance evaluation criteria
+  - Collaborate cross-functionally with domain experts, product managers, engineers,
+    and designers in a highly collaborative environment
+  - Stay current with AI/ML best practices and evolving open-source frameworks to
+    drive continuous improvement and innovation
+  use_cases:
+  - Document parsing for analyzing complex banking documents to inform customers of
+    market conditions
+  - Document classification to improve reliability and speed of data ingestion processes
+  - Extracting insights from unstructured financial documents for enhanced intelligence
+    in structured finance
+  - Supporting responsible lending decisions through AI-powered document analysis
+    and classification
+  skills:
+    genai: [RAG, Agentic AI, Prompt Engineering, Claude, Gemini]
+    ml: [PyTorch, TensorFlow]
+    web: [FastAPI, Flask]
+    databases: [SQL]
+    data: [Databricks, BigQuery, dbt]
+    cloud: [GCP]
+    ops: [MLflow, CI/CD, Docker, Kubernetes]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7266305'
+  extracted_at: '2026-02-05T10:32:25.502527'

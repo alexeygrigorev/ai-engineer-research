@@ -1,0 +1,56 @@
+company:
+  name: Solv.
+  stage: Series B
+  focus: Healthcare technology platform for accessible care
+  use_cases:
+  - Intelligent workflow automation for healthcare providers
+  - Personalized patient experiences through AI-native applications
+  - AI-powered search and retrieval using vector search and embeddings
+  - Automated evaluation and testing of LLM prompt performance in healthcare context
+  - Production AI services for clinical workflows and patient care
+position:
+  title: Lead Software Engineer, AI Applications
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI-native products and directly
+      working with AI/LLM applications, including prompt
+      engineering, RAG architectures, and model evaluation
+      frameworks. The engineer is responsible for deploying and
+      monitoring production AI services, not just supporting
+      infrastructure for others.
+  responsibilities:
+  - Build and launch AI-native products transforming Solv's core platform with intelligent
+    workflows and personalized experiences
+  - Build systems for rigorous model evaluation including metrics, automated test
+    suites, and benchmarks for prompt performance
+  - Develop observability and monitoring frameworks for production models with logging,
+    alerting, drift detection, and performance dashboards
+  - Champion best practices in versioning, CI/CD, and artifact management for AI assets,
+    partnering with security, compliance, and devops teams
+  - Collaborate with product managers and client-facing teams to align AI features
+    with user needs
+  - Define company AI strategy and roadmap by identifying new use cases and capabilities
+    to keep product at cutting edge
+  use_cases:
+  - Intelligent workflow automation for healthcare providers
+  - Personalized patient experiences through AI-native applications
+  - AI-powered search and retrieval using vector search and embeddings
+  - Automated evaluation and testing of LLM prompt performance in healthcare context
+  - Production AI services for clinical workflows and patient care
+  skills:
+    genai: [RAG, prompt engineering, LLM applications, foundation models]
+    ml: [embeddings]
+    web: [React]
+    databases: [vector search]
+    data: []
+    cloud: [AWS]
+    ops: [Kubernetes, CI/CD, GitHub Actions, monitoring, logging]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [FHIR, HL7]
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7618776'
+  extracted_at: '2026-02-05T11:15:43.474737'

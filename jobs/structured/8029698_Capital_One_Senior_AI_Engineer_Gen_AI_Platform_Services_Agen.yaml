@@ -1,0 +1,60 @@
+company:
+  name: Capital One
+  stage: Public
+  focus: |-
+    Banking and financial services with AI-powered customer
+    experiences
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges and fraud detection
+  - Answering customer questions in real time through AI-powered systems
+  - Building responsible and scalable AI platforms that empower teams across the company
+  - Delivering industry-leading AI capabilities with breakthrough product experiences
+position:
+  title: Senior AI Engineer (Gen AI Platform Services, Agentic Systems)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with foundation models and
+      LLMs including training, inference, and optimization. The
+      engineer will build and deploy AI components like
+      guardrails, similarity search, and LLM optimization
+      techniques directly on the AI systems.
+  responsibilities:
+  - Partner with cross-functional teams to deliver AI-powered products that transform
+    how associates work and customers interact with Capital One
+  - Design, develop, test, deploy, and support AI software components including foundation
+    model training, LLM inference, similarity search, guardrails, model evaluation,
+    experimentation, governance, and observability
+  - Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters,
+    Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more
+  - Invent and introduce state-of-the-art LLM optimization techniques to improve the
+    performance - scalability, cost, latency, throughput - of large scale production
+    AI systems
+  - Contribute to the technical vision and long term roadmap of foundational AI systems
+    at Capital One
+  use_cases:
+  - Real-time personalized customer experiences in banking
+  - Informing customers about unusual charges and fraud detection
+  - Answering customer questions in real time through AI-powered systems
+  - Building responsible and scalable AI platforms that empower teams across the company
+  - Delivering industry-leading AI capabilities with breakthrough product experiences
+  skills:
+    genai: [LangChain, LangGraph, LlamaIndex, OpenAI, Anthropic, Hugging Face, prompt
+        engineering, RAG, agents, function calling, LLM inference, NeMo Guardrails]
+    ml: [PyTorch, foundation model training, model evaluation]
+    web: []
+    databases: [Pinecone, Weaviate, Chroma, Qdrant, Milvus, Faiss, pgvector, VectorDBs,
+      similarity search, Postgres, MongoDB, Redis]
+    data: [Databricks, Kafka, Airflow, ETL, data pipelines]
+    cloud: [AWS, Google Cloud, Azure, AWS Bedrock, SageMaker]
+    ops: [Docker, Kubernetes, Terraform, CI/CD, Datadog, Prometheus, Grafana, VLLM,
+      TensorRT, MLflow, observability, governance, experimentation]
+    languages: [Python, Go, Scala, Java, C++, C#, Golang, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8029698'
+  extracted_at: '2026-02-05T11:51:17.841637'

@@ -1,0 +1,68 @@
+company:
+  name: GEICO
+  stage: Public
+  focus: Auto insurance and financial services
+  use_cases:
+  - Training and fine-tuning open source LLMs like Llama, Mistral, and Gemma
+  - Serving LLMs at scale with optimized inference for production applications
+  - Building feature stores to support ML model training and inference pipelines
+  - Enabling data science teams to deploy and operate LLMs efficiently
+  - Integrating ML capabilities into customer-facing insurance applications
+  - Supporting research teams with infrastructure for experimenting with cutting-edge
+    LLM techniques
+position:
+  title: Senior Software Engineer - AI/ML Infra
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is building infrastructure and platforms that
+      support ML/LLM operations rather than directly working on
+      models. While it involves fine-tuning and serving LLMs, the
+      focus is on enabling data scientists and engineers to deploy
+      models through scalable infrastructure (Kubernetes, feature
+      stores, CI/CD pipelines, monitoring), making it an AI-
+      support role.
+  responsibilities:
+  - Design and implement scalable infrastructure for training, fine-tuning, and serving
+    open source LLMs
+  - Architect and manage Kubernetes clusters for ML workloads including GPU scheduling,
+    autoscaling, and resource optimization
+  - Build and optimize LLM inference systems using frameworks like vLLM, TensorRT-LLM,
+    and custom serving solutions
+  - Design and maintain robust CI/CD pipelines for ML model deployment using Azure
+    DevOps and GitHub Actions
+  - Set up comprehensive observability using Prometheus, Grafana, Azure Monitor, and
+    custom dashboards
+  - Mentor junior engineers and data scientists on platform best practices and ML
+    operations
+  - Work closely with data scientists to optimize workflows for model development
+    and deployment
+  - Collaborate with product engineering teams to integrate ML capabilities into customer-facing
+    applications
+  use_cases:
+  - Training and fine-tuning open source LLMs like Llama, Mistral, and Gemma
+  - Serving LLMs at scale with optimized inference for production applications
+  - Building feature stores to support ML model training and inference pipelines
+  - Enabling data science teams to deploy and operate LLMs efficiently
+  - Integrating ML capabilities into customer-facing insurance applications
+  - Supporting research teams with infrastructure for experimenting with cutting-edge
+    LLM techniques
+  skills:
+    genai: [LLMs, Open source LLMs]
+    ml: [RLHF, Fine-tuning]
+    web: []
+    databases: [Vector databases, Milvus, Pinecone, Weaviate, Qdrant, NoSQL]
+    data: [Feature stores, Chronon, Feast, Tecton]
+    cloud: [Azure DevOps, Azure ML, Azure Kubernetes Service, Azure Container Instances,
+      AWS, SageMaker, GCP, Vertex AI]
+    ops: [vLLM, TensorRT-LLM, Kubernetes, Docker, Terraform, CI/CD, GitHub Actions,
+      Prometheus, Grafana, MLflow, Kubeflow, Triton Inference Server, GPU optimization,
+      GPU scheduling]
+    languages: [Python, Go, Rust, Java, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '7726466'
+  extracted_at: '2026-02-05T11:22:36.593130'

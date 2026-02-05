@@ -1,0 +1,59 @@
+company:
+  name: Howden Re
+  stage: Public
+  focus: Global insurance group with employee ownership
+  use_cases:
+  - Enterprise-grade AI solutions for commercial insurance domain
+  - LLM-powered applications using RAG architectures and semantic search
+  - AI workflows for complex business problem solving in insurance
+  - Automated decision-making systems for insurance operations
+  - Knowledge retrieval systems using vector databases and semantic search
+position:
+  title: Principal AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on AI engineering role focused on designing
+      and implementing LLM solutions, RAG architectures, prompt
+      templates, and vector database integrations. The role
+      involves direct model development, deployment, and
+      productionisation - building AI systems rather than
+      supporting infrastructure for others.
+  responsibilities:
+  - Design and implement robust Machine Learning and AI workflows using orchestration
+    tools such as Airflow
+  - Ground LLM solutions by integrating appropriate data sources, design and develop
+    RAG architectures, and craft effective prompt templates
+  - Work with Data Platform Engineering team to build and maintain CI/CD pipelines
+    for ML and AI solutions covering model training, evaluation and deployment
+  - Design and implement model registries, versioning systems, and experiment tracking
+    to ensure full reproducibility of all model releases
+  - Build model monitoring solutions tracking performance, drift, accuracy and overall
+    solution health
+  - Apply constraints to guide model behaviour and validate AI outputs against expected
+    results
+  use_cases:
+  - Enterprise-grade AI solutions for commercial insurance domain
+  - LLM-powered applications using RAG architectures and semantic search
+  - AI workflows for complex business problem solving in insurance
+  - Automated decision-making systems for insurance operations
+  - Knowledge retrieval systems using vector databases and semantic search
+  skills:
+    genai: [LLM architectures, RAG architectures, semantic search, prompt engineering,
+      LangChain, AutoGPT, CrewAI, Model Context Protocol (MCP), agentic AI patterns,
+      multi-agent systems]
+    ml: [model training]
+    web: [RESTful APIs, API Management]
+    databases: [vector databases]
+    data: [Airflow]
+    cloud: [AzureML, Azure AI Foundry, Databricks]
+    ops: [MLOps, CI/CD, model deployment, model registries, experiment tracking, model
+        monitoring, git, testing, code review]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8342701'
+  extracted_at: '2026-02-05T12:54:37.575196'

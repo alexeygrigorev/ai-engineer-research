@@ -1,0 +1,55 @@
+company:
+  name: extend (extend.app)
+  stage: Series A
+  focus: Modern document processing platform using LLMs
+  use_cases:
+  - Document processing and extraction for enterprise workflows at scale
+  - Automated QA and confidence scoring for document analysis results
+  - Self-optimizing document processing systems that improve performance over time
+  - Multimodal document understanding combining text and layout information
+  - Mission-critical data processing for payments, real estate, and financial services
+position:
+  title: Applied AI/ML Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is an AI-first role focused on building LLM-based
+      document processing systems. The engineer will directly
+      deploy QA agents, optimizer agents, multimodal models, and
+      implement novel LLM techniques, not just supporting
+      infrastructure.
+  responsibilities:
+  - Design novel LLM techniques for increasing the complexity of use cases and data
+    streams that Extend can be applied to
+  - Monitor existing models in production, understand what's working well (and what
+    isn't), and run experiments to solve those issues
+  - Build QA agents to flag low confidence results and optimizer agents that improve
+    document performance in the background
+  - Create multimodal models for document layout awareness and novel chunking strategies
+    for handling long documents
+  - Build data pipelines and evaluate model performance while developing self-correcting
+    systems
+  - Take complete ownership over large areas of product and engineering with direct
+    relationship with customers
+  use_cases:
+  - Document processing and extraction for enterprise workflows at scale
+  - Automated QA and confidence scoring for document analysis results
+  - Self-optimizing document processing systems that improve performance over time
+  - Multimodal document understanding combining text and layout information
+  - Mission-critical data processing for payments, real estate, and financial services
+  skills:
+    genai: [LLMs, RAG, agents, multimodal models]
+    ml: [model training, fine-tuning, model evaluation]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: []
+    ops: []
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '4749439'
+  extracted_at: '2026-02-05T09:40:52.908744'

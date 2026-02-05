@@ -1,0 +1,50 @@
+company:
+  name: Plaid
+  stage: Series C+
+  focus: Financial infrastructure and data connectivity
+  use_cases:
+  - AI coding integrations for developer productivity
+  - SDLC agents that automate development lifecycle tasks
+  - Internal tools powered by AI for engineering operations
+  - Delegation of lower-leverage work to AI agents
+  - Developer workflows enhanced with AI-powered automation
+position:
+  title: Senior Software Engineer - AI & Intelligent Tooling
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role builds internal platforms and developer tooling
+      that enables AI adoption at Plaid, rather than building AI
+      models or agents directly. The focus is on integrating AI-
+      powered tools into SDLC workflows, operating internal
+      platforms, and improving developer experience - all of which
+      support AI work without hands-on model development.
+  responsibilities:
+  - Design, build, and operate internal tools and services used by Plaid's engineers
+  - Integrate AI-powered tools and workflows into core engineering processes
+  - Improve reliability, usability, and performance of existing internal platforms
+  - Own systems end-to-end, including production support and iterative improvement
+  - Collaborate with teammates and stakeholders to deliver practical, high-impact
+    solutions
+  use_cases:
+  - AI coding integrations for developer productivity
+  - SDLC agents that automate development lifecycle tasks
+  - Internal tools powered by AI for engineering operations
+  - Delegation of lower-leverage work to AI agents
+  - Developer workflows enhanced with AI-powered automation
+  skills:
+    genai: [AI-powered developer tools, agentic workflows]
+    ml: []
+    web: []
+    databases: []
+    data: []
+    cloud: [AWS, GCP, cloud infrastructure]
+    ops: [CI/CD, Docker, Kubernetes, observability tooling, infrastructure]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [internal platforms]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8151143'
+  extracted_at: '2026-02-05T12:05:47.098981'

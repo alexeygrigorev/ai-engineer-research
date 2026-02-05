@@ -1,0 +1,58 @@
+company:
+  name: Poggio Labs
+  stage: Series A
+  focus: AI-powered account intelligence for revenue teams
+  use_cases:
+  - Provide deep AI-powered account intelligence for revenue organizations
+  - Arm GTM teams with tailored points of view (POVs) to help sellers outperform competitors
+  - Build agents and agent skills on top of context engine to provide out-of-the-box
+    value to GTM teams
+  - Integrate with CRM solutions, data warehouses, and other systems for always-current
+    customer views
+  - Help enterprise revenue leaders prioritize accounts and scale sales excellence
+position:
+  title: Senior AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building AI agents and agent skills on
+      top of a context engine, incorporating modern agent
+      protocols, context management, and foundation model
+      capabilities. The engineer is directly implementing AI-
+      powered features (agents, POVs) rather than just supporting
+      infrastructure for AI teams.
+  responsibilities:
+  - Collaborate with senior engineers, designers, CTO and CEO to understand user needs
+    and prioritize product initiatives
+  - Build the Poggio product leading user-impacting platform capabilities from idea
+    through release and impact measurement
+  - Incorporate modern agent protocols, context management, and foundation model capabilities
+    to deliver customer value
+  - Integrate systems and deliver value through both seller-focused web application
+    and headless API consumption
+  - Maintain high quality bar for systems design, correctness, and testing while owning
+    features post-delivery
+  use_cases:
+  - Provide deep AI-powered account intelligence for revenue organizations
+  - Arm GTM teams with tailored points of view (POVs) to help sellers outperform competitors
+  - Build agents and agent skills on top of context engine to provide out-of-the-box
+    value to GTM teams
+  - Integrate with CRM solutions, data warehouses, and other systems for always-current
+    customer views
+  - Help enterprise revenue leaders prioritize accounts and scale sales excellence
+  skills:
+    genai: [agent protocols, context management, foundation models]
+    ml: []
+    web: [API design, API integration]
+    databases: [NoSQL databases]
+    data: []
+    cloud: []
+    ops: [Terraform]
+    languages: [Python, SQL]
+    domains: []
+    other: [systems design]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8093818'
+  extracted_at: '2026-02-05T12:00:54.874426'

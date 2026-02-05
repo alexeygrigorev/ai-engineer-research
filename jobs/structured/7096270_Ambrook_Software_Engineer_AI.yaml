@@ -1,0 +1,62 @@
+company:
+  name: Ambrook
+  stage: Series A
+  focus: |-
+    Financial infrastructure for agriculture and industrial
+    businesses
+  use_cases:
+  - Cleaning and categorizing messy financial transactions from unstructured sources
+  - Parsing and extracting data from scanned PDFs and other paper financial documents
+  - Summarizing financial documents to surface key insights for farmers and ranchers
+  - Inbox triage and processing of text-heavy communications
+  - Automated bookkeeping and financial analysis for agricultural businesses
+  - Hybrid AI + rule-based systems for high-stakes financial workflows
+position:
+  title: Software Engineer, AI
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves building LLM-powered features for
+      production including document parsing, transaction
+      categorization, and financial workflows. The engineer will
+      develop intelligent systems using LLMs, NLP, and implement
+      evaluation pipelines and prompt management - directly
+      working on AI systems rather than just supporting them.
+  responsibilities:
+  - Develop intelligent systems and tools using LLMs, NLP, and heuristics to streamline
+    bookkeeping, inbox triage, and financial workflows
+  - Build and ship AI-powered features such as parsing paper documents and categorizing
+    financial transactions
+  - Establish foundations for evaluation pipelines, prompt management, and feedback
+    loops to improve LLM performance
+  - Implement systems for document extraction and financial transaction tagging using
+    both heuristics and model-based approaches
+  - Architect and scale systems for automated bookkeeping using hybrid AI and rule-based
+    approaches
+  - Contribute to AI strategy including task automation decisions, confidence measurement,
+    and human-in-the-loop design
+  - Build internal tooling for prompt iteration, embedding search, labeling, and retraining
+  use_cases:
+  - Cleaning and categorizing messy financial transactions from unstructured sources
+  - Parsing and extracting data from scanned PDFs and other paper financial documents
+  - Summarizing financial documents to surface key insights for farmers and ranchers
+  - Inbox triage and processing of text-heavy communications
+  - Automated bookkeeping and financial analysis for agricultural businesses
+  - Hybrid AI + rule-based systems for high-stakes financial workflows
+  skills:
+    genai: [LLMs, NLP, prompt engineering, OpenAI SDK, LangChain, embeddings, vector
+        search]
+    ml: [fine-tuning]
+    web: [React, Next.js]
+    databases: [Pinecone, BigQuery, Firestore]
+    data: []
+    cloud: [Google Cloud]
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7096270'
+  extracted_at: '2026-02-05T10:16:29.283213'

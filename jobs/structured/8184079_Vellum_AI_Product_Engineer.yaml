@@ -1,0 +1,52 @@
+company:
+  name: Vellum
+  stage: Series A
+  focus: AI agent platform for non-technical users
+  use_cases:
+  - Enabling non-technical users (Sales, Ops, Marketing, Finance) to create AI agents
+    through natural language descriptions
+  - Automating manual workflows like Slack thread management and data entry
+  - Generating reliable, working agents in seconds to improve productivity across
+    business functions
+  - Providing enterprise-grade AI tools that go beyond generic ChatGPT responses
+position:
+  title: AI Product Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role requires deep experience building coding agents
+      and complex AI systems, which involves directly implementing
+      AI agents and AI-powered tools. The engineer will build a
+      platform for generating reliable, working agents, making
+      this hands-on work with AI systems rather than supporting
+      infrastructure.
+  responsibilities:
+  - Build AI agents and complex AI systems that solve real-world problems
+  - Develop a platform where users can describe goals in plain language to generate
+    working agents
+  - Apply AI engineering techniques to create reliable, production-ready agent solutions
+  - Ship high-quality AI tools rapidly in a fast-paced, competitive market
+  use_cases:
+  - Enabling non-technical users (Sales, Ops, Marketing, Finance) to create AI agents
+    through natural language descriptions
+  - Automating manual workflows like Slack thread management and data entry
+  - Generating reliable, working agents in seconds to improve productivity across
+    business functions
+  - Providing enterprise-grade AI tools that go beyond generic ChatGPT responses
+  skills:
+    genai: [AI agents, coding agents, LangChain, OpenAI API, Anthropic API, prompt
+        engineering, RAG, function calling]
+    ml: []
+    web: [REST APIs]
+    databases: [PostgreSQL, Redis]
+    data: []
+    cloud: [AWS]
+    ops: [Docker]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8184079'
+  extracted_at: '2026-02-05T12:09:56.561910'

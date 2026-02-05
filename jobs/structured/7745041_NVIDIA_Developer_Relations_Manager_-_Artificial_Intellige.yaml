@@ -1,0 +1,57 @@
+company:
+  name: NVIDIA
+  stage: Public
+  focus: GPU computing and AI hardware/software
+  use_cases:
+  - GPU acceleration for deep learning and AI applications on cloud service provider
+    platforms
+  - Integration of NVIDIA GPU acceleration into CSP applications and services
+  - High-performance computing and database analytics workloads
+  - Generative AI and machine learning platform optimization
+  - Professional visualization and HPC applications accelerated by GPUs
+position:
+  title: Developer Relations Manager - Artificial Intelligence
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Developer Relations Manager role focused on
+      partnerships, advocacy, and business development rather than
+      hands-on model building or deployment. The role involves
+      enabling GPU acceleration for AI applications and managing
+      engineering partnerships, not directly building, training,
+      or deploying models.
+  responsibilities:
+  - Lead and develop NVIDIA developer strategy with multi-functional teams including
+    Product, Engineering, Applied Research, Marketing, and Sales
+  - Develop understanding and prioritization of services and applications benefiting
+    from GPU acceleration in AI/Gen AI space
+  - Establish strategic relationships with Partner/CSP engineering leads and developers
+    to ensure their success
+  - Understand application workflow and architectural requirements to enable GPU-based
+    workload acceleration and integrate into CSP applications
+  - Create strategic partnerships and build community by attending conferences, hosting
+    technical meetups, and speaking at industry events
+  - Collect requirements from developers and showcase NVIDIA GPU accelerated solutions
+  use_cases:
+  - GPU acceleration for deep learning and AI applications on cloud service provider
+    platforms
+  - Integration of NVIDIA GPU acceleration into CSP applications and services
+  - High-performance computing and database analytics workloads
+  - Generative AI and machine learning platform optimization
+  - Professional visualization and HPC applications accelerated by GPUs
+  skills:
+    genai: [Generative AI]
+    ml: [machine learning, deep learning]
+    web: []
+    databases: []
+    data: [Data Analytics, database analytics]
+    cloud: [Cloud, Scalable Applications, AI platforms]
+    ops: [GPU acceleration]
+    languages: []
+    domains: [high-performance computing]
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7745041'
+  extracted_at: '2026-02-05T11:24:50.618456'

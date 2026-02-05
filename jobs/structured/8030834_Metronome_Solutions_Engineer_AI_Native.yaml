@@ -1,0 +1,68 @@
+company:
+  name: Metronome
+  stage: Series B+
+  focus: Usage-based billing platform for software companies
+  use_cases:
+  - Usage-based billing implementation for AI-first companies launching products on
+    tight timelines
+  - Monetization strategy and pricing model design for LLM providers and generative
+    AI companies
+  - Billing infrastructure for AI companies offering consumption-based products across
+    image, video, audio, and tooling markets
+  - Integration of billing platforms with customer systems for tracking and invoicing
+    AI usage metrics
+  - Streamlined quote-to-cash workflows for high-velocity AI companies needing rapid
+    product launches
+position:
+  title: Solutions Engineer, AI Native
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a Solutions Engineer role at a billing platform
+      company that sells TO AI companies rather than building AI
+      systems. The role focuses on technical sales,
+      implementation, and customer success - helping AI companies
+      implement usage-based billing infrastructure through demos,
+      POCs, and integrations, not building or deploying AI models.
+  responsibilities:
+  - Own the technical sales cycle from discovery through technical win, driving deals
+    with AI-first companies
+  - Conduct efficient discovery to understand billing challenges, product launch timelines,
+    and technical requirements
+  - Run streamlined demos tailored to technical founders and product/engineering teams
+    at AI companies
+  - Provide hands-on implementation support including code snippets, configuration
+    examples, and integration guides
+  - Design pragmatic upstream/downstream integrations into prospect systems to accelerate
+    time-to-value
+  - Build deep AI market expertise and provide consultative guidance on pricing and
+    packaging strategies for LLM providers and generative AI companies
+  - Develop relationships with technical stakeholders across engineering, product,
+    and finance organizations at AI companies
+  use_cases:
+  - Usage-based billing implementation for AI-first companies launching products on
+    tight timelines
+  - Monetization strategy and pricing model design for LLM providers and generative
+    AI companies
+  - Billing infrastructure for AI companies offering consumption-based products across
+    image, video, audio, and tooling markets
+  - Integration of billing platforms with customer systems for tracking and invoicing
+    AI usage metrics
+  - Streamlined quote-to-cash workflows for high-velocity AI companies needing rapid
+    product launches
+  skills:
+    genai: [LangChain]
+    ml: []
+    web: [Vercel]
+    databases: []
+    data: []
+    cloud: []
+    ops: []
+    languages: [Python, TypeScript]
+    domains: []
+    other: [Salesforce, NetSuite, CPQ tools, Cursor]
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '8030834'
+  extracted_at: '2026-02-05T11:51:32.252405'

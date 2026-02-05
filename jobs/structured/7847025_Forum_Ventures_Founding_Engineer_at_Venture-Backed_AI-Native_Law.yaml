@@ -1,0 +1,60 @@
+company:
+  name: Forum Ventures
+  stage: Venture-backed (Forum Ventures)
+  focus: AI-native hybrid law firm for startups
+  use_cases:
+  - AI-powered contract review and automated redlining
+  - Legal document summarization and risk scoring
+  - Context-aware AI that learns client business preferences and risk appetite
+  - Smart drafting and document automation for legal workflows
+  - Workflow automation for intake, tasking, and approvals with attorney validation
+  - Legal hub for managing requests, documents, alerts, and lawyer interactions
+position:
+  title: Founding Engineer at Venture-Backed, AI-Native Law Firm
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The Founding Engineer is responsible for building, fine-
+      tuning, deploying, and evaluating LLMs for contract
+      analysis, summarization, redlining, and risk scoring. The
+      role involves hands-on work with RAG systems, embeddings,
+      and model evaluation - directly working ON AI systems rather
+      than just supporting them.
+  responsibilities:
+  - Architect the end-to-end technology stack including LLM infrastructure, workflow
+    engine, database design, and API integrations
+  - Own evaluation, fine-tuning, and deployment of LLMs for contract analysis, summarization,
+    redlining, and risk scoring
+  - Build core AI features including contract review, context-aware AI, smart drafting,
+    and workflow automation
+  - Design human-in-the-loop systems that blend AI speed with attorney validation
+  - Set up secure infrastructure meeting SOC-2 and privacy standards with proper access
+    controls and audit trails
+  - Hire and lead a world-class engineering team including frontend, backend, and
+    ML/AI engineers
+  - Work directly with early customers to validate and iterate on features in real
+    time
+  use_cases:
+  - AI-powered contract review and automated redlining
+  - Legal document summarization and risk scoring
+  - Context-aware AI that learns client business preferences and risk appetite
+  - Smart drafting and document automation for legal workflows
+  - Workflow automation for intake, tasking, and approvals with attorney validation
+  - Legal hub for managing requests, documents, alerts, and lawyer interactions
+  skills:
+    genai: [LLM fine-tuning, RAG, embeddings, LLM evaluation, LLM deployment, human-in-the-loop
+        systems]
+    ml: []
+    web: [REST APIs, Slack API, Docusign API, full-stack development]
+    databases: [Postgres, MongoDB, Redis]
+    data: []
+    cloud: [SOC-2 compliance]
+    ops: [Docker, Kubernetes, CI/CD, security and access controls, audit trails]
+    languages: [Python, TypeScript]
+    domains: []
+    other: [technical leadership, hiring and team building]
+  is_customer_facing: true
+  is_management: true
+meta:
+  job_id: '7847025'
+  extracted_at: '2026-02-05T11:35:33.570397'

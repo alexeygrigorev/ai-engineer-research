@@ -1,0 +1,55 @@
+company:
+  name: Capital
+  stage: null
+  focus: Leading trading platform with digital assets
+  use_cases:
+  - LLM-powered automation and orchestration for trading platform workflows
+  - Retrieval-augmented generation for document search and information access
+  - Rapid prototyping of AI applications for stakeholder validation
+  - AI microservices integration into existing trading platform infrastructure
+position:
+  title: AI Product & Research Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work building and deploying LLM
+      applications - prompt engineering, fine-tuning models,
+      implementing RAG workflows, and building AI microservices.
+      The engineer is directly working ON AI systems (LLMs, vector
+      databases, model serving) rather than supporting others who
+      do.
+  responsibilities:
+  - Craft, iterate, and optimize prompts for LLM APIs and build multi-step chains
+    using LangChain or LlamaIndex
+  - Implement retrieval-augmented workflows with document ingestion, embedding indexing,
+    and similarity search
+  - Create interactive AI demos and proofs-of-concept using Streamlit, Gradio, or
+    Next.js
+  - Develop and maintain AI microservices using Docker, Kubernetes, and FastAPI for
+    model serving
+  - Implement CI/CD pipelines, experiment tracking, and model monitoring for production
+    workflows
+  - Participate in code reviews, architectural discussions, and sprint planning to
+    deliver features end-to-end
+  use_cases:
+  - LLM-powered automation and orchestration for trading platform workflows
+  - Retrieval-augmented generation for document search and information access
+  - Rapid prototyping of AI applications for stakeholder validation
+  - AI microservices integration into existing trading platform infrastructure
+  skills:
+    genai: [OpenAI, Anthropic, Cohere, LangChain, LlamaIndex, Hugging Face, prompt
+        engineering, RAG]
+    ml: [fine-tuning, embeddings]
+    web: [FastAPI, Next.js, Streamlit, Gradio]
+    databases: [Pinecone, FAISS, Weaviate, PostgreSQL, MongoDB, Redis]
+    data: [Apache Airflow]
+    cloud: []
+    ops: [Docker, Kubernetes, MLflow, model serving]
+    languages: [Python, TypeScript]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '6659050'
+  extracted_at: '2026-02-05T09:46:50.896213'

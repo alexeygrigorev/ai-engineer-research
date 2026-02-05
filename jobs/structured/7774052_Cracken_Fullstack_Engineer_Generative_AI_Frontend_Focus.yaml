@@ -1,0 +1,51 @@
+company:
+  name: Cracken
+  stage: Seed
+  focus: AI Agent for cybersecurity assessments
+  use_cases:
+  - AI copilot for scaling cyber assessments for enterprises and governments
+  - Agentic AI system for cybersecurity with human-in-the-loop
+  - Automated cybersecurity evaluation and monitoring
+  - Real-time AI-powered security analysis and response
+position:
+  title: Fullstack Engineer, Generative AI (Frontend Focus)
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a frontend-focused Fullstack Engineer role that
+      builds UI components and integrates AI features into front-
+      end applications. While the role involves knowledge of AI
+      agents and RAG frameworks, the primary work is implementing
+      scalable frontend solutions and integrating AI-powered
+      features rather than directly building, training, or
+      deploying models.
+  responsibilities:
+  - Hands-on engineering and testing of the product in various capacities
+  - Develop and maintain advanced frontend components with exceptional delivery standards
+  - Implement scalable and secure frontend solutions for both SaaS and on-premise
+    platforms
+  - Integrate AI-powered features into front-end applications including model deployment,
+    API integration, and real-time inference workflows
+  - Stay updated with latest AI and AI Agents and provide relevant insights to the
+    team
+  use_cases:
+  - AI copilot for scaling cyber assessments for enterprises and governments
+  - Agentic AI system for cybersecurity with human-in-the-loop
+  - Automated cybersecurity evaluation and monitoring
+  - Real-time AI-powered security analysis and response
+  skills:
+    genai: [LangChain, Haystack, LlamaIndex, RAG, AI Agents]
+    ml: []
+    web: [ReactJS, CSS, HTML, API integration]
+    databases: []
+    data: []
+    cloud: []
+    ops: [model deployment, real-time inference]
+    languages: [JavaScript, Python]
+    domains: []
+    other: []
+  is_customer_facing: true
+  is_management: false
+meta:
+  job_id: '7774052'
+  extracted_at: '2026-02-05T11:27:00.718831'

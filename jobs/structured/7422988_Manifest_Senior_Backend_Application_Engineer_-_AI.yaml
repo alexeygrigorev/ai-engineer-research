@@ -1,0 +1,55 @@
+company:
+  name: Manifest
+  stage: early stage startup
+  focus: AI-driven platform for software visibility and security
+  use_cases:
+  - Real-time AI applications and intelligent APIs
+  - Large-scale model inference pipelines
+  - Automated decision-making workflows
+  - Advanced analytics and machine learning workflows
+  - Software visibility and security insights
+position:
+  title: Senior Backend Application Engineer - AI
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This is a backend engineering role focused on building
+      infrastructure and data pipelines that support AI/ML
+      workloads, not on building, training, or deploying models
+      directly. The role partners with AI/ML teams to bring models
+      into production, but the hands-on work is on backend
+      systems, APIs, and data processing that enable AI
+      capabilities.
+  responsibilities:
+  - Architect and implement AI-native backend infrastructure including scalable data
+    pipelines and intelligent services
+  - Partner with AI/ML teams to bring machine learning models and LLMs into production
+    at scale
+  - Build infrastructure that powers real-time AI applications and intelligent APIs
+  - Develop high-throughput systems that support AI/ML workloads and model inference
+    pipelines
+  - Design modular, scalable architectures that support AI system evolution over time
+  - Contribute to performance monitoring, testing, and reliability best practices
+    in AI systems
+  use_cases:
+  - Real-time AI applications and intelligent APIs
+  - Large-scale model inference pipelines
+  - Automated decision-making workflows
+  - Advanced analytics and machine learning workflows
+  - Software visibility and security insights
+  skills:
+    genai: [LLMs, generative AI, LangChain]
+    ml: [Hugging Face, fine-tuning]
+    web: [API design, backend architecture]
+    databases: [NoSQL databases]
+    data: [distributed systems, data pipelines, Ray]
+    cloud: []
+    ops: [model inference, performance monitoring]
+    languages: [Python, TypeScript, Go, SQL]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7422988'
+  extracted_at: '2026-02-05T10:50:51.190663'

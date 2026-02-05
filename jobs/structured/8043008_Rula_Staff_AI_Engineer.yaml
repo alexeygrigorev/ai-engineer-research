@@ -1,0 +1,58 @@
+company:
+  name: Rula
+  stage: Series B
+  focus: Mental health platform with AI-assisted therapy
+  use_cases:
+  - AI-assisted therapy that supports providers and helps patients get the right care
+    faster
+  - Provider decision support systems to enhance clinical decision-making
+  - Patient conversational AI interfaces for mental healthcare interactions
+  - Clinical operations automation using generative AI
+  - Human-in-the-loop clinical decision support with AI alignment
+position:
+  title: Staff AI Engineer
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves building production-grade Generative AI
+      systems including RAG pipelines, multi-agent orchestration,
+      LLM integrations, and vector search. The engineer will
+      architect core technical systems and work directly on
+      training, inference, evaluation, and safeguards for AI
+      features at scale.
+  responsibilities:
+  - Architect and scale production-grade Generative AI systems powering patient conversations,
+    provider decision support, and clinical operations
+  - Build and implement RAG pipelines, multi-agent orchestration, LLM integrations,
+    vector search, and evaluation frameworks
+  - Design systems that are safe, observable, and built for scale in a regulated healthcare
+    environment
+  - Work across AI research, platform engineering, product, and clinical teams to
+    deliver AI solutions
+  - Set technical direction, mentor other engineers, and help shape Rula's AI roadmap
+  - Implement AI safeguards, evaluation pipelines, and observability systems for continuous
+    model improvement
+  use_cases:
+  - AI-assisted therapy that supports providers and helps patients get the right care
+    faster
+  - Provider decision support systems to enhance clinical decision-making
+  - Patient conversational AI interfaces for mental healthcare interactions
+  - Clinical operations automation using generative AI
+  - Human-in-the-loop clinical decision support with AI alignment
+  skills:
+    genai: [RAG, function calling, agents, memory routing, LangChain, LlamaIndex,
+      DSPy, Haystack, OpenAI, Anthropic, Gemini]
+    ml: [model training]
+    web: []
+    databases: [Pinecone, Weaviate, FAISS, Milvus]
+    data: [data pipelines]
+    cloud: [Bedrock, AWS, GCP]
+    ops: [inference, AIOps]
+    languages: [Python, JavaScript, TypeScript, Java, Go]
+    domains: [HIPAA]
+    other: [GDPR, distributed systems]
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8043008'
+  extracted_at: '2026-02-05T11:52:52.585891'

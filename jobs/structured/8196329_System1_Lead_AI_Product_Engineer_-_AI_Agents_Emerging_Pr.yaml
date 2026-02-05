@@ -1,0 +1,62 @@
+company:
+  name: System1
+  stage: Public
+  focus: AI Agent-powered consumer products
+  use_cases:
+  - Multi-agent systems that solve real user problems through coordinated task execution
+    across tools and services
+  - Agentic coding workflows where agents autonomously write, modify, validate, and
+    iterate on code within guardrails
+  - Consumer products powered by AI agents that deliver value through autonomous task
+    planning and execution
+  - Long-running, stateful agent workflows that require sophisticated orchestration
+    and failure recovery
+position:
+  title: Lead AI Product Engineer - AI Agents & Emerging Products
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This is a hands-on engineering role focused on building
+      multi-agent systems, agentic coding workflows, and LLM-
+      powered applications in production. The engineer will
+      directly design, implement, and deploy AI agent
+      architectures including orchestration layers, RAG systems,
+      and agent evaluation pipelines.
+  responsibilities:
+  - Build and operate multi-agent systems that plan, coordinate, and execute tasks
+    across multiple tools and services at scale
+  - Implement agentic coding workflows where agents generate code, run tests, create
+    diffs or PRs, and iterate autonomously within guardrails
+  - Design agent orchestration layers including planners, supervisors, and evaluators
+    to manage task decomposition, retries, and long-running execution
+  - Instrument and monitor agent behavior across success, failure, latency, cost,
+    and human overrides
+  - Collaborate with Product & Design to translate user problems into shippable agent
+    workflows and iterate based on real-world feedback
+  - Own core architecture, reliability, and performance of AI agent systems from early
+    prototypes through production
+  use_cases:
+  - Multi-agent systems that solve real user problems through coordinated task execution
+    across tools and services
+  - Agentic coding workflows where agents autonomously write, modify, validate, and
+    iterate on code within guardrails
+  - Consumer products powered by AI agents that deliver value through autonomous task
+    planning and execution
+  - Long-running, stateful agent workflows that require sophisticated orchestration
+    and failure recovery
+  skills:
+    genai: [LangChain, agents, RAG, prompt engineering, function calling, MCP]
+    ml: []
+    web: [API design]
+    databases: [vector databases]
+    data: []
+    cloud: [AWS, GCP]
+    ops: [Docker, CI/CD, distributed systems, queues, pub/sub]
+    languages: [Python, Node.js]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8196329'
+  extracted_at: '2026-02-05T12:12:19.867852'

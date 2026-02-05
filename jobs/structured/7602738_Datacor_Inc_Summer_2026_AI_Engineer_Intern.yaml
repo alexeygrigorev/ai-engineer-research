@@ -1,0 +1,51 @@
+company:
+  name: Datacor, Inc.
+  stage: null
+  focus: ERP, CRM, and process manufacturing software
+  use_cases:
+  - Develop intelligent applications to optimize process manufacturing operations
+  - Create generative AI applications using LLMs to enhance user efficiency
+  - Build data pipelines and deploy AI features for ERP, CRM, and asset tracking systems
+  - Implement AI solutions that help customers make products more safely, cost effectively,
+    and efficiently
+position:
+  title: Summer 2026 AI Engineer Intern
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      This role involves hands-on work with generative AI and
+      LLMs, including implementing, fine-tuning, and deploying AI
+      models. The responsibilities explicitly mention
+      experimenting with LLMs, building generative applications,
+      and taking projects from ideation to production deployment.
+  responsibilities:
+  - Collaborate with stakeholders to identify new AI opportunities and create intelligent
+    AI applications
+  - Lead MVP development using a test-and-learn approach with cross-functional teams
+  - Iterate from problem framing to prototyping and deploying production-grade solutions
+  - Deliver reliable, scalable AI features in production
+  - Build prototypes and develop data pipelines for deployment
+  - Experiment with generative LLMs to create and enhance generative applications
+    using prompts and user feedback
+  use_cases:
+  - Develop intelligent applications to optimize process manufacturing operations
+  - Create generative AI applications using LLMs to enhance user efficiency
+  - Build data pipelines and deploy AI features for ERP, CRM, and asset tracking systems
+  - Implement AI solutions that help customers make products more safely, cost effectively,
+    and efficiently
+  skills:
+    genai: [LLMs, prompt engineering, embeddings, GPT, Transformer models]
+    ml: [deep learning, machine learning, fine-tuning]
+    web: []
+    databases: []
+    data: [data pipelines]
+    cloud: [AWS, Google Cloud]
+    ops: []
+    languages: [Python, C++, Java]
+    domains: [NLP]
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '7602738'
+  extracted_at: '2026-02-05T11:12:54.979213'

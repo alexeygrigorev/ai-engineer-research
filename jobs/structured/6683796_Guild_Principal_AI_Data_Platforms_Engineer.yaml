@@ -1,0 +1,64 @@
+company:
+  name: Guild
+  stage: Series B+
+  focus: Workforce education and talent development platform
+  use_cases:
+  - Powering analytics and operational insights for business decision-making
+  - Enabling data-driven talent identification, development, and mobilization for
+    employer partners
+  - Supporting workforce education and career coaching platforms with actionable talent
+    insights
+  - Providing data infrastructure for real-time learning and career support applications
+  - Facilitating employer access to internal talent data and skills development tracking
+position:
+  title: Principal AI & Data Platforms Engineer
+  ai_type:
+    type: ai-support
+    reasoning: |-
+      This role is focused on data infrastructure, pipelines, and
+      platform engineering rather than building, training, or
+      deploying AI/ML models. While the role mentions MLFlow and
+      Databricks, these are used for platform/mlops infrastructure
+      support rather than hands-on model development. The role is
+      clearly about architecting data solutions, building data
+      pipelines, and supporting analytics workflows for others.
+  responsibilities:
+  - Lead the architecture, design, and development of sophisticated, highly scalable
+    data pipelines leveraging tools such as Fivetran, dbt, AWS Glue, Airflow, custom
+    Python applications, Snowflake, Databricks, and cloud storage solutions
+  - Provide technical leadership in integrating and transforming complex data sets
+    from diverse sources including AuroraDB, Snowflake, Postgres, MySQL, and DynamoDB
+  - Drive collaboration with analytics, engineering, and commercial stakeholders to
+    design and refine data models and marts that empower high-impact decision-making
+  - Champion and implement rigorous data quality, validation, observability, and reliability
+    standards across data workflows
+  - Mentor and upskill team members, influencing the development of Guild's data engineering
+    practices and standards
+  - Serve as a trusted advisor, guiding enterprise-wide data strategy, prototyping
+    key data initiatives, and ensuring alignment of data engineering practices with
+    long-term business and technical objectives
+  use_cases:
+  - Powering analytics and operational insights for business decision-making
+  - Enabling data-driven talent identification, development, and mobilization for
+    employer partners
+  - Supporting workforce education and career coaching platforms with actionable talent
+    insights
+  - Providing data infrastructure for real-time learning and career support applications
+  - Facilitating employer access to internal talent data and skills development tracking
+  skills:
+    genai: []
+    ml: []
+    web: []
+    databases: [SQL, Snowflake, Postgres, MySQL, AuroraDB, DynamoDB]
+    data: [Change Data Capture (CDC), Databricks, dbt, Fivetran, AWS Glue, Airflow,
+      ETL/ELT, Data modeling]
+    cloud: [S3]
+    ops: [MLFlow, Terraform, Git, CI/CD]
+    languages: [Python]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: true
+meta:
+  job_id: '6683796'
+  extracted_at: '2026-02-05T09:47:01.815994'

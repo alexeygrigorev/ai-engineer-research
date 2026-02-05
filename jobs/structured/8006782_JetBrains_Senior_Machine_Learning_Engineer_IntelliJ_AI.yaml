@@ -1,0 +1,60 @@
+company:
+  name: JetBrains
+  stage: Public
+  focus: Developer tools and IDEs with AI features
+  use_cases:
+  - AI assistance for the entire software development lifecycle within JetBrains IDEs
+  - Developer workflow acceleration through advanced AI features embedded in IDEs
+  - Context-aware pipelines for code completion and generation tasks
+  - Agent-based systems for multi-step reasoning in development environments
+  - Domain-specific AI capabilities tailored to different JetBrains product teams
+position:
+  title: Senior Machine Learning Engineer (IntelliJ AI)
+  ai_type:
+    type: ai-first
+    reasoning: |-
+      The role involves direct work on LLMs and agent
+      architectures, including building and maintaining models
+      (re-rankers, classifiers, embeddings), fine-tuning
+      lightweight models, designing evaluation frameworks for AI
+      features, and diagnosing model performance issues. This is
+      hands-on work building and optimizing AI systems, not just
+      supporting infrastructure.
+  responsibilities:
+  - Design and drive evaluation frameworks for AI features, including metrics, experiments,
+    and agent trace analysis
+  - Diagnose model performance issues such as prompt drift, context mismatches, and
+    latency/quality trade-offs
+  - Experiment with contexts and lightweight models to continuously develop the ML
+    system
+  - Act as ML liaison for product teams across JetBrains, adapting and scaling AI
+    capabilities
+  - Build and maintain small helper models including re-rankers, classifiers, and
+    embedding models
+  - Collaborate with ML, product, engineering, and analytic teams to deliver improvements
+    and monitor production impact
+  - Stay current with research in LLMs, agents, and evaluation frameworks
+  - Mentor junior engineers and shape team culture around experimentation and evaluation
+  use_cases:
+  - AI assistance for the entire software development lifecycle within JetBrains IDEs
+  - Developer workflow acceleration through advanced AI features embedded in IDEs
+  - Context-aware pipelines for code completion and generation tasks
+  - Agent-based systems for multi-step reasoning in development environments
+  - Domain-specific AI capabilities tailored to different JetBrains product teams
+  skills:
+    genai: [LLMs, agent architectures, agents, LLM evaluation, context orchestration,
+      RAG, prompt engineering]
+    ml: [fine-tuning, model training, embedding models, re-rankers, classifiers]
+    web: []
+    databases: []
+    data: [experimentation]
+    cloud: []
+    ops: [evaluation frameworks]
+    languages: [Python, Kotlin]
+    domains: []
+    other: []
+  is_customer_facing: false
+  is_management: false
+meta:
+  job_id: '8006782'
+  extracted_at: '2026-02-05T11:48:22.051084'
